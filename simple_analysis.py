@@ -57,7 +57,7 @@ def dump_basic_statistics(chat_data, id_to_shared):
             for event in events:
                 if event['action'] == "message":
                     msg = event['data']
-                    results[case]['total_words'] += len(msg.split(" "))
+                    results[case]['total_words'] += len(word_tokenize(msg))
                     vocab.update([w.lower() for w in word_tokenize(msg)])
                     results[case]['total_turns'] += 1
 
@@ -67,9 +67,10 @@ def dump_basic_statistics(chat_data, id_to_shared):
         print("total dialogs: {}".format(results[case]['total']))
         total_dialogues += results[case]['total']
         if results[case]['total'] <= 0: continue
-        print("success rate: {}".format(float(results[case]['success']) / results[case]['total']))
-        print("average words: {}".format(float(results[case]['total_words']) / results[case]['total']))
-        print("average turns: {}".format(float(results[case]['total_turns']) / results[case]['total']))
+        print("success rate: {}".format(results[case]['success'] / results[case]['total']))
+        print("average tokens: {}".format(results[case]['total_words'] / results[case]['total']))
+        print("average turns: {}".format(results[case]['total_turns'] / results[case]['total']))
+        print("average tokens per turn: {}".format(results[case]['total_words'] / results[case]['total_turns']))
         print()
     print("total dialogues: {}".format(total_dialogues))
     print("vocabulary size: {}".format(len(vocab)))
