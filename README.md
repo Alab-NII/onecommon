@@ -9,8 +9,17 @@ In Preparation (Coming soon!)
 To create 100 scenarios with number of shared entities = 4, 5 and 6 each, run
 
 ```
-python generate_scenarios.py --num_world_each 100 --file_name 'train_scenarios.json' --convert_for_web --min_shared 4 --max_shared 6
+python generate_scenarios.py --num_world_each 100 --min_shared 4 --max_shared 6
 ```
+
+# Dataset Analysis
+
+The results of the paper can be reproduced by running
+
+```
+python simple_analysis.py --basic_statistics --count_dict --plot_selection_bias
+```
+
 
 # Visualization
 

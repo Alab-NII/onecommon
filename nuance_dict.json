@@ -1,7 +1,0 @@
-{
-    "approximation": ["almost", "approximate", "approximately", "fairly", "generally", "loosely", "nearly", "practically", "roughly", "virtually"],
-    "subtlety": ["barely", "bit", "faintly", "hardly", "marginally", "moderately", "slight", "slightly", "somewhat", "subtle", "subtly", "vaguely"],
-    "extremity": ["distinctly", "exceedingly", "exceptionally", "extraordinarily", "extraordinary", "extreme", "extremely", "immense", "immensely", "intense", "intensely", "notably", "outstandingly", "particularly", "quite", "really", "remarkably", "significant", "significantly", "super", "supreme", "supremely", "surprisingly", "tremendous", "tremendously", "truly", "very"],
-    "exactness/confidence": ["absoulte", "absoultely", "certain", "certainly", "clear", "clearly", "complete", "completely", "definite", "definitly", "direct", "directly", "evidently", "exact", "exactly", "immediate", "immediately", "obvious", "obviously", "perfect", "perfectly", "plainly", "precise", "precisely", "pure", "purely", "sure", "surely", "totally", "undeniable", "undeniablly", "undoubtedly", "unquestionably"],
-    "uncertainty": ["believe", "guess", "kinda", "may", "maybe", "might", "perhaps", "possible", "possibly", "presumably", "presume", "probable", "probably", "sorta", "supposably", "suppose", "think", {"0":"could", "1":"be"}, {"0":"kind", "1":"of"}, {"0":"sort", "1":"of"} ]
-}
