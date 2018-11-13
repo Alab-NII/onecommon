@@ -20,14 +20,17 @@ sns.set(font_scale=1.15)
 min_shared = 4
 max_shared = 6
 
+
 def rgb_to_int(color):
     return int(re.search(r"[\d]+", color).group(0))
+
 
 def get_id_to_shared(scenario_list):
     id_to_shared = {}
     for scenario in scenario_list:
         id_to_shared[scenario['uuid']] = scenario['shared']
     return id_to_shared
+
 
 def dump_basic_statistics(chat_data, id_to_shared):
     results = defaultdict(dict)
@@ -66,7 +69,8 @@ def dump_basic_statistics(chat_data, id_to_shared):
         print("-- case {} --".format(case))
         print("total dialogs: {}".format(results[case]['total']))
         total_dialogues += results[case]['total']
-        if results[case]['total'] <= 0: continue
+        if results[case]['total'] <= 0:
+            continue
         print("success rate: {}".format(results[case]['success'] / results[case]['total']))
         print("average tokens: {}".format(results[case]['total_words'] / results[case]['total']))
         print("average turns: {}".format(results[case]['total_turns'] / results[case]['total']))
@@ -77,6 +81,7 @@ def dump_basic_statistics(chat_data, id_to_shared):
     print("occupancy of top 10% frequent tokens: {}".format(sum([freq for w, freq in vocab.most_common(int(len(vocab) * 0.1))])
                                                              / sum(vocab.values())))
 
+
 def plot_selection(chat_data, id_to_shared):
     min_color = 53
     max_color = 203
@@ -86,8 +91,8 @@ def plot_selection(chat_data, id_to_shared):
     color_range = 1 + int((max_color - min_color) / color_bin)
     size_range = max_size - min_size + 1
 
-    total = np.zeros(( color_range, size_range))
-    selected = np.zeros(( color_range, size_range))
+    total = np.zeros((color_range, size_range))
+    selected = np.zeros((color_range, size_range))
 
     def _group_color(color):
         return int((rgb_to_int(color) - min_color) / color_bin)
@@ -105,7 +110,7 @@ def plot_selection(chat_data, id_to_shared):
         for chat_event in chat['events']:
             if chat_event['action'] == 'select':
                 select_id[chat_event['agent']] = chat_event['data']
-        for agent in [0,1]:
+        for agent in [0, 1]:
             for obj in chat['scenario']['kbs'][agent]:
                 if obj['id'] == select_id[agent]:
                     size = _group_size(obj['size'])
@@ -122,6 +127,7 @@ def plot_selection(chat_data, id_to_shared):
     ax.set_yticklabels(yticklabels)
     plt.tight_layout()
     plt.show()
+
 
 def count_dict(chat_data, id_to_shared, word_dict):
     results = defaultdict(dict)
@@ -174,6 +180,7 @@ def count_dict(chat_data, id_to_shared, word_dict):
         print("{}: {} ({} per 100 utterances)".format(nuance_type, count_type, 100.0 * count_type / total_turns))
         nuance_dict[nuance_type] = type_dict
 
+
 def word_cloud(chat_data):
     from wordcloud import WordCloud
 
@@ -193,26 +200,27 @@ def word_cloud(chat_data):
                 tokens += [w.lower() for w in word_tokenize(msg)]
                 text += msg
 
-    wordcloud = WordCloud(max_font_size=64, max_words=160, 
-                      width=1280, height=640,
-                      background_color="black").generate(' '.join(tokens))
+    wordcloud = WordCloud(max_font_size=64, max_words=160,
+                          width=1280, height=640,
+                          background_color="black").generate(' '.join(tokens))
     plt.figure(figsize=(16, 8))
     plt.imshow(wordcloud, interpolation="bilinear")
     plt.axis("off")
     plt.show()
 
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data', type=str, 
-                    default="data")
-    parser.add_argument('--scenario_file', type=str, 
-                    default="aaai_train_scenarios.json")
-    parser.add_argument('--scenario_file_2', type=str, 
-                    default="aaai_train_scenarios_2.json")
-    parser.add_argument('--transcript_file', type=str, 
-                    default="final_transcripts.json")
-    parser.add_argument('--nuance_dict', type=str, 
-                    default="nuance_dict.json")
+    parser.add_argument('--data', type=str,
+                        default="data")
+    parser.add_argument('--scenario_file', type=str,
+                        default="aaai_train_scenarios.json")
+    parser.add_argument('--scenario_file_2', type=str,
+                        default="aaai_train_scenarios_2.json")
+    parser.add_argument('--transcript_file', type=str,
+                        default="final_transcripts.json")
+    parser.add_argument('--nuance_dict', type=str,
+                        default="nuance_dict.json")
     # analyses to conduct
     parser.add_argument('--basic_statistics', action='store_true', default=False)
     parser.add_argument('--count_dict', action='store_true', default=False)
