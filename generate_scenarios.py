@@ -10,6 +10,7 @@ from functools import reduce
 import matplotlib.pyplot as plt
 import numpy as np
 import pdb
+from tqdm import tqdm
 
 # Entities are either agents or objects with location (x-value, y-value)
 class Entity:
@@ -91,6 +92,7 @@ def gen_world(args):
 
     for num_shared in range(args.min_shared, args.max_shared + 1):
         print(num_shared)
+        pbar = tqdm(total=args.num_world_each)
         scenarios = []
         while len(scenarios) < args.num_world_each:
             assert len(agents) == 1
@@ -133,8 +135,10 @@ def gen_world(args):
                 scenario['shared'] = num_shared
                 scenarios.append(scenario)
                 agents.pop()
+                pbar.update(1)
 
         scenario_list += scenarios
+        pbar.close()
 
     return scenario_list
 
