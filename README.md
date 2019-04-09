@@ -34,7 +34,7 @@ python transform_to_txt.py --normalize --uncorrelated
 python transform_to_txt.py --normalize --success_only
 ```
 
-Finally, you can train and test models with various configurations, e.g.
+In the `experiments` directory, you can train and test models with various configurations, e.g.
 
 ```
 python train.py \
