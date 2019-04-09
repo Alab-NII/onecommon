@@ -56,6 +56,7 @@ python train.py \
 # Results
 
 We report the results of each model with default configurations.
+
 After major refactoring, numbers are slightly different but comparable to the ones reported in the paper.
 
 || Full | Uncorrelated | Success Only |
@@ -64,11 +65,3 @@ After major refactoring, numbers are slightly different but comparable to the on
 | Context Only (RN) | 33.46 (std 0.9) | 32.44 | 35.00 |
 | Context + Dialgoue (MLP) | 35.85 (std 1.6) | 38.07 | 38.89 |
 | Context + Dialgoue (RN) | 41.50 (std 1.3) | 40.15 | 42.22 |
-
-# Visualization
-
-This figure is plotted with [word cloud generator](https://github.com/amueller/word_cloud).
-
-<p align="center">
-    <img src="figures/word_cloud.png" width="720"/>
-</p>
