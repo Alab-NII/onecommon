@@ -109,9 +109,9 @@ if __name__ == "__main__":
 			end = split_index[i+1]
 			for chat in raw_corpus[start:end]:
 				for agent in [0,1]:
-					if args.uncorrelated and agent == 1:
+					if (args.uncorrelated or args.success_only) and agent == 1:
 						continue
-					elif args.success_only and chat['outcome']['reward'] == 0:
+					if args.success_only and chat['outcome']['reward'] == 0:
 						continue
 					tokens = []
 					tokens += create_input(chat['scenario']['kbs'][agent], args)
