@@ -1,6 +1,6 @@
 # Find One In Common!
 
-Repository for "A Natural Language Corpus of Common Grounding under Continuous and Partially-Observable Context" (Udagawa et al., AAAI 2019) [paper](https://arxiv.org/abs/1907.03399)
+Repository for [A Natural Language Corpus of Common Grounding under Continuous and Partially-Observable Context]((https://arxiv.org/abs/1907.03399)) (Udagawa et al., AAAI 2019)
 
 # Generating Scenarios
 
