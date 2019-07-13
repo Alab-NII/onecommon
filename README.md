@@ -1,6 +1,6 @@
 # Find One In Common!
 
-Repository for "A Natural Language Corpus of Common Grounding under Continuous and Partially-Observable Context" (Udagawa et al., AAAI 2019)
+Repository for "A Natural Language Corpus of Common Grounding under Continuous and Partially-Observable Context" (Udagawa et al., AAAI 2019) [paper](https://arxiv.org/abs/1907.03399)
 
 # Generating Scenarios
 
@@ -65,3 +65,9 @@ After major refactoring, numbers are slightly different but comparable to the on
 | Context Only (RN) | 33.46 (std 0.9) | 32.44 | 35.00 |
 | Context + Dialgoue (MLP) | 35.85 (std 1.6) | 38.07 | 38.89 |
 | Context + Dialgoue (RN) | 41.50 (std 1.3) | 40.15 | 42.22 |
+
+# Dialogue Interface
+
+`onecommon` directory (in preparation).
+
+Overall framework is based on StanfordNLP's [cocoa framework](https://github.com/stanfordnlp/cocoa).
