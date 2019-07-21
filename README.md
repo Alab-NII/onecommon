@@ -68,6 +68,4 @@ After major refactoring, numbers are slightly different but comparable to the on
 
 # Dialogue Interface
 
-`onecommon` directory (in preparation).
-
-Overall framework is based on StanfordNLP's [cocoa framework](https://github.com/stanfordnlp/cocoa).
+Available at `onecommon` directory.
