@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Chat list</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<style>
+  .stat th {
+         padding: 0 15px 0 15px;
+  }
+</style>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script> 
+<script>
+</script>
+</head>
+<body>
+  <table class="stat">
+    <tr>
+      <th>success: {{num_success}}</th>
+      <th>fail: {{num_fail}}</th>
+    </tr>
+  </table><br>
+  <table>
+    <tr>
+      <th>Chat_id</th>
+      <th>Outcome</th>
+    </tr>
+
+	{% for i in range(num_chats) %}
+	  <tr>
+        <td><a href="{{base_url}}{{ chat_ids[i] }}" > {{ chat_ids[i] }} </a></td>
+        <td>{{ chat_outcomes[i] }}</td>
+      </tr>
+	{% endfor %}
+</table>
+
+</body>
+
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Chat list</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<style>
+  .stat th {
+         padding: 0 15px 0 15px;
+  }
+</style>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script> 
+<script>
+         function zero_active() {
+            //window.alert("{{chat_id}}");
+            $.ajax({
+               url: '{{ url_for('admin.zero_active')}}',
+               type: "get",
+               data: {
+               },
+               dataType: "json",
+               success: function(response) {
+                  $('#zero_active_result').text('Successfully zeroed active scenarios')
+               }
+            });
+         }
+        function accept_chat(chat_id) {
+            $.ajax({
+               url: '{{ url_for('admin.accept')}}',
+               type: "get",
+               data: {
+                  "chat_id": chat_id,
+                  "review_status": "-1"
+               },
+               dataType: "json"
+            });
+         }
+         function reject_chat(chat_id) {
+            $.ajax({
+               url: '{{ url_for('admin.reject')}}',
+               type: "get",
+               data: {
+                  "chat_id": chat_id,
+                  "review_status": "-1",
+                  "reject_message": ""
+               },
+               dataType: "json"
+            });
+         }
+         function hello(chat_id) {
+            window.alert(chat_id);
+         }
+</script>
+</head>
+<body>
+  <button type="button" id="zero_active" onclick="zero_active()">Zero Active Scenarios</button><p id='zero_active_result'></p> <br>
+  <table class="stat">
+    <tr>
+      <th>success: {{num_success}}</th>
+      <th>fail: {{num_fail}}</th>
+      <th>incomplete: {{num_incomplete}}</th>
+    </tr>
+  </table><br>
+  <table class="stat">
+    <tr>
+      <th>accept: {{num_accept}}</th>
+      <th>reject: {{num_reject}}</th>
+      <th>not reviewed: {{num_chats - num_accept - num_reject}}</th>
+    </tr>
+  </table><br>
+  <table>
+    <tr>
+      <th>accept</th>
+      <th>reject</th>
+      <th>Chat_id</th>
+      <th>Outcome</th>
+      <th>Review Status</th>
+      <th>Dialogue</th>
+    </tr>
+
+	{% for i in range(num_chats) %}
+	  <tr>
+        <td><button type="button" id="accept" onclick="accept_chat('{{chat_ids[i]}}')">Accept</button> <br></td>
+        <td><button type="button" id="reject" onclick="reject_chat('{{chat_ids[i]}}')">Reject</button> <br></td>
+        <td><a href="{{base_url}}{{ chat_ids[i] }}" > {{ chat_ids[i] }} </a></td>
+        <td>{{ chat_outcomes[i] }}</td>
+        <td>{{ reviewed[i] }}</td>
+        <td>{{ dialogues[i] }}</td>
+      </tr>
+	{% endfor %}
+</table>
+
+</body>
+
+</html>

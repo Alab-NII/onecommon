@@ -1,0 +1,11 @@
+{
+    "values": {
+    },
+    "attributes": [
+      {"name": "x", "value_type": "int"},
+      {"name": "y", "value_type": "int"},
+      {"name": "id", "value_type": "str", "unique": true},
+      {"name": "color", "value_type": "str"},
+      {"name": "size", "value_type": "int"}
+    ]
+}

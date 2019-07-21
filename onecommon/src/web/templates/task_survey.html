@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/survey.css')}}">
+    <title>Find One in Common!</title>
+</head>
+
+<!-- JS for maneuvering text -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type='text/javascript' src='https://s3.amazonaws.com/mturk-public/externalHIT_v1.js'></script>
+
+<script>
+
+    questionAnswers = {};
+
+    // Ensure all questions have a selected response
+    function ensureAllAnswered(){
+        coopVal = $("#cooperative").val();
+        humanVal = $("#humanlike").val();
+        comments = $("#comments").val();
+        
+        if (humanVal == null | coopVal == null){
+            return false;
+        }
+        else{
+            questionAnswers["humanlike"] = humanVal;
+            questionAnswers["cooperative"] = coopVal;
+            if(comments == null) {
+            	comments = "";
+            }
+            questionAnswers["comments"] = comments;
+            return true;
+        }
+    }
+
+    $(document).ready(function() {
+    	$.ajax({
+			url: '{{ url_for('chat.connect')}}',
+			type: "get",
+			data: {"uid": "{{ uid }}" },
+			dataType: "json"
+		});
+		
+        $("#submit").click(function() {
+            allAnswered = ensureAllAnswered()
+            if (allAnswered){
+            	response = {"uid": "{{ uid }}", "response": questionAnswers};
+                console.log(questionAnswers);
+                $.ajax({
+                url: '{{ url_for('chat.submit_survey')}}',
+                type: "POST",
+                data: JSON.stringify(response),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function(data){
+                    //alert("SUCCESS");
+                    console.log(JSON.stringify(data));
+                    disconnect();
+                    window.location.reload(true);
+                },
+                failure: function(){
+                    console.log(":(");
+                }
+                })
+            }else{
+                alert("You have not selected an answer for every question. Please do so before submitting the HIT.");
+            }
+
+        });
+        
+        function disconnect() {
+			$.ajax({
+				url: '{{ url_for('chat.disconnect')}}',
+				type: "get",
+				data: {"uid": "{{ uid }}" },
+				dataType: "json"
+			});
+		}
+    });
+
+    window.onload = function(){
+        questionAnswers["scenario_id"] = {{ scenario_id|safe|tojson}};
+        questionAnswers["dialogue_id"] = {{ dialogue_id|safe|tojson}};
+        questionAnswers["agent_id"] = {{ agent_id|safe|tojson}};
+        console.log("AGENT: " + questionAnswers["agent_id"]);
+    }
+
+</script>
+
+
+<body >
+    <div class="wrapper" >
+        <header>
+        	<h2><b>Survey</b></h2> <br>
+        	<b>Thanks for completing the chat! Before you submit this HIT, please answer the following questions about your partner in the dialogue that you just completed.</b>
+        </header>
+         
+        <br>
+        <br>
+
+        <br> <br>
+
+        <div class="q">
+            <p style="text-align:center;">How <strong>cooperative</strong> was your partner?</p> <br>
+            <form id="q_s">
+                <p style="float:left;">Not cooperative at all</p>
+                <input type="range" id="cooperative" min="1" max="5" style="width:50%; margin-left:13%" >
+                <p style="float:right;">Very cooperative</p>
+            </form>
+        </div>
+
+        <br> <br>
+
+        <div class="q">
+            <p style="text-align:center;">How <strong>human-like</strong> was your partner?</p> <br>
+            <form id="q_h">
+                <p style="float:left;">Not human-like at all</p>
+                <input type="range" id="humanlike" min="1" max="5" style="width:50%; margin-left:11%;" >
+                <p style="float:right;">Very human-like</p>
+            </form>
+        </div>
+        
+        <br> <br>
+        
+        <div class="q">
+        	<p style="text-align:center;">(optional) Please add any comments/feedback related to the dialogue below. (for e.g., comments on how we can improve this platform, why you made the above ratings, etc.)</p>
+        	<form id="q_comm">
+        	<textarea id="comments" cols="100" rows="5"></textarea>
+        	</form>
+        </div>
+
+        <br>
+
+        <br>
+
+        <div class="buttons" style="text-align:center;">
+         <button type="button" id="submit" >Submit Survey</button>
+        </div>
+
+    </div>
+
+
+</body>
+</html>

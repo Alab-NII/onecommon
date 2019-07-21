@@ -1,0 +1,415 @@
+<html>
+   <head>
+      <title>{{ title }}</title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+      <style>
+         .clearfix {
+         overflow: auto;
+         }
+         .points {
+         color: #009933;
+         }
+         div#chat_container {
+         float:left;
+         width: 40%;
+         }
+         div#info_container {
+         margin-left: 42%;
+         color:#004d00;
+         }
+         div#icon {
+         padding: 10px 100px 10px 20px;
+         display: inline-block;
+         }
+         textarea#chat {
+         width: 100%;
+         cols: 100;
+         height: 25%;
+         color:#004d00;
+         font-size:14px;
+         }
+         input#text {
+         width: 100%;
+         }
+         td {
+         padding: 0 15px 0 15px;
+         }
+         #instructions > p,li {
+         font-size:15px;
+         }
+         table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
+         content: " \25B4\25BE"
+         }
+         table.sortable {
+         color:#004d00;
+         }
+         table { 
+         border-collapse: collapse; 
+         }
+         tr:nth-child(n) { 
+         border: solid thin;
+         }
+         #clockdiv{
+         display: inline-block;
+         font-weight: bold;
+         text-align: center;
+         font-size: 18px;
+         padding: 15px 0 15px 0;
+         }
+         #clockdiv > div{
+         display: inline-block;
+         }
+         #clockdiv div > span{
+         display: inline-block;
+         }
+         #clockdiv div > .seconds{
+         margin-left:-3px;
+         }
+         button.disabled{
+         display: none;
+         }
+      </style>
+    	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+      <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script>
+      <script type="text/javascript" charset="utf-8">
+         var validCheckInterval, inboxCheckInterval;
+//         var BASE_URL = 'http://' + document.domain + ':' + location.port;
+         var selectTime = null, messageStartTime = null;
+         var messageTime = 0.0;
+         var initTime = new Date()
+         {% if not debug %}
+            var read_time = 20000; // milliseconds
+            var select_time = read_time; // milliseconds
+         {% else %}
+            var read_time = 1000;  // In peek/debug mode, skip it
+            var select_time = 0;
+         {% endif %}
+         $(document).ready(function(){
+         	$('#description').modal({backdrop: 'static', keyboard: false});
+            $('#description').modal('show');
+            //$("#instructionCollapse").click();
+            window.onbeforeunload = disconnect;
+
+            document.getElementById('modal_instruction').innerHTML = "(This window will automatically collapse and the chat will start after " + read_time/1000 +" seconds).";
+
+            var deadline = new Date(Date.parse(new Date()) + ({{ num_seconds }}) * 1000);
+
+         	$.ajax({
+                  		url: '{{ url_for('chat.connect')}}',
+                  		type: "get",
+                  		data: {"uid": "{{ uid }}" },
+                  		dataType: "json"
+            });
+         
+             $.ajax({
+                  		url: '{{ url_for('chat.join_chat')}}',
+                  		type: "get",
+                  		data: {"uid": "{{ uid }}"},
+                  		dataType: "json",
+                  		success: function(response) {
+                  			displayText(response['message']);
+                  		}
+            });
+         
+         	validCheckInterval = setInterval(pollServer, 3000);
+
+         	setTimeout(function(){
+
+                  $('#description').modal('hide')
+
+                  inboxCheckInterval = setInterval(checkInbox, 1000);
+
+         			$('#text').keypress(function(e) {
+         				var code = e.keyCode || e.which;
+         				if ($('#text').val().length == 0) {
+         				messageStartTime = Date.now() / 1000.0;
+         				}
+         			   if (code == 13) {
+         				   text = $('#text').val();
+         				   $('#text').val('');
+         				   var currentTime = Date.now() / 1000.0;
+         				   messageTime = currentTime - messageStartTime;
+         				   sendMessage(text);
+                        $("#text").attr("disabled", "disabled")
+         				   messageStartTime = null;
+         				   messageTime = 0.0;
+         			   }
+         		   });
+         	}, read_time); 
+
+         });
+         
+         function makeSelection(selected) {
+         	if(selectTime == null) {
+         		// if no selection has been made before, log selection and save selection time
+         		now = new Date();
+               console.log(now - initTime)
+               if(now - initTime > read_time + select_time) {
+                  selectTime = now;
+                  select(selected);
+               }
+         	}
+         	else {
+         		var currentTime = new Date();
+         		// check if last selection was more than 10 seconds ago; selections can only be made > 10 seconds apart.
+         		// If the last selection was made < 10 seconds ago, do nothing (no selection event is logged).
+         		if ((currentTime - selectTime) > 10000) {
+         			select(selected);
+         			selectTime = currentTime;
+         		} // otherwise do nothing
+         	}
+         }
+         /*
+         function startedTyping() {
+            $.ajax({
+                          url: '{{ url_for('chat.typing_event')}}',
+                          type: "get",
+                          data: {
+                              "uid": "{{ uid }}",
+                              "action": "started"
+                          }
+                      });
+                  }
+         
+                  function stoppedTyping() {
+                      $.ajax({
+                          url: '{{ url_for('chat.typing_event')}}',
+                          type: "get",
+                          data: {
+                              "uid": "{{ uid }}",
+                              "action": "stopped"
+                          }
+                      });
+                  }
+         */
+   
+         function displayText(message) {
+         	$('#chat').val($('#chat').val() + message + '\n');
+         	$('#chat').scrollTop($('#chat')[0].scrollHeight);
+         }
+         
+                  function displayStatus(message) {
+                      $('#status').val(message);
+                  }
+         
+         function sendMessage(message) {
+         	$.ajax({
+         		url: '{{ url_for('chat.send_message')}}',
+         		type: "get",
+         		data: {
+         			"uid": "{{ uid }}",
+         			"message": message,
+         			"time_taken": messageTime
+         		},
+         		dataType: "json",
+         		success: function(response) {
+         			displayText(response['message']);
+         		}
+         	});
+         }
+         function select(selection) {
+         	$.ajax({
+         		url: '{{ url_for('action.select_option')}}',
+         		type: "get",
+         		data: { 
+         			"uid": "{{ uid }}",
+         			"selection": selection
+         		},
+         		dataType: "json",
+         		success: function(response) {
+         			displayText(response['message']);
+         		}
+         
+         	});
+         }
+         function checkInbox() {
+         	$.ajax({
+         		url: '{{ url_for('chat.check_inbox')}}',
+         		type: "get",
+         		data: { "uid": "{{ uid }}" },
+         		dataType: "json",
+         		success: function(response) {
+         			if(response['received']	) {
+                                  if(response['status']) {
+                                      displayStatus(response['message'])
+                                  } else if ('message' in response) {
+                                      $("#text").removeAttr('disabled');
+                                      displayText(response['message']);
+                                  }
+         			}
+         		}
+         	});
+         }
+         
+         function pollServer() {
+         	$.ajax({
+         		url: '{{ url_for('chat.check_chat_valid')}}',
+         		type: "get",
+         		data: {"uid": "{{ uid }}"},
+         		dataType: "json",
+         		success: function(response) {
+         			if(!response['valid']) {
+         				disconnect();
+         				window.location.reload(true);
+         			}
+         		}
+         	});
+         	
+         }
+         
+         function disconnect() {
+                  	clearInterval(validCheckInterval);
+                  	clearInterval(inboxCheckInterval);
+                  	$.ajax({
+                  		url: '{{ url_for('chat.leave_chat')}}',
+                  		type: "get",
+                  		data: {"uid": "{{ uid }}"}
+                  	});
+                  	$.ajax({
+                  		url: '{{ url_for('chat.disconnect')}}',
+                  		type: "get",
+                  		data: {"uid": "{{ uid }}" }
+                  	});
+                  }
+                  
+                  
+//                  function skipChat() {
+//                   disconnect();
+//                  	$.ajax({
+//                  		url: BASE_URL + '/_skip_chat/',
+//                  		type: "get",
+//                  		data: {"uid": "{{ uid }}"}
+//         	         });			
+//         	         window.location.reload(true);
+//                   }
+         
+      </script>
+      <script type="text/javascript" charset="utf-8">
+         function getTimeRemaining(endtime) {
+         	var t = Date.parse(endtime) - Date.parse(new Date());
+         	var seconds = Math.floor((t / 1000) % 60);
+         	var minutes = Math.floor((t / 1000 / 60));
+         	return {
+         		'total': t,
+         		'minutes': minutes,
+         		'seconds': seconds
+         	};
+         }
+         
+         function initializeClock(id, endtime) {
+         	var clock = document.getElementById(id);
+         	var minutesSpan = clock.querySelector('.minutes');
+         	var secondsSpan = clock.querySelector('.seconds');
+         
+         	function updateClock() {
+         		var t = getTimeRemaining(endtime);
+         		minutesSpan.innerHTML = t.minutes+':';
+         		secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+         		console.log(t.total/1000);
+         		if (t.total/1000 <= {{ quit_after|int }} && {{ quit_enabled }}) {
+         			$("#leave").css("display", "inline-block");
+         		}
+         		if (t.total <= 0) {
+         			clearInterval(validCheckInterval);
+         			clearInterval(timeinterval);
+         			pollServer();
+         		}
+         	}
+         
+         	updateClock();
+         	var timeinterval = setInterval(updateClock, 1000);
+         }
+         
+         function init() {
+         	var deadline = new Date(Date.parse(new Date()) + {{ num_seconds }} * 1000);
+         	initializeClock('clockdiv', deadline);
+         }
+      </script>
+   </head>
+   <body onload='init()' oncopy="return false" oncut="return false" onpaste="return false">
+      <div class="clearfix">
+         <!-- Modal -->
+         <div class="modal fade" id="description" role="dialog">
+            <div class="modal-dialog">
+               <!-- Modal content-->
+               <div class="modal-content">
+                  <div class="modal-header">
+                        <p id="modal_instruction"></p>
+                        <p>You and another user online should have 7 objects in view. However, your view is centered slightly differently from your partner's, and only some objects are in common. Your goal is <span style="color:#009933"> to chat with your partner and find one object you have in common!</span></p>
+                  </div>
+                  <div class="modal-body">
+                     <h4>Example Scenario:</h4>
+                     <img height="400" width="400" src="{{ url_for('static', filename='img/')}}sample.jpg"/>
+                     <h4>Example Conversation:</h4>
+                     <ul style="list-style-type:none">
+                        <li> <span style="color:#009933">Player1:</span> I see a lonely light gray dot. </li>
+                        <li> <span style="color:#FF0000">Player2:</span> I don't think I see it. </li>
+                        <li> <span style="color:#009933">Player1:</span> Ok, then do you see two dark dots. </li>
+                        <li> <span style="color:#FF0000">Player2:</span> Is the lower one slightly larger? </li>
+                        <li> <span style="color:#009933">Player1:</span> Yes, they are almost vertical. </li>
+                        <li> <span style="color:#FF0000">Player2:</span> Let's choose the lower one! </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+         <div id="chat_container">
+            <div id="instructions">
+               <h1 style="color:#004d00">{{ title}}</h1>
+               <!-- <button type="button" id="instructionCollapse" class="btn btn-info disabled" data-toggle="collapse"  data-target="#inner">Show/Hide Instructions</button> -->
+            	<div id="inner">
+	               {{ instructions }}
+	            </div>
+            </div>
+            <div id="clockdiv" align="right">
+               Time Remaining: 
+               <div>
+                  <span class="minutes"></span>
+                  <span class="seconds"></span>
+               </div>
+            </div>
+            <textarea readonly id="chat"></textarea>
+            <br><br>
+            <!-- <input readonly id="status" style="width:100%;"><br><br> -->
+            <input id="text" placeholder="Enter your message here"><br><br>
+         </div>
+         <div id="info_container">
+            <div id="topright">
+               <div id="icon">
+                  <img height="120" width="120" src="{{ url_for('static', filename='img/')}}{{icon}}"/>
+               </div>
+               <!--<h4><a href="javascript:skipChat();">Click here</a> to end this chat.</h4>-->
+            </div>
+         </div>
+         <div id="friends">
+            <h3> Your view</h3>
+            <svg id="svg" width="430" height="430">
+               <circle cx="215" cy="215" r="205" fill="none" stroke="black" stroke-width="2" stroke-dasharray="3,3"/>
+               {% for item in kb %}
+               <circle cx="{{item['x']}}" cy="{{item['y']}}" r="{{item['size']}}" fill="{{item['color']}}"
+                  onclick="makeSelection({{item['id']}})" />
+               {% endfor %}
+               </a>
+            </svg>
+         </div>
+         {% if partner_kb %}
+        <div id="peek">
+            <h3> Bot's view</h3>
+            <svg id="svg" width="430" height="430">
+               <circle cx="215" cy="215" r="205" fill="none" stroke="black" stroke-width="2" stroke-dasharray="3,3"/>
+               {% for item in partner_kb %}
+               <circle cx="{{item['x']}}" cy="{{item['y']}}" r="{{item['size']}}" fill="{{item['color']}}"/>
+               {% endfor %}
+               </a>
+            </svg>
+        </div>
+        {% endif %}
+      </div>
+      </div>
+   </body>
+</html>
