@@ -2,6 +2,10 @@
 
 Repository for [A Natural Language Corpus of Common Grounding under Continuous and Partially-Observable Context](https://aaai.org/ojs/index.php/AAAI/article/view/4694) (Udagawa et al., AAAI 2019)
 
+<p align="center">
+  <img src="figures/first_example.png" width="720"/>
+</p>
+
 If you want to use our scripts/data in your research, please cite:
 
 ```
