@@ -2,6 +2,19 @@
 
 Repository for [A Natural Language Corpus of Common Grounding under Continuous and Partially-Observable Context](https://aaai.org/ojs/index.php/AAAI/article/view/4694) (Udagawa et al., AAAI 2019)
 
+If you want to use our scripts/data in your research, please cite:
+
+```
+@inproceedings{udagawa2019natural,
+  title={A Natural Language Corpus of Common Grounding under Continuous and Partially-Observable Context},
+  author={Udagawa, Takuma and Aizawa, Akiko},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  pages={7120--7127},
+  year={2019}
+}
+```
+
 # Generating Scenarios
 
 To create 100 scenarios with number of shared entities = 4, 5 and 6 each, run
