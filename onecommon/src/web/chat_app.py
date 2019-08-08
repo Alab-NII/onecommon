@@ -16,8 +16,7 @@ from cocoa.core.util import read_json
 from cocoa.systems.human_system import HumanSystem
 from cocoa.web.main.logger import WebLogger
 
-from core.scenario import Scenario
-from systems import get_system, add_system_arguments
+from systems import get_system
 from main.db_reader import DatabaseReader
 from main.backend import DatabaseManager
 
@@ -177,7 +176,6 @@ if __name__ == "__main__":
     parser.add_argument('--visualize-transcripts', type=str, default='final_transcripts.json')
     add_website_arguments(parser)
     add_scenario_arguments(parser)
-    add_system_arguments(parser)
     args = parser.parse_args()
 
     if not args.reuse and os.path.exists(args.output):
