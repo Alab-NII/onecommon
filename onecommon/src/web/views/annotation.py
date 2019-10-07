@@ -56,7 +56,7 @@ def annotate():
                                 num_chats = num_chats,
                                 chat_ids = [chat['uuid'] for chat in chat_data],
                                 chat_outcomes = [chat['outcome']['reward'] for chat in chat_data],
-                                base_url = 'https://your-original-url/sample/annotation?chat_id=',
+                                base_url = request.url + '?chat_id=',
                                 num_success=num_success,
                                 num_fail=num_fail)
     else:

@@ -3,8 +3,6 @@ A schema specifies information about a domain (types, entities, relations).
 '''
 
 import json
-from itertools import izip
-
 
 class Attribute(object):
     def __init__(self, name, value_type, unique=False, multivalued=False, entity=True):

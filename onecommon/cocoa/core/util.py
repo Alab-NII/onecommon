@@ -1,7 +1,7 @@
 import random
-import ujson as json
+import json
 import string
-import cPickle as pickle
+import pickle
 import numpy as np
 
 def random_multinomial(probs):
@@ -25,7 +25,7 @@ def read_json(path):
 
 def write_json(raw, path):
     with open(path, 'w') as out:
-        print >>out, json.dumps(raw)
+        out.write(json.dumps(raw))
 
 def read_pickle(path):
     with open(path, 'rb') as fin:

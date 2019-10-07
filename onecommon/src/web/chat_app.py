@@ -16,6 +16,7 @@ from cocoa.core.util import read_json
 from cocoa.systems.human_system import HumanSystem
 from cocoa.web.main.logger import WebLogger
 
+from core.scenario import Scenario
 from systems import get_system
 from main.db_reader import DatabaseReader
 from main.backend import DatabaseManager
@@ -95,7 +96,7 @@ def add_systems(args, config_dict, schema):
     systems = {HumanSystem.name(): HumanSystem()}
     pairing_probabilities = {}
     timed = False if params['debug'] else True
-    for (sys_name, info) in config_dict.iteritems():
+    for (sys_name, info) in config_dict.items():
         if "active" not in info.keys():
             warnings.warn("active status not specified for bot %s - assuming that bot is inactive." % sys_name)
         if info["active"]:
@@ -179,7 +180,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if not args.reuse and os.path.exists(args.output):
-        overwrite = raw_input("[warning] overwriting data: Continue? [Y]:")
+        overwrite = input("[warning] overwriting data: Continue? [Y]:")
         if not overwrite == "Y":
             sys.exit()
     elif args.reuse and not os.path.exists(args.output):
@@ -276,7 +277,7 @@ if __name__ == "__main__":
     else:
         app.config['task_icon'] = params['icon']
 
-    print "App setup complete"
+    print("App setup complete")
 
     server = WSGIServer(('', args.port), app, log=WebLogger.get_logger(), error_log=error_log_file)
     atexit.register(cleanup, flask_app=app)

@@ -11,10 +11,10 @@ from cocoa.systems.human_system import HumanSystem
 from cocoa.web.views.utils import format_message
 
 from core.controller import Controller
-from states import FinishedState, UserChatState, WaitingState, SurveyState
-from utils import Status, UnexpectedStatusException, ConnectionTimeoutException, StatusTimeoutException, NoSuchUserException, Messages, current_timestamp_in_seconds, User
-from db_reader import DatabaseReader
-from logger import WebLogger
+from cocoa.web.main.states import FinishedState, UserChatState, WaitingState, SurveyState
+from cocoa.web.main.utils import Status, UnexpectedStatusException, ConnectionTimeoutException, StatusTimeoutException, NoSuchUserException, Messages, current_timestamp_in_seconds, User
+from cocoa.web.main.db_reader import DatabaseReader
+from cocoa.web.main.logger import WebLogger
 
 import pdb
 
@@ -372,12 +372,12 @@ class Backend(object):
             # if all scenarios have at least one dialogue per agent type (i.e. no active scenarios),
             # just select a random scenario and agent type
             if len(active_scenarios.keys()) == 0:
-                sid = np.random.choice(scenario_dialogues.keys())
+                sid = np.random.choice(list(scenario_dialogues.keys()))
                 p = np.random.choice(all_partners)
                 return self.scenario_db.get(sid), p
 
             # otherwise, select a random active scenario and an agent type that it's missing
-            sid = np.random.choice(active_scenarios.keys())
+            sid = np.random.choice(list(active_scenarios.keys()))
             p = np.random.choice(active_scenarios[sid])
             return self.scenario_db.get(sid), p
 

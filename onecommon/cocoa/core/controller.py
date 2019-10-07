@@ -1,7 +1,7 @@
 import json
-from util import generate_uuid
-from dataset import Example
-from event import Event
+from cocoa.core.util import generate_uuid
+from cocoa.core.dataset import Example
+from cocoa.core.event import Event
 from threading import Lock
 import pdb
 
@@ -56,12 +56,12 @@ class Controller(object):
                 self.events.append(event)
 
                 if verbose:
-                    print 'agent=%s: session=%s, event=%s' % (agent, type(session).__name__, event.to_dict())
+                    print('agent=%s: session=%s, event=%s' % (agent, type(session).__name__, event.to_dict()))
                 else:
                     action = event.action
                     data = event.data
                     event_output = data if action == 'message' else "Action: {0}, Data: {1}".format(action, data)
-                    print 'agent=%s, event=%s' % (agent, event_output)
+                    print('agent=%s, event=%s' % (agent, event_output))
                 num_turns += 1
                 if self.game_over() or (max_turns and num_turns >= max_turns):
                     game_over = True
@@ -74,8 +74,8 @@ class Controller(object):
         uuid = generate_uuid('E')
         outcome = self.get_outcome()
         if verbose:
-            print 'outcome: %s' % outcome
-            print '----------------'
+            print('outcome: %s' % outcome)
+            print('----------------')
         # TODO: add configurable names to systems and sessions
         return Example(self.scenario, uuid, self.events, outcome, uuid, None)
 

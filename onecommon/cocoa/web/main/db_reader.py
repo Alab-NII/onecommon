@@ -22,7 +22,7 @@ class DatabaseReader(object):
                 dt = datetime.fromtimestamp(float(time)) # make sure that time is a UNIX timestamp
                 return time
             except (ValueError, TypeError):
-                print 'Unrecognized time format: %s' % time
+                print('Unrecognized time format: %s' % time)
 
         return None
 

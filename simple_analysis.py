@@ -71,7 +71,7 @@ def dump_basic_statistics(chat_data, id_to_shared):
         total_dialogues += results[case]['total']
         if results[case]['total'] <= 0:
             continue
-        print("success rate: {}".format(results[case]['success'] / results[case]['total']))
+        print("success rate: {:.5f}".format(results[case]['success'] / results[case]['total']))
         print("average tokens: {}".format(results[case]['total_words'] / results[case]['total']))
         print("average turns: {}".format(results[case]['total_turns'] / results[case]['total']))
         print("average tokens per turn: {}".format(results[case]['total_words'] / results[case]['total_turns']))
