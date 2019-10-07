@@ -6,9 +6,8 @@ from cocoa.web.main.backend import Backend as BaseBackend
 from cocoa.web.main.backend import DatabaseManager as BaseDatabaseManager
 from cocoa.web.main.utils import Status, Messages
 from cocoa.web.views.utils import format_message
-from cocoa.analysis.utils import reject_transcript
 
-from db_reader import DatabaseReader
+from cocoa.web.main.db_reader import DatabaseReader
 from core.event import Event
 
 class DatabaseManager(BaseDatabaseManager):
@@ -148,7 +147,7 @@ class Backend(BaseBackend):
 #######################################
 from flask import g
 from flask import current_app as app
-from utils import Messages
+from web.main.utils import Messages
 
 def get_backend():
     backend = getattr(g, '_backend', None)

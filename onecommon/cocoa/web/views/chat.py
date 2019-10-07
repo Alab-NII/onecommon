@@ -3,7 +3,7 @@ import pdb
 from flask import Blueprint, jsonify, render_template, request, redirect, url_for, Markup
 from flask import current_app as app
 
-from utils import generate_userid, userid, format_message
+from cocoa.web.views.utils import generate_userid, userid, format_message
 from cocoa.web.main.utils import Status
 from cocoa.core.event import Event
 
@@ -72,7 +72,7 @@ def typing_event():
 @chat.route('/_send_message/', methods=['GET'])
 def send_message():
     backend = get_backend()
-    message = unicode(request.args.get('message'))
+    message = str(request.args.get('message'))
     displayed_message = format_message(u"You: {}".format(message), False)
     uid = userid()
     time_taken = float(request.args.get('time_taken'))
@@ -141,7 +141,7 @@ def check_status_change():
 def index():
     """Chat room. The user's name and room must be stored in
     the session."""
-    pdb.set_trace()
+
     if request.args.get('assignmentId',default=None, type=None) == 'ASSIGNMENT_ID_NOT_AVAILABLE':
         return render_template('sample_chat.html',
                                kb=[{u'y': 273, u'x': 26, u'id': u'11', u'color': u'rgb(203,203,203)', u'size': 12}, {u'y': 279, u'x': 65, u'id': u'33', u'color': u'rgb(77,77,77)', u'size': 12}, {u'y': 176, u'x': 195, u'id': u'38', u'color': u'rgb(160,160,160)', u'size': 8}, {u'y': 121, u'x': 308, u'id': u'48', u'color': u'rgb(84,84,84)', u'size': 11}, {u'y': 333, u'x': 335, u'id': u'55', u'color': u'rgb(107,107,107)', u'size': 9}, {u'y': 207, u'x': 187, u'id': u'70', u'color': u'rgb(129,129,129)', u'size': 11}, {u'y': 203, u'x': 56, u'id': u'74', u'color': u'rgb(127,127,127)', u'size': 8}],
@@ -158,7 +158,7 @@ def index():
             # link for NLP group
             prefix = "NLP_"
 
-        url = 'https://your-original-url/sample/?{}={}'.format('uid', generate_userid(prefix))
+        url = request.url + '?{}={}'.format('uid', generate_userid(prefix))
         for _key in dict(request.args).keys():
             _value = request.args.get(_key,default=None, type=None)
             if _value:

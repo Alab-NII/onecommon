@@ -2,9 +2,9 @@
 Data structures for events, examples, and datasets.
 '''
 
-from util import read_json
-from event import Event
-from kb import KB
+from cocoa.core.util import read_json
+from cocoa.core.event import Event
+from cocoa.core.kb import KB
 
 class Example(object):
     '''
@@ -29,7 +29,7 @@ class Example(object):
             scenario = Scenario.from_dict(None, raw['scenario'])
         # Compatible with old data formats (to be removed)
         elif scenario_db:
-            print 'WARNING: scenario should be provided in the example'
+            print('WARNING: scenario should be provided in the example')
             scenario = scenario_db.get(raw['scenario_uuid'])
         else:
             raise ValueError('No scenario')
@@ -113,7 +113,7 @@ def read_examples(paths, max_examples, Scenario):
     '''
     examples = []
     for path in paths:
-        print 'read_examples: %s' % path
+        print('read_examples: %s' % path)
         for raw in read_json(path):
             if max_examples >= 0 and len(examples) >= max_examples:
                 break
@@ -144,4 +144,4 @@ def read_dataset(args, Scenario):
 if __name__ == "__main__":
     raw = read_json("fb-negotiation/data/transformed_test.json")
     for idx, example in enumerate(raw):
-        print Example.test_dict(example)
+        print(Example.test_dict(example))

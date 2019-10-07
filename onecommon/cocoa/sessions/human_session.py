@@ -1,5 +1,5 @@
 __author__ = 'anushabala'
-from session import Session
+from cocoa.sessions.session import Session
 
 
 class HumanSession(Session):

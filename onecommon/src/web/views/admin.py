@@ -176,7 +176,7 @@ def visualize():
                                 chat_ids = ids,
                                 chat_outcomes = outcomes,
                                 reviewed = ["" for i in range(num_ids)],
-                                base_url = 'https://your-original-url/sample/admin?chat_id=',
+                                base_url = request.url + '?chat_id=',
                                 num_success=num_success,
                                 num_fail=num_fail,
                                 num_incomplete=num_incomplete,
