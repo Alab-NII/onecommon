@@ -72,13 +72,13 @@ def dump_basic_statistics(chat_data, id_to_shared):
         if results[case]['total'] <= 0:
             continue
         print("success rate: {:.5f}".format(results[case]['success'] / results[case]['total']))
-        print("average tokens: {}".format(results[case]['total_words'] / results[case]['total']))
-        print("average turns: {}".format(results[case]['total_turns'] / results[case]['total']))
-        print("average tokens per turn: {}".format(results[case]['total_words'] / results[case]['total_turns']))
+        print("average tokens: {:.5f}".format(results[case]['total_words'] / results[case]['total']))
+        print("average turns: {:.5f}".format(results[case]['total_turns'] / results[case]['total']))
+        print("average tokens per turn: {:.5f}".format(results[case]['total_words'] / results[case]['total_turns']))
         print()
     print("total dialogues: {}".format(total_dialogues))
     print("vocabulary size: {}".format(len(vocab)))
-    print("occupancy of top 10% frequent tokens: {}".format(sum([freq for w, freq in vocab.most_common(int(len(vocab) * 0.1))])
+    print("occupancy of top 10% frequent tokens: {:.5f}".format(sum([freq for w, freq in vocab.most_common(int(len(vocab) * 0.1))])
                                                              / sum(vocab.values())))
 
 
@@ -177,7 +177,7 @@ def count_dict(chat_data, id_to_shared, word_dict):
                 # key word is a unigram
                 count_type += vocab[key_word]
                 type_dict[key_word] = vocab[key_word]
-        print("{}: {} ({} per 100 utterances)".format(nuance_type, count_type, 100.0 * count_type / total_turns))
+        print("{}: {} ({:.5f} per 100 utterances)".format(nuance_type, count_type, 100.0 * count_type / total_turns))
         nuance_dict[nuance_type] = type_dict
 
 
