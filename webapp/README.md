@@ -6,7 +6,7 @@ This repository includes basic functions for dataset collection, dataset visuali
 To run the web server, move to `src` directory and simply run `run_sample.sh`. Make sure to append `onecommon/webapp` and `onecommon/webapp/src` directories to the PYTHONPATH, e.g.
 
 ```
-export PYTHONPATH="~/onecommon/webapp/src:~/onecommon/webapp:${PYTHONPATH}"
+export PYTHONPATH=$PYTHONPATH:~/onecommon/webapp/src:~/onecommon/webapp
 ```
 
 By default, <http://localhost:5000/sample> is used for dataset collection: when more than two people are connected to this URL, we create pairs to start playing the dialogue task.
