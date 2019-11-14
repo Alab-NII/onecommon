@@ -82,7 +82,3 @@ After major refactoring, numbers are slightly different but comparable to the on
 | Context Only (RN) | 33.46 (std 0.9) | 32.44 | 35.00 |
 | Context + Dialgoue (MLP) | 35.85 (std 1.6) | 38.07 | 38.89 |
 | Context + Dialgoue (RN) | 41.50 (std 1.3) | 40.15 | 42.22 |
-
-# Dialogue Interface
-
-Available at `onecommon` subdirectory (updated 2019/10/7).
