@@ -3,10 +3,10 @@
 **Find One In Common!** is a common grounding dialogue task built on StanfordNLP's [CoCoA framework](https://github.com/stanfordnlp/cocoa).
 This repository includes basic functions for dataset collection, dataset visualization and model development.
 
-To run the web server, move to `src` directory and simply run `run_sample.sh`. Make sure to append `onecommon/onecommon` and `onecommon/onecommon/src` directories to the PYTHONPATH, e.g.
+To run the web server, move to `src` directory and simply run `run_sample.sh`. Make sure to append `onecommon/webapp` and `onecommon/webapp/src` directories to the PYTHONPATH, e.g.
 
 ```
-export PYTHONPATH="~/onecommon/onecommon/src:~/onecommon/onecommon:${PYTHONPATH}"
+export PYTHONPATH="~/onecommon/webapp/src:~/onecommon/webapp:${PYTHONPATH}"
 ```
 
 By default, <http://localhost:5000/sample> is used for dataset collection: when more than two people are connected to this URL, we create pairs to start playing the dialogue task.
