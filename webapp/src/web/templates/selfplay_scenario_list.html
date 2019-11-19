@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Coreference list</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<style>
+  th {
+         padding: 0 15px 0 15px;
+  }
+  td {
+         text-align: center;
+  }
+</style>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script> 
+</head>
+<body>
+  <table>
+    <tr>
+      <th>Scenario_id</th>
+      <th>results</th>
+      <th># markables</th>
+      <th>ref 0</th>
+      <th>ref 1</th>
+      <th>ref 2</th>
+      <th>ref 3</th>
+      <th>ref 4</th>
+      <th>ref 5</th>
+      <th>ref 6</th>
+      <th>ref 7</th>
+    </tr>
+
+	{% for i in range(num_scenarios) %}
+	  <tr>
+        <td><a href="{{base_url}}?scenario_id={{ scenario_ids[i] }}" >{{ scenario_ids[i] }}</a></td>
+        <td>{{ results[i] }}</td>
+        <td>{{ num_markables[i] }}</td>
+        <td>{{ num_referents[i][0] }}</td>
+        <td>{{ num_referents[i][1] }}</td>
+        <td>{{ num_referents[i][2] }}</td>
+        <td>{{ num_referents[i][3] }}</td>
+        <td>{{ num_referents[i][4] }}</td>
+        <td>{{ num_referents[i][5] }}</td>
+        <td>{{ num_referents[i][6] }}</td>
+        <td>{{ num_referents[i][7] }}</td>
+      </tr>
+	{% endfor %}
+</table>
+
+</body>
+
+</html>

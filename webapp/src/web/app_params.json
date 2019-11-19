@@ -30,6 +30,7 @@
     "images_base": "web/static/images",
     "end_survey": 0,
     "instructions": "web/templates/instructions.html",
+    "coreference_instructions": "web/templates/coreference_instructions.html",
     "task_title": "Find One In Common!",
     "icon": "handshake.jpg",
     "num_chats_per_scenario": {"human": 1},

@@ -1,0 +1,474 @@
+<html>
+  <head>
+    <title>{{ scenario_id }}</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style>
+      .clearfix {
+      overflow: auto;
+      padding: 4px;
+      }
+      .points {
+      color: #009933;
+      }
+      div#instruction_container {
+      float: left;
+      width: 40%;
+      }
+      div#annotation_container {
+      margin-left: 41%;
+      width: 59%;
+      }
+      div.kaiwa {
+      border: 1px solid #999;
+      outline: 2px solid #CCC;
+      padding: 5px;
+      margin: 0 10 0 0px;
+      }
+      div#annotation_buttons {
+      padding: 5px 0px 5px 10px;
+      }
+      div#instructions > p,li {
+      font-size:16px;
+      }
+      div#submit_hit > p,li {
+      font-size:16px;
+      }
+      td {
+      border: none;
+      padding: 0 5px 0 5px;
+      }
+      table { 
+      border: none;
+      border-collapse: collapse; 
+      }
+      tr:nth-child(n) { 
+      border: none;
+      }
+      span.markable {
+      background-color: yellow;
+      }
+      p.kaiwa-text {
+        font-size:16px;
+        /*font-family: Arial, Helvetica, sans-serif;*/
+        font-weight: bold;
+        padding: 1px;
+        margin: 0px;
+      }
+      .form-check-label{
+        transform: scale(1.1);
+      }
+      /*
+      .kaiwa {
+      font-size:14px;
+      border: 1px solid #999;
+      outline: 2px solid #CCC;
+      padding: 5px;
+      margin: 5px;
+      }*/
+     /* 左からの吹き出しテキスト */
+     /*
+     .kaiwa-text-left {
+       position: relative;
+       margin-left: 10px;
+       padding: 5px;
+       border-radius: 5px;
+       background: #eee;
+       margin-right: 20%;
+       float: left;
+       margin-top: 5px;
+       margin-bottom: 5px;
+     }*/
+     /* 右からの吹き出しテキスト */
+     /*
+     .kaiwa-text-right {
+       position: relative;
+       margin-right: 10px;
+       padding: 5px;
+       border-radius: 5px;
+       background: #eee;
+       margin-left: 20%;
+       float: right;
+       margin-top: 5px;
+       margin-bottom: 5px;
+     }
+     p.kaiwa-text:last-child {
+        margin-bottom: 0;
+     }
+      */
+     /* 左の三角形を作る */
+     /*
+     .kaiwa-text-left:before {
+       position: absolute;
+       content: '';
+       border: 10px solid transparent;
+       top: 15px;
+       left: -20px;
+     }
+     .kaiwa-text-left:after {
+       position: absolute;
+       content: '';
+       border: 10px solid transparent;
+       border-right: 10px solid #eee;
+       top: 15px;
+       left: -19px;
+     }*/
+     /* 右の三角形を作る */
+     /*
+     .kaiwa-text-right:before {
+       position: absolute;
+       content: '';
+       border: 10px solid transparent;
+       top: 15px;
+       right: -20px;
+     }
+     .kaiwa-text-right:after {
+       position: absolute;
+       content: '';
+       border: 10px solid transparent;
+       border-left: 10px solid #eee;
+       top: 15px;
+       right: -19px;
+     }*/
+     /* 回り込み解除 */
+     /*
+     .kaiwa:after {
+       clear: both;
+       content: "";
+       display: block;
+     }*/
+    /*
+    .kaiwa:after,.kaiwa:before {
+       clear: both;
+       content: "";
+       display: block;
+    }*/
+    span.markable {
+       cursor: pointer;
+    }
+    span.markable:hover {
+       background-color: gold;
+    }
+    .disabled{
+    pointer-events: none;
+    }
+    .btn-toolbar{
+      /*float:left;
+      width: 40%;*/
+      padding: 10px;
+    }
+    .annotation-input{
+      padding: 0px 10px 0px 10px;
+    }
+    .invisible{
+    visibility: hidden;
+    }
+    span#select-all{
+    cursor:pointer;
+    color: DodgerBlue;
+    }
+    span#select-all:hover{
+    text-decoration:underline; 
+    }
+    span#reset{
+    cursor:pointer;
+    color: orange;
+    }
+    span#reset:hover{
+    text-decoration:underline; 
+    }
+    div#mturk{
+      margin: 5px 5px 5px 40px;
+    }
+
+    </style>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script>
+    <script type='text/javascript' src='https://s3.amazonaws.com/mturk-public/externalHIT_v1.js'></script>
+    <script>
+      var referent_set = new Set();
+      var current_agent = -1;
+      var current_markable_id = "";
+      var referents = {};
+
+      $(document).ready(function(){
+        $('.agent_0_object').addClass("disabled");
+        //$('#agent_0_view').css({"opacity": "0.5"});
+        $('.agent_1_object').addClass("disabled");
+        //$('#agent_1_view').css({"opacity": "0.5"});
+
+        referents = JSON.parse('{{ referents | tojson | safe}}');
+
+        for (markable_id in referents){
+          if($("#" + markable_id).length == 0) {
+            //it doesn't exist
+          } else{
+            document.getElementById(markable_id).style.backgroundColor = "lime";
+          }
+        }
+
+      });
+
+      function release_markable(markable_id) {
+        current_agent = check_current_agent(markable_id)
+        /*
+        if ( current_agent == 0 ){
+          $('.agent_0_object').addClass("disabled");
+          $('#agent_0_view').css({"outline": "0px dotted green", "opacity": "1.0"});
+        } else if ( current_agent == 1 ){
+          $('.agent_1_object').addClass("disabled");
+          $('#agent_1_view').css({"outline": "0px dotted green", "opacity": "1.0"});
+        } else {
+          console.error("could not identify current agent")
+          return;
+        }
+        */
+        $('.agent_0_object').addClass("disabled");
+        $('#agent_0_view').css({"outline": "0px dotted green", "opacity": "1.0"});
+        $('.agent_1_object').addClass("disabled");
+        $('#agent_1_view').css({"outline": "0px dotted green", "opacity": "1.0"});
+        initialize_referents();
+        current_agent = -1;
+        current_markable_id = "";
+      }
+
+      function initialize_referents() {
+        referent_ids = Array.from(referent_set);
+        for (i in referent_ids){
+          referent = document.getElementById(referent_ids[i]);
+          referent.classList.add("invisible");
+        }
+        referent_set = new Set();
+      }
+
+      function load_annotation(markable_id) {
+        referent_set = new Set();
+        if ( markable_id in referents ){
+          referent_set = new Set(referents[markable_id]);
+          referent_ids = Array.from(referent_set);
+          for (i in referent_ids){
+            referent = document.getElementById(referent_ids[i]);
+            referent.classList.remove("invisible");
+          }
+        }
+      }
+
+      function check_current_agent(markable_id) {
+        current_markable = document.getElementById(markable_id);
+        if ( current_markable.classList.contains("speaker_0") ){
+          return 0;
+        } else if ( current_markable.classList.contains("speaker_1") ){
+          return 1;
+        } else {
+          return -1;
+        }
+      }
+
+      function selectMarkable(markable_id) {
+        if ( current_markable_id == markable_id ){ // clicked the same markable again
+          if (current_markable_id in referents){
+            document.getElementById(current_markable_id).style.backgroundColor = "lime";
+          }
+          // release markable
+          release_markable(markable_id);
+          $('#agent_0_view').css({"outline": "0px dotted green", "opacity": "1"});
+          $('#agent_1_view').css({"outline": "0px dotted green", "opacity": "1"});
+          $('#agent_0_selected').removeClass("invisible");
+          $('#agent_1_selected').removeClass("invisible");
+
+          return;
+        }
+
+        if ( current_markable_id.length > 0 ){
+          if (current_markable_id in referents){
+            document.getElementById(current_markable_id).style.backgroundColor = "lime";
+          } else {
+            document.getElementById(current_markable_id).style.backgroundColor = "yellow";
+          }
+          release_markable(current_markable_id);
+        }
+        current_markable_id = markable_id;
+
+        if ( current_markable_id in referents ){
+          document.getElementById(markable_id).style.backgroundColor = "limegreen";
+        }
+
+        if ( markable_id in referents ){
+          load_annotation(markable_id);
+        } else {
+          initialize_referents();
+        }
+
+        current_agent = check_current_agent(markable_id);
+        if ( current_agent == 0) {
+          $('.agent_0_object').removeClass("disabled");
+          $('#agent_0_view').css({"outline": "4px dotted green", "opacity": "1"});
+          $('.agent_1_object').addClass("disabled");
+          $('#agent_1_view').css({"outline": "0px dotted green", "opacity": "0.5"});
+          $('#agent_0_selected').addClass("invisible");
+          //$('#agent_1_selected').addClass("invisible");
+        } else if ( current_agent == 1) {
+          $('.agent_1_object').removeClass("disabled");
+          $('#agent_1_view').css({"outline": "4px dotted green", "opacity": "1"});
+          $('.agent_0_object').addClass("disabled");
+          $('#agent_0_view').css({"outline": "0px dotted green", "opacity": "0.5"});
+          //$('#agent_0_selected').addClass("invisible");
+          $('#agent_1_selected').addClass("invisible")
+        }
+      }
+
+      function selectReferent(referent_id) {
+        if ( referent_set.has(referent_id) ){
+          referent_set.delete(referent_id);
+          current_referent = document.getElementById(referent_id);
+          current_referent.classList.add("invisible");     
+          console.log("remove ${referent_id}")
+        } else{
+          referent_set.add(referent_id);
+          current_referent = document.getElementById(referent_id);
+          current_referent.classList.remove("invisible");
+        }
+      }
+
+      </script>
+   </head>
+   <body oncopy="return false" oncut="return false" onpaste="return false">
+    <div class="clearfix">
+      <!-- Modal -->
+      <div class="modal fade" id="background" role="dialog">
+        <div class="modal-dialog">
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+                <h2>Background Dialogue Task</h2>
+            </div>
+            <div class="modal-body">
+              <h3>Task Description</h3>
+                <p style="font-size:16px;">Two players have <b>7 dots</b> in each view. However, their views are centered slightly differently, and <b>only some dots are in common</b> (5 in the example below). Their goal is to find <b>one of the common dots</b> through <b>natural language dialogue</b> and select it.</p>
+                <img height="350" width="350" src="{{ url_for('static', filename='img/')}}S_J1ZO3bQDwL6wHIh1_both_views.png"/>
+              <table align="left">
+                  <tr>
+                    <th><h4>Player_0 (selected <span style="color:red">Red</span>)</h4></th>
+                    <th><h4>Player_1 (selected <span style="color:blue">Blue</span>)</h4></th>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img height="250" width="250" src="{{ url_for('static', filename='img/')}}S_J1ZO3bQDwL6wHIh1_agent_0.png"/>
+                    </td>
+                    <td>
+                      <img height="250" width="250" src="{{ url_for('static', filename='img/')}}S_J1ZO3bQDwL6wHIh1_agent_1.png"/>
+                    </td>
+                  </tr>
+                </table>
+                <h4>Example Dialogue</h4>
+                  <ul style="list-style-type:none;">
+                    <li>0: I see three in a line going up and to the right. The middle one is the largest and darkest</li>
+                    <li>1: I don't see that. I have one large, medium gray dot that's under a small, darker gray dot </li>
+                    <li>0: Is the larger dot slightly to the left </li>
+                    <li>1: yes, slightly, let's choose the larger one. </li>
+                  </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal fade" id="example" role="dialog">
+        <div class="modal-dialog">
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+                <h2>Annotated Example</h2>
+            </div>
+            <div class="modal-body">
+              <h3>Recover the Speaker's Intention!</h3>
+                <img height="350" width="350" src="{{ url_for('static', filename='img/')}}S_J1ZO3bQDwL6wHIh1_both_views.png"/>
+                <p>pick <span style="background-color:yellow;">the blackk dot</span> </p>
+              <h3>Ambigous Cases</h3>
+                <img height="350" width="350" src="{{ url_for('static', filename='img/')}}S_J1ZO3bQDwL6wHIh1_both_views.png"/>
+                <p>pick <span style="background-color:yellow;">the blackk dot</span> </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="instruction_container">
+        <h1 style="color:#004d00">Find the Dots in Dialogue!</h1>
+        <div id="instructions">
+          <h3>Your Goal</h3>
+            <p>You are shown a dialogue between 2 players trying to find a common dot from slightly different, overlapping perspectives. Your goal is to <b>identify which dots the players are referring to</b> in each of the utterances. <br/>
+            If this is the first time you work on our HIT, please check the <b><span style="color:#1569C7;">Background Task</span></b> below: </p>
+            &emsp;<button type="button annotation-input" class="btn btn-primary" data-toggle="modal" data-target="#background">Background Task</button>&emsp;
+            <!--<button type="button annotation-input" class="btn btn-info" data-toggle="modal" data-target="#example">Annotated Example</button>-->
+          {{ instructions }}
+        </div>
+      </div>
+
+      <div id="annotation_container">
+        <h3>Dialogue</h3>
+
+        <div class="kaiwa">
+        {% for utterance in utterances %}
+          {{ utterance|safe }}
+        {% endfor %}
+        </div>
+
+        <h3>Views</h3>
+          <table align="left">
+            <tr>
+              <th><h4>Player_0 (selected <span style="color:red">Red</span>)</h4></th>
+              <th><h4>Player_1 (selected <span style="color:blue">Blue</span>)</h4></th>
+            </tr>
+            <tr>
+              <td>
+                <svg id="agent_0_view" width="430" height="430">
+                  <circle cx="215" cy="215" r="205" fill="none" stroke="black" stroke-width="2" stroke-dasharray="3,3"/>
+                  {% for item in kb_0 %}
+                    <circle class="agent_0_object" cx="{{item['x']}}" cy="{{item['y']}}" r="{{item['size']}}" fill="{{item['color']}}" onclick="selectReferent('agent_0_{{item['id']}}')" />
+                    <circle id="agent_0_{{item['id']}}" class="agent_0_referent invisible" cx="{{item['x']}}" cy="{{item['y']}}" r="{{item['size'] + 4}}" fill="none" stroke="green" stroke-width="3" stroke-dasharray="3,3"/>
+                  {% endfor %}
+                  {% if select_1 %}
+                    <circle id="agent_0_selected" cx="{{select_0['x']}}" cy="{{select_0['y']}}" r="{{select_0['size'] + 4}}" fill="none" stroke="red" stroke-width="3" stroke-dasharray="3,3"/>
+                    <!--<text x="{{select_0['x'] + select_0['size'] + 2}}" y="{{select_0['y'] - select_0['size'] - 2}}" fill="red">Selected</text>-->
+                  {% endif %}
+                </svg>
+              </td>
+              <td>
+                <svg id="agent_1_view" width="430" height="430">
+                  <circle cx="215" cy="215" r="205" fill="none" stroke="black" stroke-width="2" stroke-dasharray="3,3"/>
+                  {% for item in kb_1 %}
+                    <circle class="agent_1_object" cx="{{item['x']}}" cy="{{item['y']}}" r="{{item['size']}}" fill="{{item['color']}}" onclick="selectReferent('agent_1_{{item['id']}}')" />
+                    <circle id="agent_1_{{item['id']}}" class="agent_1_referent invisible" cx="{{item['x']}}" cy="{{item['y']}}" r="{{item['size'] + 4}}" fill="none" stroke="green" stroke-width="3" stroke-dasharray="3,3"/>
+                  {% endfor %}
+                  {% if select_1 %}
+                    <circle id="agent_1_selected" cx="{{select_1['x']}}" cy="{{select_1['y']}}" r="{{select_1['size'] + 4}}" fill="none" stroke="blue" stroke-width="3" stroke-dasharray="3,3"/>
+                  {% endif %}
+                </svg>
+              </td>
+            </tr>
+          </table>
+        </div>
+
+        <!--
+        <h3>Annotate</h3>
+        <div id="annotation_buttons" class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
+          <div class="btn-group" role="group" aria-label="Checkbox">
+            <input type="checkbox" class="form-check-input annotation-input" id="ambiguous_check">
+            <label class="form-check-label annotation-input" for="materialUnchecked">Ambiguous</label>
+            <input type="checkbox" class="form-check-input annotation-input" id="unidentifiable_check">
+            <label class="form-check-label annotation-input" for="materialUnchecked">Unidentifiable</label>
+          </div>
+          <div class="btn-group" role="group" aria-label="Finish">
+            <button type="button annotation-input" class="btn btn-primary">Select All</button>
+            <button type="button annotation-input" class="btn btn-warning" onclick="initialize_referents()">Reset</button>
+            <button type="button annotation-input" class="btn btn-success" onclick="submit_markable()">Finish</button>
+            <button id="submit_hit_button" type="button annotation-input" class="btn btn-danger disabled" onclick="submit_HIT()">Submit HIT!</button>
+          </div>
+        </div>
+        -->
+
+      </div>
+    </div>
+   </body>
+</html>

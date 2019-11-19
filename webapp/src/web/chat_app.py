@@ -50,11 +50,15 @@ def create_app(debug=False, templates_dir='templates'):
     from web.views.action import action
     from web.views.admin import admin
     from web.views.annotation import annotation
+    from web.views.coreference import coreference
+    from web.views.selfplay import selfplay
     from cocoa.web.views.chat import chat
     app.register_blueprint(chat, url_prefix='/sample')
     app.register_blueprint(action, url_prefix='/sample')
     app.register_blueprint(admin, url_prefix='/sample')
     app.register_blueprint(annotation, url_prefix='/sample')
+    app.register_blueprint(coreference, url_prefix='/sample')
+    app.register_blueprint(selfplay, url_prefix='/sample')
 
     app.teardown_appcontext_funcs = [close_connection]
 
@@ -174,7 +178,16 @@ def init(output_dir, reuse=False):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--num-scenarios', type=int)
-    parser.add_argument('--visualize-transcripts', type=str, default='final_transcripts.json')
+    parser.add_argument('--visualize-transcripts', type=str, default='data/final_transcripts.json')
+    parser.add_argument('--markable_annotation', type=str, default='data/markable_annotation.json')
+    parser.add_argument('--batch_info', type=str, default='data/batch_info.json')
+    parser.add_argument('--referent_annotation', type=str, default='data/referent_annotation.json')
+    parser.add_argument('--rejected_referent_annotation', type=str, default='data/rejected_referent_annotation.json')
+    parser.add_argument('--aggregated_referent_annotation', type=str, default='data/aggregated_referent_annotation.json')
+    parser.add_argument('--model_referent_annotation', type=str, default='data/model_referent_annotation.json')
+    parser.add_argument('--selfplay_scenarios', type=str, default='data/shared_5.json')
+    parser.add_argument('--selfplay_markables', type=str, default='data/selfplay_markables.json')
+    parser.add_argument('--selfplay_referents', type=str, default='data/selfplay_referents.json')
     add_website_arguments(parser)
     add_scenario_arguments(parser)
     args = parser.parse_args()
@@ -211,6 +224,15 @@ if __name__ == "__main__":
     else:
         raise ValueError("Location of file containing instructions for task should be specified in config with the key "
                          "'instructions")
+
+    coreference_instructions = None
+    if 'coreference_instructions' in params.keys():
+        coreference_instructions_file = open(params['coreference_instructions'], 'r')
+        coreference_instructions = "".join(coreference_instructions_file.readlines())
+        coreference_instructions_file.close()
+    else:
+        raise ValueError("Location of file containing coreference instructions for task should be specified in config with the key "
+                         "'coreference_instructions")
 
     templates_dir = None
     if 'templates_dir' in params.keys():
@@ -264,6 +286,7 @@ if __name__ == "__main__":
     app.config['user_params'] = params
     app.config['controller_map'] = defaultdict(None)
     app.config['instructions'] = instructions
+    app.config['coreference_instructions'] = coreference_instructions
     app.config['task_title'] = params['task_title']
 
     if not os.path.exists(args.visualize_transcripts):
@@ -272,10 +295,83 @@ if __name__ == "__main__":
         chat_data = json.load(f)
     app.config['chat_data'] = chat_data
 
+    if not os.path.exists(args.markable_annotation):
+        raise ValueError("Markable annotation not found")
+    with open(args.markable_annotation, "r") as f:
+        markable_annotation = json.load(f)
+    app.config['markable_annotation'] = markable_annotation
+
+    if not os.path.exists(args.batch_info):
+        raise ValueError("Batch info not found")
+    with open(args.batch_info, "r") as f:
+        batch_info = json.load(f)
+    app.config['batch_info'] = batch_info
+
+    if not os.path.exists(args.referent_annotation):
+        referent_annotation = {}
+    else:
+        with open(args.referent_annotation, "r") as f:
+            referent_annotation = json.load(f)
+
+    if not os.path.exists(args.aggregated_referent_annotation):
+        aggregated_referent_annotation = {}
+    else:
+        with open(args.aggregated_referent_annotation, "r") as f:
+            aggregated_referent_annotation = json.load(f)
+    if not os.path.exists(args.model_referent_annotation):
+        model_referent_annotation = {}
+    else:
+        with open(args.model_referent_annotation, "r") as f:
+            model_referent_annotation = json.load(f)
+
+    if not os.path.exists(args.selfplay_scenarios):
+        raise ValueError("Selfplay scenarios not found")
+    else:
+        selfplay_scenarios = read_json(args.selfplay_scenarios)
+    if not os.path.exists(args.selfplay_markables):
+        selfplay_markables = {}
+    else:
+        with open(args.selfplay_markables, "r") as f:
+            selfplay_markables = json.load(f)
+    if not os.path.exists(args.selfplay_referents):
+        selfplay_referents = {}
+    else:
+        with open(args.selfplay_referents, "r") as f:
+            selfplay_referents = json.load(f)
+
+    app.config['referent_annotation'] = referent_annotation
+    app.config['referent_annotation_save_path'] = args.referent_annotation
+    app.config['aggregated_referent_annotation'] = aggregated_referent_annotation
+    app.config['model_referent_annotation'] = model_referent_annotation
+    app.config['selfplay_scenarios'] = selfplay_scenarios
+    app.config['selfplay_markables'] = selfplay_markables
+    app.config['selfplay_referents'] = selfplay_referents
+    
+    if not os.path.exists(args.rejected_referent_annotation):
+        rejected_referent_annotation = {}
+    else:
+        with open(args.rejected_referent_annotation, "r") as f:
+            rejected_referent_annotation = json.load(f)
+    app.config['rejected_referent_annotation'] = rejected_referent_annotation
+    app.config['rejected_referent_annotation_save_path'] = args.rejected_referent_annotation
+
     if 'icon' not in params.keys():
         app.config['task_icon'] = 'handshake.jpg'
     else:
         app.config['task_icon'] = params['icon']
+
+
+    db_path = app.config['user_params']['db']['location']
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+    cursor = conn.cursor()
+    # create table review if not exists
+    if not cursor.execute('''SELECT name FROM sqlite_master WHERE type='table' AND name='review' ''').fetchone():
+        cursor.execute(
+            '''CREATE TABLE review (chat_id text, accept integer, message text)'''
+        )
+        conn.commit()
+        print("created new table review")
 
     print("App setup complete")
 

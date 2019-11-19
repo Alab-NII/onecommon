@@ -7,12 +7,12 @@ This is the repository of our ONECOMMON corpus, which is introduced in the follo
 
 # AAAI 2019
 
-All related materials are available in the `aaai2019` subdirectory.
+All related materials are available in the [aaai2019](https://github.com/Alab-NII/onecommon/tree/master/aaai2019) subdirectory.
 
 # AAAI 2020
 
-All related materials will be available in the `aaai2020` subdirectory (coming soon!).
+All related materials will be available in the [aaai2020](https://github.com/Alab-NII/onecommon/tree/master/aaai2020) subdirectory (coming soon!).
 
 # Dialogue Interface
 
-The web application is available in the `webapp` subdirectory.
+The web application is available in the [webapp](https://github.com/Alab-NII/onecommon/tree/master/webapp) subdirectory.

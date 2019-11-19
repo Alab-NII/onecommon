@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Coreference list</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<style>
+  th {
+         padding: 0 15px 0 15px;
+  }
+  td {
+         text-align: center;
+  }
+</style>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script> 
+</head>
+<body>
+  <table>
+    <tr>
+      <th>Chat_id</th>
+      <th>New</th>
+      <th>admin</th>
+      <th>annotator_0</th>
+      <th>annotator_1</th>
+      <th>annotator_2</th>
+      <th>aggregated</th>
+      <th>model</th>
+      <th># markables</th>
+      <th>ambiguous</th>
+      <th>unidentifiable</th>
+      <th>no_referent</th>
+      <th>agreement</th>
+      <th>exact match</th>
+    </tr>
+
+	{% for i in range(num_chats) %}
+	  <tr>
+        <td>{{ chat_ids[i] }}</td>
+        <td><a href="{{base_url}}?chat_id={{ chat_ids[i] }}{{ batch_url }}" > New </a></td>
+        <td>
+          {% if admin_url[i] %}
+            <a href="{{base_url}}?chat_id={{ chat_ids[i] }}{{ admin_url[i] }}{{ batch_url }}" > admin </a>
+          {% endif %}
+        </td>
+        <td>
+          {% if worker_urls[i][0] %}
+            <a href="{{base_url}}?chat_id={{ chat_ids[i] }}{{ worker_urls[i][0] }}{{ batch_url }}" > annotator_0 </a>
+          {% endif %}
+        </td>
+        <td>
+          {% if worker_urls[i][1] %}
+            <a href="{{base_url}}?chat_id={{ chat_ids[i] }}{{ worker_urls[i][1] }}{{ batch_url }}" > annotator_1 </a>
+          {% endif %}
+        </td>
+        <td>
+          {% if worker_urls[i][2] %}
+            <a href="{{base_url}}?chat_id={{ chat_ids[i] }}{{ worker_urls[i][2] }}{{ batch_url }}" > annotator_2 </a>
+          {% endif %}
+        </td>
+        <td>
+          {% if aggregated_url[i] %}
+            <a href="{{base_url}}?chat_id={{ chat_ids[i] }}{{ aggregated_url[i] }}{{ batch_url }}" > aggregated </a>
+          {% endif %}
+        </td>
+        <td>
+          {% if model_url[i] %}
+            <a href="{{base_url}}?chat_id={{ chat_ids[i] }}{{ model_url[i] }}{{ batch_url }}" > model </a>
+          {% endif %}
+        </td>
+        <td>{{ num_markables[i] }}</td>
+        <td>{{ num_ambiguous[i] }}</td>
+        <td>{{ num_unidentifiable[i] }}</td>
+        <td>{{ num_no_referent[i] }}</td>
+        <td>{{ observed_agreement[i] }}</td>
+        <td>{{ exact_match_rate[i] }}</td>
+      </tr>
+	{% endfor %}
+</table>
+
+</body>
+
+</html>
