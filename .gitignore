@@ -126,3 +126,4 @@ dmypy.json
 
 .DS_Store
 .stats_cache
+webapp/src/web/sample/

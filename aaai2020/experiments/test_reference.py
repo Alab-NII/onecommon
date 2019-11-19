@@ -78,6 +78,8 @@ def main():
         help='test ngram bleu')
     parser.add_argument('--temperature', type=float, default=0.1,
                         help='temperature')
+    parser.add_argument('--repeat_test', action='store_true', default=False,
+        help='repeat training n times')
 
     # for error analysis
     parser.add_argument('--transcript_file', type=str, default='final_transcripts.json',
@@ -87,19 +89,6 @@ def main():
     parser.add_argument('--show_errors', action='store_true', default=False,
         help='show errors')
 
-    # analysis parameters
-    parser.add_argument('--fix_misspellings', action='store_true', default=False,
-        help='fix misspellings')
-    parser.add_argument('--shuffle_utterance', action='store_true', default=False,
-        help='shuffle order of words in the utterance')
-    parser.add_argument('--shuffle_word_types', type=str, nargs='*', default=[],
-        help='shuffle specified class of words in the output')
-    parser.add_argument('--drop_word_types', type=str, nargs='*', default=[],
-        help='drop specified class of words in the output')
-    parser.add_argument('--replace_word_types', type=str, nargs='*', default=[],
-        help='replace specified class of words in the output')
-    parser.add_argument('--repeat_test', action='store_true', default=False,
-        help='repeat training n times')
     args = parser.parse_args()
 
     if args.bleu_n > 0:
@@ -129,9 +118,7 @@ def main():
         model.eval()
 
         corpus = model.corpus_ty(domain, args.data, train='train_reference_{}.txt'.format(seed), valid='valid_reference_{}.txt'.format(seed), test='test_reference_{}.txt'.format(seed), #test='selfplay_reference_{}.txt'.format(seed),
-            freq_cutoff=args.unk_threshold, verbose=True, fix_misspellings=args.fix_misspellings,
-            shuffle_utterance=args.shuffle_utterance, shuffle_word_types=args.shuffle_word_types,
-            drop_word_types=args.drop_word_types, replace_word_types=args.replace_word_types)
+            freq_cutoff=args.unk_threshold, verbose=True)
 
         with open(os.path.join(args.data, args.transcript_file), "r") as f:
             dialog_corpus = json.load(f)

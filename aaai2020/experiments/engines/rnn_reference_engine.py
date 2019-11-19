@@ -10,8 +10,6 @@ import shutil
 
 import pdb
 
-from keyword_dict import keyword_dict
-
 from logger import Logger
 
 import torch

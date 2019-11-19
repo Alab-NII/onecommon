@@ -44,10 +44,6 @@ def main():
         help='size of the hidden state for the attention module')
     parser.add_argument('--nhid_sel', type=int, default=64,
         help='size of the hidden state for the selection module')
-    parser.add_argument('--z_size', type=int, default=128,
-        help='size of the hidden variable')
-    parser.add_argument('--k_size', type=int, default=128,
-        help='size of the hidden variable dimensions')
     parser.add_argument('--share_attn', action='store_true', default=False,
         help='share attention modules for selection and language output')
     parser.add_argument('--optimizer', choices=['adam', 'rmsprop'], default='adam',
@@ -82,10 +78,6 @@ def main():
         help='reference loss weight')
     parser.add_argument('--sel_weight', type=float, default=1.0,
         help='selection loss weight')
-    parser.add_argument('--simple_posterior', action='store_true',
-        help='use simple simple_posterior')
-    parser.add_argument('--dec_use_attn', action='store_true',
-        help='use attention for the decoder')
     parser.add_argument('--seed', type=int, default=1,
         help='random seed')
     parser.add_argument('--cuda', action='store_true', default=False,
@@ -100,9 +92,6 @@ def main():
         help='repeat training n times')
     parser.add_argument('--corpus_type', choices=['full', 'uncorrelated', 'success_only'], default='full',
         help='type of training corpus to use')
-
-    parser.add_argument('--fix_misspellings', action='store_true', default=False,
-        help='fix misspellings')
     args = parser.parse_args()
 
     if args.repeat_train:
@@ -118,7 +107,7 @@ def main():
         model_ty = models.get_model_type(args.model_type)
 
         corpus = model_ty.corpus_ty(domain, args.data, train='train_reference_{}.txt'.format(seed), valid='valid_reference_{}.txt'.format(seed), test='test_reference_{}.txt'.format(seed),
-            freq_cutoff=args.unk_threshold, fix_misspellings=args.fix_misspellings, verbose=True)
+            freq_cutoff=args.unk_threshold, verbose=True)
 
         model = model_ty(corpus.word_dict, args)
         if args.cuda:

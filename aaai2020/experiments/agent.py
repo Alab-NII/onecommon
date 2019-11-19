@@ -10,7 +10,6 @@ from torch.autograd import Variable
 import torch.nn.functional as F
 import utils
 from dialog import DialogLogger
-import vis
 import domain
 from engines import Criterion
 import math
@@ -42,7 +41,7 @@ class Agent(object):
 
 
 class RnnAgent(Agent):
-    def __init__(self, model, args, name='Alice', train=False, diverse=False):
+    def __init__(self, model, args, name='Alice', train=False):
         super(RnnAgent, self).__init__()
         self.model = model
         self.args = args
@@ -203,3 +202,4 @@ class RnnAgent(Agent):
             self.loss_plot.update('loss', self.t, loss.data[0][0])
 
         self.opt.step()
+

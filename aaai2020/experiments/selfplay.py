@@ -82,19 +82,11 @@ def main():
         help='print out converations')
     parser.add_argument('--seed', type=int, default=1,
         help='random seed')
-    parser.add_argument('--simple_posterior', action='store_true',
-        help='use simple simple_posterior')
-    parser.add_argument('--dec_use_attn', action='store_true',
-        help='use attention for the decoder')
-    parser.add_argument('--score_threshold', type=int, default=6,
-        help='successful dialog should have more than score_threshold in score')
     parser.add_argument('--max_turns', type=int, default=20,
         help='maximum number of turns in a dialog')
     parser.add_argument('--log_file', type=str, default='selfplay.log',
         help='log dialogs to file')
     parser.add_argument('--smart_alice', action='store_true', default=False,
-        help='make Alice smart again')
-    parser.add_argument('--diverse_alice', action='store_true', default=False,
         help='make Alice smart again')
     parser.add_argument('--rollout_bsz', type=int, default=3,
         help='rollout batch size')
@@ -106,8 +98,6 @@ def main():
         help='path to save the final model')
     parser.add_argument('--rollout_model_file', type=str,  default='',
         help='path to save the final model')
-    parser.add_argument('--diverse_bob', action='store_true', default=False,
-        help='make Alice smart again')
     parser.add_argument('--ref_text', type=str,
         help='file with the reference text')
     parser.add_argument('--cuda', action='store_true', default=False,
@@ -124,8 +114,6 @@ def main():
         help='minimum word frequency to be in dictionary')
     parser.add_argument('--bsz', type=int, default=16,
         help='batch size')
-    parser.add_argument('--validate', action='store_true', default=False,
-        help='plot graphs')
     parser.add_argument('--plot_metrics', action='store_true', default=False,
         help='plot metrics')
     parser.add_argument('--markable_detector_file', type=str, default="markable_detector",
@@ -166,14 +154,11 @@ def main():
 
         alice_model = utils.load_model(args.alice_model_file + '_' + str(seed) + '.th')
         alice_ty = get_agent_type(alice_model, args.smart_alice)
-        alice = alice_ty(alice_model, args, name='Alice', train=False, diverse=args.diverse_alice)
-        alice.vis = args.visual
+        alice = alice_ty(alice_model, args, name='Alice', train=False)
 
         bob_model = utils.load_model(args.bob_model_file + '_' + str(seed) + '.th')
         bob_ty = get_agent_type(bob_model, args.smart_bob)
-        bob = bob_ty(bob_model, args, name='Bob', train=False, diverse=args.diverse_bob)
-
-        bob.vis = False
+        bob = bob_ty(bob_model, args, name='Bob', train=False)
 
         dialog = Dialog([alice, bob], args, markable_detector, markable_detector_corpus)
         ctx_gen = ContextGenerator(os.path.join(args.data, args.context_file + '.txt'))

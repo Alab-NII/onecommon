@@ -9,7 +9,6 @@ from metric import MetricsContainer
 import data
 import utils
 import domain
-from keyword_dict import keyword_dict
 
 class DialogLogger(object):
     def __init__(self, verbose=False, log_file=None, append=False, scenarios=None):
@@ -141,8 +140,6 @@ class Dialog(object):
             self.metrics.register_average('agree_%s_rew' % agent.name)
             self.metrics.register_percentage('%s_make_sel' % agent.name)
             self.metrics.register_uniqueness('%s_unique' % agent.name)
-            self.metrics.register_word_frequency('%s_color' % agent.name, keys=keyword_dict["color"])
-            #self.metrics.register_word_frequency('%s_nuance' % agent.name, keys=keyword_dict["nuance"])
             if "plot_metrics" in self.args and self.args.plot_metrics:
                 self.metrics.register_select_frequency('%s_sel_bias' % agent.name)
         # text metrics
@@ -190,7 +187,6 @@ class Dialog(object):
             if 'full_match' in self.metrics.metrics:
                 self.metrics.record('full_match', out)
             self.metrics.record('%s_unique' % writer.name, out)
-            self.metrics.record('%s_color' % writer.name, out)
 
             conv.append(out)
             speaker.append(writer.agent_id)

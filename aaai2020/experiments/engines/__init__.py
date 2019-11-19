@@ -17,8 +17,6 @@ from torch.autograd import Variable
 from torch.nn.modules.loss import _Loss
 import numpy as np
 
-from keyword_dict import keyword_dict
-
 from logger import Logger
 
 

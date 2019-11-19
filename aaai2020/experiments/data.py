@@ -9,8 +9,6 @@ from collections import OrderedDict, defaultdict
 import torch
 import numpy as np
 
-from keyword_dict import keyword_dict, replace_word_dict, misspelling_dict
-
 # special tokens
 SPECIAL = [
     '<eos>',
@@ -123,9 +121,7 @@ class WordCorpus(object):
     """
 
     def __init__(self, domain, path, freq_cutoff=2, train='train.txt',
-                 valid='valid.txt', test='test.txt', verbose=False,
-                 shuffle_utterance=False, fix_misspellings=False, shuffle_word_types=[],
-                 drop_word_types=[], replace_word_types=[], word_dict=None):
+                 valid='valid.txt', test='test.txt', verbose=False, word_dict=None):
         self.verbose = verbose
         if word_dict is None:
             self.word_dict = Dictionary.from_file(
@@ -139,13 +135,6 @@ class WordCorpus(object):
 
         # find out the output length from the train dataset
         self.output_length = max([len(x[1]) for x in self.train])
-
-        # parameters for modifying text data
-        self.fix_misspellings = fix_misspellings
-        self.shuffle_utterance = shuffle_utterance
-        self.shuffle_word_types = shuffle_word_types
-        self.drop_word_types = drop_word_types
-        self.replace_word_types = replace_word_types
 
     def tokenize(self, file_name):
         """Tokenizes the file and produces a dataset."""
@@ -245,9 +234,7 @@ class ReferenceCorpus(object):
     """
 
     def __init__(self, domain, path, freq_cutoff=2, train='train_reference.txt',
-                 valid='valid_reference.txt', test='test_reference.txt', verbose=False,
-                 shuffle_utterance=False, fix_misspellings=False, shuffle_word_types=[],
-                 drop_word_types=[], replace_word_types=[], word_dict=None):
+                 valid='valid_reference.txt', test='test_reference.txt', verbose=False, word_dict=None):
         self.verbose = verbose
         if word_dict is None:
             self.word_dict = Dictionary.from_file(
@@ -261,13 +248,6 @@ class ReferenceCorpus(object):
 
         # find out the output length from the train dataset
         self.output_length = max([len(x[1]) for x in self.train])
-
-        # parameters for modifying text data
-        self.fix_misspellings = fix_misspellings
-        self.shuffle_utterance = shuffle_utterance
-        self.shuffle_word_types = shuffle_word_types
-        self.drop_word_types = drop_word_types
-        self.replace_word_types = replace_word_types
 
     def tokenize(self, file_name):
         """Tokenizes the file and produces a dataset."""
@@ -397,8 +377,6 @@ class ReferenceCorpus(object):
 
         return batches, stats
 
-
-
 class MarkableCorpus(object):
     """An utility that stores the entire dataset.
 
@@ -406,9 +384,7 @@ class MarkableCorpus(object):
     """
 
     def __init__(self, domain, path, freq_cutoff=2, train='train_markable.txt',
-                 valid='valid_markable.txt', test='test_markable.txt', verbose=False,
-                 shuffle_utterance=False, fix_misspellings=False, shuffle_word_types=[],
-                 drop_word_types=[], replace_word_types=[], word_dict=None):
+                 valid='valid_markable.txt', test='test_markable.txt', verbose=False, word_dict=None):
         self.verbose = verbose
         if word_dict is None:
             self.word_dict = Dictionary.from_file(
@@ -424,13 +400,6 @@ class MarkableCorpus(object):
 
         # find out the output length from the train dataset
         self.output_length = max([len(x[1]) for x in self.train])
-
-        # parameters for modifying text data
-        self.fix_misspellings = fix_misspellings
-        self.shuffle_utterance = shuffle_utterance
-        self.shuffle_word_types = shuffle_word_types
-        self.drop_word_types = drop_word_types
-        self.replace_word_types = replace_word_types
 
     def tokenize(self, file_name):
         """Tokenizes the file and produces a dataset."""

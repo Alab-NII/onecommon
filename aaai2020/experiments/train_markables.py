@@ -25,35 +25,15 @@ START_TAG = "<START>"
 STOP_TAG = "<STOP>"
 
 def main():
-    parser = argparse.ArgumentParser(description='training script for reference resolution')
+    parser = argparse.ArgumentParser(description='training script for markable detection')
     parser.add_argument('--data', type=str, default='data/onecommon',
         help='location of the data corpus')
-    parser.add_argument('--ctx_encoder_type', type=str, default='mlp_encoder',
-        help='type of context encoder to use', choices=models.get_ctx_encoder_names())
-    parser.add_argument('--attention', action='store_true', default=False,
-        help='use attention')
     parser.add_argument('--nembed_word', type=int, default=128,
         help='size of word embeddings')
-    parser.add_argument('--nhid_rel', type=int, default=64,
-        help='size of the hidden state for the language module')
     parser.add_argument('--nembed_ctx', type=int, default=128,
         help='size of context embeddings')
-    parser.add_argument('--nembed_cond', type=int, default=128,
-        help='size of condition embeddings')
     parser.add_argument('--nhid_lang', type=int, default=128,
         help='size of the hidden state for the language module')
-    parser.add_argument('--nhid_strat', type=int, default=128,
-        help='size of the hidden state for the strategy module')
-    parser.add_argument('--nhid_attn', type=int, default=64,
-        help='size of the hidden state for the attention module')
-    parser.add_argument('--nhid_sel', type=int, default=64,
-        help='size of the hidden state for the selection module')
-    parser.add_argument('--z_size', type=int, default=128,
-        help='size of the hidden variable')
-    parser.add_argument('--k_size', type=int, default=128,
-        help='size of the hidden variable dimensions')
-    parser.add_argument('--share_attn', action='store_true', default=False,
-        help='share attention modules for selection and language output')
     parser.add_argument('--optimizer', choices=['adam', 'rmsprop'], default='adam',
         help='optimizer to use')
     parser.add_argument('--lr', type=float, default=0.001,
@@ -78,18 +58,6 @@ def main():
         help='batch size')
     parser.add_argument('--unk_threshold', type=int, default=20,
         help='minimum word frequency to be in dictionary')
-    parser.add_argument('--temperature', type=float, default=0.1,
-        help='temperature')
-    parser.add_argument('--lang_weight', type=float, default=1.0,
-        help='language loss weight')
-    parser.add_argument('--ref_weight', type=float, default=1.0,
-        help='reference loss weight')
-    parser.add_argument('--sel_weight', type=float, default=1.0,
-        help='selection loss weight')
-    parser.add_argument('--simple_posterior', action='store_true',
-        help='use simple simple_posterior')
-    parser.add_argument('--dec_use_attn', action='store_true',
-        help='use attention for the decoder')
     parser.add_argument('--seed', type=int, default=1,
         help='random seed')
     parser.add_argument('--cuda', action='store_true', default=False,
@@ -106,9 +74,6 @@ def main():
         help='test only')
     parser.add_argument('--corpus_type', choices=['full', 'uncorrelated', 'success_only'], default='full',
         help='type of training corpus to use')
-
-    parser.add_argument('--fix_misspellings', action='store_true', default=False,
-        help='fix misspellings')
     args = parser.parse_args()
 
     if args.repeat_train:
@@ -123,8 +88,7 @@ def main():
 
         domain = get_domain(args.domain)
 
-        corpus = BiLSTM_CRF.corpus_ty(domain, args.data, train='train_markable_{}.txt'.format(seed), valid='valid_markable_{}.txt'.format(seed), test='test_markable_{}.txt'.format(seed),
-            freq_cutoff=args.unk_threshold, fix_misspellings=args.fix_misspellings, verbose=True)
+        corpus = BiLSTM_CRF.corpus_ty(domain, args.data, train='train_markable_{}.txt'.format(seed), valid='valid_markable_{}.txt'.format(seed), test='test_markable_{}.txt'.format(seed), verbose=True)
 
         if args.test_only:
             best_model = utils.load_model(args.model_file + '_' + str(seed) + '.th')
@@ -136,11 +100,9 @@ def main():
             best_model.eval()
         else:
             model = BiLSTM_CRF(len(corpus.word_dict), corpus.bio_dict, args.nembed_word, args.nhid_lang)
-            #model = BiLSTM_CRF(len(corpus.word_dict), corpus.bio_dict, args.nembed_word, args.nhid_lang, args.bsz)
             optimizer = optim.Adam(
                     model.parameters(),
                     lr=args.lr)
-            #optimizer = optim.SGD(model.parameters(), lr=0.01, weight_decay=1e-4)
 
             if args.cuda:
                 model.cuda()
