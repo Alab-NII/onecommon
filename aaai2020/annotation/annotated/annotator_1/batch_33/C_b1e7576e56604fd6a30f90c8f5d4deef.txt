@@ -1,0 +1,5 @@
+1: large gray dot on the line alone
+0: No, triangle, two black, one medium grey
+1: no I have triangle of small black and 2 grays not the same color
+0: I have that too... pick smallest black
+1: ok

@@ -1,0 +1,4 @@
+0: Do you have two large dark grey dots same sized left one is slightly higher up
+1: Yes
+0: Take left
+1: ok

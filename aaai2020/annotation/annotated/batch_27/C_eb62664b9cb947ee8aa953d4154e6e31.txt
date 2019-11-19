@@ -1,0 +1,4 @@
+0: Hi do you have a large dark grey dot with a smaller light grey one directly under it and to the left a bit
+1: No. Do you have a really tiny medium grey dot?
+0: I have 2 of those. one is in the middle of 2 large dark dots, and the other one is alone on mine
+1: Choose the one in the middle of the 2 larger dots

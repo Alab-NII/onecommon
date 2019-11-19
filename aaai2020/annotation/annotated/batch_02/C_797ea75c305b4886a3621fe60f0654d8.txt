@@ -1,0 +1,5 @@
+0: I see a larger grey dot on the left of the circle.
+1: I dont have that. Do you have a small light gray dot near 5 o clock at bottom?
+0: Yes, I do have that. A slightly larger and darker grey dot is above it.
+1: Ok. Did you choose the light one?
+0: Yes.

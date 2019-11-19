@@ -1,0 +1,4 @@
+1: One huge one dark-ish gray
+0: I have 3 large grey dots do you?
+1: No. I have one very light gray one that is medium size
+0: Me too

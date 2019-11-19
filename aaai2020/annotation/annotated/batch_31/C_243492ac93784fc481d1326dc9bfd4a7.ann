@@ -1,0 +1,12 @@
+T1	Markable 96 107	the cluster
+T2	Markable 9 44	a small cluster of 3 dark grey dots
+T3	Markable 50 73	a single light grey dot
+T5	Markable 125 129	that
+T6	Markable 134 160	the cluster of 3 dark dots
+T7	Markable 219 230	the top one
+T8	Markable 198 213	a vertical line
+T10	Markable 298 312	the larger dot
+R1	Anaphora Arg1:T1 Arg2:T2	
+T4	Markable 171 172	2
+R2	Predicative Arg1:T8 Arg2:T4	
+T11	Markable 277 282	thats

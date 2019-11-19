@@ -1,0 +1,8 @@
+0: Five of mine are in a line, from upper left to lower right.
+1: I have one dark black dot furthest to the left. 11 o-'clock.
+1: Same here. Dark black furthest on the left.
+0: I don't have any black dots.
+1: Light grey above the line on the right? 2 o-clock?
+0: Very light colored? And quite large?
+1: Yes. Above and to the right of a large dark grey, and far above and to the left of a smaller one.
+0: Yes! Let's pick that lightest dot above the line.

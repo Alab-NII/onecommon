@@ -1,0 +1,4 @@
+0: do you have three dots in the center, dark medium same size and then a small medium color
+1: yes
+0: let's choose the center medium color one
+1: ok

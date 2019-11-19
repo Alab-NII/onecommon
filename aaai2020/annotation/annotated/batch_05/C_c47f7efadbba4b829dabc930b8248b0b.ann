@@ -1,0 +1,27 @@
+T1	Markable 36 42	a line
+T2	Markable 10 25	three grey dots
+T3	Markable 53 66	two grey dots
+T4	Markable 100 103	one
+T6	Markable 133 150	a large black one
+T7	Markable 175 191	three black dots
+T9	Markable 193 196	one
+T10	Markable 242 253	the biggest
+T11	Markable 227 240	to Black ones
+T12	Markable 274 278	that
+T13	Markable 377 380	one
+T14	Markable 399 410	a black one
+T16	Markable 446 449	one
+T17	Markable 470 485	your black dots
+T18	Markable 498 507	the other
+T19	Markable 463 466	one
+T20	Markable 516 523	the one
+T21	Markable 563 577	the bigger one
+R1	Predicative Arg1:T1 Arg2:T2	
+T22	Markable 90 93	two
+T5	Markable 285 290	yours
+T8	Markable 298 306	the dots
+A1	Generic T8
+#1	AnnotatorNotes T11	two black ones
+A2	Generic T5
+A3	Generic T12
+A4	Generic T13

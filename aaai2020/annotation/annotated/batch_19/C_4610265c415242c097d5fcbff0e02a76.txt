@@ -1,0 +1,4 @@
+1: got a triangle of 3 black dots
+0: Could be. One on right is smallest?
+1: is top medium grey bottom left large and black and the right the small black?
+0: Yes. Hit largest dot

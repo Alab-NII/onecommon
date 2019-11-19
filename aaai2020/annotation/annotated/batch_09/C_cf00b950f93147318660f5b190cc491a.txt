@@ -1,0 +1,5 @@
+0: Do you see a large dark grey dot next to two medium light grey dots?
+1: i see a dark gray dot in the middle of two lighter gray dots
+0: yes!
+1: pick the darker one?
+0: yep

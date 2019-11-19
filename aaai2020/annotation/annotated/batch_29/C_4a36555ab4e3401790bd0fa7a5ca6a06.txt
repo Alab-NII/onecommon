@@ -1,0 +1,4 @@
+1: Do you have a tiny medium shade grey dot?
+0: Black large dot, to the left and slightly higher is tiny grey, and below that large black is a pair of grey
+1: Yes! Which should we pick?
+0: Large black

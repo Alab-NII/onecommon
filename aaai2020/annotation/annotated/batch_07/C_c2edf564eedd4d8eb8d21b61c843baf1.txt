@@ -1,0 +1,5 @@
+1: do you have a large black dot with a medium grey to the right and slightly below?
+0: no
+1: do you have a small grey dot mostly alone? in my circle, theres a medium black one below and far to the left of it.
+0: Yes I have that. Should we click on the medium black dot?
+1: yes

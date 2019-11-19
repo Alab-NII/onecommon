@@ -1,0 +1,4 @@
+1: i have a cluster of 3. darkest is med/small. to the right is lighter, slightly smaller, with med/dark and larger one below that... all on the left
+0: yes lets click the dark one
+1: the dark small one or dark large one?
+0: The dark small one in the cluster it is actually more the med. size of the bunch

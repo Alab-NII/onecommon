@@ -1,0 +1,15 @@
+T1	Markable 50 52	it
+T2	Markable 64 70	itself
+T3	Markable 141 151	each other
+T4	Markable 118 120	it
+T5	Markable 188 219	Two smaller to medium dark dots
+T6	Markable 234 244	each other
+T7	Markable 290 301	the top one
+T8	Markable 3 29	My largest and darkest dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T9	Markable 77 98	two of the same color
+T10	Markable 103 110	smaller
+R2	Anaphora Arg1:T3 Arg2:T9	
+T11	Markable 171 175	what
+R3	Anaphora Arg1:T6 Arg2:T5	
+T12	Markable 247 254	Top one

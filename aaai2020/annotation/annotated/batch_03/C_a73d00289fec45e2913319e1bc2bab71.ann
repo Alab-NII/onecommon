@@ -1,0 +1,11 @@
+T2	Markable 37 48	a black dot
+T3	Markable 78 92	any black dots
+T5	Markable 139 149	a triangle
+T6	Markable 183 204	a big medium gray dot
+T8	Markable 170 182	the triangle
+T9	Markable 222 230	that one
+A1	No-Referent T3
+T1	Markable 117 123	3 dots
+R1	Predicative Arg1:T5 Arg2:T1	
+T4	Markable 232 243	the "point"
+R2	Predicative Arg1:T4 Arg2:T9	

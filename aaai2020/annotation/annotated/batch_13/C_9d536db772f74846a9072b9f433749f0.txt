@@ -1,0 +1,5 @@
+1: I see a medium sized dark dot right above a slightly larger gray dot
+0: Do you have one black dot directly above a slightly larger and lighter dot?
+1: Yes!
+0: That's our dot man
+1: That was quick

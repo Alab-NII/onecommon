@@ -1,0 +1,12 @@
+T1	Markable 3 16	Big black dot
+T2	Markable 34 43	a cluster
+T3	Markable 53 60	one dot
+T4	Markable 117 119	it
+T5	Markable 123 129	itself
+T6	Markable 157 165	4 others
+T7	Markable 181 183	it
+T8	Markable 73 83	all others
+T9	Markable 100 110	all others
+R1	Anaphora Arg1:T9 Arg2:T8	
+R2	Anaphora Arg1:T5 Arg2:T4	
+T10	Markable 137 139	it

@@ -1,0 +1,4 @@
+0: Do you have 3 dots in a triangle shape? left dot is smallest and lightest?
+1: i have a tiny black dot with grey dots at it's 10, 12, and 2.
+0: same.
+1: ok. choose the black dot?

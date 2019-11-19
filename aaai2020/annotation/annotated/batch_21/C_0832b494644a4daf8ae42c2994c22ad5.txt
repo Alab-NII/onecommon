@@ -1,0 +1,4 @@
+0: I've got a large black dot, which another smaller black dot to its left and below.
+1: I think I see it. are they away from all the other dots?
+0: Yeah, to some degree.
+1: Okay, choose the larger one

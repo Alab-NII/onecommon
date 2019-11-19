@@ -1,0 +1,4 @@
+1: one large black dot above center and one large slightly lighter dark dot above and to the right
+0: Large light grey dot with a small darker grey dot immediately left and slightly lower
+1: yes I see that select the large light one
+0: ok

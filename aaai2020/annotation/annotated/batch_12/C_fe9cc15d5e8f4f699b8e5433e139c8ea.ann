@@ -1,0 +1,16 @@
+T1	Markable 15 22	one dot
+T2	Markable 182 189	the dot
+T3	Markable 115 118	one
+T4	Markable 143 146	one
+T5	Markable 80 82	it
+T6	Markable 228 236	the dots
+T7	Markable 267 274	the dot
+T8	Markable 316 321	a dot
+T9	Markable 434 444	a triangle
+T10	Markable 461 465	that
+T11	Markable 483 490	the one
+T13	Markable 58 72	all the others
+T14	Markable 107 113	2 dots
+A2	No-Referent T6
+T15	Markable 415 426	3 dark dots
+R2	Predicative Arg1:T9 Arg2:T15	

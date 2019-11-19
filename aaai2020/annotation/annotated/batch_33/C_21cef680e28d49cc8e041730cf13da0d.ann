@@ -1,0 +1,11 @@
+T1	Markable 76 78	it
+T2	Markable 10 27	a large black dot
+T3	Markable 34 57	the same size light dot
+T4	Markable 121 130	that pair
+T5	Markable 160 168	the pair
+T6	Markable 191 199	the pair
+T7	Markable 260 277	the top black dot
+T8	Markable 293 301	the rest
+R1	Anaphora Arg1:T1 Arg2:T2	
+T9	Markable 91 100	a similar
+T10	Markable 236 249	the two pairs

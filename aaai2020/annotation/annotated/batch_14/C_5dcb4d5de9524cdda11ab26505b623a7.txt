@@ -1,0 +1,5 @@
+1: medium black dot all alone near 1 oclock
+0: do you have a large black with a smaller gray slightly to the right below it?
+1: yes i have the large black dot with medium grey just below
+0: select
+1: ok select large black

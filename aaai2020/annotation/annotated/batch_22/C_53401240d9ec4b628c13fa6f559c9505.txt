@@ -1,0 +1,4 @@
+0: Do you have a light grey dot and a larger dark grey dot close together?
+1: yes
+0: Great. Wanna do the larger dark grey dot?
+1: ok select the larger one

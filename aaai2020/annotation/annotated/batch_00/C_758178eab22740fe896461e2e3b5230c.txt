@@ -1,0 +1,3 @@
+0: I have one large dark dot, small gray and medium light gray making a triangle
+1: big dark grey with small light grey to upper left and small grey to upper right? if yes pick big dark grey
+0: correct, i will pick the large one

@@ -1,0 +1,3 @@
+1: Big black circle bottom of circle?
+0: I have four large black dots, one in the center, three others at 3, 6, and 10.
+1: pick the one at 6

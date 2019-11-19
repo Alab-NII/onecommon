@@ -1,0 +1,17 @@
+T1	Markable 39 42	one
+T2	Markable 68 71	one
+T3	Markable 27 37	each other
+T4	Markable 9 17	two dots
+T5	Markable 209 216	the one
+T6	Markable 234 245	the darkest
+T7	Markable 124 134	three dots
+T8	Markable 169 186	a horizontal line
+T10	Markable 278 292	the middle dot
+T11	Markable 325 329	that
+R1	Anaphora Arg1:T3 Arg2:T4	
+T12	Markable 112 116	that
+A1	No-Referent T12
+R2	Predicative Arg1:T8 Arg2:T7	
+R3	Predicative Arg1:T6 Arg2:T5	
+T13	Markable 256 260	that
+R4	Anaphora Arg1:T11 Arg2:T10	

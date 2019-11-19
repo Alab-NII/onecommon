@@ -1,0 +1,12 @@
+T1	Markable 10 20	three dots
+T2	Markable 52 63	The top one
+T3	Markable 67 78	the largest
+T5	Markable 80 94	The bottom one
+T6	Markable 185 199	the middle one
+T7	Markable 145 156	the top one
+T8	Markable 206 224	that top large one
+T9	Markable 273 278	thats
+T10	Markable 232 246	The middle one
+T11	Markable 286 290	that
+R1	Predicative Arg1:T3 Arg2:T2	
+T4	Markable 308 315	the top

@@ -1,0 +1,3 @@
+0: i have a small black dot with a very light one below it
+1: i've got a lot clustered in the center. the lightest of them has a black one above ... is there a dark grey larger one to the left of your black one?
+0: yes. lets pick the black one

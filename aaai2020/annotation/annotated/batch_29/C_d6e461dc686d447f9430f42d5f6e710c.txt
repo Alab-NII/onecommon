@@ -1,0 +1,4 @@
+1: Do you have a large black dot?
+0: is there a smaller (but still kind of large) slightly lighter dot down to its right?
+1: Yes!! Which do you want to choose?
+0: the larger darker one!

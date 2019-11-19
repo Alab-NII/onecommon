@@ -1,0 +1,4 @@
+1: I see 3 darker dots clustered together towards the bottom left
+0: there r all dark dots one light grey mid center right do u have it
+1: Yes I see that one
+0: lets click it

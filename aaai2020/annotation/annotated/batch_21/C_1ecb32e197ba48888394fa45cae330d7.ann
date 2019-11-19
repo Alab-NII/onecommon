@@ -1,0 +1,7 @@
+T1	Markable 49 64	a vertical line
+T2	Markable 74 78	that
+T3	Markable 85 96	the top one
+T4	Markable 114 125	the top one
+T5	Markable 3 23	two black small dots
+R1	Anaphora Arg1:T1 Arg2:T5	
+R2	Anaphora Arg1:T4 Arg2:T3	

@@ -1,0 +1,4 @@
+1: I have a medium large black dot with a much smaller dot directly to the left. They are very close together
+0: is the small dot black?
+1: yes and slightly above
+0: yup pick the small one

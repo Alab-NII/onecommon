@@ -1,0 +1,4 @@
+0: I have a group of dots making a triangle... to the right
+1: What is the color of the dots
+0: a large light gray, and 2 black dots one is slightly smaller than the other
+1: Let us try the large light gray

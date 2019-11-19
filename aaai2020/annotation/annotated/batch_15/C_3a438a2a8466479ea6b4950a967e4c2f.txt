@@ -1,0 +1,8 @@
+1: The first dot I see is on the very top right of the circle touching the dotted line.
+0: i have large black dot touching to the top left of the circle
+1: I don't have that dot, I do have a large dark gray dot next to a medium light large dot near the top left center of the circle. Do you have those dots?
+0: i have one large black dot at the top (noon), below is is a smaller dark dot and to its left bottom is medium size gray
+1: We have the medium size gray dot in common, do you have a slightly smaller but same color dot below that one?
+0: i have light gray at bottom of circle with a smaller gray one above it
+1: We have those in common as well, so far that's three. Do you have a larger dark gray dot around 2 oclock inside the circle?
+0: pick one at the bottom

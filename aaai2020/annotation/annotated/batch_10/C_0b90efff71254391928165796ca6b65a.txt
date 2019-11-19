@@ -1,0 +1,9 @@
+1: Do you have three dots in a vertical line?
+0: kind of but they are all different sizes
+1: Is the top one small and dark?
+0: no
+1: Do you have a small dark one in between 2 lighter ones vertically?
+0: no
+1: A small dark gray one by itself?
+0: yes all the way on the top of the circle ring
+1: Ok let's pick that

@@ -1,0 +1,5 @@
+0: I see a big, dark dot by itself
+1: me too, let's hit it?
+0: Just to confirm: do you also see one above and slightly to the left that's smaller and lighter?
+1: yep
+0: okay, let's do the dark one then

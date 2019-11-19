@@ -1,0 +1,4 @@
+0: 2 dots close together forming a triangle?
+1: I do see a triangle, is the one on the bottom the darkest?
+0: Yes click the smallest that is furthest right
+1: ok, very well done

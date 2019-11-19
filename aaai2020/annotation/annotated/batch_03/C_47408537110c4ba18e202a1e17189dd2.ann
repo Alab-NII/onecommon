@@ -1,0 +1,6 @@
+T1	Markable 3 17	All of my dots
+T2	Markable 50 67	a small black dot
+T3	Markable 105 111	itself
+T4	Markable 84 93	most dots
+T5	Markable 138 140	it
+R1	Anaphora Arg1:T3 Arg2:T2	

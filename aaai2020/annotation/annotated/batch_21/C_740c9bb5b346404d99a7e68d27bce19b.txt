@@ -1,0 +1,5 @@
+0: i see a cluster up top with four circles of various shades.
+1: My smallest one is dark grey and near my edge. It's fairly tightly clustered with two others. There is a much lighter one of about the same size and a larger one that's slightly lighter.
+0: i do see a small dark grey dot with another lighter dot that is slightly larger, but not by much.
+1: Let's choose the darker one.
+0: all right.

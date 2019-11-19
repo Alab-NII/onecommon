@@ -1,0 +1,10 @@
+1: Do you have one large gray dot
+0: I have a large dark gray dot near a slightly smaller & slightly lighter gray dot
+1: Is the large dot noticeably bigger than the rest of the gray dots?
+0: No, is the dot you're talking about under a slightly smaller dot?
+1: Mine is a stand alone dot, but it is the biggest normal gray dot I have.
+0: is it near an edge? I might not have this dot
+1: Do you have one black dot?
+0: Yes
+1: Is it medium sized? Do you want to select that one?
+0: Yeah, lets select it

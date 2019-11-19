@@ -1,0 +1,21 @@
+T1	Markable 49 60	larger dots
+T3	Markable 76 80	that
+T4	Markable 132 139	the one
+T5	Markable 181 188	the one
+T6	Markable 233 240	the one
+T7	Markable 249 253	that
+T8	Markable 88 98	three dots
+T9	Markable 326 346	the almost black one
+T10	Markable 362 382	the smaller grey one
+T11	Markable 296 305	your dots
+T12	Markable 466 486	the almost black one
+T13	Markable 9 26	cluster of 3 dots
+R1	Anaphora Arg1:T7 Arg2:T5	
+T14	Markable 315 325	the left 2
+T15	Markable 437 451	the same thing
+T16	Markable 503 517	smallest black
+A2	No-Referent T3
+T17	Markable 197 200	the
+#1	AnnotatorNotes T17	that
+R2	Anaphora Arg1:T17 Arg2:T4	
+R3	Predicative Arg1:T1 Arg2:T13	

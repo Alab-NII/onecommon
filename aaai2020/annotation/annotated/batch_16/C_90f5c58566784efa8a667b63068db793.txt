@@ -1,0 +1,7 @@
+1: do you see a tiny black dot off by itself?
+0: do you have 3 dots that are almost linear and each are a different shade
+1: yes...chosse the black one
+0: the ones that are like 2/3 cm apart
+1: is one on the end black?
+0: yes
+1: choose the black one

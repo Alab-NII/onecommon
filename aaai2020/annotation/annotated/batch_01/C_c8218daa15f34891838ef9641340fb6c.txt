@@ -1,0 +1,5 @@
+0: Do you a very dark dot towards the bottom right of your circle
+1: I have a large black dot that is right below a small grey dot in the right of my circle.
+0: The light dark is above the big dark gray dot is that correct
+1: Yes. Select the larger dark one.
+0: Ok will do

@@ -1,0 +1,4 @@
+0: I have 4 black (or very dark dots) forming a zig-zag line
+1: I see 2 large black and 1 medium black dots together
+0: That is probably 3 of my 4 dots. Is the smaller dot in the middle of the 3 you see?
+1: let us click on small one

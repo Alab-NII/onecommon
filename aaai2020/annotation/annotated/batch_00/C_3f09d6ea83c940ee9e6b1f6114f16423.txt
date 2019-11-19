@@ -1,0 +1,6 @@
+0: Hello, do you have a dark dot near the center?
+1: No - our views are different. I see a medium size dark dot with a lighter dot just below and to it's right
+0: Ok. I have A dark dot with a slightly smaller gray dot below and to the right
+1: Must be the same ones. Which one would you like to select?
+0: The darker one
+1: Great!

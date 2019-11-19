@@ -1,0 +1,4 @@
+0: I have a group of three dots top right, and a group of four dots near the bottom
+1: i have 5 dots across the bottom of mine, 4 are in a row and 1 large grey one is just above the row of 4
+0: I see the large grey one let's choose that one
+1: ok

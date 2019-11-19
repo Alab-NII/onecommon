@@ -1,0 +1,14 @@
+T2	Markable 108 128	two medium gray dots
+T3	Markable 134 144	each other
+T4	Markable 245 252	the one
+T5	Markable 270 298	a darker gray and bigger dot
+T6	Markable 316 320	that
+T7	Markable 396 409	the black one
+T8	Markable 10 33	a dark medium sized dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+T1	Markable 185 194	the above
+T9	Markable 199 204	below
+T10	Markable 205 215	each other
+T11	Markable 322 331	Which dot
+A1	Generic T11
+T12	Markable 353 380	the bottom lighter gray one

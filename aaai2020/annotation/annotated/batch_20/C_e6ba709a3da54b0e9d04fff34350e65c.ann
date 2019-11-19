@@ -1,0 +1,25 @@
+T1	Markable 9 22	two grey dots
+T2	Markable 73 84	the top one
+T3	Markable 146 175	the same colored one and size
+T5	Markable 410 422	the same one
+T6	Markable 288 301	a smaller one
+T7	Markable 456 472	the rest of mine
+T8	Markable 363 365	it
+T9	Markable 537 549	a darker one
+T10	Markable 576 583	the two
+T12	Markable 672 705	a light gray, slightly larger dot
+T13	Markable 631 642	The top one
+T14	Markable 722 724	it
+T15	Markable 726 733	The one
+T16	Markable 815 822	the one
+T17	Markable 105 116	darker gray
+T18	Markable 352 359	nothing
+A1	No-Referent T18
+R1	Anaphora Arg1:T8 Arg2:T6	
+T4	Markable 499 503	Mine
+T19	Markable 604 629	almost vertical, med gray
+R2	Anaphora Arg1:T19 Arg2:T10	
+T11	Markable 646 651	those
+R3	Anaphora Arg1:T11 Arg2:T10	
+T20	Markable 776 791	everything else
+T21	Markable 851 864	the 3 o clock

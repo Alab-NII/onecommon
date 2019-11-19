@@ -1,0 +1,5 @@
+1: I have a larger black dot with a very small lighter dot right above it
+0: I don't have that. I have three dots. They make a right diagonal line. Almost the same size, different colors?
+1: Is the center one the lightest of the 3?
+0: Yes. Let's choose that one.
+1: ok

@@ -1,0 +1,4 @@
+1: I see a light gray dot that is very small at the very edge of the right
+0: Hey do you see two dots extremely close together? The big one being on top?
+1: Yes
+0: take big one

@@ -1,0 +1,5 @@
+1: I have a lot of dark dots all bunched. Mid one is smallest
+0: I think I have the same thing. The middle one is the farthest to the left?
+1: Maybe in your circle, to the right of the three you see, are there 2 light dots?
+0: Yes. One is at the bottom right (and a little closer) and the other is at top right (and a little farther away).
+1: Yes click mid dark that we spoke of from the beginning

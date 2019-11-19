@@ -1,0 +1,4 @@
+0: the biggest dot is the darkest
+1: Is it close to two light ones
+0: yes more toward the dot on the right
+1: Select the big black

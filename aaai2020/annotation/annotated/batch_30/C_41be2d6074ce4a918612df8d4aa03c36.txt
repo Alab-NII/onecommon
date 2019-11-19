@@ -1,0 +1,5 @@
+1: Hi do you have a large medium gray dot with a slightly smaller light one to its right, slightly lower
+0: I'm not sure. Do you see two large dots, one black one medium grey same size next to each other?
+1: I do not have that on mine. How about 2 smaller light ones almost the same size, one is below it and to the left
+0: i see that, the top one may be bigger?
+1: yes lets click that one

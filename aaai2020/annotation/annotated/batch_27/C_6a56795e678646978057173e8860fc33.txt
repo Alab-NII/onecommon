@@ -1,0 +1,3 @@
+0: two tiny dots almost on a vertical line but opposite in shade?
+1: Let us select the darkest
+0: is the darkest on top? if so then yes click that one!

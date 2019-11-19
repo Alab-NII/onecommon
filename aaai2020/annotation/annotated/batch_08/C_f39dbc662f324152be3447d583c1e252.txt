@@ -1,0 +1,5 @@
+1: Do you see a light grey dot in the middle of two medium grey dots?
+0: yes
+1: The light grey dot is smaller than the two darker grey dots?
+0: yes. should we pick the smaller lighter one in the middle?
+1: Yes

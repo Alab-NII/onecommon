@@ -1,0 +1,4 @@
+0: small black dot by itself
+1: yes
+0: choose it
+1: ok

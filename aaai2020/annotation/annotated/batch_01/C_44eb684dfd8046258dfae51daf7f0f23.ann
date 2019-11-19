@@ -1,0 +1,7 @@
+T2	Markable 10 25	a dark gray dot
+T3	Markable 100 104	that
+T4	Markable 113 129	a light gray dot
+A1	No-Referent T3
+T1	Markable 153 157	Mine
+T5	Markable 181 184	its
+R1	Anaphora Arg1:T5 Arg2:T1	

@@ -1,0 +1,8 @@
+0: medium black dot with a larger dark dot directly under it?
+1: I see a gray dot off to the left side.
+0: do you have 3 that make a triangle
+1: Where one is smaller than the other two?
+0: yes, i have 2 like that. one is all light grey ones and one is all dark ones. which do u have?
+1: Mine all are all black. Do you have a grey dot on the left side all by its self?
+0: yes i have the all black triangle. pick the smallest of those 3
+1: ok sounds good

@@ -1,0 +1,19 @@
+T1	Markable 9 17	two dots
+T2	Markable 169 183	the second one
+T3	Markable 197 203	a line
+T4	Markable 144 153	first one
+T5	Markable 229 242	the first one
+T6	Markable 308 317	a big one
+T7	Markable 295 302	a group
+T8	Markable 270 274	they
+T9	Markable 368 387	that very small one
+T11	Markable 29 39	themselves
+R1	Anaphora Arg1:T11 Arg2:T1	
+T12	Markable 41 58	one lighter shade
+T13	Markable 65 81	one darker shade
+T14	Markable 117 141	my two darkest grey dots
+T15	None 164 168	that
+#1	AnnotatorNotes T15	than
+R2	Anaphora Arg1:T5 Arg2:T4	
+R3	Anaphora Arg1:T3 Arg2:T14	
+T16	Markable 324 340	a very small one

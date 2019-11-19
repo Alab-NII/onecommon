@@ -1,0 +1,9 @@
+T1	Markable 10 27	a large light dot
+T2	Markable 35 41	itself
+T3	Markable 109 122	the lower one
+T4	Markable 138 142	they
+T5	Markable 167 171	that
+T6	Markable 193 208	the darkest one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T7	Markable 81 107	Two tiny similar size dots
+R2	Anaphora Arg1:T4 Arg2:T7	

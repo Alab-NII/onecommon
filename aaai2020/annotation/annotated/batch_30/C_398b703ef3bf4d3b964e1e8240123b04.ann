@@ -1,0 +1,6 @@
+T1	Markable 13 36	same tiny and light dot
+T2	Markable 116 126	each other
+T3	Markable 77 98	2 light gray dot tiny
+#1	AnnotatorNotes T1	two same tiny and light dot
+R1	Anaphora Arg1:T2 Arg2:T3	
+T4	Markable 137 148	the topmost

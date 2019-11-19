@@ -1,0 +1,8 @@
+1: two almost identical in size large dots close to each other but opposite in shade?
+0: Yes, I see that towards the upper left
+1: Yes which one did you click??
+0: The lighter one, which is slightly larger.
+1: where is the lighter one in relation to the top?
+0: The lighter one is lower than the darker one
+1: right but to which side?
+0: The lighter one is farther left than the lighter one.

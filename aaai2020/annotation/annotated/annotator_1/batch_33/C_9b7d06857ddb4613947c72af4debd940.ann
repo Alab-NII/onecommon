@@ -1,0 +1,10 @@
+T1	Markable 10 26	a large dark dot
+T2	Markable 73 93	a lighter medium dot
+T3	Markable 70 72	it
+T4	Markable 103 127	3 almost horizontal dots
+T5	Markable 129 132	one
+T6	Markable 176 180	that
+T7	Markable 238 250	the dark one
+R1	Anaphora Arg1:T3 Arg2:T1	
+A1	No-Referent T6
+T8	Markable 198 202	what

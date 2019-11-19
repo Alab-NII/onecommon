@@ -1,0 +1,7 @@
+T1	Markable 132 139	top one
+T2	Markable 3 16	two tiny dots
+T3	Markable 36 46	each other
+R1	Anaphora Arg1:T3 Arg2:T2	
+T4	Markable 73 76	top
+T5	Markable 106 115	which one
+A1	Generic T5

@@ -1,0 +1,5 @@
+1: I have one very dark dot small to medium sized at the very right edge of my circle do you see it?
+0: I don't see that one. Do you have a light colored dot right on the circle?
+1: All my light colored dots are central. But I do have a light medium dot that is right underneath a very small light do.
+0: Is it at the 11 o'clock position?
+1: Let's just pick your lightest smallest dot

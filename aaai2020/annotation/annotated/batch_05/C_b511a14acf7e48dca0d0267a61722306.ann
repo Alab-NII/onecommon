@@ -1,0 +1,11 @@
+T1	Markable 81 98	a small black dot
+T2	Markable 134 158	another medium black dot
+T3	Markable 126 128	it
+T4	Markable 49 66	a large black dot
+T5	Markable 189 203	the larger one
+T6	Markable 210 222	that cluster
+T7	Markable 244 254	the others
+T8	Markable 3 10	one dot
+T9	Markable 26 38	all the rest
+R1	Anaphora Arg1:T3 Arg2:T4	
+A1	Generic T7

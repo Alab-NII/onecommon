@@ -1,0 +1,10 @@
+T1	Markable 31 41	each other
+T2	Markable 57 91	the tight group of three tiny dots
+T3	Markable 93 104	bottom left
+T4	Markable 142 150	that one
+T6	Markable 173 184	the top one
+T7	Markable 253 266	the other one
+T8	Markable 215 227	top dark one
+T9	Markable 3 21	two very tiny dots
+R1	Anaphora Arg1:T1 Arg2:T9	
+A1	No-Referent T4

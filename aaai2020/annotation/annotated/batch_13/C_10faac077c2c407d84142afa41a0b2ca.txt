@@ -1,0 +1,6 @@
+0: Do you see a light gray dot at approximately 5:00?
+1: Hi do you have three close together that make a small upside down triangle?
+0: yes I believe so
+1: the left one is smaller and darker?
+0: yes
+1: Great! lets click the smaller darker one on the left?

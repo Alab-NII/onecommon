@@ -1,0 +1,3 @@
+0: I have a large medium gray dot with a much smaller same color dot to the left and slightly above it
+1: I see the large grey dot the smaller dot is about an inch above it.
+0: Yes. Let's pick the larger one to the right

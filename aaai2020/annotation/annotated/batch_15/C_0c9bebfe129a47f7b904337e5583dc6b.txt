@@ -1,0 +1,7 @@
+1: i have one up high and alone
+0: Do you have high one being a darkest medium dot and the bottom is lighter in color?
+1: yes
+0: Select the darker one?
+1: the one up high?
+0: By itself but nearest one to it is the same color dot below.
+1: ok, I'll pick that one

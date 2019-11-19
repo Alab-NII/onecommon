@@ -1,0 +1,3 @@
+0: i have two dots exactly horizontal, both dark grey, the one on the right slightly smaller
+1: Let's try the dot on the left. The bigger dot.
+0: got it

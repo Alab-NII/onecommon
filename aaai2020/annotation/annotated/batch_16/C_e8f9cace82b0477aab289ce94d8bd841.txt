@@ -1,0 +1,4 @@
+1: do you see 2 big ones close by, one is lighter than the other?
+0: yes a dark one and then a lighter one to the right of it
+1: correct let's pick the lighter one, ok?
+0: alright

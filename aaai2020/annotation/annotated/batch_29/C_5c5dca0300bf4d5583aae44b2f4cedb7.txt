@@ -1,0 +1,6 @@
+0: Hi do you have a small dark grey dot right beside a slightly bigger light grey dot? Kinda off by themselves?
+1: Is the bigger light grey to the left of it?
+0: Just to the left
+1: Okay! Which should we choose?
+0: Umm, light grey?
+1: Okay!

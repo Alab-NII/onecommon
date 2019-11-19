@@ -1,0 +1,32 @@
+T1	Markable 15 26	a black dot
+T2	Markable 31 33	it
+T3	Markable 58 60	it
+T4	Markable 64 77	a lighter one
+T5	Markable 112 143	a slightly smaller med/grey one
+T6	Markable 200 203	one
+T7	Markable 258 261	one
+T8	Markable 209 213	mine
+T9	Markable 277 279	it
+T10	Markable 281 285	Mine
+T11	Markable 300 306	itself
+T12	Markable 314 316	it
+T13	Markable 330 346	a small grey one
+T14	Markable 353 355	it
+T15	Markable 359 361	it
+T16	Markable 407 414	the one
+T17	Markable 470 474	that
+T18	Markable 371 389	then the black one
+T19	Markable 490 494	mine
+T21	Markable 552 579	a slightly larger black one
+T22	Markable 596 598	it
+T23	Markable 646 667	the smallish grey one
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+T24	Markable 99 101	it
+T25	Markable 170 172	it
+A1	No-Referent T7
+R3	Anaphora Arg1:T11 Arg2:T10	
+R4	Anaphora Arg1:T14 Arg2:T12	
+R5	Anaphora Arg1:T15 Arg2:T12	
+T26	Markable 519 545	a smallish medium gray dot
+R6	Anaphora Arg1:T22 Arg2:T26	

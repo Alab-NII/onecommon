@@ -1,0 +1,5 @@
+0: tiny black dot?
+1: Mine is in the center?
+0: your center might be diff from mine. anything around the black dot that you see?
+1: There is a grey dot northwest of it
+0: yes click the black one

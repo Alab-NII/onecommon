@@ -1,0 +1,11 @@
+T1	Markable 14 31	a large light dot
+T2	Markable 99 130	a slightly smaller, lighter one
+T3	Markable 56 73	a large light dot
+T4	Markable 168 170	it
+T5	Markable 186 190	that
+T6	Markable 202 232	a very light, medium sized dot
+T8	Markable 239 260	a darker, smaller one
+T9	Markable 310 314	that
+T10	Markable 340 369	the lighter, medium sized one
+R1	Anaphora Arg1:T4 Arg2:T3	
+A1	No-Referent T5

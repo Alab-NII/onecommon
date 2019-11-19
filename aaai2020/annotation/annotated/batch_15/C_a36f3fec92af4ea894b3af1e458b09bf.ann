@@ -1,0 +1,8 @@
+T1	Markable 15 31	a tiny black dot
+T2	Markable 118 131	the other two
+T3	Markable 47 57	three dots
+T4	Markable 138 152	the darker dot
+T6	Markable 190 208	the small dark dot
+T7	Markable 85 95	a triangle
+R1	Predicative Arg1:T7 Arg2:T3	
+T8	Markable 96 105	one piece

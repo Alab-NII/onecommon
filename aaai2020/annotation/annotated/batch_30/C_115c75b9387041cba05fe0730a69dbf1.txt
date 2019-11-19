@@ -1,0 +1,4 @@
+0: Large black next to tint light
+1: yes if the large black one is below the tiny and slightly to the right click that large black one
+0: It is
+1: k

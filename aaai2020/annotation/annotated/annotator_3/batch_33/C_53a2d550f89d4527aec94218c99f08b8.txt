@@ -1,0 +1,3 @@
+0: Three dots forming a perfect triangle. Bottom being the lightest and largest, two at top are horizontal to each other the one on right being darkest
+1: Yes. Which one do we click?
+0: Bottom

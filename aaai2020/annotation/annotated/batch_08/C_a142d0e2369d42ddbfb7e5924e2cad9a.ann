@@ -1,0 +1,18 @@
+T1	Markable 85 115	a slightly larger, smaller dot
+T2	Markable 57 79	a very small black dot
+T3	Markable 144 164	this black small dot
+T4	Markable 203 207	that
+T5	Markable 349 364	a vertical line
+T6	Markable 321 341	two larger grey dots
+T7	Markable 291 307	a grey small dot
+T8	None 373 375	it
+T9	Markable 376 378	it
+T10	Markable 385 414	a larger, slightly darker dot
+T11	Markable 3 21	one dark small dot
+R1	Anaphora Arg1:T4 Arg2:T3	
+T12	Markable 211 213	it
+T13	Markable 311 315	line
+R2	Predicative Arg1:T13 Arg2:T7	
+R3	Predicative Arg1:T5 Arg2:T6	
+#1	AnnotatorNotes T8	is
+T14	Markable 432 447	that small grey

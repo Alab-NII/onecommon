@@ -1,0 +1,5 @@
+1: i see a very dark grey dot with a larger dark grey dot above it
+0: Is there a same size lighter grey down and to the right of the lower dot?
+1: yes
+0: Topmost dark dot then? =)
+1: sure!

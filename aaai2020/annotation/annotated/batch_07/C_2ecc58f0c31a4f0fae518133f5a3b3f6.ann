@@ -1,0 +1,24 @@
+T1	Markable 9 15	3 dots
+T2	Markable 73 77	that
+T3	Markable 159 172	a smaller dot
+T4	Markable 156 158	it
+T5	Markable 176 188	a larger dot
+T6	Markable 222 226	that
+T7	Markable 269 285	a large dark dot
+T8	Markable 237 253	a small grey dot
+T9	Markable 295 297	it
+T10	Markable 371 379	that one
+T11	Markable 384 386	it
+T12	Markable 460 475	the smaller one
+T13	Markable 423 439	The big gray dot
+T15	Markable 522 524	it
+T16	Markable 597 599	it
+A1	No-Referent T2
+T17	Markable 101 117	a light gray dot
+R1	Predicative Arg1:T3 Arg2:T4	
+R2	Predicative Arg1:T5 Arg2:T4	
+T18	Markable 193 195	It
+A2	No-Referent T6
+R3	Anaphora Arg1:T11 Arg2:T10	
+T19	Markable 495 499	that
+T14	Markable 529 551	The smaller, light dot

@@ -1,0 +1,10 @@
+T1	Markable 37 43	itself
+T2	Markable 10 29	a black-ish big dot
+T4	Markable 224 243	a cluster of 5 dots
+T5	Markable 270 279	a big dot
+T6	Markable 304 318	the middle one
+R1	Anaphora Arg1:T1 Arg2:T2	
+T7	Markable 128 132	what
+A1	Generic T7
+T3	Markable 252 255	a Z
+R2	Predicative Arg1:T3 Arg2:T4	

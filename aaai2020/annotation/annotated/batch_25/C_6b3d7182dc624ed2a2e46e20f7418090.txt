@@ -1,0 +1,4 @@
+0: i have a black large lonely dot
+1: large black dot alone is near 12pm
+0: i guess we are talking about the same dots, but we have different cuts and angles of the circle
+1: ok lets select the large lonely black dot

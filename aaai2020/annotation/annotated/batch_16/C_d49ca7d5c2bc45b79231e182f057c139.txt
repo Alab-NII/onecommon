@@ -1,0 +1,4 @@
+0: do you see a medium black dot in the middle of all the other dots?
+1: Yes, is it alone by about an inch or another close by slightly lighter
+0: Mine is alone by at least an inch and has a tiny lighter gray dot about an inch diagonal
+1: Ok go for it, medium dark one all alone

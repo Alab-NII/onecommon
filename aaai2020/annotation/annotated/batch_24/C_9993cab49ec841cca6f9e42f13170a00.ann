@@ -1,0 +1,13 @@
+T2	Markable 50 75	one close cluster of dots
+T6	Markable 107 117	three dots
+T7	Markable 125 127	it
+T9	Markable 157 184	a close cluster with 4 dots
+T11	Markable 245 252	cluster
+T13	Markable 292 296	that
+T15	Markable 345 364	the middle grey one
+T16	Markable 15 33	2 clusters of dots
+T1	Markable 77 100	medium sized medium gre
+R1	Anaphora Arg1:T7 Arg2:T1	
+T3	Markable 186 201	The furthest up
+T4	Markable 226 241	bottom left one
+T5	Markable 262 270	middle 2

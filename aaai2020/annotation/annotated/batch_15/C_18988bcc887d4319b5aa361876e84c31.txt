@@ -1,0 +1,4 @@
+0: I have a black dot in the center of some dots that are spaced out
+1: I see that one...is it a small dot?
+0: Yes, two grey are bottom right and one gray top left.
+1: ok...lets choose the middle small one that you mentioned at first

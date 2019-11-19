@@ -1,0 +1,13 @@
+T1	Markable 116 130	a lighter gray
+T2	Markable 71 92	a med gray dot darker
+T3	Markable 281 285	that
+T4	Markable 323 338	small dark gray
+T5	Markable 450 454	that
+T6	Markable 3 29	any tiny lighter gray dots
+T7	Markable 161 174	a medium gray
+T8	Markable 214 225	a tiny gray
+A1	No-Referent T3
+T9	Markable 398 406	all mine
+A2	All-Referents T9
+T10	Markable 414 428	a medium light
+R1	Anaphora Arg1:T5 Arg2:T10	

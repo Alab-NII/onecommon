@@ -1,0 +1,5 @@
+1: med sized black dot?
+0: What is it next to? I have 3 black dots, one tiny, one medium, one large
+1: is the large one down to the right of the med one?
+0: Yes
+1: k click that large black one!

@@ -1,0 +1,8 @@
+1: Do you see one black dot?
+0: i see one small black dot
+1: What is directly to the left and slightly lower than it?
+0: two light grey dots. the higher of the two is slightly larger than the black dot. the lower one is a larger dot
+1: and what's to the right of it?
+0: to the right of the black dot is another group of two dots that are the same size (slightly larger than the black dot. the top one is a medium grey and the lower one is light
+1: Okay, lets both choose the black dot.
+0: ok

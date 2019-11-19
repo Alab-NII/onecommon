@@ -1,0 +1,5 @@
+1: Do you have a black medium dot at the base of a triangle with two other dark dots?
+0: yeah! The others are the same size?>
+1: pretty close. Choose the large black dot at the apex of the triangle
+0: apex? How about the smallest dot... its easier to identify
+1: Ok, that is fine.

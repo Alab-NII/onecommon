@@ -1,0 +1,5 @@
+1: I have a large light grey that is above and slightly to the left of a large dark grey
+0: Is it towards the top on the right?
+1: Mine will be in a different spot, but it is on the right side of my grouping. The large light grey is almost right above, but it is a little more left
+0: Same. I believe that is our common one.
+1: WOuld you like to pick the large light grey that is on top?

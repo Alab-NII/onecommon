@@ -1,0 +1,15 @@
+T1	Markable 3 17	One of my dots
+T2	Markable 43 45	it
+T3	Markable 76 95	All of my dark dots
+T4	Markable 123 142	any light gray dots
+T5	Markable 204 215	a small one
+T6	Markable 162 173	a large one
+T8	Markable 307 323	a large dark dot
+T9	Markable 358 375	another large dot
+T10	Markable 398 400	it
+T11	Markable 411 427	a large dark dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T12	Markable 238 250	My large one
+T13	Markable 276 280	that
+R2	Anaphora Arg1:T13 Arg2:T12	
+R3	Anaphora Arg1:T10 Arg2:T8	

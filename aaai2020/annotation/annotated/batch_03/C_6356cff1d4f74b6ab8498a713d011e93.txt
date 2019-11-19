@@ -1,0 +1,3 @@
+1: Large light gray circle close to small light gray near top center
+0: I see a very light grey medium one above two circles one to left one to right
+1: I see that one

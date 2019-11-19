@@ -1,0 +1,8 @@
+1: i have two light big dot between it there a dark dot
+0: I don't see that. Do you see two dots same size, they are smaller, bottom is dark grey top is black going diagonal?
+1: i have a small med grey dot in the middle
+0: Does it have a larger lighter grey to the right of it?
+1: yes
+0: Great! Which do you want to choose?
+1: i will choose the light dot
+0: Okay!

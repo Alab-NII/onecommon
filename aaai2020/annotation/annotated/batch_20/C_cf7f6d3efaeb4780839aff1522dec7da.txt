@@ -1,0 +1,6 @@
+0: Hi, do you see a trio 3 gray dots, 2 lights and 2 darker?
+1: i have a small black dot low side to the left
+0: is it between two larger black dots? equal distance?
+1: i have a cluster of 3 dots 2 med gray one dark gray
+1: did you select the darker gray ?
+0: oh, yes I did. I'm sorry

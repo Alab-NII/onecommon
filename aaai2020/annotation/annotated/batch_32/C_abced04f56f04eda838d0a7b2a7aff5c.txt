@@ -1,0 +1,4 @@
+0: i see a very tiny gray dot and there is a huge gray dot on the bottom to the left
+1: Hi, I have a tiny medium grey dot too, but is almost in the middle. large grey is below and to the left
+0: let's choose large gray
+1: Okay cool

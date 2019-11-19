@@ -1,0 +1,4 @@
+1: Hi! Do you have a large black dot?
+0: Yes, I have one that is medium sized and to the right of it is a smaller one, lighter in color.
+1: It could be it. I also have one with lighter color to the right
+0: Let's choose the darker one.

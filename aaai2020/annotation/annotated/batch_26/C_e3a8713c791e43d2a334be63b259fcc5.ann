@@ -1,0 +1,14 @@
+T1	Markable 30 36	itself
+T2	Markable 53 69	a small lack dot
+T3	Markable 73 79	itself
+T4	Markable 145 178	a cluster of larger and dark dots
+T5	Markable 186 188	it
+T9	Markable 195 208	the light dot
+T10	Markable 224 235	a black dot
+T11	Markable 265 278	the light one
+T12	Markable 3 22	large dark grey dot
+R1	Anaphora Arg1:T1 Arg2:T12	
+R2	Anaphora Arg1:T3 Arg2:T2	
+#1	AnnotatorNotes T2	a small black dot
+T13	Markable 92 112	a very light med dot
+T14	Markable 114 130	light medium dot

@@ -1,0 +1,5 @@
+0: I have one large black dot. Directly above it and a little to the right is a much smaller light grey dot
+1: I do not have this. I do have an extremely dark small dot probably middle bottom for you if you have it?
+0: I dont have any small dark dots. I have three smallish dots going up and to the left. The middle one is darkest and smallest. the two on the ends are nearly identical dark grey
+1: Yeah I see the line, take the middle one that is smallest
+0: ok

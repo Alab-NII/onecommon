@@ -1,0 +1,6 @@
+T1	Markable 3 16	two dark dots
+T2	Markable 35 44	a cluster
+T3	Markable 21 31	a grey dot
+T4	Markable 85 93	the grey
+T5	Markable 57 61	this
+R1	Anaphora Arg1:T5 Arg2:T2	

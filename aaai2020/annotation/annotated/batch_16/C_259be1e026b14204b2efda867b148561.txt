@@ -1,0 +1,7 @@
+0: 5 dots near the top
+1: I have a medium dark dot by it self
+0: where is it located
+1: Close to the bottom under the cluster of 5
+0: is it near the left almost touching the dashed line?
+1: Yes
+0: i too have that dot

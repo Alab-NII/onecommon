@@ -1,0 +1,7 @@
+1: Do you have a large gray and large black together with the black on the right?
+0: are they kind of far apart?
+1: No, do you have two medium black dots, one lower and to the left of the other?
+0: yes! if the lower one is slightly darker click that one!
+1: Nope, Ok, do you have a medium light gray all by itself?
+0: is it lower than the rest of the dots and a little to the left?
+1: Yes, lets choose that one

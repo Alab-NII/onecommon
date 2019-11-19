@@ -1,0 +1,7 @@
+T1	Markable 33 43	each other
+T2	Markable 61 69	left one
+T3	Markable 91 95	them
+T4	Markable 120 134	the larger one
+T5	Markable 3 11	two dots
+R1	Anaphora Arg1:T1 Arg2:T5	
+T6	Markable 45 49	both

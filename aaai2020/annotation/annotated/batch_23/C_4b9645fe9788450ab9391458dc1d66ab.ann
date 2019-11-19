@@ -1,0 +1,11 @@
+T1	Markable 36 63	three slightly smaller ones
+T2	Markable 9 30	a large dark grey one
+T3	Markable 86 100	a pair of dots
+T5	Markable 102 105	one
+T6	Markable 193 218	a lonesome light grey dot
+T7	Markable 289 291	it
+T8	Markable 272 282	a dark dot
+T9	Markable 303 310	the one
+T10	Markable 67 70	its
+R1	Anaphora Arg1:T10 Arg2:T2	
+T4	Markable 127 134	another

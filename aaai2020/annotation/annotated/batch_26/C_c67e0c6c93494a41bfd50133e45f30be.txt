@@ -1,0 +1,5 @@
+0: I have a large black dot with a slightly large lighter gray dot to the right and slightly above it
+1: i dont see that...how about a black dot with a bigger light gray dot above to to the left of it?
+0: Yes. Are they fairly parallel? The one on the left is just slightly above?
+1: yes...click the black dot?
+0: yes

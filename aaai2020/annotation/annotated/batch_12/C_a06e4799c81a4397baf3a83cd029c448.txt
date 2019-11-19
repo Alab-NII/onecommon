@@ -1,0 +1,4 @@
+0: Do you have one large very light dot?
+1: yes there is a very small dark dot on the left sight of it?
+0: Yes. I believe we should select the light grey one
+1: sure

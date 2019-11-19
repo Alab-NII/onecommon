@@ -1,0 +1,6 @@
+1: I see two dots very very close together the one on the right is darker, larger and they are almost perfectly horizontal
+0: Dont have them. I have a black big dot at 6 oclock
+1: Our circles are different, so talk about the dots relative to each other. Does the big black dot have a smaller, lighter dot below it to the right
+0: yes it does!
+1: Ok, pick the big black one
+0: on it

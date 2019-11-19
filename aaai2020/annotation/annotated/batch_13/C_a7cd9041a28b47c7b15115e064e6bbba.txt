@@ -1,0 +1,5 @@
+0: I have just 1 light light grey dot. It is small and by itself
+1: I have that too, it is at least 2 inches away from other dots?
+0: yep
+1: lets select
+0: ok

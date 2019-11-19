@@ -1,0 +1,4 @@
+1: I have a large black dot and in line to the right is a large dark grey dot?
+0: I see a large black dot about an inch from the top of the circle, I see the dark grey dot to the right. Is there a smaller black dot above the right, dark grey dot?
+1: That is what I am seeing also! Which one do you prefer to choose?
+0: Lets do the big dark grey dot to the right

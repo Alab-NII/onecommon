@@ -1,0 +1,3 @@
+0: is your biggest dot the darkest
+1: Yes, there is a smaller lighter gray dot above and to the right of it
+0: click the darkest one

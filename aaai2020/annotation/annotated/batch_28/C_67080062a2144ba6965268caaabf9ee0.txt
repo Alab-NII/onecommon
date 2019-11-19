@@ -1,0 +1,7 @@
+0: 2 black dots almost same size very small on top of each other
+1: I do not see that, I see four dots all different shades of grey
+0: is topmost dot black and small?
+1: no topmost is largest, the four are close together
+0: dont have that. do you see a small tiny dot at the edge of your circle?
+1: I see three dots in a line going from top down to the right, top medium grey, middle dark, bottom light grey.
+0: i see that. pick the bottom light grey

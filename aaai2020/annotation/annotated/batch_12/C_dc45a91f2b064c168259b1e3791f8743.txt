@@ -1,0 +1,7 @@
+1: how many black dots do you have?
+0: Hello! 3 dots that sort of make a line, with the middle one being small and black and slightly off to the right
+1: Is the small black one to the right immediately next to a large gray dot?
+0: the on above it is large and gray
+1: okay, I have two black dots, The small black one next to the large gray dot and the large black dot under under it
+0: Yes that looks correct thats what mine look like. Click the small black one?
+1: yeah!

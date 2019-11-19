@@ -1,0 +1,4 @@
+0: I have a dark gray dot towards the bottom, smallish
+1: i see two large gray dots next to each other, one a dark gray and one a medium gray
+0: I do too
+1: okay, want to pick the darkest one?

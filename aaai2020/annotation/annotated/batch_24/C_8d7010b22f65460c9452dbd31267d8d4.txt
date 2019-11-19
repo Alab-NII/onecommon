@@ -1,0 +1,6 @@
+0: Very light small dot on the left bottom?
+1: I have two dark small dots diagonal from each other. The one on the bottom left is a little larger and little darker.
+0: Hmm - do you have two dark dots directly horizontal from each other with a lighter dot between?
+1: No, I might see your small light dot. Does it have a relatively large, up and right
+0: Yes
+1: Ok, click small light

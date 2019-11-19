@@ -1,0 +1,15 @@
+T1	Markable 27 43	a triangle shape
+T2	Markable 49 59	two others
+T3	Markable 82 101	a larger light grey
+T4	Markable 121 133	a darker one
+T5	Markable 189 193	that
+T6	Markable 275 282	the one
+T7	Markable 333 337	that
+T8	Markable 393 422	a larger but even lighter one
+T9	Markable 237 256	the two lowest ones
+T10	Markable 202 206	four
+T11	Markable 354 375	a smaller lighter one
+T12	Markable 3 23	small very black one
+T13	Markable 438 452	the middle dot
+T14	Markable 454 465	The darkest
+R1	Predicative Arg1:T14 Arg2:T13	

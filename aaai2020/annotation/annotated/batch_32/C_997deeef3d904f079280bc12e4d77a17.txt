@@ -1,0 +1,3 @@
+0: I have two large black dots that are side by side
+1: i see them, wanna pick the one that is slightly higher on the left?
+0: yes!

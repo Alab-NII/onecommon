@@ -1,0 +1,20 @@
+T1	Markable 10 41	a lonely medium, light grey dot
+T2	Markable 57 60	one
+T3	Markable 158 169	a black dot
+T4	Markable 121 124	one
+T5	Markable 274 277	one
+T6	Markable 196 200	they
+T7	Markable 311 324	two grey dots
+T8	Markable 350 354	them
+T9	Markable 330 341	a black dot
+T10	Markable 443 446	One
+T11	Markable 484 499	the smaller one
+T12	Markable 636 645	something
+T14	Markable 669 695	the larger, light grey one
+T15	Markable 96 97	2
+T16	Markable 187 194	those 2
+R1	Anaphora Arg1:T8 Arg2:T7	
+T17	Markable 392 397	mines
+T18	Markable 421 422	2
+T19	Markable 548 564	small light grey
+T20	Markable 576 594	larger medium grey

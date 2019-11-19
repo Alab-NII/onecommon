@@ -1,0 +1,5 @@
+T1	Markable 60 78	a massive grey dot
+T2	Markable 54 56	it
+T3	Markable 3 26	Tiny lightest shade dot
+R1	Anaphora Arg1:T2 Arg2:T3	
+T4	Markable 117 124	Massive

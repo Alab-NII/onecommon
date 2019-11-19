@@ -1,0 +1,9 @@
+T1	Markable 17 32	a diagonal line
+T2	Markable 108 114	3 dots
+T3	Markable 150 159	same dots
+T4	Markable 166 177	the top one
+T5	Markable 3 13	three dots
+R1	Predicative Arg1:T1 Arg2:T5	
+T6	Markable 34 37	top
+T7	Markable 64 74	small grey
+T8	Markable 81 97	small light grey

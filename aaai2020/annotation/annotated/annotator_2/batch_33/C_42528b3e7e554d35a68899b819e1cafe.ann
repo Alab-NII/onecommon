@@ -1,0 +1,16 @@
+T2	Markable 56 69	diagonal line
+T3	Markable 12 52	two almost identical med sized dark dots
+T4	Markable 84 91	a black
+T5	Markable 95 107	the next dot
+T6	Markable 121 129	that one
+T8	Markable 185 214	the very slightly lighter one
+T9	Markable 138 150	the two dots
+T10	Markable 258 270	the left one
+T11	Markable 291 293	it
+T12	Markable 275 283	left one
+T13	Markable 3 11	two dots
+R1	Predicative Arg1:T3 Arg2:T13	
+R2	Predicative Arg1:T2 Arg2:T13	
+R3	Predicative Arg1:T5 Arg2:T4	
+A1	No-Referent T6
+R4	Cataphora Arg1:T12 Arg2:T11	

@@ -1,0 +1,13 @@
+T1	Markable 29 49	the smaller dark dot
+T2	Markable 59 73	the larger one
+T3	Markable 97 123	a slightly larger dark one
+T4	Markable 142 144	it
+T5	Markable 215 242	a slightly larger dark grey
+T7	Markable 257 265	the ones
+T8	Markable 323 340	the top light one
+T9	Markable 344 352	the line
+T10	Markable 3 16	two dark dots
+T11	Markable 77 91	very light one
+R1	Anaphora Arg1:T4 Arg2:T11	
+A1	No-Referent T7
+T6	Markable 292 296	what

@@ -1,0 +1,3 @@
+0: do you see a large dark grey dot with a small light grey dot a bit above and to the left of it
+1: yes the larger grey dot is part of a rough square, with a small black dot below it
+0: select large one

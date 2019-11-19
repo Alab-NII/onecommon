@@ -1,0 +1,16 @@
+T1	Markable 35 45	each other
+T2	Markable 9 17	two dots
+T3	Markable 138 143	those
+T5	Markable 183 196	no light ones
+T6	Markable 161 181	almost all dark dots
+T9	Markable 230 234	they
+T10	Markable 264 268	that
+R1	Anaphora Arg1:T1 Arg2:T2	
+T11	Markable 61 67	bottom
+T12	Markable 89 94	above
+A1	No-Referent T3
+A2	No-Referent T5
+T4	Markable 198 211	the dark ones
+R2	Anaphora Arg1:T9 Arg2:T4	
+T7	Markable 276 289	the top right
+T8	Markable 300 305	the P

@@ -1,0 +1,6 @@
+1: i have only 1 large black to the middle off the center towards the right
+0: Do you see 2 dots that are almost exactly the same size and very close together?
+1: no i have a small black and a med grey near each other towards middle left
+0: Is the smaller one above and to the left?
+1: yes
+0: K click on the smaller one!

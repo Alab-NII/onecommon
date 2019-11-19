@@ -1,0 +1,5 @@
+1: I see two dots very similar in size kind of close together they are medium grey
+0: Is the top one slightly larger and to the left?
+1: yes!
+0: Want to pick the top one?
+1: Sounds good!

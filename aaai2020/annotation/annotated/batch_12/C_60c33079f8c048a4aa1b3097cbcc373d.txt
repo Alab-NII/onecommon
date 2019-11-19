@@ -1,0 +1,7 @@
+1: I have TWO large grey dots beside each other
+0: I have two large near each other, but with mine the left one is higher.
+1: I have that. Is the one on the right darker?
+0: no, they are the same color. how about one black dot thats very small?
+1: I have that. It's the only black dot right?
+0: yes
+1: okay.

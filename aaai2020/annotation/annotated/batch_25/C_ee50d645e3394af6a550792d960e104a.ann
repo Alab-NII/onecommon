@@ -1,0 +1,16 @@
+T1	Markable 46 52	a line
+T2	Markable 119 132	a smaller dot
+T3	Markable 174 198	the topmost smallest one
+T4	Markable 214 224	a small on
+T5	Markable 247 260	two tiny dots
+T6	Markable 312 320	the line
+T7	Markable 3 17	My largest dot
+T8	Markable 36 42	3 dots
+R1	Predicative Arg1:T1 Arg2:T8	
+T9	Markable 80 83	Top
+T10	Markable 102 113	medium gray
+#1	AnnotatorNotes T4	a small one
+T11	Markable 278 287	Dark gray
+T12	Markable 339 367	the topmost dark gray medium
+T13	Markable 289 308	not black same size
+A1	No-Referent T13

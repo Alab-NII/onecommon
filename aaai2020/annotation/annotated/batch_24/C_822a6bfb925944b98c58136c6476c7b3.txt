@@ -1,0 +1,4 @@
+1: a medium light gray dot towards the bottom, on its own?
+0: One large black dot with a lighter one to the left of it and a medium color to the right.
+1: I have a large black dot, but the dots on either side are medium colored, same size though
+0: Yes, that is it. Let's choose the large black one.

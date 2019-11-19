@@ -1,0 +1,4 @@
+1: there is a light grey dot on the left and there a med grey color on top of it.
+0: I cant see that. I have a same color dot close the lower is bigger
+1: okay yes
+0: Select the lower one

@@ -1,0 +1,5 @@
+0: do you have a group of 5 dots all medium or light in color?
+1: two large very dark ones right above each other yes in that cluster...
+0: yes the two right above each other are dark but NOT black?
+1: almost black. there is a very light one to their left in between. let's pick the large dark one on the bottom of the pair
+0: okay I'm selecting the large dark one on the bottom.

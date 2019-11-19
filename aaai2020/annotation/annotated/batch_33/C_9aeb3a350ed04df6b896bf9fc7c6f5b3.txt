@@ -1,0 +1,3 @@
+1: i have one very dark medium sized dot on its own. the nearest is above and to the right and is larger/lighter
+0: tiny dark grey dot with a larger light gray dot close to it to the left and up a bit and a grey dot directly to the left of it
+1: yes, i see the three dots you are talking about. lets click the tiniest one

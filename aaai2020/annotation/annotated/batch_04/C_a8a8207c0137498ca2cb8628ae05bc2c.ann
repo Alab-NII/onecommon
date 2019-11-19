@@ -1,0 +1,13 @@
+T1	Markable 10 20	three dots
+T2	Markable 118 131	the other two
+T3	Markable 82 96	The middle dot
+T4	Markable 144 167	a large darker grey dot
+T5	Markable 256 279	a cluster of three dots
+T6	Markable 290 300	a triangle
+T8	Markable 322 337	Two of the dots
+T10	Markable 358 361	one
+T11	Markable 385 398	that triangle
+T12	Markable 414 432	the light grey dot
+T13	Markable 191 225	the bottom of that 3 dot formation
+R1	Predicative Arg1:T6 Arg2:T5	
+T7	Markable 307 320	the formation

@@ -1,0 +1,5 @@
+0: Do you see two dots the same size? One on top is light grey
+1: Do you have a line of three dots? Big black with light grey medium below with small grey below that
+0: I think I might. Does the middle one have a smaller darker grey dot to the right of it?
+1: Yes! Let's choose the smaller darker grey dot to the right.
+0: Okay!

@@ -1,0 +1,6 @@
+1: 3 SMALL DOTS IN A STRAIGHT LINE
+0: Is there a large dark dot up and the left of the top dot in the line?
+1: YES, U WANNA SELECT THAT ONE?
+0: The larger one, or the top small one?
+1: THE LARGE ONE
+0: Ok

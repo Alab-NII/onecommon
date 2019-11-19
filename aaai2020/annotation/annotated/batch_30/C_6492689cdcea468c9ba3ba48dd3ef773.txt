@@ -1,0 +1,3 @@
+0: one medium dark dot with two smaller darker dots one to the left below one to the right below
+1: let's click the medium dark dot
+0: k

@@ -1,0 +1,4 @@
+0: i see a big grey one in the bottom left, alone
+1: I don't see a dot alone. I see two black dots. They are vertically aligned. Equal size, same color.
+0: i see both of those too
+1: Let's click the bottom one.

@@ -1,0 +1,11 @@
+T1	Markable 42 55	the first two
+T2	Markable 21 31	three dots
+T3	Markable 116 127	the top one
+T4	Markable 146 150	they
+T5	Markable 205 216	the top one
+T6	Markable 234 241	the one
+T7	Markable 35 40	a row
+R1	Predicative Arg1:T7 Arg2:T2	
+T8	Markable 87 95	the last
+T9	Markable 250 254	that
+R2	Anaphora Arg1:T9 Arg2:T5	

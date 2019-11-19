@@ -1,0 +1,7 @@
+0: I see a lot of dots including a group of 4, a group of 2, and one by itself.
+1: Yes the one by itself is the largest and a dark grey?
+0: No, the one I'm looking at is small and light grey
+1: Okay how about the group of two? They are diagonal to each other. the top is is very small and light grey, the bottom(left) is larger and about the same shade of grey?
+0: I think the small grey dot might be the one we have in common. It is close to the edge of the circle I see and is the only small light grey dot I have
+1: Okay do you want to go with that one?
+0: Sure!

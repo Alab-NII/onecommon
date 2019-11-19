@@ -1,0 +1,7 @@
+T1	Markable 10 27	a larger gray dot
+T2	Markable 86 90	they
+T3	Markable 32 58	a smaller lighter grey dot
+T4	Markable 82 84	it
+T5	Markable 130 134	that
+T6	Markable 152 166	the larger one
+R1	Anaphora Arg1:T4 Arg2:T1	

@@ -1,0 +1,3 @@
+1: i see three large dots in the center. the third one is darker than the other one.
+0: ok i think i have that, two larger light grey on their left
+1: yes. let's pick the third dark one.

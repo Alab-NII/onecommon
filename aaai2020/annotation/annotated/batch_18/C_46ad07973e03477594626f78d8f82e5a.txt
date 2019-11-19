@@ -1,0 +1,5 @@
+1: Black medium sized dot, to the right is a larger light dot
+0: Small dark dot near bottom edge to the right?
+1: Never relate your circle, only describe using other circles for reference, my circle is different... Do you see a tiny light dot, to the left and lower is a small slightly darker dot
+0: Yes,
+1: Take that tiniest light dot to the right

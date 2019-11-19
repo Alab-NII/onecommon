@@ -1,0 +1,4 @@
+0: I see there pairs that are close to each other, do you have one like that?
+1: i have a pair of small dots right next to each other, the one on the left is up slightly higher and is slightly darker than the right one
+0: Let's take darker one that is right and slightly lower
+1: sorry thats what i meant!

@@ -1,0 +1,2 @@
+1: large grey dot, with two small ones below it, that are exactly the same size, but lower one is darker
+0: yes, click the small darkest dot, the one at the bottom

@@ -1,0 +1,5 @@
+0: I have a dot thats darker than all the rest
+1: do you have a cluster of three grey
+0: Yeah, i do. and one of them is larger and lighter grey
+1: let us select the larger lighter grey
+0: alright

@@ -1,0 +1,5 @@
+0: I see 2 light grey dots close to each other and vertical
+1: is the top one a little lighter?
+0: yes!
+1: Which one do you want to choose?
+0: top

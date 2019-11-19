@@ -1,0 +1,7 @@
+1: I see a very small very dark grey dot.
+0: YES ON LEFT ABOUT 8 OCLOCK
+1: Your 8 o'clock is different from mine. Is the nearest dot to it a medium sized medium grey dot?
+0: yes above
+1: Which one did you pick? We have to be careful and not just guess recklessly.
+0: small grey dot
+1: K

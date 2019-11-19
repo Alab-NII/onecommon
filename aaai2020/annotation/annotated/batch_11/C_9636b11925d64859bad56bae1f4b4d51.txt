@@ -1,0 +1,2 @@
+1: I have 2 dots together on the left side. One large medium gray and a light gray medium sized to the right
+0: I see it, select the darker one

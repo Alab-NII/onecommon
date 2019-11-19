@@ -1,0 +1,4 @@
+0: i have three medium dark grey dots pretty close together in the bottom of my circle
+1: Four dots of similar color and size form a zig zag line
+0: i got three of the zig zag line i think. can we go with the darker grey one that has two slightly lighter ones above it in the zigzag?
+1: ok

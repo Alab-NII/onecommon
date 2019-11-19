@@ -1,0 +1,23 @@
+T1	Markable 31 33	it
+T2	Markable 106 127	a large dark grey dot
+T3	Markable 170 172	it
+T4	Markable 133 154	a smaller lighter one
+T5	Markable 209 214	yours
+T6	Markable 228 233	yours
+T7	Markable 252 263	another one
+T8	Markable 307 326	a smaller black dot
+T10	Markable 349 374	a smaller medium gray dot
+T11	Markable 395 399	They
+T12	Markable 405 415	a triangle
+T13	Markable 425 445	that small black dot
+T14	Markable 3 18	Small black dot
+R1	Anaphora Arg1:T1 Arg2:T14	
+T15	Markable 37 63	a large lightest shade dot
+R2	Anaphora Arg1:T3 Arg2:T2	
+A1	No-Referent T5
+A2	No-Referent T6
+T16	Markable 272 301	a medium sized very light dot
+T9	Markable 330 333	its
+R3	Anaphora Arg1:T9 Arg2:T16	
+T17	Markable 378 381	its
+R4	Predicative Arg1:T12 Arg2:T11	

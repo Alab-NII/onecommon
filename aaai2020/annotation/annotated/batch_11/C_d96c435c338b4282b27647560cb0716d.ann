@@ -1,0 +1,20 @@
+T1	Markable 139 159	Larger dark gray dot
+T2	Markable 101 135	a pair of diagonal light grey dots
+T3	Markable 190 192	it
+T4	Markable 165 186	smaller dark gray dot
+T5	Markable 216 239	A close horizontal pair
+T6	Markable 241 251	Larger one
+T7	Markable 295 297	it
+T8	Markable 329 346	just one of those
+T10	Markable 373 375	it
+T11	Markable 378 395	a medium size dot
+T12	Markable 404 408	mine
+T13	Markable 458 460	it
+T14	Markable 3 29	one large lighter gray dot
+T15	Markable 34 63	one same size darker gray dot
+T16	Markable 78 89	one another
+R1	Anaphora Arg1:T3 Arg2:T1	
+T17	Markable 276 290	no horizontals
+A1	No-Referent T17
+R2	Anaphora Arg1:T10 Arg2:T8	
+R3	Predicative Arg1:T11 Arg2:T10	

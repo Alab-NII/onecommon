@@ -1,0 +1,4 @@
+1: I see a light grey dot at approximately 8:00 position
+0: My darkest dot is medium size
+1: do you see two light grey dots and one black one that form a triangle?
+0: Yes let us select the blackest

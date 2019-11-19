@@ -1,0 +1,7 @@
+0: Do you have one dot that's light and further away from all the others?
+1: is it like 2 inches away from 2 dots, one is smaller and lighter, one is slightly larger and darker than the dot you are talking about?
+0: I don't see the dots you're talking about. Beneath the dot I mentioned and slightly to the right is a dot of about the same size and color
+1: I guess we have completely different circles, what about 3 dark dots making a triangle?
+0: Yes! I have that.
+1: wanna select the one on the top which is kinda the largest?
+0: Yes

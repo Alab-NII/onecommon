@@ -1,0 +1,4 @@
+0: I got a massive black dot. Can you see that guy?>
+1: massive dark one with medium gray at its left and big gray at its right?
+0: Yep
+1: let's pick it

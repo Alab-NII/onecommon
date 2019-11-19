@@ -1,0 +1,4 @@
+1: triangle with small med grey dot in its middle?
+0: I think? Is the largest dot of the triangle black?
+1: yes and furthest to the left. if so click that black one
+0: Okay!

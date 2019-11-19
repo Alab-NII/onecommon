@@ -1,0 +1,6 @@
+T1	Markable 28 46	a smaller dark dot
+T2	Markable 107 116	a diamond
+T3	Markable 87 96	four dots
+T4	Markable 131 145	the lowest one
+T5	Markable 3 22	one large black dot
+R1	Predicative Arg1:T2 Arg2:T3	

@@ -1,0 +1,3 @@
+0: triangle pattern, top one is medium and light, bottom left is medium dark, to the right is slightly small and same color
+1: I have three very close dots and two of them are black
+0: pick the left dark one!

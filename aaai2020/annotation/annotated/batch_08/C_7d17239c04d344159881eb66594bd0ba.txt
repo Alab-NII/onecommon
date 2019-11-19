@@ -1,0 +1,4 @@
+1: large black dot slightly below to the right of small light grey dot?
+0: i don't see either. do you see a medium black dot to the northeast of a light grey dot that is the same size?
+1: no i dont see that, how about a large black dot almost by itself to the left of a smaller lighter grey dot thats medium sized
+0: yes, let's pick that one

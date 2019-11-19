@@ -1,0 +1,3 @@
+0: Massive light dot, below and to the left is a small dark dot
+1: yes choose the smaller dark dot
+0: K

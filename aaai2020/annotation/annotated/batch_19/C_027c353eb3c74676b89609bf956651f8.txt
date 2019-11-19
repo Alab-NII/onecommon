@@ -1,0 +1,4 @@
+1: do you have one very large dark gray dot?
+0: No... Do you see a triangle of light colored dots
+1: Yes, one of them is lighter than the other two
+0: Yep, lets go for it!

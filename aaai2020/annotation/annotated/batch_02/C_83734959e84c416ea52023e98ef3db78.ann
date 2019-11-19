@@ -1,0 +1,16 @@
+T1	Markable 10 16	2 dots
+T2	Markable 47 58	the top dot
+T3	Markable 35 45	each other
+T4	Markable 129 143	a larger black
+T5	Markable 202 215	the small one
+T6	Markable 262 275	one other dot
+T7	Markable 296 298	it
+T9	Markable 438 457	the small black dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+T10	Markable 86 96	the bottom
+T11	Markable 100 111	the top one
+T12	Markable 148 160	smaller grey
+T13	Markable 282 291	the stack
+R2	Anaphora Arg1:T7 Arg2:T6	
+T8	Markable 382 392	your stack
+T14	Markable 394 412	smallest black dot

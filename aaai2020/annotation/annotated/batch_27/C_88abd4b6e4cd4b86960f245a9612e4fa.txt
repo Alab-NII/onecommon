@@ -1,0 +1,5 @@
+0: I have two dots southwest of center. The bottom dot is a darker grey than the upper one
+1: is the bottom dot black because i have only one black dot
+0: No. Do you have a set of light grey dots north of center near the edge following the line of the circle
+1: One large one and two other small ones?
+0: Yes. Let's choose the large one

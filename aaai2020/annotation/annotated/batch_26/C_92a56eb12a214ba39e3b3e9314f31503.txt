@@ -1,0 +1,6 @@
+0: medium dark gray dot by itself
+1: Is there a small one to its far bottom right
+0: No, not one even close. The rest are all clustered at the bottom. Large light grey with small black dot above it.
+1: Ok. I dont have that dark one then. I have a large light one with the small black dot, which is above it and slightly to the right
+0: Yes! Let's click on the light one?
+1: ok

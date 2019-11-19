@@ -1,0 +1,4 @@
+1: i've got a medium dark dot with a lighter smaller one to the left, very close
+0: yes
+1: pick the dark one?
+0: yes

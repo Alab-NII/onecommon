@@ -1,0 +1,4 @@
+1: I have only one large black dot on my screen. You?
+0: yes is there a tiny dark dots down to its left?
+1: Yep! First tiny dot diagonally down from the left then?
+0: yes! click the large black one!

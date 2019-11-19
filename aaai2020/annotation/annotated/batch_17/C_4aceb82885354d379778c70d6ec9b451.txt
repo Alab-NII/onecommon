@@ -1,0 +1,6 @@
+1: Do you have a large dark grey in the upper middle part of your circle?
+0: my smallest two spots are a light grey one down and left of center, and a medium grey diagonal right of it
+1: Do you have a black med dot bottom right?
+0: medium to small with a similar sized lighter grey to the diagonal right of it
+1: Yes same!
+0: pick the black medium spot

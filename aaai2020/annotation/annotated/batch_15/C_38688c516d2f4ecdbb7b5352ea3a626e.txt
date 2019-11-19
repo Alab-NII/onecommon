@@ -1,0 +1,6 @@
+1: I have a tiny medium dark grey dot. Do you see one?
+0: Hello. Do you have a very small medium colored dot around 4 o'clock?
+1: Sounds like we've found a shared one! Does yours have two large light grey dots to the left?
+0: Yes one above and one below?
+1: Exactly. LEt's chose the small one.
+0: Sounds good.

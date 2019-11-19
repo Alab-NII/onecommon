@@ -1,0 +1,15 @@
+T1	Markable 31 41	a triangle
+T2	Markable 10 20	three dots
+T3	Markable 101 109	the rest
+T4	Markable 43 57	The bottom dot
+T5	Markable 61 73	the triangle
+T6	Markable 210 214	them
+T7	Markable 190 201	a light dot
+T8	Markable 225 243	all 4 lighter dots
+T9	Markable 315 328	the line of 3
+T10	Markable 370 385	the darkest dot
+R1	Predicative Arg1:T1 Arg2:T2	
+R2	Anaphora Arg1:T5 Arg2:T2	
+T11	Markable 114 131	3 dark black dots
+T12	Markable 156 166	right most
+T13	Markable 251 279	smallest and almost lightest

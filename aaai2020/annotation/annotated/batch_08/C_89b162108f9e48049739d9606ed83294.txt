@@ -1,0 +1,4 @@
+1: I have a lonely medium grey dot
+0: i have almost a diagonal line from the left to the right... large med gray, smaller black, light gray, and smallest light gray -- no lonely dots here
+1: I see the smaller black and two light grey
+0: choose the smallest?

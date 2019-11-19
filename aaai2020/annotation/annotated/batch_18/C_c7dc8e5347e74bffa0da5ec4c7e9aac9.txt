@@ -1,0 +1,5 @@
+0: do you see a lonely black kind of large dot?
+1: yes I do is it above and to the right of a triangle of 3 medium sized dots?
+0: yes
+1: do you want to select the lone dark dot?
+0: sounds good!

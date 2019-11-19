@@ -1,0 +1,11 @@
+T1	Markable 38 47	the 1 dot
+T2	Markable 94 99	those
+T3	Markable 125 136	another dot
+T4	Markable 143 145	it
+T5	Markable 154 166	a larger dot
+T7	Markable 212 225	the lower dot
+T8	Markable 231 248	your original two
+T9	Markable 10 37	two medium dark shaded dots
+T10	Markable 106 119	the lower dot
+R1	Anaphora Arg1:T4 Arg2:T10	
+T11	Markable 184 189	thats

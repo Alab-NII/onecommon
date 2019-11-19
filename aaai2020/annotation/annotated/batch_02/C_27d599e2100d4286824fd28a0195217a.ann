@@ -1,0 +1,5 @@
+T1	Markable 35 43	that one
+T2	Markable 107 115	that one
+T3	Markable 3 22	largest darkest dot
+R1	Anaphora Arg1:T1 Arg2:T3	
+T4	Markable 54 73	only one large dark

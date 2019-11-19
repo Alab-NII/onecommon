@@ -1,0 +1,2 @@
+1: I got a small black dot with medium size medium gray dot to the right of it
+0: I see it, select the small black one

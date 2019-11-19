@@ -1,0 +1,6 @@
+0: i've got a triangle where the left and bottom are same size and darker, and the right one is larger and really dark
+1: I see two medium shade smaller dots that are almost the exact same size
+0: is there anything next to the bottom one?
+1: Yes slightly to the left and below it there is a larger lighter dot
+0: got it. wanna pick the larger lighter one?
+1: sure

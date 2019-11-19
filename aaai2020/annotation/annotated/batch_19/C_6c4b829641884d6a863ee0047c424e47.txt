@@ -1,0 +1,3 @@
+0: large light gray dot, to the right and above it is a slightly smaller medium gray dot?
+1: Yes, I have those dots. Which one should we select?
+0: the large light gray one

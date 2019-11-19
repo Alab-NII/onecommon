@@ -1,0 +1,20 @@
+T1	Markable 35 48	three circles
+T2	Markable 125 136	the darkest
+T3	Markable 76 87	the top one
+T4	Markable 140 149	the three
+T5	Markable 91 102	the biggest
+T6	Markable 107 121	the bottom one
+T7	Markable 59 74	a vertical line
+T8	Markable 181 185	that
+T9	Markable 210 226	a small dark dot
+T10	Markable 278 280	it
+T11	Markable 288 302	the larger dot
+T12	Markable 325 327	it
+T13	Markable 360 378	the small dark dot
+R1	Predicative Arg1:T7 Arg2:T1	
+R2	Predicative Arg1:T5 Arg2:T3	
+R3	Predicative Arg1:T2 Arg2:T6	
+R4	Anaphora Arg1:T4 Arg2:T1	
+A1	No-Referent T8
+T14	Markable 232 256	a large medium shade dot
+R5	Anaphora Arg1:T10 Arg2:T9	

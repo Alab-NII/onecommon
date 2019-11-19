@@ -1,0 +1,17 @@
+T1	Markable 3 17	All of my dots
+T2	Markable 35 45	three dots
+T3	Markable 47 51	They
+T4	Markable 89 99	a triangle
+T5	Markable 79 83	they
+T6	Markable 101 105	They
+T7	Markable 121 124	Two
+T8	Markable 142 151	the other
+T9	Markable 210 225	the tiniest dot
+T10	Markable 184 189	yours
+T11	Markable 240 252	the tiny dot
+A1	All-Referents T1
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T5 Arg2:T2	
+R3	Predicative Arg1:T4 Arg2:T2	
+R4	Anaphora Arg1:T6 Arg2:T2	
+T12	Markable 156 169	My larges dot

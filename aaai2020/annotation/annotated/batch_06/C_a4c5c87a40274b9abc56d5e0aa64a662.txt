@@ -1,0 +1,4 @@
+0: I have one dot that is nearly black
+1: i have a single small black dot. almost below it are two other dots. the one closer to the black dot is lighter than the other.
+0: I see the same. shall we select the black dot?
+1: ok

@@ -1,0 +1,4 @@
+0: i have 1 large med grey at bottom center
+1: pair of dots to the left?
+0: yes small grey in front of a med black
+1: choose original large med gray

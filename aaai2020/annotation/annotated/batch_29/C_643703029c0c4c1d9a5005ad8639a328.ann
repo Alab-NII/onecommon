@@ -1,0 +1,16 @@
+T1	Markable 48 66	most of the others
+T2	Markable 15 32	a large black dot
+T3	Markable 74 76	it
+T4	Markable 125 127	it
+T5	Markable 81 98	a small black dot
+T6	Markable 141 148	nothing
+T7	Markable 171 173	it
+T8	Markable 236 238	it
+T9	Markable 275 277	it
+R1	Anaphora Arg1:T4 Arg2:T3	
+A1	No-Referent T6
+T10	Markable 178 182	mine
+T11	Markable 244 246	it
+R2	Anaphora Arg1:T10 Arg2:T7	
+R3	Anaphora Arg1:T8 Arg2:T7	
+R4	Anaphora Arg1:T9 Arg2:T11	

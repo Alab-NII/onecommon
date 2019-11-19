@@ -1,0 +1,8 @@
+T1	Markable 53 63	each other
+T2	Markable 97 104	the one
+T4	Markable 81 91	a triangle
+T5	Markable 71 75	they
+T6	Markable 167 175	that one
+T7	Markable 10 22	3 black dots
+R1	Anaphora Arg1:T1 Arg2:T7	
+R2	Predicative Arg1:T4 Arg2:T5	

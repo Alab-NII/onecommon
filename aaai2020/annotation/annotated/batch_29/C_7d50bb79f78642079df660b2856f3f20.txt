@@ -1,0 +1,6 @@
+0: I have 3 in a vertical line...all different sizes and shades?
+1: not sure I have that. Do you have two small dots 1/2 inch apart one lightest gray and one dark gray?
+0: Is there a large grey dot northwest of the pair?
+1: A large light gray dot...
+0: Yes!
+1: k. choose small dark grey dot

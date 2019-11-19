@@ -1,0 +1,7 @@
+T1	Markable 10 29	2 medium sized dots
+T2	Markable 33 48	a vertical line
+T3	Markable 50 60	A dark one
+T4	Markable 75 84	a lighter
+T5	Markable 129 133	that
+T6	Markable 148 162	the darker one
+R1	Predicative Arg1:T2 Arg2:T1	

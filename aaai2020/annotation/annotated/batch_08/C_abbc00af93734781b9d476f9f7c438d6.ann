@@ -1,0 +1,8 @@
+T1	Markable 40 42	it
+T2	Markable 63 69	itself
+T3	Markable 80 92	a small grey
+T4	Markable 132 134	it
+T5	Markable 161 163	it
+T6	Markable 10 21	a med black
+R1	Anaphora Arg1:T1 Arg2:T6	
+R2	Anaphora Arg1:T4 Arg2:T3	

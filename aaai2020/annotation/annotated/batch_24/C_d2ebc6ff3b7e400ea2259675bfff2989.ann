@@ -1,0 +1,23 @@
+T2	Markable 62 88	a larger light colored dot
+T3	Markable 204 228	a small almost black dot
+T4	Markable 257 259	it
+T6	Markable 279 281	it
+T7	Markable 304 306	it
+T8	Markable 346 348	it
+T9	Markable 352 385	a slightly lighter and larger dot
+T10	Markable 410 412	it
+T11	Markable 443 445	it
+T12	Markable 457 478	that smaller dark one
+T13	Markable 3 21	two med sized dots
+T1	Markable 144 164	any of the same size
+A1	No-Referent T1
+T14	Markable 233 235	It
+R1	Anaphora Arg1:T4 Arg2:T14	
+R2	Anaphora Arg1:T6 Arg2:T14	
+T5	Markable 311 313	It
+T15	Markable 331 342	The closest
+R3	Anaphora Arg1:T8 Arg2:T5	
+R4	Predicative Arg1:T9 Arg2:T15	
+T16	Markable 419 422	its
+R5	Anaphora Arg1:T16 Arg2:T10	
+T17	Markable 432 434	It

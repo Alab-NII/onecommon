@@ -1,0 +1,3 @@
+0: two small one opposite in shade on diagonal line?
+1: Yes, darker dot is above and to the left?
+0: yes click that one

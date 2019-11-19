@@ -1,0 +1,6 @@
+0: a lone gray dot
+1: no but i have a line of dots
+0: larger med gray dot???
+1: yes ... [
+0: ok lets pick that one
+1: ok

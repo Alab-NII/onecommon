@@ -1,0 +1,10 @@
+0: a large dark dark grey dot, to the left and slightly below it is a smaller black dot?
+1: I see three medium sized semi light gray dots on my left. two dark gray dots on the bottom , a big dark grey dot next to a tiny light grey dot
+0: i have the light tiny grey dot
+1: is it super close to a large dark grey dot?
+0: no, the large dark grey is almost an inch away
+1: on a computer correct?
+0: yes
+1: I have two other dark grey dots, one is almost black, they other is just very dark gray. they are semi far away from each other
+0: let's choose the almost black one
+1: ok lets do it

@@ -1,0 +1,4 @@
+1: Hello, I see two dark dots that are side by side on the upper left hand side
+0: Do you see a line of three dots sloping slightly upwards and to the right, the right most one is light and big
+1: No. Do you see a small light grey dot on the left hand side, halfway up from the bottom
+0: Click smallest lightest

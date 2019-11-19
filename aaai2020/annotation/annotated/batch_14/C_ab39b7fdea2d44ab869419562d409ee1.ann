@@ -1,0 +1,11 @@
+T3	Markable 10 15	2 dot
+T4	Markable 118 122	them
+T5	Markable 84 101	a large black dot
+T6	Markable 171 194	2 LARGE light gray dots
+T7	Markable 151 165	a cluster of 5
+T8	Markable 210 226	a large gray dot
+T11	Markable 346 348	it
+T12	Markable 353 355	it
+T1	Markable 36 45	one light
+T2	Markable 50 58	one dark
+R1	Anaphora Arg1:T12 Arg2:T11	

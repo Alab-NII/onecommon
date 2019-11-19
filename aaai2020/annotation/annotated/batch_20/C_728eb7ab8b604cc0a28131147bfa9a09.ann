@@ -1,0 +1,11 @@
+T1	Markable 19 35	a close triangle
+T2	Markable 72 82	a triangle
+T3	Markable 46 68	3 tiny light gray dots
+T4	Markable 91 107	the lightest one
+T6	Markable 140 143	one
+T7	Markable 171 195	the lightest colored one
+T8	Markable 3 15	3 light dots
+R1	Predicative Arg1:T1 Arg2:T8	
+R2	Predicative Arg1:T2 Arg2:T3	
+R3	Anaphora Arg1:T6 Arg2:T4	
+T5	Markable 152 154	it

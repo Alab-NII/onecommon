@@ -1,0 +1,3 @@
+1: medium dark dot large dark grey to the left and below
+0: Four I'm a line, black on the far left, then a small grey, larger darker grey, then a smaller light grey
+1: yep select the black on the far left

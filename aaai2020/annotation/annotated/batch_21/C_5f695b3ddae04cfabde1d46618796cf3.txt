@@ -1,0 +1,4 @@
+0: 2 large grey dots next to each other the left one lighter
+1: I got that pair !
+0: choose lighter one
+1: Going for it!

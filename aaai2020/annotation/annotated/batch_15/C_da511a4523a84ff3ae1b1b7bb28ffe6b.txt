@@ -1,0 +1,7 @@
+0: Hmm tricky one... Can you see an M shape of dots?
+1: no i see a triangle, light grey on left, slightly darker middle, and dark on right
+0: In that triangle the light grey on left is also largest of the 3?
+1: yes
+0: Lets go for that!
+1: ok
+0: Good luck

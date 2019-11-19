@@ -1,0 +1,4 @@
+1: black large dot>
+0: yes at the bottom right hand side
+1: is there a small med grey dot up and to its left? if so click the black one!
+0: yes

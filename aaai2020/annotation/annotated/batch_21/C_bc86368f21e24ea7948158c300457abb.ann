@@ -1,0 +1,10 @@
+T1	Markable 14 31	a large black dot
+T2	Markable 70 76	2 dots
+T3	Markable 84 94	each other
+T4	Markable 96 104	left one
+T5	Markable 142 153	the smaller
+T6	Markable 157 171	a lighter gray
+T7	Markable 121 123	it
+T8	Markable 195 211	the lighter grey
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Predicative Arg1:T6 Arg2:T5	

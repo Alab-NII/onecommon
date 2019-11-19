@@ -1,0 +1,5 @@
+1: do you see a large light dot near the right
+0: I see a large light dot at the top, and there is a slightly smaller, lighter one a little bit down and to the left of it.
+1: i dont see that. how about a very light, medium sized dot right a darker, smaller one to the right and slightly below
+0: Yes, I do see that. Do you want to click on the lighter, medium sized one?
+1: yes

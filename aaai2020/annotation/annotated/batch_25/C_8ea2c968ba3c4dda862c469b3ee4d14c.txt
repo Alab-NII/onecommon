@@ -1,0 +1,6 @@
+0: Very small dark dot up and to the left by itself
+1: It has a large dot down and to the left
+0: i don't have that dot ... does it also have a larger dot down and to the right?
+1: No do you have 2 large gray dots on the bottom one up and to the left same color
+0: yes i do! pick the upper one on the left
+1: Okay

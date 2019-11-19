@@ -1,0 +1,5 @@
+1: Lots of large dots clustered together.
+0: is there a large black dot and grey dot almost lined up, with the grey one to the right and slightly above the black one?
+1: Yes. The black one has a small black above it, and the medium gray one has a large light gray above it.
+0: yes. lets choose the large black one
+1: OK, thanks:)

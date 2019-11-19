@@ -1,0 +1,11 @@
+T1	Markable 38 59	a squiggly tight line
+T2	Markable 15 34	4 medium sized dots
+T3	Markable 61 72	the top one
+T4	Markable 141 145	they
+T5	Markable 229 244	a light smaller
+T6	Markable 261 274	the black dot
+R1	Predicative Arg1:T1 Arg2:T2	
+T7	Markable 91 110	the two middle ones
+T8	Markable 170 187	the top light one
+T9	Markable 215 225	my top one
+R2	Predicative Arg1:T5 Arg2:T9	

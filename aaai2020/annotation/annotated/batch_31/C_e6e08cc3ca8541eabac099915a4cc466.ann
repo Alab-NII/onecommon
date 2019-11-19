@@ -1,0 +1,22 @@
+T1	Markable 37 47	a triangle
+T2	Markable 10 22	3 black dots
+T3	Markable 59 78	two light grey dots
+T4	Markable 87 100	the dark ones
+T5	Markable 237 241	them
+T6	Markable 206 228	a medium dark grey dot
+T7	Markable 164 171	my dots
+T8	Markable 260 264	that
+T9	Markable 292 314	a small light grey dot
+T10	Markable 266 287	my smallest black dot
+T11	Markable 344 348	they
+T12	Markable 340 342	it
+T13	Markable 373 377	that
+T14	Markable 421 447	the small darker/black dot
+R1	Predicative Arg1:T1 Arg2:T2	
+T15	Markable 122 136	the "triangle"
+R2	Anaphora Arg1:T15 Arg2:T2	
+T16	Markable 152 155	any
+A1	No-Referent T16
+T17	Markable 191 201	the bottom
+A2	No-Referent T8
+R3	Anaphora Arg1:T12 Arg2:T10	

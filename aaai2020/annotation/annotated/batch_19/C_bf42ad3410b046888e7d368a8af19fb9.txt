@@ -1,0 +1,5 @@
+1: Do you have two very large dots on top of each other. Bottom is black
+0: do you see a large light gray dot on the far left
+1: Far left on your circle means nothing to me. Always describe a dot in relation to another dot
+0: yes to your question
+1: Click black dot

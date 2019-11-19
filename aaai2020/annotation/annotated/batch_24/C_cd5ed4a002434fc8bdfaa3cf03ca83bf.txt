@@ -1,0 +1,4 @@
+0: large black dot?
+1: I have 2 dot large in a row top is black and bottom is medium gray
+0: yes if the black is slightly to the right click that black one
+1: Yes

@@ -1,0 +1,10 @@
+T1	Markable 10 20	a dark dot
+T2	Markable 33 35	it
+T3	Markable 36 53	a large black dot
+T4	Markable 85 103	a large light grey
+T5	Markable 61 63	it
+T7	Markable 160 162	it
+T8	Markable 176 178	it
+T9	Markable 187 211	the large light grey dot
+R1	Predicative Arg1:T3 Arg2:T2	
+T10	Markable 121 144	a small medium gray dot

@@ -1,0 +1,9 @@
+1: big dark grey left side
+0: Most of my dots, (6 of them) are located in the lower right of the circle.
+1: I have a black on at right toward bottom
+0: I do have one medium grey larger dot on the upper half a bit towards the left too.
+1: yes
+0: or is the small black one located near 4 pm clockwise?
+1: yes
+0: lets go with that one then
+1: ok mark it

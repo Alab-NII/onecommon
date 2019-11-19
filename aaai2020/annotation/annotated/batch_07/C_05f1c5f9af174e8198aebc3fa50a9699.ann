@@ -1,0 +1,12 @@
+T1	Markable 115 122	the one
+T2	Markable 91 114	a large obtuse triangle
+T3	Markable 171 178	top one
+T4	Markable 64 69	three
+T5	Markable 225 239	two small dots
+T6	Markable 240 253	vertical line
+T7	Markable 6 22	your largest dot
+T8	Markable 33 37	Mine
+R1	Predicative Arg1:T2 Arg2:T4	
+T9	Markable 191 197	bottom
+R2	Predicative Arg1:T6 Arg2:T5	
+T10	Markable 304 328	that darkest largest dot

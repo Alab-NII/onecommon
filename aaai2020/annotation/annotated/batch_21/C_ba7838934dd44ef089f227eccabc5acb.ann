@@ -1,0 +1,16 @@
+T1	Markable 10 33	a lone small light grey
+T2	Markable 73 95	a very small black one
+T3	Markable 135 149	your light one
+T4	Markable 124 128	that
+T6	Markable 178 181	one
+T7	Markable 159 173	your black one
+T9	Markable 188 190	it
+T10	Markable 257 260	one
+T11	Markable 292 295	one
+T12	Markable 367 371	that
+T13	Markable 385 404	the small black one
+T14	Markable 413 415	it
+R1	Anaphora Arg1:T4 Arg2:T2	
+R2	Anaphora Arg1:T9 Arg2:T7	
+T5	Markable 226 230	it's
+T8	Markable 268 272	it's

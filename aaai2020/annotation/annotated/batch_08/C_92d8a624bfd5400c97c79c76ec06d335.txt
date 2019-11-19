@@ -1,0 +1,7 @@
+1: medium grey alone in the middle
+0: is there a darker black dot below and to the right?
+1: no
+0: do you have 3 small medium grey dots that make a triangle? all about the same size almost?
+1: right, that black one above it to the left
+0: ok want to click the black one?
+1: alright

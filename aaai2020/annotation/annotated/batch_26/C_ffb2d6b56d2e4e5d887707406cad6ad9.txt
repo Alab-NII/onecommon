@@ -1,0 +1,5 @@
+1: my largest dot is the darkest
+0: same
+1: is it close to a slightly smaller, much lighter dot?
+0: Yes
+1: ok, lets select that very dark dot

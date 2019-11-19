@@ -1,0 +1,8 @@
+1: I have 3 dots far apart making a triangle
+0: I have 2 large dots to the top and right? top one is darker and the bottom one is slightly down and to the left. below that is 4 more dots of varies size and colors almost making a straight line
+1: doesnt look like I have that, or at least not all of it. do you have the triangle?
+0: hmmm i can make one but they are not far apart.
+1: ok how about this...i think i have part of your line of 4. are the middle ones large and really close together?
+0: yes!
+1: theres a dark one slightly lower than the light one. lets click the dark one?
+0: got it

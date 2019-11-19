@@ -1,0 +1,12 @@
+T1	Markable 33 43	each other
+T2	Markable 78 102	a medium gray, large one
+T3	Markable 125 145	the rest of the dots
+T5	Markable 158 160	it
+T6	Markable 191 193	it
+T7	Markable 175 183	that one
+T8	Markable 245 259	the lonely one
+T9	Markable 10 24	two dark spots
+R1	Anaphora Arg1:T1 Arg2:T9	
+T10	Markable 53 66	just one dark
+T4	Markable 197 219	a slightly darker spot
+R2	Predicative Arg1:T4 Arg2:T6	

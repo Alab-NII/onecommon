@@ -1,0 +1,4 @@
+0: i see two dots of same size one is black the other is gray
+1: are they big? or small
+0: kind of small and close to each other the black (may be dark gray) one is under the lighter gray one.
+1: Choose the black maybe dark grey one below

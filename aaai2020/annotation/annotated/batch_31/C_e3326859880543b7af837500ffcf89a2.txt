@@ -1,0 +1,3 @@
+0: tiny light gray, do you see it?
+1: with large dark grey dot below it to the right?
+0: yes, let's pick the tiny light gray one, ok?

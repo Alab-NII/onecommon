@@ -1,0 +1,4 @@
+1: three dots very close together forming a triangle?
+0: yes! largest one is slightly the lightest and up to the right?
+1: Yes and bottom one is smallest and med in shade?
+0: Yes click that smallest bottom one

@@ -1,0 +1,4 @@
+0: i have a small dark grey dot to the left of a larger dark grey dot
+1: Do they form a line with another dark grey dot?
+0: yes. the smallest is in the middle of that line
+1: Yes click the smallest!

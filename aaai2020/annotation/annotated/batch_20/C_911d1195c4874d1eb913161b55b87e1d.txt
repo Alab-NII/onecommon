@@ -1,0 +1,2 @@
+1: I have 2 large black dots, one touching border at 8 o clock, one very south at 6 o clock
+0: Yes, let's choose the one at 6 oclock

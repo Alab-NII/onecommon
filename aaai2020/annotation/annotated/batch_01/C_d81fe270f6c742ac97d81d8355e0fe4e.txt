@@ -1,0 +1,5 @@
+1: Hello! Where's your dot?
+0: mine are all from the middle ... down. nothing at the top
+1: i'm looking at three dots that form a triangle pointing to the left do you see that?
+0: is the top right one the smallest and med/dark?
+1: yes lets pick that top right one

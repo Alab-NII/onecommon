@@ -1,0 +1,16 @@
+T1	Markable 52 62	the others
+T2	Markable 15 18	one
+T3	Markable 74 86	a group of 3
+T4	Markable 94 104	a triangle
+T6	Markable 250 257	a group
+T7	Markable 265 275	a triangle
+T8	Markable 289 300	2 dark ones
+T9	Markable 315 334	1 small lighter one
+T10	Markable 346 359	3 darker ones
+T11	Markable 378 399	the small lighter one
+R1	Predicative Arg1:T4 Arg2:T3	
+T12	Markable 137 144	the tip
+T5	Markable 176 186	light gray
+T13	Markable 218 230	larger black
+A1	No-Referent T6
+R2	Predicative Arg1:T7 Arg2:T6	

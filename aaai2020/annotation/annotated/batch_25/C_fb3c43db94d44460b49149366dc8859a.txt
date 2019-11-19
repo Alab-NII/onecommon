@@ -1,0 +1,5 @@
+0: black one with a medium grey to the immediate right
+1: Do you have a medium black dot on the left by itself
+0: no my black dot on the left has a medium grey one right next to it
+1: I don't have that how about 3 in a diagonal with the middle one black
+0: Yes click the middle one

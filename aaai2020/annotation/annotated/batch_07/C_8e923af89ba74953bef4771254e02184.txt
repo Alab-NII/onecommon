@@ -1,0 +1,5 @@
+0: Do you see a large black dot?
+1: I have one large dot, darker and bigger than the rest.
+0: Same
+1: Lets try it
+0: ok

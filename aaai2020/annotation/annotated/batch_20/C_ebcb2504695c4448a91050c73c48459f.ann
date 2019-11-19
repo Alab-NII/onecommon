@@ -1,0 +1,10 @@
+T1	Markable 10 28	a large light grey
+T2	Markable 71 88	a large dark grey
+T3	Markable 95 97	it
+T4	Markable 169 171	it
+T5	Markable 209 229	The large light grey
+T6	Markable 257 259	it
+T8	Markable 351 371	the large light grey
+T9	Markable 196 207	my grouping
+R1	Anaphora Arg1:T6 Arg2:T5	
+T10	Markable 301 305	that

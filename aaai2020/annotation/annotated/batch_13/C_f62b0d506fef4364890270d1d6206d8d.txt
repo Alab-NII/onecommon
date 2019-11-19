@@ -1,0 +1,4 @@
+0: Do you see two dots that are the same size and similar colors one right above the other?
+1: Two large dots the same same right on top of one another. the top dot is very slightly darker.
+0: Pick the top one
+1: i will in 10 sec

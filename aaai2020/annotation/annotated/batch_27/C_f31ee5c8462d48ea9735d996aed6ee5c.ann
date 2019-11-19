@@ -1,0 +1,16 @@
+T1	Markable 31 47	a large dark dot
+T2	Markable 10 25	a tiny dark dot
+T3	Markable 63 65	it
+T5	Markable 76 96	a line of three dots
+T6	Markable 98 102	they
+T7	Markable 123 133	the middle
+T8	Markable 202 211	your line
+T9	Markable 159 163	that
+T11	Markable 218 227	your line
+T12	Markable 271 285	your small dot
+T13	Markable 309 322	that tiny dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T6 Arg2:T5	
+R3	Anaphora Arg1:T11 Arg2:T8	
+T4	Markable 333 341	your dot
+T10	Markable 345 349	mine

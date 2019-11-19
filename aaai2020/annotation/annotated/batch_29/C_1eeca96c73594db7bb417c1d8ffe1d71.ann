@@ -1,0 +1,10 @@
+T2	Markable 57 81	a pair of dark grey dots
+T3	Markable 34 36	it
+T4	Markable 132 151	a pair of grey dots
+T6	Markable 92 109	a light shade dot
+T7	Markable 116 118	it
+T8	Markable 158 178	your light shade dot
+T9	Markable 203 205	it
+T10	Markable 3 26	Huge lightest shade dot
+R1	Anaphora Arg1:T3 Arg2:T10	
+R2	Anaphora Arg1:T9 Arg2:T8	

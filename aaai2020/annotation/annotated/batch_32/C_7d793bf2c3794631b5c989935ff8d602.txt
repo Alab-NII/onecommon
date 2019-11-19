@@ -1,0 +1,4 @@
+0: Lone large black dot
+1: hmm is there a very tiny very light dot to its horizontal left?
+0: Yes
+1: k click the tiny one

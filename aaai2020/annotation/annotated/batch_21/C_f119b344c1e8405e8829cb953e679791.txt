@@ -1,0 +1,6 @@
+0: there is a medium grey mid sized dot at four oclock on the edge
+1: I have a large black dot with a small black dot down and to the right
+0: the large one may be it, is there a large light grey above it?
+1: Up and to the left of it yes
+0: do you want to choose that one, the light grey?
+1: Yes let's pick

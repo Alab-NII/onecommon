@@ -1,0 +1,5 @@
+1: I see two large medium light grey dots horizontally next to each other
+0: A very dark dot is topmost and somewhat lonely
+1: I do see that also
+0: Do it have a slight smaller and lighter one below it to the left.
+1: yes basically, though the dark dot is not the top most in my picture, it is probably one we share anyway though

@@ -1,0 +1,3 @@
+0: Hi do you have a large black dot with a medium slightly smaller dark gray dot to its north east?
+1: yes i think i see it the medium grey dot is above and right
+0: yes! lets click the larger black one

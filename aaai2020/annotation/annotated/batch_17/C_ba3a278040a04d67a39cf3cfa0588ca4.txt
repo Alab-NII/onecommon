@@ -1,0 +1,6 @@
+0: Do you see lighter three dots in a triangle shape?
+1: Two light and one a little darker?
+0: yes. bottom dot is the smallest?
+1: Yes, I see that.
+0: would you like to select the smallest dot?
+1: Perfect, let's do it.

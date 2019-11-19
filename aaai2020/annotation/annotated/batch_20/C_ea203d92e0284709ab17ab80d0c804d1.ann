@@ -1,0 +1,10 @@
+T1	Markable 9 15	5 dots
+T2	Markable 19 41	a nearly straight line
+T4	Markable 129 132	one
+T5	Markable 102 105	two
+T6	Markable 227 239	the same one
+T7	Markable 258 260	it
+R1	Predicative Arg1:T2 Arg2:T1	
+T3	Markable 118 123	their
+R2	Anaphora Arg1:T3 Arg2:T5	
+R3	Anaphora Arg1:T7 Arg2:T6	

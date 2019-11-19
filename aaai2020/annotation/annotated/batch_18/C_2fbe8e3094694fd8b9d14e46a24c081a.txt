@@ -1,0 +1,4 @@
+1: i have one very dark dot, medium size. very close to a similar sized but lighter dot
+0: Does the lighter dot appear to be slightly larger?
+1: yes it does. just barely.
+0: go with the bottom larger dot

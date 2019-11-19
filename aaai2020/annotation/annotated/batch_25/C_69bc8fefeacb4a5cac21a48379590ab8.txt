@@ -1,0 +1,3 @@
+0: very very light tiny dot?
+1: yes with larger very dark dot down to its right?
+0: yes click the tiny very light one!

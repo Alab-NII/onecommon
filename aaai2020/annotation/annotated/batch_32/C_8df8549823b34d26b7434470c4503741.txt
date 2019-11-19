@@ -1,0 +1,2 @@
+1: I have a very tiny black dot close to a big medium gray dot
+0: I have that too!! Let's pick the tiny black one.

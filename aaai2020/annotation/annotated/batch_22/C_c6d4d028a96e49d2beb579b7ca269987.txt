@@ -1,0 +1,7 @@
+1: Do you see a large black dot next to a smaller dark gray dot?
+0: No, I don't. I have 2 black dots that are across from each other horizontally, one on the left in tiny.
+1: Do you have a tiny medium gray dot below the black large dot?
+0: No. I have 4 dots up at the top that are forming a capital N kind of
+1: hmm...No. Do you have a triangle of dot all different shades with the largest being black?
+0: No, I have a medium sized gray dot in that triangle though.
+1: ok. let's choose it.

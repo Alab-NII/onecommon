@@ -1,0 +1,3 @@
+0: Do you have a large black dot farish away from anything else?
+1: yeah. The closest dot to it that I see is light grey to its left and above position
+0: That matches mine. Let's choose that large black dot.

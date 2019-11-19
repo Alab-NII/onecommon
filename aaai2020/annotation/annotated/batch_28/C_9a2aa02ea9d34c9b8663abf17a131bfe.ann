@@ -1,0 +1,10 @@
+T1	Markable 21 31	each other
+T2	Markable 63 77	the bottom two
+T3	Markable 79 91	top left dot
+T4	Markable 132 140	that one
+T5	Markable 232 254	the larger lighter dot
+T6	Markable 3 12	Four dots
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 34 46	two top dots
+T8	Markable 117 124	the dot
+T9	Markable 291 307	large light gray

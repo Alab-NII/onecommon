@@ -1,0 +1,9 @@
+T1	Markable 61 71	each other
+T2	Markable 101 103	it
+T3	Markable 108 121	one black dot
+T4	Markable 150 154	that
+T5	Markable 163 176	the black one
+T6	Markable 14 26	2 small dots
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 76 85	Four dots
+R2	Anaphora Arg1:T2 Arg2:T7	

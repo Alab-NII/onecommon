@@ -1,0 +1,6 @@
+0: I have a cluster of 3 dots that make a triangleish figure two dark one lighter grey all big
+1: I only have one dark gray circle almost black.
+0: Do you have a small grey dot with a darker one and almost black one around it
+1: no i do not have those dots together. I have a kinda triangle with a larger lighter circle near my top left. there is a medium and dark gray with it all large
+0: Okay I think I have that triangle also you want to choose the lighter one?
+1: Yes we can

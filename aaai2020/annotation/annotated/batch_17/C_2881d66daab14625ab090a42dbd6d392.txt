@@ -1,0 +1,7 @@
+0: I have a line of 3 dots going down and to the left largest to smallest
+1: i dont think i see that.
+0: I also have a black dot on the line at 8 o clock
+1: is it medium-large sized with a smaller black dot up and to the right?
+0: yeah...
+1: okay. pick the smaller of the two?
+0: lets do the larger one because I have 2 above it and to the right

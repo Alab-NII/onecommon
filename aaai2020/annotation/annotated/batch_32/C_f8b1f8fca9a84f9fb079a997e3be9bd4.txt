@@ -1,0 +1,4 @@
+0: i have a row of almost diagonal dots, from left to right: smaller light grey, med dark grey, med grey
+1: Yes, is the one on the left smaller than the 2 on the right?
+0: yep, shall we pick the smallest left one?
+1: ok

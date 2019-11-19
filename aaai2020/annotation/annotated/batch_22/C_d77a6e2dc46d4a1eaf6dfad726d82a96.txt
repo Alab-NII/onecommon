@@ -1,0 +1,6 @@
+1: black med sized dot?
+0: My only black dot is medium size
+1: yes with a smaller lighter one close and up to its right?
+0: Yes let us select that
+1: the smaller one?
+0: The black one

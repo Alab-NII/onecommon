@@ -1,0 +1,5 @@
+1: I've got three medium sized ones close together
+0: Do they form a line slightly curving to the left at the bottom, with the bottom one being the darkest of the 3?
+1: Yes
+0: ok want to click the darkest one at the bottom?
+1: Yes lets do it

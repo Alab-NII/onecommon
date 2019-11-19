@@ -1,0 +1,6 @@
+0: I have one small very light dot that is kind of by itself.
+1: I see a large dark grey dot extremely close to a smaller dark dot. I don't see a small light dot
+0: I think I have that too. Is the smaller one darker than the larger one?
+1: yes, slightly darker by maybe a shade
+0: Ok, let's pick the smaller one
+1: okay i will

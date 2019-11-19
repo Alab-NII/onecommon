@@ -1,0 +1,5 @@
+0: The lowest dot on my screen is also the tiniest .
+1: I see a circle with seven dots
+0: Large medium colored gray dot, above it and to the right is a smaller darker dot
+1: Is it the darkest dot? If so I also have that one in that similar spot. It is the furthest to the top of all the dots and slightly off center
+0: Yes , it's the darkest. Let's choose that one

@@ -1,0 +1,9 @@
+T1	Markable 10 21	a black dot
+T2	Markable 27 37	a grey dot
+T3	Markable 73 76	one
+T4	Markable 116 118	it
+T5	Markable 155 170	a big black dot
+T6	Markable 230 238	that one
+T7	Markable 54 70	Two closest dots
+T8	Markable 102 112	right next
+R1	Anaphora Arg1:T4 Arg2:T3	

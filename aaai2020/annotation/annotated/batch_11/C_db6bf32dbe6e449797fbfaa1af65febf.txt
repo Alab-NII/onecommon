@@ -1,0 +1,5 @@
+1: I have a triangle of three grey dots, darker on right
+0: darker on right is also bottom of triangle? or could be top of triangle bc there's a small light one below them, too?
+1: Yes, I have a small grey at bottom of my triangle. Nothing on top. Let's choose that small grey one
+0: it's lightest and smallest?
+1: Yep!

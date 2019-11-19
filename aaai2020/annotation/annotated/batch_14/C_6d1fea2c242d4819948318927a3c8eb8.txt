@@ -1,0 +1,7 @@
+1: I have 2 black dots on my screen. 1 is tiny, the other is big.
+0: Same, can you describe any dots adjacent to either of these?
+1: my big black dot is by itself. The small one is to the left and below a small light grey dot
+0: Are the small grey dot and the small black dot exactly the same size?
+1: yeah
+0: Great, let's select the small black dot
+1: ok

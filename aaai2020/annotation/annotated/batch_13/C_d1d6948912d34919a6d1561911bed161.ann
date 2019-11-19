@@ -1,0 +1,10 @@
+T1	Markable 14 25	a black dot
+T2	Markable 37 48	a light dot
+T3	Markable 59 65	2 dots
+T4	Markable 76 86	each other
+T5	Markable 88 101	The lower one
+T6	Markable 113 120	TOp one
+T7	Markable 146 159	the black dot
+T8	Markable 175 182	top one
+T9	Markable 218 227	black dot
+R1	Anaphora Arg1:T4 Arg2:T3	

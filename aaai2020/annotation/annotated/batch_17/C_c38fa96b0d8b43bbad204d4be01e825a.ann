@@ -1,0 +1,19 @@
+T1	Markable 15 31	a tiny black one
+T2	Markable 46 48	it
+T3	Markable 97 99	it
+T4	Markable 131 153	a larger dark grey dot
+T5	Markable 177 190	the black one
+T6	Markable 234 238	mine
+T7	Markable 286 290	them
+T8	Markable 253 264	a line of 4
+T9	Markable 404 423	that tiny black one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T10	Markable 53 93	a larger *but still small* dark grey one
+R2	Anaphora Arg1:T3 Arg2:T1	
+T11	Markable 205 217	nothing else
+A1	No-Referent T11
+T12	Markable 294 297	top
+T13	Markable 301 306	the 4
+R3	Anaphora Arg1:T13 Arg2:T8	
+T14	Markable 341 352	a line of 3
+T15	Markable 353 364	the top one

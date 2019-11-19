@@ -1,0 +1,9 @@
+T1	Markable 22 32	my darkest
+T2	Markable 52 68	a large dark dot
+T3	Markable 112 114	it
+T4	Markable 74 96	a very small light one
+T5	Markable 124 137	the small one
+T6	Markable 172 185	the large one
+T7	Markable 3 18	my smallest dot
+R1	Predicative Arg1:T1 Arg2:T7	
+R2	Anaphora Arg1:T3 Arg2:T2	

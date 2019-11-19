@@ -1,0 +1,13 @@
+T1	Markable 24 48	a slightly diagonal line
+T2	Markable 10 20	three dots
+T5	Markable 112 121	right one
+T7	Markable 157 171	the middle one
+T8	Markable 69 79	middle one
+T10	Markable 50 58	Left one
+T11	Markable 183 198	a dark grey dot
+T12	Markable 204 228	a light grey smaller dot
+T13	Markable 282 305	below the dark grey dot
+T14	Markable 309 320	a black dot
+T15	Markable 372 391	the larger gray one
+R1	Predicative Arg1:T1 Arg2:T2	
+T3	Markable 349 353	that

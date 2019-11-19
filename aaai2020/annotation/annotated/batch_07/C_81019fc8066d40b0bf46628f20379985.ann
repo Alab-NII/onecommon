@@ -1,0 +1,10 @@
+T1	Markable 15 31	2 light dots one
+T2	Markable 134 146	the same dot
+T3	Markable 155 171	a very light dot
+T4	Markable 208 217	2 of them
+T5	Markable 228 238	each other
+T6	Markable 317 324	the one
+T7	Markable 351 365	the other dots
+R1	Anaphora Arg1:T5 Arg2:T4	
+T8	Markable 242 260	My other light dot
+T9	Markable 291 295	mine

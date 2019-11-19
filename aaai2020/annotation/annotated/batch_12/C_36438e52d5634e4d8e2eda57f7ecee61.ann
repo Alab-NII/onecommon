@@ -1,0 +1,14 @@
+T1	Markable 36 46	each other
+T2	Markable 9 28	2 darker black dots
+T3	Markable 88 90	it
+T4	Markable 69 84	small black dot
+T5	Markable 113 117	that
+T6	Markable 122 137	the smaller one
+T9	Markable 186 202	your 2 dot group
+T10	Markable 214 222	that one
+T11	Markable 50 63	big black dot
+R1	Anaphora Arg1:T3 Arg2:T11	
+T7	Markable 166 168	it
+T8	Markable 170 182	the left dot
+R2	Anaphora Arg1:T1 Arg2:T2	
+R3	Predicative Arg1:T8 Arg2:T7	

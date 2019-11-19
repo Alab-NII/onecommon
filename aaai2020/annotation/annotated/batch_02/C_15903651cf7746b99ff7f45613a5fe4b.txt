@@ -1,0 +1,6 @@
+1: Hello! Where's your dot?
+0: I have to medium dots one medium gray one black
+1: Yes I think I see that. Is the black dot slightly higher than the medium gray one?
+0: yes
+1: Ok lets pick the black dot
+0: ok

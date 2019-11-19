@@ -1,0 +1,7 @@
+0: 1 gray small dot in the center of the circle
+1: i don't have that
+0: three black dots starting from the center going bottom right
+1: i have six dark circles and one small circle less dark
+0: is the less dark one upper right in the circle
+1: yes. it is the second circle below the big dark on our right
+0: press it

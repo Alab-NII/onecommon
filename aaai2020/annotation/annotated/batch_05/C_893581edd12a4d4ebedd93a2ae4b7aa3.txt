@@ -1,0 +1,9 @@
+0: i see four dots that form the shape of an L.
+1: i've got 3 big ones. the left top is Darkest. Top right is med. lower one is light/med grey... all about the same size
+0: do you see anything near the top right medium one?
+1: i think i'm missing one of the L ones... would the L be tilted going with the top to it's right?
+0: yes
+1: ok so the darkest one would be at the bottom, the lighter one would be the other end of the L ?
+0: correct.
+1: ok let's pick the black root /corner of the L
+0: ok

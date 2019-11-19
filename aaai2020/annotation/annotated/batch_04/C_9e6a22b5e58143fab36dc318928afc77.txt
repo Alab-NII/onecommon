@@ -1,0 +1,5 @@
+1: one tiny light grey dot alone
+0: I have two light grey dots that are vertical on the left of my circle
+1: two black dots the same size; one tiny black dot
+0: I have a tiny dot at 10 o'clock but its towards the center
+1: lets do tiny black dot

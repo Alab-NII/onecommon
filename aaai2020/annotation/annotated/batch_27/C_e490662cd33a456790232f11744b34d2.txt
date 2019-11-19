@@ -1,0 +1,4 @@
+0: i have one very dark dot. its large in size.
+1: i don't think i have that, my only dark dot is tiny with a medium light grey up to the right
+0: ok, i dont see that either. how about a pair. one is small and light and one is larger and slightly darker?
+1: ok, i think so, the bottom one is larger and darker? If so, pick the larger one on bottom

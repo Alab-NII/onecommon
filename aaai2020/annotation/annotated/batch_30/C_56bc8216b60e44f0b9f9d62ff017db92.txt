@@ -1,0 +1,6 @@
+0: One grey dot left side, rest are in a cluster... Three sort of lined up, smaller grey, darker larger grey, then black
+1: I have some 5 dots pretty close together
+0: Any black
+1: Three of them are close to black
+0: Do u have a tiny black
+1: Yes and let us select that

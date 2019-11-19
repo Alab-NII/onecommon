@@ -1,0 +1,5 @@
+T1	Markable 47 50	one
+T2	Markable 124 126	it
+T3	Markable 3 24	1 large dark gray dot
+T4	Markable 28 31	its
+R1	Anaphora Arg1:T4 Arg2:T3	

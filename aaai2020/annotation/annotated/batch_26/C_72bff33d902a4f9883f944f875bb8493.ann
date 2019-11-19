@@ -1,0 +1,7 @@
+T1	Markable 118 137	a cluster of 3 dots
+T3	Markable 3 18	dark medium dot
+T4	Markable 22 25	its
+R1	Anaphora Arg1:T4 Arg2:T3	
+T5	Markable 85 89	mine
+T2	Markable 150 151	2
+T6	Markable 162 163	1

@@ -1,0 +1,8 @@
+T1	Markable 41 68	a smaller, much lighter dot
+T2	Markable 10 34	a medium-large black dot
+T3	Markable 91 93	it
+T4	Markable 138 151	2 darker ones
+T5	Markable 109 120	a light dot
+T6	Markable 153 157	they
+T7	Markable 182 201	the large black one
+R1	Anaphora Arg1:T3 Arg2:T2	

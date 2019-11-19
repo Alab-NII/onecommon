@@ -1,0 +1,4 @@
+1: Large dark grey top left wall
+0: no dark grey with two lighter grey smaller circles to the right
+1: no small medium grey towards bottom left wall
+0: yes i think i got that

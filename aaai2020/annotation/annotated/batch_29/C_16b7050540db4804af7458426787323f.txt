@@ -1,0 +1,4 @@
+0: Small black dot aligned vertically with medium light grey dot
+1: I I think I have that. Selecting the small black dot.
+0: Is the small black dot slight to the right?
+1: Yes

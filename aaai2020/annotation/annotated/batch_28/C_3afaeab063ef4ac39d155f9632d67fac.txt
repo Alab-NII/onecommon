@@ -1,0 +1,4 @@
+1: two dark grey small dots almost identical looking and close to each other on a diagonal line?
+0: i see three dots close together. all of them are small. one is black and the other two are dark grey
+1: yes if the black is further right click that one!
+0: ok

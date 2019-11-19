@@ -1,0 +1,6 @@
+1: Do you have a large medium gray dot with a lighter dot above and the the left of it?
+0: I see an almost square of dots three of them are very light
+1: I dot have a square of light dots
+0: No the square has 2 lights and 1 large almost black one
+1: I have a piece of what you are describing. Let's pick the almost black one
+0: K cool!

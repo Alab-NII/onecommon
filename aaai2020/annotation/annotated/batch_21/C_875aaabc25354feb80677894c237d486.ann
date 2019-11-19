@@ -1,0 +1,17 @@
+T2	Markable 10 23	a large black
+T3	Markable 80 88	two dots
+T4	Markable 121 130	the other
+T5	Markable 112 115	one
+T6	Markable 158 172	the bigger dot
+T7	Markable 195 203	the ones
+T8	Markable 238 242	them
+T9	Markable 270 285	the smaller one
+T1	Markable 36 39	one
+T10	Markable 59 65	either
+T11	Markable 133 140	the one
+R1	Predicative Arg1:T6 Arg2:T11	
+A1	No-Referent T7
+T12	Markable 220 229	what else
+A2	Generic T12
+R2	Anaphora Arg1:T8 Arg2:T7	
+T13	Markable 256 260	that

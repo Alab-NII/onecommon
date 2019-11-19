@@ -1,0 +1,11 @@
+0: I have three grey dots almost in a line
+1: I have two grey dots the same size and then two more, one is the smallest
+0: How about a large black one to the right?
+1: I have three black dots; one is the biggest
+0: I only have to Black ones, the biggest is to the right. Is that where yours is?
+1: the dots aren't in the same places in our respective circles
+0: We should have one in common. I have a black one to the bottom as well, do you have one there?
+1: is one of your black dots bigger than the other?
+0: Yes the one that is to the right
+1: then let's try the bigger one
+0: Sounds good

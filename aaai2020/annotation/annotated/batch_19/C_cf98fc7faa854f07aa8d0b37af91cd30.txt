@@ -1,0 +1,5 @@
+1: i have 1 tiny grey dot
+0: I is there a large light gray dot far above and slightly to the left of it.
+1: yeah it seems to be
+0: ok. Let's pick the tiny one you described first
+1: ok

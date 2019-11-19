@@ -1,0 +1,2 @@
+1: I have a big black dot beside 2 smaller grey dots
+0: Ah yes, you put it beautifully, It is very dark compared to the rest.

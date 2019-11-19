@@ -1,0 +1,6 @@
+0: I have three dots making a small triangle
+1: I have two triangles. one has a really small light gray dot and the triangle is pointing south, the other one has bigger dots. which one is yours?
+0: bigger dots, two on the left
+1: is the bottom right dot of that triangle bigger than those two?
+0: yes
+1: Great click the bigger bottom right one

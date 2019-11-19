@@ -1,0 +1,8 @@
+1: do you have 2 dots, similar is size, but 1 is darker?
+0: I see a very large medium gray dot and a smaller, slightly darker dot at 5 o clock position from the first one.
+1: i don't have that
+0: Okay, back to your original dots. They are both large and far apart. Pale one, and then at 5 o clock position another one, about 2 inches (5cm) away? Is that it?
+1: no these are small, the darker one is slightly below and to the left of the light one
+0: I think I see those. Pale dot, and at 7 o clock position one that's just slightly smaller and darker? About 2 cm apart (half inch)?
+1: yes, let's choose the pale one
+0: ok

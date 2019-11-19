@@ -1,0 +1,6 @@
+0: two small dots diagonal to each other and very close together?
+1: Do you have a black tiny one
+0: no did you read my message?
+1: I read it what is their color
+0: top is light grey and off to the right and bottom is almost black
+1: let us select the almost black one

@@ -1,0 +1,7 @@
+0: medium black dot?
+1: I have one large dot that is darker than the rest
+0: do u have a large grey dot below it and to the right?
+1: Yes, let's click on the black dot?
+0: lets make sure its the same one first, do u have a light grey dot about the same size directly above it but about an inch or so away?
+1: yes
+0: ok lets get that black one then

@@ -1,0 +1,10 @@
+T1	Markable 68 70	it
+T2	Markable 37 55	a black larger one
+T3	Markable 94 107	a larger dark
+T4	Markable 148 166	this tiny dark one
+T5	Markable 191 216	a medium size lighter one
+T6	Markable 3 31	a really small dark grey one
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 74 87	one tiny dark
+T8	Markable 224 228	it's
+#1	AnnotatorNotes T8	its

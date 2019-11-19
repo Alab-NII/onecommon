@@ -1,0 +1,8 @@
+0: two black dots
+1: Big grey in the middle of them
+0: yes
+1: That was easy
+0: now what?'
+1: Need to wait 1 minute I think
+0: select the dot
+1: Fat Grey

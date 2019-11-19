@@ -1,0 +1,13 @@
+T1	Markable 52 62	each other
+T2	Markable 100 104	that
+T3	Markable 135 144	which one
+T4	Markable 219 234	the lighter one
+T5	Markable 292 306	the darker one
+T6	Markable 375 390	the lighter one
+T7	Markable 3 42	two almost identical in size large dots
+R1	Anaphora Arg1:T1 Arg2:T7	
+A1	Generic T3
+T8	Markable 164 179	The lighter one
+T9	Markable 250 257	the top
+T10	Markable 262 277	The lighter one
+T11	Markable 338 353	The lighter one

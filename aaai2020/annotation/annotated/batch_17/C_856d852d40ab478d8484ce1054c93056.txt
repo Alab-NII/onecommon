@@ -1,0 +1,4 @@
+1: I see two small dots, a medium gray with a light gray that is below and slightly to the left.
+0: i only have one black dot med size at about 3 o clock then to the left of that i have two tiny dots one light and one a bit darker
+0: lets click the light gray tiny one
+1: Ok

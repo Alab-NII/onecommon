@@ -1,0 +1,10 @@
+1: I see one smallish black dot in the middle surrounded by lighter dots.
+0: I see three large medium gray dots in a large area, and three small gray dots in triangle and one dark near a light gray at edge of circle
+1: Do you see a very small light grey dot near the bottom of the circle?
+0: i see a very small light gray about about 4 o clock close to the edge of circle
+1: Hm, is there a larger dot similar color to the upper left of it?
+0: to the upper left of it i see two small and then one large but about 2 inches away. Is your small dot near a med gray dot
+1: No, I don't see any of that. Can you see a larger light grey dot near the edge on the left side of the circle?
+0: yes. a larger gray dot med color gray about 10 o clock for me but close to edge
+1: Let's choose that one then!
+0: ok

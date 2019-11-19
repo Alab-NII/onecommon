@@ -1,0 +1,10 @@
+T1	Markable 10 17	one dot
+T2	Markable 68 77	those six
+T3	Markable 88 92	them
+T5	Markable 81 84	one
+T7	Markable 171 179	that one
+T9	Markable 25 28	its
+R1	Anaphora Arg1:T9 Arg2:T1	
+T10	Markable 43 44	6
+R2	Anaphora Arg1:T3 Arg2:T2	
+T4	Markable 125 156	medium small and my darkest dot

@@ -1,0 +1,7 @@
+0: Hi there. Do you see two large dark dots to the right side?
+1: Yes and are they close to each other with the bottom one very slightly darker?
+0: Yes
+1: Just to double check, Is there a light grey smaller dot above and to the left?
+0: Correct!
+1: Choose the bottom, darker dot?
+0: Yes, let's

@@ -1,0 +1,7 @@
+T1	Markable 29 39	a triangle
+T2	Markable 76 86	three dots
+T3	Markable 191 204	your two dots
+T4	Markable 162 180	the large grey dot
+T5	Markable 3 20	cluster of 4 dots
+R1	Predicative Arg1:T1 Arg2:T5	
+T6	Markable 127 130	top

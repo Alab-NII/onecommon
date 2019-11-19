@@ -1,0 +1,15 @@
+T1	Markable 10 46	only medium gray and light gray dots
+T2	Markable 314 326	a light gray
+T3	Markable 264 284	a smaller light gray
+T4	Markable 384 406	the smaller light gray
+T5	Markable 413 415	it
+T6	Markable 446 456	these dots
+T7	Markable 523 549	the larger medium-gray dot
+T8	Markable 51 68	My darkest circle
+T9	Markable 117 148	any dark (almost black) circles
+A1	No-Referent T9
+T10	Markable 162 188	a larger light-gray circle
+T11	Markable 227 247	a larger medium gray
+A2	No-Referent T2
+T12	Markable 356 378	the larger medium gray
+R1	Anaphora Arg1:T5 Arg2:T12	

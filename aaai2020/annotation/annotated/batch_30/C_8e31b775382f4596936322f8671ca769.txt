@@ -1,0 +1,4 @@
+0: i've got a big dark gray, with two lighter ones to its left and a medium gray above it
+1: ok i see that
+0: pick the dark one?
+1: ok

@@ -1,0 +1,5 @@
+1: large black dot?
+0: Large black dot on bottom, small black dot on top
+1: does the large black dot have a slightly smaller light grey top almost vertical to it?
+0: Yes
+1: k click that large black dot

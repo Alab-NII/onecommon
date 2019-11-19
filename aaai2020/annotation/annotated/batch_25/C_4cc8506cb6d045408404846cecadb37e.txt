@@ -1,0 +1,3 @@
+0: Cluster of dots with one black dot
+1: I think I see it, below the black dot is a light smaller one to its lower left?
+0: Yes. Click the black dot when able

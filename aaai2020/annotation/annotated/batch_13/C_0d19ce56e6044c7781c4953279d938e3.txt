@@ -1,0 +1,4 @@
+0: Hi do you have a large dark grey dot with a smaller black dot to its south and west?
+1: I have two very close together. The bottom one is a small black dot. The top one is a much larger, dark grey dot, it is slightly to the right
+0: haha sounds like we are on the same page. click the black one?
+1: Ok!

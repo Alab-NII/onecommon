@@ -1,0 +1,5 @@
+1: large black dot with a smaller lighter dot to the right and slightly below?
+0: see it
+1: choose large one
+0: done
+1: did you click on it?

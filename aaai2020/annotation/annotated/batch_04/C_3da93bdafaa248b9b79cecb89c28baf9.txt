@@ -1,0 +1,5 @@
+0: There is a large, dark black dot on the upper left.
+1: left of 12 o'clock
+0: yes.
+1: Do you want to select it ?
+0: yes

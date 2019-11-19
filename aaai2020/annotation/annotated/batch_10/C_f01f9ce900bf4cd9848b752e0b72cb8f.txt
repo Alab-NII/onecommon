@@ -1,0 +1,4 @@
+1: I have one small black dot, it has a large light dot on top right of it
+0: I see two dots fairly close together. The one on top is larger, darker and slightly to the right. They are both similar size. I don't see what you describe
+1: I see what you described
+0: Click the top one thats darker

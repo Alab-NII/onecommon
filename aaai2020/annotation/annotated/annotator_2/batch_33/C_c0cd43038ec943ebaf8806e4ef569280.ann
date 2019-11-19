@@ -1,0 +1,5 @@
+T1	Markable 29 33	line
+T2	Markable 124 132	that one
+T3	Markable 3 14	3 dark dots
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 74 84	middle one

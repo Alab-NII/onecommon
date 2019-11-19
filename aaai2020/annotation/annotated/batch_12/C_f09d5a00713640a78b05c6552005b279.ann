@@ -1,0 +1,7 @@
+T1	Markable 10 27	a large light dot
+T2	Markable 34 62	a smaller but the same color
+T3	Markable 69 71	it
+T4	Markable 141 148	the one
+T5	Markable 185 203	bottom, bigger one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T6	Markable 102 106	Both

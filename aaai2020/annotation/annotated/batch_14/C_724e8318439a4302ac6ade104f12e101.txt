@@ -1,0 +1,6 @@
+1: Hi! Do you see a tiny grey dot?
+0: Ok, do you have a very large dot that is the darkest gray in the circle?
+1: Yes I do! Is there a slightly lighter and smaller dot to the left of it?
+0: Yep! choose the darkest?
+1: Yes! Have a good day.
+0: you too, thanks!

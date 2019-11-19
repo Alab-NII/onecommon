@@ -1,0 +1,12 @@
+T1	Markable 38 44	5 dark
+T2	Markable 90 108	a really small one
+T3	Markable 70 78	the dark
+T4	Markable 114 126	a larger one
+T5	Markable 209 223	the bigger one
+T6	Markable 160 171	a small one
+T7	Markable 273 288	that bigger one
+T8	Markable 7 10	all
+A1	All-Referents T8
+T9	Markable 46 59	2 medium gray
+T10	Markable 135 138	its
+R1	Anaphora Arg1:T10 Arg2:T2	

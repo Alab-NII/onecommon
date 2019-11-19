@@ -1,0 +1,4 @@
+0: my lightest dot is also my largest dot you?
+1: Does it have a very black smaller one at the top to the right
+0: yes. it does. three dark dots above the lighter/larger one. and one smaller to the left.
+1: Let us select the lightest largest dot

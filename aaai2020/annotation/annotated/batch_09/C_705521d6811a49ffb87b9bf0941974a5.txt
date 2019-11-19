@@ -1,0 +1,4 @@
+0: one lonely small light gray dot
+1: I see a small light gray dot as well
+0: wanna chose it
+1: Yes, let's choose it

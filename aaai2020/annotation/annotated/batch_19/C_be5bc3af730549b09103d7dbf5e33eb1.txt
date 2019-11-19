@@ -1,0 +1,6 @@
+1: three light grey dots close together?
+0: I see two darker grey dots and 5 lighter grey dots
+1: Hmm three lighter grey that are forming a line sloping up to the left?
+0: I would say so
+1: middle is a little askew to the right? if so click it
+0: Yes it is, click the middle dot only?

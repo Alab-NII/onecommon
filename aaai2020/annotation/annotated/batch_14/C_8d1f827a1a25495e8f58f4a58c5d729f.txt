@@ -1,0 +1,4 @@
+0: there is a large dot at the top that is dark
+1: I do not have a large dark dot, do you have a very light colored dot that is medium in size?
+0: yes bottom right
+1: Yes, It is extremely light and not many others I have seen this light

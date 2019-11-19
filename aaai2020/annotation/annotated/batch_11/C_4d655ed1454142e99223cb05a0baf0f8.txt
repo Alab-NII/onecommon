@@ -1,0 +1,6 @@
+0: I see a large pale gray dot, and to its left and slightly lower, a smaller dot the same color. Do you see them?
+1: i think so
+0: The dots are about 3cm or more apart. Does that sound right?
+1: yes that's about right
+0: Let's select the smaller dot, the one on the left, ok?
+1: okay

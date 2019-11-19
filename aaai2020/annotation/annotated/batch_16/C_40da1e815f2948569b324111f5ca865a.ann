@@ -1,0 +1,8 @@
+T1	Markable 9 25	three small dots
+T2	Markable 74 86	3 small dots
+T3	Markable 182 184	it
+T4	Markable 36 39	all
+R1	Anaphora Arg1:T4 Arg2:T1	
+T5	Markable 96 105	dark grey
+T6	Markable 152 160	dark get
+#1	AnnotatorNotes T6	dark dot

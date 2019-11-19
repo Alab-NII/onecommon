@@ -1,0 +1,4 @@
+1: I have a very large light gray dot kind of by itself.
+0: I see a medium light gray dot towards the top. It's not large, though. Do you see a tiny dark gray dot towards the bottom, by itself?
+1: Mine's not at the bottom, but I do have a tiny dark gray dot by itself. Should we try that one?
+0: I say let's do it!

@@ -1,0 +1,6 @@
+T1	Markable 3 24	cluster of three dots
+T2	Markable 39 45	3 dots
+T3	Markable 49 65	a close triangle
+T4	Markable 67 82	the darkest dot
+R1	Predicative Arg1:T3 Arg2:T2	
+T5	Markable 113 120	darkest

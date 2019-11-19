@@ -1,0 +1,9 @@
+0: I have 2 stacked. Top is larger and lighter and above a smaller darker
+1: I don't see that
+0: Tell me what you are seeing
+1: I have a large black dot with a small grey dot under it
+0: Ok... I don't see any black. The black are very dark. Is this just a darkish shade of grey?
+1: Yes two dark grey one larger above, one smaller below
+0: Ok
+1: Which one did you select?
+0: The larger one, sorry

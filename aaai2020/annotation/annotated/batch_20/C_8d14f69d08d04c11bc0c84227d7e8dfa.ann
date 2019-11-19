@@ -1,0 +1,12 @@
+T1	Markable 10 25	two darker dots
+T2	Markable 61 72	a black dot
+T3	Markable 78 106	a slightly smaller black dot
+T4	Markable 141 147	3 dots
+T5	Markable 214 235	the smaller black dot
+T6	Markable 320 327	the one
+T7	Markable 110 113	its
+R1	Anaphora Arg1:T7 Arg2:T2	
+T8	Markable 178 194	an upside down L
+R2	Predicative Arg1:T8 Arg2:T4	
+T9	Markable 243 256	the other dot
+T10	Markable 302 306	that

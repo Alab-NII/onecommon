@@ -1,0 +1,14 @@
+T1	Markable 9 26	three darker dots
+T2	Markable 68 72	them
+T3	Markable 61 64	one
+T4	Markable 52 55	two
+T5	Markable 89 92	two
+T7	Markable 155 165	each other
+T8	Markable 191 205	the darker one
+T9	Markable 309 317	that one
+R1	Anaphora Arg1:T2 Arg2:T4	
+T6	Markable 117 136	My two largest dots
+R2	Anaphora Arg1:T7 Arg2:T6	
+T10	Markable 171 176	yours
+R3	Anaphora Arg1:T10 Arg2:T6	
+T11	Markable 235 247	the diagonal

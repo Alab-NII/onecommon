@@ -1,0 +1,6 @@
+1: Do you see a large dark dot with a smaller light dark above it and slightly to the left?
+0: No. Do you see a tiny very light grey dot by itself?
+1: Yes. To confirm, is there a dark dot above it and to the right?
+0: Hmm no I think it's cut out of my view. I see a large dark grey dot to the right and below it
+1: I see that one as well. Should we pick the tiny dot?
+0: yes

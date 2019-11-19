@@ -1,0 +1,5 @@
+1: I see a small dark dot with a larger dark grey dot to the right
+0: I don't see that one... I see a small dark dot with a large gray to the left and a small gray to the right
+1: I sort of see that, is the small gray above the small dark dot as well
+0: yeah its up and to the right
+1: alright select the small dark in the middle

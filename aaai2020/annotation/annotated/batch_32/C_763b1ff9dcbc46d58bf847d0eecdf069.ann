@@ -1,0 +1,9 @@
+T1	Markable 58 60	it
+T2	Markable 9 27	a massive dark one
+T3	Markable 126 128	it
+T4	Markable 72 87	large black dot
+T5	Markable 138 142	that
+T6	Markable 165 176	the big one
+T7	Markable 33 46	a tiny "moon"
+T8	Markable 93 111	a small light grey
+R1	Anaphora Arg1:T3 Arg2:T4	

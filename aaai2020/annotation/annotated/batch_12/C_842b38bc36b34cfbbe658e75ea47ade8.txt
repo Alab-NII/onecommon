@@ -1,0 +1,3 @@
+1: Hello, do you have a large light grey dot with a medium dot also light grey below it?
+0: Yes. We should select the larger one
+1: Nice, sounds good!

@@ -1,0 +1,11 @@
+T1	Markable 10 29	a cluster of 3 dots
+T4	Markable 66 81	lower right dot
+T5	Markable 105 119	two small dots
+T6	Markable 158 171	a smaller one
+T7	Markable 232 241	Upper dot
+T2	Markable 132 142	each other
+R1	Anaphora Arg1:T2 Arg2:T5	
+T3	None 49 57	learning
+#1	AnnotatorNotes T3	leaning
+T8	Markable 216 230	the same thing
+T9	Markable 279 287	that dot

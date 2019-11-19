@@ -1,0 +1,4 @@
+0: Hello! Where's your dot?
+1: I have a group of 3 small dots. 2 black one 1 gray
+0: I got it. They form a triangle. Pick the top of the triangle?
+1: yes

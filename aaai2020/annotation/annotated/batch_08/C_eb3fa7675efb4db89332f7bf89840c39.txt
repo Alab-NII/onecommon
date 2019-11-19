@@ -1,0 +1,5 @@
+1: Do you see a large dark grey dot surrounded by two light grey dots?
+0: Yes I have that also!
+1: lets click it lol
+0: The large dark one right?
+1: yes

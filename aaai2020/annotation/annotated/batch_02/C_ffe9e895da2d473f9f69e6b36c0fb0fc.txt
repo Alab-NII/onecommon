@@ -1,0 +1,3 @@
+0: i have a large dark grey dot near the middle with two smaller lighter grey dots to both right and left
+1: yep, lets choose the large dark grey dot
+0: sounds good

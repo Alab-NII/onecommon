@@ -1,0 +1,3 @@
+0: I see two large black dots almost vertical with the one on top slightly to the right of the bottom one
+1: Yes. Let's choose the top one
+0: okay

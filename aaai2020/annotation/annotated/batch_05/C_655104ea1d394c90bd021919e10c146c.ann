@@ -1,0 +1,20 @@
+T1	Markable 17 31	any black dots
+T2	Markable 39 54	a dark grey dot
+T3	Markable 108 110	it
+T5	Markable 179 201	a very light small dot
+T6	Markable 155 169	that small dot
+T7	Markable 219 223	that
+T8	Markable 225 249	the small light grey dot
+T9	Markable 312 320	two dots
+T10	Markable 357 371	the larger one
+T11	Markable 452 458	2 dots
+T12	Markable 489 499	each other
+T13	Markable 558 572	the higher one
+T14	Markable 606 620	the darker one
+T15	Markable 639 653	the higher one
+A1	No-Referent T1
+T4	Markable 60 82	a small light grey dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+T16	Markable 414 421	lighter
+R2	Anaphora Arg1:T12 Arg2:T11	
+A2	No-Referent T7

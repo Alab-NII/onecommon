@@ -1,0 +1,8 @@
+T2	Markable 80 94	the bottom two
+T3	Markable 9 38	a cluster of three small dots
+T4	Markable 42 52	a triangle
+T5	Markable 114 118	that
+T6	Markable 144 162	the light grey one
+R1	Predicative Arg1:T4 Arg2:T3	
+T1	Markable 54 64	the top on
+#1	AnnotatorNotes T1	the top one

@@ -1,0 +1,10 @@
+T1	Markable 9 39	a lonely big mid-dark grey dot
+T2	Markable 58 78	the rest of the dots
+T4	Markable 46 48	it
+T5	Markable 92 94	it
+T6	Markable 150 163	the other one
+T7	Markable 105 108	two
+T8	Markable 124 132	the rest
+R1	Anaphora Arg1:T5 Arg2:T4	
+T3	Markable 134 137	one
+T9	Markable 193 221	that lonely big mid grey one

@@ -1,0 +1,8 @@
+1: tiny black with a larger very light one to it's lower right?
+0: I do not see them, do you see a large black dot, there is a light small dot above it?
+1: ugh no sorry, are they on the right of your circle? the small one may be cut off for me, bc i have a large black one by itself right at the right edge... there is a same-size dark grey one about 2 inches to it's lower left
+0: yes i think the same, I see the dark grey dot too, wanna select the large black dot?
+1: ok, if there's another dark grey one up to the left of the black one, too? it would be directly in line with the bottom dark grey one.
+0: yes exactly, those 3 are in the same size and making a big triangle
+1: ok great choosing the black one ty
+0: ty

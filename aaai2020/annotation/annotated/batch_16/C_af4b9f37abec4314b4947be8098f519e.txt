@@ -1,0 +1,6 @@
+0: I see one small black dot towards the bottom of the circle
+1: I do too! Is there a large black dot above it but to the right?
+0: yep!
+1: Which one do you want to choose?
+0: lets choose the small one at the bottom
+1: Okay!

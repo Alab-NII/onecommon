@@ -1,0 +1,20 @@
+T1	Markable 38 48	each other
+T2	Markable 50 53	One
+T4	Markable 134 147	the right one
+T5	Markable 172 174	it
+T6	Markable 192 196	that
+T7	Markable 198 202	They
+T8	Markable 252 265	the light one
+T9	Markable 269 278	black one
+T12	Markable 290 303	the black one
+T14	Markable 310 326	the top left one
+T15	Markable 3 17	Two large dots
+R1	Anaphora Arg1:T1 Arg2:T15	
+T16	Markable 68 77	which one
+A1	Generic T16
+T17	Markable 93 105	the left one
+T3	Markable 107 111	It's
+R2	Anaphora Arg1:T3 Arg2:T17	
+R3	Anaphora Arg1:T6 Arg2:T5	
+T18	Markable 226 235	which one
+A2	Generic T18

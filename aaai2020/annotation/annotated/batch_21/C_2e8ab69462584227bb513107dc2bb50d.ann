@@ -1,0 +1,11 @@
+T1	Markable 15 29	a med grey dot
+T2	Markable 45 51	itself
+T3	Markable 70 83	the right one
+T4	Markable 110 116	4 dots
+T5	Markable 172 183	the smaller
+R1	Anaphora Arg1:T2 Arg2:T1	
+T6	Markable 56 66	two larger
+T7	Markable 120 135	a diamond shape
+R2	Predicative Arg1:T7 Arg2:T4	
+T8	Markable 136 146	3 med size
+T9	Markable 148 155	1 small

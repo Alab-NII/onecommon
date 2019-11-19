@@ -1,0 +1,8 @@
+0: do you see two dark dots one slightly larger than the other
+1: 1 large dot and 2 tiny dots parallel to each other
+0: can you describe how dark they are
+1: they are medium grey the largest dot is farthest left
+0: are they in a row like orion's belt? i think i see them too
+1: yes
+0: lets choose the largest one
+1: ok

@@ -1,0 +1,9 @@
+T1	Markable 37 43	a line
+T2	Markable 137 149	the smallest
+T3	Markable 114 130	the far left one
+T4	Markable 165 190	the far left smallest one
+T5	Markable 3 21	three smaller dots
+R1	Predicative Arg1:T1 Arg2:T5	
+T6	Markable 68 73	black
+T7	Markable 90 94	grey
+R2	Predicative Arg1:T2 Arg2:T3	

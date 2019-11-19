@@ -1,0 +1,8 @@
+T1	Markable 47 61	top middle dot
+T2	Markable 65 69	that
+T3	Markable 99 115	a light grey dot
+T4	Markable 146 159	the black one
+T5	Markable 168 177	black one
+T6	Markable 3 20	cluster of 3 dots
+R1	Anaphora Arg1:T2 Arg2:T6	
+T7	Markable 124 127	its

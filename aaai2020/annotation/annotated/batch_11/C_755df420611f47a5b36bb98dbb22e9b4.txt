@@ -1,0 +1,8 @@
+0: I have just 1 tiny black dot. There is a large grey dot far to the right of it.
+1: i have two black dots close to each other near the top of the circle
+0: I don't have that.
+1: one small dot in the center grey in color
+0: I have 2 large grey dots in my center. 1 is lighter and to the lower left of the same-sized darker grey
+1: we found it
+0: did you click the lighter grey?
+1: yes

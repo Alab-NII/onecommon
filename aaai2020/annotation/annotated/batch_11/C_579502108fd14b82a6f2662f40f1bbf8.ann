@@ -1,0 +1,18 @@
+T2	Markable 42 77	a pair of almost vertical grey dots
+T3	Markable 79 87	one dark
+T4	Markable 92 101	one light
+T5	Markable 109 113	they
+T6	Markable 156 164	all dots
+T7	Markable 170 184	The larger one
+T9	Markable 211 213	it
+T10	Markable 224 233	many dots
+T11	Markable 405 417	a darker one
+T12	Markable 458 480	five of the other dots
+T13	Markable 435 437	It
+T15	Markable 497 510	that dark one
+A1	All-Referents T6
+R1	Anaphora Arg1:T9 Arg2:T7	
+T1	Markable 239 268	the almost vertical gray dots
+A2	Generic T10
+T8	Markable 366 376	the darker
+R2	Anaphora Arg1:T13 Arg2:T11	

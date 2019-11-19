@@ -1,0 +1,4 @@
+1: Large dark grey dot with a small medium gray dot to its south a bit far away from it
+0: Its the large dot almost black?
+1: yes its very dark
+0: Let us select the large dark

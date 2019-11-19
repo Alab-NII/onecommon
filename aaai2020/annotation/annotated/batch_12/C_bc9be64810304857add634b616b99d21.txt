@@ -1,0 +1,9 @@
+1: three dots very close together different sizes almost forming a line?
+0: Is one of the dots very tiny
+1: Hmm that could be describing something else I see. where is that smallest one located in relation to the line? At the top or bottom of the line?
+0: Is is at my left side towards above to the left of two medium dots
+1: are you sure not to the right?
+0: Nope
+1: two small dots dark grey almost identical to each other diagonal to each other?
+0: Yes I see those
+1: click the one that is up and to the right

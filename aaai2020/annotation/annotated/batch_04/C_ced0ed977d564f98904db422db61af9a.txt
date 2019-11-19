@@ -1,0 +1,4 @@
+0: I have 2 dark, 1 medium dark, and 4 lighter.
+1: do you have a grey of the lightest shade and the smallest
+0: It is not the lightest but it is lonely and only have one lighter that is large but far away
+1: select that lonely one

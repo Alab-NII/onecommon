@@ -1,0 +1,4 @@
+0: small triangle with a large black dot
+1: I have that too - the black dot is the bottom point of the triangle, and then there is a tiny dark gray one, and a large dark gray one the same size as the black one.
+0: yes! lets click the black bottom one?
+1: OK!

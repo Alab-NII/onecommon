@@ -1,0 +1,3 @@
+0: Can you see two dots very close together one is slightly larger and darker?
+1: Yes, I see them. Which one should we pick?
+0: Smaller lighter one!

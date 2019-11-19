@@ -1,0 +1,6 @@
+0: I have a triangle of dots. on top is black to the left and lower is a dark gray and to the right and lower is a lighter smaller gray
+1: do you have a triangle cluster of dark, darker, darkest?
+0: yup! that what I was talking about!
+1: perfect
+0: chose the darkest?
+1: okay

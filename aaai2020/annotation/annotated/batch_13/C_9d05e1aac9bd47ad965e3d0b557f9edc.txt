@@ -1,0 +1,6 @@
+1: 4 dots very close together two small and two large?
+0: do you see two black dots? the higher one is very small and above the larger one.
+1: yes! if its slightly to the left then click it!
+0: which one? the tiny one?
+1: yes
+0: ok

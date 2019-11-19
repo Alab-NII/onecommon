@@ -1,0 +1,4 @@
+1: Hello! Where's your dot?
+0: My view looks like 3 dots fairly close together (two of medium size and the same darker color, one smaller and lighter) and then an even smaller light dot a little ways away from there
+1: Got it! Lets click the middle one of the three?
+0: sounds good!

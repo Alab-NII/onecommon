@@ -1,0 +1,8 @@
+0: I have a loose group of 5 and 2 lonelies
+1: do you have a large black
+0: No, my 2 lonlies are a small grey and a large dark grey
+1: i dont have that. do you have a diamond shape of greys
+0: Yeah I can see that do you have a Large dark grey with another slightly lighter grey near it?
+1: no. the furthest right dot in the diamond is the lightest of the four
+0: Is it a large grey?
+1: yes...lightest grey possible

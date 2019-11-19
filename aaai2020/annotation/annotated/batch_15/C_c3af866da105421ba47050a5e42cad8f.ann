@@ -1,0 +1,14 @@
+T1	Markable 83 91	that one
+T2	Markable 98 100	it
+T3	Markable 159 173	the lowest one
+T4	Markable 154 156	it
+T5	Markable 272 279	the dot
+T6	Markable 308 315	the dot
+T7	Markable 226 242	another tiny one
+T8	Markable 342 360	the other tiny one
+T9	Markable 3 17	my highest dot
+T10	Markable 41 54	My lowest dot
+T11	Markable 204 208	Mine
+R1	Predicative Arg1:T3 Arg2:T4	
+T12	Markable 178 182	dots
+T13	Markable 252 256	dots

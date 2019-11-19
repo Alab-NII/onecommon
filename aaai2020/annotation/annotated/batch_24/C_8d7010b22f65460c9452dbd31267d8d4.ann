@@ -1,0 +1,14 @@
+T1	Markable 88 98	each other
+T2	Markable 100 107	The one
+T3	Markable 241 254	a lighter dot
+T4	Markable 186 199	two dark dots
+T5	Markable 225 235	each other
+T6	Markable 283 303	your small light dot
+T7	Markable 310 312	it
+T8	Markable 318 336	a relatively large
+T9	Markable 3 23	Very light small dot
+T10	Markable 54 73	two dark small dots
+R1	Anaphora Arg1:T1 Arg2:T10	
+R2	Anaphora Arg1:T5 Arg2:T4	
+R3	Anaphora Arg1:T7 Arg2:T6	
+T11	Markable 371 382	small light

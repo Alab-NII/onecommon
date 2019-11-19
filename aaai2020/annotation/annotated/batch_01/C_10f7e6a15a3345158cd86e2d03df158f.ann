@@ -1,0 +1,9 @@
+T1	Markable 9 25	three black dots
+T2	Markable 29 46	a horizontal line
+T3	Markable 61 76	a tiny gray dot
+T4	Markable 127 129	it
+T5	Markable 113 121	anything
+T6	Markable 152 171	the horizontal ones
+T7	Markable 210 235	the middle horizontal one
+R1	Predicative Arg1:T2 Arg2:T1	
+A1	Generic T5

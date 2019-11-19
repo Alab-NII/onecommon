@@ -1,0 +1,3 @@
+0: small dark gray dot at the 8:00 mark?
+1: no, 2 medium dots close together, 1 darker than the other?
+0: yep, let's pick the dark one

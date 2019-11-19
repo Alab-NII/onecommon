@@ -1,0 +1,4 @@
+0: Hi. Do you have one large dark grey dot that is somewhat on the right of your grouping?
+1: yes, slightly off center but on right
+0: Yes. It is larger and darker than all my others
+1: any others? probably that one, i also have very small dark grey though

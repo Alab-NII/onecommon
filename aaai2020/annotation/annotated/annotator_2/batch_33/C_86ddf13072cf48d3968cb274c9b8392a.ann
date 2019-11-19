@@ -1,0 +1,7 @@
+T1	Markable 10 18	two dots
+T2	Markable 84 97	the other one
+T3	Markable 36 43	The one
+T4	Markable 47 76	a pretty large light grey dot
+T5	Markable 107 109	it
+T6	Markable 172 187	the lighter one
+R1	Predicative Arg1:T4 Arg2:T3	

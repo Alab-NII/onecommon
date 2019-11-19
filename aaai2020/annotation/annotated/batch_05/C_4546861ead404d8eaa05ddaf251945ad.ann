@@ -1,0 +1,8 @@
+T1	Markable 10 29	one small black dot
+T2	Markable 137 150	the other one
+T3	Markable 77 96	two very small dots
+T4	Markable 114 117	one
+T6	Markable 102 112	each other
+T7	Markable 200 213	the black one
+R1	Anaphora Arg1:T6 Arg2:T3	
+T5	Markable 233 237	mine

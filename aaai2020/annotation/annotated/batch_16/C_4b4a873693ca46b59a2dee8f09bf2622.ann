@@ -1,0 +1,11 @@
+T1	Markable 112 114	it
+T2	Markable 125 142	two dark dots one
+T3	Markable 149 158	the other
+T4	Markable 181 188	the one
+T5	Markable 166 170	they
+T6	Markable 233 247	the light grey
+T7	Markable 222 226	that
+T8	Markable 15 39	a large dark gray circle
+T9	Markable 45 70	a large light gray circle
+R1	Anaphora Arg1:T1 Arg2:T8	
+T10	Markable 261 271	light gray

@@ -1,0 +1,15 @@
+T1	Markable 15 31	a large dark dot
+T2	Markable 37 53	a small dark dot
+T3	Markable 60 62	it
+T4	Markable 86 103	a group of 6 dots
+T6	Markable 145 166	a very light gray one
+T7	Markable 105 120	a big black one
+T8	Markable 183 195	a group of 6
+T9	Markable 204 216	a group of 5
+T10	Markable 248 260	a group of 2
+T11	Markable 301 314	the black one
+T12	Markable 333 354	a very light gray one
+R1	Anaphora Arg1:T3 Arg2:T1	
+A1	No-Referent T8
+T5	Markable 383 394	my far left
+T13	Markable 418 426	That one

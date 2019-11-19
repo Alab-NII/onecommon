@@ -1,0 +1,7 @@
+T1	Markable 10 33	2 large same sized dots
+T2	Markable 52 62	each other
+T3	Markable 64 75	The top one
+T4	Markable 104 118	the bottom one
+T5	Markable 164 184	the almost black one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T6	Markable 147 151	that

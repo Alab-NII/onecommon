@@ -1,0 +1,7 @@
+1: There is a large gray dot nearly in the center of the circle
+0: i dont have that,I have a lonely dark dot on the bottom of the circle
+1: I do not have that one. I have a mid sized grey dot to the middle left of the circle
+0: what about light large dot on the top of the circle?
+1: I do not have that one. do you have a small light grey dot at the bottom of the circle with two of the same size right above it?
+0: yes i do have those 3, wanna select the lightest one?
+1: yes

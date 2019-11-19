@@ -1,0 +1,9 @@
+T1	Markable 10 14	five
+T2	Markable 78 89	the biggest
+T3	Markable 153 178	an almost horizontal line
+T4	Markable 180 198	Biggest, black one
+T5	Markable 226 240	the middle one
+T6	Markable 18 23	a row
+T7	Markable 140 149	5 circles
+R1	Predicative Arg1:T3 Arg2:T7	
+R2	Predicative Arg1:T6 Arg2:T1	

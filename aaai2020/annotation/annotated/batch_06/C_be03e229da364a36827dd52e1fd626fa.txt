@@ -1,0 +1,4 @@
+0: Ok so...I have three dots arranged in a triangle, the dot on the left is lighter than the other two, which are very dark
+1: Is the one in the middle larger than the one on the right?
+0: The left and middle ones are the same size, and the one on the right is smaller.
+1: Let's click the one in the middle.

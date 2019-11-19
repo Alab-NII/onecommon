@@ -1,0 +1,8 @@
+T1	Markable 22 39	a horizontal line
+T2	None 68 70	it
+T3	Markable 3 11	two dots
+T4	Markable 99 103	that
+T5	Markable 116 131	the darkest one
+R1	Predicative Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes T2	is
+T6	Markable 62 67	right

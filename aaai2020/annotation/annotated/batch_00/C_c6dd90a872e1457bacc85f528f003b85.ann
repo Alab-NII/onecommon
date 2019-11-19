@@ -1,0 +1,11 @@
+T1	Markable 14 28	small grey dot
+T2	Markable 77 92	one medium grey
+T3	Markable 168 172	that
+T4	Markable 294 303	the 4 one
+T5	Markable 310 318	that one
+T6	Markable 348 350	it
+T7	Markable 58 75	two large circles
+T8	Markable 118 135	a dark grey/black
+R1	Anaphora Arg1:T3 Arg2:T2	
+T9	Markable 183 197	large med grey
+T10	Markable 238 263	darkest grey almost black

@@ -1,0 +1,4 @@
+1: i can kind of make out a line of 4 dots, comprising of in left right order, middle grey, small black, large grey, small black
+0: hmm not do you have a very small light grey dot with slightly larger almost black dot close up to its left?
+1: yes i see both dots...
+0: k click the black one

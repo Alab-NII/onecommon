@@ -1,0 +1,3 @@
+1: do you see a large black dot next to a tiny lighter gray dot?
+0: I see a very large, very black dot, below the tiny one. Yes you got it!
+1: K...choose the large black dot

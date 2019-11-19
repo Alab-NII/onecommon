@@ -1,0 +1,4 @@
+1: My largest dot is the blackest
+0: mine too and i t has another larger one below it to the right
+1: Let us select the blackest
+0: ok great

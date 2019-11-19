@@ -1,0 +1,11 @@
+T1	Markable 17 33	a small gray dot
+T2	Markable 42 60	dark bug black dot
+T3	Markable 117 129	2 small dots
+T4	Markable 156 160	that
+T5	Markable 162 179	lighter black dot
+T6	Markable 209 213	that
+T7	Markable 222 240	a medium black dot
+T8	Markable 273 281	that one
+T9	Markable 82 93	My dark dot
+A1	No-Referent T4
+A2	No-Referent T6

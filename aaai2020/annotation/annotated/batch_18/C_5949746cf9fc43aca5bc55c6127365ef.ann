@@ -1,0 +1,16 @@
+T1	Markable 65 78	the right one
+T2	Markable 48 58	each other
+T3	Markable 242 249	my pair
+T4	Markable 291 315	a lonely large black dot
+T5	Markable 327 344	only one dark dot
+T6	Markable 399 419	another pair of dots
+T7	Markable 432 446	the other pair
+T8	Markable 464 475	all my dots
+T9	Markable 576 580	mine
+T10	Markable 631 644	the small dot
+T11	Markable 648 656	the pair
+T12	Markable 14 33	two light grey dots
+R1	Anaphora Arg1:T2 Arg2:T12	
+T13	Markable 121 130	the right
+T14	Markable 159 174	my pair of dots
+A1	All-Referents T8

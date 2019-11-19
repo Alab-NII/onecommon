@@ -1,0 +1,7 @@
+0: I have a large medium gray dot toward the bottom.
+1: Is there a lighter gray dot almost directly below it?
+0: No mine has a light above it.
+1: I don't think I have the same thing. Towards the top I have a large medium gray dot with a smaller and darker dot slightly below and to the left.
+0: Okay what about 2 dark dots and a light one that is smaller below them
+1: I don't have the smaller light one but I do have 2 large dark dots. One is above and to the right of the other
+0: Yes lets choose the one that is above

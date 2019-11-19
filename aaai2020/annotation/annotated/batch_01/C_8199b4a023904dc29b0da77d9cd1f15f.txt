@@ -1,0 +1,6 @@
+0: I have one small light grey dot bottom right.
+1: I have a large grey dot next to a smaller dot to its left, both same shade. I dont have the light grey dots
+0: I have 4 dark grey or black dots that form a kite heading to the right.
+1: I have those. the top is largest, the other 2 i think are same size
+0: Yes, the top is the largest.
+1: ok , top large one

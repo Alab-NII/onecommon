@@ -1,0 +1,3 @@
+0: two large dots very close together?
+1: no single very large dark dot?
+0: yes is there a smaller light grey one up to its right? if so click the light one!

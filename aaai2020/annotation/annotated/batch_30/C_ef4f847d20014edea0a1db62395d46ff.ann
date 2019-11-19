@@ -1,0 +1,13 @@
+T1	Markable 10 18	two dots
+T2	Markable 38 48	each other
+T3	Markable 166 171	those
+T4	Markable 124 146	a slightly smaller dot
+T5	Markable 203 208	those
+T6	Markable 219 224	those
+T7	Markable 182 184	it
+T8	Markable 245 261	the top grey dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T9	Markable 50 54	both
+R2	Anaphora Arg1:T9 Arg2:T1	
+T10	Markable 74 80	bottom
+R3	Anaphora Arg1:T6 Arg2:T5	

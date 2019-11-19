@@ -1,0 +1,5 @@
+0: small grey dot with large darker dot above it and to the left?
+1: Got it
+0: select the large dot above
+1: Go for small grey
+0: ok

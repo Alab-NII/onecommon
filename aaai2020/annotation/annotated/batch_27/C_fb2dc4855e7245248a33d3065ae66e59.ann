@@ -1,0 +1,5 @@
+T1	Markable 35 59	an almost horiontal line
+T2	Markable 106 114	that one
+T3	Markable 3 11	two dots
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 64 73	right one

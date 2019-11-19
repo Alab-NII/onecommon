@@ -1,0 +1,4 @@
+1: I have a line of dark dots...
+0: Is one of them very small?
+1: yes its the second one from the top
+0: yep, you bet it, take the little guy!

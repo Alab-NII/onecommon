@@ -1,0 +1,4 @@
+1: In my view, I have 4 dots that are quite dark gray/black. The largest is quite a lot higher up than the other three, which are closer together
+0: I have a cluster of 3 dots that make almost a triangle. A large black dot on top, a smaller black dot below to the right and a lighter smaller dot below to the left
+1: I think I see. The large black dot is the apex and points sort of up and left? Do you want to click the light dot in your triangle?
+0: ok

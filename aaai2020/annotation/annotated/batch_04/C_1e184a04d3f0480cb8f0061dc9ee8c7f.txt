@@ -1,0 +1,5 @@
+1: I have one large black dot at 3:00 one med black dot at 4:00 one large black at 5:00 and one small black at 9:00 do u have any of those
+0: I have little grey dots between 5-6:00 and another one at 7:00 that's touching the circle's line. I have a big light grey dot at the top center. I have a dark black dot between 3 and 4 (in the middle of that)
+1: it is either the little grey at 7:00 or the or the med black between 3 and 4 describe which one of these is yours
+0: The 7:00 little grey dot's left side is touching the big circle's line . The med black is like barely a inch away around 5:00
+1: click on the 7:00 dot

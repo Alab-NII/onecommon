@@ -1,0 +1,7 @@
+0: i have one dark dot a bit away from the rest, there's a larger medium grey dot below and to the left of it
+1: i dont see that
+0: there are two similar sized dark dots side by side, the one on the right is a hair higher
+1: i see that
+0: and no dots are close below?
+1: right
+0: ok, let's choose the one on the right

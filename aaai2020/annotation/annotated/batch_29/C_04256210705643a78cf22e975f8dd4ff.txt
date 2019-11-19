@@ -1,0 +1,4 @@
+0: i have a lonely large light dot
+1: is there a slightly smaller dark grey dot up to its right?
+0: yes like more than an inch away
+1: yes! click that large light dot

@@ -1,0 +1,4 @@
+0: I have a large almost black dot
+1: anything near it?
+0: A smaller little lighter dot to its right
+1: yes! click that smaller lighter one

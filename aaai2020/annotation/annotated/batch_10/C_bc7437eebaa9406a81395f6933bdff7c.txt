@@ -1,0 +1,3 @@
+1: Do you see a line of three dots, the middle one is large and the one at bottom is black, both other dots are small
+0: I think the top one is cut out of my view. Is the small one below and slightly to the right of the large light grey one?
+1: Yep, take the small black one

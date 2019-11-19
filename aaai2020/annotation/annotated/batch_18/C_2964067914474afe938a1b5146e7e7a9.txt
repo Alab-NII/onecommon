@@ -1,0 +1,3 @@
+0: I see a black small dot center of screen
+1: your center is different from mine. is there a slightly larger med grey dot below it to the right?
+0: yep I see the one you are mentioning. Lets take the med gray one to mix it up

@@ -1,0 +1,5 @@
+1: tiny medium gray dot with a much larger one the same shade to its lower right?
+0: I see a large gray dot and a small grey dot above it
+1: is the small one to the upper left of your large one?
+0: yes, let's go with the large one
+1: ok!

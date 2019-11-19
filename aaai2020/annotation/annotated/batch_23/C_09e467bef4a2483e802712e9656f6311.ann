@@ -1,0 +1,8 @@
+T1	Markable 72 91	a cluster of 5 dots
+T2	Markable 122 131	the group
+T3	Markable 158 160	it
+T4	Markable 3 19	I large grey dot
+T5	Markable 31 46	My lightest dot
+T6	Markable 92 102	the lowest
+R1	Anaphora Arg1:T2 Arg2:T1	
+T7	Markable 180 190	the lowest

@@ -1,0 +1,4 @@
+0: i have some gray dots that form an L shape
+1: A backwards L? With a light grey and two slightly darker grey?
+0: Yes, the light gray on top?
+1: Okay, let's select that one

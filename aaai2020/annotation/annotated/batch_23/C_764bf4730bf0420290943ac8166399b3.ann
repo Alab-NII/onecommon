@@ -1,0 +1,11 @@
+T1	Markable 54 68	two small dots
+T2	Markable 78 100	a small light gray dot
+T3	Markable 139 141	it
+T4	Markable 106 123	a large black dot
+T5	Markable 158 163	yours
+T6	Markable 173 193	the medium black dot
+T7	Markable 203 207	that
+A1	No-Referent T5
+T8	Markable 3 25	Medium sized black for
+#1	AnnotatorNotes T8	Medium sized black dot
+R1	Anaphora Arg1:T3 Arg2:T2	

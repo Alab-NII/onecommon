@@ -1,0 +1,3 @@
+0: lone tiny dark dot
+1: yes
+0: click it when able

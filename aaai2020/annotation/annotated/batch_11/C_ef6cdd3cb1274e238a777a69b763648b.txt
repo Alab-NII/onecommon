@@ -1,0 +1,4 @@
+1: Do you see a tiny black dot above a larger lightest shade dot?
+0: I see a pair of small dots vertical from one another, the top is black
+1: Take that top one
+0: Yes

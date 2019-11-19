@@ -1,0 +1,10 @@
+T1	Markable 44 56	a bigger one
+T2	Markable 10 38	one very smaller lighter dot
+T3	Markable 97 114	cluster of 4 dots
+T4	Markable 141 155	a cluster of 5
+T5	Markable 240 250	those dots
+T6	Markable 269 287	the the bottom one
+T7	Markable 312 314	it
+T8	Markable 175 182	the two
+#1	AnnotatorNotes T6	the bottom one
+R1	Anaphora Arg1:T7 Arg2:T6	

@@ -1,0 +1,5 @@
+1: do you see a large dark dot with a tiny lighter grey dot above and left
+0: I see a medium black dot at the middle between a light grey dot and a smaller dot making a line going down
+1: ok i see that line
+0: Do you see the black dot at the middle
+1: yes choose it

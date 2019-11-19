@@ -1,0 +1,4 @@
+1: my smallest dot is also my lightest shaded dot
+0: Tiniest and lightest shaded dot, above it is a large grey dot
+1: yes, sounds like the one
+0: Click tiny

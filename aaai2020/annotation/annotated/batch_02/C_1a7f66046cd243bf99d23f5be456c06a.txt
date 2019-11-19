@@ -1,0 +1,5 @@
+1: I have 2 small dots that are aligned vertically, the one on the right is slightly higher. both black
+0: i don't have that... i have 4 of the same/small size going down the center in a line. top one is dark, 2nd down is lightest, then med light, bottom one is med dark
+1: no. i have another line. vertical. starting with the, light grey, then med grey, then black one, they're all same size
+0: sounds like my line minus the top dark one. shall we choose the lightest in your line? it would be your first one at the top?
+1: ok

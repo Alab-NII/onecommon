@@ -1,0 +1,6 @@
+0: Do you see a lonely light large dot
+1: NO, I do not. I have many very dark dots. But, just one very light, medium sized dot. Do you have that dot?
+0: Does the medium size have same size darker below it
+1: No, it does not. Going back to your lonely light large dot. Is it a medium light shade?
+0: Yes
+1: I say we choose that one and see if it is the same

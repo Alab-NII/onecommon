@@ -1,0 +1,16 @@
+T1	Markable 9 19	three dots
+T2	Markable 21 25	They
+T3	Markable 31 41	a triangle
+T4	Markable 58 61	one
+T5	Markable 74 77	Two
+T6	Markable 105 108	one
+T7	Markable 133 136	One
+T8	Markable 166 171	those
+T9	Markable 252 257	those
+T10	Markable 245 248	one
+T11	Markable 259 266	The one
+R1	Predicative Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T2 Arg2:T1	
+T13	Markable 43 46	All
+R3	Anaphora Arg1:T13 Arg2:T1	
+A1	Generic T10

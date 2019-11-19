@@ -1,0 +1,3 @@
+0: I have a tiny dot of medium gray
+1: Is there a larger medium grey below it to the right?
+0: Yes let us select the tiny medium

@@ -1,0 +1,6 @@
+0: i see one dot that is much darker than the rest
+1: i only have one black dot that is large
+0: you only have one dot?
+1: one black one. to its left there are 2 light grey that are medium and small together
+0: i have all three of those! which one do you want to pick?
+1: the black one is fine

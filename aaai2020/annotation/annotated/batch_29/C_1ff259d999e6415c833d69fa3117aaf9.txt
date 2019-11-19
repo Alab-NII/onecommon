@@ -1,0 +1,7 @@
+1: 3 grey dots going to the left with the third below the other two
+0: I have one outlier top left
+1: i dont have that
+0: Is the lower of the three dots the darkest?
+1: the middle one is
+0: lets choose that one.
+1: ok

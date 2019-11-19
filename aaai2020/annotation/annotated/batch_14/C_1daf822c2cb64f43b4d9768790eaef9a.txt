@@ -1,0 +1,3 @@
+0: I have one large black dot that has a small black dot above and to the left, another small black dot almost directly above and then another small gray dot to the right and above
+1: Ok I do see this large dot as there are not many large dots on the screen
+0: ok, lets choose the large black dot then

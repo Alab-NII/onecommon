@@ -1,0 +1,5 @@
+0: Three dots to the left almost form a triangle
+1: 3 dots forming a triangle?
+0: The top one is black
+1: yep, lets pick it
+0: Ok

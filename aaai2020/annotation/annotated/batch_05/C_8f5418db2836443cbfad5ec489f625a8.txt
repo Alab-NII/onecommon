@@ -1,0 +1,4 @@
+1: do you see any dots close together?
+0: hi, do you see a large medium dot with a smaller medium dot to the right of it?
+1: i do. above and to the left is a smallish black dot
+0: yes, let's pick the large medium gray dot

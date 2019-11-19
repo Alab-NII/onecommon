@@ -1,0 +1,5 @@
+1: I have three dots that form a triangle. The bottom dot in the triangle is larger and lighter than the rest.
+0: 3 dark black dots line horizontally(ish), right most is darkest
+1: Is there a light dot beneath them?
+0: no... all 4 lighter dots above, smallest and almost lightest is left most
+1: Ok, I think i have the line of 3 that you first talked about. Let's click the darkest dot all the way on the right.

@@ -1,0 +1,11 @@
+1: i see two medium sized dark grey dots next to each other
+0: I have 2 black dots, slight diagonal with highest one to the right
+1: i have 2 black dots in my entire circle but they are not that close to each other
+0: I have the 2 dark grey one. and looks like the one on the left may be a tad bigger and slightly lower?
+1: just barely larger and just barely lower
+0: yes. want to go with the one on the right?
+1: where are those dots in your circle?
+0: if i break the circle into 4, then it would be in the bottom right part of it
+1: it's also in the bottom right of my circle
+0: ok then the one on the right ok?
+1: ok

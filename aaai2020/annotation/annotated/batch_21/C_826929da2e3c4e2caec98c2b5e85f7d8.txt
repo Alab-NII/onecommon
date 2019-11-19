@@ -1,0 +1,4 @@
+0: I have 3 light to med gray dots making a triangle
+1: Are they all different sizes with one being the tiniest dot?
+0: yes the tiniest is med gray, the you go down to the darkest gray that is middle size, then to the largest dot
+1: Ok, select the tiny dot

@@ -1,0 +1,5 @@
+1: Large medium grey one alone
+0: Medium light grey one alone
+1: Above the rest?
+0: In the top left corner yes
+1: click that one

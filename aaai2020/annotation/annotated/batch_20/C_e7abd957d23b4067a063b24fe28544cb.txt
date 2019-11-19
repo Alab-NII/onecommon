@@ -1,0 +1,6 @@
+1: I have a small light dot up the bottom with a dot of the same size but darker up to the left
+0: I see the darker dot on the left but not the small light dot
+1: is there a larger lighter dot to the right, straight across
+0: yes straight across to the right
+1: let's pick the small darker one
+0: okay

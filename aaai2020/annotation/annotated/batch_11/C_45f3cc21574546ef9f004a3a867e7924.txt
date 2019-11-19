@@ -1,0 +1,3 @@
+1: I have 3 in a vertical line, the middle is small dark gray
+0: I have 3 dots in a vertical line near the center. Light on top... darker smaller one in the center and medium gray larger on the bottom. ok we can click the middle
+1: Sounds good

@@ -1,0 +1,4 @@
+1: do yo see 3 in almost a perfect vertical line?
+0: yes are they all darker in color with largest on top?
+1: yes! let's pick the big one on the top, ok?
+0: click it!

@@ -1,0 +1,8 @@
+T1	Markable 15 28	two grey dots
+T2	Markable 43 54	one another
+T3	Markable 56 59	one
+T4	Markable 88 97	the other
+T6	Markable 104 116	the left one
+T7	Markable 152 159	the two
+T8	Markable 187 195	that one
+R1	Anaphora Arg1:T2 Arg2:T1	

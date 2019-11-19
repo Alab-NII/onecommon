@@ -1,0 +1,9 @@
+T1	Markable 49 50	2
+T2	Markable 106 120	the middle one
+T4	Markable 150 156	2 dots
+T5	Markable 192 202	each other
+T6	Markable 204 222	Larger lighter dot
+T7	Markable 252 266	the larger dot
+T8	Markable 3 16	3 medium dots
+T9	Markable 71 74	one
+R1	Anaphora Arg1:T5 Arg2:T4	

@@ -1,0 +1,26 @@
+T1	Markable 14 35	two fairly large dots
+T2	Markable 52 56	They
+T3	Markable 85 92	The one
+T4	Markable 168 174	a line
+T5	Markable 369 377	left one
+T6	Markable 217 225	next one
+T7	Markable 200 207	top one
+T8	Markable 339 349	middle one
+T10	Markable 395 411	two of the three
+T11	Markable 419 432	the first two
+T12	Markable 448 455	The one
+T13	Markable 538 551	that dark one
+T14	Markable 602 626	a small lighter/med grey
+T15	Markable 641 655	the second one
+T16	Markable 672 686	that formation
+T17	Markable 788 795	the one
+T18	Markable 842 846	that
+T19	Markable 889 900	my dark one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T20	Markable 163 164	3
+R2	Predicative Arg1:T4 Arg2:T20	
+T21	Markable 279 293	furthest right
+R3	Anaphora Arg1:T11 Arg2:T10	
+T9	Markable 760 774	the same thing
+T22	Markable 813 825	The dark one
+R4	Anaphora Arg1:T22 Arg2:T17	

@@ -1,0 +1,3 @@
+0: a large very light gray dot, very close to it is a smaller medium gray dot?
+1: yes I see this, very nice description. Lets take the big lighter one on top
+0: ok

@@ -1,0 +1,4 @@
+1: I see three dark gray medium dots almost in a vertical line, slanted slightly to the right.
+0: I think I might be missing one of those. Is there a light grey dot of the same size located to the left and slightly below the bottom dark grey medium dot?
+1: My bottom dot is almost to the circle line. There is a small dark gray dot to the left and slightly above the middle large dark gray dot.
+0: I have that. Let's click the small dark grey dot.

@@ -1,0 +1,6 @@
+0: I see a small black dot to the right of a same size grey dot.
+1: No I don't have it! Do you have a three dots on the bottom side forming almost triangle! The one on the left is a Bigger size darker gray and the one on the center is lighter gray and the extreme left on mid-dark gray and smallest size
+0: no triangles on my screen
+1: Do you have a small med gray on the extreme left side
+0: Yes. To its right is same size black?
+1: Ok click on the gray on the extreme left

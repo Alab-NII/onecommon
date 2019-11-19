@@ -1,0 +1,5 @@
+1: Hi do you have a lone medium sized black dot?
+0: I see a small triangle with three medium gray dots, above and to the left of all the other dots.
+1: I have a triangle but its pretty large, the dots arent very close together. Do you have the lone black dot?
+0: I have a lone black dot that is southwest of most other dots.
+1: sounds like that may be the same one

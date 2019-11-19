@@ -1,0 +1,27 @@
+T1	Markable 53 60	the one
+T2	Markable 41 51	each other
+T3	Markable 100 104	they
+T4	Markable 10 18	two dots
+T5	Markable 151 155	that
+T6	Markable 169 183	any black dots
+T7	Markable 199 220	one smaller black one
+T8	Markable 254 256	it
+T9	Markable 291 317	a straight horizontal line
+T10	Markable 269 280	a light dot
+T11	Markable 323 325	it
+T12	Markable 344 346	it
+T13	Markable 365 368	its
+T14	Markable 532 534	it
+T15	Markable 433 443	each other
+T16	Markable 445 456	the top one
+T17	Markable 502 525	the larger, lighter one
+T18	Markable 552 556	that
+T19	Markable 568 597	the lighter bigger bottom one
+R1	Anaphora Arg1:T2 Arg2:T4	
+T20	None 61 64	one
+#1	AnnotatorNotes T20	on
+R2	Anaphora Arg1:T3 Arg2:T4	
+T21	Markable 329 332	its
+T22	Markable 402 413	two circles
+R3	Anaphora Arg1:T15 Arg2:T22	
+R4	Anaphora Arg1:T14 Arg2:T16	

@@ -1,0 +1,3 @@
+1: I have a small black dot all by itself
+0: I dont have that, i have a grey large dot, with a black small dot on the right, and slightly smaller and lighter dot under it
+1: Ok. I see your dot. clicking

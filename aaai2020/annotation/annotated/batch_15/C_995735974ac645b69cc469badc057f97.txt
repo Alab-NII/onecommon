@@ -1,0 +1,6 @@
+0: Is there a medium grey large dot far apart from all others?
+1: Yes! On the right side?
+0: That fits with mine, too. Let's choose it.
+1: Just to double check, to the left of that is there a much smaller grey dot?
+0: yes, to the left and slightly above
+1: Yes! Okay let's choose the larger one.

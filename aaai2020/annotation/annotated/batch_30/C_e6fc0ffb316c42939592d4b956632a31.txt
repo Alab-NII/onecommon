@@ -1,0 +1,8 @@
+0: I see a medium gray sized dot with a smaller blacker dot above and to the right
+1: I do not see that. I see a medium grey sized dot with an equal or very slightly larger black dot above and to the right
+0: is there a smaller black dot above to the left of the large black dot
+1: I cannot tell. These dots are on the far left of my circle near the edge.
+0: well I do have a large black dot so maybe we should select that one?
+1: Before you do, does it have a smaller light grey dot almost directly below?
+0: yes
+1: ok, lets select the large black dot

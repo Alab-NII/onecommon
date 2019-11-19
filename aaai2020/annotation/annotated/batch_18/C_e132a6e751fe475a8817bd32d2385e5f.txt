@@ -1,0 +1,6 @@
+0: two same colored dots close together. the one of the left is slightly smaller and higher?
+1: I think I see those... is there a large dark dot below and to the right?
+0: i cant see what is below. above and to the left slightly is a similarly sized, but lighter dot
+1: hmm... and I can't see above... straight to the right is there a slightly larger and darker dot?
+0: nope. i think we are looking at different things. do you have a smaller lonely light colored dot?
+1: Yes lets pick it!

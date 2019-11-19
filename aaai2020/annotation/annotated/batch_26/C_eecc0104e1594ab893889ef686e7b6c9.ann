@@ -1,0 +1,10 @@
+T1	Markable 41 61	small light grey dot
+T3	Markable 96 103	the one
+T4	Markable 123 147	the small light gray dot
+T5	Markable 148 169	a large-ish black one
+T6	Markable 185 205	that large black one
+T7	Markable 3 22	cluster of 5-6 dots
+T8	Markable 24 37	farthest left
+R1	Predicative Arg1:T1 Arg2:T8	
+T9	Markable 82 91	4 of them
+R2	Predicative Arg1:T5 Arg2:T3	

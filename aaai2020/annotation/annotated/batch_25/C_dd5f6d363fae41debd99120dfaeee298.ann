@@ -1,0 +1,16 @@
+T1	Markable 99 103	them
+T2	Markable 61 82	a lighter smaller one
+T3	Markable 121 136	two larger dots
+T4	Markable 149 158	the black
+T6	Markable 205 217	the triangle
+T7	Markable 277 297	four light grey dots
+T8	Markable 399 404	the 4
+T9	Markable 3 35	Two very large very dark circles
+R1	Anaphora Arg1:T1 Arg2:T9	
+T10	Markable 107 115	Triangle
+A1	No-Referent T6
+T5	Markable 230 238	the Dots
+T11	Markable 339 356	the furthest left
+T12	Markable 361 379	the furthest right
+R2	Anaphora Arg1:T8 Arg2:T7	
+T13	Markable 434 441	the one

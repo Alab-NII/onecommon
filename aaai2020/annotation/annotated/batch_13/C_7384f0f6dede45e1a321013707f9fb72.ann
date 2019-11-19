@@ -1,0 +1,32 @@
+T1	Markable 9 20	a black dot
+T2	Markable 49 51	it
+T3	Markable 53 68	the smaller one
+T4	Markable 121 134	the black one
+T5	Markable 173 187	those two dots
+T6	Markable 155 165	any others
+T7	Markable 217 221	them
+T8	Markable 265 268	one
+T9	Markable 299 314	the smaller one
+T10	Markable 342 357	the smaller one
+T11	Markable 277 279	it
+T12	Markable 373 381	anything
+T13	Markable 397 401	them
+T15	Markable 511 519	the line
+T16	Markable 490 493	one
+T17	Markable 561 563	it
+T18	Markable 536 549	the black dot
+T19	Markable 598 611	the right one
+T20	Markable 592 594	it
+T21	Markable 26 39	a smaller one
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T21	
+T22	Markable 89 97	the grey
+A1	Generic T6
+T23	Markable 192 200	two grey
+T24	Markable 223 230	the top
+R3	Anaphora Arg1:T11 Arg2:T8	
+R4	Anaphora Arg1:T10 Arg2:T9	
+A2	Generic T12
+T25	Markable 406 425	two light grey dots
+R5	Anaphora Arg1:T17 Arg2:T18	
+R6	Predicative Arg1:T19 Arg2:T20	

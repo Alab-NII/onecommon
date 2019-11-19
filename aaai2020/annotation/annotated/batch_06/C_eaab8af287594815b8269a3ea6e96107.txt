@@ -1,0 +1,5 @@
+1: i see a med large darker dot to the right side, mostly alone
+0: I have three smaller dots in a nearly horizontal line. The one in the middle is lightest, but still fairly dark. The one on the right is largest and darkest
+1: i see your dots
+0: Lets click the darkest one on the right
+1: ok darkest one on the right

@@ -1,0 +1,6 @@
+0: do you have a tiny darker gray dot on the left side close to what would be around 1 or 2 o clock
+1: i have a small black near center and a small black near top right med grey near top left do u have any of those
+0: i have a small black in the center
+1: is your small black near the 2:00 position
+0: yes
+1: lets try it

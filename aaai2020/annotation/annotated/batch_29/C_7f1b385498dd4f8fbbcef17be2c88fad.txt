@@ -1,0 +1,6 @@
+0: Hi, do you have a big black dot around a bunch of smaller light grey dots? I only have one
+1: I do have a large black dot, the other dots are all to its left, nothing to its right
+0: Umm, is there a slightly darker grey to its left, and then lighter grey ones below that one?
+1: Yes, they seem to get smaller in size as they go down
+0: Yes! Okay which should we choose?
+1: the large black dot?

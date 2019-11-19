@@ -1,0 +1,9 @@
+T1	Markable 30 50	lighter, smaller dot
+T2	Markable 123 144	a smaller lighter dot
+T3	Markable 117 119	it
+T4	Markable 202 217	the lighter one
+T5	Markable 3 24	dark, medium size dot
+T6	Markable 81 101	medium dark grey dot
+R1	Anaphora Arg1:T3 Arg2:T6	
+T7	Markable 180 188	the same
+A1	Generic T7

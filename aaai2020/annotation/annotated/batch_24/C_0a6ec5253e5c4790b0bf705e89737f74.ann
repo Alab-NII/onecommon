@@ -1,0 +1,11 @@
+T1	Markable 64 66	it
+T2	Markable 81 85	that
+T3	Markable 142 153	a small dot
+T4	Markable 162 164	it
+T5	Markable 3 18	big dark circle
+T6	Markable 33 55	2 smaller dark circles
+R1	Anaphora Arg1:T1 Arg2:T5	
+A1	No-Referent T2
+T7	Markable 87 104	My largest circle
+T8	Markable 135 137	It
+R2	Anaphora Arg1:T4 Arg2:T8	

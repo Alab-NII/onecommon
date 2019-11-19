@@ -1,0 +1,12 @@
+T1	Markable 43 50	the one
+T2	Markable 119 123	that
+T3	Markable 132 138	2 dots
+T4	Markable 147 157	each other
+T5	Markable 255 267	the left one
+T6	Markable 217 234	a small black one
+T7	Markable 288 308	that small black one
+T8	Markable 3 11	two dots
+A1	No-Referent T2
+R1	Anaphora Arg1:T4 Arg2:T3	
+T9	Markable 159 167	the left
+T10	Markable 195 204	the right

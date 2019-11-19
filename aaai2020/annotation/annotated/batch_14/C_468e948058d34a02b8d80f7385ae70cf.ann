@@ -1,0 +1,7 @@
+T1	Markable 6 22	your largest dot
+T2	Markable 36 38	it
+T3	Markable 43 51	two dots
+T4	Markable 69 97	several of the smallest dots
+T5	Markable 99 102	One
+T6	Markable 122 136	that black one
+R1	Anaphora Arg1:T2 Arg2:T1	

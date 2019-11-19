@@ -1,0 +1,3 @@
+0: I have one tiny dark dot with nothing close to it
+1: I have that, too. And then there is a large light gray dot further down and a touch to the left.
+0: Yep! Lets click the little black one

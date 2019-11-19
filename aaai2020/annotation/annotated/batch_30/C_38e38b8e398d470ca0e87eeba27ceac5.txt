@@ -1,0 +1,5 @@
+1: Do you have three black dots in a line, two medium and then one small on the right?
+0: i have one big med color dot and on med small dot and the other are blacks dots.
+1: Ok, Does the med gray dot have a large black dot above and to the right of it?
+0: yes
+1: ok, lets choose the med gray

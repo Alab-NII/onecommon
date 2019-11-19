@@ -1,0 +1,9 @@
+T1	Markable 65 83	a smaller grey dot
+T2	Markable 34 58	very large and black dot
+T3	Markable 99 101	it
+T4	Markable 147 160	the black one
+T5	Markable 123 140	a horizontal line
+T6	Markable 112 116	they
+T7	Markable 3 23	very large black dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Predicative Arg1:T5 Arg2:T6	

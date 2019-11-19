@@ -1,0 +1,5 @@
+0: I have a very large dark gray dot with a small dot down and to the right.
+1: I dont have that I do have a small grey dot at 930 and one big dark grey on at 630
+0: I don't see either of those. Do you have a small medium colored gray dot with a darker dot above and barely to the right and one below and to the left?
+1: yes
+0: Let's select the small medium gray colored one.

@@ -1,0 +1,7 @@
+T1	Markable 14 32	two dark gray dots
+T2	Markable 36 42	a line
+T3	Markable 84 91	the one
+T4	Markable 120 127	the one
+T5	Markable 175 182	the one
+R1	Predicative Arg1:T2 Arg2:T1	
+T6	Markable 44 48	both

@@ -1,0 +1,10 @@
+T1	Markable 38 49	a light one
+T2	Markable 15 32	a large black one
+T3	Markable 133 142	those two
+T4	Markable 109 126	a medium gray one
+T5	Markable 156 166	a triangle
+T6	Markable 172 186	the three dots
+T8	Markable 70 74	it's
+R1	Anaphora Arg1:T8 Arg2:T2	
+R2	Predicative Arg1:T6 Arg2:T5	
+T9	Markable 208 230	the black top left one

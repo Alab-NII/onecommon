@@ -1,0 +1,7 @@
+0: i have a tiny light gray slightly to the left of 6 o clock with a med size gray dont same color above it
+1: I don't see a match like that.
+0: i have a med black dot in the middle with a darker gray dot same size
+1: Is the darker very close below the medium?
+0: yes
+1: We'll click to darker one then?
+0: okay sounds good

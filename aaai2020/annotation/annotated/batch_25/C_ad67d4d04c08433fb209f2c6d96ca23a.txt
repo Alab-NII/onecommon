@@ -1,0 +1,6 @@
+0: med size black dot on the right side with two smaller gray ones above it
+1: Nope. Do you have a small dark dot with a bigger light gray below it?
+0: no i do have a tiny gray dot on the left side with nothing around it
+1: Light gray?
+0: yes correct
+1: I have it

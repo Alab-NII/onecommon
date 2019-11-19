@@ -1,0 +1,14 @@
+T1	Markable 10 37	a very dark medium size dot
+T2	Markable 50 52	it
+T3	Markable 86 89	one
+T4	Markable 180 197	3 large dark ones
+T5	Markable 154 163	a cluster
+T6	Markable 112 136	a tiny med/dark/grey one
+T7	Markable 204 206	it
+T8	Markable 231 250	the lonely tiny dot
+T9	Markable 280 287	cluster
+T10	Markable 301 303	it
+R1	Anaphora Arg1:T2 Arg2:T1	
+T11	Markable 60 81	cluster of everything
+T12	Markable 254 266	the tiny dot
+R2	Anaphora Arg1:T10 Arg2:T12	

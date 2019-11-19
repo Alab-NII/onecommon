@@ -1,0 +1,6 @@
+T2	Markable 9 28	a cluster of 5 dots
+T3	Markable 48 57	four dots
+T4	Markable 147 156	that line
+T5	Markable 125 143	the tiny black dot
+T6	Markable 167 169	it
+R1	Anaphora Arg1:T6 Arg2:T5	

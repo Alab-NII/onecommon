@@ -1,0 +1,5 @@
+0: I see three dots that are the exact same shade and color. They are kind of far apart.
+1: I have two large dots very close together (less than 1 dot diameter apart). They are fairly vertical and the bottom is dark, the upper light. I also see three dots that are *nearly" same size and shape.
+0: Yes, I see those two dots that are close together
+1: pick the bottom, darker one?
+0: Sure!

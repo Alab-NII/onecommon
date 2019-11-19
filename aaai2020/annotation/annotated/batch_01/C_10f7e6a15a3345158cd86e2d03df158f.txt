@@ -1,0 +1,5 @@
+1: I see three black dots in a horizontal line
+0: Do you see a tiny gray dot on the left side
+1: Kinda, is there anything near it?
+0: Nope but I do see the horizontal ones you are talking about
+1: lets go with the middle horizontal one

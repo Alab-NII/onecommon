@@ -1,0 +1,7 @@
+1: do you have a large dot touching the edge
+0: No I dont. I do have two tiny gray dots touching the left edge
+1: how many large dots do you have ?
+0: 2 large slightly gray dots
+1: are the tiny gray dots at about 10 pm on the left edge
+0: Yes
+1: lets go with the lower one

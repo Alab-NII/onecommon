@@ -1,0 +1,2 @@
+0: medium light gray to the left of a black larger dot and a dark gray beside the black dot
+1: Choose the black dot

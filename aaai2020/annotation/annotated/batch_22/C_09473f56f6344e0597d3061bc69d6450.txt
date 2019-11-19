@@ -1,0 +1,4 @@
+1: Do you have 2 dark dots close together?
+0: yes one is smaller and to the upper left of the bigger one
+1: yes I see the same.
+0: pick the smaller one

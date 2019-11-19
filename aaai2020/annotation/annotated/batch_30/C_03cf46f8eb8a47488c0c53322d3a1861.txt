@@ -1,0 +1,5 @@
+0: I have one smaller black dot near the bottom of the circle. and almost straight to the right is a large dark grey circle.
+1: I think I have that is there a small gray dot above that could make a triangle with the two other dots?
+0: Yes! much lighter grey than to two below?
+1: yup pick that lighter gray one on top
+0: okay

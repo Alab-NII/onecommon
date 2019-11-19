@@ -1,0 +1,5 @@
+1: I see a large dark grey dot at the bottom
+0: Do you see a large light grey dot and a medium medium grey dot a pinky's width apart from each other?
+1: Yes,i do
+0: choose the larger light grey one?
+1: Right

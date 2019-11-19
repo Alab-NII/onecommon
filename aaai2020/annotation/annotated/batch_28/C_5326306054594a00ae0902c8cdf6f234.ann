@@ -1,0 +1,15 @@
+T2	Markable 114 128	a smaller grey
+T3	Markable 336 364	a very tiny almost black dot
+T5	Markable 373 376	its
+T6	Markable 421 424	its
+T8	Markable 397 403	a grey
+T9	Markable 442 461	that tiny black one
+T10	Markable 3 11	two dots
+T1	Markable 60 64	Mine
+T11	Markable 94 108	a light medium
+T12	Markable 132 135	its
+R1	Anaphora Arg1:T12 Arg2:T11	
+T13	Markable 221 243	2 almost the same size
+T14	Markable 249 262	the top right
+T15	Markable 275 278	its
+R2	Anaphora Arg1:T6 Arg2:T5	

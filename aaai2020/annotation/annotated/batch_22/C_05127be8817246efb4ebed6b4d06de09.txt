@@ -1,0 +1,8 @@
+1: The smallest dot here is black
+0: Mine too, top right
+1: Does it have a darker larger one above it?
+0: No, Nothing above it... my large black is towards the center
+1: What is below the smallest darkest dot
+0: Large grey, large black
+1: Mine too, Let us select the small black dot
+0: Ok

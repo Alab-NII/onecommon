@@ -1,0 +1,3 @@
+1: I have a small darkish grey dot by itself, toward the bottom
+0: I have that too. Let's pick that one.
+1: Good

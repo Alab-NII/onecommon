@@ -1,0 +1,7 @@
+1: 1 lonely light grey dot to the right
+0: i have one large black dot, it is very close to a light grey medium dot.
+1: no dont see have 1 upper medium dark grey dot right side
+0: hmm... do you have a shape that could look like a cornacopia?
+1: yes left side three grey crooked l dots
+0: is the middle of the three darker?
+1: yes press

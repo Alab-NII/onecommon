@@ -1,0 +1,7 @@
+0: mine are pretty scattered, i have a triangle with large grey small grey and medium sized black
+1: I see 3 dots that form a face. The left eye being the largest and lightest and the nose being almost the same shade as the left eye but the smallest dot out of the 3
+0: i think thats it, where in the circle is it located?
+1: Our circles are different but they are upward and to the left in relation to the other dots
+0: is there a large grey to the lower right of it?
+1: Yes. Pick the nose!
+0: ok!

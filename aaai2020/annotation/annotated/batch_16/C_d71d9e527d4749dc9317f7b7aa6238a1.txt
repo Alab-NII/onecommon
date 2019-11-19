@@ -1,0 +1,4 @@
+0: I see a very large very dark dot
+1: Are there any other dots very close to it?
+0: not that close to not it for me
+1: I think that you might be on to something? You want to click it?

@@ -1,0 +1,3 @@
+0: I have two gray dots that are very close together and are the same size. One dot is slightly darker than the other
+1: Yes. Is the one on the right slightly above the one on the left?
+0: yes! click the one that is slightly higher up

@@ -1,0 +1,5 @@
+1: a massive large grey dot with 2 smaller dots that make a triangle
+0: I have a triangle. The largest dot is completely on the right side. The other two are completely on the left side. Are yours spread this far apart?
+1: no
+0: My triangle would be horizontal as well. I have one very very dark dot close to the center top with two other dots not as black on each side but a bit of a distance from the black dot.
+1: choose the black dot

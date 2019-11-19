@@ -1,0 +1,5 @@
+1: i have 1 medium black dot only one of its color
+0: does it have a similar size to it's left that's med/light-grey, that has a tiny lighter one to it's right above?
+1: yes
+0: shall we choose the black one on the right?
+1: yeah

@@ -1,0 +1,7 @@
+1: i have three dots close together in a down to the right slope, the bottom one is black
+0: I do as well. Mine are all the same size. Black at top, dark grey middle, bottom black.
+1: my top one is dark grey, on your black dot is there one of the same size and very slightly lighter below it and a bit to the left?
+0: Yes it's my top black one though
+1: that one is on the right side edge of my screen, do you see a smaller black dot above it and to the left?
+0: Yes
+1: ok, pick the top black dot in the set of three

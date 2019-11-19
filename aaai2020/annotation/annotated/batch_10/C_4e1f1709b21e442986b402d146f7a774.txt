@@ -1,0 +1,5 @@
+0: I have a lonely very dark one at the bottom left. Above and right is a larger dark one with a pale grey slightly down to the right of that one
+1: two light/med kinda large same size in the center... one is upper right, the left lower one has a dark of same color below it to it's left. I don't have anything on bottom left
+0: For the dark one in the middle. Is there one the same size that is lighter to the upper right? And right below the dark one to the right is a smaller light grey one?
+1: i think your first description... the dark one above that has a smaller med/grey one to it's lower right. I think that is the lowest one I spoke of. Let's choose the dark one that has the med/grey small one to it's immediate lower right
+0: Ok choose the dark one

@@ -1,0 +1,4 @@
+0: I have a large black dot, with a lighter dot on top right of it, like an inch away
+1: Yes! Which should we pick?
+0: the black one please
+1: Okay!

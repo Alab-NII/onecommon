@@ -1,0 +1,5 @@
+0: Do you have two very dark medium sized dots very close together?
+1: None of the dots I see close together are the same shade. Do you see a triangle shape, with one of each shade?
+0: I mean all dots form triangles depending on how you look at that so not sure what you mean
+1: Not necessarily true but okay. Do you see a dark gray medium sized dot near 3 o clock
+0: yes! lets click it

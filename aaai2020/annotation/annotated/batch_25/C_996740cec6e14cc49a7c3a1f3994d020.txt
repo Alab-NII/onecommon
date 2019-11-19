@@ -1,0 +1,7 @@
+0: i see 5 dots forming a saucer
+1: do you have one dark dot
+0: I see a medium size dark dot above vertically to a light grey smaller dot
+1: on the right side
+0: yep
+1: pick the dark one
+0: ok!

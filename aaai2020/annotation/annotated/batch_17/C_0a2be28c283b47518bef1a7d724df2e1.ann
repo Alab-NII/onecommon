@@ -1,0 +1,9 @@
+T1	Markable 3 26	very tiny dark grey dot
+T2	Markable 36 39	one
+T3	Markable 183 190	the one
+T4	Markable 107 130	that tiny dark grey one
+T5	Markable 151 171	the rest of the dots
+T7	Markable 233 251	that tiny dark one
+T6	Markable 76 84	that one
+A1	No-Referent T6
+A2	No-Referent T3

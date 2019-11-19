@@ -1,0 +1,5 @@
+1: Large black dot, top left
+0: Is there a light grey, slightly smaller below it and to the left?
+1: It's medium dark to the left... also have a lone one @ bottom
+0: Ok I see the lone one - let's pick that one
+1: Ok

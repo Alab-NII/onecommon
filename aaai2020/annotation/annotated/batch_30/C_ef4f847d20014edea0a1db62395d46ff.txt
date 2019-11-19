@@ -1,0 +1,5 @@
+0: i have two dots that are on top of each other. both light grey colors. bottom is larger and bit darker
+1: hmmm. is there a slightly smaller dot that is black near those?
+0: yeah. it's on the right of those and below those
+1: yeah. let's pick the top grey dot then
+0: gotcha

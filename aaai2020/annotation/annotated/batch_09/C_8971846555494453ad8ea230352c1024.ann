@@ -1,0 +1,27 @@
+T1	Markable 10 37	a boomerang shape of 3 dots
+T2	Markable 104 106	it
+T3	Markable 197 211	the bottom two
+T4	Markable 313 317	they
+T5	Markable 391 406	a vertical line
+T6	Markable 376 380	they
+T7	Markable 480 490	the others
+T8	Markable 428 432	them
+T9	None 464 466	an
+T11	Markable 436 450	the bottom one
+T12	Markable 510 529	any light grey dots
+T13	Markable 530 534	they
+T14	Markable 732 749	your blackest dot
+T15	Markable 64 72	med gray
+T16	Markable 74 79	black
+T17	Markable 82 100	dark gray or black
+R1	Anaphora Arg1:T2 Arg2:T1	
+T18	Markable 134 148	very dark dots
+T19	Markable 248 251	the
+#1	AnnotatorNotes T19	they
+R2	Anaphora Arg1:T4 Arg2:T19	
+R3	Predicative Arg1:T5 Arg2:T6	
+#2	AnnotatorNotes T9	and
+A1	No-Referent T12
+T10	Markable 575 591	the medium grays
+T20	Markable 698 702	what
+A2	No-Referent T20

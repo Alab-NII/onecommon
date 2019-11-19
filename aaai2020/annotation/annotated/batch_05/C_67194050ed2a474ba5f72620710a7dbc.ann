@@ -1,0 +1,9 @@
+T1	Markable 15 32	a larger gray dot
+T2	Markable 74 89	a vertical line
+T3	Markable 129 133	that
+T4	Markable 148 159	the top one
+T5	Markable 53 63	three dots
+R1	Predicative Arg1:T2 Arg2:T5	
+T6	Markable 91 97	medium
+T7	Markable 98 103	small
+T8	Markable 104 109	small

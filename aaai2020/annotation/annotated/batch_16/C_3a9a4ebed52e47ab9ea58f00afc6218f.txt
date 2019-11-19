@@ -1,0 +1,4 @@
+1: do you see a medium black dot located below and between two larger dark gray dots?
+0: Yes its a little below them
+1: yes, choose the black one
+0: Okay!

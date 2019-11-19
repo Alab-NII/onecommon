@@ -1,0 +1,3 @@
+0: Do you have 2 large black dots? One above and to the right of the lower one?
+1: no. I have a light tiny dot with a darker dot of the same size above and to the slight right.
+0: Take that lower one

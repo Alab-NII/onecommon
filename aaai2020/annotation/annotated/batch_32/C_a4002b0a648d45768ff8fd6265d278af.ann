@@ -1,0 +1,12 @@
+T1	Markable 14 41	a medium gray tiny size dot
+T3	Markable 114 124	bottom dot
+T4	Markable 206 213	the one
+T5	Markable 153 155	it
+T6	Markable 284 297	the light one
+T7	Markable 263 271	the line
+T8	Markable 59 65	4 dots
+R1	Anaphora Arg1:T5 Arg2:T3	
+T2	Markable 159 169	small gray
+T9	Markable 176 180	that
+T10	Markable 184 201	medium light gray
+R2	Anaphora Arg1:T9 Arg2:T2	

@@ -1,0 +1,5 @@
+0: 2 dots aligned horizontally. right dot is black. same sizes
+1: not seeing that. do you have 3 dots that form a diagonal line down and to the right?
+0: yeah i do. is upper left light grey?
+1: yea and the same size as the middle one
+0: yeah. pick that upper left grey

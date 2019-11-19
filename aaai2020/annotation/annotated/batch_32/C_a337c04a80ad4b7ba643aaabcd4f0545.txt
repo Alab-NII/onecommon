@@ -1,0 +1,6 @@
+1: two black dots same size about an inch apart, horizontal on a small angle from each other
+0: i do not see that. i only have one black dot.
+1: whats near your black dot?
+0: below the black dot and slightly to the right in a a small medium grey dot. below that and to the right a little more is another dot of the same color but a little bigger.
+1: ok pick that black one
+0: ok

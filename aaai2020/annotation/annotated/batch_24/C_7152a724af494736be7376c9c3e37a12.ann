@@ -1,0 +1,30 @@
+T1	Markable 42 60	a tiny lighter one
+T2	Markable 15 36	a large dark grey dot
+T3	Markable 92 102	three dots
+T4	Markable 106 121	a diagonal line
+T5	Markable 123 134	the top two
+T6	Markable 174 188	the lowest one
+T7	Markable 219 223	that
+T9	Markable 243 259	a large dark one
+T10	Markable 265 293	another slightly smaller one
+T11	Markable 360 364	they
+T13	Markable 427 452	a very tiny dark gray dot
+T14	Markable 476 487	a large one
+T16	Markable 456 462	itself
+T18	Markable 603 616	any tiny dots
+T20	Markable 713 730	the diagonal line
+T21	Markable 839 860	the bottom darker one
+T22	Markable 864 882	your diagonal line
+T23	Markable 64 67	its
+R1	Predicative Arg1:T4 Arg2:T3	
+A1	No-Referent T7
+T8	Markable 316 319	its
+R2	Anaphora Arg1:T8 Arg2:T9	
+R3	Anaphora Arg1:T16 Arg2:T13	
+T12	Markable 513 516	its
+T17	Markable 532 562	a medium sized medium gray one
+T15	Markable 570 573	its
+R4	Anaphora Arg1:T12 Arg2:T13	
+R5	Anaphora Arg1:T15 Arg2:T13	
+A2	No-Referent T18
+T24	Markable 640 669	a piece of your diagonal line

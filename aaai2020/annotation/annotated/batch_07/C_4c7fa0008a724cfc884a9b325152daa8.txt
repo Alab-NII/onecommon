@@ -1,0 +1,4 @@
+1: do you have a large grey dot alone, but a dark grey dot to its right
+0: yes...i see that too. which one do u want to select
+1: light grey
+0: ok done

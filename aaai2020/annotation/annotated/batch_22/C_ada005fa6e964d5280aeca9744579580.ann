@@ -1,0 +1,12 @@
+T1	Markable 25 36	one another
+T3	Markable 96 106	a triangle
+T4	Markable 75 88	3 larger ones
+T5	Markable 132 145	all dark dots
+T6	Markable 108 120	the triangle
+T7	Markable 156 159	one
+T8	Markable 3 16	two dark dots
+R1	Anaphora Arg1:T1 Arg2:T8	
+T9	Markable 51 68	A cluster of dots
+R2	Predicative Arg1:T3 Arg2:T4	
+R3	Predicative Arg1:T5 Arg2:T6	
+R4	Anaphora Arg1:T6 Arg2:T4	

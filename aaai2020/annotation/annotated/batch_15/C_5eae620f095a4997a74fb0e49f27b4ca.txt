@@ -1,0 +1,4 @@
+1: do you have a light grey dot, above it are 3 darker dots?
+0: Are the three darker dots at the right of the light grey dot?
+1: one of them is straight above it, the other 2 are to the right
+0: Yes, let's choose the smaller light grey dot at the bottom.

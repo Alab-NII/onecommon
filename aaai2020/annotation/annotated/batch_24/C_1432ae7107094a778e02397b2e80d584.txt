@@ -1,0 +1,4 @@
+1: I have a smaller black dot just to the left of a much larger dark gray dot
+0: I have that!
+1: Let's pick the smaller black one!
+0: Okay!

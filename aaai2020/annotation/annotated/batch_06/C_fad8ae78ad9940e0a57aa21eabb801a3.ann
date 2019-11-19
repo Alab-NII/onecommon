@@ -1,0 +1,10 @@
+T1	Markable 190 194	them
+T2	Markable 128 141	the right one
+T3	Markable 88 101	two dark dots
+T4	Markable 116 126	each other
+T5	Markable 249 268	those 2 darker ones
+T6	Markable 230 242	the grey one
+T7	Markable 14 49	a medium size medium color grey dot
+R1	Anaphora Arg1:T4 Arg2:T3	
+T8	Markable 163 178	a med/dark grey
+R2	Anaphora Arg1:T1 Arg2:T3	

@@ -1,0 +1,4 @@
+1: I see 2 tiny gray dots with a medium gray dot going diagonal
+0: the medium dot is to the left?
+1: Yes do you want to pick the top tiny dot
+0: ok

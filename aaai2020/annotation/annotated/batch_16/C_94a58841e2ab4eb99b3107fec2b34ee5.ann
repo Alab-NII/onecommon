@@ -1,0 +1,15 @@
+T1	Markable 43 57	any other dots
+T2	Markable 9 32	a small medium gray dot
+T4	Markable 64 66	it
+T5	Markable 106 109	one
+T6	Markable 189 191	It
+T8	Markable 218 220	It
+T9	Markable 239 250	all my dots
+T10	Markable 274 282	that one
+T3	Markable 126 134	2 others
+T11	Markable 164 166	It
+R1	Anaphora Arg1:T6 Arg2:T11	
+T12	Markable 203 211	anything
+A1	No-Referent T12
+R2	Anaphora Arg1:T8 Arg2:T11	
+A2	All-Referents T9

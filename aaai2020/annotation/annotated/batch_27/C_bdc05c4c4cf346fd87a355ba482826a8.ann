@@ -1,0 +1,11 @@
+T1	Markable 10 26	a large grey dot
+T2	Markable 125 140	lower right one
+T5	Markable 197 210	the right one
+T6	Markable 170 177	top one
+T7	Markable 96 106	three dots
+T8	Markable 144 168	a medium sized black dot
+T9	Markable 233 237	that
+T10	Markable 289 303	that black one
+R1	Predicative Arg1:T8 Arg2:T2	
+T3	Markable 264 277	the black one
+R2	Anaphora Arg1:T10 Arg2:T3	

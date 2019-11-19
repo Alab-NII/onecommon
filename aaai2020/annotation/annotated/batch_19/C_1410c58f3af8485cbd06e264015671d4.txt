@@ -1,0 +1,5 @@
+1: I see a large gray dot on the top on the dotted line
+0: I have a cluster of 2 dots close together. A small medium gray one and a larger same color dot to the right and slightly below it
+1: yes I see what you are talking about
+0: Let's pick the larger one on the right
+1: okay

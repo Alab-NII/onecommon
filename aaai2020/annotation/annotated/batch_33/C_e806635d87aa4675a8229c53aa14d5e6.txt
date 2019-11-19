@@ -1,0 +1,10 @@
+0: little black dot by itself
+1: is it up above the rest of the dots?
+0: below
+1: hmm not. is your largest dot dark grey?
+0: yes. almost in the center
+1: what is near it
+0: two regular grey ones . One smaller and another one bigger
+1: k click that large dark one
+0: which one . the biggest one ?
+1: yes

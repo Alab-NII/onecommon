@@ -1,0 +1,5 @@
+1: do you a large medium gray dot, with a smaller one of the same color to the right of it?
+0: very large med grey dot?
+1: yes
+0: is there a smaller dot up to its right almost the same shade?
+1: yes! should we choose the larger one?

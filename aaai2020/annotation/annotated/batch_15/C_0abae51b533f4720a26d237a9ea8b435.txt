@@ -1,0 +1,3 @@
+0: I see one large black dot
+1: got it
+0: Ok. Make sure you select it

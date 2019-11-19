@@ -1,0 +1,6 @@
+T1	Markable 10 29	a diamond of 4 dots
+T2	Markable 31 47	The right corner
+T3	Markable 51 66	large black dot
+T4	Markable 76 80	that
+T5	Markable 97 116	the large black dot
+R1	Predicative Arg1:T3 Arg2:T2	

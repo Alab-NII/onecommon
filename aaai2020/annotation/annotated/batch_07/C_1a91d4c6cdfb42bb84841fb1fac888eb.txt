@@ -1,0 +1,4 @@
+0: hello which do would you like to try for?
+1: I have a line of 3 dots top is light gray middle is dark and smaller and the bottom one is dark and larger than the middle
+0: I think I see that, click the light gray one?
+1: the top one. Yes.

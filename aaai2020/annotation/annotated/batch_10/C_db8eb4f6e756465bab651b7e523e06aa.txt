@@ -1,0 +1,5 @@
+1: i have a lonely one at the top med gray
+0: I don't have that... do you have a tiny piece of a dot on the dotted line?
+1: no i dont i have a black on med size that is past 6 o clock on the left side
+0: okay lets do that one
+1: ok

@@ -1,0 +1,4 @@
+0: larger black dot in the middle to the bottom
+1: Is there a small medium shade gray dot to the left of it slightly above?
+0: yes
+1: choose black one

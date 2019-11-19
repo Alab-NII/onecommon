@@ -1,0 +1,8 @@
+0: I see two dots along the circles border
+1: I have three of them one at 12 o'clock, 2, and 4.
+0: I do not
+1: Do you have two medium sized black dots in a vertical line but the bottom one is to the right?
+0: No. If a line is drawn horizontally down the middle of the circle, I only have two dots below that line
+1: Is one of the dots below that line a dark grey?
+0: Yes, it is very close to the 3 o'clock position too
+1: Yes!!

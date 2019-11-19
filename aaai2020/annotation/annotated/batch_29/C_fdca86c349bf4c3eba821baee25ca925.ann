@@ -1,0 +1,11 @@
+T1	Markable 14 43	a very light gray smaller dot
+T2	Markable 54 69	a very dark one
+T3	Markable 102 126	the very small light dot
+T4	Markable 97 99	it
+T5	Markable 138 140	it
+T6	Markable 156 171	a very dark one
+T7	Markable 189 208	the light small one
+T8	Markable 48 49	I
+#1	AnnotatorNotes T8	It
+R1	Predicative Arg1:T3 Arg2:T4	
+R2	Anaphora Arg1:T5 Arg2:T4	

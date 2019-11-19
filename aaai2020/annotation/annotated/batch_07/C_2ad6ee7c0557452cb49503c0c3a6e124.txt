@@ -1,0 +1,7 @@
+1: do you have one dark medium dot in the centre
+0: no. i've got two darker dots next to each other, the one on the left is lower and slightly darker and larger than the one on the right
+1: do you have a small grey almost touching the border
+0: no. do you have one medium dot that is lighter than the rest?
+1: is it in line with a darker dot of the same size
+0: diagonally yes
+1: okay let us select this medium dot lighter than the rest

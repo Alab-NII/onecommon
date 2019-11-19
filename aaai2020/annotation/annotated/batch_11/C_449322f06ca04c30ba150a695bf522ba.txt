@@ -1,0 +1,4 @@
+1: I have a small very black dot to the left of the center
+0: Do you see the four dots all in a cluster? Bottom right one being tiny and black?
+1: it's three for more but the small black one seems like a safe bet
+0: Yep

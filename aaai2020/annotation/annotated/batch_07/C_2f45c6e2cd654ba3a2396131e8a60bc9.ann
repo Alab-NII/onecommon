@@ -1,0 +1,17 @@
+T1	Markable 9 15	2 dots
+T2	Markable 16 24	left one
+T3	Markable 48 57	right one
+T4	Markable 124 128	that
+T5	Markable 141 169	a very tiny medium shade dot
+T6	Markable 175 201	a very large very dark dot
+T7	Markable 238 248	darker one
+T8	Markable 330 345	the lighter one
+T9	Markable 358 373	the lighter one
+T10	Markable 402 406	them
+T11	Markable 421 450	a medium sized light grey dot
+T12	Markable 483 503	the rest of the dots
+T14	Markable 529 537	that one
+A1	No-Referent T4
+T15	Markable 274 288	The darker one
+R1	Anaphora Arg1:T9 Arg2:T8	
+A2	No-Referent T10

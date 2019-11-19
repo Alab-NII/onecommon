@@ -1,0 +1,3 @@
+0: I have two smallish dots close together. The one on right is darker, smaller and a tiny bit lower. They are almost horizontal
+1: I have two smaller dots in the center a bit to the right of the center one is lower on the right side
+0: Ok, we see the same thing. Choose the smaller, darker on the right

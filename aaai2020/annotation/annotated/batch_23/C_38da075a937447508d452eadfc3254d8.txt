@@ -1,0 +1,4 @@
+1: i see a cluster of four dots, two dark dots and two light dots, alternating dark light dark light from left to right
+0: 3 across... two ends are light (left is lightest) all small. middle is up a little higher and black
+1: yep, and the one on the right side is just a tad darker than the one on the left?
+0: yes, it's your cluster too... so let's pick the left smallest lightest?

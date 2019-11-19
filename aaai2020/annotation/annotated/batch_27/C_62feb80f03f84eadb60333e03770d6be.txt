@@ -1,0 +1,4 @@
+0: tiniest black dot to the left of a large dark gray dot?
+1: I see LARGE dark grey dot. To left is tiny black, To lower right is medium size light grey dot
+0: yes...choose the tiny black dot
+1: perfect

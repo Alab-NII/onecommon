@@ -1,0 +1,3 @@
+0: Huge lightest shade dot, above it and to the left are a pair of dark grey dots
+1: I have a light shade dot above it to the right a pair of grey dots
+0: Is your light shade dot very small? If so click it

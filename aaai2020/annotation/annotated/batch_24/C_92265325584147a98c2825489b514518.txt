@@ -1,0 +1,7 @@
+1: do you have on light grey and medium grey in the middle of the circle.
+0: No, I have a cluster of 3 dots that form a triangle. A large dark gray one on top, a smaller same sized dot below to the right, and a medium gray dot below to the left.
+1: no I do not have that one
+0: Ok. I have one tiny dark gray dot with a much larger and slightly darker dot below and to the left of it
+1: the tiny med grey is on the top of the big dot
+0: Yes. Let's pick the smallest one
+1: ok

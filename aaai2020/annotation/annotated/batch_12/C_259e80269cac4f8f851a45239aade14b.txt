@@ -1,0 +1,4 @@
+1: Large black one alone
+0: yes i see that one
+1: click that one
+0: ok

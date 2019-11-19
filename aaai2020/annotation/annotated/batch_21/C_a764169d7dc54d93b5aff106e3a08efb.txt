@@ -1,0 +1,6 @@
+1: i have a black dot with a grey dot on the right
+0: Two closest dots - one is smallest and darkest, right next to it is medium and larger
+1: do you have a big black dot?
+0: Yes, alone by about an inch on all sides?
+1: lets pick that one
+0: Good luck!

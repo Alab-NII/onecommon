@@ -1,0 +1,5 @@
+1: hello
+0: I see a darker small to medium size dot with a larger light grey dot down to the right, and a smaller medium color grey down and to the left of larger light grey dot forming a triangle
+1: I see a small dark dot with a larger slight grey dot to the bottom right and a large grey dot to the left of the small black dot forming a triangle
+0: hmm dont see that select the smaller black dot we both see?
+1: alright

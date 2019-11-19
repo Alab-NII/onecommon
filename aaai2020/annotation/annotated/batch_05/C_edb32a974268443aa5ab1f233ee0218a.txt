@@ -1,0 +1,5 @@
+0: three dots on left black light grey med gray
+1: and the light is the largest?
+0: no light smallest, darker gray biggest
+1: do you see a large medium gray dot with a black small dot to the bottom right of it?
+0: yes

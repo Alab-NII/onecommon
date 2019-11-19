@@ -1,0 +1,5 @@
+1: large dark dot alone
+0: No. I have two very dark same medium size dot
+1: horizontal or vertical?
+0: slant to each other
+1: choose the lower one ok

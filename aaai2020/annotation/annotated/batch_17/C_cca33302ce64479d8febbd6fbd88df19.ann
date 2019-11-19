@@ -1,0 +1,7 @@
+T1	Markable 238 253	the largest one
+T2	Markable 9 19	three dots
+T3	Markable 98 109	The largest
+T4	Markable 125 133	the next
+T5	Markable 157 164	the 3rd
+T6	Markable 187 194	the 2nd
+R1	Anaphora Arg1:T6 Arg2:T4	

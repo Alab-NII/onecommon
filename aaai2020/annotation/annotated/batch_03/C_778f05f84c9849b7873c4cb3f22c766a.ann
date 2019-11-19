@@ -1,0 +1,21 @@
+T1	Markable 32 42	each other
+T2	Markable 235 239	them
+T3	Markable 184 209	a darker grey/smaller one
+T4	Markable 250 272	my darker, smaller one
+T5	Markable 303 320	a small black dot
+T6	Markable 385 404	the 2 med grey ones
+T7	Markable 368 378	each other
+T8	Markable 335 351	two lighter ones
+T9	Markable 457 483	the two med/dark grey ones
+T10	Markable 441 451	each other
+T11	Markable 498 503	those
+T12	Markable 523 538	the lighter one
+T13	Markable 3 17	two same color
+R1	Anaphora Arg1:T1 Arg2:T13	
+T14	Markable 44 52	left one
+T15	Markable 89 100	medium gray
+T16	Markable 120 126	others
+T17	Markable 165 173	med grey
+R2	Anaphora Arg1:T7 Arg2:T8	
+T18	Markable 407 411	they
+R3	Anaphora Arg1:T10 Arg2:T18	

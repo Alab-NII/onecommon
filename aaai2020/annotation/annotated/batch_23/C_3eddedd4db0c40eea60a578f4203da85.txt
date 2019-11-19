@@ -1,0 +1,7 @@
+1: lone black dot
+0: large dark gray alone
+1: All the way at the top? Super dark?
+0: mines at 9 o clock but to the right of it is a light gray dot
+1: ok no i dont have that. light grey dot with a medium grey dot slightly up and left?
+0: I have that the left one is larger and darker?
+1: Yes. Choose the lighter one

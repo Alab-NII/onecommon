@@ -1,0 +1,7 @@
+0: I see two dots very close together. One on the left is slightly larger and much darker. The one on the right is a little higher and much lighter
+1: i have three dots in a row, kinda close together
+0: I dont have three in a row
+1: is the larger dot above a dot that is a little smaller and darker?
+0: No, but I think I see what you're talking about. Is the larger lighter dot at about 11 oclock of the smaller dot?
+1: yes
+0: lets click the big one on top

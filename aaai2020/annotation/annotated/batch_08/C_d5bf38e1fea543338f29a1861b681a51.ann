@@ -1,0 +1,8 @@
+T1	Markable 10 16	3 dots
+T2	Markable 157 161	that
+T3	Markable 188 201	the black one
+T4	Markable 55 63	med gray
+T5	Markable 64 80	large light gray
+T6	Markable 85 97	medium black
+T7	Markable 104 121	a boomerang shape
+R1	Predicative Arg1:T7 Arg2:T1	

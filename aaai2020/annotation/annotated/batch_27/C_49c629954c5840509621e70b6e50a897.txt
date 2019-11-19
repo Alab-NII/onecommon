@@ -1,0 +1,4 @@
+0: Three dots are very close and the line they form is not very straight
+1: do they go down and to the left?
+0: yes, let us select the downmost and blackest
+1: sounds good, i got it

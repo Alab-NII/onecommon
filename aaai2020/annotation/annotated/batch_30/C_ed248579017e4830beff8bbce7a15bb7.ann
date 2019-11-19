@@ -1,0 +1,8 @@
+T1	Markable 63 77	right triangle
+T2	Markable 6 22	you smallest dot
+#1	AnnotatorNotes T2	your smalles dot
+T3	Markable 33 48	Three tiny dots
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 79 88	Left most
+T5	Markable 101 104	one
+T6	Markable 174 186	Mid lightest

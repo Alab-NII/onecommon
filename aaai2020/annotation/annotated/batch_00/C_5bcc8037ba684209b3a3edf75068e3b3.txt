@@ -1,0 +1,7 @@
+1: I see a larger grey dot in the right hand side.
+0: I also have a larger gray dot, a few of them, lighter or medium gray.
+1: My larger grey dot is medium grey and has a smaller lighter grey dot just above it to the left. Do you see that?
+0: yes.
+1: Great! Let's select that one.
+0: the smaller dot or larger one?
+1: the larger one.

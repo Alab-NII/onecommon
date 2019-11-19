@@ -1,0 +1,16 @@
+T1	Markable 19 25	a line
+T2	Markable 9 15	4 dots
+T3	Markable 27 49	Two of the middle dots
+T5	Markable 93 102	that line
+T6	Markable 71 89	a lighter gray dot
+T7	Markable 149 157	the line
+T8	Markable 182 197	a dark gray dot
+T9	Markable 164 166	it
+T10	Markable 202 219	a darker grey dot
+T11	Markable 238 240	it
+T12	Markable 269 293	a diagonal vertical line
+T14	Markable 252 255	one
+R1	Predicative Arg1:T1 Arg2:T2	
+T4	Markable 107 124	My light grey dot
+T15	Markable 221 225	Both
+T13	Markable 310 325	that light gray

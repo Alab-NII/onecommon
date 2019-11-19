@@ -1,0 +1,13 @@
+T1	Markable 82 86	that
+T2	Markable 115 122	one dot
+T3	Markable 99 101	It
+T4	Markable 187 201	the bottom one
+T6	Markable 232 235	one
+T7	Markable 308 321	the black one
+T8	Markable 345 347	it
+T9	Markable 3 9	3 dots
+T10	Markable 30 36	middle
+A1	No-Referent T1
+A2	No-Referent T2
+T11	Markable 153 166	more than two
+A3	No-Referent T11

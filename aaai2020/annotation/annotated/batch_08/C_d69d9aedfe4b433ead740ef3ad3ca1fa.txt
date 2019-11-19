@@ -1,0 +1,5 @@
+0: i only have l large black dot at 9:00 position and a med black at 8:00 do u have either
+1: tiny dark dot between two grey bigger dots
+0: i have 3 med grey dots one at 7:00 one at 10:00 and one at 2:00 do u have any of those
+1: one large black dot, let us select that one
+0: ok click it

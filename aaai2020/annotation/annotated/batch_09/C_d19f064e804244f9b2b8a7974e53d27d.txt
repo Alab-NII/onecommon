@@ -1,0 +1,5 @@
+0: I only have one dark dot. It is located below and slightly to the left of a smaller, light grey dot
+1: No I don't have that. Do you have a tiny medium shade grey dot that is very far off by itself?
+0: No. Do you have three dots in a line that slopes up and to the right, with the first dot being light grey, and the next two medium grey? The last dot is the largest.
+1: Argh no! Do you have two dots that are very close together that are the same shade but the top one is very large and slightly to the right?
+0: Yes. Let's click the larger dot.

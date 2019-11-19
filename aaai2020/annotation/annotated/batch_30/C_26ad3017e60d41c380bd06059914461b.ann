@@ -1,0 +1,6 @@
+T1	Markable 55 58	top
+T2	Markable 9 28	a cluster of 4 dots
+T4	Markable 62 74	the triangle
+T5	Markable 120 139	the larger grey dot
+T6	Markable 109 113	that
+R1	Anaphora Arg1:T4 Arg2:T2	

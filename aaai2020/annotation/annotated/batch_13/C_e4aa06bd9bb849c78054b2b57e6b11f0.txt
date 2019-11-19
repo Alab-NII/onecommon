@@ -1,0 +1,6 @@
+1: Hi do you have 3 close together that form a mini triangle pointing to the north west?
+0: yes I believe so
+1: the left one is darkest?
+0: yes it is
+1: ok great lets click that one?
+0: great

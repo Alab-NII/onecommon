@@ -1,0 +1,11 @@
+T1	Markable 88 91	one
+T2	Markable 117 138	a larger, lighter dot
+T3	Markable 155 157	it
+T4	Markable 183 201	a really large dot
+T5	Markable 281 289	any dots
+T6	Markable 293 302	a cluster
+T8	Markable 313 330	a cluster of five
+T9	Markable 347 364	a small black one
+T10	Markable 392 394	it
+T11	Markable 3 27	The darkest smallest dot
+R1	Predicative Arg1:T6 Arg2:T5	

@@ -1,0 +1,6 @@
+0: do you have four dots in a diamond shape on the biard?
+1: i do not. i have a gray circle with another slightly smaller grey circle up and to the left and a darker smaller gray circle to the right and up of that
+0: is there a small grey circle above and to the right of those 3?
+1: yes!
+0: I have the same. lets pick the darkest small circle of those
+1: okay will do

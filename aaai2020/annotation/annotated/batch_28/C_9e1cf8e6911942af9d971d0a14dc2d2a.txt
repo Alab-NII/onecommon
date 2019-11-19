@@ -1,0 +1,4 @@
+1: I Have a medium sized black dot with a same sized but lighter dot below and to the left of it
+0: Huge black dot, below it and to the right is a smaller black dot
+1: Is there a lighter gray dot below and to the left of the smaller black dot you described?
+0: Yes, click huge

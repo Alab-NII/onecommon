@@ -1,0 +1,13 @@
+T1	Markable 12 36	a large, medium-gray dot
+T2	Markable 146 149	one
+T3	Markable 176 179	one
+T4	Markable 134 144	each other
+T5	Markable 112 124	2 large dots
+T6	Markable 229 236	the dot
+T7	Markable 388 408	those two large dots
+T8	Markable 414 424	each other
+R1	Anaphora Arg1:T4 Arg2:T5	
+A1	No-Referent T6
+R2	Anaphora Arg1:T8 Arg2:T7	
+T10	Markable 450 460	Darker one
+T9	Markable 426 436	Either one

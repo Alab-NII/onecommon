@@ -1,0 +1,8 @@
+1: Do you see a large black dot
+0: What do you see?
+1: Do you see a large black dot
+0: I have three
+1: Do you see one in a triangle with medium size light grey dots
+0: Yes
+1: Let us select the darkest dot
+0: I agree

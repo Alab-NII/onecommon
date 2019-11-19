@@ -1,0 +1,5 @@
+0: i have two large black dots, on the far ends of my circles, do you have any?
+1: No black dots for me. I see a large grey dot on the left side of the circle
+0: do you have a small really light dot? above it is a grey dot slightly larger, and darker
+1: No I don't have that. I have a really small dark grey dot toward the right of the circle. It's by itself.
+0: i see that, above it to the right is one of my dark big ones, that may be cut off for you.

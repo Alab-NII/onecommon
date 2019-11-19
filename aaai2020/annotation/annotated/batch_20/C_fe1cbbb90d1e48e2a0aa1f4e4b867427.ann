@@ -1,0 +1,8 @@
+T1	Markable 24 39	a vertical line
+T2	Markable 10 20	three dots
+T4	Markable 41 52	The top dot
+T5	Markable 85 99	the bottom dot
+T7	Markable 244 252	the trio
+T8	Markable 126 146	a line of three dots
+T10	Markable 202 229	the biggest and darkest one
+R1	Predicative Arg1:T1 Arg2:T2	

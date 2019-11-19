@@ -1,0 +1,15 @@
+T2	Markable 43 57	two black dots
+T3	Markable 94 104	each other
+T4	Markable 106 117	The top one
+T5	Markable 134 148	the bottom one
+T6	Markable 154 168	the bottom one
+T7	Markable 231 242	a black dot
+T8	Markable 289 291	it
+T9	Markable 351 353	it
+T10	Markable 329 343	the other dots
+T11	Markable 382 396	the medium dot
+T12	Markable 410 412	it
+T1	Markable 69 70	3
+T13	Markable 82 83	2
+R1	Anaphora Arg1:T3 Arg2:T13	
+R2	Anaphora Arg1:T6 Arg2:T5	

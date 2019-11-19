@@ -1,0 +1,6 @@
+0: 5 dots that sort of make a letter M?
+1: No, I have three dots that form a triangle, the darkest is to the north, medium to the east, and lightest to the south
+0: I think i have part of that in mine, are they fairly large sized dots?
+1: Yes, they seem to be all the same size the medium might be slightly larger
+0: Ok sounds correct. Lets click the south lightest one?
+1: Okay

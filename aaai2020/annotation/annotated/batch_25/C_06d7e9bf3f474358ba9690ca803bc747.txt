@@ -1,0 +1,4 @@
+0: i see two tiny dots close together. one is dark grey and lower to the right is black
+1: I have a tiny med gray dot with another tiny really dark dot just below and to the right
+0: lets choose the tiny one that looks black
+1: cool

@@ -1,0 +1,16 @@
+T1	Markable 15 26	3 tiny ones
+T2	Markable 112 120	the dots
+T3	Markable 138 152	the bottom one
+T4	Markable 196 211	a long triangle
+T5	Markable 279 292	the right one
+T6	Markable 234 254	two medium grey dots
+T7	Markable 321 330	the other
+T8	Markable 256 260	they
+T9	Markable 378 391	the right one
+T10	Markable 32 39	the top
+T11	Markable 59 69	the bottom
+T12	Markable 176 184	the ones
+R1	Predicative Arg1:T4 Arg2:T12	
+R2	Anaphora Arg1:T8 Arg2:T6	
+T13	Markable 405 409	that
+R3	Anaphora Arg1:T13 Arg2:T9	

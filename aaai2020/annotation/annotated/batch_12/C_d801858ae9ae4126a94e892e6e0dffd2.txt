@@ -1,0 +1,3 @@
+1: two small black dots beside each other
+0: I see that. Let's choose the slightly larger dot
+1: ok

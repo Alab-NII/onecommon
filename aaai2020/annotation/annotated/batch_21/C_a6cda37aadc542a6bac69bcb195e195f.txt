@@ -1,0 +1,4 @@
+0: very large black dot?
+1: I see very large and black dot, with a smaller grey dot to the left of it
+0: Yes if they're on a horizontal line click the black one!
+1: yes

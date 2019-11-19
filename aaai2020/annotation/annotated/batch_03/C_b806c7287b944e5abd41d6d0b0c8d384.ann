@@ -1,0 +1,8 @@
+T1	Markable 52 63	l black dot
+T2	Markable 64 66	it
+T3	Markable 106 108	it
+T4	Markable 126 128	it
+T5	Markable 146 150	that
+T6	Markable 15 36	one small dark circle
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	

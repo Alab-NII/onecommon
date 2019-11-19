@@ -1,0 +1,18 @@
+T2	Markable 10 26	two sets of dots
+T3	Markable 50 60	each other
+T4	Markable 70 85	the darkest dot
+T5	Markable 95 110	the lighter dot
+T6	Markable 65 68	one
+T7	Markable 115 124	the other
+T8	Markable 180 184	that
+T9	Markable 236 247	the top dot
+T10	Markable 323 334	the top two
+T11	Markable 275 284	Those two
+T12	Markable 339 350	the top two
+T13	Markable 408 432	either of the bottom two
+T14	Markable 378 391	the light one
+T15	Markable 351 363	the dark one
+T16	Markable 491 500	that pair
+R1	Anaphora Arg1:T3 Arg2:T2	
+T1	Markable 191 199	the pair
+T17	Markable 455 487	the bottom darker, larger circle

@@ -1,0 +1,5 @@
+1: I have 2 grey dots one right on top of the other darker one on the bottom
+0: Is the lighter one also slightly larger?
+1: nope, also I have medium color grey medium size top left of circle; light medium size light grey near bottom all alone; and 3 other dots near the right side of circle
+0: Let's try the medium sized light one that's all alone.
+1: k

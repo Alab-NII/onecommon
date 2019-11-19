@@ -1,0 +1,4 @@
+1: I have two dots similar in size, one darker.
+0: medium grey at 3 oclock?
+1: Yes it is
+0: i will pick the lighter one

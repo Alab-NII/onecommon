@@ -1,0 +1,10 @@
+T2	Markable 70 104	same size and different color dots
+T3	Markable 120 126	a pair
+T4	Markable 154 177	a large medium grey dot
+T5	Markable 132 149	a large black dot
+T6	Markable 229 231	it
+T7	Markable 184 192	the ones
+T8	Markable 283 296	the black one
+T9	Markable 9 32	three pairs of two dots
+R1	Anaphora Arg1:T6 Arg2:T7	
+T1	Markable 235 242	my pair

@@ -1,0 +1,9 @@
+T1	Markable 190 203	the light dot
+T2	Markable 108 119	another dot
+T3	Markable 74 103	a large medium shade gray dot
+T4	Markable 162 173	the big dot
+T5	Markable 55 57	it
+T6	Markable 229 254	the smallest lightest dot
+T7	Markable 3 18	My smallest dot
+T8	Markable 38 42	Mine
+R1	Anaphora Arg1:T5 Arg2:T8	

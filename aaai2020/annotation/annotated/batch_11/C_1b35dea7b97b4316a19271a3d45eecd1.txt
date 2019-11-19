@@ -1,0 +1,5 @@
+0: I see two light gray dots
+1: I have one tiny light dot with a darker same sized one to the upper left
+0: I have that too
+1: lets pick the light grey one
+0: okay

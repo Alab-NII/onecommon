@@ -1,0 +1,4 @@
+0: two light colored dots vertical from each other
+1: i see that
+0: pick the bottom one
+1: ok great and thanks

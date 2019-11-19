@@ -1,0 +1,13 @@
+T1	Markable 10 29	one small light dot
+T2	Markable 82 93	a black one
+T3	Markable 109 111	it
+T4	Markable 115 117	it
+T5	Markable 135 148	a small light
+T6	Markable 159 163	them
+T7	Markable 202 215	the black one
+T8	Markable 48 58	each other
+T9	Markable 61 76	large dark grey
+R1	Anaphora Arg1:T3 Arg2:T9	
+R2	Anaphora Arg1:T4 Arg2:T9	
+T10	Markable 167 172	their
+R3	Anaphora Arg1:T10 Arg2:T6	

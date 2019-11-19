@@ -1,0 +1,10 @@
+T1	Markable 71 75	that
+T2	Markable 83 96	a pair of two
+T3	Markable 116 127	one another
+T5	Markable 150 161	the top one
+T6	Markable 188 192	that
+T7	Markable 201 210	small one
+T9	Markable 3 28	Medium sized, medium gray
+A1	No-Referent T1
+R1	Anaphora Arg1:T3 Arg2:T2	
+T4	Markable 215 224	small one

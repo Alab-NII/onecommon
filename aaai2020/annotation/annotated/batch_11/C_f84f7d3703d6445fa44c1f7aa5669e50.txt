@@ -1,0 +1,5 @@
+1: My largest dot is very light grey
+0: is it about at 8 o clock?
+1: yes
+0: shall we try that one?
+1: yes

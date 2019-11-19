@@ -1,0 +1,4 @@
+1: I see two dark dots very close together. the one to the upper right is larger
+0: I have a almost same dark and size dot above each other
+1: do you think it is the same as mine? should we pick the upper one?
+0: yes

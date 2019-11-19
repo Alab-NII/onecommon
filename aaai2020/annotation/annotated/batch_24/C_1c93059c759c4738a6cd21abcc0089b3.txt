@@ -1,0 +1,4 @@
+0: All of my dots are in a kind of diagonal vertical line, except one, which is a bit off to the left.
+1: is the one off to the left medium gray?
+0: Yes, let's pick that one.
+1: will do

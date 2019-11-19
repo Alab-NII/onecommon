@@ -1,0 +1,6 @@
+T1	Markable 9 23	two small dots
+T2	Markable 48 73	two nearly identical dots
+T3	Markable 106 119	the lower one
+T4	Markable 149 162	the lower one
+T5	Markable 75 79	both
+R1	Anaphora Arg1:T5 Arg2:T2	

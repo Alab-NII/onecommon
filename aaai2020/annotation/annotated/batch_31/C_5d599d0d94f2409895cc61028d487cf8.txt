@@ -1,0 +1,4 @@
+1: 3 large dots very very close together in almost horizontal line?
+0: Two black dots far right large
+1: yes! click the one furthest left
+0: K

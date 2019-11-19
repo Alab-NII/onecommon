@@ -1,0 +1,3 @@
+0: I have 2 sets if 3 dots forming a triangle
+1: I do to, lets choose the large black dot in the set on the right
+0: Okay!

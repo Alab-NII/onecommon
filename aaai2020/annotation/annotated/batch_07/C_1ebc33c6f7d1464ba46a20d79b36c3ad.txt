@@ -1,0 +1,6 @@
+1: I have three dots aligned horizontally, the first two are about the same size and the one all the way on the right is smaller. The first dot is medium grey, and the second two are light grey.
+0: The dark spot closer to the bottom. There is one small medium gray spot above it and one light gray below like SE
+1: Are these three arranged in a line that is sloping down and to the right?
+0: yes
+1: Let's click the middle dot.
+0: ok

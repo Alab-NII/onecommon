@@ -1,0 +1,19 @@
+T1	Markable 10 28	a loose group of 5
+T2	Markable 59 72	a large black
+T3	Markable 114 131	a large dark grey
+T4	Markable 147 151	that
+T5	Markable 208 212	that
+T6	Markable 225 242	a Large dark grey
+T7	Markable 248 277	another slightly lighter grey
+T8	Markable 283 285	it
+T9	Markable 320 331	the diamond
+T10	Markable 351 359	the four
+T11	Markable 294 316	the furthest right dot
+T12	Markable 366 368	it
+T13	Markable 392 405	lightest grey
+T14	Markable 33 43	2 lonelies
+T15	Markable 80 92	my 2 lonlies
+T16	Markable 97 109	a small grey
+A1	No-Referent T4
+T17	Markable 165 189	a diamond shape of greys
+R1	Anaphora Arg1:T8 Arg2:T6	

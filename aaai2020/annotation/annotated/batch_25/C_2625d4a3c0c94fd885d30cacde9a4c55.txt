@@ -1,0 +1,5 @@
+1: I have a large black dot. There is a much smaller very light dot above and to the right of it
+0: I think I see that one too. its very dark grey?
+1: Yes, very dark almost black. the smaller one above to the right is very light gray
+0: yes. should we pick it
+1: Ok. Let's pick that dark large one

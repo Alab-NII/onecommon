@@ -1,0 +1,8 @@
+T1	Markable 40 86	3 same size same color medium size medium gray
+T2	Markable 14 29	a diagonal line
+T3	Markable 102 125	a medium size black dot
+T4	Markable 260 262	it
+T5	Markable 213 225	the dark one
+R1	Predicative Arg1:T1 Arg2:T2	
+T6	Markable 132 166	a medium size slightly lighter dot
+R2	Anaphora Arg1:T4 Arg2:T5	

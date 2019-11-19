@@ -1,0 +1,11 @@
+T1	Markable 27 41	a lighter grey
+T2	Markable 9 17	two dots
+T3	Markable 113 123	each other
+T4	Markable 47 55	the rest
+T5	Markable 139 143	that
+T6	Markable 151 175	two very light grey dots
+T7	Markable 285 300	the biggest one
+T8	Markable 238 248	three dots
+T9	Markable 353 374	the middle bigger one
+R1	Anaphora Arg1:T3 Arg2:T2	
+A1	No-Referent T5

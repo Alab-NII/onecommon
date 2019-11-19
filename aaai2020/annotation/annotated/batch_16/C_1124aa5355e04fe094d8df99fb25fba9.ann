@@ -1,0 +1,11 @@
+T1	Markable 14 38	one lonely tiny grey dot
+T2	Markable 155 157	it
+T3	Markable 92 97	a dot
+T4	Markable 231 241	each other
+T5	Markable 243 250	Top one
+T6	Markable 310 329	a smaller black dot
+T7	Markable 276 290	the darker one
+T8	Markable 376 393	the light top one
+T9	Markable 64 78	the collection
+T10	Markable 178 184	2 dots
+R1	Anaphora Arg1:T4 Arg2:T10	

@@ -1,0 +1,6 @@
+0: I have one dark gray dot almost on the line of the circle
+1: Mine is black, across from a small light gray dot
+0: I have a small light gray dot towards the middle of my circle
+1: Me too, but its more toward the side
+0: Should we choose that one?
+1: I think so.

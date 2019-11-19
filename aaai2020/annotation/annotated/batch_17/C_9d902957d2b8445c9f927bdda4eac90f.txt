@@ -1,0 +1,5 @@
+0: Do you see a large dark grey Dot and right above and left is a tiny light dot
+1: I have large black dot right below and to the right of a very small light gray dot. They are very close to each other
+0: No, do you have a largest sized black dot? If so click it
+1: Ok I didn't see your first message... I think we are talking about the same two dots... is the light gray really close to the dark gray
+0: Take the tiny grey one, you described it wrong then.

@@ -1,0 +1,11 @@
+T1	Markable 26 37	the largest
+T2	Markable 50 72	a tiny medium dark dot
+T3	Markable 39 41	it
+T4	Markable 88 94	3 dots
+T5	Markable 234 256	the bottom largest dot
+T6	Markable 3 17	my darkest dot
+R1	Predicative Arg1:T1 Arg2:T6	
+R2	Anaphora Arg1:T3 Arg2:T6	
+T7	Markable 125 136	The two top
+T8	Markable 148 158	the bottom
+T9	Markable 194 217	the same triangle shape

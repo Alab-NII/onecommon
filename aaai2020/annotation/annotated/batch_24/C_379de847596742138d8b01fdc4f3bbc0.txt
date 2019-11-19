@@ -1,0 +1,3 @@
+0: Hi, I have one large light dot just under a medium dark dot that is towards the right side of the circle
+1: me too, choose the lighter one?
+0: sure

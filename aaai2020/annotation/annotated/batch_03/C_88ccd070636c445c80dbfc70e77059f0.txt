@@ -1,0 +1,8 @@
+1: Give in a straight-ish line, then two in a parallel line
+0: I dont see that. I have a small, dark gray dot close to a larger lighter grey one to the lower right
+1: DO you have one that is literally touching the dashed line?
+0: A larger dark grey one right?
+1: Mine is large, but it's more of a lighter gray
+0: Mine is dark. Do you have a small light grey dot with a much larger slightly darker dot down and to the right?
+1: Yes, I have that. Do you have a a very dark dot (small) and to the lower-right of that a medium size regular gray?
+0: Yes, click the small dark one you described

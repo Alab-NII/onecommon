@@ -1,0 +1,4 @@
+1: Do you see 7 dots inside a big circle
+0: in total there are seven dots in my circle. do you see a cluster of five where the darkest one is also the largest?
+1: Yes is it close to the top of the circle
+0: pick that one then.

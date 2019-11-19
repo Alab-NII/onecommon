@@ -1,0 +1,6 @@
+1: large, medium dark grey dot?
+0: I see one large dark gray dots and two medium large medium dark gray dots
+1: choose the large dark grey one
+0: I'm not sure it is the one. it has a few other dots around it. I also see a lonely medium gray dot
+1: yeah, the large dark grey one has other dots around it
+0: ok

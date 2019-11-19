@@ -1,0 +1,4 @@
+1: I have 3 sets of two dots kind of forming a diagonal letter S?
+0: hmm dont see that. do you have a large very black dot?
+1: yes and there is a smaller light to medium color grey dot up and to the right of it?
+0: yes! click that large black one!

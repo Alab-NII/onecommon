@@ -1,0 +1,14 @@
+T1	Markable 15 30	a vertical line
+T2	Markable 84 88	that
+T3	Markable 102 116	two small dots
+T4	Markable 132 135	one
+T5	Markable 154 157	one
+T6	Markable 211 219	the pair
+T7	Markable 271 290	small dark grey dot
+T8	Markable 10 11	3
+R1	Predicative Arg1:T1 Arg2:T8	
+T9	Markable 33 36	all
+R2	Anaphora Arg1:T9 Arg2:T8	
+A1	No-Referent T2
+T10	Markable 181 197	a large grey dot
+T11	Markable 224 246	A large light gray dot

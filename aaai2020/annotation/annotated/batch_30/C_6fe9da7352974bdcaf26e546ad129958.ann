@@ -1,0 +1,15 @@
+T1	Markable 58 67	the black
+T2	Markable 15 43	a large gray and large black
+T3	Markable 89 93	they
+T4	Markable 155 158	one
+T5	Markable 184 193	the other
+T6	Markable 132 153	two medium black dots
+T7	Markable 245 253	that one
+T8	Markable 206 219	the lower one
+T9	Markable 307 313	itself
+T10	Markable 335 355	the rest of the dots
+T12	Markable 321 323	it
+T13	Markable 402 410	that one
+R1	Anaphora Arg1:T7 Arg2:T8	
+T15	Markable 280 299	a medium light gray
+R2	Anaphora Arg1:T9 Arg2:T15	

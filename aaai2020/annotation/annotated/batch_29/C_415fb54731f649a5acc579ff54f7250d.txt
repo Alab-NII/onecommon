@@ -1,0 +1,3 @@
+0: 3 light grey dots angling up and to the right
+1: i have three dots in a line, but the top one is the left most, bottom one is the right most
+0: ok if all dark then i have those too so lets pick the middle dot

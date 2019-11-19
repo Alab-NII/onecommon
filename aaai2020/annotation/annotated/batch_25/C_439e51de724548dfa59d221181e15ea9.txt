@@ -1,0 +1,7 @@
+1: do you have 3 dots close together in a triangle shape?
+0: do you see 4 dots close together with one black to the left?...maybe to yours...is there a big black dot to the left of the triangle.
+1: my triangle is at the edge of my circle. for my triangle the top most dot is large and pale
+0: yes...is the bottom right dot smaller and a shade darker than the top dot?
+1: yes! i bet it is the same thing. I am just missing the black dot on the left due to my circle cutting it off
+0: if the top dot on your triangle is the biggest of the 3 dots click the top big dot.
+1: it is clicking'

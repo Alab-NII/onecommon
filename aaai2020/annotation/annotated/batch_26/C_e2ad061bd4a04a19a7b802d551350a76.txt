@@ -1,0 +1,4 @@
+1: I have a very small black dot, with a medium dark grey dot very close, above and to the right
+0: I have one tiny black dot that has a medium dark gray dot above and to the right of it
+1: we have the same thing, take the tiny black dot
+0: ok

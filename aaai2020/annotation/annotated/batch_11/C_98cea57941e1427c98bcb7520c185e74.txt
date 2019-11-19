@@ -1,0 +1,7 @@
+0: do you see any dots close together?
+1: Hi. I see 3 small light dots that almost make a triangle that are very close.
+0: is the one on the right darker than the one to the left of it?
+1: Yes.
+0: and the lowest one is the smallest?
+1: It is shall we choose the small one?
+0: ok

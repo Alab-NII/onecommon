@@ -1,0 +1,6 @@
+1: I have one tiny very dark dot near the bottom of the circle
+0: Is there a large dark grey dot up and to the left of it?
+1: Yes, which one do you want to go with
+0: Let's go with the dark grey
+1: The big one?
+0: Yes :)

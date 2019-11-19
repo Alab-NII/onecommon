@@ -1,0 +1,3 @@
+1: I have a very tiny dot and it is light gray
+0: Does it have a larger black dot down and to the left of it?
+1: yes select the larger black

@@ -1,0 +1,12 @@
+T1	Markable 9 21	a light gray
+T2	Markable 29 31	It
+T3	Markable 144 148	Mine
+T4	Markable 178 180	it
+T5	Markable 219 230	a small dot
+T6	Markable 245 252	it self
+T7	Markable 35 54	the only light gray
+R1	Anaphora Arg1:T2 Arg2:T1	
+T8	Markable 181 195	a small circle
+R2	Predicative Arg1:T8 Arg2:T4	
+R3	Anaphora Arg1:T6 Arg2:T5	
+R4	Predicative Arg1:T7 Arg2:T2	

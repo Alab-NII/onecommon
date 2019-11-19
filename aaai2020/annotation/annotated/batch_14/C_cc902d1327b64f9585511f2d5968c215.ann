@@ -1,0 +1,11 @@
+T1	Markable 17 30	a lot of dots
+T2	Markable 69 75	7 dots
+T4	Markable 89 125	one medium/dark grey kinda small dot
+T5	Markable 132 155	a really light tiny one
+T6	Markable 159 161	it
+T7	Markable 194 210	a tiny black one
+T8	Markable 217 221	them
+T9	Markable 249 273	the medium/dark grey dot
+A1	All-Referents T1
+A2	All-Referents T2
+R1	Anaphora Arg1:T6 Arg2:T4	

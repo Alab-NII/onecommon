@@ -1,0 +1,4 @@
+1: I have a large dark dot, next to a smaller gray dot
+0: I see two dots very close together. The one on bottom is much larger and much darker. It is slightly to the left. See that?
+1: Yes, I see the much larger and darker dot. Is it next to a small gray dot?
+0: Yep. Click the larger dark one

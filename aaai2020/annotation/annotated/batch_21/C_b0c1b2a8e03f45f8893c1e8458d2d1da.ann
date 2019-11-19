@@ -1,0 +1,10 @@
+T1	Markable 10 17	a group
+T2	Markable 29 47	a perfect triangle
+T3	Markable 92 114	a large and light grey
+T4	Markable 143 170	a smaller and dark grey dot
+T5	Markable 79 83	they
+T6	Markable 116 137	a small and dark grey
+R1	Predicative Arg1:T2 Arg2:T1	
+T8	Markable 58 73	a similar thing
+R2	Anaphora Arg1:T5 Arg2:T8	
+T9	Markable 190 206	the lightest one

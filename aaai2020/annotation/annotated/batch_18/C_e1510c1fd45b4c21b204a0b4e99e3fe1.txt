@@ -1,0 +1,4 @@
+0: Two black small medium dot side by side?
+1: No I only have one black dot. above and to the left it is a light gray dot to the right a good bit is a med gray dot
+0: Ok take the light grey one
+1: ok

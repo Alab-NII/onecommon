@@ -1,0 +1,3 @@
+0: two med grey dots very close together
+1: bottom one is smaller
+0: yes! click that bottom one

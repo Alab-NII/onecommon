@@ -1,0 +1,5 @@
+1: very large light grey dot?
+0: I see two large light grey dots
+1: is one kind of in between two darker dots?
+0: it's slightly higher and the to the right of a small dark dot that is on the line
+1: yes click that large light one!

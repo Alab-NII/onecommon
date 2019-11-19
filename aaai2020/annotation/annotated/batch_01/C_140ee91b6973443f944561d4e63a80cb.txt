@@ -1,0 +1,11 @@
+0: I have a dark dot near 6pm
+1: i see a small medium grey dot alone
+0: i have the same grey dot alone
+1: do you have a large dark grey dot alone?
+0: no
+1: is the dark dot near 6 pm close to any other dots?
+0: yes its close to 2 other dots
+1: a small one above and to the right of it? and a larger lighter one to the left of the smaller one?
+0: my small one is to the left above it and larger light gray one is also to the left around 7 pm
+1: the way it is being shown, I am not sure if using a clock to represent would actually help us. but i think we found the one in common
+0: the light grey dot at 7 pm ? or the large dark dot at 6 pm ? which are we going with

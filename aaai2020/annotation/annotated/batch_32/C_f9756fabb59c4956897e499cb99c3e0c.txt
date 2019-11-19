@@ -1,0 +1,9 @@
+0: I see a large light grey with a smaller darker grey just below to the left
+1: there are seven dots in my circle
+0: Every circle has seven dots, be more specific please
+1: there are three dots on the lower left that are in a horizontal line
+0: is the one in the middle the darkest?
+1: yes
+0: and the on bottom the lightest?
+1: yes
+0: select the lightest one

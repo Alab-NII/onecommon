@@ -1,0 +1,7 @@
+1: two dots almost identical in size (med) but top is light and bottom is dark close together?
+0: i only have two black dots one med size the other is tiny
+1: Hmm no. Do you have 3 med grey dots of diff sizes forming a triangle?
+0: no mine are almost all the same size where is your lighter one located at that you first was talking about
+1: hmm scratch that one. do you see a very large very dark dot?
+0: yes i only have one that is bigger then the rest of mine and its dark
+1: okay cool me too. click that one!

@@ -1,0 +1,8 @@
+T2	Markable 9 34	a cluster of 4 small dots
+T4	Markable 110 127	the left-most dot
+T5	Markable 174 182	the four
+T6	Markable 196 204	that one
+T1	Markable 43 54	a shallow U
+R1	Predicative Arg1:T1 Arg2:T2	
+T7	Markable 91 103	a smile face
+T8	Markable 131 140	the smile

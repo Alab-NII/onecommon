@@ -1,0 +1,7 @@
+0: I have three dots in a semi-horizontal line on the top and the other four are clustered in the bottom of the circle.
+1: i have nothing on the right side of my circle. the ones i have a spread from top to bottom middle to left side
+0: My entire circle is full. Do you have three dots that Are somewhat vertical? The top two are as follows: A small darker dot is on the top left close to a larger med-gray dot. In a vertical below the larger med-gray dot in a slightly smaller lighter grey dot.
+1: is the dot that's lowest on your circle large and med/light grey? with a darker one the same size to it's left?
+0: I do have those two. There is also a small one that is similar in color to the darker one on the left.
+1: let's choose the light/lowest big one
+0: Got it

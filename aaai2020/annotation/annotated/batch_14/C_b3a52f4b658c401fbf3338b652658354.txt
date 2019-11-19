@@ -1,0 +1,2 @@
+0: I see one large black dot with a slightly smaller black dot diagonal from it
+1: Yes, me too. Let's choose the bigger one

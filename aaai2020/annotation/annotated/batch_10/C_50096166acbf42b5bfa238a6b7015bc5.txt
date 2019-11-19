@@ -1,0 +1,6 @@
+0: Hi! My darkest dot is in a diagonal line with two others
+1: hello , i see a tiny dark dot diagonal as well, is yours at the top of the two others?
+0: Yes. My darkest is top left. Lightest in the middle. Then a small dark on bottom right.
+1: same here. i think we should both select the tiny dark dot at the top of the line, do you agree?
+0: top left, yes.
+1: ok doing it

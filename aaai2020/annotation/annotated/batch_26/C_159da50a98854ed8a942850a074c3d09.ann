@@ -1,0 +1,9 @@
+T1	Markable 125 137	the triangle
+T2	Markable 71 85	Another 3 dots
+T3	Markable 3 9	2 dots
+T4	Markable 31 42	upper right
+T5	Markable 114 121	the top
+R1	Anaphora Arg1:T1 Arg2:T2	
+T6	Markable 164 178	the lower left
+T7	Markable 182 191	the angle
+T8	Markable 214 228	the lower left

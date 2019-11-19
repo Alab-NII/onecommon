@@ -1,0 +1,5 @@
+0: My blackest dot is my smallest
+1: I have 3 light dots and 3 dark dots
+0: Which of the light ones is the biggest
+1: the light ones and biggest is centered toward more of the middle to the right a bit. my smallest dot is also the darkest
+0: Select the biggest light

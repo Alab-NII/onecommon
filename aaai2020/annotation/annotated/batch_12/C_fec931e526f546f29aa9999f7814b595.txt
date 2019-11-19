@@ -1,0 +1,4 @@
+1: Hello, I have a pair of dots, one dark one lighter
+0: yes, the dark one is below the light one they are both large?
+1: Yes they are
+0: let's pick the dark one

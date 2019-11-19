@@ -1,0 +1,10 @@
+T1	Markable 9 17	two dots
+T2	Markable 39 42	One
+T3	Markable 90 108	a small, light dot
+T4	Markable 77 86	The other
+T5	Markable 133 148	the smaller one
+T7	Markable 173 175	it
+T8	Markable 225 240	the lighter one
+T9	Markable 46 75	a medium sized, VERY DARK dot
+R1	Predicative Arg1:T9 Arg2:T2	
+R2	Predicative Arg1:T3 Arg2:T4	

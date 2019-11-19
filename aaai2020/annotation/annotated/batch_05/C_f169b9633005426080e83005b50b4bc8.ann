@@ -1,0 +1,12 @@
+T1	Markable 10 27	one very dark dot
+T2	Markable 97 99	it
+T3	Markable 116 124	that one
+T4	Markable 235 253	a light medium dot
+T5	Markable 279 300	a very small light do
+T6	Markable 308 310	it
+T7	Markable 358 384	your lightest smallest dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T3
+T8	Markable 138 157	a light colored dot
+T9	Markable 182 207	All my light colored dots
+#1	AnnotatorNotes T5	a very small light dot

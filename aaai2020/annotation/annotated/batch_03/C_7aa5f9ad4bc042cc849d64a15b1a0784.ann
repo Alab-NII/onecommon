@@ -1,0 +1,11 @@
+T1	Markable 113 115	IT
+T2	Markable 163 180	the dark grey dot
+T3	Markable 131 147	another grey dot
+T4	Markable 241 249	THAT ONE
+T5	Markable 204 221	A LIGHT GREY SPOT
+T6	Markable 17 32	TWO BIG CIRCLES
+T7	Markable 47 62	ONE DARKER GREY
+T8	Markable 84 96	A LIGHT GREY
+R1	Anaphora Arg1:T1 Arg2:T7	
+T9	Markable 275 277	IT
+T10	Markable 332 350	the dark grey spot

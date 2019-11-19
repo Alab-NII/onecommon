@@ -1,0 +1,7 @@
+1: i have one lone med gray dot to the left center
+0: do you see 4 dark ones going down in line? zig zag? I do have a med/grey one slightly larger to the left of the top of the line i speak of
+1: yes the are all about the same size and color?
+0: yep the third one down is slightly larger... let's choose the med grey lonely one?
+1: yes lets choose the 3rd one
+0: wait the third one down the line of the same color?
+1: yes

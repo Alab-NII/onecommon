@@ -1,0 +1,5 @@
+1: Medium sized black for, above and to the right are two small dots
+0: I got a small light gray dot with a large black dot to the left of it
+1: I do not see yours
+0: I got the medium black dot
+1: Click that

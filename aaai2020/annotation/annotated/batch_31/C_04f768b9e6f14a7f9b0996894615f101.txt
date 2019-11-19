@@ -1,0 +1,4 @@
+0: I have just one black dot and it is medium size
+1: i see that select it
+0: Does it have a close bigger one below it to the left
+1: yes it does

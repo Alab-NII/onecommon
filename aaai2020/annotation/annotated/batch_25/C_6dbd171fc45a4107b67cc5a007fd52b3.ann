@@ -1,0 +1,6 @@
+T1	Markable 10 39	a lonely small light grey dot
+T2	Markable 99 109	other dots
+T3	Markable 122 124	it
+T4	Markable 137 139	it
+T5	Markable 57 59	it
+R1	Anaphora Arg1:T4 Arg2:T3	

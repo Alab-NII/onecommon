@@ -1,0 +1,4 @@
+0: I have three large dark gray dots
+1: I have 4 black dots of the same size with a smaller lighter one under the second from the left.
+0: I have a lighter smaller dots under a black dot, the smaller dot is to the right and below of two of my black dots
+1: pick the light one under the black ones

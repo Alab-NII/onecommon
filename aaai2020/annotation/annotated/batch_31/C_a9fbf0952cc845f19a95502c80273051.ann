@@ -1,0 +1,8 @@
+T1	Markable 10 27	a cluster of dots
+T2	Markable 56 63	The one
+T3	Markable 127 133	itself
+T4	Markable 199 201	it
+T5	Markable 164 183	a smaller light one
+T6	Markable 236 249	the large one
+T7	Markable 107 115	that one
+R1	Anaphora Arg1:T3 Arg2:T7	

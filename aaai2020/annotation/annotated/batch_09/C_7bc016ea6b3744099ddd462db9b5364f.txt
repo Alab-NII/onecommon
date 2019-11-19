@@ -1,0 +1,4 @@
+0: I have one black dot with a small lighter one below it and to the right
+1: Do you have a line that slopes to the left with the middle dot being the largest and darkest?
+0: yes
+1: K click the darkest largest one

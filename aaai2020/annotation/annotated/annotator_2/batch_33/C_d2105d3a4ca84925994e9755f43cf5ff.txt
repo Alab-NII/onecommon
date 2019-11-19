@@ -1,0 +1,4 @@
+0: 3 dots close together, medium sized all same color
+1: Do they form a capital letter L?
+0: sort of, the bottom right one is lower
+1: Yes. Let's pick that bottom right one.

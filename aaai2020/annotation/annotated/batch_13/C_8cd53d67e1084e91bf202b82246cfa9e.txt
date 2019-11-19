@@ -1,0 +1,4 @@
+0: triangle with the top point being the largest and medium in shade?
+1: Is there a black dot to the left and a lighter gray dot to the right.
+0: yes click the black dot
+1: ok

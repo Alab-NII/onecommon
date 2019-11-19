@@ -1,0 +1,6 @@
+1: DO you have a triangle shape with a dot of each color?
+0: yes over on the upper right hand corner
+1: yes. left most dot is the palest?
+0: yes
+1: want to select that dot?
+0: yes

@@ -1,0 +1,12 @@
+T1	Markable 10 47	only light grey and regular grey dots
+T2	Markable 58 64	a line
+T3	Markable 79 93	two light grey
+T4	Markable 143 160	3 light grey dots
+T5	Markable 215 228	a smaller one
+T6	Markable 269 273	they
+T7	Markable 256 268	a larger one
+T8	Markable 310 325	the smaller one
+T9	Markable 68 74	2 grey
+A1	All-Referents T1
+T10	Markable 161 177	one medium sized
+R1	Anaphora Arg1:T6 Arg2:T4	

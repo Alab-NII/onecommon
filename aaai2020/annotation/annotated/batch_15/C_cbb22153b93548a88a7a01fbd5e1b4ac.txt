@@ -1,0 +1,4 @@
+1: I have 1 tiny pure black dot
+0: do you have this tiny dot in line with two other black dots bigger
+1: yeah
+0: okay let us select this tiny dark dot

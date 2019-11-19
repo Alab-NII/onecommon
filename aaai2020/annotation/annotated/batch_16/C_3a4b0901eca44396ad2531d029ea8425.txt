@@ -1,0 +1,4 @@
+1: I only have one of the smallest size dots. It is medium grey?
+0: I see a bunch of very light grey medium size dots but in the middle of them all is a tiny grey one that is a shade darker
+1: Yes! Shall we select the tiny one?
+0: yes let's choose the tiny one

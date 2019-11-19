@@ -1,0 +1,4 @@
+0: Do you see a large light gray dot by itself
+1: Yes. It's near the bottom of my circle to the right.
+0: so is mine
+1: Okay, should we pick that one?

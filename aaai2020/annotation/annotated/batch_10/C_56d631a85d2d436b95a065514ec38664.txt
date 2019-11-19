@@ -1,0 +1,6 @@
+0: I have a cluster of dots. A black dot is in the middle and a very tiny medium gray dot is slightly above the others.
+1: all of mine are black except one large grey
+0: I think I have the large light gray too. Is it to the left and slightly above a medium black dot?
+1: yes
+0: Pick the big light gray dot?
+1: sounds good

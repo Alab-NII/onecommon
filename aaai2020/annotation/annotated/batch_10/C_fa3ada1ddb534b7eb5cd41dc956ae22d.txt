@@ -1,0 +1,5 @@
+0: On the far top right of mine i see two larger and near black dots
+1: yes. i see that too, the second largest is just above a lighter smaller dot. confirm?
+0: Correct. But which one of the darker dots should we select?
+1: the darkest for me is on the left. shall we select the darkest?
+0: Same. Let's do it

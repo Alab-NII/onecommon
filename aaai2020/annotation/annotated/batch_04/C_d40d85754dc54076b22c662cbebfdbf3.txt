@@ -1,0 +1,5 @@
+0: medium sized black dot by itself at 6 o'clock?
+1: I have a small darker dot at 3 o'clock
+0: small black dot at 8 oclock?
+1: medium size at 8
+0: ok click that one

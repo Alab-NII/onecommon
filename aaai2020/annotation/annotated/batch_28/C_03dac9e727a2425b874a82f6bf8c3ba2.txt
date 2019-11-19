@@ -1,0 +1,4 @@
+1: do you see a smallish black dot with a slightly smaller light grey dot to its right
+0: do you have two dark med dots and a dark grey small
+1: yes, lets select the bottom one
+0: okay

@@ -1,0 +1,9 @@
+1: i see a really dark dot, with a slightly larger, slightly lighter dot immediately above and to the left
+0: Are they almost vertical, or more like a diagonal line?
+1: diagonal, but pretty close, i actually see two that kinda match that description, theres another really dark dot about the same size as the darker of this pair, equally left as it is below those two
+0: I don't see that.
+1: do u have a black dot pretty much by itself?
+0: No. I have a large gray dot by itself/
+1: i have no large dots really
+0: Hmm... Do you have a tiny medium gray dot by itself?
+1: yeah

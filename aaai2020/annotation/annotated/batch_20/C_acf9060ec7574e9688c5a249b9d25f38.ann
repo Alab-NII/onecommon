@@ -1,0 +1,17 @@
+T1	Markable 14 36	a large light gray dot
+T2	Markable 65 82	a large black one
+T3	Markable 183 191	that one
+T4	Markable 337 345	that one
+T5	Markable 377 396	that same large one
+T6	Markable 434 436	it
+T7	Markable 533 545	the dark one
+T8	Markable 113 133	a medium/small black
+A1	No-Referent T3
+T9	Markable 202 216	a medium black
+T10	Markable 253 257	Mine
+T11	Markable 305 323	a small light grey
+T12	Markable 351 363	a dark small
+T13	Markable 411 419	the gray
+R1	Anaphora Arg1:T6 Arg2:T13	
+T14	Markable 500 523	light grey medium/small
+T15	Markable 605 614	the black

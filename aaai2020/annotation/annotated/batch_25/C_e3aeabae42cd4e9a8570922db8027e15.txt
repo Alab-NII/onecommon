@@ -1,0 +1,4 @@
+0: do you see a light gray dot with a slightly darker dot to the right and slightly lower?
+1: yes
+0: choose the lighter dot?
+1: ok lets do it

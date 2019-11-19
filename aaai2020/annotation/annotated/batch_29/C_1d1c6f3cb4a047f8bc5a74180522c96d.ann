@@ -1,0 +1,4 @@
+T1	Markable 22 28	itself
+T2	Markable 33 53	Lone giant black dot
+T4	Markable 3 18	large black dot
+R1	Anaphora Arg1:T1 Arg2:T4	

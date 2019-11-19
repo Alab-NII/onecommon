@@ -1,0 +1,10 @@
+T1	Markable 52 64	4 other dots
+T2	Markable 10 37	a very small light grey dot
+T3	Markable 151 172	a tiny light grey dot
+T4	Markable 68 76	Two dots
+T5	Markable 124 132	the eyes
+R1	Predicative Arg1:T5 Arg2:T4	
+T6	Markable 138 144	a nose
+R2	Predicative Arg1:T3 Arg2:T6	
+T7	Markable 189 193	what
+T8	Markable 209 217	the nose

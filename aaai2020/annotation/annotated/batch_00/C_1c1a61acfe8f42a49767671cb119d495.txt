@@ -1,0 +1,6 @@
+1: i have two large dots. the upper left is a slightly lighter gray and slightly bigger than the one to its lower right.
+0: i see two points black bigger than the others
+1: i don't have two large black dots.
+0: really i think i see the same dots that see you
+1: okay, so lets click the upper left one that's bigger and darker gray
+0: ok

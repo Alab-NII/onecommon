@@ -1,0 +1,6 @@
+0: tiny light grey toward the top?
+1: i see two dots of the same size but opposite shades almost vertical to one another.
+0: no i do not see that, do you have a slightly larger than tiny black dot?
+1: towards the bottom left. it forms a triangle with two other larger and lighter dots.
+0: yes click the dark one
+1: all right.

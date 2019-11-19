@@ -1,0 +1,4 @@
+1: is your largest dot grey at the top
+0: My largest dot is light grey. Does it have a dark dot to the right and slightly lower?
+1: yes. pick the largest grey
+0: ok

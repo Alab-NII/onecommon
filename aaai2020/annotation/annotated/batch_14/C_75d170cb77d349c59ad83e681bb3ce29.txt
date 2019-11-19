@@ -1,0 +1,5 @@
+1: Mine all form an arrow but one...
+0: do you have 2 light color dot, the lightest one is slightly to the right and above the other one?
+1: Yes...and there is larger darker one almost right next to the lighter one to the left?
+0: yes, let's choose the light one?
+1: Ok

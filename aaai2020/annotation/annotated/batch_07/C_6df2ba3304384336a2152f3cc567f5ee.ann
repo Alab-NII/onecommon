@@ -1,0 +1,12 @@
+T1	Markable 67 84	mostly light dots
+T2	Markable 122 128	a line
+T3	Markable 96 118	three medium grey dots
+T4	Markable 165 169	they
+T5	Markable 200 207	big dot
+T6	Markable 190 199	small dot
+T7	Markable 213 222	small dot
+T8	Markable 255 259	they
+T9	Markable 310 324	the middle dot
+T10	Markable 342 346	that
+T11	Markable 9 27	a medium dark spot
+R1	Predicative Arg1:T2 Arg2:T3	

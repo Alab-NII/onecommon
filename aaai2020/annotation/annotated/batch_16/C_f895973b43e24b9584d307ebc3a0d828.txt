@@ -1,0 +1,6 @@
+1: Do you a pair of medium grey dots of equal size and similar color? Diagonal with top on left.
+0: I see a couple very tiny dots, one far left and one far right
+1: They are the smallest for me. Do they have a large grey dot below and to right continuing the line?
+0: Eh, I do see the pair of medium ones that you mention now. The one that is higher up and to the left is lighter?
+1: No, mine have the top darker. But I have a pair of larger dots where the top is lighter but parallel to the first diagonal.
+0: Take the lightest of those

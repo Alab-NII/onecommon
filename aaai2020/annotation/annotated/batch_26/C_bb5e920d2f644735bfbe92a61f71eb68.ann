@@ -1,0 +1,6 @@
+T1	Markable 10 32	a group of 2 grey dots
+T2	Markable 49 62	The lower one
+T3	Markable 74 78	They
+T4	Markable 138 151	the lower one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T5	Markable 116 121	those

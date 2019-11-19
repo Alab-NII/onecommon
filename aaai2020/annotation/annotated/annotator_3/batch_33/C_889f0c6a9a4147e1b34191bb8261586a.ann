@@ -1,0 +1,13 @@
+T1	Markable 67 78	the cluster
+T3	Markable 89 121	a cluster of lighter shaded dots
+T4	Markable 135 152	three darker dots
+T5	Markable 180 191	the cluster
+T6	Markable 195 199	they
+T7	Markable 10 23	4 larger dots
+T8	Markable 47 53	only 1
+R1	Anaphora Arg1:T1 Arg2:T7	
+R2	Anaphora Arg1:T6 Arg2:T5	
+T2	Markable 228 249	medium size and shade
+T9	Markable 251 271	larger lighter shade
+T10	Markable 273 301	medium slightly darker shade
+T11	Markable 386 397	the highest

@@ -1,0 +1,5 @@
+1: I have a large dark dot near the bottom left
+0: i have 2 tiny dots one is above and to the right of the other
+1: Okay, let's go with yours. Is the bottom left one slightly darker?
+0: yep
+1: Okay, lets go with the bottom one of the two.

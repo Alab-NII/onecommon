@@ -1,0 +1,22 @@
+T1	Markable 17 38	a pale gray small dot
+T2	Markable 56 70	a few of those
+T3	Markable 135 158	two larger lighter dots
+T4	Markable 104 115	a black dot
+T5	Markable 162 166	it's
+T6	Markable 200 204	it's
+T7	Markable 219 236	a small black dot
+T8	Markable 216 218	it
+T10	Markable 269 281	none of that
+T12	Markable 305 322	a small black dot
+T13	Markable 333 335	it
+T14	Markable 82 98	a tight grouping
+R1	Anaphora Arg1:T5 Arg2:T4	
+T15	Markable 176 196	a larger lighter dot
+R2	Anaphora Arg1:T6 Arg2:T4	
+R3	Predicative Arg1:T7 Arg2:T8	
+A1	No-Referent T10
+T9	Markable 290 294	mine
+A2	All-Referents T9
+T11	Markable 299 301	it
+R4	Predicative Arg1:T12 Arg2:T11	
+R5	Anaphora Arg1:T13 Arg2:T11	

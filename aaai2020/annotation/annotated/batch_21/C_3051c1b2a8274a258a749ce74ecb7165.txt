@@ -1,0 +1,5 @@
+0: do you see one smaller dark dot above 2 larger dots, the larger dots are to the right and left below
+1: No, I don't have that.
+0: 2 medium dots, both moderate grey, one above the other not far from each other, top one is just slightly left of bottom?
+1: Yes, I see that.
+0: click on the top one

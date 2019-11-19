@@ -1,0 +1,3 @@
+0: do you have two dots in the middle
+1: one bigger and darker on bottom?
+0: yes, click that one

@@ -1,0 +1,11 @@
+T1	Markable 3 28	One medium size black dot
+T2	Markable 41 63	a smaller, lighter one
+T3	Markable 70 72	it
+T4	Markable 172 180	anything
+T5	Markable 211 234	a small, light grey dot
+T6	Markable 293 306	the small one
+T7	Markable 117 121	mine
+A1	No-Referent T4
+T8	Markable 240 264	a larger, same shade dot
+T9	Markable 268 271	its
+R1	Anaphora Arg1:T9 Arg2:T5	

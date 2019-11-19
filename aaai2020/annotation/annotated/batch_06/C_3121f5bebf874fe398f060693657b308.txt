@@ -1,0 +1,5 @@
+0: Do you see one Large, dark dot with a medium color, medium size dot near it?
+1: can you see on dark dot on 4 o clock position to the edge of circle
+0: I can't see that one
+1: yes
+0: You can see the large dot I mentioned earlier?

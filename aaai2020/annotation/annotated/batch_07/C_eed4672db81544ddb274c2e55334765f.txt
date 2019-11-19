@@ -1,0 +1,5 @@
+1: ok i see a few really dark dots and a few medium, no light ones.
+0: I have a large black dot with a small black dot to the upper left of it
+1: i dont really have any large black dots, but i have a few small black dots, the small black dots i see, one has another black dot about the same size, below it and a hair to the right. on my screen it looks to be about an inch away
+0: I believe I have the same ones. SHould we pick the top one?
+1: ok

@@ -1,0 +1,7 @@
+1: two light grey large dots almost the same size and top is up and to the right a little?
+0: Do you see a darker grey large dot at roughly 2 o'clock
+1: you cant use time. your our dots are on different locations of our circles. Are there any identifying dots surrounding it
+0: There is a smaller light grey dot below it and slightly left
+1: No. Do you see a pair of large medium grey dots that are almost identical in size?
+0: One slightly higher on the right?
+1: Yes Click the large dot all the way to the left!

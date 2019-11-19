@@ -1,0 +1,11 @@
+T1	Markable 31 42	a long line
+T2	Markable 15 21	5 dots
+T4	Markable 130 132	It
+T5	Markable 88 102	the bottom one
+T6	Markable 205 221	the lightest one
+R1	Predicative Arg1:T1 Arg2:T2	
+T7	Markable 56 57	4
+T8	Markable 70 82	a part of it
+T3	Markable 137 156	a larger darker dot
+T9	Markable 169 171	it
+R2	Anaphora Arg1:T9 Arg2:T4	

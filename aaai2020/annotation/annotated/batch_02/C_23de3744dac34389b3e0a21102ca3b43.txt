@@ -1,0 +1,6 @@
+0: small black dot?
+1: is there a similar size grey dot just below it?
+0: yeah, and a large light grey above?
+1: I can see anything above, but another medium grey to the left of the lower one
+0: ok, lets get the black dot
+1: got it

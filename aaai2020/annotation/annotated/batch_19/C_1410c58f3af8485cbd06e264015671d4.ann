@@ -1,0 +1,8 @@
+T1	Markable 9 25	a large gray dot
+T5	Markable 102 125	A small medium gray one
+T6	Markable 130 153	a larger same color dot
+T7	Markable 186 188	it
+T8	Markable 243 257	the larger one
+T2	Markable 66 85	a cluster of 2 dots
+R1	Anaphora Arg1:T7 Arg2:T5	
+T3	Markable 202 206	what

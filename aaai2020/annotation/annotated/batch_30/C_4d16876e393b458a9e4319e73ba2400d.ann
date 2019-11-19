@@ -1,0 +1,9 @@
+T2	Markable 121 128	the one
+T3	Markable 97 100	One
+T4	Markable 179 183	that
+T5	Markable 194 202	the line
+T6	Markable 3 19	Three small dots
+T1	Markable 74 82	two dots
+T7	Markable 132 135	its
+R1	Anaphora Arg1:T7 Arg2:T3	
+T8	Markable 237 262	the middle (smallest) dot

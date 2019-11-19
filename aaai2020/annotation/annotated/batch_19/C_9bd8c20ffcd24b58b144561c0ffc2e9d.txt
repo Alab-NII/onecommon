@@ -1,0 +1,3 @@
+0: Do you have a tiniest sized black Dot and to the left of it a small black dots that is slightly higher
+1: yes, I have a small black dot in the center, and a little bigger black dot to the upper left of it
+0: Take tiniest sized black

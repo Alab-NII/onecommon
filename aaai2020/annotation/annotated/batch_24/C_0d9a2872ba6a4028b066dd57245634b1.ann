@@ -1,0 +1,12 @@
+T1	Markable 37 69	a slightly smaller dark grey dot
+T2	Markable 103 105	it
+T3	Markable 14 31	a large black dot
+T4	Markable 204 221	a larger dark dot
+T6	Markable 184 199	the smaller set
+T7	Markable 126 152	a triangle of smaller dots
+T8	Markable 157 182	a triangle of larger dots
+T10	Markable 241 257	smaller grey dot
+T11	Markable 315 328	the light one
+R1	Anaphora Arg1:T2 Arg2:T3	
+R2	Anaphora Arg1:T6 Arg2:T7	
+T5	Markable 269 294	smaller medium color grey

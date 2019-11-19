@@ -1,0 +1,20 @@
+T1	Markable 10 35	two small light gray dots
+T2	Markable 37 40	one
+T3	Markable 83 108	one really small grey dot
+T4	Markable 233 243	each other
+T5	Markable 184 204	two larger dark dots
+T6	Markable 289 293	them
+T7	Markable 282 285	one
+T8	Markable 250 275	those two large dark dots
+T9	Markable 299 317	a small light gray
+T10	Markable 376 394	the small gray dot
+T12	Markable 431 446	any of the ones
+T13	Markable 476 510	that really light really small one
+T14	Markable 115 118	one
+R1	Anaphora Arg1:T4 Arg2:T5	
+T15	Markable 217 227	a diagonal
+R2	Predicative Arg1:T15 Arg2:T5	
+R3	Anaphora Arg1:T6 Arg2:T8	
+T16	Markable 322 342	a medium medium gray
+T11	Markable 346 349	its
+R4	Anaphora Arg1:T11 Arg2:T7	

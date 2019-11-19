@@ -1,0 +1,12 @@
+T1	Markable 31 48	a large light one
+T2	Markable 128 131	one
+T3	Markable 158 167	the other
+T4	Markable 112 122	each other
+T5	Markable 191 198	the one
+T6	Markable 220 227	the two
+T7	Markable 243 246	one
+T8	Markable 287 301	the higher one
+T9	Markable 3 24	Small medium gray dot
+T10	Markable 72 93	two medium sized dots
+R1	Anaphora Arg1:T4 Arg2:T10	
+A1	No-Referent T5

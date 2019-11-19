@@ -1,0 +1,5 @@
+0: do you see 2 tiny dots- one is very light gray and the other is a medium gray?
+1: yes, but the lightest is at the bottom left of the other?
+0: yes, those 2 :) do you want to pick the light one or the dark
+1: lets pick the lighter one
+0: perfect!

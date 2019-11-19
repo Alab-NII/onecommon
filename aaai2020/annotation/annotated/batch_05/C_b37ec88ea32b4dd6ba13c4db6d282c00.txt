@@ -1,0 +1,4 @@
+1: I have one little black dot that is just down and to the right of a large dark gray dot.
+0: i see three dots in a triangle right side darker medium circle on bottom of triangle
+1: I don't have that. I have two very large dots almost right next to each other. The one on the left is just slightly darker.
+0: no lets click the one little black do just down and to right of large dark gray dot!

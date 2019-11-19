@@ -1,0 +1,9 @@
+1: Hi, I have one larger dot that's lighter than the rest.
+0: Is there a small dark dot below it?
+1: No, there are 2 dots to the right side of it
+0: I don't see that.
+1: I have a large dot, medium gray with a small dot below it
+0: Yes - I see that. Is the dot below darker?
+1: Yes it is
+0: Shall we choose the smaller dark dot?
+1: Sure that sounds good

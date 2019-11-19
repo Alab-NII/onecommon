@@ -1,0 +1,6 @@
+1: hello
+0: hi i have a large med/grey one, with a smaller same color below to it's left...
+1: is the larger dot at about the 10 o'clock position and pretty close to the dotted line?
+0: yes... there is a darker grey one just slightly smaller directly to it's right about two inches away
+1: I think we have the 2 gray dots at least in common
+0: let's choose the large med/grey one?

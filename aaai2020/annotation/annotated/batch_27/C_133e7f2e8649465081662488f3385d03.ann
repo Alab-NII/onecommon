@@ -1,0 +1,5 @@
+T1	Markable 40 56	a close triangle
+T2	Markable 58 74	one almost black
+T3	Markable 108 119	the darkest
+T4	Markable 3 31	three almost same sized dots
+R1	Predicative Arg1:T1 Arg2:T4	

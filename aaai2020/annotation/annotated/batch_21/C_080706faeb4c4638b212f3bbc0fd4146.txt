@@ -1,0 +1,4 @@
+1: U see 2 similar size dots. Lower (slightly right) is black The upper (slight left) is grey. Also i have 3 tiny dots
+0: the similar dots are kind of off by themselves?
+1: sorta. they are almost on top of each other. angled in a way
+0: yes let's choose the dark one

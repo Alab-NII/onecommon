@@ -1,0 +1,4 @@
+T1	Markable 10 21	a black dot
+T2	Markable 89 97	that one
+T3	Markable 44 52	its self
+R1	Anaphora Arg1:T3 Arg2:T1	

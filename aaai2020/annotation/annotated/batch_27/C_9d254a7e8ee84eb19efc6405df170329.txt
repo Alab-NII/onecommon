@@ -1,0 +1,8 @@
+0: i have a tiny black dot to the right and above it is a tiny gray dot and above that there is a med size gray dot
+1: I see a small medium color grey dot with a larger dark dot down and to the left of it, and a small but slightly larger dark dot down and to the right of the original grey dot
+0: i dont see that sorry
+1: yea i dont see what you said, I also see a very large medium color grey dot with a medium same color dot up and to the left of that dot, and a small same color dot down and to the left of the original said big grey dot
+0: do you have any black dots on the left side
+1: I see two one is rather large and the other is slightly less dark and slightly smaller down and to the left of it
+0: lets pick the smaller one down to the left
+1: ok

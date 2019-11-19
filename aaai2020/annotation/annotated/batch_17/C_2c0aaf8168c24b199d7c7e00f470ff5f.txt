@@ -1,0 +1,5 @@
+0: i see a black dot, small with a large dark gray dot up and to the left
+1: i have a dark grey dot w/ a lighter one to the right of it
+0: i have a dot that looks black with a lighter one to the right, both the same size
+1: me too. select the darker one?
+0: yes, OK

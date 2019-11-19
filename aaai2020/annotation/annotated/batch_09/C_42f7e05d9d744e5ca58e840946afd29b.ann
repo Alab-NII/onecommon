@@ -1,0 +1,8 @@
+T1	Markable 59 70	large black
+T2	Markable 10 26	a line of 3 dots
+T3	Markable 100 104	they
+T4	Markable 161 184	the 1st large black dot
+T5	Markable 72 83	large black
+T6	Markable 84 96	smaller gray
+R1	Anaphora Arg1:T3 Arg2:T2	
+T7	Markable 137 141	Same

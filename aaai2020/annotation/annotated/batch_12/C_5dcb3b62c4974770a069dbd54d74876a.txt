@@ -1,0 +1,5 @@
+1: I have a large dark dot with a slightly smaller dark dot at it's 5 o'clock.
+0: two dots almost exactly the same size that are opposite in shade and both medium sized?
+1: I see them. Lets pick the darker one
+0: k is the darker one almost black?
+1: yes

@@ -1,0 +1,2 @@
+0: do you see a tiny grey dot 4pm from a big black dot?
+1: yes lets pick the small one

@@ -1,0 +1,9 @@
+T1	Markable 9 25	a faint grey dot
+T2	Markable 80 95	a med black dot
+T3	Markable 57 74	a large black dot
+T4	Markable 125 134	something
+T6	Markable 236 238	it
+T7	Markable 263 283	the larger black dot
+T5	Markable 186 190	this
+R1	Anaphora Arg1:T5 Arg2:T4	
+T8	Markable 195 198	its

@@ -1,0 +1,4 @@
+0: Small black with an even smaller light grey up and to its left?
+1: yes i see both, wanna select the black one?
+0: Ok, sounds good!
+1: we should just wait until the remaining time is less than 5 minutes

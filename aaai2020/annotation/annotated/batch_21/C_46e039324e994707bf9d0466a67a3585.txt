@@ -1,0 +1,4 @@
+0: do you have 3 grey dots together, larger one in the center, small on to the lower left?
+1: yes
+0: lets choose the larger gray one
+1: ok

@@ -1,0 +1,5 @@
+1: do u have three dark dots in a triangle? all different sized dots
+0: I have a tiny black dot and a tiny gray dot
+1: i do not
+0: I do have three black dots in a triangle, one large, one medium, one small
+1: yes select the large one

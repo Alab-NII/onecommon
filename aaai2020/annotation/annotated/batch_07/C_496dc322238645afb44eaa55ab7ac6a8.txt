@@ -1,0 +1,5 @@
+1: I have one light grey dot toward the bottom of my circle, all the rest of my dots are darker
+0: i have the light one low too... is it really small?
+1: Yes, much smaller than the rest
+0: that's the one we should choose
+1: Alright sounds good

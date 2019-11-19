@@ -1,0 +1,9 @@
+T1	Markable 37 47	each other
+T2	Markable 61 69	left one
+T3	Markable 102 111	the other
+T4	Markable 156 160	that
+T5	Markable 169 182	that left one
+T6	Markable 10 16	2 dots
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 83 86	one
+T8	Markable 116 119	one

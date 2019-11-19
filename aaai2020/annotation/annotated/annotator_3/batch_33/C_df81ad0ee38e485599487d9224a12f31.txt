@@ -1,0 +1,4 @@
+1: Do you have one large black dot
+0: I see a large dark dot off to itself.
+1: If that is one of the largest dots and darkest in color, lets select that one.
+0: Sounds good, left's pick that one.

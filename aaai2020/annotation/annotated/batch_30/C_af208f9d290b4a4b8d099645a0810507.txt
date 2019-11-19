@@ -1,0 +1,7 @@
+1: Do you see a small grey dot at the top
+0: I see a medium size medium gray with another same color small down and to the left
+1: click on it
+0: Tissue there two black dots off to the left
+1: yes i see it
+0: Do we pick the tiny gray dot on top
+1: yes lets click it

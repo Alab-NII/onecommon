@@ -1,0 +1,11 @@
+T1	Markable 10 25	the highest one
+T2	Markable 49 57	two dots
+T3	Markable 106 127	a smaller lighter one
+T4	Markable 72 83	each other,
+T5	Markable 143 158	the lighter one
+T6	Markable 189 202	a similar one
+T7	Markable 235 237	It
+T8	Markable 265 292	the lower bigger darker one
+R1	Anaphora Arg1:T4 Arg2:T2	
+T9	Markable 84 94	darker one
+R2	Anaphora Arg1:T7 Arg2:T5	

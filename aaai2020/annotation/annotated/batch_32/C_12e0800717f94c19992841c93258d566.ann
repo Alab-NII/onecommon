@@ -1,0 +1,6 @@
+T1	Markable 36 56	a darker smaller dot
+T2	Markable 71 73	it
+T3	Markable 10 30	a large med gray dot
+T4	Markable 126 141	the smaller one
+R1	Anaphora Arg1:T2 Arg2:T3	
+T5	Markable 99 111	that pattern

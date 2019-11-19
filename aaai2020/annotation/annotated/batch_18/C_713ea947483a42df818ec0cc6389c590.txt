@@ -1,0 +1,6 @@
+1: DO you have 3 dots in a triangle shape?
+0: yes. one of each size
+1: yes. the dot on the right is the smallest and palest?
+0: yes
+1: want to select the smallest lightest dot on the right?
+0: yes

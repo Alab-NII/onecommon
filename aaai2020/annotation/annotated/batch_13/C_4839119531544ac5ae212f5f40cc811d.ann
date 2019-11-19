@@ -1,0 +1,32 @@
+T1	Markable 9 15	2 dots
+T2	Markable 113 122	four dots
+T4	Markable 211 215	line
+T5	Markable 142 157	a vertical line
+T6	Markable 163 179	a light gray one
+T7	Markable 254 262	that one
+T8	Markable 278 283	yours
+T9	Markable 303 319	2 two black dots
+T10	Markable 321 325	They
+T11	Markable 345 349	They
+T12	Markable 406 416	each other
+T13	Markable 444 448	they
+T14	Markable 523 543	the bottom black dot
+T15	Markable 491 507	a small gray dot
+T16	Markable 560 576	my top black dot
+T17	Markable 552 556	that
+T18	Markable 592 611	that small gray dot
+T19	Markable 669 687	that tiny gray dot
+T20	Markable 32 47	The bottom left
+T21	Markable 65 80	the upper right
+R1	Predicative Arg1:T5 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T5	
+A1	No-Referent T7
+A2	No-Referent T8
+R3	Anaphora Arg1:T10 Arg2:T9	
+R4	Anaphora Arg1:T11 Arg2:T9	
+T3	Markable 381 384	the
+#1	AnnotatorNotes T3	they
+R5	Anaphora Arg1:T12 Arg2:T3	
+R6	Predicative Arg1:T16 Arg2:T17	
+T22	Markable 626 653	lighter and bigger gray dot
+T23	Markable 712 732	that little gray dot

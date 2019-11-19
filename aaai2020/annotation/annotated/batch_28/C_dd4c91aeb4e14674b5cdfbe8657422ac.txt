@@ -1,0 +1,4 @@
+1: small dark circle far right by itself
+0: is it black and kind of above the other dots?
+1: its black kinda directly across from a larger dark dot
+0: yes! click that small black one!

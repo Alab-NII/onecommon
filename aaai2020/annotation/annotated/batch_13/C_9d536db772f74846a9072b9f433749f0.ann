@@ -1,0 +1,7 @@
+T1	Markable 45 71	a slightly larger gray dot
+T2	Markable 116 149	a slightly larger and lighter dot
+T3	Markable 87 100	one black dot
+T4	Markable 9 32	a medium sized dark dot
+T5	Markable 169 176	our dot
+T6	Markable 162 168	That's
+R1	Predicative Arg1:T5 Arg2:T6	

@@ -1,0 +1,8 @@
+T1	Markable 137 139	it
+T2	Markable 176 188	big grey one
+T3	Markable 14 38	a large dark grey circle
+T4	Markable 44 63	two smaller circles
+T5	Markable 67 70	its
+R1	Anaphora Arg1:T5 Arg2:T3	
+T6	Markable 90 108	smaller dark black
+T7	Markable 150 163	that big grey

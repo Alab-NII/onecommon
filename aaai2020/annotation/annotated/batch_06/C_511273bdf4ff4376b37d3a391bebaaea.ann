@@ -1,0 +1,13 @@
+T2	Markable 66 75	four dots
+T3	Markable 12 48	One medium sized very light grey dot
+T4	Markable 122 128	7 dots
+T5	Markable 159 177	the light grey dot
+T6	Markable 314 317	one
+T7	Markable 257 276	the other four dots
+T8	Markable 354 373	that light grey one
+T1	Markable 92 95	all
+T9	Markable 220 235	four darks dots
+T10	Markable 303 304	3
+T11	Markable 129 131	on
+#1	AnnotatorNotes T11	one
+A1	All-Referents T4

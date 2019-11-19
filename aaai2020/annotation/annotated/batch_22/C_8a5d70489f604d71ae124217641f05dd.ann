@@ -1,0 +1,16 @@
+T1	Markable 17 27	each other
+T2	Markable 29 37	left one
+T3	Markable 74 96	Another pair of 2 dots
+T4	Markable 104 114	each other
+T5	Markable 158 165	the dot
+T6	Markable 210 214	that
+T7	Markable 232 234	it
+T8	Markable 301 313	the tiny dot
+T9	Markable 317 329	the triangle
+T10	Markable 3 9	2 dots
+R1	Anaphora Arg1:T1 Arg2:T10	
+R2	Anaphora Arg1:T4 Arg2:T3	
+T11	Markable 116 125	top right
+T12	Markable 172 181	top right
+T13	Markable 196 206	lower left
+T14	Markable 266 276	a tiny dot

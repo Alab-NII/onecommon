@@ -1,0 +1,9 @@
+T1	Markable 9 26	two diagonal dots
+T2	Markable 43 53	each other
+T3	Markable 55 58	one
+T4	Markable 91 94	its
+T5	Markable 231 247	the big dark dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T6	Markable 119 123	they
+T7	Markable 147 169	the darkest shade ones
+T8	Markable 192 196	what

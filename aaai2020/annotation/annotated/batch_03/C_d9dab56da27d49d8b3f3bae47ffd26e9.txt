@@ -1,0 +1,3 @@
+0: do you see a large lightest gray dot kinda off by itself
+1: yeah
+0: okay choose that one

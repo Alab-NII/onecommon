@@ -1,0 +1,5 @@
+0: i have a very tiny light grey dot near a larger medium grey dot
+1: do you have a dark medium dot touching the boundary
+0: we don't have the same circles. they overlap. we have to find a common dot. do you have a large light grey dot with a smaller darker dot to the right and slightly higher?
+1: yes
+0: lets pick the large lighter grey one

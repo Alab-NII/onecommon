@@ -1,0 +1,5 @@
+1: larger dark with small light to right and small dark below?
+0: I dont have that... I only have two light gray dots and they are next to each other...one on the right is larger.
+1: is the one on the right darker?
+0: I am sorry the one on the left is bigger... i couldn't send a message to correct that
+1: ok choose larger one

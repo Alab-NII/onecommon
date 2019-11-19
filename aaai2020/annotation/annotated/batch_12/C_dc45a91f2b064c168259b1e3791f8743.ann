@@ -1,0 +1,19 @@
+T1	Markable 84 98	the middle one
+T2	Markable 71 77	a line
+T3	Markable 210 226	a large gray dot
+T4	Markable 157 176	the small black one
+T5	Markable 244 246	it
+T6	Markable 325 343	the large gray dot
+T7	Markable 297 316	The small black one
+T8	Markable 348 367	the large black dot
+T9	Markable 380 382	it
+T10	Markable 281 295	two black dots
+T12	Markable 390 394	that
+T13	Markable 442 461	the small black one
+T14	Markable 12 22	black dots
+A1	Generic T14
+T15	Markable 46 52	3 dots
+R1	Predicative Arg1:T2 Arg2:T15	
+T16	Markable 231 237	the on
+#1	AnnotatorNotes T16	the one
+R2	Anaphora Arg1:T9 Arg2:T7	

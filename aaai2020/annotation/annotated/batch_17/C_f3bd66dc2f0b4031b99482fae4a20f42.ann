@@ -1,0 +1,16 @@
+T1	Markable 9 19	a dark dot
+T2	Markable 48 64	a large dark dot
+T3	Markable 83 115	a cluster of light and dark dots
+T5	Markable 68 70	it
+T6	Markable 126 142	a gray large dot
+T7	Markable 165 178	the black dot
+T8	Markable 213 222	the group
+T9	Markable 186 204	the large gray dot
+T10	Markable 251 255	they
+T11	Markable 299 303	that
+T12	Markable 319 343	the large light gray dot
+R1	Anaphora Arg1:T5 Arg2:T2	
+T4	Markable 260 265	large
+T13	Markable 267 272	small
+T14	Markable 277 282	large
+T15	Markable 372 390	The large gray dot

@@ -1,0 +1,17 @@
+T1	Markable 59 79	a light, smaller one
+T2	Markable 92 94	it
+T3	Markable 204 208	them
+T4	Markable 231 253	my large dark grey one
+T5	Markable 186 188	it
+T6	Markable 385 389	them
+T7	Markable 434 453	that tiny black dot
+T8	Markable 35 52	a large dark grey
+R1	Anaphora Arg1:T2 Arg2:T8	
+T9	None 125 126	I
+#1	AnnotatorNotes T9	Is
+T10	Markable 133 165	a nearby med sized and shade dot
+T11	Markable 222 226	that
+A1	No-Referent T11
+A2	No-Referent T5
+T12	Markable 307 323	a tiny black one
+T13	Markable 354 365	the first 2

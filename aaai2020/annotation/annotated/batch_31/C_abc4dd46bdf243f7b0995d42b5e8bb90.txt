@@ -1,0 +1,4 @@
+1: I see a lonely black dot
+0: dont have any black dots. i see a small dark grey dot. next to it on the left is a tiny light grey dot
+1: I see those. let's choose a tiny light gray dot
+0: ok

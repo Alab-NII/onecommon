@@ -1,0 +1,11 @@
+T1	Markable 9 26	a little gray dot
+T2	Markable 34 36	it
+T3	Markable 69 90	a large dark grey dot
+T4	Markable 99 101	It
+T5	Markable 222 224	it
+T7	Markable 238 249	two of them
+T8	Markable 300 315	neither of them
+T9	Markable 275 295	two little grey dots
+T10	Markable 183 185	It
+A1	No-Referent T5
+A2	No-Referent T8

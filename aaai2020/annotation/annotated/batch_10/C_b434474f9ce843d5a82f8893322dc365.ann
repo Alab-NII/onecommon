@@ -1,0 +1,12 @@
+T1	Markable 9 33	two large dark gray dots
+T2	Markable 52 62	each other
+T3	Markable 118 128	each other
+T4	Markable 166 194	the two large dark gray dots
+T5	Markable 218 235	the upper big one
+T6	Markable 246 254	that one
+T7	Markable 275 298	the large dark gray top
+R1	Anaphora Arg1:T2 Arg2:T1	
+T8	Markable 100 101	2
+R2	Anaphora Arg1:T3 Arg2:T8	
+T9	Markable 142 156	any other dots
+T10	Markable 199 214	small dark gray

@@ -1,0 +1,4 @@
+0: Do you see a large black dot?
+1: yes. close to the border
+0: Let's click that one!
+1: okay

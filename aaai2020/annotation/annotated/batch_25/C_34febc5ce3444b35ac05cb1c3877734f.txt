@@ -1,0 +1,5 @@
+1: At the top of mine I see a light grey small dot and a darker small dot down and to the right of it.
+0: are they about the same size?
+1: yes,
+0: ok I think I see it. should we pick the lighter of the two dots?
+1: yes. lets do it.

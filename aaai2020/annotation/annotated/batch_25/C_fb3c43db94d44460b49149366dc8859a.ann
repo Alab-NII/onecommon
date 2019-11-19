@@ -1,0 +1,14 @@
+T1	Markable 104 110	itself
+T2	Markable 70 88	a medium black dot
+T3	Markable 146 163	a medium grey one
+T4	Markable 178 180	it
+T5	Markable 233 247	the middle one
+T6	Markable 197 201	that
+T7	Markable 267 281	the middle one
+T8	Markable 3 12	black one
+T9	Markable 18 31	a medium grey
+R1	Anaphora Arg1:T1 Arg2:T2	
+T10	Markable 117 129	my black dot
+R2	Anaphora Arg1:T4 Arg2:T10	
+A1	No-Referent T6
+T11	Markable 212 213	3

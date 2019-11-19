@@ -1,0 +1,6 @@
+T1	Markable 50 60	a triangle
+T2	Markable 14 30	a large dark dot
+T3	Markable 76 89	the lower dot
+T4	Markable 73 75	it
+T5	Markable 93 105	the triangle
+R1	Predicative Arg1:T3 Arg2:T4	

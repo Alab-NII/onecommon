@@ -1,0 +1,6 @@
+1: I have 2 dots to the lower right same size one is darker than the other
+0: I think I see them are they very close together?
+1: yes
+0: Is the lighter one on top of the darker one?
+1: yes choose the lighter?
+0: Ok let's choose the lighter one

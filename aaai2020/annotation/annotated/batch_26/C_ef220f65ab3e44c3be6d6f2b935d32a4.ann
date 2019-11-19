@@ -1,0 +1,14 @@
+T1	Markable 15 29	a large square
+T2	Markable 79 96	a larger black do
+T3	Markable 126 138	2 light gray
+T4	Markable 71 73	it
+T5	Markable 113 115	it
+T6	Markable 174 187	the black one
+T7	Markable 229 251	the very very tiny dot
+T8	Markable 3 4	4
+R1	Predicative Arg1:T1 Arg2:T8	
+T9	Markable 33 61	very very tiny dark grey dot
+#1	AnnotatorNotes T2	a larger black dot
+R2	Anaphora Arg1:T5 Arg2:T4	
+A1	No-Referent T6
+T10	Markable 202 221	the two light greys

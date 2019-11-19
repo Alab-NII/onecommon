@@ -1,0 +1,4 @@
+1: Three black dots form a triangle
+0: 3 very dark dots forming a triangle?
+1: Let us select the one at the topmost
+0: k

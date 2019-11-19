@@ -1,0 +1,8 @@
+T1	Markable 161 184	the darkest largest dot
+T2	Markable 213 230	1 large black dot
+T3	Markable 238 242	that
+T4	Markable 3 16	How many dots
+A1	Generic T4
+T5	Markable 70 71	3
+T6	Markable 87 108	medium grey small dot
+R1	Anaphora Arg1:T3 Arg2:T2	

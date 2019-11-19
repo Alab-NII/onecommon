@@ -1,0 +1,8 @@
+1: Do you have a large light gray dot on the dotted line?
+0: See the darkest largest dot next to a slight smaller but very light dot?
+1: i don't have that one
+0: I have a the lightest and smallest dot next to a darker medium size next to it?
+1: are they both very near the dotted line?
+0: yes and the only lightest small dot on mines
+1: let's choose the smallest dot
+0: ok

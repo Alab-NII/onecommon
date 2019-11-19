@@ -1,0 +1,15 @@
+T1	Markable 9 21	2 black dots
+T2	Markable 32 38	4 dots
+T3	Markable 71 84	No black dots
+T4	Markable 128 139	the largest
+T5	Markable 183 199	a large grey dot
+T6	Markable 217 233	a large grey dot
+T7	Markable 280 287	nothing
+A1	No-Referent T3
+T8	Markable 99 119	an L shape backwards
+T9	Markable 154 159	the L
+T10	Markable 163 170	The top
+T11	Markable 174 179	the L
+R1	Predicative Arg1:T5 Arg2:T10	
+A2	No-Referent T7
+T12	Markable 310 332	that l shape backwards

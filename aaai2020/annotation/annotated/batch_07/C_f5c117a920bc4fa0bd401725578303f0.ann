@@ -1,0 +1,14 @@
+T1	Markable 57 80	one small very dark dot
+T2	Markable 105 134	another small medium gray dot
+T3	Markable 141 143	it
+T4	Markable 319 327	the dots
+T5	Markable 377 390	a smaller dot
+T6	Markable 345 371	your light gray medium dot
+T7	Markable 397 399	it
+T8	Markable 458 483	the light gray medium dot
+T9	Markable 10 19	which dot
+A1	Generic T9
+T10	Markable 202 223	light gray medium dot
+A2	Generic T4
+R1	Anaphora Arg1:T7 Arg2:T6	
+T11	Markable 434 436	it

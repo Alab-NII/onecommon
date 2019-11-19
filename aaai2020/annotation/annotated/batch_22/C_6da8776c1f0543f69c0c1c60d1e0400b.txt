@@ -1,0 +1,7 @@
+0: i have only one tiny black dot on the left side
+1: i have a group of six at the top of my circle and one single on the bottom, and one dark grey small dot on top
+0: what color is your single on the bottom
+1: it's medium grey and mid sized
+0: do you have anything in the middle i have one larger dot than the rest med gray there
+1: no, i think the small dark gray/black is the best choice
+0: okay lets click it then

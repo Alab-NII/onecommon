@@ -1,0 +1,5 @@
+1: very very tiny very light grey dot?
+0: yes. select it
+1: is it up above the rest of the dots?
+0: i see it above a large light grey dot and above a large dark grey
+1: yes! okay

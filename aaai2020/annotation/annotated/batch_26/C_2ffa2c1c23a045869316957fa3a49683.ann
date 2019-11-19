@@ -1,0 +1,20 @@
+T1	Markable 27 33	itself
+T2	Markable 73 93	one little black dot
+T3	Markable 105 113	the line
+T4	Markable 61 67	a line
+T5	Markable 44 50	5 dots
+T6	Markable 137 157	the little black dot
+T7	Markable 171 179	the line
+T8	Markable 235 243	the line
+T9	Markable 207 226	no little black dot
+T11	Markable 270 301	a large medium colored grey dot
+T12	Markable 250 266	the leftmost dot
+T13	Markable 306 317	the 2nd one
+T14	Markable 354 356	it
+T15	Markable 370 384	large grey dot
+T16	Markable 3 23	One Medium black dot
+R1	Anaphora Arg1:T1 Arg2:T16	
+R2	Predicative Arg1:T4 Arg2:T5	
+R3	Anaphora Arg1:T3 Arg2:T5	
+A1	No-Referent T9
+R4	Predicative Arg1:T11 Arg2:T12	

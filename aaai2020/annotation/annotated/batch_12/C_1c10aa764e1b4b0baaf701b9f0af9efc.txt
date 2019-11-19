@@ -1,0 +1,4 @@
+1: I see two dots. Both very dark but the right is black. They are about the same size. Maybe the right is a little darker.
+0: Is the right one slightly smaller?
+1: Yes. They are horizontally aligned.
+0: I think I have it. Click the left one

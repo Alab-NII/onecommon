@@ -1,0 +1,5 @@
+0: Hey, thought this had lost connection, but I am back, I see an extremely tiny black dot.
+1: Where is the tiny dot
+0: for me middlish, but will be different for you
+1: my tiny dot is towards the bottom, but in the middle of the circle. Shall we select the tiny dot?
+0: Oh yeah its a great dot, great one!

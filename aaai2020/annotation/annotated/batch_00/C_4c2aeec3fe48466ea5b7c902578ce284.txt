@@ -1,0 +1,6 @@
+1: I have one large, black dot alone and touching the border
+0: Not me. Do you have a large dark grey dot between 8 and 9 o'clock?
+1: no. I have 2 small dots. both same color. dark grey almost black. I would guess around 2 oclock
+0: Do you have a medium size black dot?
+1: yes. its below a light grey dot of the same size
+0: Yes!

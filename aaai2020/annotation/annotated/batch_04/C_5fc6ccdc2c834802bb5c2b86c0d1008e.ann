@@ -1,0 +1,12 @@
+T1	Markable 9 33	two large dark grey dots
+T2	Markable 55 65	each other
+T3	Markable 78 82	them
+T4	Markable 116 130	the lowest one
+T5	Markable 227 254	your two vertical dark ones
+T6	Markable 186 197	a light one
+T7	Markable 279 292	the light one
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+T8	Markable 87 98	all my dots
+A1	All-Referents T8
+T9	Markable 166 175	the bunch

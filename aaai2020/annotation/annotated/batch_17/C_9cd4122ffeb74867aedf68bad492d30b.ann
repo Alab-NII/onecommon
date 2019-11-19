@@ -1,0 +1,13 @@
+T1	Markable 10 22	to gray dots
+T2	Markable 44 47	One
+T3	Markable 96 105	the other
+T4	Markable 137 150	no other dots
+T5	Markable 158 162	them
+T6	Markable 113 117	they
+T7	Markable 187 216	the the larger and darker one
+#1	AnnotatorNotes T1	two gray dots
+T9	Markable 121 131	themselves
+R1	Anaphora Arg1:T9 Arg2:T6	
+A1	No-Referent T4
+R2	Anaphora Arg1:T5 Arg2:T6	
+#2	AnnotatorNotes T7	the larger and darker one

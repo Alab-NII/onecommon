@@ -1,0 +1,8 @@
+T1	Markable 10 28	two dark grey dots
+T2	Markable 83 87	them
+T3	Markable 133 145	the smallest
+T4	Markable 104 116	The dark dot
+T5	Markable 178 191	the light one
+T6	Markable 35 65	a medium size lighter grey dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T7	Markable 157 161	that

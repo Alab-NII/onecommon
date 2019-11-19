@@ -1,0 +1,6 @@
+T1	Markable 10 25	a dark grey one
+T2	Markable 101 114	one black one
+T3	Markable 118 124	itself
+T5	Markable 56 72	a line of 6 dots
+T6	Markable 148 161	the black one
+R2	Anaphora Arg1:T3 Arg2:T2	

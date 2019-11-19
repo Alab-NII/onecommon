@@ -1,0 +1,3 @@
+1: I have 1 single light grey dot, that is also tiny
+0: not here. i have a medium gray dot with a slightly smaller and lighter dot at it's 5 o'clock
+1: I see yours. Click on smaller lighter dot

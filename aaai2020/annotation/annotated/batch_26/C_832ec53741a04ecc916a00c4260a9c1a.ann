@@ -1,0 +1,10 @@
+T1	Markable 32 41	right dot
+T2	Markable 77 81	that
+T3	Markable 95 101	3 dots
+T4	Markable 112 127	a diagonal line
+T5	Markable 219 233	the middle one
+T6	Markable 3 9	2 dots
+A1	No-Referent T2
+R1	Predicative Arg1:T4 Arg2:T3	
+T7	Markable 168 178	upper left
+T8	Markable 248 268	that upper left grey

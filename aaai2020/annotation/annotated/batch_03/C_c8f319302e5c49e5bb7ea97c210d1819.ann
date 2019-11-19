@@ -1,0 +1,10 @@
+T1	Markable 14 22	two dots
+T2	Markable 44 51	The one
+T3	Markable 161 164	one
+T4	Markable 134 147	4 darker dots
+T5	Markable 226 233	the dot
+T6	Markable 119 128	a u-shape
+R1	Predicative Arg1:T4 Arg2:T6	
+T7	Markable 206 217	your U shap
+T8	Markable 269 273	what
+R2	Anaphora Arg1:T8 Arg2:T7	

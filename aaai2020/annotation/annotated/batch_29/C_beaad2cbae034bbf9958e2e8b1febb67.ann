@@ -1,0 +1,5 @@
+T1	Markable 15 32	a large black one
+T2	Markable 34 36	it
+T3	Markable 106 123	a less larger one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T4	Markable 82 100	a horizontal plane

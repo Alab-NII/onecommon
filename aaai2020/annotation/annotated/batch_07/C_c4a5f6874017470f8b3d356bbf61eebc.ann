@@ -1,0 +1,14 @@
+T1	Markable 196 206	each other
+T2	Markable 58 77	one giant black dot
+T3	Markable 84 107	a smaller dark gray dot
+T4	Markable 114 116	it
+T5	Markable 214 216	it
+T6	Markable 9 18	which dot
+A1	Generic T6
+R1	Anaphora Arg1:T4 Arg2:T2	
+T7	Markable 122 133	another one
+T8	Markable 177 186	all three
+R2	Anaphora Arg1:T1 Arg2:T8	
+T9	Markable 218 227	which one
+A2	Generic T9
+T10	Markable 253 262	large one

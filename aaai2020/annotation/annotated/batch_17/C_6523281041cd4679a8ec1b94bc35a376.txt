@@ -1,0 +1,6 @@
+0: There is a large black dot next to a large light grey dot
+1: Very close? The one on the left is darker?
+0: Yes. There are pretty much on the same level horizontally.
+1: Ok. Shall we choose the darker one?
+0: the dark one on the left.
+1: Yep

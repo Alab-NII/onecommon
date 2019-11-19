@@ -1,0 +1,6 @@
+1: I see two dark gray dots that are very close to each other, and one of them is about half the size of the other
+0: where are they located, the only dark dots I have are either far from each other or exactly the same size
+1: Ok, let's not do those then. Do you see two light gray dots that are separated by about the width of the dots? They are medium sized.
+0: yes they are on the far right, the top one is closer to the edge than the bottom
+1: Ok, let's pick the one closer to the edge
+0: okay

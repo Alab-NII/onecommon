@@ -1,0 +1,3 @@
+1: three dots very close together. middle is large light grey?
+0: I see a line of three dots close together. dot on the right is dark, middle dot is large and light.
+1: yes click that middle large light one!

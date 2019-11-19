@@ -1,0 +1,5 @@
+1: I have one dot that is very small and very light grey.
+0: I see lots of black dots, but 2 light grey dots, one larger than the other.
+1: Yes me too! Is the larger of the light greys very near a very dark one that is similar in size
+0: EXACTLY!
+1: Okay let's choose that larger light grey dot

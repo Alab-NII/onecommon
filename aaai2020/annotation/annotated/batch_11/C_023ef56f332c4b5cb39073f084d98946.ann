@@ -1,0 +1,16 @@
+T1	Markable 41 61	very small light dot
+T2	Markable 16 32	a dark large dot
+T3	Markable 34 36	it
+T4	Markable 68 70	it
+T5	Markable 143 158	a little larger
+T6	Markable 277 288	the darkest
+T7	Markable 247 262	the largest one
+T8	Markable 222 232	a triangle
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T2	
+T9	Markable 104 141	another of the light one's same color
+R3	Predicative Arg1:T5 Arg2:T9	
+T10	Markable 163 176	the small one
+T11	Markable 207 214	these 3
+R4	Predicative Arg1:T8 Arg2:T11	
+R5	Predicative Arg1:T6 Arg2:T7	

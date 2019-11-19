@@ -1,0 +1,10 @@
+T1	Markable 33 36	one
+T2	Markable 100 123	another large black dot
+T3	Markable 130 132	it
+T4	Markable 77 94	a large black dot
+T5	Markable 181 188	the one
+T6	Markable 223 244	the lower, larger one
+T7	Markable 3 30	Two stacked large grey dots
+R1	Anaphora Arg1:T3 Arg2:T4	
+T8	Markable 263 273	the bottom
+T9	Markable 293 300	the top

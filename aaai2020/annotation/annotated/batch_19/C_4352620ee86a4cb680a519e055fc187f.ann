@@ -1,0 +1,7 @@
+T1	Markable 18 37	an up and down line
+T2	Markable 85 92	the one
+T3	Markable 39 49	One up top
+T4	Markable 157 161	that
+T5	Markable 172 183	the top dot
+T6	Markable 3 14	2 tiny dots
+R1	Predicative Arg1:T1 Arg2:T6	

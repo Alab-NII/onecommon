@@ -1,0 +1,5 @@
+1: do you see two of the same size same color dots next to each other?
+0: yes, is there a same color, but smaller one to the left and below the left most matching dot?
+1: yes!
+0: lets choose that smaller one that is down and to the left?
+1: yes sounds good

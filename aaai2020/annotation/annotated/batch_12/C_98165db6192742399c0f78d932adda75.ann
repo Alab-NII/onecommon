@@ -1,0 +1,12 @@
+T1	Markable 10 27	2 very light dots
+T2	Markable 53 71	a much smaller one
+T3	Markable 29 47	A medium sized one
+T5	Markable 142 181	a slightly smaller and lighter grey dot
+T6	Markable 113 136	a large medium grey dot
+T7	Markable 188 190	it
+T8	Markable 203 223	a darker smaller dot
+T9	Markable 250 270	your medium gray dot
+T10	Markable 342 357	the smaller one
+R1	Anaphora Arg1:T7 Arg2:T6	
+T4	Markable 299 315	The 2 light dots
+T11	Markable 282 286	what

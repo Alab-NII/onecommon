@@ -1,0 +1,3 @@
+0: Lone black dot, and a triangle pattern
+1: I see a triangle. Is there one large dark grey at the bottom of it?
+0: Yes... pick the large one

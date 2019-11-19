@@ -1,0 +1,10 @@
+T1	Markable 88 110	a cluster of four dots
+T2	Markable 125 135	each other
+T3	Markable 3 9	3 dots
+T4	Markable 31 41	middle top
+T5	Markable 64 78	triangle shape
+R1	Anaphora Arg1:T5 Arg2:T3	
+R2	Anaphora Arg1:T2 Arg2:T1	
+T6	Markable 137 149	bottom right
+T7	Markable 171 179	top left
+T8	Markable 218 230	bottom right

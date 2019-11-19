@@ -1,0 +1,9 @@
+T1	Markable 43 49	itself
+T2	Markable 78 90	a larger dot
+T3	Markable 146 151	a dot
+T5	Markable 205 234	the aforementioned larger dot
+T6	Markable 180 198	a lighter grey dot
+T7	Markable 249 263	the larger dot
+T8	Markable 3 18	My smallest dot
+R1	Anaphora Arg1:T1 Arg2:T8	
+T9	Markable 115 118	its

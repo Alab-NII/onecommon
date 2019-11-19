@@ -1,0 +1,6 @@
+T1	Markable 9 31	a large light gray dot
+T2	Markable 57 65	this one
+T3	Markable 89 96	the one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T4	Markable 82 88	That's
+R2	Predicative Arg1:T3 Arg2:T4	

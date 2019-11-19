@@ -1,0 +1,2 @@
+0: Do you see a big black dot at the top
+1: Yes, it's on the middle

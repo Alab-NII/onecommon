@@ -1,0 +1,8 @@
+T1	Markable 34 38	line
+T2	Markable 78 93	three dark ones
+T3	Markable 119 133	the lowest one
+T5	Markable 153 157	they
+T6	Markable 205 221	lower larger one
+T7	Markable 15 30	three dark ball
+R1	Predicative Arg1:T1 Arg2:T7	
+R2	Anaphora Arg1:T5 Arg2:T2	

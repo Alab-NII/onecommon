@@ -1,0 +1,18 @@
+T1	Markable 10 20	a dark dot
+T2	Markable 31 42	another one
+T3	Markable 175 189	a large darker
+T4	Markable 94 109	one smaller one
+T5	Markable 220 222	it
+T6	Markable 254 260	4 dots
+T7	Markable 343 355	my 11 oclock
+T8	Markable 398 431	a same-size, slightly lighter dot
+T9	Markable 438 456	your 12 oclock dot
+T11	Markable 502 518	the smallest one
+T12	Markable 568 584	the smallest one
+T13	Markable 54 72	almost all my dots
+T14	Markable 133 152	a large medium/dark
+T15	Markable 156 159	its
+R1	Anaphora Arg1:T15 Arg2:T4	
+T16	Markable 304 317	your 3 oclock
+A1	No-Referent T16
+T17	Markable 477 481	dots

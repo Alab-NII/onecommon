@@ -1,0 +1,16 @@
+T2	Markable 41 55	two large dots
+T3	Markable 57 60	one
+T4	Markable 77 86	the other
+T5	Markable 132 142	each other
+T6	Markable 107 111	they
+T7	Markable 157 161	that
+T8	Markable 186 202	the smaller ones
+T10	Markable 284 296	the left one
+T11	Markable 315 328	the right one
+T12	Markable 348 366	the light gray one
+R1	Anaphora Arg1:T6 Arg2:T2	
+R2	Anaphora Arg1:T5 Arg2:T2	
+A1	No-Referent T7
+T1	Markable 255 259	that
+T9	Markable 261 264	its
+R3	Anaphora Arg1:T9 Arg2:T1	

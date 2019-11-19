@@ -1,0 +1,10 @@
+T1	Markable 14 25	a black dot
+T2	Markable 51 56	three
+T3	Markable 162 167	those
+T4	Markable 60 65	a row
+R1	Predicative Arg1:T4 Arg2:T2	
+T5	Markable 104 119	the two circles
+T6	Markable 131 136	right
+T7	Markable 168 175	the two
+T8	Markable 208 218	the middle
+T9	Markable 251 261	the center

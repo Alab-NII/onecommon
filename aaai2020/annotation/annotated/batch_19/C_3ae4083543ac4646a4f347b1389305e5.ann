@@ -1,0 +1,18 @@
+T1	Markable 138 147	the other
+T2	Markable 217 227	a triangle
+T3	Markable 179 194	3 med grey dots
+T4	Markable 278 294	your lighter one
+T5	Markable 354 362	that one
+T6	Markable 375 401	a very large very dark dot
+T7	Markable 422 425	one
+T9	Markable 446 462	the rest of mine
+T10	Markable 503 511	that one
+T11	Markable 3 11	two dots
+T12	Markable 47 50	top
+T13	Markable 64 70	bottom
+T14	Markable 110 124	two black dots
+T15	Markable 125 128	one
+R1	Predicative Arg1:T2 Arg2:T3	
+T16	Markable 235 239	mine
+T17	Markable 467 470	its
+R2	Anaphora Arg1:T17 Arg2:T7	

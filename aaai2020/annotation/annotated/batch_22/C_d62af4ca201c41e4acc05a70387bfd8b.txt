@@ -1,0 +1,3 @@
+0: I have two black dots. how many do you have
+1: two dots real close and vertical. bottom is black, top is grey
+0: They are close in size let us select the black one

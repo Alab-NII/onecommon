@@ -1,0 +1,6 @@
+1: I have a large black dot with a lighter gray dot very small
+0: where is your located at i have a med size black dot at the top left side thats my only black
+1: Is there a small lighter gray dot down under it
+0: to the right there is
+1: That is where mine is do you want to pick the small gray one
+0: sure lets try it

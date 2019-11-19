@@ -1,0 +1,10 @@
+T1	Markable 14 40	an almost perfect triangle
+T2	Markable 42 51	All three
+T3	Markable 106 115	light dot
+T4	Markable 205 218	the other two
+T5	Markable 237 239	it
+T6	Markable 272 288	the lightest dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T7	Markable 141 156	My lightest dot
+T8	Markable 176 178	it
+R2	Anaphora Arg1:T8 Arg2:T7	

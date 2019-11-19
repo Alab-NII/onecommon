@@ -1,0 +1,4 @@
+0: dark, large dot with, same color, slightly smaller dot, up and slightly to left
+1: Group of three, bottom one is largest and darkest, top one is tiny and right one is in between in size
+0: lets pick the darkest one you mentioned, should be bottom of 3
+1: Yeah

@@ -1,0 +1,9 @@
+1: do you see a lonely light gray dot at the bottom
+0: Unfortunately not. How about a large dark grey one with a smaller medium sized darker one to its bottom left?
+1: no sorry. How about a really dark one at approximately 2:00
+0: the location wont help, our circles arent aligned the same way. But I do see a really dark one, its large and has a smaller lighter one to its left and slightly south
+1: I have three in a line going from outer to inner that are dark, light and then dark
+0: I have that, the last one on the right is the largest?
+1: yes
+0: ok lets click that one?
+1: great

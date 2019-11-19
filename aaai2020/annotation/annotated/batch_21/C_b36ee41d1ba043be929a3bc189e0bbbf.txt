@@ -1,0 +1,6 @@
+0: I have two dots very close together of same size, color
+1: i have a medium gray mid size on the outer edge about 2 oclock
+0: I don't have that, I have a small light dot down low to the right by itself
+1: the two that are same size is one a little lighter and below the other near center?
+0: I'm centered differently than you, but the lower dot seems very slightly lighter
+1: ok then i think that is the one

@@ -1,0 +1,3 @@
+0: i have two light ones and one slightly darker at the bottom of a triangle, the left one is larger
+1: K if the top two are almost exactly the same shade grey click the largest to the left
+0: got it

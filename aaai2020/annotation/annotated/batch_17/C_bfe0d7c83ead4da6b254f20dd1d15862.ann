@@ -1,0 +1,6 @@
+T1	Markable 33 43	each other
+T2	Markable 97 105	the four
+T3	Markable 149 153	that
+T4	Markable 10 22	four circles
+R1	Anaphora Arg1:T1 Arg2:T4	
+T5	Markable 83 93	the middle

@@ -1,0 +1,6 @@
+0: i have two sets of dots close together, one set is one atop the other, top one is dark grey, bottom one medium, other set is side by side, both medium grey, one on top right is smaller
+1: how about 3 vertical dots. middle is darker and smaller
+0: unless that's my first set, that one is on the top edge of my circle, below it and way off to the left is a very light small dot?
+1: i only see 3 dots (its at the edge of my circle) i think the bottom two of mine is one of your sets.
+0: that's what i'm thinking too, want to click on the bottom of those three dots?
+1: yup

@@ -1,0 +1,11 @@
+T1	Markable 10 32	a large light gray dot
+T2	Markable 41 58	a medium gray dot
+T3	Markable 67 90	another medium gray dot
+T4	Markable 99 119	small light grey dot
+T5	Markable 130 146	a small dark dot
+T6	Markable 191 193	it
+T7	Markable 220 234	small grey dot
+T8	Markable 248 270	a small light grey dot
+T9	Markable 285 311	the smallest, lightest dot
+T11	Markable 164 184	a lighter larger dot
+R1	Anaphora Arg1:T6 Arg2:T5	

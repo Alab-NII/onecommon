@@ -1,0 +1,4 @@
+0: I see three very dark larger dots that form this shape \
+1: Ok I Only see two of them
+0: Take the biggest one
+1: ok

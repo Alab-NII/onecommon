@@ -1,0 +1,3 @@
+0: wanna pick the darkest small dot?
+1: is it to the right of the lightest small spot?
+0: yeah

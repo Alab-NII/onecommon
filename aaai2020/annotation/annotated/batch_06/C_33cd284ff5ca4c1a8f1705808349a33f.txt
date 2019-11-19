@@ -1,0 +1,9 @@
+1: I see one grey dot larger than all the rest
+0: i dont see I see a large darkest dot near center, above line of 3 smaller dots , middle dot of the dots is darker than the other 2 dots in the line
+1: i see same. light grey on left, slightly darker but not black in center same size, lighter grey to the right of that...further apart than the first two
+0: yes that is correct and the darker middle dot is directly below the largest darkest dot
+1: correct
+0: did you choose the largest darkest dot near center
+1: no, lighter grey one under that
+0: so the middle dot in the line of 3?
+1: yes

@@ -1,0 +1,13 @@
+T1	Markable 87 95	that one
+T2	Markable 144 148	it's
+T3	Markable 158 181	a very dark smaller one
+T4	Markable 253 271	the small dark one
+T5	Markable 3 18	small black one
+T6	Markable 24 41	a larger med/grey
+T7	Markable 45 49	it's
+R1	Anaphora Arg1:T7 Arg2:T5	
+A1	No-Referent T1
+T8	Markable 107 126	a large medium grey
+R2	Anaphora Arg1:T2 Arg2:T8	
+T9	Markable 189 207	the small dark one
+T10	Markable 228 232	it's

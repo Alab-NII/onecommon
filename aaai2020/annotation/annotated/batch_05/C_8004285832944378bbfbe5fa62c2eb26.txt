@@ -1,0 +1,5 @@
+1: I have one very large very light gray dot
+0: I don't. I have two very small dots. One black one lighter grey
+1: I have one small one that is gray. It is just down and to the left of a large black one.
+0: I have that!
+1: OK, lets go with that little gray one!

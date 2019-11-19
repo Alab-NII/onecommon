@@ -1,0 +1,5 @@
+T1	Markable 10 16	3 dots
+T2	Markable 71 83	smallest one
+T3	Markable 103 111	this one
+T4	Markable 46 62	a triangle shape
+R1	Predicative Arg1:T4 Arg2:T1	

@@ -1,0 +1,4 @@
+1: two med/grey dots? RIGHT above/below each other, lower right one is larger than very small one
+0: Yes!
+1: ok let's pick the top of the two, the slightly left smaller one
+0: Okay!

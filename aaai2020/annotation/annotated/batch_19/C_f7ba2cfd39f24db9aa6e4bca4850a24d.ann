@@ -1,0 +1,13 @@
+T1	Markable 15 37	one very dark gray dot
+T2	Markable 44 46	it
+T4	Markable 82 85	one
+T6	Markable 101 103	it
+T7	Markable 145 161	two lighter dots
+T8	Markable 123 140	The dark dark one
+T9	Markable 178 180	it
+T10	Markable 209 224	the lighter one
+T11	Markable 256 273	the dark gray dot
+T12	Markable 282 284	it
+T13	Markable 304 316	the dark dot
+R1	Anaphora Arg1:T6 Arg2:T4	
+R2	Anaphora Arg1:T9 Arg2:T8	

@@ -1,0 +1,10 @@
+T1	Markable 50 60	a triangle
+T2	Markable 16 31	three dark dots
+T3	Markable 88 91	One
+T4	Markable 109 112	one
+T5	Markable 199 207	that one
+R1	Predicative Arg1:T1 Arg2:T2	
+T6	Markable 72 86	2 dark circles
+T7	Markable 139 158	a small gray circle
+T8	Markable 164 178	the top circle
+R2	Anaphora Arg1:T8 Arg2:T3	

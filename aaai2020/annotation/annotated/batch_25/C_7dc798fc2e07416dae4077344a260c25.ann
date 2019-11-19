@@ -1,0 +1,13 @@
+T1	Markable 15 27	2 large dots
+T2	Markable 51 61	each other
+T3	Markable 78 97	two very small dots
+T4	Markable 105 115	each other
+T5	Markable 162 167	yours
+T6	Markable 201 230	the right most large gray dot
+T7	Markable 179 193	two small dots
+T8	Markable 262 276	the closet one
+T9	Markable 243 261	the two small dots
+T10	Markable 328 342	the small dots
+T11	Markable 301 316	the largest dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T3	

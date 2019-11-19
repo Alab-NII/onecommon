@@ -1,0 +1,5 @@
+0: one large black dot with a similar shade dot directly above it but smaller about an inch apart?
+1: two light gray dots almost vertical with the bottom going towards the right. they are the same size
+0: i see that one
+1: click the top
+0: k

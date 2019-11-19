@@ -1,0 +1,12 @@
+T2	Markable 34 37	one
+T3	Markable 56 59	one
+T4	Markable 95 97	it
+T5	Markable 106 131	one lonely large dark dot
+T6	Markable 166 184	a small tiny black
+T7	Markable 263 282	that tiny black dot
+T8	Markable 246 256	a triangle
+T9	Markable 300 319	the small black dot
+T10	Markable 3 16	Two lone dots
+A1	No-Referent T4
+T1	Markable 209 215	3 dots
+R1	Predicative Arg1:T8 Arg2:T1	

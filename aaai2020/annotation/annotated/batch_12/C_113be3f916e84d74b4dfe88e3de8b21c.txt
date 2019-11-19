@@ -1,0 +1,3 @@
+0: Do you have a dark dot almost surrounded by 4 light dots?
+1: I do, should we choose that one?
+0: I think so!

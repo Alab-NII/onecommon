@@ -1,0 +1,8 @@
+1: I have one light gray dot
+0: anything near it?
+1: in my circle there is a bigger black dot near it
+0: is the bigger black dot to the top left of the light one?
+1: yep
+0: sounds like the either of those would work
+1: lets do the light gray one?
+0: ok

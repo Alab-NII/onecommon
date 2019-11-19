@@ -1,0 +1,24 @@
+T1	Markable 9 31	a little dark gray dot
+T2	Markable 50 68	all the other dots
+T3	Markable 89 111	a large very light one
+T4	Markable 117 136	a bigger darker one
+T5	Markable 173 187	the little one
+T6	Markable 210 218	that one
+T7	Markable 260 292	another smaller lighter gray one
+T8	Markable 235 256	the little darker one
+T9	Markable 317 337	the little light one
+T10	Markable 368 392	a dark little bigger one
+T12	Markable 399 421	a med/grey lighter one
+T13	Markable 449 464	the lighter one
+T14	Markable 487 491	that
+T15	Markable 432 434	it
+T16	Markable 550 564	Light gray one
+T17	Markable 599 601	it
+T18	Markable 570 578	a darker
+T19	Markable 625 633	that one
+T20	Markable 640 656	the lightest one
+T21	Markable 140 144	it's
+R1	Anaphora Arg1:T21 Arg2:T3	
+A1	No-Referent T5
+T11	Markable 513 522	which one
+R2	Anaphora Arg1:T17 Arg2:T16	

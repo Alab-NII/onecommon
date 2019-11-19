@@ -1,0 +1,12 @@
+T1	Markable 9 44	three similar sized light gray dots
+T2	Markable 48 58	a triangle
+T3	Markable 143 157	the other dark
+T4	Markable 161 175	My largest one
+T5	Markable 203 206	one
+T6	Markable 322 334	a small grey
+T7	Markable 353 361	that one
+R1	Predicative Arg1:T2 Arg2:T1	
+T8	Markable 62 84	my two largest circles
+T9	Markable 127 142	one medium grey
+T10	Markable 255 259	Both
+T11	Markable 277 291	small grey dot

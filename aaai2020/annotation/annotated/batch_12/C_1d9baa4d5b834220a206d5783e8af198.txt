@@ -1,0 +1,7 @@
+1: I see a small lighter dot.
+0: Do you see two dots at the top that are close together
+1: The two lighter colored dots?
+0: Yea
+1: Yes
+0: Click the larger of the two
+1: Ok.

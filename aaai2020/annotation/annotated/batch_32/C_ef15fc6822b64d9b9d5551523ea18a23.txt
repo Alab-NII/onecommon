@@ -1,0 +1,4 @@
+1: I have a large light dot, with smaller lighter dot under it, very close
+0: yeah its off to the left right?
+1: right, wanna select the larger one?
+0: sounds good!

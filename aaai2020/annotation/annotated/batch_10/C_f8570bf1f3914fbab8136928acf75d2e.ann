@@ -1,0 +1,15 @@
+T1	Markable 14 28	a face of dots
+T2	Markable 96 102	5 dots
+T3	Markable 162 164	it
+T4	Markable 143 151	two dots
+T5	Markable 199 217	the first triangle
+T6	Markable 231 233	it
+T7	Markable 302 304	it
+T8	Markable 34 42	the nose
+T9	Markable 77 85	the eyes
+R1	Anaphora Arg1:T3 Arg2:T2	
+T10	Markable 221 227	that Z
+R2	Anaphora Arg1:T6 Arg2:T5	
+T11	Markable 291 298	a mouth
+A1	No-Referent T11
+T12	Markable 336 344	the nose

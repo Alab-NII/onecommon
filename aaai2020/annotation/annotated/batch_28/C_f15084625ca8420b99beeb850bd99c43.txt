@@ -1,0 +1,2 @@
+1: A large dot dark grey with a smaller lighter grey dot down and to the right
+0: Yes! pick the large one

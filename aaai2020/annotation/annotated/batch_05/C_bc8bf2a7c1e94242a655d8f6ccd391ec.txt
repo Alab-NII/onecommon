@@ -1,0 +1,3 @@
+0: Cluster of 4 dots together?
+1: Yes, is the one on the left tiny and black?
+0: Yes! lets click the tiny one

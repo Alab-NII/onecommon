@@ -1,0 +1,4 @@
+1: Do you see a dark grey large circle at the top or bottom of your circle all by itself?
+0: do you have a large black dot with a slightly small light gray dot below and slightly right
+1: I do!
+0: select black

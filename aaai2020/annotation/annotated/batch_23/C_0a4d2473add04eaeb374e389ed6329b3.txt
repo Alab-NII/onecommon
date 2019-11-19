@@ -1,0 +1,11 @@
+1: I've three larger grey dots lined up
+0: I have a black dot at 7:00
+1: Any others in relation to it
+0: Large bleach NE of it
+1: bleach?
+0: Black
+1: are they the same size?
+0: No, 7 o'clock is smaller
+1: we'e got both of them then
+0: What did you select
+1: the smaller one

@@ -1,0 +1,6 @@
+0: Hi do you have 2 medium sized dots very close to one another, the right one is lighter and to the bottom right of the left one?
+1: Yes, lower left quadrant of the circle.
+0: ok and the left one is darker and slightly smaller
+1: Yes, the left one is slightly smaller, darker, and elevated by maybe a centimeter or so.
+0: Ok click the darker one?
+1: Sounds like a plan, let's go for the darker one.

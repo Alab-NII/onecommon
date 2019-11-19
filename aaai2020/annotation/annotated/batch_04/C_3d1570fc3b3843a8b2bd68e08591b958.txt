@@ -1,0 +1,6 @@
+0: Hello! Where's your dot?
+1: Do you see two dark grey dots, same size right next to each other with a small grey dot beneath them?
+0: yes, looks like an upside down triangle pointing to 7 o clock?
+1: Yes!
+0: ok lets click the point of the upside down triangle?
+1: Okay!

@@ -1,0 +1,4 @@
+1: massive massive one with a "moon" at its top, do you see it?
+0: Is the moon a small medium gray dot at about 1 o clock?
+1: yes, let's pick the massive one, ok?
+0: will do

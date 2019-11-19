@@ -1,0 +1,9 @@
+T1	Markable 9 27	one very small dot
+T2	Markable 82 90	that one
+T3	Markable 117 119	it
+T4	Markable 149 172	a large medium dark dot
+T5	Markable 146 148	it
+T6	None 124 126	It
+#1	AnnotatorNotes T6	Is
+T7	Markable 127 142	the closest dot
+R1	Predicative Arg1:T4 Arg2:T7	

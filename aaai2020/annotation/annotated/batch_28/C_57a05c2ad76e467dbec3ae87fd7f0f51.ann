@@ -1,0 +1,12 @@
+T1	Markable 44 58	any black dots
+T2	Markable 77 102	a very tiny dark grey one
+T3	Markable 136 138	it
+T4	Markable 168 171	its
+T5	Markable 206 209	its
+T6	Markable 149 164	the closest dot
+T7	Markable 258 276	another larger dot
+T8	Markable 314 329	that larger one
+T9	Markable 3 23	very large black dot
+A1	No-Referent T1
+T10	Markable 121 128	nothing
+A2	No-Referent T10

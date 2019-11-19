@@ -1,0 +1,5 @@
+1: Do you see a dot that is alone?
+0: i see two dark dots that are, the one above and to the right of the other is slightly larger
+1: I see those too
+0: let's grab the larger of those two
+1: Perfect!

@@ -1,0 +1,4 @@
+1: two dots beside each other at an angle. left upper is larger. both darkish grey.
+0: yes i see it
+1: pick upper to the left?
+0: ok will do

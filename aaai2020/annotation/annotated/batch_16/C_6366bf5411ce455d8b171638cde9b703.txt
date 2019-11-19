@@ -1,0 +1,4 @@
+1: Do you have a large dark gray dot with a small gray dot directly to the left of it?
+0: Yes.
+1: Lets choose the large dark gray dot
+0: Ok

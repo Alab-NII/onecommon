@@ -1,0 +1,12 @@
+T1	Markable 14 30	a light gray dot
+T2	Markable 47 51	that
+T3	Markable 62 73	a black dot
+T4	Markable 90 92	it
+T5	Markable 131 142	two of them
+T7	Markable 144 148	They
+T8	Markable 170 172	it
+T9	Markable 195 205	each other
+T10	Markable 222 226	they
+T11	Markable 243 261	the light gray dot
+R1	Anaphora Arg1:T7 Arg2:T5	
+R2	Anaphora Arg1:T9 Arg2:T5	

@@ -1,0 +1,5 @@
+0: Small gray circle near 1 oclock
+1: I don't see that. I have a large light gray dot towards the top left
+0: Closer to 11:00 than 12:00
+1: Yes
+0: Okay, I think that is it

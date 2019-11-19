@@ -1,0 +1,8 @@
+T1	Markable 81 86	those
+T2	Markable 117 144	a slightly smaller dark dot
+T3	Markable 151 153	it
+T4	Markable 101 111	a dark dot
+T5	Markable 193 205	the dark dot
+T6	Markable 3 13	three dots
+A1	No-Referent T1
+R1	Anaphora Arg1:T3 Arg2:T4	

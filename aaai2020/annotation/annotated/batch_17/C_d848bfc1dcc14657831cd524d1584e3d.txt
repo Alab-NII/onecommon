@@ -1,0 +1,9 @@
+1: DO you have 3 dots in a 'c' shape?
+0: no
+1: okay do you have 2 medium colored dots close together? left one is smaller in size
+0: no
+1: okay. what do you see?
+0: i have 3 light grey dots close together the smallest 2 are slightly left
+1: is the top one the lightest in color?
+0: yes
+1: lets select the palest one.

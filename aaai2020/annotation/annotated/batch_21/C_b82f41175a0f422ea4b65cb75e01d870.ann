@@ -1,0 +1,17 @@
+T1	Markable 66 69	one
+T2	Markable 83 86	one
+T3	Markable 44 65	two almost black dots
+T4	Markable 119 143	a tiny lightest gray dot
+T5	Markable 159 194	two different shades of medium dots
+T6	Markable 215 241	the tiny lightest gray dot
+T7	Markable 246 266	the bigger black dot
+T8	Markable 292 312	the smaller dark dot
+T9	Markable 364 392	a medium shade same size dot
+T10	Markable 332 348	a tiny black dot
+T11	Markable 441 460	the small black dot
+T12	Markable 401 416	the lighter one
+T13	Markable 473 477	mine
+T14	Markable 547 565	the tiny black dot
+T15	Markable 587 606	the small black dot
+A1	No-Referent T6
+T16	Markable 521 525	that

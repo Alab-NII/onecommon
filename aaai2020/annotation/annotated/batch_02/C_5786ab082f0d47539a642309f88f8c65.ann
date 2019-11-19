@@ -1,0 +1,13 @@
+T1	Markable 10 34	a small, medium grey dot
+T2	Markable 95 97	it
+T3	Markable 108 120	a larger dot
+T4	Markable 165 179	two black dots
+T5	Markable 215 238	an upside down triangle
+T6	Markable 302 309	the one
+T7	Markable 362 367	the 3
+T8	Markable 240 255	the lowest peak
+T9	Markable 387 411	the larger dark grey one
+T10	Markable 51 66	small black dot
+T11	Markable 127 142	medium gray dot
+T12	Markable 279 300	the two other corners
+R1	Anaphora Arg1:T7 Arg2:T5	

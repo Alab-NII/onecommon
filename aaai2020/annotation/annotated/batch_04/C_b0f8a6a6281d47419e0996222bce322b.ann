@@ -1,0 +1,8 @@
+T2	Markable 56 77	a small very dark dot
+T4	Markable 152 178	multiple triangles of dots
+T5	Markable 219 231	the dark dot
+T6	Markable 14 45	a triangle type shape of 3 dots
+T1	Markable 97 112	the closest dot
+T7	Markable 134 137	its
+R1	Anaphora Arg1:T7 Arg2:T2	
+T3	Markable 236 254	the small dark dot

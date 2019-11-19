@@ -1,0 +1,5 @@
+0: Ok so...I have 4 dots aligned almost vertically, sloping slightly to the right and down. The third dot is the darkest
+1: I don't think I see those. I see a dark, large dot toward the left of the circle. With a slight smaller grey dot to the right and below it.
+0: Is there another lighter dot above those two? So the three form a triangle?
+1: Yes! Exactly. And the lighter one above is the same size as the darkest one to the right
+0: Yes, let's click the light one on the top of the triangle.

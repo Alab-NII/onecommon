@@ -1,0 +1,6 @@
+1: Mid size grey dot at 6 o clock
+0: Hi, do you have 2 big dots towards the left, upper of the circle?
+1: Are they about 1 inch from the edge near 10 o clock?
+0: the mid-grey one is about 10 o'clock
+1: Are we selecting the lighter one or the darker one?
+0: the darker one, 1-inch from 10 o'clock

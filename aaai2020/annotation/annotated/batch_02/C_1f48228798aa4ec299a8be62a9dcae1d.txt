@@ -1,0 +1,2 @@
+0: I see a large black dot with a smaller gray dot right below it
+1: yes!

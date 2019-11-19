@@ -1,0 +1,6 @@
+1: 2 Tiny black dots? one lower left edge?
+0: no
+1: large dark grey dot with a smaller grey dot closeby?
+0: yes at the bottom
+1: you already selected?
+0: yeah the big gray one

@@ -1,0 +1,6 @@
+0: can you see two pair of l dark ball one is small and other big
+1: Two small dots very close together with the smaller lighter one being above and to the right
+0: yes . not very small but medium size
+1: Yes. To the bottom left of the darker dot is there a very large dark dot?
+0: yes
+1: K lets pick the darker dot out of the two that are very close together

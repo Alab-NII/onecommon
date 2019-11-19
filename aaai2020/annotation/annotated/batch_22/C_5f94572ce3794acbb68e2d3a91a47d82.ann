@@ -1,0 +1,6 @@
+T1	Markable 9 24	two darker dots
+T2	Markable 41 51	each other
+T3	Markable 53 66	The right one
+T4	Markable 91 103	the left one
+T5	Markable 136 147	the darkest
+R1	Anaphora Arg1:T2 Arg2:T1	

@@ -1,0 +1,6 @@
+1: Hi! Is your largest dot a large dark grey dot?
+0: Yes, located by 7, adjacent to a light gray dot
+1: Mine is near the middle but slightly down and to the right
+0: It sounds similar
+1: Do you want to choose that one or should we wait?
+0: I think it could be the same.

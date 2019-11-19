@@ -1,0 +1,6 @@
+1: I have 3 black dots, and 4 gray dots. The majority of my dots are located along the equator of the circle
+0: I have a small black dot with a similar sized medium grey above it and to the left, and a larger lighter one below it and to the left-- are two of the black dots directly vertical and the top one is larger?
+1: Is the similar sized medium gray dot above and to the left?
+0: yes it most certainly is
+0: did you pick the light grey one?
+1: yes

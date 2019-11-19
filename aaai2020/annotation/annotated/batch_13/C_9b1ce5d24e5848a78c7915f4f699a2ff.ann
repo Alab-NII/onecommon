@@ -1,0 +1,8 @@
+T1	Markable 9 27	2 LARGE black dots
+T2	Markable 42 52	each other
+T3	Markable 90 97	the top
+R1	Anaphora Arg1:T2 Arg2:T1	
+T4	Markable 61 64	a \
+R2	Predicative Arg1:T4 Arg2:T1	
+T5	Markable 116 119	top
+T6	Markable 101 111	bottom one

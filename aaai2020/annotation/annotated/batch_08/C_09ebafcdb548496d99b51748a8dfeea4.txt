@@ -1,0 +1,6 @@
+0: do you see any black dots?
+1: I do. Its almost the smallest one i have
+0: Is it near a medium sized light gray one
+1: Is that light grey one to the right of it
+0: Yes it is
+1: K click the light grey one

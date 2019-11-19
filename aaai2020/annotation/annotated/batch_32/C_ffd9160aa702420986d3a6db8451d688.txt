@@ -1,0 +1,4 @@
+0: I have a tiny black dot, with a slightly larger but still small dark grey dot down and to the left
+1: I see a similar pair of dots but it is in my upper center right.
+0: Same, lets choose the smaller, darker dot
+1: Okay.

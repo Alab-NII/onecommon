@@ -1,0 +1,7 @@
+1: Do you have three black dots nearly horizontal but kinda far apart?
+0: I have 4 dots that are nearly horizontal. left is grey, then next 3 are darkish
+1: Great, that fits with mine. Is the largest darkish one on the left close to the grey one?
+0: Yes
+1: Let's choose that one.
+0: The large dark one?
+1: yep

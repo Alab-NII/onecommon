@@ -1,0 +1,7 @@
+0: Do you see a small lonely black dot? or a medium grey lonely dot?
+1: Yes, is it towards the bottom of the circle?
+0: Cant know if my bottom is your bottom remember our circles may not be aligned up. but the grey medium on mine has a dark grey about same size to the upper right of it . do yours have that?
+1: I don't think so...are all of your other dots located above the lonely one?
+0: my lonely black has 2 sets of 2 to upper left of it
+1: I'm not seeing that...I have another dot that could be considered lonely that is slightly larger than the other one
+0: i will click on the smallest black on my screen we are out of time

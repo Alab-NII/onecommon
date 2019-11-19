@@ -1,0 +1,2 @@
+1: I have a large black dot and a large gray dot very close together with the gray being above and slightly to the right.
+0: yes! click the black one in that pair!

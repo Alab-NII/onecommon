@@ -1,0 +1,7 @@
+1: i see a single light grey small dot with nothing around it really.
+0: Probably last one, these are so fun! I have 3 tiny light grey dots making a large triangle. I also see two large very dark grey/black dots to the right of said triangle
+1: I only have one light grey dot. do you have tiny black dot?
+0: Not both of my black dots are big. hmm. so I have 3 light grey smalls, then 2 black large ones and 1 dark grey med size with a med grey med size one below it (and to the left a tiny bit)
+1: i have one bigger black dot. to the right of it a bit away and a little higher is a smaller medium/dark grey dot
+0: that sounds like a match! just fyi two of my tiny grey dots, one is directly above that black dot (far) and one is far to the left of it. should we choose the black one?
+1: ok

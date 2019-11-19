@@ -1,0 +1,14 @@
+T1	Markable 9 17	two dots
+T2	Markable 57 61	They
+T3	Markable 80 87	The one
+T4	Markable 171 180	those two
+T5	Markable 184 200	a small dark dot
+T6	Markable 238 253	the lighter dot
+T7	Markable 210 212	it
+T8	Markable 273 285	the dark dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T9	Markable 157 164	the one
+R2	Predicative Arg1:T5 Arg2:T9	
+T10	Markable 289 302	The large one
+T11	Markable 313 318	small
+T12	Markable 333 346	the small one

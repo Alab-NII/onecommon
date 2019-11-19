@@ -1,0 +1,5 @@
+1: do you see a medium black dot on yours anywhere?
+0: I don't have any dots that I would call black, most are light to dark gray.
+1: Ok...do you have a cluster of dots in a side Y shape with one being a tiny lightest shade of gray?
+0: Yes, the smallest in the Y shape is at the 'fork' in the Y
+1: Yes. Pick that tiny dot

@@ -1,0 +1,21 @@
+T1	Markable 25 42	a larger dark dot
+T2	Markable 58 60	it
+T3	Markable 71 81	a gray dot
+T4	Markable 131 141	a triangle
+T5	Markable 171 184	the other two
+T6	Markable 151 154	one
+T9	Markable 214 217	one
+T10	Markable 245 248	one
+T12	Markable 323 333	a grey dot
+T13	Markable 382 404	the all black triangle
+T14	Markable 411 423	the smallest
+T15	Markable 3 19	medium black dot
+R1	Anaphora Arg1:T2 Arg2:T15	
+T16	Markable 119 120	3
+R2	Predicative Arg1:T4 Arg2:T16	
+T17	Markable 201 202	2
+T7	Markable 287 291	Mine
+T8	Markable 358 366	its self
+R3	Anaphora Arg1:T8 Arg2:T12	
+T11	Markable 427 434	those 3
+R4	Anaphora Arg1:T11 Arg2:T13	

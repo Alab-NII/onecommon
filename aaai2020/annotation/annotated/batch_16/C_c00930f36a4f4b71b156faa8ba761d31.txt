@@ -1,0 +1,6 @@
+0: Hello, do you have two isolated dots on the bottom on each side?
+1: I don't. Do you have two smaller gray dots diagonal from one another with the slightly lighter one up and to the right?
+0: yes
+1: let's do the lighter one to the left
+0: so the one on the left side?
+1: I made a mistake the left is darker. Sorry. Yes lets do the left

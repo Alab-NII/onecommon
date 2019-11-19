@@ -1,0 +1,4 @@
+0: Hello, I have one dot darker and smaller than the rest
+1: two same size Right next to each other. is the smallest below them to the right?
+0: Yes it is
+1: ok as long as the 2 next to each other have the right one darker, let's choose your small black one

@@ -1,0 +1,8 @@
+1: i see a small darker grey dot to the right
+0: Do you see a big light grey dot on its own on the right side of the circle?
+1: no i have one that is medium sized at the bottom, light, but it's on the left like almost 7 oclock
+0: Hmmm I'm not sure I see that. I think I see the small darker grey dot on the right. It's the darkest dot in the circle, right?
+1: yes darkest, about 3 oclock position, but more toward the center
+0: Not sure if it's the same, but do you want to try it?
+1: is yours at about 3 oclock? about an inch in from the side tho?
+0: Mine's at about 5 oclock, but yes and inch from the side.

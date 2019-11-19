@@ -1,0 +1,3 @@
+1: I have a tiny black dot kind of by itself
+0: ok i will choose the one i have
+1: Ok, there are two dots under it, one black and one gray

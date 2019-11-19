@@ -1,0 +1,6 @@
+T1	Markable 58 62	them
+T2	Markable 72 85	the right one
+T3	Markable 116 127	the big one
+T4	Markable 3 10	2 small
+T5	Markable 12 15	one
+R1	Anaphora Arg1:T1 Arg2:T4	

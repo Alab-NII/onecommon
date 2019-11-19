@@ -1,0 +1,7 @@
+T1	Markable 18 24	a line
+T2	Markable 35 49	the middle one
+T3	Markable 94 101	the one
+T4	Markable 3 14	three greys
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 86 90	that
+R2	Predicative Arg1:T3 Arg2:T5	

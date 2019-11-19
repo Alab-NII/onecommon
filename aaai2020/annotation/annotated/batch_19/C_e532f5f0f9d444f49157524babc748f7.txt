@@ -1,0 +1,5 @@
+1: Do you see a cluster of 5 in which the smallest is also the lightest?
+0: i have a cluster of four
+1: Is the smallest one the lightest shade?
+0: yes the smallest is the lightest
+1: Lets go for it!

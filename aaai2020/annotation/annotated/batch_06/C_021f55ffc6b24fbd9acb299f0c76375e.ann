@@ -1,0 +1,8 @@
+T1	Markable 14 35	a large dark grey dot
+T2	Markable 124 144	the rest of the dots
+T4	Markable 110 114	they
+T5	Markable 161 171	larger one
+T6	Markable 41 65	a smaller same color dot
+T7	Markable 69 72	tis
+#1	AnnotatorNotes T7	its
+R1	Anaphora Arg1:T7 Arg2:T1	

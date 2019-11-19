@@ -1,0 +1,4 @@
+1: very large black dot?
+0: I have a cluster of larger grey dots aligned horizontally smaller lightest dot is center
+1: if its slightly below the other two click that one!
+0: it is

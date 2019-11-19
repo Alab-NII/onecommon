@@ -1,0 +1,4 @@
+0: Do you have a group of dots that does not have a black
+1: Mine are pretty scattered, but right next to each other I have a small light gray dot below and to the left of the slightly larger darker gray dot
+0: I have that too let us try that
+1: OK lets do the lighter gray one on bottom

@@ -1,0 +1,2 @@
+0: i see a large black dot, and a little below it a medium grey dot, and below that a large dark grey dot
+1: click the large grey

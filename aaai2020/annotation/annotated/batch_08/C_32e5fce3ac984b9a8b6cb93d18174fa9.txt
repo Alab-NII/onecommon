@@ -1,0 +1,4 @@
+1: I see two very dot slightly small dots that are almost in a horizontal line
+0: I think I see that. Do they form a triangle with a dot that is above and slightly lighter and bigger?
+1: Yes! I guess click the darkest one that is furthest right!
+0: Sounds good!

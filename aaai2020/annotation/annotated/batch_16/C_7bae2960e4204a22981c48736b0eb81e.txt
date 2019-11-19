@@ -1,0 +1,7 @@
+0: i have a large dot at the 11 oclock spot by itself
+1: Do you have a black dot in the middle
+0: no...
+1: Do you have a medium Gray dot to the left middle
+0: yes... below to the right is a black dot, and further down, is 2 dots on the line
+1: Yes i think which ones do you want to choose
+0: the largest one on the line

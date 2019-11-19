@@ -1,0 +1,5 @@
+1: 3 are touching the edge
+0: I only have one large/dark one. Do you?
+0: Only one of mine is touching the edge.
+1: yes the largest Darkest one is about 5pm and toward the center
+0: Yup, go with the large dark one.

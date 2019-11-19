@@ -1,0 +1,12 @@
+T2	Markable 14 31	a cluster of dots
+T3	Markable 42 50	a 4 dots
+T5	Markable 79 100	large medium grey dot
+T6	Markable 190 204	the larger one
+T8	Markable 330 340	those four
+T9	Markable 361 382	the smallest dark one
+T1	Markable 69 75	bottom
+R1	Predicative Arg1:T5 Arg2:T1	
+T10	Markable 102 111	top right
+T11	Markable 137 147	two middle
+T4	Markable 242 244	it
+T12	Markable 272 291	the bottom most one

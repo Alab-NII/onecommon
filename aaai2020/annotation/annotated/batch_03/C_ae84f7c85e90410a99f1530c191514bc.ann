@@ -1,0 +1,26 @@
+T1	Markable 75 81	itself
+T2	Markable 106 109	one
+T3	Markable 143 146	one
+T4	Markable 208 214	itself
+T5	Markable 278 284	itself
+T6	Markable 377 383	itself
+T7	Markable 422 446	a smaller light grey one
+T8	Markable 598 622	a straight vertical line
+T9	Markable 14 38	a big medium gray circle
+T10	Markable 50 54	that
+R1	Anaphora Arg1:T1 Arg2:T10	
+T11	Markable 91 105	2 dark circles
+T12	Markable 116 119	one
+T13	Markable 127 142	2 light circles
+T14	Markable 153 156	one
+T15	Markable 177 196	a small grey circle
+R2	Anaphora Arg1:T4 Arg2:T15	
+T16	Markable 225 245	a larger grey circle
+R3	Anaphora Arg1:T5 Arg2:T16	
+T17	Markable 291 312	the large dark circle
+T18	Markable 321 348	a smaller light grey circle
+T19	Markable 363 373	the circle
+T20	Markable 394 413	a large dark circle
+T21	Markable 457 466	4 circles
+T22	Markable 540 561	the dark large circle
+T23	Markable 573 594	the light grey circle

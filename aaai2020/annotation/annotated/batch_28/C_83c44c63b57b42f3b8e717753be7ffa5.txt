@@ -1,0 +1,2 @@
+1: very tiny light dot with a slightly larger light dot directly below it?
+0: yes select the smaller top dot

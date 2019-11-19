@@ -1,0 +1,2 @@
+0: 4 dots forming a line sloping up to the left with bottom being smallest?
+1: one up above it to the left larger and darkest in the line?

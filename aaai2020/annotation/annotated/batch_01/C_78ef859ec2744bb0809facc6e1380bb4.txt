@@ -1,0 +1,5 @@
+0: I see three smaller circles almost in a line slanting down from right to left
+1: I think I see it. Is the left one the largest?
+0: The two on the outside are about the same size, the middle one is smaller
+1: Hmm that doesnt show up on my circle. How about a large dark dot with an equally sized one slightly lighter shade to the bottom right of it
+0: yeah I see it, let's pick the darker, top left one.

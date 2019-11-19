@@ -1,0 +1,4 @@
+0: dark dot alone near the top
+1: small?
+0: smaller than all the rest
+1: ok. pick that

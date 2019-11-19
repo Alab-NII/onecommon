@@ -1,0 +1,6 @@
+T1	Markable 14 31	a cluster of dots
+T2	Markable 71 83	3 small dots
+T3	Markable 141 154	the black one
+T4	Markable 56 59	a Y
+R1	Predicative Arg1:T4 Arg2:T1	
+T5	Markable 99 113	the middle one

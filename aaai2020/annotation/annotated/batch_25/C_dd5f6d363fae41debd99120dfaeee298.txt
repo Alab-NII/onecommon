@@ -1,0 +1,8 @@
+1: Two very large very dark circles very close together. and a lighter smaller one to the right of them
+0: Triangle with two larger dots on top. and the black being the point pointing down.
+1: I don't see the triangle. Do you see the Dots i described?
+0: No I do not.
+1: I see four light grey dots in the shape of a check mark (if traced) the furthest left and the furthest right are the largest of the 4
+0: Yes
+1: great. lets choose the one furthest to the left.
+0: perfect

@@ -1,0 +1,7 @@
+0: I have 4 dots same color in a somewhat square shape
+1: yes, gray two big?
+0: yea and they're across from each other
+1: roughly, is one by the right edge of the circle line?
+0: Yes
+1: lets mark that one ok?
+0: okay

@@ -1,0 +1,12 @@
+T1	Markable 3 32	Two almost black smaller dots
+T2	Markable 42 52	each other
+T3	Markable 66 79	1 large black
+T4	Markable 90 103	a small black
+T5	Markable 112 124	a small grey
+T6	Markable 143 155	any of those
+T7	Markable 174 189	the small black
+T8	Markable 205 220	the black large
+T9	Markable 241 261	your small black one
+T10	Markable 285 287	it
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T8

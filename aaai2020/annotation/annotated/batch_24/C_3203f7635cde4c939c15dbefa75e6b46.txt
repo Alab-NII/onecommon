@@ -1,0 +1,5 @@
+0: DO you have 5 dots close to the edge of the circle one in the center is dark?
+1: do you see 2 light gray dots of the same color with the smaller one above and to the right of the bigger one?...I don't see yours
+0: yes I see to dots of the same color with a smaller one above and to the right
+1: is there a bigger black dot to the right of the top dot? if so let's click the small gray dot on top
+0: yes! I will select the top pale dot

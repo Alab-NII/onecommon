@@ -1,0 +1,3 @@
+0: I have to same tiny and light dot close in vertical arrangement
+1: I have 2 light gray dot tiny almost on top of each other
+0: Select the topmost

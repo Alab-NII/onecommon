@@ -1,0 +1,3 @@
+0: line of 5 dots dark medium at top, large grey below smaller grey under that. small dark under that. medium grey at bottom
+1: I have a small black dot. Click that one?
+0: ok

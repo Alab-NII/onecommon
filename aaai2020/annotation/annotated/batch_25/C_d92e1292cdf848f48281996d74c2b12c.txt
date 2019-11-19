@@ -1,0 +1,4 @@
+0: The smallest dot here is medium gray
+1: Big light gray dot with smaller darker gray dot slanted next to it
+0: I can see it select the big light gray
+1: Click it pls

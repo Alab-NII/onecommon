@@ -1,0 +1,3 @@
+0: I see two horizontal dots. one on the left is huge and very light grey
+1: yes yes
+0: ok, let's choose that huge light grey one

@@ -1,0 +1,3 @@
+0: Do you see a slightly askew square made up of five dots?
+1: I have a large grey dot slightly right and above a large dark dot the same size
+0: I see that, lets select the lighter dot

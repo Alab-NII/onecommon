@@ -1,0 +1,6 @@
+0: Small black with a larger grey below it to the right
+1: I do not have that.
+0: Lone black?
+1: Yes, medium sized black, with nearest dot being medium grey dot above to the right, same size
+0: Yes, let's pick black
+1: ok

@@ -1,0 +1,13 @@
+T1	Markable 9 25	a large grey dot
+T3	Markable 109 119	a triangle
+T4	Markable 312 316	that
+T5	Markable 379 387	the rest
+T6	Markable 324 339	the largest dot
+T7	Markable 445 449	that
+T8	Markable 61 75	all the others
+T2	Markable 129 136	the top
+T9	Markable 158 173	the bottom left
+T10	Markable 221 237	the bottom right
+T11	Markable 266 269	all
+T12	Markable 277 293	my only triangle
+A1	No-Referent T4

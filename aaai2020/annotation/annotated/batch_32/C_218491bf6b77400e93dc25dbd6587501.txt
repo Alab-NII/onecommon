@@ -1,0 +1,4 @@
+1: i see a cluster of 4 dots , the one on top is the lightest
+0: I see that as well, almost like a lightning bolt?
+1: yup. let's choose the one on top
+0: Okay

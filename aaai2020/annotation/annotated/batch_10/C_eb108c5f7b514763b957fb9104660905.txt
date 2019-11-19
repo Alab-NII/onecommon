@@ -1,0 +1,5 @@
+1: my smallest dot is the lightest shade as well.
+0: mine is a dark gray i have only 1 black dot is large in size
+1: is it near any other dots?
+0: no its a loner
+1: same with mine, lets select that dot

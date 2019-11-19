@@ -1,0 +1,3 @@
+1: Small black dot with lighter dot to left
+0: yes and both are pretty close to the same size
+1: Yes, pick darker one

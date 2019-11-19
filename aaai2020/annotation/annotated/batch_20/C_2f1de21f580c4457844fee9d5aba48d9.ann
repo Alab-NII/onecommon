@@ -1,0 +1,8 @@
+T1	Markable 23 29	a line
+T2	Markable 14 19	three
+T3	Markable 89 99	bottom one
+T4	Markable 126 149	the bottom/smallest one
+R1	Predicative Arg1:T1 Arg2:T2	
+T5	Markable 30 33	all
+R2	Anaphora Arg1:T5 Arg2:T2	
+T6	Markable 50 60	Three dots

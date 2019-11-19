@@ -1,0 +1,8 @@
+T1	Markable 50 62	2 other dots
+T2	Markable 14 40	a very large very dark dot
+T3	Markable 93 103	each other
+T4	Markable 121 123	it
+T5	Markable 211 224	the other two
+T6	Markable 155 167	a nearby dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+T7	Markable 247 265	the dark large dot

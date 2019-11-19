@@ -1,0 +1,7 @@
+0: only have 1 large black near 4:00 position
+1: i dont have black dots. i have a gray dot above a smaller same color one
+0: do u have a small grey to the bottom near center
+1: no. i have 2 same size dots going diagonally to the to left
+0: dont have that i have two med greys towards left
+1: i have those too! pick the bottom one?
+0: ok

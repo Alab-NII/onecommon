@@ -1,0 +1,7 @@
+T1	Markable 97 105	they top
+T2	Markable 147 162	that bottom one
+T3	Markable 3 17	two large dots
+T4	Markable 55 66	one another
+R1	Anaphora Arg1:T4 Arg2:T3	
+T5	Markable 71 81	bottom one
+#1	AnnotatorNotes T1	the top

@@ -1,0 +1,5 @@
+1: do you have a med grey dot, small size by itself?
+0: two larger to the right one above?
+1: no. do you have 4 dots in a diamond shape 3 med size, 1 small?
+0: yes, choose the smaller
+1: ok

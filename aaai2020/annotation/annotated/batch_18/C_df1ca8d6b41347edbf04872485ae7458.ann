@@ -1,0 +1,12 @@
+T1	Markable 144 149	three
+T2	Markable 235 243	that one
+T3	Markable 259 262	one
+T5	Markable 287 289	it
+T6	Markable 384 386	it
+T7	Markable 479 487	that one
+T9	Markable 9 33	one medium dark gray dot
+T10	Markable 168 171	one
+T11	Markable 186 189	two
+T12	Markable 207 210	one
+A1	No-Referent T2
+R1	Anaphora Arg1:T5 Arg2:T3	

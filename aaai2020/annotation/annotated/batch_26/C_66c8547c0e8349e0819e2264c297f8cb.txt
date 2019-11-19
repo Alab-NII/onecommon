@@ -1,0 +1,5 @@
+0: i see a black dot with a small grey dot just above ut to the right
+1: All my dots are clustered on bottom, i see 2 large light gray dots, the one on top is lighter and slightly to the right.
+0: i have one large grey dot with 2 small grey dots one right above it and the other to the right
+1: me too! forms a triangle? if so, want to pick the big one?
+0: yes the big one

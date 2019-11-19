@@ -1,0 +1,3 @@
+1: Two black dots, left one is smaller and above to the one that is lower and a bit larger
+0: do you have a triangle in the middle or to the right? the top is black, bottom left is med/grey right is lightest and slightly largest?
+1: Take top small darkest

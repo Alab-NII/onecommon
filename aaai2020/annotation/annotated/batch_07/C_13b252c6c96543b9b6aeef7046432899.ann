@@ -1,0 +1,8 @@
+T1	Markable 43 64	the lightest gray one
+T2	Markable 10 16	3 dots
+T3	Markable 27 37	a triangle
+T4	Markable 87 115	a pretty small dark grey dot
+T5	Markable 122 130	your dot
+T6	Markable 136 152	a light gray one
+T7	Markable 190 206	the lighter grey
+R1	Predicative Arg1:T3 Arg2:T2	

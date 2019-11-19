@@ -1,0 +1,4 @@
+1: Do you have one dot that is significantly darker than all the rest?
+0: I have a large black dot near the edge of the circle west of center
+1: To confirm, is there another lighter dot below it to the right?
+0: Yes

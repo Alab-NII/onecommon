@@ -1,0 +1,4 @@
+1: I see three dots. They form a triangle. All small, but one is smaller. Two have the same color, maybe one is more or less darker. One is lighter.
+0: I think I see those. In the top half, on the left side?
+1: Yes.
+0: I'm confident in clicking one of those. The one on the right is the darkest.

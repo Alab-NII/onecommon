@@ -1,0 +1,5 @@
+1: massive one black do you see it?
+0: no, i see two dots really close to each other, somewhat diagonal
+1: the one at the top left is bigger?
+0: yes, let's choose that one
+1: ok

@@ -1,0 +1,6 @@
+T1	Markable 9 38	a very dark, fairly large dot
+T2	Markable 69 96	a smaller, fairly light dot
+T3	Markable 164 183	the large, dark dot
+T4	Markable 46 49	its
+R1	Anaphora Arg1:T4 Arg2:T1	
+T5	Markable 132 150	the same formation

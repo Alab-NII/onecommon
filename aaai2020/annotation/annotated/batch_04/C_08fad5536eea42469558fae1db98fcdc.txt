@@ -1,0 +1,5 @@
+1: Do you have a small black dot in the center
+0: is it to the right of a larger medium gray dot
+1: yes
+0: got it
+1: lets choose the black one

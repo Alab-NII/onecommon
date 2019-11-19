@@ -1,0 +1,7 @@
+0: do you have a line of four dots?
+1: i have 2 med dark dots next to each other
+0: Are they about the same size?
+1: yea
+0: Is there a smaller lighter gray one next to them?
+1: yeah on the left
+0: Okay, lets select the lighter gray one

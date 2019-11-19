@@ -1,0 +1,26 @@
+T1	Markable 9 26	a really dark dot
+T2	Markable 33 72	a slightly larger, slightly lighter dot
+T3	Markable 149 164	a diagonal line
+T4	Markable 114 118	they
+T5	Markable 358 367	those two
+T6	Markable 258 281	another really dark dot
+T7	Markable 212 215	two
+T9	Markable 305 315	the darker
+T10	Markable 319 328	this pair
+T11	Markable 346 348	it
+T12	Markable 383 387	that
+T13	Markable 402 413	a black dot
+T14	Markable 429 435	itself
+T15	Markable 451 467	a large gray dot
+T16	Markable 471 477	itself
+T17	Markable 532 554	a tiny medium gray dot
+T18	Markable 558 564	itself
+R1	Predicative Arg1:T3 Arg2:T4	
+R3	Anaphora Arg1:T11 Arg2:T6	
+A1	No-Referent T12
+R4	Anaphora Arg1:T14 Arg2:T13	
+R5	Anaphora Arg1:T16 Arg2:T15	
+T8	Markable 489 502	no large dots
+A2	No-Referent T8
+R6	Anaphora Arg1:T18 Arg2:T17	
+T19	Markable 169 177	diagonal

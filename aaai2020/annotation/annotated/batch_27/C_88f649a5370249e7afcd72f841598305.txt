@@ -1,0 +1,4 @@
+0: Large black dot with a dark grey next to it
+1: Yes!
+0: Wanna pick black?
+1: Yes!

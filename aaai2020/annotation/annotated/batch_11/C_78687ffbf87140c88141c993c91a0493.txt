@@ -1,0 +1,9 @@
+0: do you have any dots close together?
+1: Hello, 2 large dots very close to each other. the left one is darker and slightly lower
+0: i have that on the upper right edge of my circle. is there anything below or to the left of those two?
+1: i have a smaller one that is medium gray off to the far south west of it, and 3 dots that make a triangle off to the far west of it
+0: i do not see anything that makes a triangle.
+1: It's ok, our circles are not identical. if you see the 2 I originally mentioned, those should be the common ones. Click the darker one on the left?
+0: the darker one of the the two we first described close together?
+1: Yep!
+0: ok

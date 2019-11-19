@@ -1,0 +1,2 @@
+1: I have one large grey dot in the middle of my view. It has a small light grey dot up and to the left with a medium dark grey to the left of the small one. It kind of makes a triangle?
+0: Yes, I have that dot too.

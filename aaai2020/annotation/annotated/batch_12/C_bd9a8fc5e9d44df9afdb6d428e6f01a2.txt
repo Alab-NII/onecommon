@@ -1,0 +1,6 @@
+1: I see a light gray alone. It is the only light gray I have. (Lightest shade of gray)
+0: What part of the circle?
+1: Our views are different. Mine is at the central top.
+0: is it a small circle?
+1: Yes
+0: i also have a small dot light gray by it self

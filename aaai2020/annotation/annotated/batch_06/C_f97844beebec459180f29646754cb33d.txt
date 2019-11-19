@@ -1,0 +1,3 @@
+0: Do you see two large dark dots?
+1: Yes! One is on top of the other and slightly to the right
+0: Let's pick the top one!

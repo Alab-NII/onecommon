@@ -1,0 +1,5 @@
+0: do you see a little black dot on the left side at the top
+1: Does it have a large medium gray one down and to the right of it?
+0: mine has the large med gray to the left of it but they could be different
+1: Oh you are right! I said right by accident, my mistake. Let's click the small black dot?
+0: sounds good

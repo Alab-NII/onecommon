@@ -1,0 +1,15 @@
+T1	Markable 10 22	2 small ones
+T2	Markable 24 37	the light one
+T3	Markable 67 82	a dark grey one
+T4	Markable 101 118	a large black one
+T5	Markable 125 127	it
+T6	Markable 212 231	a lonely darker dot
+T7	Markable 178 199	a med size darker dot
+T8	Markable 285 304	the lonely dark one
+T9	Markable 355 369	the second one
+T10	Markable 436 457	the largest black one
+T11	Markable 138 148	a "c" form
+T12	Markable 338 343	the C
+T13	Markable 375 396	the largest and black
+R1	Predicative Arg1:T13 Arg2:T9	
+T14	Markable 461 466	the C

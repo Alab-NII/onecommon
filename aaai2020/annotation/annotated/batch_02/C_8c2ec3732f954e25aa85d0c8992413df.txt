@@ -1,0 +1,2 @@
+0: i have a large gray dot on the right side of the circle
+1: okay lets do that one

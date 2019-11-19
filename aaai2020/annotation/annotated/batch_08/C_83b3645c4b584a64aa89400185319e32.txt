@@ -1,0 +1,4 @@
+0: I have a small black dot to the lower left of a larger dark dot
+1: Are they the same color dot ?
+0: they look the same color yes
+1: Lets choose the bigger one

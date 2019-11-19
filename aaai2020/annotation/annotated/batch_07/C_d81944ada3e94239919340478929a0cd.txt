@@ -1,0 +1,8 @@
+1: I only have three light colored dots, and they are in a vertical line. Same with you?
+0: No. I think the furthest one on top is cut out of my view. What sizes are the dots you're seeing?
+1: There is a big one at the bottom that is actually a tad darker than the other two. The middle one is the smallest, and the top one is mid sized.
+0: Yes!
+1: Okay, do you want to go with the big one?
+0: The one all the way at the bottom?
+1: It should be medium colored, not black. I also have a large one near the bottom that is black. You tell me
+0: Let's pick the dot that is in the middle of the line we were talking about before

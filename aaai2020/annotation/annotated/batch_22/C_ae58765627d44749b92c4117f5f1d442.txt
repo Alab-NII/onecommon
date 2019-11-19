@@ -1,0 +1,11 @@
+1: small almost black dot, above it is a large grey dot?
+0: do you have a dark dot on the top
+1: no, i don't have any dots at the top
+0: four dots line up on the bottom
+1: four dot, not lined up. do you have a lonely large light grey dot?
+0: okay do you have touching the circle.
+1: no, nothing is touching the circle
+0: do you have a small light gray dot by itself
+1: yes
+0: close to the middle of the circle.
+1: yes

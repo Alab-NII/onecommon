@@ -1,0 +1,5 @@
+1: one large dark grey dot with a small light grey dot above and to the right from it. some med grey dots far below
+0: I don't see it. Do you have a black dot?
+1: nope. what about two med grey dots, one small one a bit larger with the larger to the right of it (and a tiny bit above) they're very close
+0: Yes which should we choose?
+1: the smaller one

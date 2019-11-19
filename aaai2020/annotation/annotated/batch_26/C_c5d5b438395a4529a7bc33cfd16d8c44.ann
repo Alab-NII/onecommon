@@ -1,0 +1,10 @@
+T1	Markable 10 38	one very tiny light gray dot
+T3	Markable 102 125	a medium light grey dot
+T4	Markable 52 55	one
+T5	Markable 84 87	one
+T6	Markable 136 143	the one
+T7	Markable 150 173	a medium light gray dot
+T8	Markable 200 213	the small one
+T9	Markable 190 198	that one
+T10	Markable 49 50	2
+R1	Predicative Arg1:T8 Arg2:T9	

@@ -1,0 +1,6 @@
+1: Hello! Where's your dot?
+0: I have a small black dot to the right
+1: Does it have a larger light gray dot to the right of it?
+0: Yes it does
+1: ok lets click the small black dot
+0: That sounds good

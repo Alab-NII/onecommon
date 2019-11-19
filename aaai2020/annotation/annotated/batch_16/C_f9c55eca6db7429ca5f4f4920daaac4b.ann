@@ -1,0 +1,7 @@
+T1	Markable 80 102	a larger dark grey one
+T2	Markable 72 74	it
+T3	Markable 109 111	it
+T4	Markable 6 23	your smallest dot
+T5	Markable 34 43	small dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+T6	Markable 184 224	the small top to the left edge of circle

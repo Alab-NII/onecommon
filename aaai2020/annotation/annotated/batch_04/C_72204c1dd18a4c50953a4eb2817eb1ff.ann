@@ -1,0 +1,11 @@
+T1	Markable 9 19	three dots
+T2	Markable 61 65	They
+T3	Markable 99 113	two large dots
+T4	Markable 168 172	They
+T5	Markable 217 226	the upper
+T6	Markable 245 255	three dots
+T7	Markable 309 323	those two dots
+T8	Markable 356 378	the bottom, darker one
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T3	
+T9	Markable 197 207	the bottom

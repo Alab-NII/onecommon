@@ -1,0 +1,4 @@
+1: Large light grey dot with a smaller light grey dot below it
+0: is it slightly smaller and a bit darker?
+1: Yes
+0: lets select the larger and lighter one, thanks

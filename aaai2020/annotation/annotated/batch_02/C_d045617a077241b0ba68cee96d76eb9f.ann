@@ -1,0 +1,6 @@
+T2	Markable 73 87	a lightest one
+T3	Markable 42 53	darkest one
+T4	Markable 103 105	it
+T5	Markable 126 128	it
+T6	Markable 136 150	the darker one
+R1	Anaphora Arg1:T4 Arg2:T3	

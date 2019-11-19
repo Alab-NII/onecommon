@@ -1,0 +1,4 @@
+1: i see a darker medium to large size dot near top left of circle isolated
+0: I don't see that. Do you see two dots to the right of the circle, both similar sizes, one is slightly lighter and to the right of the other?
+1: no, i see the 2nd most dark dot medium size bottom left of circle with a darker grey larger dot top right of previous said dot, and a lighter grey slightly larger size dot top left of original black dot stated
+0: Okay. Select the large light grey dot on the left you see. I think we have the same one.

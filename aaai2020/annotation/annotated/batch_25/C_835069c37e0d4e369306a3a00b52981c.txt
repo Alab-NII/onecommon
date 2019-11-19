@@ -1,0 +1,4 @@
+0: two large black dots diagonal to each other?
+1: Yes spaced somewhat far apart?
+0: yes! if the one slightly darker is up to the right click that one
+1: yep click it!

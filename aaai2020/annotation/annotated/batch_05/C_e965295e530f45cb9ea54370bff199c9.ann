@@ -1,0 +1,10 @@
+T2	Markable 40 43	one
+T3	Markable 10 33	one very large dark dot
+T4	Markable 127 146	a cluster of 4 dots
+T6	Markable 162 172	one darker
+T7	Markable 217 220	one
+T8	Markable 224 238	a touch darker
+T9	Markable 188 193	three
+T10	Markable 262 276	the darker one
+T1	Markable 148 149	3
+R1	Predicative Arg1:T8 Arg2:T7	

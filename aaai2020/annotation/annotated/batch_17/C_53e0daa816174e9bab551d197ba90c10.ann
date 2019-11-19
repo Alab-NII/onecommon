@@ -1,0 +1,6 @@
+T1	Markable 33 43	a triangle
+T2	Markable 3 24	3 large med grey dots
+R1	Predicative Arg1:T1 Arg2:T2	
+T3	Markable 53 59	middle
+T4	Markable 113 123	the middle
+R2	Anaphora Arg1:T4 Arg2:T3	

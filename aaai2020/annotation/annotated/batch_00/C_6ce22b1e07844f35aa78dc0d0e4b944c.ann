@@ -1,0 +1,19 @@
+T1	Markable 72 78	3 dots
+T2	Markable 113 117	dots
+T3	Markable 133 137	they
+T4	Markable 222 226	they
+T5	Markable 199 203	that
+T6	Markable 264 280	a large grey dot
+T7	Markable 332 348	a large dark dot
+T8	Markable 395 401	3 dots
+T9	Markable 421 436	the darkest dot
+T10	Markable 510 528	the large dark dot
+T11	Markable 15 41	a large medium grey circle
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+T12	Markable 147 168	My medium gray circle
+R3	Anaphora Arg1:T4 Arg2:T5	
+T13	Markable 457 462	the U
+R4	Anaphora Arg1:T13 Arg2:T8	
+T14	Markable 480 491	the U shape
+A1	No-Referent T14

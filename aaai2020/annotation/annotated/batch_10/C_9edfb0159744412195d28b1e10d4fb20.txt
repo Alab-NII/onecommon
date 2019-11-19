@@ -1,0 +1,6 @@
+1: Hello, I have one dot darker than the rest
+0: I have two black dots one large one on the left and a small black one on the right
+1: Yes me too, but I have two large dots that are the same color
+0: is your black dot alone?
+1: No, each are next to a smaller dot. Then I have a light gray dot, medium gray dot, bigger light gray dot
+0: Lets pick the very light grey dot

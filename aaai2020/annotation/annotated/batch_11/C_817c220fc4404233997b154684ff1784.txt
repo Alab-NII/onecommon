@@ -1,0 +1,6 @@
+0: I see a pair of vertical black dots close together
+1: is the top one larger?
+0: Yes, let's choose the larger top one
+1: do you have anything to their left?
+0: Another medium black dot
+1: perfect. top larger

@@ -1,0 +1,26 @@
+T1	Markable 66 76	each other
+T2	Markable 9 17	two dots
+T3	Markable 78 89	the top one
+T4	Markable 153 163	my top one
+T5	Markable 175 186	a dark gray
+T6	Markable 143 147	that
+T7	Markable 195 217	a very large black one
+T8	Markable 229 239	a triangle
+T9	Markable 245 253	two dots
+T10	Markable 341 351	a triangle
+T11	Markable 365 381	a tiny black dot
+T12	Markable 387 421	a dark grey just barely larger dot
+T13	Markable 444 446	it
+T14	Markable 466 486	two small black dots
+T15	Markable 490 505	a diagonal line
+T16	Markable 517 521	that
+T17	Markable 552 559	the two
+R1	Anaphora Arg1:T1 Arg2:T2	
+T18	Markable 100 110	the bottom
+R2	Predicative Arg1:T5 Arg2:T4	
+T19	Markable 327 330	any
+A1	No-Referent T19
+R3	Predicative Arg1:T10 Arg2:T19	
+R4	Anaphora Arg1:T13 Arg2:T11	
+R5	Predicative Arg1:T15 Arg2:T14	
+T20	Markable 538 548	the lowest

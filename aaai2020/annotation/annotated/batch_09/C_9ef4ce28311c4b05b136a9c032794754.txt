@@ -1,0 +1,5 @@
+1: I have a dark grey large dot with a smaller darker dot just down and to the right
+0: Hmm I dont have a large dark grey dot. Do you have a tiny dark grey dot that is very close to a medium size and shade dot to its bottom right?
+1: Yes I see that cluster. You want to click on the darker small dot?
+0: Yep sounds good!
+1: Great!

@@ -1,0 +1,10 @@
+T1	Markable 14 24	a triangle
+T2	Markable 34 53	the lower dark dots
+T3	Markable 66 70	they
+T4	Markable 109 122	the top point
+T5	None 106 108	it
+T6	Markable 158 171	the top point
+T7	Markable 54 64	upper grey
+R1	Anaphora Arg1:T3 Arg2:T1	
+#1	AnnotatorNotes T5	is
+R2	Anaphora Arg1:T6 Arg2:T4	

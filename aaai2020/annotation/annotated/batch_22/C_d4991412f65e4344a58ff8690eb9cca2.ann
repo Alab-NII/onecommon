@@ -1,0 +1,5 @@
+T1	Markable 10 29	a cluster of 3 dots
+T3	Markable 146 148	it
+T4	Markable 88 92	that
+T5	Markable 97 112	the darkest one
+R1	Anaphora Arg1:T3 Arg2:T5	

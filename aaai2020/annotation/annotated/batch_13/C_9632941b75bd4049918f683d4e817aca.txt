@@ -1,0 +1,4 @@
+0: Do you see two medium sized light gray dots at the top
+1: yes, one under the other?
+0: Yes lets click the one that is above the other one
+1: great

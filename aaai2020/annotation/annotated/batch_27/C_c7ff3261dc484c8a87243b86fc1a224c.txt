@@ -1,0 +1,5 @@
+0: i have two black very close, the bottom is slightly larger that the one on top of it
+1: are they on your left or right? i have only one that looks black on the lower right side, the other that may be considered black is tiny on the far left lower side, it's more like a really dark grey
+0: mine is on my lower right almost on the line with a small light grey dot to the left of it. do you have 2 of the same size with the right one being light grey and slightly higher?
+1: the light one to the left of my Right side black one is smaller ... shall we pick the light one next to the black on the lower right?
+0: yes

@@ -1,0 +1,9 @@
+T3	Markable 142 150	triangle
+T4	Markable 89 101	the triangle
+T5	Markable 107 125	a large light gray
+T6	Markable 15 32	a Large black dot
+T7	Markable 44 54	a triangle
+T8	Markable 60 72	a small gray
+T9	Markable 205 224	the large black dot
+R1	Anaphora Arg1:T4 Arg2:T7	
+R2	Anaphora Arg1:T3 Arg2:T7	

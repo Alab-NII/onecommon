@@ -1,0 +1,10 @@
+T1	Markable 15 21	2 dots
+T2	Markable 52 60	left one
+T3	Markable 103 119	mostly dark ones
+T4	Markable 130 146	One med/grey one
+T5	Markable 178 195	a small black one
+T6	Markable 233 247	those two dots
+T8	Markable 77 86	the right
+T9	Markable 209 213	it's
+R1	Anaphora Arg1:T9 Arg2:T4	
+T7	Markable 296 320	the light upper left one

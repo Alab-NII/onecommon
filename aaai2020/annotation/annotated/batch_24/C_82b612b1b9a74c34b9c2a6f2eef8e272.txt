@@ -1,0 +1,7 @@
+0: Do you have any dots touching the edge of the circle.
+1: very large very dark dot? to the right? no nothing touching they're all center , from top to bottom all at least half inch in
+0: I have the very big large black dot. It's northeast of center
+1: it might be the same... do you have two light small ones below it? right below and further left?
+0: yes
+1: great shall we try the big black one then?
+0: yes

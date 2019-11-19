@@ -1,0 +1,3 @@
+1: two small dots almost identical in size close together in diagonal line?
+0: no! black larger dot in a triangle with two smaller light dots?
+1: yes! lightest on all the way to the right? if so click that one!

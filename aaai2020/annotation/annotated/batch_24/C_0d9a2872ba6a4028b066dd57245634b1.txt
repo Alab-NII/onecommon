@@ -1,0 +1,3 @@
+1: do you see a large black dot with a slightly smaller dark grey dot a little down and to the left of it
+0: no i dont, i see a triangle of smaller dots and a triangle of larger dots, the smaller set has a larger dark dot in the middle with smaller grey dot above, and smaller medium color grey on bottom
+1: select the light one

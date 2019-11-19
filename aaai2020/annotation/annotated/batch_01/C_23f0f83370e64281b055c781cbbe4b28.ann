@@ -1,0 +1,15 @@
+T1	Markable 24 47	a lonely light gray dot
+T2	Markable 90 111	one light colored dot
+T3	Markable 153 156	one
+T4	Markable 219 222	one
+T5	Markable 242 257	a dark gray dot
+T6	Markable 315 330	a dark grey dot
+T7	Markable 394 402	that one
+T8	Markable 466 468	it
+T9	Markable 541 545	that
+A1	No-Referent T3
+A2	No-Referent T4
+A3	No-Referent T7
+T10	Markable 413 427	light grey dot
+T11	Markable 482 487	Mines
+R1	Anaphora Arg1:T11 Arg2:T8	

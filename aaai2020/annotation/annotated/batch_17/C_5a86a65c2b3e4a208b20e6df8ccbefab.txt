@@ -1,0 +1,7 @@
+1: i have a small dark grey spot almost center
+0: Is there a very light grey dot almost the same size down to its diagonal right?
+1: mine is to the left
+0: do you see a very light grey dot?
+1: wait, yes
+0: is there a slightly larger med grey dot to its right? if so click that very light grey dot
+1: i picked it

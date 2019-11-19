@@ -1,0 +1,5 @@
+1: Do you have an obtuse triangle pattern, top left is black and small, mid is grey and tiny, low is medium and light
+0: i dont believe i see your triangle. i have one smaller, light colored dot. it has a much bigger and dark dot down below it.
+1: Do you have largest sized black dot? Above it is a larger grey dot offset to the left, I do not see yours
+0: yes, is it near an edge on yours? that is where my very light one is also.
+1: Click the bottom black one that is largest

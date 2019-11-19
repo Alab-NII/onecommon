@@ -1,0 +1,8 @@
+0: Hello! Where's your dot?
+1: Do you have two black dots?
+0: I have 3. But I see 2 closer to each other. The top one is smaller than the bottom one, and the bottom one is slightly to the right at about 5 o clock
+1: Hm I also have a black dot that is to the right at about 5 o clock
+0: Is it large or medium size?
+1: Compared to the other dots I have it is medium
+0: ok let's click the medium dot? sounds like it might be correct
+1: Sounds good to me :)

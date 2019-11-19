@@ -1,0 +1,7 @@
+0: do u have a small black with a large light grey above and to the right slightly?
+1: no
+0: a small light grey almost on its own?
+1: yes
+0: below that small light grey, and to the right slightly a large dark grey?
+1: yes and to right right of the little dot is another little dot and to the right of the big dot is a small dark dot
+0: pick that light grey dot, its at my edge, so i cant see to its right.

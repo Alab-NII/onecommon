@@ -1,0 +1,10 @@
+T1	Markable 10 29	one small black dot
+T2	Markable 47 67	any small black dots
+T3	Markable 76 96	two large black dots
+T4	Markable 98 101	One
+T5	Markable 128 131	one
+T6	Markable 153 169	a small grey dot
+T7	Markable 184 203	the large black dot
+T8	Markable 247 249	it
+A1	No-Referent T2
+T9	Markable 212 230	the small grey dot

@@ -1,0 +1,6 @@
+0: I see 4 dots in a line. Two of the middle dots are dark
+1: Hmm - is a lighter gray dot on that line?
+0: My light grey dot is on the right side of the line
+1: Is it in e middle of a dark gray dot and a darker grey dot? Both bigger than it?
+0: I have one like that in a diagonal vertical line
+1: Okay go with that light gray in the middle

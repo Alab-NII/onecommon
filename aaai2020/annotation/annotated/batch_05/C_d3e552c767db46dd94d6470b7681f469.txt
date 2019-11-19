@@ -1,0 +1,7 @@
+1: do you see a tiny med gray dot on the top of the left side
+0: I see a tiny medium grey dot by itself but mine is on the right side!
+1: do you see a med size light gray dot closer to the bottom
+0: Kind of. It's on the left side. And below it to the right is a smaller darker dot and below that and to the right is an even smaller and lighter dot.
+1: maybe not the same do you see a very light dot on the left side very tiny
+0: I see that but mine is more toward the bottom and center :(
+1: lets try that one

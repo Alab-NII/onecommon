@@ -1,0 +1,9 @@
+1: Do you see a big medium gray circle?
+0: HI!
+1: that is sort of alone by itself
+0: I see 2 dark circles one large one small. 2 light circles one large one small
+1: do you see a small grey circle that is by itself?
+0: I see a larger grey circle on the left side that is all by itself
+1: is the large dark circle next to a smaller light grey circle?
+0: Yes below the circle by itself, there is a large dark circle next to a smaller light grey one. is there 4 circles on the right in the shape of the dipper in the big dipper?
+1: let's pick the dark large circle underneath the light grey circle in a straight vertical line

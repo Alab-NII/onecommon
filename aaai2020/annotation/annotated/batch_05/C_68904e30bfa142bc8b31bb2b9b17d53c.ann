@@ -1,0 +1,7 @@
+T1	Markable 47 60	the right one
+T2	Markable 35 45	each other
+T3	Markable 83 87	they
+T4	Markable 132 139	the one
+T5	Markable 3 22	two dark small ones
+R1	Anaphora Arg1:T2 Arg2:T5	
+R2	Anaphora Arg1:T3 Arg2:T5	

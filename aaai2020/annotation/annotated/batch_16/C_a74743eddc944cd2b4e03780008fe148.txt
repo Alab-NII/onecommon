@@ -1,0 +1,2 @@
+1: Do you have two large black dots close to each other with the one on top slightly to the left?
+0: yes, let us pick the one on top slightly to the left

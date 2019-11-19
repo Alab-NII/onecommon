@@ -1,0 +1,13 @@
+T1	Markable 14 27	two dark dots
+T2	Markable 41 47	7 dots
+T3	Markable 95 102	3 light
+T4	Markable 87 93	4 dark
+T5	Markable 104 122	3 larger dark ones
+T6	Markable 127 143	one smaller dark
+T7	Markable 154 171	four lighter dots
+T8	Markable 203 233	a slightly smaller lighter dot
+T9	Markable 187 197	a dark dot
+T10	Markable 335 337	it
+A1	All-Referents T2
+T11	Markable 61 76	Three dark dots
+T12	Markable 254 271	a medium dark dot

@@ -1,0 +1,6 @@
+0: I see a black dot with a slightly larger black dot that is slightly diagonal from it
+1: tiny light dot... off to it's lower right over an inch away is a BIT bigger black one, in line off to it's lower right is a med-grey one of same size
+0: I think I see the tiny light dot with the slightly bigger black one
+1: is the black one the same you described? is your second slightly larger one below it about an inch down to it's left?
+0: yes
+1: ok let's choose the smaller black one above your bigger one

@@ -1,0 +1,14 @@
+T1	Markable 3 17	all of my dots
+T2	Markable 218 230	the grey dot
+T3	Markable 167 170	one
+T4	Markable 180 189	the black
+T5	Markable 97 105	two dots
+T6	Markable 251 276	the dark grey smaller one
+A1	All-Referents T1
+T7	Markable 74 78	mine
+A2	All-Referents T7
+T8	Markable 52 57	black
+T9	Markable 61 70	dark grey
+T10	Markable 115 125	each other
+R1	Anaphora Arg1:T10 Arg2:T5	
+T11	Markable 150 153	one

@@ -1,0 +1,5 @@
+1: two tiny dots different shades located directly next to each other?
+0: the darker of the two, is to the right and lower than the lighter one?
+1: Yes...choose that one
+0: which one of the two?
+1: the darker of the two

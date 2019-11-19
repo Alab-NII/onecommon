@@ -1,0 +1,2 @@
+1: I have a line of dots. the top one is black and medium sized, the middle one is large and medium grey, and the bottom one is the same color but very small
+0: i see them. click on big middle one?

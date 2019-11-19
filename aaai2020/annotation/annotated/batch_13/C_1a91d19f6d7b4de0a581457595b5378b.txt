@@ -1,0 +1,5 @@
+1: do you see two dots of almost the same size & color (large, medium grey) on top of each other? not too far apart
+0: is the one on top lighter and to the left?
+1: no, lets try another. do you see a dark small dot with a small (very slightly larger) light dot up & to the left from it?
+0: Yes!
+1: pick the dark one

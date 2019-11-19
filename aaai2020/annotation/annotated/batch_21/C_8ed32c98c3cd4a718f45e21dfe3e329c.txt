@@ -1,0 +1,4 @@
+1: I have only one large almost black dot
+0: very large black dot?
+1: Yes, let us select it
+0: wait is there a small dark grey dot down to its left? if so click that black one then!

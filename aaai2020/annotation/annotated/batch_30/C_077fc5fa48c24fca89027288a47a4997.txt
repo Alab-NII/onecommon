@@ -1,0 +1,4 @@
+0: i have 3 large light dots very close to each other
+1: hmm i only have 1 light dot all by itself. every other dot is either grey or dark grey. 3 bunched together, two same size grey with a slightly darker smaller one to the left of them
+0: yes i have those 3 and i have the light one you are talking about, on the left side of them. which one do you wanna choose?
+1: pick the light one by itself then, thanks! :)

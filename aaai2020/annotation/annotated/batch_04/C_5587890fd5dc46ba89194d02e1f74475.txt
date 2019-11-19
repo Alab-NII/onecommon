@@ -1,0 +1,4 @@
+0: I have two similarly sized dots near one another. the top one is SLIGHTLY larger and lighter, the lower and slightly to the right one is darker and a little smaller
+1: yes
+0: click the darker one?
+1: ok

@@ -1,0 +1,5 @@
+1: Two very light dots vertical, bottom one is slightly more left and is bigger
+0: i have two tiny light grey dots real close vertical. top one is slightly to the right
+0: ha! click bottom
+1: Take bottom bigger
+0: i did

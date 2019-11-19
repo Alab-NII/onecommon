@@ -1,0 +1,6 @@
+0: Do you have a small medium gray dot and a small dark gray dot near each other?
+1: Hello. I have three dark dots forming a downward pointing triangle. There's a medium gray dot in the middle, near the small dark gray that forms the top right of the triangle.
+0: Is the medium gray dot larger than the dark one?
+1: No, they're about the same size
+0: Ok. How about two larger dark dots?
+1: in roughly a line? Yeah, let's pick the right, almost out of time

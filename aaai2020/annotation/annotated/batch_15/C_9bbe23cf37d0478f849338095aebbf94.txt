@@ -1,0 +1,5 @@
+1: I see one large, light grey dot
+0: I do not. Do you see a large light grey dot at the bottom?
+1: No. I see a large dark dot just on the edge of the upper left side
+0: I see that one too. Let's choose it.
+1: ok

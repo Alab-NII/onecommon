@@ -1,0 +1,5 @@
+1: I see one very obvious small dark grey dot.
+0: I see one too--mine is to the left of a lighter, slightly larger dot.
+1: Your left and my left can be different. Is it almost equidistant from that as it is from a large dot that is similar in shade to the other dot its close to?
+0: I think so
+1: Hmm. I guess let's pick the really small dark grey one.

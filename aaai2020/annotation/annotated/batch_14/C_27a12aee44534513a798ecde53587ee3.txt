@@ -1,0 +1,11 @@
+0: I have an almost horizontal line of 4 grey dots
+1: one darker up top
+0: Remember, we have different views of same map. What is at your top might be at my bottom, for example
+1: oh ok 2 light grey, 3 medium grey 2 dark grey
+0: Do you have any black?
+1: yes
+0: How many?
+1: 2 actually the ones i called dark grey i would say are black really
+0: Are they by themselves?
+1: yes
+0: I do to. I have 2. Click the one that is higher on your map

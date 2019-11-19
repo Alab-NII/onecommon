@@ -1,0 +1,8 @@
+1: I have a large very dark gray dot with a smaller very light gray dot below and to the left of it
+0: The darkest dot i have is medium size
+1: I see 2 same sized (fairly large) medium gray dots in a diagonal line that slants down and to the right.
+0: I see three same size dot same color two forming a slant line not straight line
+1: I think I only have two of them. Are they fairly large dots you see?
+0: yes, let us select the lowest one. it has a light smaller one to its left
+1: I don't have the lowest. Let's pick the highest one on the left
+0: ok

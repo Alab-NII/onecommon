@@ -1,0 +1,4 @@
+0: a very small dark dot under a large one
+1: i do have that
+0: let's pick the small one
+1: okay small dark dot under the large one

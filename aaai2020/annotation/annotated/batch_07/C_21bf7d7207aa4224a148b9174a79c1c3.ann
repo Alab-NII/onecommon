@@ -1,0 +1,7 @@
+T1	Markable 53 69	a large gray dot
+T2	Markable 75 93	a medium black dot
+T3	Markable 15 31	a small grey day
+#1	AnnotatorNotes T3	a small grey dot
+T4	Markable 97 100	its
+R1	Anaphora Arg1:T4 Arg2:T1	
+T5	Markable 122 132	large grey

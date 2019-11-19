@@ -1,0 +1,5 @@
+T1	Markable 3 24	two dark smaller dots
+T2	Markable 35 48	vertical line
+T4	Markable 173 191	smaller bottom one
+R1	Predicative Arg1:T2 Arg2:T1	
+T5	Markable 52 67	Lonely grey dot

@@ -1,0 +1,6 @@
+T1	Markable 9 24	a dark grey dot
+T2	Markable 58 73	three dark dots
+T3	None 141 144	one
+T4	Markable 120 140	med size dot it dark
+#1	AnnotatorNotes T4	med size dot dark
+#2	AnnotatorNotes T3	on

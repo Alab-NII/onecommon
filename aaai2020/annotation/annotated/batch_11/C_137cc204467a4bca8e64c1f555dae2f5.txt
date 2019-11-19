@@ -1,0 +1,3 @@
+0: very small black dot, below and to the right is also a small dot that's a normal grey
+1: I see it, are they kind of off on their own?
+0: Yes. Let's pick the black dark one

@@ -1,0 +1,4 @@
+1: do you see a very tiny medium-shade dot off by itself?
+0: hmm no. do you see a very light med sized dot?
+1: yes, is it right next to a smaller dark dot?
+0: yes click that very light one!

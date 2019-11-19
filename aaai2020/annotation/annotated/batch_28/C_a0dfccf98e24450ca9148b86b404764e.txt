@@ -1,0 +1,3 @@
+0: three small dots forming a line sloping up to the right?
+1: yes middle is the darkest? and top is the lightest?
+0: exactly! click the top lightest one!

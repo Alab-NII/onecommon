@@ -1,0 +1,4 @@
+0: I see two tiny very light grey dots not too far from each other
+1: Yes, there is a larger darker dot very close to the right of one?
+0: The large dot is to the left of the bottom one
+1: Yes. I meant to correct myself, but couldn't chat until you did. Let's choose the darker one to the left.

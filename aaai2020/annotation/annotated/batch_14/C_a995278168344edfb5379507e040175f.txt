@@ -1,0 +1,8 @@
+0: I see one medium sized black dot with a same sized light gray one below it
+1: I see five that form a cross, with small gray in center. I dont think I see what you describe
+0: I do not see a cross. I see one large lonely dark gray dot
+1: I see a light gray and a large medium color and med size gray all alone on edge, not near each other
+0: I see only two small ones, the black one and light gray. the rest are large two light gray ones, right below each other
+1: I also only see two small ones, dark gray (or black) and light gray. Should we pick one?
+0: Mine is definitely black and not dark gray. should we pick the small light one?
+1: yes

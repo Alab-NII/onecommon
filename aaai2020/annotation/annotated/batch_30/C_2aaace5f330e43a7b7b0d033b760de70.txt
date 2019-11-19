@@ -1,0 +1,5 @@
+1: I see two diagonal dots really close to each other. one on top is really big
+0: i think its the darker shade one
+1: they look the same to me
+0: the darkest shade ones?
+1: ok, i think i see what you're talking about. let's chose the big dark dot

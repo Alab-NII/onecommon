@@ -1,0 +1,4 @@
+0: Do you see one lighter than all the rest...small light grey
+1: Do you have a dot that's lighter than the others?
+0: Yes...let's select that one
+1: Ok!

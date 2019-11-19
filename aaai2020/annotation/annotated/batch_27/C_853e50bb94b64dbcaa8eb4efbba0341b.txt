@@ -1,0 +1,4 @@
+1: I see one dot touching the dotted line
+0: Hi do you have a large very light grey dot with a smaller light gray one below it and to its left slightly, they're very close
+1: Yes. All the way to the upper right?
+0: Our circles are not lined up the same on purpose...your upper right may not be mine. If you have those two as I described they should be common between us. Click the larger one

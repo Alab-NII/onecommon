@@ -1,0 +1,5 @@
+1: LONE BLACK TINY DOT!
+0: I see a slightly tiny black dot up at the top near a bigger grey one. That one?
+1: Bigger grey one is light grey?
+0: Yes? It's on the right of the slightly darker dot.
+1: yeah. let's pick tiny black dot

@@ -1,0 +1,3 @@
+0: i have a cluster 5 dots
+1: large med gray dot at top right?
+0: yes

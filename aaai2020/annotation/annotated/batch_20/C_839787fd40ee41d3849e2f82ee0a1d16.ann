@@ -1,0 +1,8 @@
+T1	Markable 10 22	a group of 4
+T2	Markable 80 101	A SMALL DARK GRAY DOT
+T3	Markable 137 145	the rest
+T4	Markable 30 42	a sideways 7
+R1	Predicative Arg1:T4 Arg2:T1	
+T5	Markable 105 119	THAT FORMATION
+T6	Markable 189 194	the 7
+T7	Markable 204 212	THAT ONE

@@ -1,0 +1,4 @@
+1: i see two very similar sized dots one on top the other, the one on top is black and just a bit to the right
+0: Yes, I see that. The dots are small-medium sized?
+1: yes, and there are no nearby dots below and to the left
+0: Ok, lets click the top black dot

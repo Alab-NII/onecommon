@@ -1,0 +1,26 @@
+T1	Markable 53 63	a triangle
+T2	Markable 10 20	three dots
+T3	Markable 65 82	The top right dot
+T4	Markable 197 199	it
+T5	Markable 126 130	that
+T6	Markable 142 159	a much larger dot
+T7	Markable 247 251	that
+T8	Markable 317 324	the one
+T9	Markable 279 291	the triangle
+T10	Markable 260 275	two of the dots
+T12	Markable 399 406	the one
+T13	Markable 460 473	the other two
+T14	Markable 424 438	The bottom dot
+T15	Markable 495 506	the biggest
+T16	Markable 532 563	a pretty light medium sized dot
+T17	Markable 663 665	it
+T18	Markable 618 647	a darker, slightly larger dot
+T19	Markable 712 728	that lighter one
+R1	Predicative Arg1:T1 Arg2:T2	
+A1	No-Referent T7
+T11	Markable 352 366	the bottom dot
+R2	Anaphora Arg1:T14 Arg2:T11	
+T20	Markable 478 491	My bottom one
+R3	Predicative Arg1:T15 Arg2:T20	
+T21	Markable 591 604	anything else
+A2	No-Referent T21

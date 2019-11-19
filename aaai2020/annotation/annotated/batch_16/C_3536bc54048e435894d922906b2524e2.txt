@@ -1,0 +1,3 @@
+0: two dark dots and a grey dot in a cluster do you have this
+1: Yes, I do
+0: select the grey

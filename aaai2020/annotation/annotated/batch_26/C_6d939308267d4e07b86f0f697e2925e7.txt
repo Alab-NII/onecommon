@@ -1,0 +1,3 @@
+0: i see a large grey dot with nothing nearby
+1: My smallest dot is gray with two large black ditto the right of it
+0: lets choose the smallest dot then i see that as well

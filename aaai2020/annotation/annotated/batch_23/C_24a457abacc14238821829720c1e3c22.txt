@@ -1,0 +1,4 @@
+1: DO you have a large dark dot on the edge of the circle?
+0: no, but i do have a large black dot. is it in between two small grey dots?
+1: MIne is not but it might be cut off on my view because it is near the edge of my circle. to the left of your large black dot is there 3 lighter dots in a diagonal line going up to the left?
+0: yes. Let's choose that black dot

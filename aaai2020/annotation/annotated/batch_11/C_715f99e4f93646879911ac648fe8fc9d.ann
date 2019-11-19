@@ -1,0 +1,20 @@
+T1	Markable 14 32	one light grey dot
+T2	Markable 68 74	3 dots
+T3	Markable 95 99	They
+T4	Markable 134 138	them
+T5	Markable 189 193	they
+T6	Markable 249 260	2 triangles
+T7	Markable 293 310	an obvious darker
+T8	Markable 315 331	smaller gray dot
+T9	Markable 271 283	one triangle
+T10	Markable 333 342	The other
+T11	Markable 423 430	the one
+T12	Markable 436 459	an obviously larger dot
+T13	Markable 474 482	that dot
+T14	Markable 45 57	all the rest
+T15	None 75 82	the far
+#1	AnnotatorNotes T15	that form
+R1	Anaphora Arg1:T3 Arg2:T2	
+T16	Markable 129 130	1
+R2	Anaphora Arg1:T4 Arg2:T2	
+T17	Markable 347 387	a obvious larger and bit darker gray dot

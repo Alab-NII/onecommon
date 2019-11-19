@@ -1,0 +1,4 @@
+1: i see a small dark gray dot close to the dotted line bottom left
+0: I have a small black dot, with a slightly lighter but larger one just to the left and a tiny bit higher.
+1: yes i have that one too. choose the black one?
+0: ok

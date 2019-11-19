@@ -1,0 +1,7 @@
+T1	Markable 10 34	a large, medium-gray dot
+T2	Markable 81 98	a small black dot
+T3	Markable 73 75	it
+T4	Markable 115 117	it
+T5	Markable 127 129	it
+R1	Anaphora Arg1:T4 Arg2:T3	
+T6	Markable 155 177	that large gray circle

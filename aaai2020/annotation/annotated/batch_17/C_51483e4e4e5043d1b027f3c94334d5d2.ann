@@ -1,0 +1,18 @@
+T1	Markable 15 26	3 dark dots
+T2	Markable 30 45	a diagonal line
+T3	Markable 57 81	three light colored dots
+T4	Markable 83 86	One
+T5	Markable 109 112	one
+T6	Markable 132 135	one
+T8	Markable 249 253	them
+T9	Markable 193 215	3 of your lighter dots
+T10	Markable 221 231	a dark dot
+T11	Markable 303 325	the diagonal dark line
+T12	Markable 334 338	that
+T13	Markable 398 413	the biggest one
+T14	Markable 340 351	Smaller one
+T15	Markable 479 491	smallest one
+R1	Predicative Arg1:T2 Arg2:T1	
+T16	Markable 158 171	My light dots
+T7	Markable 270 281	a 'c' shape
+T17	Markable 369 378	mid sized

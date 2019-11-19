@@ -1,0 +1,4 @@
+0: I have one large light gray dot.
+1: I see one large grey dot that is at the bottom of a line that starts with a dark large then a small dark dot.
+0: Yes, mine is in the middle of those others
+1: Lets choose that light one my friend!

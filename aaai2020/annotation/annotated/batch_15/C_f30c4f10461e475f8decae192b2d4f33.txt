@@ -1,0 +1,9 @@
+1: do you see a small dark one with a big light one at its north east?
+0: Do you have a lightest largest dot next to a darker one?
+1: no i cant see it
+0: I don't see yours, but I have three large one like an upside down "v" together?
+1: what color is the smallest dot you see?
+0: I have two darkest small dots and one lighter than the two.
+1: the lighter is exactly under a dark one?
+0: Yes, select the lighter one?
+1: yes

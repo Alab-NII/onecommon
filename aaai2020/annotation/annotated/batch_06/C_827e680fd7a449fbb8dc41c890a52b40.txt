@@ -1,0 +1,6 @@
+1: hi which do u wanna try for?
+0: do you see a large black dot with a slightly smaller light grey do immediately below it?
+1: dont seem to have that. how about 3 that form a triangle that points down?
+0: do you see a large black with a slightly smaller grey dot above and to the right, and a small grey dot close above and a little further right
+1: yes i see that one
+0: black

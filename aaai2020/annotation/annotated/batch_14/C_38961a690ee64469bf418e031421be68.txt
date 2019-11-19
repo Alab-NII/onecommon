@@ -1,0 +1,2 @@
+0: I have three dots together forming a triangle, the bottom left is a large gray dot, the top is a small dark gray dot, and the bottom right is a small black dot
+1: Yes I see this beautiful triangle, let's take the dark small one.

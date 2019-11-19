@@ -1,0 +1,4 @@
+0: Do you see a gray dot on the very edge?
+1: Do you see the pair of medium sized dots, the one lower and to the right is tiny bit larger and little lighter
+0: Yes, click the lower one?
+1: Yes

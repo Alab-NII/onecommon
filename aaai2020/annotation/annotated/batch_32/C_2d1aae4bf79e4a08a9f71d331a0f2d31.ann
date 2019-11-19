@@ -1,0 +1,8 @@
+T1	Markable 55 65	each other
+T2	Markable 67 75	left dot
+T3	Markable 121 133	the left dot
+T4	Markable 3 11	two dots
+T5	Markable 41 47	2 dots
+R1	Anaphora Arg1:T1 Arg2:T5	
+T6	Markable 92 97	right
+R2	Anaphora Arg1:T3 Arg2:T2	

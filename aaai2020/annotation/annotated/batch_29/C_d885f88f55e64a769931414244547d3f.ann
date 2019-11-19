@@ -1,0 +1,13 @@
+T1	Markable 30 50	light grey small dot
+T2	Markable 103 107	that
+T3	Markable 127 139	closest ones
+T4	Markable 255 259	that
+T5	Markable 3 24	Medium Grey Large dot
+A1	No-Referent T2
+T6	Markable 110 125	group of 3 dots
+T7	Markable 157 160	top
+T8	Markable 170 176	bottom
+T9	Markable 188 197	third dot
+T10	Markable 274 300	top right medium toned dot
+T11	Markable 304 313	small one
+T12	Markable 318 331	the third dot

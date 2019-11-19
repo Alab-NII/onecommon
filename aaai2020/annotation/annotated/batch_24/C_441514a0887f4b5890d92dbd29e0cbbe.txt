@@ -1,0 +1,5 @@
+0: med sized black dot?
+1: I have one yes that is towards the upper left
+0: yes is there a larger med grey one down to its right? if so click the black one!
+1: yes a few inches down right?
+0: yes!

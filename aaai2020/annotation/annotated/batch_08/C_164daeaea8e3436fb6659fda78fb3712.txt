@@ -1,0 +1,5 @@
+0: I have a large grey dot with a slightly smaller and lighter dot to it's left
+1: I see 7 gray dots, ones larger than others
+0: Is there one that's bigger than the rest with a lighter grey smaller dot to it's left?
+1: I see one light gray with a smaller one to its left
+0: Picking the bigger one of the two now

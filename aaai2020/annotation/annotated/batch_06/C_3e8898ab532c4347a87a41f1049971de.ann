@@ -1,0 +1,7 @@
+T1	Markable 35 39	They
+T2	Markable 62 69	The one
+T3	Markable 115 126	The top one
+T4	Markable 175 182	the one
+T5	Markable 243 251	that one
+T6	Markable 10 14	four
+R1	Anaphora Arg1:T1 Arg2:T6	

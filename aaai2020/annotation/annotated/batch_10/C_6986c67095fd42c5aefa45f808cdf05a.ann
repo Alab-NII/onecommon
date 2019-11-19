@@ -1,0 +1,16 @@
+T1	Markable 37 47	each other
+T2	Markable 49 61	the left one
+T3	Markable 77 90	the right one
+T4	Markable 114 120	3 dots
+T5	Markable 131 141	a triangle
+T6	Markable 149 160	no triangle
+T7	Markable 180 210	a medium sized medium gray one
+T8	Markable 216 227	a small one
+T9	Markable 261 263	it
+T10	Markable 322 337	the smaller one
+T11	Markable 3 22	2 medium sized dots
+R1	Anaphora Arg1:T1 Arg2:T11	
+R2	Predicative Arg1:T5 Arg2:T4	
+A1	No-Referent T6
+R3	Anaphora Arg1:T9 Arg2:T7	
+T12	Markable 275 279	mine

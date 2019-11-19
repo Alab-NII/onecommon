@@ -1,0 +1,5 @@
+1: Do you have a large light grey dot?
+0: no. Do you have a really small black one?
+1: all by itself?
+0: yes
+1: ok. click it

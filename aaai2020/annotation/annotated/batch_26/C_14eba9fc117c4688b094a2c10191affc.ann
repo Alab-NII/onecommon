@@ -1,0 +1,9 @@
+T1	Markable 25 35	a triangle
+T2	Markable 47 50	One
+T4	Markable 59 72	the other two
+T5	Markable 108 130	the very very dark one
+T6	Markable 180 188	that one
+T7	Markable 160 173	that triangle
+T8	Markable 207 211	that
+T9	Markable 3 21	two tiny dark dots
+R1	Anaphora Arg1:T6 Arg2:T5	

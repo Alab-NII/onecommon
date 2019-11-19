@@ -1,0 +1,4 @@
+1: 2 lone medium size and color dots next to each other
+0: do you have a single dark grey one, about an inch below is a larger black one, off set to it's left a bit?
+1: yep
+0: ok let's pick the large black one?

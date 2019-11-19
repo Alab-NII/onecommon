@@ -1,0 +1,19 @@
+T1	Markable 55 62	The one
+T2	Markable 107 114	The one
+T3	Markable 159 165	4 dots
+T4	Markable 202 215	the small dot
+T5	Markable 169 195	a relatively straight line
+T6	Markable 294 303	your line
+T7	Markable 317 335	the first two dots
+T8	Markable 353 367	the second dot
+T9	Markable 418 426	the line
+T10	Markable 435 437	it
+T11	Markable 443 478	a much lighter, similarly sized dot
+T12	Markable 510 528	the small dark dot
+T13	Markable 10 31	two medium sized dots
+R1	Predicative Arg1:T5 Arg2:T3	
+T14	Markable 244 256	the two dots
+T15	Markable 385 403	The small dark dot
+R2	Anaphora Arg1:T10 Arg2:T15	
+T16	Markable 482 485	its
+R3	Anaphora Arg1:T16 Arg2:T15	

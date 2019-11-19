@@ -1,0 +1,11 @@
+T1	Markable 10 31	one black dot big one
+T2	Markable 193 196	one
+T3	Markable 226 229	one
+T4	Markable 270 284	one tiny black
+T6	Markable 308 320	a bigger one
+T7	Markable 327 329	it
+T8	Markable 344 366	the one very small one
+T9	Markable 103 117	4 dark circles
+T10	Markable 130 133	One
+T11	Markable 162 165	one
+R1	Anaphora Arg1:T7 Arg2:T4	

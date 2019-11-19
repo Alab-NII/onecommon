@@ -1,0 +1,4 @@
+1: I have a large very dark (almost black) dot with a smaller same color dot below and to the left of it
+0: I don't have those. I have 2 small dots left is very dark & slightly lower than the right. Right one is lighter grey.
+1: I see those. Let's pick the lighter gray one on the right
+0: Ok

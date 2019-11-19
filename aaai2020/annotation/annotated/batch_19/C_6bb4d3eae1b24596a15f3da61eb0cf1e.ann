@@ -1,0 +1,18 @@
+T1	Markable 14 38	the smallest darkest dot
+T2	Markable 107 126	two small dark dots
+T3	Markable 148 158	each other
+T4	Markable 160 171	The top one
+T5	Markable 222 226	them
+T6	Markable 215 218	one
+T8	Markable 266 303	a slightly larger and medium grey dot
+T9	Markable 326 328	it
+T10	Markable 241 255	the bottom one
+T11	Markable 344 348	that
+T12	Markable 409 423	the darker one
+T13	Markable 393 403	each other
+T14	Markable 469 488	the bottom dark one
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T9 Arg2:T10	
+A1	No-Referent T11
+T7	Markable 364 378	two large dots
+R3	Anaphora Arg1:T13 Arg2:T7	

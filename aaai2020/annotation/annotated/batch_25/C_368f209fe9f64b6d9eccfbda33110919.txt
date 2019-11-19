@@ -1,0 +1,3 @@
+1: Only 1 black dot on my screen
+0: Same its close to the top edge with a really light grey dot lower and to the right of the same size
+1: Exactly. Click the black

@@ -1,0 +1,3 @@
+0: I have an extremely tiny black dot, with a still small but larger dot horizontal to the right. The right one is dark grey
+1: Is there a very light gray dot below your medium gray dot to the right?
+0: Yes! Lets choose the tiny black on left

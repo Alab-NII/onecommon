@@ -1,0 +1,5 @@
+0: i have five in a row, almost horizontal, going up from left to right, with the biggest being a little darker in the middle
+1: Do you see 5 circles in an almost horizontal line? Biggest, black one in the middle?
+0: yep pick the middle one?
+1: Yup!
+0: NICE!!

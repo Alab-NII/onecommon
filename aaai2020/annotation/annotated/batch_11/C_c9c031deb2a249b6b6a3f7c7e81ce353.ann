@@ -1,0 +1,6 @@
+T1	Markable 15 21	3 dots
+T2	Markable 72 75	two
+T3	Markable 138 146	that one
+T5	Markable 77 90	the left most
+T6	Markable 94 99	which
+R1	Anaphora Arg1:T6 Arg2:T2	

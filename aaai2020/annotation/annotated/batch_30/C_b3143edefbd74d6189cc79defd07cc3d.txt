@@ -1,0 +1,8 @@
+0: I see two dots almost horizontal
+1: I see a small gray dot to the right, touching the edge
+0: I'm not sure if i see it. is there a black dot really close to it?
+1: no, i do see the two almost horizontal
+0: Are they really close to each other? the black one on the right and grey on the left?
+1: I see the gray on the left, no black, the other is further to the right and is gray as well. so seems like we both see the left one
+0: ok, let's choose that one
+1: ok

@@ -1,0 +1,10 @@
+1: Hello
+0: I see a large dark grey dot upper left of center
+1: I do not have that one
+0: I have a small light grey dot near the edge in the upper left
+1: I only have 1 small light grey dot. It is in the center of my circle. It is the only small light grey dot.
+0: Yes, all of the other dots are larger.
+1: Shall we choose the small light grey dot then?
+0: Can you see that too?
+1: Yes
+0: Yes, I believe it's the same one.

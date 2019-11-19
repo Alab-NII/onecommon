@@ -1,0 +1,6 @@
+0: 3 almost in a horizontal line...one significantly larger?
+1: do you have three dots in a line med light and then dark?
+0: Yes. Largest is on the end.
+1: largest and darkest? over to the right?
+0: Yes. Let's try that one.
+1: ok

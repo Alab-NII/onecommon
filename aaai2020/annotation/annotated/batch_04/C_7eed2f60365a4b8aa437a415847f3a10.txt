@@ -1,0 +1,4 @@
+1: I have one light grey small dot
+0: ok
+1: should we go for it?
+0: ok

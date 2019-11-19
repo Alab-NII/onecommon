@@ -1,0 +1,15 @@
+T1	Markable 107 111	them
+T2	Markable 13 61	a cluster of almost black to very dark grey dots
+T3	Markable 67 84	3 light grey dots
+T4	Markable 113 118	1 dot
+T6	Markable 232 243	a dark grey
+T7	Markable 299 303	they
+T8	Markable 260 262	it
+T9	Markable 375 395	a tiny dark grey dot
+T10	Markable 405 407	it
+T11	Markable 344 364	that black large one
+T13	Markable 478 499	the black/darkest dot
+R1	Anaphora Arg1:T1 Arg2:T2	
+T14	Markable 144 145	3
+T15	Markable 192 208	your largest dot
+R2	Anaphora Arg1:T10 Arg2:T11	

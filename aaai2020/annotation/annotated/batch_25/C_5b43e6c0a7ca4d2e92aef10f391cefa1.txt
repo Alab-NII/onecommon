@@ -1,0 +1,8 @@
+0: do you see a dark dot with a lighter dot below it and to the right
+1: yes I see that! the lighter dot is a little bigger?
+0: just a little bit bigger
+1: yes slightly and a light gray color?
+0: yes, should we choose the light one?
+1: yes! that or the darker circle? I agree with gray one, though
+0: did you choose the light?
+1: yes I chose the light gray

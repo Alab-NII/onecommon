@@ -1,0 +1,7 @@
+1: I have one dark gray dot that is smaller than all the rest
+0: I don't have any large dots, but lots of medium dots
+1: Do you have any little ones that are smaller than the rest?
+0: I have two medium gray small dots, and one light gray small dot.
+1: I have one of the medium ones. It is way across the circle, up and to the right, from a darker gray one that is slightly larger.
+0: Yep, I bet that's it.
+1: OK, let's do that one.

@@ -1,0 +1,13 @@
+T1	Markable 10 26	a dark black dot
+T2	Markable 96 113	a small black dot
+T3	Markable 157 159	it
+T4	Markable 119 135	a small grey dot
+T5	Markable 233 247	that black dot
+T6	Markable 176 203	a very light small grey dot
+T7	Markable 256 260	mine
+T8	Markable 323 349	a medium light colored dot
+T9	Markable 456 476	a lighter medium dot
+T10	Markable 433 450	a large black dot
+T11	Markable 595 603	that one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T12	Markable 508 526	the only black dot

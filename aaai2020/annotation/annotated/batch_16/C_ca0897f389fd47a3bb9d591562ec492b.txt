@@ -1,0 +1,5 @@
+1: Do you have a really small medium grey dot?
+0: yes close to a medium size grey
+1: Yes is the medium size grey one below the tiny one but to the left?
+0: okay let us select the tiny grey
+1: Okay!

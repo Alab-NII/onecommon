@@ -1,0 +1,12 @@
+T1	Markable 103 107	that
+T2	Markable 120 128	two dots
+T3	Markable 156 166	each other
+T4	Markable 168 172	They
+T5	Markable 215 222	The one
+T6	Markable 14 33	a light grey circle
+T7	Markable 49 84	a slightly larger and darker circle
+A1	No-Referent T1
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T2	
+T8	Markable 296 308	the on below
+#1	AnnotatorNotes T8	the one below

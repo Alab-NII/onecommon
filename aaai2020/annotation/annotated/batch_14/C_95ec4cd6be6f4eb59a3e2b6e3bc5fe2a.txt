@@ -1,0 +1,5 @@
+0: I have three similar size dots in a triangle
+1: Are they darker or lighter?
+0: Kind of darker. The darkest one is the biggest one
+1: Are they the dots farthest to the left?
+0: Yes. Let's pick the darkest

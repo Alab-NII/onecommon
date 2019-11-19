@@ -1,0 +1,4 @@
+1: I have 1 very large black dot on the left.
+0: do u have the largest/darkest dot at the top?
+1: It's in the middle for me with a lighter grey smaller dot to left and down a bit.
+0: ok lets pick the largest/darkest, i think we both have it

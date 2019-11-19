@@ -1,0 +1,2 @@
+0: I see an extremely light colored dot, It is also quite small
+1: got it!

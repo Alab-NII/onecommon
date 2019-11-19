@@ -1,0 +1,4 @@
+0: I have a very large dark dot at the top middle
+1: I also have one very large dark dot at about 12:00
+0: Ok I think that was easy and we have the same dot
+1: Let's give it a try!

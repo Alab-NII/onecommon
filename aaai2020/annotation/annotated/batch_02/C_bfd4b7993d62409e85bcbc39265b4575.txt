@@ -1,0 +1,6 @@
+1: Hello, I have a very tiny black dot by 11
+0: no I have a large light gray dot toward top toward left
+1: I have a large light gray dot also at the top toward the left, by 10
+0: no i have a medium light gray dot toward left about midway in circle
+1: My medium light gray dot is toward the right in the middle
+0: mark it

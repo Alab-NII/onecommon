@@ -1,0 +1,5 @@
+1: 4 dots almost aligned vertically. bottom is large light grey dot
+0: Do you have a large grouping, two black dots almost same sized the right most one is larger
+1: i dont have black dots. i also have 3-4 dots that can form a triangle shape
+0: Click your large grey dot that was on the bottom of what you described
+1: ok

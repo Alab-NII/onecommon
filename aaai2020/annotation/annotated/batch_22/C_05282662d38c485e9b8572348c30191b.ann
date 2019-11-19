@@ -1,0 +1,6 @@
+T1	Markable 46 63	a horizontal line
+T2	Markable 72 80	left one
+T3	Markable 136 149	the black one
+T4	Markable 3 17	two small dots
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 98 107	right one

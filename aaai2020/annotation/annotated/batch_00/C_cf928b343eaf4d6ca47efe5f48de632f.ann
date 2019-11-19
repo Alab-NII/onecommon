@@ -1,0 +1,23 @@
+T1	Markable 6 22	your darkest dot
+T2	Markable 43 45	it
+T3	Markable 75 77	it
+T4	Markable 115 134	2 medium color ones
+T5	Markable 177 189	a medium one
+T6	Markable 196 198	it
+T7	Markable 237 239	it
+T8	Markable 248 250	it
+T9	Markable 283 305	a dark gray medium dot
+T10	Markable 312 329	the big black one
+T11	Markable 411 424	the big black
+T12	Markable 54 68	any other dots
+A1	Generic T12
+R1	Anaphora Arg1:T3 Arg2:T2	
+T13	Markable 135 136	1
+T14	Markable 147 148	1
+T15	Markable 158 172	my darkest dot
+R2	Anaphora Arg1:T6 Arg2:T15	
+T16	Markable 223 230	nothing
+A2	No-Referent T16
+R3	Anaphora Arg1:T8 Arg2:T7	
+T17	Markable 341 365	another medium dark gray
+T18	Markable 372 392	the other medium one

@@ -1,0 +1,7 @@
+T1	Markable 53 73	the largest dark dot
+T2	Markable 47 49	it
+T3	Markable 121 142	the largest black dot
+T4	Markable 6 23	your smallest dot
+R1	Anaphora Arg1:T2 Arg2:T4	
+T5	Markable 81 102	my smallest black dot
+T6	Markable 151 162	small black

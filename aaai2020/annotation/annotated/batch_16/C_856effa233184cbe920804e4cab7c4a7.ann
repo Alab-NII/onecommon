@@ -1,0 +1,10 @@
+T1	Markable 68 79	one another
+T2	Markable 109 119	each other
+T3	Markable 15 29	two black dots
+T4	Markable 121 133	the left one
+T5	Markable 174 186	the left one
+T6	Markable 236 250	the bottom one
+T7	Markable 277 285	that one
+R1	Anaphora Arg1:T1 Arg2:T3	
+R2	Anaphora Arg1:T2 Arg2:T3	
+T8	Markable 213 215	it

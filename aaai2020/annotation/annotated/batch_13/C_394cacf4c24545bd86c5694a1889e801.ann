@@ -1,0 +1,11 @@
+T1	Markable 150 153	its
+T2	Markable 111 136	a very large med grey dot
+T3	Markable 179 181	it
+T4	Markable 194 217	mid-size light grey dot
+T5	Markable 253 273	a large med grey dot
+T6	Markable 3 34	a very tiny very light grey dot
+A1	No-Referent T3
+T7	Markable 277 280	its
+T8	Markable 297 306	which one
+A2	Generic T8
+T9	Markable 326 337	The big one

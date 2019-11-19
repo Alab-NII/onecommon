@@ -1,0 +1,7 @@
+0: i have a big black one, with a very light one same size to it's lower right
+1: i have two med size black dots one about 9 o clock and the other at 10 o clock and another black dot at past slight 6 o clock
+0: is your 10 one very large compared to the others?
+1: all my blacks are the same size med
+0: tell me about your light one/s
+1: i have one light one that is tiny at about 5 o clock and a darker med size gray in the center at all most 3 o clock
+0: ok let's choose your small lightest one

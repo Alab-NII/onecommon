@@ -1,0 +1,5 @@
+1: I see three large dark dots, and a set of similar sized dots side by side with the right being darker
+0: I don't have a clear picture of that but what about a large dark dot off to the side of 2 equally dark large dots?
+1: yes, and the two off to the side are on top of one another?
+0: yes. lets choose the lone one to the right
+1: ok

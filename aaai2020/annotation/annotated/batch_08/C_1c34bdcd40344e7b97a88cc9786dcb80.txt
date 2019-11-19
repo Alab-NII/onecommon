@@ -1,0 +1,7 @@
+0: I see a small dark gray dot. beside it is a smaller ,slightly lighter gray dot.
+1: I think is see the same thing, is the darker dot almost black?
+0: Yes it is
+1: the only issue I have is that the darker dot is the same size of the lighter dot. you mentioned one being smaller
+0: Is your lighter dot a light shade of gray? The lighter dot i have is a medium shade.
+1: yes it is lighter. I can't see your dark gray dot, maybe the smaller lighter dot is what we have in common?
+0: okay, we can try that!

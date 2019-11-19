@@ -1,0 +1,7 @@
+T1	Markable 89 100	the largest
+T2	Markable 3 11	2-3 dots
+T3	Markable 41 54	Farthest left
+T4	Markable 75 85	the middle
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 107 117	the middle
+R2	Anaphora Arg1:T5 Arg2:T4	

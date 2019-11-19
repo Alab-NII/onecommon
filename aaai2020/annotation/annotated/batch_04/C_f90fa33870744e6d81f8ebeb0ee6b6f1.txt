@@ -1,0 +1,7 @@
+1: Large dark dot touching bottom of circle?
+0: I have 3 dark dots and 4 light dots, two dark dots near the top edge of my circle
+1: No. 4 dark dots groups in upper left.
+0: I see two similar sized dark ones top left of my circle, more top center.
+1: About two inches apart.
+0: Yes, let's pick the one that is to the right upper side, will be opposite for you lower left side?
+1: Ok

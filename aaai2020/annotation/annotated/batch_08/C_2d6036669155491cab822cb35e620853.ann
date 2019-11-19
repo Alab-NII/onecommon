@@ -1,0 +1,13 @@
+T1	Markable 62 96	a slightly lighter, same color one
+T2	Markable 14 35	a small dark grey dot
+T3	Markable 113 117	that
+T4	Markable 155 182	a cluster of 2 smaller dots
+T5	Markable 126 149	1 large medium gray dot
+T7	Markable 209 211	it
+T8	Markable 213 236	One of the smaller dots
+T10	Markable 256 265	the other
+T11	Markable 293 297	that
+T12	Markable 309 323	the larger dot
+A1	No-Referent T3
+R1	Anaphora Arg1:T7 Arg2:T5	
+T6	Markable 327 336	the bunch

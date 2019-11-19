@@ -1,0 +1,17 @@
+T1	Markable 15 32	a light small one
+T2	Markable 64 81	a black large one
+T3	Markable 87 97	two others
+T4	Markable 162 181	a light smaller one
+T5	Markable 188 190	it
+T6	Markable 269 279	a grey one
+T7	Markable 202 211	something
+T8	Markable 238 252	that black one
+T9	Markable 333 354	the lighter small one
+T10	Markable 414 427	that dark one
+T11	Markable 472 491	the light/small one
+T12	Markable 40 42	it
+R1	Anaphora Arg1:T12 Arg2:T1	
+T13	Markable 138 155	a small black one
+R2	Anaphora Arg1:T5 Arg2:T13	
+T14	Markable 376 393	a larger med/dark
+T15	Markable 434 446	the dark one

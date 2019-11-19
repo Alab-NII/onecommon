@@ -1,0 +1,5 @@
+1: I have a small black dot with a very light gray larger dot directly to the left of it
+0: tiny black dot to directly in line with large dot same shade. tiny dot slightly to left below?
+1: I don't have that. What about 2 large same sized dots in a vertical line. The lower one to the left is lighter than the top one on the right?
+0: I think our tiny dot is the same...I have the light gray beside it. Choose that small black dot you mentioned
+1: ok

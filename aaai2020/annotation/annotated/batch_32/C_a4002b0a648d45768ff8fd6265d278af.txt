@@ -1,0 +1,4 @@
+1: do you see a medium gray tiny size dot almost alone?
+0: 4 dots from the bottom middle in almost straight line, bottom dot is medium size black. Above it is small gray above that is medium light gray and the one at the top is medium size light gray
+1: ok i see the line, let's pick the light one at the top, ok?
+0: K

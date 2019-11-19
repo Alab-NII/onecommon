@@ -1,0 +1,19 @@
+T1	Markable 31 45	a med grey one
+T2	Markable 81 83	it
+T3	Markable 87 89	it
+T4	Markable 117 121	they
+T5	Markable 232 252	the little black one
+T6	Markable 366 375	that line
+T7	Markable 331 351	the little black one
+T8	Markable 278 287	your line
+T10	Markable 442 468	that top black smaller dot
+T11	Markable 3 24	very little black one
+R1	Anaphora Arg1:T2 Arg2:T11	
+R2	Anaphora Arg1:T3 Arg2:T11	
+T12	Markable 107 116	two lines
+R3	Anaphora Arg1:T4 Arg2:T12	
+T13	Markable 153 156	Top
+T14	Markable 178 189	Medium gray
+T15	Markable 213 218	lines
+T16	Markable 291 304	the lower end
+R4	Anaphora Arg1:T6 Arg2:T8	

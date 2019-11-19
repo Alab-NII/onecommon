@@ -1,0 +1,8 @@
+T1	Markable 31 37	itself
+T2	Markable 10 27	one dark grey dot
+T3	Markable 77 97	a med grey small dot
+T4	Markable 105 111	itself
+T6	Markable 149 153	that
+T7	Markable 255 257	it
+R1	Anaphora Arg1:T1 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T3	

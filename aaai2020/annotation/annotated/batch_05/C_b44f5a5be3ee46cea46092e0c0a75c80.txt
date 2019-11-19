@@ -1,0 +1,6 @@
+1: do you see 2 large dots 1 grey 1 black close to each other
+0: Yes! Is the black one smaller and above it?
+1: yes but wait do you see a large grey dot all by itself?
+0: Yes. Is it toward the left of the dots we were just talking about?
+1: yes shall we pick that one?
+0: Yeah, lets do it.

@@ -1,0 +1,5 @@
+0: a big black dot. upper right is light grey dot. Another pair of dots where there is a big dark grey dot. up and left of that is tiny lighter grey dot
+1: Yes I have those
+0: which one
+1: Ok checking to verify
+0: pick big black dot

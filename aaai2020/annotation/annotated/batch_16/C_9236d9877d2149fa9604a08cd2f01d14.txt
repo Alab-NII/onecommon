@@ -1,0 +1,6 @@
+1: I got like a line of dots
+0: I have a very large light dot, with a slightly smaller and darker one just down and to the right.
+1: I got two dark grey dots next to each other one black other dark grey
+0: I think I have that too - the black one is a little bit bigger, and to the right of the gray one.
+1: Yes exactly
+0: Let's pick the black one

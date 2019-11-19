@@ -1,0 +1,8 @@
+T1	Markable 19 37	a large medium dot
+T2	Markable 41 47	itself
+T4	Markable 66 88	a cluster of four dots
+T5	Markable 99 102	Two
+T7	Markable 126 129	one
+T8	Markable 156 159	one
+T9	Markable 204 222	the light grey one
+R1	Anaphora Arg1:T2 Arg2:T1	

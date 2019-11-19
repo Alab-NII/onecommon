@@ -1,0 +1,12 @@
+T1	Markable 24 34	each other
+T2	Markable 52 61	the other
+T3	Markable 36 39	one
+T5	Markable 72 93	a pair of medium dots
+T6	Markable 128 140	a light gray
+T7	Markable 147 151	them
+T8	Markable 191 195	them
+T9	Markable 159 174	a smaller black
+T10	Markable 241 249	the pair
+T11	Markable 217 237	the right darker one
+T12	Markable 3 15	2 large dots
+R1	Anaphora Arg1:T1 Arg2:T12	

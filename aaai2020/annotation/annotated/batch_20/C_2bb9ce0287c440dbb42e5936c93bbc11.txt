@@ -1,0 +1,6 @@
+1: There are two dots at the top that are in a vertical line, one is dark and the other is light. Do you see these?
+0: yes
+1: Is the darker one larger than the light one?
+0: actually not a vertical line. the larger one is darker than the light one
+1: more of a diagonal line. Should we select the dark gray one?
+0: okay

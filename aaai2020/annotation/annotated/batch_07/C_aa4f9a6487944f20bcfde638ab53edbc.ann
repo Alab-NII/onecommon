@@ -1,0 +1,11 @@
+T1	Markable 57 69	two big ones
+T2	Markable 122 136	the bottom one
+T3	Markable 138 142	they
+T4	Markable 73 93	a near vertical line
+T5	Markable 95 106	the top one
+T6	Markable 197 199	it
+T7	Markable 176 190	top darker one
+T8	Markable 16 45	the smallest and lightest dot
+R1	Predicative Arg1:T4 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+R3	Anaphora Arg1:T6 Arg2:T7	

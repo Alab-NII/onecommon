@@ -1,0 +1,8 @@
+T1	Markable 10 22	a medium dot
+T2	Markable 204 211	top dot
+T3	Markable 297 303	itself
+T4	Markable 315 318	one
+T5	Markable 353 355	it
+T6	Markable 120 149	two smallest medium gray dots
+T7	Markable 259 287	lightest very small gray dot
+R1	Anaphora Arg1:T3 Arg2:T7	

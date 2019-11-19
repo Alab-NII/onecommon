@@ -1,0 +1,5 @@
+1: I have a very large light dot with a much smaller, darker dot immediately to the right of it.
+0: my large light dot is not near anything else. the darkest dot is a black small dot about where the 5 would be on a clock
+1: I think I have that small black dot. There is a dot that is slightly darker and slightly larger a little over to the left and up a little bit.
+0: yes! I have that. select that black dot then?
+1: OK!

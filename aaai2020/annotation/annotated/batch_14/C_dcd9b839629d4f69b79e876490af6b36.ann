@@ -1,0 +1,21 @@
+T1	Markable 14 31	a large black dot
+T2	Markable 35 41	itself
+T3	Markable 62 78	All 7 of my dots
+T4	Markable 120 126	itself
+T5	Markable 144 161	a large light dot
+T6	Markable 381 395	tiny black dot
+T7	Markable 416 437	a tiny light gray dot
+T8	Markable 482 492	each other
+T9	Markable 510 528	the right-most one
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	All-Referents T3
+T10	Markable 109 116	no dots
+A2	No-Referent T10
+R2	Anaphora Arg1:T4 Arg2:T10	
+A3	No-Referent T4
+T11	Markable 258 262	What
+A4	Generic T11
+T12	Markable 301 305	What
+A5	Generic T12
+T13	Markable 453 472	3 medium black dots
+R3	Anaphora Arg1:T8 Arg2:T13	

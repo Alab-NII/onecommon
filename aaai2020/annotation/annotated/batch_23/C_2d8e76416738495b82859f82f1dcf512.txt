@@ -1,0 +1,5 @@
+0: I see two dark gray dots, one is slightly larger and above the other one
+1: I dont see that. Do you see a cluster of 4 in a diamond shape? the two to the left and down are darker than the other 2
+0: I don't, but is there a medium sized very black dot part of that diamond?
+1: I only have 1 medium very black dot. it is above and to the left of the diamond i see
+0: lets try that

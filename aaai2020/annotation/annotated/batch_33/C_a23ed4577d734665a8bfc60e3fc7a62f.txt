@@ -1,0 +1,4 @@
+0: I have two large dots at a diagonal angle that curves, the curved dot is light and the other dot is dark
+1: I don't see that. I have 3 dots stacked almost in a vertical line. The one on top is very light and larger than the other 2.
+0: i see that too
+1: Let's pick the lightest larger dot at the top of the line

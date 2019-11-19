@@ -1,0 +1,4 @@
+0: Two bigger darker dots with a smaller gray dot right below?
+1: Yes, I see that.
+0: Awesome, should we try the lighter dot?
+1: Perfect

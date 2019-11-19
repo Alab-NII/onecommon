@@ -1,0 +1,5 @@
+1: do you have a triangle of small dark dots on the right
+0: I only have 1 medium sized, medium grey dot in my circle. It is on the far left side, where a 9 would be on a clock.
+1: i dont have that, is your smallest dot black?
+0: I see the small dark dots on the right side. I only have the top one and the bottom left though.
+1: click the top one

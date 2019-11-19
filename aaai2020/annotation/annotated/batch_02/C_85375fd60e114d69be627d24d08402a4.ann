@@ -1,0 +1,11 @@
+T1	Markable 59 73	two large dots
+T2	Markable 84 94	each other
+T3	Markable 96 107	the top one
+T4	Markable 170 181	the top one
+T5	Markable 192 194	it
+T6	Markable 195 197	it
+T7	Markable 3 16	big black dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T8	Markable 125 131	bottom
+R2	Anaphora Arg1:T4 Arg2:T3	
+R3	Anaphora Arg1:T6 Arg2:T5	

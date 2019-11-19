@@ -1,0 +1,3 @@
+0: med size black top . upper left of that is light smaller grey dot
+1: Does it have a large dark grey right above it?
+0: eyes. pick the med size black

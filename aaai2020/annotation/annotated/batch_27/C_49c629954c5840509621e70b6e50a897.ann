@@ -1,0 +1,6 @@
+T1	Markable 42 46	they
+T3	Markable 79 83	they
+T4	Markable 179 181	it
+T5	Markable 3 13	Three dots
+R1	Anaphora Arg1:T1 Arg2:T5	
+T2	Markable 131 156	the downmost and blackest

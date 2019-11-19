@@ -1,0 +1,4 @@
+1: do you see three dots together one dark two medium grey in a triangle?
+0: yes. DArk is top left?
+1: yes choose that one
+0: k

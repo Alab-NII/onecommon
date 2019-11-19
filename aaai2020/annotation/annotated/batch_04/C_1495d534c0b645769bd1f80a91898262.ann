@@ -1,0 +1,12 @@
+T1	Markable 9 21	a bigger dot
+T2	Markable 59 77	a small darker one
+T3	Markable 178 182	They
+T4	Markable 100 114	All of my dots
+T5	Markable 135 155	one larger sized dot
+T6	Markable 221 235	all of my dots
+T7	Markable 271 282	the big one
+T8	Markable 310 312	It
+T9	Markable 418 426	that one
+A1	All-Referents T4
+A2	All-Referents T6
+R1	Anaphora Arg1:T8 Arg2:T7	

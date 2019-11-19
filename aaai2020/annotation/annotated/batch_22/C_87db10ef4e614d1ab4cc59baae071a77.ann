@@ -1,0 +1,22 @@
+T1	Markable 28 38	each other
+T2	Markable 121 134	the black dot
+T3	Markable 172 184	the gray one
+T4	Markable 105 115	a gray dot
+T5	Markable 89 100	a black dot
+T6	Markable 198 205	the two
+T7	Markable 239 244	those
+T8	Markable 263 271	the ones
+T9	Markable 394 407	the black one
+T10	Markable 368 378	a gray dot
+T11	Markable 455 468	the black dot
+T12	Markable 412 429	another black dot
+T13	Markable 501 514	the light dot
+T14	Markable 532 544	the two dots
+T15	Markable 3 9	2 dots
+R1	Anaphora Arg1:T1 Arg2:T15	
+T16	Markable 40 53	upper to left
+R2	Anaphora Arg1:T2 Arg2:T5	
+R3	Anaphora Arg1:T3 Arg2:T4	
+A1	No-Referent T7
+T17	Markable 309 324	the right lower
+T18	Markable 480 484	that

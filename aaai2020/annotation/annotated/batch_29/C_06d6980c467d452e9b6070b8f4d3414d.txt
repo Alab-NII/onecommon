@@ -1,0 +1,4 @@
+1: i see a big light grey dot. below and to the right of it is a smaller same color dot
+0: Yes! I have that. Which should we choose?
+1: choose the bigger dot
+0: Okay!

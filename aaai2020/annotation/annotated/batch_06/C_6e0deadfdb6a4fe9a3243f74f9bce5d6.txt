@@ -1,0 +1,4 @@
+1: I see a black dot that is in between two grey dots
+0: Is it slightly to the right and medium sized compared to the other two?
+1: Yes to both
+0: Okay cool. Let's click on the darkest one!

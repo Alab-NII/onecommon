@@ -1,0 +1,4 @@
+0: cluster of 5 dots, one medium black in the middle
+1: a bunch of dots in a clump together. a medium sized black dot in the middle of them
+0: ok, on the same page here, pick the medium black dot
+1: nice

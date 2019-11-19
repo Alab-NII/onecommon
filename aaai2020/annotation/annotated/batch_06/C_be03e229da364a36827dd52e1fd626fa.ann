@@ -1,0 +1,10 @@
+T1	Markable 53 60	the dot
+T2	Markable 89 102	the other two
+T3	Markable 41 51	a triangle
+T4	Markable 18 28	three dots
+T5	Markable 130 137	the one
+T6	Markable 164 171	the one
+T7	Markable 237 244	the one
+T8	Markable 285 292	the one
+R1	Predicative Arg1:T3 Arg2:T4	
+T9	Markable 189 213	The left and middle ones

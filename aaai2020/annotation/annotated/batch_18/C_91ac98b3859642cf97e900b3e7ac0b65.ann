@@ -1,0 +1,10 @@
+T1	Markable 14 43	one very small very light dot
+T2	Markable 58 60	it
+T3	Markable 120 124	mine
+T4	Markable 201 233	two light medium sized grey dots
+T5	Markable 155 189	two similar size/shade larger dots
+T6	Markable 262 267	their
+T7	Markable 301 304	one
+T8	Markable 322 331	the other
+T9	Markable 398 409	the largest
+R1	Anaphora Arg1:T2 Arg2:T1	

@@ -1,0 +1,8 @@
+T1	Markable 26 37	the largest
+T2	Markable 39 41	it
+T3	Markable 60 78	a smaller dark dot
+T4	Markable 88 92	that
+T5	Markable 108 119	the largest
+T6	Markable 3 17	my darkest dot
+R1	Predicative Arg1:T1 Arg2:T6	
+R2	Anaphora Arg1:T2 Arg2:T6	

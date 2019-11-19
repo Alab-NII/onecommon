@@ -1,0 +1,23 @@
+T1	Markable 10 26	three black dots
+T2	Markable 30 45	a diagonal line
+T3	Markable 56 67	3 dark dots
+T4	Markable 71 77	a line
+T5	Markable 94 109	a diagonal line
+T6	Markable 86 90	they
+T7	Markable 219 223	four
+T8	Markable 227 233	a line
+T9	Markable 258 261	two
+T10	Markable 235 239	they
+T11	Markable 306 319	a smaller one
+T12	Markable 321 333	a larger one
+T13	Markable 402 416	the larger one
+R1	Predicative Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T4 Arg2:T3	
+R3	Predicative Arg1:T5 Arg2:T6	
+T14	Markable 114 118	They
+T15	Markable 139 146	the one
+R4	Predicative Arg1:T8 Arg2:T7	
+T16	Markable 368 377	the first
+R5	Anaphora Arg1:T16 Arg2:T11	
+R6	Anaphora Arg1:T10 Arg2:T7	
+T17	Markable 351 364	the same size

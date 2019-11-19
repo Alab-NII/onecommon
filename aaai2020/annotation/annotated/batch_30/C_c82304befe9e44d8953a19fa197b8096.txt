@@ -1,0 +1,3 @@
+0: Tiny black, above and to the right is a small black
+1: got it, click the top one?
+0: Surely

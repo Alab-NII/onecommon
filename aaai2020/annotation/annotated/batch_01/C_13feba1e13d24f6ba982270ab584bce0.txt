@@ -1,0 +1,2 @@
+1: Hi, I have a larger dark dot in the top center of my view, below a large lighter gray one and to the right of an even lighter gray one.
+0: I do too

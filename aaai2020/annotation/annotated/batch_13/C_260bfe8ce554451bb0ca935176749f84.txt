@@ -1,0 +1,5 @@
+1: Hi, I have 4 that look like a letter P and three that are a triangle?
+0: Is your triangle all darker dots?
+1: Yes, with the bottom left corner being further away from the other 2. The bottom right corner is the largest of the 3?
+0: Yes! Lets choose the left one that is a little further
+1: ok

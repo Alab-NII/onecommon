@@ -1,0 +1,10 @@
+T1	Markable 10 35	a large med/dark grey dot
+T2	Markable 76 78	it
+T3	Markable 42 68	3 smaller and lighter dots
+T4	Markable 85 102	all my light ones
+T5	Markable 104 125	the darkest light one
+T6	Markable 210 212	it
+R1	Anaphora Arg1:T2 Arg2:T1	
+T7	Markable 146 153	a bunch
+T8	Markable 214 227	the large one
+R2	Cataphora Arg1:T6 Arg2:T8	

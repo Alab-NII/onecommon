@@ -1,0 +1,7 @@
+T1	Markable 9 31	a large light grey dot
+T2	Markable 52 54	it
+T3	Markable 111 121	a dark one
+T4	Markable 89 104	the closest one
+T5	Markable 108 110	it
+T6	Markable 169 187	the light grey one
+R1	Predicative Arg1:T3 Arg2:T4	

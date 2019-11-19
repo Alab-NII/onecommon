@@ -1,0 +1,15 @@
+T1	Markable 44 61	a horizontal line
+T2	Markable 10 26	2 dark gray dots
+T3	Markable 63 67	They
+T4	Markable 72 93	both large sized dots
+T5	Markable 108 119	a black dot
+T6	Markable 154 156	it
+T7	Markable 125 147	a small light gray dot
+T8	Markable 172 177	yours
+T9	Markable 184 197	the small dot
+T10	Markable 256 280	the small light gray dot
+R1	Predicative Arg1:T1 Arg2:T2	
+R2	Anaphora Arg1:T3 Arg2:T2	
+R3	Predicative Arg1:T4 Arg2:T3	
+A1	No-Referent T8
+R4	Anaphora Arg1:T6 Arg2:T5	

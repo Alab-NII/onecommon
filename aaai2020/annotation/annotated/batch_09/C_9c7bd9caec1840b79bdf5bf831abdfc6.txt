@@ -1,0 +1,5 @@
+1: The biggest dot that I see is a dark gray one with a smaller one to the left of it
+0: Is the smaller one to the left and above the larger one?
+1: for me it's to the left and above. The dot that I'm speaking of is noticealy bigger than all of them
+0: it is my biggest dot and in the top half of the circle
+1: cool, let's click it :)

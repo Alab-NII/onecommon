@@ -1,0 +1,3 @@
+0: have 2 black dots, with a similar sized grey dot slightly below and between them
+1: yes, i see that too!
+0: lets choose the grey dot below the black dots

@@ -1,0 +1,4 @@
+0: do you see the largest black dot by the top of the circle
+1: ONE TINY GREY DOT AT ABOUT 3 OCLOCK
+0: okay do the tiny dot
+1: OK

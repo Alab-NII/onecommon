@@ -1,0 +1,6 @@
+1: do you have 2 light dots one being lower and to the right
+0: Yes, but because of different orientations we may not be referring to the same dot? I have a very light dot that is pretty small
+1: do you have 2 of them away from each other
+0: My other light dot is across the circle
+1: okay. mine too. do you wanna do the one that's furthest away from the other dots?
+0: alright!

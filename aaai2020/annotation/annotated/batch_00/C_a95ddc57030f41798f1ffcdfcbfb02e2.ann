@@ -1,0 +1,10 @@
+T1	Markable 15 36	a tiny light grey dot
+T2	Markable 190 192	it
+T3	Markable 338 364	the tiny light grey circle
+T4	Markable 67 92	a large light grey circle
+T5	Markable 139 164	a large light grey circle
+R1	Anaphora Arg1:T2 Arg2:T5	
+T6	Markable 200 235	an equally large medium grey circle
+T7	Markable 251 279	a isolated light grey circle
+T8	Markable 295 314	a tiny black circle
+T9	Markable 372 385	the tiny grey

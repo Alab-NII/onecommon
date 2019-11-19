@@ -1,0 +1,7 @@
+T1	Markable 3 4	3
+T2	Markable 8 25	a horizontal line
+R1	Predicative Arg1:T2 Arg2:T1	
+T3	Markable 34 53	two large dark grey
+T4	Markable 54 60	middle
+T5	Markable 94 108	the same thing
+T6	Markable 121 144	the smaller lighter one

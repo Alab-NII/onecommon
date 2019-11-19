@@ -1,0 +1,4 @@
+1: Do you have a large dark grey dot with a lighter large dot above and to the right followed by a smaller black dot above and to right of the light one?
+0: Yes i do
+1: All in a rought diagonal line? Let's choose the lightest of the three in the center.
+0: Yes, okay

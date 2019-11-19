@@ -1,0 +1,2 @@
+0: tiny gray dot directly below a large gray dot
+1: same here, lets pick the tiny one

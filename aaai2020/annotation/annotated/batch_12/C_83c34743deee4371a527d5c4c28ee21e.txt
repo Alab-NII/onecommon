@@ -1,0 +1,4 @@
+1: I have one very small dot that is lighter than all the rest. There is a larger black below below and to the left of it
+0: Pick that one
+1: The small light one?
+0: Yes

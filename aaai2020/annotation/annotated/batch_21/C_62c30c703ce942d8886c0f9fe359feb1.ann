@@ -1,0 +1,11 @@
+T1	Markable 15 25	a triangle
+T2	Markable 81 91	my cluster
+T3	Markable 104 111	top dot
+T4	Markable 128 135	the one
+T5	Markable 167 174	the one
+T6	Markable 250 262	the triangle
+T7	Markable 205 222	the dark grey dot
+T8	Markable 279 301	the bottom darkest one
+T9	Markable 27 44	bottom middle dot
+R1	Anaphora Arg1:T6 Arg2:T2	
+R2	Anaphora Arg1:T7 Arg2:T4	

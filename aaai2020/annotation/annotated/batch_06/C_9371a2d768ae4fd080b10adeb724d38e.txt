@@ -1,0 +1,6 @@
+1: i have 5 dots all in a line sloping down to the left.
+0: I have four
+1: thats ok, our views are different. in the 4 you have, is there a darker on in the middle of it?
+0: light grey,dark grey,big light grey and medium side light grey from right to left
+1: yep thats it! lets click the dark grey one?
+0: ok

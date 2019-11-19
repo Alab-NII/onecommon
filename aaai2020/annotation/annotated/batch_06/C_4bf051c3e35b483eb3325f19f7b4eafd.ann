@@ -1,0 +1,10 @@
+T1	Markable 29 48	a vertical-ish line
+T2	Markable 10 15	three
+T3	Markable 50 61	The top one
+T4	Markable 74 84	middle one
+T5	Markable 141 154	the other two
+T6	Markable 110 121	The top one
+T7	Markable 175 189	the middle one
+T8	Markable 231 242	the big one
+R1	Predicative Arg1:T1 Arg2:T2	
+R2	Anaphora Arg1:T6 Arg2:T3	

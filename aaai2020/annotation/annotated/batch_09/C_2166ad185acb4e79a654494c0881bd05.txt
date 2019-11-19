@@ -1,0 +1,6 @@
+0: I have one large dot lighter than the rest
+1: Me too
+0: And across is a smaller dark dot
+1: Yes, but about halfway between the two, and a little above them is an even smaller dot
+0: Yes should we try this large gray dot?
+1: Ok

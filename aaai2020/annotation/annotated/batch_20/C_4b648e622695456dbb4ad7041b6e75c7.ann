@@ -1,0 +1,8 @@
+T1	Markable 10 29	a cluster of 2 grey
+T3	Markable 75 100	one large medium gray dot
+T5	Markable 136 146	a dark one
+T6	Markable 185 189	that
+T7	Markable 198 213	the tiniest dot
+T8	Markable 248 256	that one
+T2	Markable 34 47	one black dot
+A1	No-Referent T6

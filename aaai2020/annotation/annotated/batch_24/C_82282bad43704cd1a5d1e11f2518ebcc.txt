@@ -1,0 +1,11 @@
+0: do you see a large dark dot next to a smaller dark dot?
+1: no. i have a large dark gray dot with a medium gray dot directly below it and a black medium dot to the north east of it
+0: okay I think i see the two dark gray dots
+1: there should be 3
+0: I think the third is cut out of my view
+1: They are very close in proximity. I don't know. Do you see the large and what?
+0: I see the two dots and the larger one is on the very edge of my screen, so if the third dot is above it then i wouldn't be able to see it
+1: Okay but the medium lighter gray is almost perfectly below it
+0: yes they are lined up and a light gray dot is to the right of them
+1: Yes. Choose the bottom medium gray dot
+0: okay, sounds good

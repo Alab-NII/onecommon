@@ -1,0 +1,4 @@
+1: Is you smallest dot black?
+0: Three tiny dots almost making right triangle. Left most is darkest, one on right mid position is lightest
+1: Yes! Which should we choose?
+0: Mid lightest

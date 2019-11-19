@@ -1,0 +1,6 @@
+0: two tiny gray dots one close to 6 oclock the other on 3 oclock
+1: no
+0: light small dot on center of circle and dark large dot close to 12 oclock
+1: sorry no, do you see small dark dot bottom of the circle
+0: yes between 6 oclock and 5 o'clock
+1: fine i think that is what we want. let us choose it

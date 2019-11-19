@@ -1,0 +1,5 @@
+1: I have 1 huge dark grey dot all by itself
+0: I have one very small light gray dot
+1: Is tiny light grey dot NW of a larger dark grey dot?
+0: No, but I do have the huge dark dot all by itself.
+1: ok. click on the large black

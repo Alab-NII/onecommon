@@ -1,0 +1,4 @@
+0: lightish med size with a large dark one directly next to it but a little above?
+1: Is the dark dot to the right of the light dot?
+0: yes sorry meant to say that.
+1: Okay, lets select the light one

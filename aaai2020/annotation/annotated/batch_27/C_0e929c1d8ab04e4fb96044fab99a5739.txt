@@ -1,0 +1,5 @@
+0: Do you have a massive dark dot, below and to the left is a tiny grey dot
+1: i have a large black dot but below and right is the light grey dot
+0: How about a tiny black dot, and above quite a distance are two grey dots
+1: no do you have a large grey dot and almost parallel a smaller blackish dot
+0: Click your smallest tiniest black dot

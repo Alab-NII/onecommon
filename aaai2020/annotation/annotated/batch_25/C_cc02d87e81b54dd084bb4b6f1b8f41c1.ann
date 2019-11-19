@@ -1,0 +1,8 @@
+T1	Markable 30 41	the largest
+T2	Markable 65 87	a large very light dot
+T3	Markable 96 98	it
+T4	Markable 141 164	a smaller dark grey dot
+T5	Markable 204 225	the smaller dark gray
+T6	Markable 3 19	The blackest dot
+R1	Predicative Arg1:T1 Arg2:T6	
+T7	Markable 173 176	its

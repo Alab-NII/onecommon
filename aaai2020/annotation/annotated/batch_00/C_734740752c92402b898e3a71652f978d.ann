@@ -1,0 +1,17 @@
+T1	Markable 10 31	two light, large dots
+T2	Markable 67 77	each other
+T3	Markable 50 54	they
+T4	Markable 110 122	any two dots
+T6	Markable 214 228	the first pair
+T7	Markable 150 154	them
+T9	Markable 158 190	a set of two darker, larger dots
+T10	Markable 254 267	the right one
+T11	Markable 326 339	the four dots
+T13	Markable 398 405	the two
+T14	Markable 412 426	the light ones
+T16	Markable 436 440	that
+R1	Anaphora Arg1:T2 Arg2:T3	
+A1	Generic T4
+T5	Markable 233 252	the two darker ones
+T8	Markable 310 322	that darkest
+T17	Markable 364 375	the darkest

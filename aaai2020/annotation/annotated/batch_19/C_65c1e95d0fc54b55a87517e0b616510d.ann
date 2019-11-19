@@ -1,0 +1,7 @@
+T1	Markable 14 36	a bigger dark grey dot
+T2	Markable 71 87	a large grey dot
+T3	Markable 119 136	a medium grey dot
+T4	Markable 240 244	that
+T5	Markable 156 182	a smaller darkish grey dot
+T6	Markable 212 226	the 430 oclock
+R1	Anaphora Arg1:T4 Arg2:T6	

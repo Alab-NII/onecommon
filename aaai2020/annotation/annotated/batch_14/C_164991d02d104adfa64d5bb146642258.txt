@@ -1,0 +1,5 @@
+1: I have a large light gray dot with a smaller very dark gray dot above and to the right of it
+0: i have medium size black dot at 9:45
+1: Is there a medium gray dot above and slightly to the right of it?
+0: i have medium size black dot at location West
+1: Let's pick the black dot at 9:45

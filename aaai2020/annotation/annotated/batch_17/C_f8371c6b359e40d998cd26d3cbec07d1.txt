@@ -1,0 +1,5 @@
+0: my darkest dot is also the largest. it is near a tiny medium dark dot.
+1: Do you see 3 dots in a triangle shape?
+0: I do. The two top are small, the bottom larger (medium size).
+1: yes I see the same triangle shape. want to select the bottom largest dot?
+0: ok!

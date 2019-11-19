@@ -1,0 +1,3 @@
+0: I have a large very dark dot by itself towards the bottom
+1: is it close to a circle edge?
+0: Yes!

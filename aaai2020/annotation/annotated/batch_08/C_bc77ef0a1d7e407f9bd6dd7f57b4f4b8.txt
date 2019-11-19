@@ -1,0 +1,4 @@
+0: There is a medium black dot
+1: I dont have a black dot.
+0: I have a small dark grey dot
+1: Me too. Lets click that one.

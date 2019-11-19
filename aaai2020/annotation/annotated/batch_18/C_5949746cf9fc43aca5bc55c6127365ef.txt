@@ -1,0 +1,9 @@
+1: do you see two light grey dots horizontal to each other, with the right one being a little larger?
+0: yes I think. Is the right also slightly lower?
+1: yes my pair of dots is close to the middle of the circle towards the right a little
+0: my pair is toward the left top edge.
+1: is there a lonely large black dot?
+0: I have only one dark dot is is small and towards the bottom.
+1: ok, do you see another pair of dots vertical to the other pair?
+0: yes. however all my dots are towards the left of the circle or the center. my right edge is empty.
+1: okay, seems to be like mine but shifted to the left. i think we should select the small dot in the pair we were talking about first

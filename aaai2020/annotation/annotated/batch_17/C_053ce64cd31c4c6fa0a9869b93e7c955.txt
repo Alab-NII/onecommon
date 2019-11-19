@@ -1,0 +1,3 @@
+1: Do you have a triangle pattern, two black on left and right one is grey and larger
+0: a triangle of 3 large dots darkest on top?
+1: Take top

@@ -1,0 +1,7 @@
+1: do you have a med/small black one with a larger dark grey right below it?
+0: no i dont i have 2 light grey dots smaller is to the left and a hair lower
+1: are they the furthest-most right ones? bc i may only have the left one
+0: yes they are right in my circle
+1: there is a black one to the left and down from the light one?
+0: select the furthest right
+1: no i don't have the furthest right i said. the only light one i have is on the right of my circle... there is NO other one to the right of it... so if you can, re-choose the left light one please

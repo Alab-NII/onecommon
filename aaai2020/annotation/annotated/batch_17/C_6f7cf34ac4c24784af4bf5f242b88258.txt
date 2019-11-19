@@ -1,0 +1,4 @@
+1: i have one large, lonely dark dot
+0: two almost identical looking dots very close to each other?
+1: if the bottom one is a little smaller and to the left slightly
+0: yes click that bottom one

@@ -1,0 +1,6 @@
+1: I have one small light grey dot
+0: Small gray dot very right of the circle
+1: does it have a larger light grey dot bigger just left and down to it?
+0: Yes
+1: I'm good to click that one if you are? The small light grey one?
+0: Good my friend, thank you

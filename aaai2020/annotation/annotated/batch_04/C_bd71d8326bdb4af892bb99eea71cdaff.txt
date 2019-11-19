@@ -1,0 +1,4 @@
+1: see one black dot
+0: I see a black dot.
+1: Two dark grey dots and 4 light grey dots
+0: Three light gray dots. One medium gray dot.

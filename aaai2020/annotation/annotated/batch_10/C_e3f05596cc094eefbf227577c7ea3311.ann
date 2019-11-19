@@ -1,0 +1,5 @@
+T1	Markable 33 43	each other
+T2	Markable 58 65	the one
+T3	Markable 3 27	two dark same-sized ones
+R1	Anaphora Arg1:T1 Arg2:T3	
+T4	Markable 106 110	they

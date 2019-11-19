@@ -1,0 +1,9 @@
+T1	Markable 22 46	two large dark gray dots
+T2	Markable 78 101	three medium-large dots
+T3	Markable 105 111	a line
+T4	Markable 138 149	the top one
+T5	Markable 194 203	that line
+T6	Markable 224 238	the bottom one
+T7	Markable 242 250	the line
+T8	Markable 252 271	The large dark grey
+R1	Predicative Arg1:T3 Arg2:T2	

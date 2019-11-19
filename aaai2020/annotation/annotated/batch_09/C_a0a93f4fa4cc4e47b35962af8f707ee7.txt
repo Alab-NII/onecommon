@@ -1,0 +1,4 @@
+0: I see 2 lone grayish dots on the left part of the circle by the edge. And there a cluster of dark grey dots at the bottom rightish
+1: I see three dots that form a very small triangle. Two are the same size, the other is very small. Different colors all three.
+0: the small triangle i have too. Is the bottom right of the triangle tiny darkish dot touching the edge of the circle?
+1: In my view is not touching the edge, but is the smallest and dark. Click that one.

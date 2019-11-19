@@ -1,0 +1,5 @@
+1: i see a whole lot of light grey dots, but one is even lighter than the rest
+0: Is the lighter one slightly larger than those next to it?
+1: yeah, mine is at the edge, but i see two dots to the left of it, one is slightly above and the other is below
+0: Yep, lets choose the lighter one
+1: ok

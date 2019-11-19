@@ -1,0 +1,8 @@
+T2	Markable 65 75	each other
+T3	Markable 99 109	each other
+T4	Markable 84 88	they
+T5	Markable 116 127	the top one
+T6	Markable 167 178	the top one
+T7	Markable 3 34	Two almost black med sized dots
+R1	Anaphora Arg1:T2 Arg2:T7	
+R2	Anaphora Arg1:T3 Arg2:T4	

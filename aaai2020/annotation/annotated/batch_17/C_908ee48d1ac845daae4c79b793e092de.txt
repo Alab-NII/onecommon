@@ -1,0 +1,4 @@
+0: One large medium color with a small light colored one below and kind of to the right?
+1: i have one very small, darker grey dot and to it's right are two large dots, one is black and one is dark grey
+1: yes, i see the ones you described. pick the light one?
+0: Perfect

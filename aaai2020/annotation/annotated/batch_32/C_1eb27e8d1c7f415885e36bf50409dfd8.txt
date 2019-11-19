@@ -1,0 +1,3 @@
+1: I see one small black dot alone.
+0: i don't see it. i see two diagonal dots. one on the bottom to the left is dark and the one on the top to the right is very light gray
+1: I think I see it let's choose the dark one.

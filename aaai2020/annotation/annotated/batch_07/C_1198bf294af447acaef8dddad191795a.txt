@@ -1,0 +1,5 @@
+1: Big black dot in the middle of a cluster
+0: I see one dot larger than all others and darker than all others
+1: Is it by itself?
+0: No it is surrounded by 4 others
+1: Cool. Click it

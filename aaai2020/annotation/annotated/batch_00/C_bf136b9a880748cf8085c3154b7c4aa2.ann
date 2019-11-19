@@ -1,0 +1,21 @@
+T1	Markable 57 75	a large light grey
+T2	Markable 51 53	it
+T3	Markable 184 187	one
+T4	Markable 109 112	two
+T5	Markable 138 142	four
+T6	Markable 97 107	seven dots
+T7	Markable 236 238	it
+T8	Markable 209 231	the one small dark one
+T9	Markable 308 326	a large light grey
+T11	Markable 342 344	it
+T13	Markable 407 416	3 smaller
+T14	Markable 459 467	that one
+T15	Markable 3 12	tiny dark
+R1	Anaphora Arg1:T2 Arg2:T15	
+A1	All-Referents T6
+R2	Anaphora Arg1:T7 Arg2:T8	
+A2	No-Referent T9
+T10	Markable 348 352	that
+T12	Markable 376 388	a large gray
+T16	Markable 420 423	its
+R3	Anaphora Arg1:T16 Arg2:T12	

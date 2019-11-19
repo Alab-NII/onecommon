@@ -1,0 +1,11 @@
+T1	Markable 10 28	just one black dot
+T2	Markable 33 35	it
+T3	Markable 72 74	it
+T4	Markable 60 64	that
+T5	Markable 91 109	a close bigger one
+T6	Markable 83 85	it
+T7	Markable 116 118	it
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T4	
+R3	Anaphora Arg1:T7 Arg2:T6	
+T8	Markable 138 140	it

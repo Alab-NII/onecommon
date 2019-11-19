@@ -1,0 +1,5 @@
+1: do u have a triangle made of smaller dots?
+0: I see a small gray dot with two dark ones. If you tilt your head to the left, it looks like a nose and two eyes.
+1: I think thats the same triangle! are the 2 dark ones at the top and on the bottom left?
+0: That's it! Let's choose the gray (lighter color) one.
+1: sounds good

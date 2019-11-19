@@ -1,0 +1,8 @@
+T1	Markable 87 100	the black one
+T2	Markable 107 122	the lighter one
+T3	Markable 161 163	it
+T4	Markable 145 153	that one
+T5	Markable 10 30	a black small circle
+T6	Markable 36 64	a dark gray same size circle
+R1	Anaphora Arg1:T1 Arg2:T5	
+R2	Anaphora Arg1:T4 Arg2:T2	

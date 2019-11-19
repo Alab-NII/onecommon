@@ -1,0 +1,12 @@
+T1	Markable 61 71	black dots
+T2	Markable 80 90	a gray dot
+T3	Markable 97 121	a smaller same color one
+T4	Markable 135 147	a small grey
+T5	Markable 188 204	2 same size dots
+T6	Markable 315 329	the bottom one
+T7	Markable 13 26	1 large black
+A1	No-Referent T1
+T8	Markable 250 254	that
+A2	No-Referent T8
+T9	Markable 262 275	two med greys
+T10	Markable 299 304	those

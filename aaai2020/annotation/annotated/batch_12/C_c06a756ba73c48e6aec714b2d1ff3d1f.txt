@@ -1,0 +1,6 @@
+1: do you have a medium black one toward the top?
+0: I have a line of three dots going down and to the right. The two on the ends are black, while the middle one is a medium shade of grey. The one on the bottom right is largest and very dark.
+1: i think i have two of them, not the largest black/right one. is that largest black one the furthest on your right? and is there a medium size Very light one to the far left directly across from it?
+0: No I think we're seeing different things. Lets switch it up. Do you see two medium sized, very dark dots diagonal from each other. The top one is at the others 10 oclock
+1: yes i think so... with a very small med/grey one to their right?
+0: Yep thats them! Lets click the lower dark one

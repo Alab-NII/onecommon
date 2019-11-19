@@ -1,0 +1,9 @@
+0: i have two grey dots close together at 6 o clock
+1: I see 4 dots all close together. Three of them make a triangle. All very dark gray.
+1: Our locations could be different, but I don't see those two alone.
+0: i dont have that, i do have two darker dots at the 12:30 position upper right
+1: Are they the same size or is the bottom smaller?
+0: bottom is smaller
+1: I think I see it. Is there are dark bigger dot to the right of the top dot?
+0: yea lets choose that
+1: The top dot?

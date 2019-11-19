@@ -1,0 +1,4 @@
+0: I have 1 tiny black dot below a medium dark grey dot
+1: me too, let's click it
+0: tiny black?
+1: yes

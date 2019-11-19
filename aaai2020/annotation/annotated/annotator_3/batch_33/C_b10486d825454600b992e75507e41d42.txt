@@ -1,0 +1,5 @@
+0: is your largest dot light grey?
+1: The darkest dot i have is medium gray
+0: do you have some 3 dots forming a triangle toward the top, with the smallest of them being dark and another small one being grey?
+1: I have the dot you said, large and light and have a darker smaller one to the right
+0: we select the large grey

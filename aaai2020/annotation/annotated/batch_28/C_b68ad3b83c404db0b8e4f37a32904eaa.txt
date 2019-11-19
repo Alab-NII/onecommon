@@ -1,0 +1,3 @@
+0: two dots close together on vertical line?
+1: I have a large light grey dot with a slightly smaller darker grey dot aligned vertically very close to each other - top dot is slightly left
+0: yes! okay click the top one!

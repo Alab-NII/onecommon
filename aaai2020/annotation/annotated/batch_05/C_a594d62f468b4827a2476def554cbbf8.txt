@@ -1,0 +1,9 @@
+0: I have one small gray dot, lighter than the rest
+1: I have large medium gray dots at eleven and four o'clock.
+0: I do not have those, or those times.
+1: I don't have any small gray dots:( Do you have a cluster of medium sized dots, two of which are black and three are gray?
+0: I have 4 in my cluster, 2 are black, 2 are gray and under there is a large gray dot
+1: OK, I bet those are in common. Of the two black ones, is one southeast, about one centimeter?
+0: Yes that sounds accurate
+1: Want to pick one of them?
+0: Let's pick the one on the bottom

@@ -1,0 +1,6 @@
+1: i see 3 dots kind of close together all shaded pretty dark
+0: I have two identical medium dots somewhat close
+1: are they different shades? lighter one is to the left and darker to the right
+0: They are of same very light gray
+1: i only see 3 very light grey dots, but two of them are large and of them is small.
+0: Let s select the down most of the large one

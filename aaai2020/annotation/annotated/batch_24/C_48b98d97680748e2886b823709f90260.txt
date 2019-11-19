@@ -1,0 +1,4 @@
+1: The largest dot here is the darkest
+0: My largest one isn't the darkest -- I have a small black one. But I do have two very dark large ones - one is down and to the left of the other. The one on the right is black, and the one on the left is dark gray.
+1: Let us select the one on the left that is dark gray
+0: OK!

@@ -1,0 +1,13 @@
+T1	Markable 57 71	no lonely dots
+T2	Markable 118 132	a smaller gray
+T3	Markable 176 191	the smaller one
+T4	Markable 231 243	the dark one
+T5	Markable 268 281	the dark gray
+T6	Markable 9 32	lonely medium size gray
+A1	No-Referent T1
+T7	Markable 81 98	large medium dark
+T8	Markable 136 139	its
+R1	Anaphora Arg1:T8 Arg2:T7	
+T9	Markable 149 162	the large one
+T10	Markable 255 264	the black
+T11	Markable 286 297	large black

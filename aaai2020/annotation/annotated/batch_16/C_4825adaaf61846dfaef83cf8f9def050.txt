@@ -1,0 +1,4 @@
+1: Do you have a large black dot by itself with a medium black dot below it?
+0: I have a medium black dot. Above it is a much smaller medium grey dot which is a little to the left. Below the medium black dot is a smaller dark grey dot, also a little left
+1: I have the medium black dot with the smaller black dot below it and to the left, lets choose that medium black dot
+0: Ok!

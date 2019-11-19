@@ -1,0 +1,6 @@
+0: two dark same-sized ones near each other?
+1: Yes. Pick the one on the right?
+0: yes!
+1: Okie dokie!
+0: they are horizontal right?
+1: Yes

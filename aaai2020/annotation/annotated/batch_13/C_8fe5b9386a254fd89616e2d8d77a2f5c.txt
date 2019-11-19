@@ -1,0 +1,4 @@
+0: I have two small dots very close together. The top one is a little to the right, and darker.
+1: Not sure that I have those. I do have one thats dark gray and above a lighter gray dot above the same size
+0: Ok I see that I think. Is the lighter dot on the bottom just a tiny bit to the left?
+1: Yes, lets choose the lighter one on the bottom

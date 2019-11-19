@@ -1,0 +1,4 @@
+1: Hi, I have a triangle of small dots. The lightest on the top and the darkest is on bottom right
+0: Hello, do you see a big dark gray dot in between 2 light gray dots
+1: Yes! It's larger than the two light gray dots?
+0: Yes

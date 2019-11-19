@@ -1,0 +1,3 @@
+0: i have a large black dot one to top right and one to the top left do u have either
+1: yea both
+0: lets click on the one on the right

@@ -1,0 +1,4 @@
+0: I have a medium sized black dot, with a larger black dot down and to the left.
+1: i dont have that, i have a small dark grey dot with a smaller light grey do to its right
+0: I don't have that. I have a large light gray dot, with a darker one the same size a tiny bit down and to the right.
+1: yup, choose the darker one

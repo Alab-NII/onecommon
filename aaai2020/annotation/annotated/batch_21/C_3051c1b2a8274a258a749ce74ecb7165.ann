@@ -1,0 +1,17 @@
+T1	Markable 14 34	one smaller dark dot
+T2	Markable 56 71	the larger dots
+T3	Markable 124 128	that
+T4	Markable 201 211	each other
+T5	Markable 178 187	the other
+T6	Markable 268 272	that
+T7	Markable 286 297	the top one
+T8	Markable 41 54	2 larger dots
+R1	Anaphora Arg1:T2 Arg2:T8	
+A1	No-Referent T3
+T9	Markable 133 146	2 medium dots
+T10	Markable 148 152	both
+R2	Anaphora Arg1:T10 Arg2:T9	
+T11	Markable 168 171	one
+R3	Anaphora Arg1:T4 Arg2:T9	
+T12	Markable 213 220	top one
+R4	Anaphora Arg1:T12 Arg2:T11	

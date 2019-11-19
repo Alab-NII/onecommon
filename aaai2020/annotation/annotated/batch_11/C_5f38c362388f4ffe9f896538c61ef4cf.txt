@@ -1,0 +1,4 @@
+1: Do you see a tiny black dot?
+0: I have a tiny black dot. Above it and slightly right is a much larger, dark grey dot.
+1: Yes, let's choose the black dot.
+0: Ok, sounds good. Nicely done

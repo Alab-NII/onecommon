@@ -1,0 +1,42 @@
+T1	Markable 68 97	a lighter, slightly small one
+T2	Markable 54 60	itself
+T3	Markable 15 41	a med/light grey small one
+T4	Markable 134 142	two dots
+T5	Markable 159 173	the higher one
+T6	Markable 245 247	it
+T7	Markable 273 277	them
+T8	Markable 283 287	they
+T9	Markable 415 417	it
+T10	Markable 351 377	a med/light grey small one
+T11	Markable 419 427	that one
+T13	Markable 512 514	it
+T14	Markable 499 506	nothing
+T16	Markable 518 550	the lighter slightly smaller one
+T17	Markable 603 607	that
+T18	Markable 630 651	the light smaller one
+T19	Markable 693 697	it's
+T20	Markable 810 834	the smaller, lighter one
+T21	Markable 849 872	the smaller lighter one
+R1	Anaphora Arg1:T2 Arg2:T3	
+T22	Markable 113 117	it's
+#1	AnnotatorNotes T22	its
+R2	Anaphora Arg1:T22 Arg2:T3	
+T23	Markable 199 208	the lower
+R3	Anaphora Arg1:T6 Arg2:T23	
+A1	No-Referent T7
+R4	Anaphora Arg1:T8 Arg2:T7	
+A2	No-Referent T8
+T24	Markable 391 398	nothing
+A3	No-Referent T24
+R5	Anaphora Arg1:T9 Arg2:T10	
+A4	No-Referent T14
+T15	Markable 583 587	it's
+#2	AnnotatorNotes T15	its
+R6	Anaphora Arg1:T15 Arg2:T13	
+T25	Markable 656 668	the tiny one
+#3	AnnotatorNotes T19	its
+T26	Markable 721 731	a med/grey
+R7	Anaphora Arg1:T19 Arg2:T25	
+T27	Markable 796 800	it's
+#4	AnnotatorNotes T27	its
+R8	Anaphora Arg1:T27 Arg2:T26	

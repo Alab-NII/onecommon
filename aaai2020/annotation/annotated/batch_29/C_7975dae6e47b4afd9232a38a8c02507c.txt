@@ -1,0 +1,6 @@
+1: do you have a three grey dot line from top to bottom.
+0: do you see a med light grey dot with a slightly smaller dark grey dot above and to its left
+1: i do have a med grey dot in triangle
+0: is the dot at the bottom of that triangle a darker grey dot
+1: on the right
+0: ok, lets select that one

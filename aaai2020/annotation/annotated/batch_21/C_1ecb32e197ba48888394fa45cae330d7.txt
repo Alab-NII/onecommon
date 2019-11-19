@@ -1,0 +1,3 @@
+1: two black small dots close together almost on a vertical line
+0: i see that
+1: if the top one is smaller click the top one!

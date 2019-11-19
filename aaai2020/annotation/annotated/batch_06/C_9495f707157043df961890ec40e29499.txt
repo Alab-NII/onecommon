@@ -1,0 +1,4 @@
+0: really large black dot?
+1: Is there a smaller lighter dot above and to the left of the large black dot?
+0: yeah, but thats not the lightest one they use, right?
+1: yes. i think we have the same one. Let's pick the large dark dot you described first

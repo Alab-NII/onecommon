@@ -1,0 +1,6 @@
+0: Hi, I've got 2 large medium grey dots.
+1: I see one darker dot next to a medium grey dot
+1: do you see a medium grey dot with a small dark grey dot above it and slightly to the right
+0: Yes, I have that.
+0: Which one did you select?
+1: the larger one

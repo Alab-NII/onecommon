@@ -1,0 +1,3 @@
+0: Black dot, below and to the left of it is a light gray dot but same size
+1: i have a group of three and a dark one all by itself below that group
+0: Yes, choose the dark one below the group of 3

@@ -1,0 +1,6 @@
+1: I have a medium dot, in both shade and size at 3 o clock. do you?
+0: our three o clocks have different circle edges. two smallest medium gray dots close and almost vertical?
+1: maybe, near the bottom? top dot is larger and off to left?
+0: No :( what about lightest very small gray dot kinda by itself?
+1: i have one, top right of circle?
+0: lets try it

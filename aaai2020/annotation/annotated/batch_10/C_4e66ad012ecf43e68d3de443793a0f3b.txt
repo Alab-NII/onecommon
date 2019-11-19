@@ -1,0 +1,6 @@
+0: wow do you have ONe really large black one?
+1: One large black one up at the top, one toward the bottom.
+0: i don't have one at the bottom. is there 3 in between your two black large dots? the three in between will be a tiny very light one, a medium small light one, and above that a darker grey one
+1: I see those.
+0: shall we choose the tiny light one? it should be on the left
+1: That's the one I am going to choose.

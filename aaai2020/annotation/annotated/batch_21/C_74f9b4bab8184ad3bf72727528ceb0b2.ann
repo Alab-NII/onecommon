@@ -1,0 +1,6 @@
+T1	Markable 37 54	a horizontal line
+T3	Markable 67 77	darker one
+T5	Markable 99 113	the darker one
+T6	Markable 3 26	two same sized med dots
+R1	Predicative Arg1:T1 Arg2:T6	
+R2	Anaphora Arg1:T5 Arg2:T3	

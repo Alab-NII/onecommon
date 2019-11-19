@@ -1,0 +1,8 @@
+T1	Markable 9 15	7 dots
+T2	Markable 101 118	a horizontal line
+T3	Markable 120 129	right one
+A1	All-Referents T1
+T4	Markable 19 44	two smaller med grey dots
+T5	Markable 82 86	they
+R1	Predicative Arg1:T2 Arg2:T5	
+T6	Markable 185 195	bottom one

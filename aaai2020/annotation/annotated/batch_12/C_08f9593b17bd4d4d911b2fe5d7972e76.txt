@@ -1,0 +1,9 @@
+0: Do you have one very small very dark grey dot
+1: I do no. I have a very dark gray dot that is on the edge
+0: our edges will be different. Describe the dots near it instead, along with the size. Is it near a smaller slightly lighter one?
+1: No it is not. Do you have a dark gray dot that is by itself.
+0: Yes. Is yours small? If so, we should select that one.
+1: It's medium sized
+0: That is not it. Do you have a large medium grey one near a smaller one in similar colour?
+1: Yes I do
+0: Select that one

@@ -1,0 +1,6 @@
+1: I have two dark gray dots
+0: are they almost on top of each other
+1: Yes
+0: is the bottom one a little bigger
+1: Yup
+0: ok let's do that

@@ -1,0 +1,4 @@
+0: Do you see a large medium grey dot to the left?
+1: Is it next to a group of five dots
+0: Yes! Exactly.
+1: Let's choose it!

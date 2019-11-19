@@ -1,0 +1,6 @@
+0: how many large dots ?
+1: Medium gray large dot with a light gray medium dot to the west and a small light gray dot to the northeast
+0: i dont have it
+1: Large dark gray dot all alone?
+0: i have a large dark dot a 6 pm
+1: choose that one

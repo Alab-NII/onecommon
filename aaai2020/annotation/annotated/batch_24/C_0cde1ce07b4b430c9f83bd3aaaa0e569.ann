@@ -1,0 +1,7 @@
+T1	Markable 10 39	a diagonal line of three dots
+T3	Markable 65 80	The darkest one
+T4	Markable 127 134	the one
+T5	Markable 112 121	a cluster
+T6	Markable 192 212	that small black one
+T2	Markable 102 108	3 dots
+R1	Predicative Arg1:T5 Arg2:T2	

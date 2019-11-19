@@ -1,0 +1,13 @@
+T1	Markable 45 61	two smaller ones
+T2	Markable 10 27	a larger gray dot
+T3	Markable 91 98	the one
+T4	Markable 63 75	the left one
+T5	Markable 353 379	a slightly bigger gray dot
+T6	Markable 318 337	an almost black dot
+T7	Markable 402 423	this almost black dot
+T8	Markable 125 141	a large dark dot
+T9	Markable 204 208	this
+R1	Anaphora Arg1:T9 Arg2:T8	
+T10	Markable 224 231	the one
+A1	No-Referent T10
+T11	Markable 267 283	a tiny black dot

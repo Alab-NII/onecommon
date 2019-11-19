@@ -1,0 +1,5 @@
+T1	Markable 17 27	each other
+T2	Markable 29 38	right dot
+T3	Markable 112 125	the right dot
+T4	Markable 3 9	2 dots
+R1	Anaphora Arg1:T1 Arg2:T4	

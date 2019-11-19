@@ -1,0 +1,3 @@
+1: I have a large medium gray dot near the 7 o'clock position with no other dots nearby
+0: SO DO I ON THE BORDER OF THE CIRCLE
+1: yes. Let's pick that one

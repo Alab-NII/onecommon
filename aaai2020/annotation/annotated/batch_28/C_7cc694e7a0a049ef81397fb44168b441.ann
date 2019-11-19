@@ -1,0 +1,5 @@
+T1	Markable 42 59	a horizontal line
+T2	Markable 112 128	that smaller one
+T3	Markable 3 11	two dots
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 68 72	both

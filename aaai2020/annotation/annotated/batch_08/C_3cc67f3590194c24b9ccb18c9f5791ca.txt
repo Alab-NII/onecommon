@@ -1,0 +1,4 @@
+1: 11 oclock left by itself
+0: Is it medium grey and large?
+1: Yes
+0: Okay, let's select that one

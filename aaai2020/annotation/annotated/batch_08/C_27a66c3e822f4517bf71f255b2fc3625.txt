@@ -1,0 +1,4 @@
+1: I have one dark larger circle off by itself
+0: yes
+1: should we pick that one?
+0: yes

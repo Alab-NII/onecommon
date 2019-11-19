@@ -1,0 +1,6 @@
+0: DO you have a large dark dot with a small dark dot above it to the right?
+1: I see a group of 6 dots, a big black one near the top left above a very light gray one
+0: I don't have a group of 6. I have a group of 5 near the top of the circle and a group of 2 near the bottom.
+1: maybe yours cut off the black one...there should be a very light gray one on the very far left
+0: yes my far left is very light gray.
+1: That one sounds good to me

@@ -1,0 +1,13 @@
+T1	Markable 14 38	two very small dark dots
+T2	Markable 64 68	They
+T3	Markable 89 96	The dot
+T4	Markable 180 199	a darker larger dot
+T5	Markable 146 174	a very small medium dark dot
+T6	Markable 240 244	that
+T7	Markable 319 332	the small one
+T8	Markable 51 62	one another
+R1	Anaphora Arg1:T8 Arg2:T1	
+T9	Markable 203 207	it's
+R2	Anaphora Arg1:T9 Arg2:T5	
+T10	Markable 260 288	a medium size, similar shade
+T11	Markable 292 295	its

@@ -1,0 +1,15 @@
+T1	Markable 45 55	each other
+T2	Markable 57 64	The one
+T3	Markable 96 100	They
+T4	Markable 162 187	a small lighter shade dot
+T5	Markable 156 158	it
+T6	Markable 202 206	that
+T7	Markable 215 227	the tiny dot
+T8	Markable 10 30	my two smallest dots
+R1	Anaphora Arg1:T1 Arg2:T8	
+R2	Anaphora Arg1:T3 Arg2:T8	
+T9	Markable 117 130	Tiny grey dot
+R3	Anaphora Arg1:T5 Arg2:T9	
+T10	Markable 250 273	left lighter and larger
+T11	Markable 277 285	The left
+T12	Markable 309 328	The slightly larger

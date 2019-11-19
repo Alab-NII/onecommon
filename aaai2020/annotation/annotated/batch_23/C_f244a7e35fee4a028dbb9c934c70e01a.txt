@@ -1,0 +1,4 @@
+0: 2 small (one a bit bigger) very very close, do you see them?
+1: yes, the right one is bigger?
+0: yes, let's pick the big one at the right, ok?
+1: ok

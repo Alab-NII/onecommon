@@ -1,0 +1,11 @@
+0: Do you have one large black dot?
+1: No, the only black dot I have is smaller and mostly by itself
+0: What about one large gray dot?
+1: Dark, medium or light gray? I have about 3 large one
+0: Medium gray
+1: is there a small medium gray slightly lower and slightly to the side of it?
+0: Yes
+1: I think I have that
+0: Let's select that one then.
+1: Did you choose the large one? or the small one
+0: Large one

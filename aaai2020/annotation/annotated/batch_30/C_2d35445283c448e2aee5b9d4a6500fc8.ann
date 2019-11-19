@@ -1,0 +1,18 @@
+T1	Markable 37 70	a bigger but slightly lighter dot
+T2	Markable 30 32	it
+T3	Markable 96 109	the black dot
+T4	Markable 136 138	it
+T5	Markable 189 195	itself
+T6	Markable 257 259	it
+T7	Markable 235 250	darker grey dot
+T8	Markable 330 332	it
+T9	Markable 357 359	it
+T10	Markable 386 399	the black one
+T11	Markable 12 28	a black med size
+R1	Anaphora Arg1:T2 Arg2:T11	
+T12	Markable 130 134	that
+R2	Anaphora Arg1:T4 Arg2:T12	
+T13	Markable 157 160	its
+R3	Anaphora Arg1:T5 Arg2:T13	
+T14	Markable 210 228	light med size dot
+R4	Anaphora Arg1:T6 Arg2:T14	

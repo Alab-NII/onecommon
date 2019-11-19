@@ -1,0 +1,14 @@
+T1	Markable 35 68	a little larger med/dark/grey one
+T2	Markable 89 91	it
+T3	Markable 95 97	it
+T4	Markable 141 145	They
+T5	Markable 279 283	They
+T6	Markable 320 340	the bottom black dot
+T7	Markable 3 28	black kinda med/small dot
+R1	Anaphora Arg1:T2 Arg2:T7	
+R2	Anaphora Arg1:T3 Arg2:T7	
+T8	Markable 109 115	2 dots
+R3	Anaphora Arg1:T4 Arg2:T8	
+T9	Markable 162 173	Bottom left
+T10	Markable 189 204	the upper right
+T11	Markable 209 226	the top right one

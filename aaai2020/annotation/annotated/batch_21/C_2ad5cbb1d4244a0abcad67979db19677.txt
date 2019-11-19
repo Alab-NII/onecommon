@@ -1,0 +1,7 @@
+0: i have a large black one with a smaller one directly next to it on it's lower right that is med/dark grey
+1: very large light grey dot?
+0: i have no large light dots. i have a tiny light one that has a large one that is same color/size as the very first large black one i mentioned
+1: Yes! I see it. Click the large black one!
+0: which. the one on the lower right with the tiny light one next to it??
+1: black one sorry
+0: which black one. the one with the dark grey small one to it's lower right? or the lower one with the tiny light one to it's left???

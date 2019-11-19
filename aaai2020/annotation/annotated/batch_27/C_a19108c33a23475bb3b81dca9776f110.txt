@@ -1,0 +1,5 @@
+0: cluster of 4 dots you see? 2 second is slightly above the others that is light grey
+1: I'm not sure? Do you have a really tiny black dot?
+0: i do. is there 2 dots that are med grey to the right of that?
+1: Yes!!
+0: pick the really tiny black dot

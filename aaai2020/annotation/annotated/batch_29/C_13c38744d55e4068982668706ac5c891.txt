@@ -1,0 +1,5 @@
+0: Do you have three big black dots that form a triangle
+1: very large black dot in a triangle with two smaller but very dark dots?
+0: Yes but is the smaller dots light gray
+1: No. I was talking about the same triangle as you. In the triangle you were talking about is the largest one at the top? if so click that large black one on top!
+0: Yes ok I will

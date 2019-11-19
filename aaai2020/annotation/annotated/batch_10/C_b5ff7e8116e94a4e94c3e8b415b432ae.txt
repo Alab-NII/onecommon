@@ -1,0 +1,5 @@
+1: So you see a group of 4 dots that almost form a square?
+0: No, I see two dark dots, that almost form a straight horizontal line
+1: Hmm. Do you see two light grey large dots that are almost exactly the same size and shade not too far apart from each other?
+0: yes, one is lower and to the right of the other
+1: Yes. Click the lower one!

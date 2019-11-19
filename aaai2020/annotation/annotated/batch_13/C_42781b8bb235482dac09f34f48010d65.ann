@@ -1,0 +1,11 @@
+T1	Markable 47 71	a same-sized lighter dot
+T2	Markable 10 21	a dark grey
+T3	Markable 93 97	that
+T4	Markable 132 155	a dark grey smaller one
+T5	Markable 191 195	that
+T6	Markable 197 212	The smaller one
+T7	Markable 263 278	the smaller one
+A1	No-Referent T3
+T8	Markable 106 125	a black medium size
+T9	Markable 159 163	it's
+R1	Anaphora Arg1:T9 Arg2:T8	

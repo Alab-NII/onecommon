@@ -1,0 +1,4 @@
+0: Large black dot to the right and slightly lower than a smaller light grey dot?
+1: Yes! Are they close in size?
+0: Yes, choose the black dot?
+1: K

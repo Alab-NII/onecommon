@@ -1,0 +1,4 @@
+1: Hi do you see four dots making a square almost?
+0: more rectanglish. Is the one on the lower right corner the darkest?
+1: Yes! And the upper right corner is largest?
+0: yes. Let's choose lower right

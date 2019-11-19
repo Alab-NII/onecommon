@@ -1,0 +1,9 @@
+T2	Markable 10 31	a group of three dots
+T3	Markable 47 67	a group of four dots
+T4	Markable 128 129	4
+T5	Markable 147 163	1 large grey one
+T6	Markable 94 100	5 dots
+T7	Markable 232 240	that one
+T8	Markable 200 218	the large grey one
+T1	Markable 178 190	the row of 4
+R1	Anaphora Arg1:T1 Arg2:T4	

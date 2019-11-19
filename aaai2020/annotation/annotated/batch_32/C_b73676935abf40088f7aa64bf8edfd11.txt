@@ -1,0 +1,6 @@
+1: triangle at the bottom right the top dot is darker than the right
+0: i am not sure that i see that. i have a line going from left to right and down a bit. one light grey, a larger grey, small grey, then a dark one that is the same size as the one before it
+1: i think i have the line
+0: which ones do you see?
+1: large med gray one in the middle its the darkest of them'
+0: lets choose that one

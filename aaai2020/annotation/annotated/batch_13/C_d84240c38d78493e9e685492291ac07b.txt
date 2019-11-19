@@ -1,0 +1,4 @@
+0: I have one large dark dot, with smaller and darker dot under it
+1: I have a small black dot all by itself.
+0: I have that small black dot too
+1: ok.

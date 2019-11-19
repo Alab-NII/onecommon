@@ -1,0 +1,4 @@
+0: I have 3 in the middle
+1: Three dots sloping up and to the right, top is black or very dark and smallest, bottom is medium and lightest, mid is largest and also very dark to black
+0: I have those
+1: Click mid largest

@@ -1,0 +1,4 @@
+0: do you have a light gray large dot off by itself?
+1: I have a couple, is one very light in color?
+0: It is located below two smaller dots where both are darker shades of grays
+1: Oh yeah, great description, I will take the one that is very light in pigmentation

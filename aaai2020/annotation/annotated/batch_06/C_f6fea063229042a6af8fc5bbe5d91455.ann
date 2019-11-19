@@ -1,0 +1,13 @@
+T2	Markable 89 107	one group of three
+T4	Markable 132 134	It
+T5	Markable 139 167	a medium sized dark gray dot
+T6	Markable 183 217	a slightly smaller and lighter dot
+T7	Markable 304 312	that one
+T8	Markable 384 392	that one
+T1	Markable 10 34	two groups of three dots
+T9	Markable 36 39	one
+T10	Markable 51 60	the other
+R1	Anaphora Arg1:T4 Arg2:T2	
+T3	Markable 253 279	a larger, even lighter dot
+R2	Anaphora Arg1:T7 Arg2:T6	
+T11	Markable 321 330	first dot

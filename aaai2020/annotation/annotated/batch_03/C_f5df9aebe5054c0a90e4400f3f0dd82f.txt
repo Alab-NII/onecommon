@@ -1,0 +1,10 @@
+0: two dots close together. One larger and darker, one lighter and smaller
+1: i have a couple groups like that
+0: okay, what else do you have?
+1: well of the two groups like you have, on group goes on a slant, and the other is almost vertical
+0: this one is a slant.
+1: is the darker one above the lighter
+0: yes, should we choose the darker one?
+1: is the darker larger than the lighter
+0: yes
+1: yes choose the darker

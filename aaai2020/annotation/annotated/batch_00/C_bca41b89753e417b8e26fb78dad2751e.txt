@@ -1,0 +1,3 @@
+0: Large black dot at 12 oclock
+1: Yes I have one like that. Do you have a large dark dot with another dark dot beneath it?
+0: No. select the one at 12 oclock

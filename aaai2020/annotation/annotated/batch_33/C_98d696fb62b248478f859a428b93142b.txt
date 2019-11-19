@@ -1,0 +1,3 @@
+0: line of dots. Medium grey, dark large one and a light grey one
+1: Yes. Which one do we click?
+0: the light one

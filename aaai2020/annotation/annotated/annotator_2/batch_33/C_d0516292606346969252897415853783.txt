@@ -1,0 +1,4 @@
+1: My largest dot is the lightest
+0: i see a light dot above a darker on the left side from the center of the circle towards the top
+1: let us select the darker one
+0: ok

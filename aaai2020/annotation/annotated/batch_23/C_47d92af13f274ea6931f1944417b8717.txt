@@ -1,0 +1,4 @@
+1: Hi do you have a large medium gray dot with a smaller darker one to its upper right?
+0: yes i do
+1: Great! click the larger?
+0: ok i will

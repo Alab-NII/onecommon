@@ -1,0 +1,3 @@
+0: Do you have a triangle of large gray dots of same shade and a lighter one at the apex of the triangle?
+1: no , 2 large grey dots next to each other the left 1 is slightly larger and lower
+0: i have that one...choose the larger one

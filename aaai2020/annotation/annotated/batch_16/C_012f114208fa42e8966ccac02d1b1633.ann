@@ -1,0 +1,27 @@
+T1	Markable 28 46	no very light dots
+T2	Markable 10 23	no large dots
+T3	Markable 57 77	a tiny dark grey dot
+T4	Markable 116 154	a larger but still small-ish black dot
+T5	Markable 94 96	it
+T6	Markable 224 226	it
+T7	Markable 199 220	any larger black dots
+T8	Markable 267 274	the one
+T9	Markable 248 258	each other
+T10	Markable 234 238	they
+T11	Markable 364 366	it
+T12	Markable 474 478	them
+T13	Markable 505 512	the two
+T15	Markable 551 563	the left one
+A1	No-Referent T2
+A2	No-Referent T1
+R1	Anaphora Arg1:T5 Arg2:T3	
+T17	Markable 160 181	2 tiny dark grey dots
+R2	Anaphora Arg1:T6 Arg2:T17	
+A3	No-Referent T7
+R3	Anaphora Arg1:T9 Arg2:T10	
+T18	Markable 327 329	it
+R4	Anaphora Arg1:T11 Arg2:T18	
+T19	Markable 418 423	thats
+T20	Markable 454 461	nothing
+A4	No-Referent T20
+T21	Markable 532 544	the left one

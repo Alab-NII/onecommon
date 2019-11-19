@@ -1,0 +1,3 @@
+0: do you have a cluster of dots too?
+1: yes but i do have a lonely black dot to the left side and on the right side by the cluster i have a light gray dot
+0: ok, lets pick the big black dot that is in the cluster

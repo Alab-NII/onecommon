@@ -1,0 +1,4 @@
+0: I see a group of 3 about the same shade, on the left
+1: Is there a black medium/large one below them or did that not make it on screen?
+0: a big black one with a very light gray one just to the right of it?
+1: yep, take the black one

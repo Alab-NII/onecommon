@@ -1,0 +1,9 @@
+T2	Markable 42 60	two dark grey dots
+T3	Markable 127 131	them
+T4	Markable 102 118	a small grey dot
+T5	Markable 86 96	each other
+T6	Markable 152 175	an upside down triangle
+T7	Markable 237 261	the upside down triangle
+T8	Markable 224 233	the point
+R1	Anaphora Arg1:T5 Arg2:T2	
+R2	Anaphora Arg1:T3 Arg2:T2	

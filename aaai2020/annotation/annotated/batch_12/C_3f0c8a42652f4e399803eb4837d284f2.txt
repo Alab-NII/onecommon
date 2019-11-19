@@ -1,0 +1,8 @@
+0: I have two large black dots close in a diagonal, the lower one is larger
+1: i do not have any large dots
+0: i have a light grey dot a bit away from the others, there's a darker dot about the same size almost directly above it
+1: I think i have that. do you see anything to the left of the light grey dot?
+0: a bit away there is a similar sized slightly darker dot almost exactly even with it
+1: i have that two. and to the lower right of that darker one is a black dot
+0: yes, let's pick the light grey dot
+1: ok

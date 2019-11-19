@@ -1,0 +1,4 @@
+1: do you have a darkest, small dot kinda on it's own in the top center?
+0: I do have a tiny black dot by itself
+1: and a med/grey one about an inch away to it's left/lower side?
+0: yes. lets pick the small black dot

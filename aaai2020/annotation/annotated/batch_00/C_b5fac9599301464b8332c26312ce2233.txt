@@ -1,0 +1,8 @@
+1: Do you have a dark grey dot near the middle?
+0: two large dots, left lower is light, upper right is dark, RIGHT NEXT to each other?
+1: I think so but my lighter one is near the 8 o'clock position and the darker underneath 12 o'clock near the middle.
+0: do you have one really small black dot?
+1: No. Do you have a really small light grey dot?
+0: yes, and there's a bigger, darker one up from it?
+1: Yes but not directly straight above its slightly to the right?
+0: yep!

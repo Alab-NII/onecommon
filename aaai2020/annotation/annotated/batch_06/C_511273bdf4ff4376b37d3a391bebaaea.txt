@@ -1,0 +1,7 @@
+0: hello
+1: One medium sized very light grey dot that is close to four dots that a dark and all similar in shade
+0: I see 7 dots on light, small
+1: Do you see the light grey dot that I was talking about that is close to four darks dots?
+0: yes, I think so, the other four dots vary a little in size and 3 are gray one is darker gray
+1: Yes. let's choose that light grey one
+0: agreed

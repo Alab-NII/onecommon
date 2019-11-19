@@ -1,0 +1,5 @@
+0: I only have two large dark dots one at 12:00 position other at 4:00 position do u have either
+1: i have one large black dot, it has a slightly smaller, slightly lighter dot to its right
+0: where is your large dark dot located r l c
+1: its around 5, but we have different views so that wont necessarily match
+0: click on it

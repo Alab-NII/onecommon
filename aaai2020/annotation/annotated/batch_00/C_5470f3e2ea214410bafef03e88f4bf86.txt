@@ -1,0 +1,4 @@
+1: I have a dark dot touching the circle on the upper right
+0: Do you have a large dark dot with a slightly lighter dot directly below it of the same size? Our dots will not be in the same place in relation to the dotted outline.
+1: yes to the large dark dot with the slightly lighter dot below it
+0: Okay, lets select the dark top one.

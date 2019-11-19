@@ -1,0 +1,16 @@
+T1	Markable 10 25	a big black one
+T2	Markable 62 64	it
+T3	Markable 113 116	one
+T4	Markable 165 182	another black dot
+T5	Markable 249 259	the others
+T6	Markable 219 225	10 one
+T7	Markable 344 357	one light one
+T8	Markable 472 495	your small lightest one
+T9	Markable 32 48	a very light one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T10	Markable 89 112	two med size black dots
+T11	Markable 137 146	the other
+T12	Markable 264 277	all my blacks
+T13	Markable 317 333	your light one/s
+A1	Generic T13
+T14	Markable 394 416	a darker med size gray

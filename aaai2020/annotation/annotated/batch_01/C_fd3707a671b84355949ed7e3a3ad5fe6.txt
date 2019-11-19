@@ -1,0 +1,6 @@
+1: to left large med gray dot
+0: it is touching the dot
+1: nothing touching
+0: ok to the right of this large med dot is there a smaller medium gray dot slight higher than it
+1: yes
+0: ok lets choose that first dont

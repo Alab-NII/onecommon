@@ -1,0 +1,4 @@
+0: So you have two medium sized dots vertical from each other same sized, top is dark.
+1: Yes, I have those!
+0: Pick top
+1: ok will do

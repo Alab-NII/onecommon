@@ -1,0 +1,22 @@
+T1	Markable 52 65	the lower one
+T2	Markable 93 107	any large dots
+T3	Markable 151 161	the others
+T4	Markable 118 134	a light grey dot
+T5	Markable 171 183	a darker dot
+T6	Markable 226 228	it
+T7	Markable 247 251	that
+T8	Markable 264 272	anything
+T9	Markable 288 306	the light grey dot
+T10	Markable 392 394	it
+T11	Markable 331 366	a similar sized slightly darker dot
+T12	Markable 405 413	that two
+T13	Markable 460 471	a black dot
+T14	Markable 441 456	that darker one
+T15	Markable 491 509	the light grey dot
+T16	Markable 10 30	two large black dots
+T17	Markable 40 50	a diagonal
+R1	Predicative Arg1:T17 Arg2:T16	
+A1	No-Referent T2
+A2	Generic T3
+R2	Anaphora Arg1:T6 Arg2:T4	
+A3	Generic T8

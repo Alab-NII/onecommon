@@ -1,0 +1,6 @@
+1: Do you see two dots that are very very close together?
+0: Yes. Select the darker one?
+1: Is the darker one larger and slightly above to the left?
+0: Correct.
+1: Which one did you choose? THe darker one?
+0: Yes...the darker one

@@ -1,0 +1,18 @@
+T1	Markable 37 40	one
+T4	Markable 42 49	top one
+T5	Markable 65 75	bottom one
+T6	Markable 9 21	2 large dots
+T7	Markable 100 116	a tiny black dot
+T8	Markable 129 137	two dots
+T9	Markable 159 166	top one
+T10	Markable 216 221	those
+T11	Markable 234 250	your largest dot
+T13	Markable 301 303	it
+T14	Markable 374 378	that
+T15	Markable 318 331	2 medium dots
+T16	Markable 410 428	the light grey one
+R1	Predicative Arg1:T4 Arg2:T1	
+A1	No-Referent T10
+T2	Markable 333 336	top
+T3	Markable 382 395	a medium grey
+R2	Anaphora Arg1:T14 Arg2:T2	

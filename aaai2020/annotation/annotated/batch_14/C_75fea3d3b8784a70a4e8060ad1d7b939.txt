@@ -1,0 +1,4 @@
+1: Do you see one really dark gray dot, about medium sized?
+0: yes, but where is it?
+1: towards the top , a medium gray beneath and a light gray beside that one. Kind of like a triangle. It would be the darkest one.
+0: yep lets do it

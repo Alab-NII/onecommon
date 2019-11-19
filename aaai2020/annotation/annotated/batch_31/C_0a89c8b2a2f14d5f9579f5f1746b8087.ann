@@ -1,0 +1,11 @@
+T1	Markable 42 51	the three
+T2	Markable 102 106	that
+T3	Markable 170 177	the dot
+T4	Markable 143 154	the top dot
+T5	Markable 108 127	Another smaller dot
+T6	Markable 232 247	large black one
+T7	Markable 3 19	Triangle pattern
+T8	Markable 21 38	lightest smallest
+R1	Anaphora Arg1:T1 Arg2:T7	
+T9	Markable 66 73	darkest
+T10	Markable 202 222	the triangle pattern

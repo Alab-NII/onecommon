@@ -1,0 +1,7 @@
+T1	Markable 44 64	a med light grey dot
+T2	Markable 120 140	a med light grey dot
+T3	Markable 97 114	a large black dot
+T4	Markable 174 192	the large dark one
+T5	Markable 3 21	2 large black dots
+T6	Markable 144 147	its
+R1	Anaphora Arg1:T6 Arg2:T3	

@@ -1,0 +1,4 @@
+0: do you have a black dot farthest away from all the other dots and up and to the left of the other dots?
+1: Yes. There is a medium gray dot about the same size to the far right of it
+0: i see that too. is the gray dot maybe slightly smaller...very slightly?
+1: Yes. Let's pick the black dot you described first

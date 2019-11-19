@@ -1,0 +1,7 @@
+T1	Markable 41 65	a smaller light grey dot
+T2	Markable 95 105	each other
+T3	Markable 67 71	they
+T4	Markable 135 149	the bigger dot
+T5	Markable 9 32	a large medium-grey dot
+R1	Anaphora Arg1:T2 Arg2:T3	
+T6	Markable 116 124	the same

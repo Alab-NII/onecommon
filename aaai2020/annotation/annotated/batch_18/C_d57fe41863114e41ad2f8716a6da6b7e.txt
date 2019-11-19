@@ -1,0 +1,4 @@
+1: I have a large dark gray dot at the 9 o clock position on the left just off centered
+0: No, I have 2 light grey dots very close together. Right one is larger & above the left.
+1: I see it... is there a smaller dot to the left and top of those 2
+0: Yes, pick the larger dot on the right.

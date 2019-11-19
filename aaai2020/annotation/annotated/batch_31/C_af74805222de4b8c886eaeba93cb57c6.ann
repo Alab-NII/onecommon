@@ -1,0 +1,7 @@
+T1	Markable 51 67	a larger grey do
+T2	Markable 75 77	it
+T3	Markable 88 97	black dot
+T4	Markable 3 22	one small black dot
+T5	Markable 43 47	that
+R1	Anaphora Arg1:T5 Arg2:T4	
+#1	AnnotatorNotes T1	a larger grey dot

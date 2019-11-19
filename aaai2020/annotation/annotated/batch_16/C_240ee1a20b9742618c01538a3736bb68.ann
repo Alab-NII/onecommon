@@ -1,0 +1,5 @@
+T2	Markable 30 33	one
+T3	Markable 62 78	the big dark one
+T4	Markable 3 14	2 dark dots
+T1	Markable 42 53	smaller dot
+R1	Predicative Arg1:T1 Arg2:T2	

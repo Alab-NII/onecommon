@@ -1,0 +1,6 @@
+1: i have 3 kinda large dark ones making a semi-circle
+0: is there a med light grey and small black next to it?
+1: the bottom one has a light grey to the right/lower, with another dark small one to the right and higher of that
+0: yes! I have those! Which one should we choose?
+1: the smallest dark one?
+0: sounds good

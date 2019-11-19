@@ -1,0 +1,5 @@
+0: 2 dots in a crocked line top is smaller and grey
+1: Are there 2 large dots to its left, making a line going down and to the right?
+0: yes and i meant to type 3 the top is grey the bottom two black up and left fairly close to the last is a small grey dot
+1: Yes, but I goofed, meant to say "2 large dots to the right". If you see that, hit small gray dot
+0: okay

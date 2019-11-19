@@ -1,0 +1,14 @@
+T1	Markable 44 63	one little gray dot
+T3	Markable 131 150	the little gray dot
+T4	Markable 182 184	it
+T6	Markable 237 246	the other
+T8	Markable 299 310	another dot
+T9	Markable 254 273	the little gray one
+T10	Markable 321 323	It
+T11	Markable 437 441	that
+T12	Markable 450 468	the light gray dot
+T13	Markable 15 32	a little gray dot
+T2	Markable 84 103	One little gray dot
+T5	Markable 333 371	a slightly bigger and a bit darker dot
+T14	Markable 396 400	what
+R1	Anaphora Arg1:T11 Arg2:T14	

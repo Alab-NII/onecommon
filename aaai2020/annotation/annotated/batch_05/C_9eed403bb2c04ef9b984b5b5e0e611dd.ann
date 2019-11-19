@@ -1,0 +1,11 @@
+T1	Markable 41 52	the top two
+T2	Markable 81 86	those
+T4	Markable 10 39	a triangle of three dark dots
+T5	Markable 131 149	a dark smaller dot
+T6	Markable 108 125	a dark medium dot
+T7	Markable 271 284	those top two
+T8	Markable 216 246	that down and to the right one
+T10	Markable 302 325	the larger, darkest one
+T11	Markable 68 77	the right
+R2	Anaphora Arg1:T2 Arg2:T1	
+T12	Markable 177 194	a medium gray dot

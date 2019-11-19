@@ -1,0 +1,4 @@
+0: Hi there, I have a small dot, darkest grey, toward the upper left side of the circle
+1: Is there a larger one medium grey down and to the right of it?
+0: Yes, there is. Shall we click the darker one to the upper left?
+1: Yes!

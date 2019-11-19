@@ -1,0 +1,2 @@
+1: Do you have a super big dark gray dot in the upper right of the circle?
+0: Yes

@@ -1,0 +1,4 @@
+0: I have small dark dot, has large light dot on lower right
+1: i have a small dark dot, and below to the right is a large grey dot
+0: yes we said the same thing, select the small dark one
+1: sounds like a plan!

@@ -1,0 +1,4 @@
+0: Do you see two dots the same size diagonally from each other one black one medium grey?
+1: the black dot is higher?
+0: Yes!
+1: ok, pick the top black dot

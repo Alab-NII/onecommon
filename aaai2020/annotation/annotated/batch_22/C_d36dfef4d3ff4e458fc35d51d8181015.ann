@@ -1,0 +1,11 @@
+T1	Markable 21 33	the blackest
+T2	Markable 58 76	another larger one
+T3	Markable 83 85	it
+T4	Markable 116 128	the blackest
+T5	Markable 3 17	My largest dot
+R1	Predicative Arg1:T1 Arg2:T5	
+T6	Markable 50 53	i t
+#1	AnnotatorNotes T6	it
+T7	Markable 37 41	mine
+R2	Anaphora Arg1:T6 Arg2:T7	
+R3	Anaphora Arg1:T3 Arg2:T7	

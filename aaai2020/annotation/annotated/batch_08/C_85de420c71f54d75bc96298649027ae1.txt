@@ -1,0 +1,4 @@
+0: two black dots same size one go slightly down and to right
+1: two smaller blacks in the middle
+0: YES lets choose the lower one
+1: alright, good job

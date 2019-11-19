@@ -1,0 +1,4 @@
+1: group of 4 dots in lower half, one medium in middle
+0: i have three. one bigger one in middle of two and each is a little different shades
+1: ok, pick the bigger one
+0: k

@@ -1,0 +1,3 @@
+0: Do you have a medium gray dot at the top of your circle, touching the edge?
+1: I have a line. almost in a row from left to right staring with a small medium grey circle then running diagonally to the right
+0: Same! How about we pick the black dot at the bottom of the line?

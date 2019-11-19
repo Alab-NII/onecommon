@@ -1,0 +1,9 @@
+T1	Markable 43 73	two identical normal gray dots
+T2	Markable 9 25	a light gray dot
+T3	Markable 36 38	it
+T4	Markable 81 99	this light grey do
+T5	Markable 149 157	that one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T6	Markable 129 132	all
+A1	All-Referents T6
+R2	Anaphora Arg1:T5 Arg2:T4	

@@ -1,0 +1,8 @@
+T1	Markable 75 82	the one
+T2	Markable 10 32	three medium grey dots
+T3	Markable 103 107	They
+T4	Markable 142 144	it
+T5	Markable 175 182	the one
+T6	Markable 160 162	it
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T2	

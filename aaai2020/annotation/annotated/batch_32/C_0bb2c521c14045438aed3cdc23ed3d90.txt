@@ -1,0 +1,6 @@
+1: Large dark dot all the way to the left center
+0: there is one large kind of dark dot isolated on the bottom left
+1: I don't have that one
+0: i see a cluster of three of the same size and almost the same color except the middle one is slightly lighter than the other two.
+1: Yes. Choose middle one
+0: okay.

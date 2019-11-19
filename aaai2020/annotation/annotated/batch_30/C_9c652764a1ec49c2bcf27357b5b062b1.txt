@@ -1,0 +1,8 @@
+0: Is your smallest a medium shade grey dot?
+1: yes
+0: Does it have a slightly larger black dot down and to the right?
+1: i don't see that
+0: What about a larger one of same color up and to the left slightly?
+1: yes i see that
+0: Great! Which should we choose?
+1: Let's choose the small medium grey

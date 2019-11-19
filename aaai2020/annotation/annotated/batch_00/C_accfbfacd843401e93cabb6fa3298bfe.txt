@@ -1,0 +1,8 @@
+1: I have the lightest medium size dot on 7 o'clock
+0: My dots are arranged like the milky way going vertically in the middle of the circle, off center to the left.
+1: i see 4 dots on the left, largest is medium gray and on the top, smallest is dark grey and on the left, and there are 2 medium dots under
+0: I see those too. there's a light grey dot in the center of the two you described yes?
+1: no
+0: Medium grey on top, dark grey lower left. Light grey between those two for me.
+1: so you wanna select smallest and the darkest of them?
+0: Yes! Small dark one.

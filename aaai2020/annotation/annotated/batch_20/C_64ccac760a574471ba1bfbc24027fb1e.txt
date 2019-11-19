@@ -1,0 +1,7 @@
+0: i see a faint grey dot near the bottom
+1: do you have a large black dot with a med black dot to the lower right?
+0: i see something similar to that. where in your circle did you find this?
+1: its in the upper right.
+0: i think i see it too.
+1: shall we choose the larger black dot?
+0: all right

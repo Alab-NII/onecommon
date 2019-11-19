@@ -1,0 +1,7 @@
+T1	Markable 30 36	a line
+T2	Markable 71 83	2 large dots
+T3	Markable 98 102	that
+T4	Markable 111 132	upper large black dot
+T5	Markable 3 18	group of 5 dots
+T6	Markable 19 24	top 3
+R1	Predicative Arg1:T1 Arg2:T6	

@@ -1,0 +1,6 @@
+0: one tiny dark dot, by itself?
+1: Closer to the color black, correct?
+0: yes
+1: Yes, I do.
+0: ok let's pick that
+1: Done

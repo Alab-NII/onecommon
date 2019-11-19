@@ -1,0 +1,5 @@
+1: Do you see a three dots on the bottom forming a triangle
+0: i see three medium small dots in an almost close triangle, the top left dot is light grey
+1: The light gray is on the left and bigger size and the other ones are black! the one on the right is a little bigger than the one on the top
+0: yes, the one on the top right is a little bigger than the other black one, let's choose the light grey dot
+1: Ok

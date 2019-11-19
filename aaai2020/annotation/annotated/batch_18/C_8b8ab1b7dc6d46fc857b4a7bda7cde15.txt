@@ -1,0 +1,5 @@
+1: I have two large, dark dots close together. They are similar size. The one on the bottom is a darker shade and to the right.
+0: I have 5 small circles two are dark grey two are light grey and two are somewhere in the middle of both shades
+1: So I think I only see two of the small circles. I have two that are almost horizontal to each other. The one on the left is a small, medium shade of grey. To its right and SLIGHTLY above is a dark grey tiny circle, which is a tad larger.
+0: Are there are 2 large dark circles in the middle horizontal from each other?
+1: I see those. The black one is on the right, correct? Click the black on the lower right

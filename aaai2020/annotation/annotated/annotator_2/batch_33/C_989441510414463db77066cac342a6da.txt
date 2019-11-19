@@ -1,0 +1,6 @@
+0: I see a tiny light grey dot kind of lonely
+1: do you see a small medium light grey dot almost at the rim of the circle to the right
+0: I don't think so. It might not be close to the circle in my view
+1: then a lone light small dot at the top of the circle
+0: yes let's choose that one
+1: ok

@@ -1,0 +1,5 @@
+0: cluster of 5 dots forming a trapezoid kinda shape.
+1: My blackest dot is black. you?
+0: same. is there a lighter dot same size to the lower left?
+1: Let us select the black one
+0: gotcha

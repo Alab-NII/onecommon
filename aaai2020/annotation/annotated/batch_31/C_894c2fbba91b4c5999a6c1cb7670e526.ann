@@ -1,0 +1,11 @@
+T1	Markable 3 25	Medium sized black dot
+T3	Markable 31 63	a slightly larger light grey dot
+T4	Markable 115 119	that
+T5	Markable 127 138	a black dot
+T6	Markable 199 201	it
+T7	Markable 262 275	the black dot
+A1	No-Referent T4
+T2	Markable 144 162	a lighter grey dot
+R1	Anaphora Arg1:T6 Arg2:T5	
+T9	Markable 237 241	what
+T8	Markable 349 363	the same thing

@@ -1,0 +1,5 @@
+0: two med colored large dots in a row up and down
+1: do you see two big grey dots together
+0: they are med colored grey?
+1: yes pick top one?
+0: k

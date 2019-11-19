@@ -1,0 +1,5 @@
+1: Do you see two black dots close together in bottom half of circle?
+0: do you have two dark medium sized dots right next to each other on the right
+1: Yes :)
+0: lol let's hit the lower one
+1: ok

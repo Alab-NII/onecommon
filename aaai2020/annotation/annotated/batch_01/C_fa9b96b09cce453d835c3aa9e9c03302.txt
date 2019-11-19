@@ -1,0 +1,5 @@
+1: i see big dark dot on the top touching the circle
+0: Hi, I see one dot that's smaller than all the rest, do you see a uniquely small dot
+1: yes i see the small dot it is dark and under the center
+0: Okay, I didn't see the dot you referenced. Just know that our outline circle isn't aligned the same so our dots wont have the same location. I think the small dark dot is a common object.
+1: you're right i will select that

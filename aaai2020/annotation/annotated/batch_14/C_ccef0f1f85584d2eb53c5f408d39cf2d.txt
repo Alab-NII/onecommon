@@ -1,0 +1,6 @@
+0: Four biggest dot in a slight curve vertical row?
+1: I have a slight curve of 5, do you have a light shaded one at the end of the chain?
+0: The curve one at end is smaller, largest four one in between two is the darkest dot
+1: I also have a darkest dot in the curve between 2 medium shaded ones. Are these 3 the same size for you?
+0: Yes darkest of all the bigger dots, close to black color. Select the darkest one.\
+1: agreed

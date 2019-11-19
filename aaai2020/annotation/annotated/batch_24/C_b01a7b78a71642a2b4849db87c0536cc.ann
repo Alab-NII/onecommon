@@ -1,0 +1,13 @@
+T1	Markable 10 17	one dot
+T2	Markable 142 148	itself
+T3	Markable 103 126	a small medium gray dot
+T4	Markable 160 186	a cluster darker gray dots
+T6	Markable 235 245	a tiny one
+T7	Markable 220 223	One
+T8	Markable 278 282	they
+T10	Markable 326 341	the smaller one
+T11	Markable 39 53	all the others
+R1	Anaphora Arg1:T2 Arg2:T3	
+T5	Markable 269 273	that
+T9	None 283 287	they
+#1	AnnotatorNotes T9	the

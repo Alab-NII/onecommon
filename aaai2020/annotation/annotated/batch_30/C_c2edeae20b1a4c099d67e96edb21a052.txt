@@ -1,0 +1,2 @@
+1: i have an almost vertical line of 4 grey dots and then a tiny dark grey dot to the right and below a bit from the end of the "line"
+0: select the tiny dark grey

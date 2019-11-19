@@ -1,0 +1,6 @@
+T1	Markable 75 77	it
+T2	Markable 130 134	them
+T3	Markable 149 162	the large one
+T4	Markable 3 14	largest one
+T5	Markable 50 62	a light grey
+R1	Anaphora Arg1:T1 Arg2:T4	

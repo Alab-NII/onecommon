@@ -1,0 +1,7 @@
+1: do you have a cluster of 5 dots and a dark dot to the left
+0: I have a cluster of 4 with no dark dot to the left
+1: What about a medium gray that is alone
+0: Below the cluster?
+1: yes
+0: Yes
+1: lets choose that one

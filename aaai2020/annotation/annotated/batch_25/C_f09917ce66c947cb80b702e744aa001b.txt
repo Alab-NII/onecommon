@@ -1,0 +1,4 @@
+0: do you have a small dark grey with a smaller darker one above it slightly to it's right?
+1: yes i have those 2
+0: ok let's choose the top small darker one
+1: sure

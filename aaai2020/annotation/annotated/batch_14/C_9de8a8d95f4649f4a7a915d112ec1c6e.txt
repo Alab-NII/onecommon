@@ -1,0 +1,6 @@
+1: i have medium size black dot at South
+0: I have a medium sized black dot with a lighter and slightly smaller dot below and to the right of it
+1: do you have black dot at North?
+0: Our orientations are different. Your north could be my south
+1: i have medium size black with smaller gray to its lower right
+0: yes. I have the same. Let's pick the black dot

@@ -1,0 +1,7 @@
+0: hi. i have a small black dot with a much larger grey/dark grey dot to the lower left of it
+1: I'm not sure I have that. I have a triangle of dots, with two small dark ones and one larger light one.
+0: i've actually got two black dots. hmm below all that i have 3 in a horizontal like, med dark grey, small dark, small light and then below those is a small light grey
+1: Man, I don't see any of that. Do you have two that are fairly close, both fairly small, one light and the other medium?
+0: are they like across from each other? the only ones i have like that are part of that horizontal line. all of my dots, in general, are small except for one larger med grey
+1: Yeah, horizontal. Maybe I can only see the leftmost two.
+0: okay so pick the light small one i guess? lol

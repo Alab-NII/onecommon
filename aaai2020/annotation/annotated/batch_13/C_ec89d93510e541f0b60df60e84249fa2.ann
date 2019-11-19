@@ -1,0 +1,9 @@
+T1	Markable 10 54	a cluster of 2 very dark (almost black) dots
+T2	Markable 76 87	A large one
+T3	Markable 106 119	a smaller one
+T4	Markable 145 147	it
+T5	Markable 163 180	the two dark dots
+T6	Markable 182 185	one
+T7	Markable 213 227	the bottom one
+T8	Markable 237 251	the larger one
+R1	Anaphora Arg1:T4 Arg2:T2	

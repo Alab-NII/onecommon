@@ -1,0 +1,3 @@
+0: I only have one black dot. It's small and is aligned almost horizontally with a larger, light grey dot on its left
+1: Yes! Is there an almost identical dot to the large one above and to the right?
+0: Yes...let's click the small black dot.

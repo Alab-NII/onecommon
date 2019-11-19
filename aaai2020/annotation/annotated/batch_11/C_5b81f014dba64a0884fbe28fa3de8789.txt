@@ -1,0 +1,3 @@
+1: Do you see a tiny black dot, to the left of it is a large lightest shade dot
+0: yes, there's another large dot to the right of it?
+1: Click that tiny one, I meant lighter... But click smally

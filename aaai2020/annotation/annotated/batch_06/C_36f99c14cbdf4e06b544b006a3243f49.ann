@@ -1,0 +1,9 @@
+T1	Markable 48 54	3 dots
+T2	Markable 94 109	the largest one
+T4	Markable 153 168	the largest one
+T5	Markable 6 15	which dot
+A1	Generic T5
+T6	Markable 64 74	each other
+R1	Anaphora Arg1:T6 Arg2:T1	
+T7	Markable 82 92	a triangle
+R2	Predicative Arg1:T7 Arg2:T1	

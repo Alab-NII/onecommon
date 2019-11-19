@@ -1,0 +1,3 @@
+1: Do you have one tiny gray dot? Smaller than the rest?
+0: Ai have a small dot that is the same color as a larger dot right below it
+1: Yes, me too. Select the small one.

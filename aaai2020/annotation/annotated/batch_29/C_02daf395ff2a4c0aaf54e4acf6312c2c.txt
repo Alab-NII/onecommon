@@ -1,0 +1,4 @@
+0: large dark grey with a smaller lighter grey above to the left
+1: do you have a medium sized very light dot toward the center?
+0: no I have a large black dot by itself though
+1: ok, your first suggestion i have i think. lets click the larger dark grey

@@ -1,0 +1,6 @@
+1: I see a large dark gray, with a large light gray below and slightly to the left, and a smaller dark gray below and slightly to the right.
+0: I don't have that. Do you see two dots the same size one black and one dark grey going diagonal ?
+1: I think so. Is the lighter one below and to the right?
+0: Yes! Which should we choose?
+1: The lower gray one!
+0: Okay!

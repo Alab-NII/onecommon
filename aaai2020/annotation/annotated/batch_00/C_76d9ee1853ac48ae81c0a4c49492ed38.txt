@@ -1,0 +1,5 @@
+0: I see two large dark dots near each other.
+1: Is one, slightly smaller and to the bottom right of the other?
+0: Yes.
+1: Okay, should we choose the top or bottom?
+0: Let's choose the top one.

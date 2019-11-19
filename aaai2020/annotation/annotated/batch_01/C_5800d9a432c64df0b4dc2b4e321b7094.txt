@@ -1,0 +1,6 @@
+0: I have a black dot by itself... to the right maybe 2 oclock position close to the edge
+1: I see two large dots, the bottom one slightly lighter and to the left
+0: i don't see that. I have large black dots to the left i have a larger light gray dot below it a smaller dark gray
+1: I think I see the dot you were talking about earlier, is it medium sized?
+0: yes
+1: Lets pick that one

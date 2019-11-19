@@ -1,0 +1,18 @@
+T1	Markable 9 19	three dots
+T2	Markable 34 44	each other
+T3	Markable 64 81	a horizontal line
+T4	Markable 83 99	The lightest one
+T5	Markable 140 146	itself
+T6	Markable 158 163	a one
+T7	Markable 192 215	a large medium gray dot
+T8	Markable 221 232	a black dot
+T9	Markable 276 278	it
+T10	Markable 330 344	the three dots
+T11	Markable 360 375	the lighter one
+T12	Markable 392 394	it
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T3 Arg2:T1	
+T13	Markable 120 136	medium black one
+R3	Anaphora Arg1:T5 Arg2:T13	
+A1	No-Referent T6
+R4	Anaphora Arg1:T9 Arg2:T7	

@@ -1,0 +1,6 @@
+0: far left touching the line i have a medium size light dot, its far left almost centered
+1: Is there a dark smaller dot to the right?
+0: yes
+1: and another one to the right that is the same size as the first?
+0: yes and darker
+1: Perfect. Pick the middle small dark dot

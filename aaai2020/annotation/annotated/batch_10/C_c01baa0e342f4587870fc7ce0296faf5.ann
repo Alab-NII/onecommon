@@ -1,0 +1,12 @@
+T1	Markable 14 31	a little gray dot
+T2	Markable 64 72	two dots
+T3	Markable 195 198	one
+T4	Markable 304 312	anything
+T5	Markable 353 363	a tiny dot
+T6	Markable 406 414	two dots
+T7	Markable 545 554	that pair
+T8	Markable 527 541	the darker one
+T9	Markable 128 132	They
+A1	Generic T4
+T10	Markable 476 486	each other
+R1	Anaphora Arg1:T10 Arg2:T6	

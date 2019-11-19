@@ -1,0 +1,3 @@
+0: I have a very black dot of medium size
+1: I have one of those it has a small lighter dot below and slightly to the right and a larger lighter dot below and to the left
+0: Perfect let is select the tiny light one to the right below

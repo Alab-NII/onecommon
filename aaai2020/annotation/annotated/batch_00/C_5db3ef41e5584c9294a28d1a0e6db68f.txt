@@ -1,0 +1,8 @@
+1: largest med-grey top center
+0: I don't have it, but I'm not sure they'll be in the same location
+1: small light grey bottom
+0: I have one bottom right, but it's not the smallest
+1: is there one above it, off slightly to the left, that's a bit smaller, a bit darker?
+0: yes
+1: lets choose the smaller darker of the two, ok?
+0: ok

@@ -1,0 +1,6 @@
+0: I see two large dark gray dots that are close to each other on the right of my circle.
+1: i have 2 about 1 in from each other
+0: Are there any other dots close to the two large dark gray dots?
+1: small dark gray by the upper big one
+0: I have that one too. Should we pick the large dark gray top that is on top?
+1: yeah

@@ -1,0 +1,4 @@
+1: one dark touching the border with one small grey and one big grey near it
+0: I see it. Mine is below center, but I see the grouping. Shall we try the darker one?
+1: let us try the bigger grey
+0: Ok

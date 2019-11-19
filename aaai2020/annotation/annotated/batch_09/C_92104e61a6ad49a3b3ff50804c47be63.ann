@@ -1,0 +1,22 @@
+T1	Markable 10 38	one very large very dark dot
+T2	Markable 88 104	lot of dark dots
+T3	Markable 125 143	an obtuse triangle
+T4	Markable 112 117	three
+T5	Markable 179 196	two very dark dot
+T6	Markable 202 206	they
+T7	Markable 251 270	one tiny light dark
+T8	Markable 324 349	a lighter larger dark dot
+T9	Markable 356 358	it
+T10	Markable 395 408	my center dot
+T11	Markable 376 388	a darker dot
+T12	Markable 426 438	a center dot
+T13	Markable 471 476	a dot
+T14	Markable 505 526	my smallest black dot
+T15	Markable 449 465	a tiny black dot
+T16	Markable 537 544	one dot
+T21	Markable 800 816	a tiny light dot
+T22	Markable 855 858	its
+T23	Markable 894 896	it
+R1	Predicative Arg1:T3 Arg2:T4	
+R2	Anaphora Arg1:T6 Arg2:T5	
+T17	Markable 818 830	Lightest dot

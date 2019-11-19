@@ -1,0 +1,9 @@
+T1	Markable 46 50	them
+T2	Markable 39 42	one
+T3	Markable 27 37	a triangle
+T4	Markable 103 108	those
+T5	Markable 127 141	the larger one
+T7	Markable 3 4	3
+R1	Predicative Arg1:T3 Arg2:T7	
+R2	Anaphora Arg1:T1 Arg2:T7	
+T8	Markable 66 77	the other 2

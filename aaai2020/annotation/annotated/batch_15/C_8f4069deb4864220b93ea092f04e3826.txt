@@ -1,0 +1,5 @@
+1: do you have a tiny black dot in between two darker gray dots?
+0: Do you have a large grey Dot and directly right of it is a tiny black dot
+1: I do not have that one
+0: I see a tiny black for and another black dot which is lower and to the right and larger
+1: I have that one...choose the smaller one

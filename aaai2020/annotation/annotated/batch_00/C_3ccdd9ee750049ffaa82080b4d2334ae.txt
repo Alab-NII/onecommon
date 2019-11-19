@@ -1,0 +1,5 @@
+1: Hi, do you see a large dark dot in the upper right?
+0: I was totally thinking the same one!
+1: It is close to a largish medium gray dot?
+0: There are also three dots very close together, each a different shade
+1: Exactly! Let's choose the largest dark dot we talked about!

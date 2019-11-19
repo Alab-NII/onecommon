@@ -1,0 +1,13 @@
+T1	Markable 10 31	a small dark gray dot
+T2	Markable 147 159	a dark large
+T3	Markable 87 93	3 dots
+T4	Markable 124 137	a light large
+T5	Markable 280 305	one small lonely gray dot
+T6	Markable 385 412	the middle large medium dot
+T7	Markable 453 476	the small dark gray dot
+T8	Markable 420 434	the lowest dot
+T9	Markable 109 122	a dark medium
+T10	Markable 438 449	my diagonal
+R1	Predicative Arg1:T7 Arg2:T8	
+T11	Markable 492 508	the large medium
+T12	Markable 518 535	the larger medium

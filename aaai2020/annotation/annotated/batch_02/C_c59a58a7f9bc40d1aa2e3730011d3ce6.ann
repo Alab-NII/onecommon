@@ -1,0 +1,14 @@
+T1	Markable 13 28	three dark dots
+T2	Markable 32 42	a triangle
+T3	Markable 44 68	all different sized dots
+T4	Markable 100 115	a tiny gray dot
+T5	Markable 79 95	a tiny black dot
+T6	Markable 141 157	three black dots
+T7	Markable 161 171	a triangle
+T8	Markable 173 176	one
+T9	Markable 184 187	one
+T10	Markable 196 199	one
+T11	Markable 220 233	the large one
+R1	Predicative Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+R3	Predicative Arg1:T7 Arg2:T6	

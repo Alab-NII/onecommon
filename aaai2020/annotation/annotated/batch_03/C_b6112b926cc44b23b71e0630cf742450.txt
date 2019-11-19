@@ -1,0 +1,3 @@
+0: I have 1 tiny pure black dot
+1: I don't see that one. I have a large, dark gray dot that's NW of a smaller, lighter gray dot
+0: Ok. I have that too. Let's click the large dark grey

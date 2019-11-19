@@ -1,0 +1,10 @@
+T1	Markable 10 40	one small, very light grey dot
+T2	Markable 51 76	a larger, medium grey dot
+T3	Markable 97 99	it
+T4	Markable 189 201	3 of those 4
+T5	Markable 116 135	a line of four dots
+T6	Markable 206 218	the last one
+T7	Markable 256 263	the one
+T9	Markable 365 391	the small, medium grey one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T10	Markable 286 312	that small medium grey one

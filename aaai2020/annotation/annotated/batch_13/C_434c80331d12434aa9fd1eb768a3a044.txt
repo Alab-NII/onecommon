@@ -1,0 +1,3 @@
+0: do you see a dark dot to the right of a lighter dot
+1: Is the lighter dot a little smaller, and a little lower?
+0: yes, pick the lighter one

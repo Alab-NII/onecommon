@@ -1,0 +1,3 @@
+0: I have three dots aligned sort of horizontally, all about the same color, but the one in the middle is smallest
+1: I have the smallest between 2 larger that are darker ones near the bottom
+0: Mine is also near the bottom. Does it curve slightly up and to the right?

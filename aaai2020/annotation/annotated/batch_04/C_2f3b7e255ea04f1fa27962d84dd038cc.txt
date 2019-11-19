@@ -1,0 +1,4 @@
+0: I have 1 black dot and several other dots that are light grey and dark grey
+1: Is the black dot to the left and above the other dark dots?
+0: Yes. Its a medium/small dot
+1: Ok. I think I see that too Let's click the black dot

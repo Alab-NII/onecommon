@@ -1,0 +1,6 @@
+0: My smallest dot is medium gray
+1: Is there a large dark dot underneath it?
+0: large lighter dot under
+1: Do you have three dark ones that look like a triangle? Two medium sized and one dark?
+0: Yes select the dark one
+1: Perfect

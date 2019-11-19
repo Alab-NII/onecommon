@@ -1,0 +1,4 @@
+0: do you have a tiny black dot by itself?
+1: yes in center
+0: ok, let's choose that
+1: ok

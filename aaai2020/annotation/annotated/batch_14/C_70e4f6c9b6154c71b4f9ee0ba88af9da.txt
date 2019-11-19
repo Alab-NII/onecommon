@@ -1,0 +1,7 @@
+0: Do you have a light green. That is almost out of the circle
+1: No I don't :( Do you see two almost black dots in a row?
+0: At the bottom right corner?
+1: Mine are in the middle! To the right of one of the dots is a super light grey one
+0: No
+1: Which one did you select?
+0: One at the top is small and dark

@@ -1,0 +1,8 @@
+T1	Markable 64 74	a triangle
+T2	Markable 14 35	three light gray dots
+T3	Markable 50 60	each other
+T4	Markable 83 94	the top one
+T5	Markable 119 128	other two
+T6	Markable 152 166	the bigger one
+R1	Predicative Arg1:T3 Arg2:T2	
+R2	Predicative Arg1:T1 Arg2:T2	

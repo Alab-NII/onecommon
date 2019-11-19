@@ -1,0 +1,5 @@
+0: Three large dots in a line middle one is the darkest
+1: is the center one higher than the others?
+0: No the center one is just darkest
+1: i dont have them then. i have two large diagonal to each other. bottom left is darker
+0: Select the bottom left. I have it

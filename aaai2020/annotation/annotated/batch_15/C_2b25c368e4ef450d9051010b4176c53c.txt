@@ -1,0 +1,6 @@
+1: I have two tiny light grey dots almost perfectly horizontal. The one on the right is very slightly higher.
+0: one medium dark dot to right side
+1: I dont really have any that are dot. Do you have the two tiny ones?
+0: yes, same level light grey and tiny
+1: Ok, the one on the left is maybe a little darker right? Lets click that one
+0: ok

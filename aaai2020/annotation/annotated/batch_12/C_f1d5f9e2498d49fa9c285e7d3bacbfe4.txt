@@ -1,0 +1,6 @@
+0: I see 5 dots that form a < sign.
+1: o do not see that
+0: I see a black dot. It is kind of big. Below that dot, to the left, is a light dot.
+1: i see something similar to the lower right of the black one do you see a smaller dot that is the same color as the one you said was below the black one?
+0: Yes. It is more or less lighter, but same size. They kind of form a triangle.
+1: yes. i think we should choose the black dot

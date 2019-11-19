@@ -1,0 +1,13 @@
+T1	Markable 14 37	a lonely light gray dot
+T2	Markable 89 92	one
+T3	Markable 126 129	one
+T4	Markable 66 78	a group of 5
+T5	Markable 155 167	the dark one
+T6	Markable 169 171	it
+T7	Markable 232 244	the dark one
+T8	Markable 260 280	the really light one
+T9	Markable 109 110	3
+R1	Anaphora Arg1:T6 Arg2:T5	
+T10	Markable 303 307	dark
+T11	Markable 311 316	light
+T12	Markable 321 325	dark

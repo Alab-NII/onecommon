@@ -1,0 +1,5 @@
+0: two tiny dots close together?
+1: yes. one is light grey, the other is a slightly darker shade of grey
+0: yes if the light grey one is slightly lower and to the right click that light one
+1: if i rotate my screen yes it is oriented like that. are they the same exact size?
+0: yes click the light one

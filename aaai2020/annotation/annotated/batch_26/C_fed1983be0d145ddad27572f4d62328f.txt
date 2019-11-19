@@ -1,0 +1,6 @@
+0: I see a very light gray dot that's sort of small and it's lonely by itself
+1: towards the bottom?
+0: Yes it's towards the bottom
+1: select it?
+0: it's closest neighbor is this dark gray dot about the same size on its right
+1: yes, I think I have the same

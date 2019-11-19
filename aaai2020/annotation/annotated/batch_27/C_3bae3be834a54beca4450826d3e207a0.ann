@@ -1,0 +1,9 @@
+T1	Markable 62 64	it
+T2	Markable 109 126	a darker grey dot
+T3	Markable 76 92	a large grey dot
+T4	Markable 145 147	it
+T5	Markable 160 177	the southwest one
+T6	Markable 3 22	lonely 1 light grey
+T7	Markable 28 41	1 darker grey
+R1	Anaphora Arg1:T1 Arg2:T6	
+R2	Anaphora Arg1:T4 Arg2:T3	

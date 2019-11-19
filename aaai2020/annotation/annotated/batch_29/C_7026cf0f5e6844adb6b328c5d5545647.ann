@@ -1,0 +1,27 @@
+T1	Markable 10 38	one very large dark grey dot
+T2	Markable 56 84	a bunch of smaller grey dots
+T3	Markable 49 51	it
+T4	Markable 172 179	the one
+T6	Markable 350 354	that
+T7	Markable 296 335	a slightly lighter slightly smaller one
+T8	Markable 238 261	the largest and darkest
+T9	Markable 121 140	3 medium sized dots
+T10	Markable 432 451	a larger light grey
+T11	Markable 408 425	a small dark grey
+T12	Markable 499 519	the 2nd and 3rd dots
+T13	Markable 527 531	them
+T14	Markable 535 551	a small grey dot
+T15	Markable 582 603	a very small dark dot
+T16	Markable 561 565	them
+T17	Markable 652 668	a small dark dot
+T19	Markable 702 728	that vertical line of dots
+T20	Markable 754 768	the medium dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+T21	Markable 109 113	that
+A1	No-Referent T21
+A2	No-Referent T6
+T5	Markable 380 406	a pretty much vertical row
+T22	Markable 458 468	a med grey
+T23	Markable 473 489	another med grey
+A3	No-Referent T17
+T24	Markable 675 691	a large dark one

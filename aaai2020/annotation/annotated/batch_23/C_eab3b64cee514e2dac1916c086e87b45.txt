@@ -1,0 +1,8 @@
+1: I have three large dots of same size and color
+0: I do not see that. i see one black dot with a tiny black dot a ways to the left of it and lower.
+1: Can you see a tiny medium gray dot
+0: I think so. what is near it?
+1: It has a large light dot above it to the left
+0: i think i have that
+1: let us select the tiny medium gray
+0: ok

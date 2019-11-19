@@ -1,0 +1,5 @@
+0: I see 3 dots. They kind of make a triangle that is slanted. Different colors.
+1: The middle one is darkest? all large dots?
+0: The two on the sides are the same color for you too? If so, we can choose the darkest dot on the middle.
+1: yes I see that also! Lets click the darkest in the middle agreed! Thanks friend!
+0: Yeah, I was seeing another triangle but I see what you mean. Ok!

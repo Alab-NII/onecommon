@@ -1,0 +1,4 @@
+1: Hello! Wheres your dot?
+0: Do you see two smaller dots, fairly close together? the one on the left is a little darker and a little smaller.
+1: Got it, lets click the darker one?
+0: yep

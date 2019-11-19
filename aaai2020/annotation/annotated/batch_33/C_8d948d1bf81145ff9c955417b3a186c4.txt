@@ -1,0 +1,4 @@
+1: 4 black 1 really light, and 2 medium grey dots
+0: Do u have a small black dot at the bottom of the medium black dot
+1: yeah, and below that to the left is the light grey dot, and to the right and below the small black dot is a larger darker grey dot
+0: K I dont c the other black dots, can u click on the black dot to the slight right of the medium black dot

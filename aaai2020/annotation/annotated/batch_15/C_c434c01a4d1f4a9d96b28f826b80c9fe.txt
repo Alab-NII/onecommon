@@ -1,0 +1,4 @@
+1: do you see a small dark one?
+0: Does it have a lighter bigger one to the left and above and one that is almost as dark and bigger to the right and above?
+1: correct! let's pick the small one
+0: Perfect

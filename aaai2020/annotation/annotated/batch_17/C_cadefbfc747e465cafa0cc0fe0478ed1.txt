@@ -1,0 +1,5 @@
+0: i see 3 large dark dots in an upward angle let to right
+1: I have a line of 3 black dots. my middle one is the biggest?
+0: i think so, and darker?
+1: yeah!
+0: ok pick that one

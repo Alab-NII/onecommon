@@ -1,0 +1,14 @@
+T1	Markable 15 31	a large dark dot
+T2	Markable 80 97	a large black dot
+T3	Markable 116 135	two small grey dots
+T4	Markable 102 104	it
+T5	Markable 156 158	it
+T6	Markable 195 197	it
+T7	Markable 292 307	a diagonal line
+T8	Markable 274 288	3 lighter dots
+T9	Markable 244 264	your large black dot
+T10	Markable 351 365	that black dot
+T11	Markable 140 144	MIne
+A1	No-Referent T5
+R1	Anaphora Arg1:T6 Arg2:T11	
+R2	Predicative Arg1:T7 Arg2:T8	

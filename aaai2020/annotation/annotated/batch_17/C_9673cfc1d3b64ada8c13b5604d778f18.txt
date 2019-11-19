@@ -1,0 +1,5 @@
+0: I have four med-large dots that form a vertical curve. one is gray and the rest are black
+1: Is the darkest one the most bottom one? if so click it!
+0: Maybe... is the gray one next to it?
+1: yes! click the grey one!
+0: Ok

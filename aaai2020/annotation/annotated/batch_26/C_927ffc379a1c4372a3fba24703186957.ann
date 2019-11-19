@@ -1,0 +1,9 @@
+T1	Markable 14 32	a medium black dot
+T2	Markable 68 76	any dots
+T3	Markable 151 168	a cluster of dots
+T4	Markable 192 195	one
+T6	Markable 241 253	the smallest
+T7	Markable 308 321	that tiny dot
+A1	No-Referent T2
+T8	Markable 102 106	most
+T5	Markable 257 268	the Y shape

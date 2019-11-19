@@ -1,0 +1,3 @@
+0: a large grey dots the lighter one is slightly left and higher
+1: my lightest smallest dot is leftmost
+0: ok select the smallest light dot

@@ -1,0 +1,4 @@
+1: I have 3 light grey dots aligned almost horizontally
+0: cluster of 3 dots that are grey in shade. increasing in size
+1: Higher, lower, higher is their alignment, increasing in size from left to right
+0: same. i have that!. pick the farthest dot on the right (the largest

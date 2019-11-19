@@ -1,0 +1,22 @@
+T1	Markable 10 29	one large black dot
+T2	Markable 33 39	itself
+T3	Markable 64 81	a medium grey dot
+T4	Markable 58 60	it
+T5	Markable 132 153	a very light grey dot
+T6	Markable 159 176	a small black one
+T7	Markable 183 185	it
+T8	Markable 269 290	the medium light gray
+T9	Markable 296 318	a same sized black one
+T10	Markable 376 379	its
+T11	Markable 449 467	the light grey one
+T12	Markable 416 426	a dark dot
+T13	Markable 486 498	the gray one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T14	Markable 43 54	closest one
+R2	Predicative Arg1:T3 Arg2:T14	
+R3	Anaphora Arg1:T7 Arg2:T5	
+T15	Markable 245 247	it
+T16	Markable 215 219	that
+R4	Anaphora Arg1:T15 Arg2:T16	
+R5	Anaphora Arg1:T10 Arg2:T8	
+T17	Markable 503 522	the light grey one.

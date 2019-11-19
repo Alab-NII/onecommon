@@ -1,0 +1,6 @@
+0: I have one dark grey dot?
+1: I have one very small, dark dot.
+0: It is in a line with a small and large medium grey dot?
+1: Yes, sounds familiar.
+0: Which would you like to chose the dark one?
+1: That sounds intelligent

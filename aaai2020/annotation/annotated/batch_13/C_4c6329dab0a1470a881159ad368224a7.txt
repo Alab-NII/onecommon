@@ -1,0 +1,4 @@
+1: two dots close together top one is to the right and larger and light grey
+0: I have a medium sized dark gray dot with a same sized but lighter dot above and to the left of it. they are very close together
+1: are you sure the light one is not to its right?
+0: I see another cluster that may be what you are describing. There is a medium gray dot with a larger and lighter dot above and to the right of it. Let's pick the larger lighter one

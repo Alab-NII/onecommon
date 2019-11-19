@@ -1,0 +1,9 @@
+1: do you see two small black dots about an inch apart?
+0: side by side?
+1: Yes
+0: yes, is there a light grey to the right of the one on the right side?
+1: I think so...is the light one a large dot?
+0: its the same size as the black
+1: i don't think we are seeing the same thing...how about a large medium shade gray dot with a same shade slightly smaller dot directly south of it
+0: yes i do have those!
+1: ok...select the smaller one

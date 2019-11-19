@@ -1,0 +1,5 @@
+1: See tiny darkest dot next to a darkest medium dot.
+0: In a ro
+1: Last smallest darkest dot of three.
+0: Yes med dot in middle
+1: Select the medium dot in middle?

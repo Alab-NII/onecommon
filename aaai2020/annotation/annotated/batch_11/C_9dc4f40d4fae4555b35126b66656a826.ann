@@ -1,0 +1,21 @@
+T1	Markable 15 21	2 dots
+T2	Markable 157 170	the first one
+T3	Markable 66 94	a very large medium gray dot
+T4	Markable 99 129	a smaller, slightly darker dot
+T5	Markable 188 192	that
+T6	Markable 210 228	your original dots
+T7	Markable 230 234	They
+T8	Markable 265 273	Pale one
+T9	Markable 306 317	another one
+T11	Markable 349 353	that
+T12	Markable 433 446	the light one
+T13	Markable 381 395	the darker one
+T14	Markable 464 469	those
+T15	Markable 471 479	Pale dot
+T16	Markable 507 510	one
+T17	Markable 603 615	the pale one
+T18	Markable 44 45	1
+R1	Anaphora Arg1:T2 Arg2:T3	
+A1	No-Referent T5
+R2	Anaphora Arg1:T7 Arg2:T6	
+T10	Markable 364 369	these

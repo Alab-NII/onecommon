@@ -1,0 +1,3 @@
+0: Small grey dot. Above are two large black dots, left quite a distance is a medium light dot
+1: Yes if the more bottom large dot is black click that one!
+0: Picked it

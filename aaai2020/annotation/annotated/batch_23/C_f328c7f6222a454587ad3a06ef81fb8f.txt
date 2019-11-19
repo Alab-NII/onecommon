@@ -1,0 +1,4 @@
+0: do you have a cluster of 4 dots?
+1: No. Do you have a tiny, medium-gray dot with a larger dot the same color above and to the right of it?
+0: yes
+1: Great, lets pick the tiny one then.

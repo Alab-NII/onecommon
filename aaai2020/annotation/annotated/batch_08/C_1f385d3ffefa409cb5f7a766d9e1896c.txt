@@ -1,0 +1,5 @@
+0: There are four dots that make a line going right downwards. They are all similar-ish in size. Different colors the last being dark gray.
+1: I see one very large dot that is almost black and clearly darker than the rest
+0: Is there are smaller and gray dot underneath it?
+1: yes!
+0: Ok choose that one on top.

@@ -1,0 +1,6 @@
+0: Do you see 3 dots very close together with the top one being a very light grey?
+1: yeah, although I see four of them
+0: Ah, the bottom one is probably cut out for me. Is the one under the top one below and slightly to the right and very large and dark?
+1: yes, let's select the grey one
+0: they're both grey do you mean the very light one?
+1: The one above and to the left of the black large dot

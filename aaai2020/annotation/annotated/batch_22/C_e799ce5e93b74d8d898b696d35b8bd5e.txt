@@ -1,0 +1,5 @@
+0: I have a single small black dot. Below it to its left is a medium size dark grey dot, a little further down and to the left is a medium black dot.
+1: I have two medium grey stacked a larger darker one is the bottom?
+0: I see what you described. The larger darker on the bottom is maybe a TINY bit to the left?
+1: Yes! Shall we try the bottom?
+0: Ok!

@@ -1,0 +1,4 @@
+0: all of my dots are relatively close together. i have a larger black dot with a slightly smaller dark dot to its immediate lower right?
+1: hmm no. do you see a very very light med sized dot in that cluster?
+0: Yes, theres a smaller dark dot to its upper right
+1: yes click that very light one!

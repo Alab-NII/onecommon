@@ -1,0 +1,6 @@
+1: I have a dark grey dot, darker than the rest on the right hand side
+0: Is it medium sized and almost black
+1: yes. Very close to the outer circle
+0: It is close big enough for a dot to go between
+1: yes
+0: we can try that one

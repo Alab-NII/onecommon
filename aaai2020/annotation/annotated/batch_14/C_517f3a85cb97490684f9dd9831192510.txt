@@ -1,0 +1,8 @@
+0: large black dot near 8 oclock
+1: Hello do you have a large and a medium dot very close together and off on their own?
+0: near 8 oclock
+1: I do not have a black dot on the left side. I have one black dot and it is on the right.
+0: ok...tiny grey dot alone near 7 oclock
+1: Yes I do have that dot.
+0: let try it
+1: Okay.

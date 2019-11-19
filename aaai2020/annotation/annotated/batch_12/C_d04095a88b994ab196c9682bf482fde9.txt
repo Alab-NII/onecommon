@@ -1,0 +1,4 @@
+1: There is a large, medium-gray dot almost directly in the absolute center. (Just to the right.)
+0: Hi, I have 2 large dots close to each other, one on left is light grey and one on the right is darker and up a bit. I dont have the dot you are seeing, remember the circles are not in the same position as one another so the location will be different.
+1: Thanks for the reminder. I have those two large dots near each other. Either one should work. Darker one?
+0: Sounds good!

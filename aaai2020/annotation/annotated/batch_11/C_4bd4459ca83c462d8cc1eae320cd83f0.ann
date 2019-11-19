@@ -1,0 +1,10 @@
+T1	Markable 15 23	any dots
+T2	Markable 167 174	nothing
+T3	Markable 213 216	its
+T4	Markable 254 261	the one
+T5	Markable 47 56	black dot
+T6	Markable 94 103	tiny gray
+T7	Markable 135 139	my 9
+A1	No-Referent T2
+T8	Markable 183 189	my med
+R1	Anaphora Arg1:T3 Arg2:T8	

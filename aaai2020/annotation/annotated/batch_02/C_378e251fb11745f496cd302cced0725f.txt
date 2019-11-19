@@ -1,0 +1,4 @@
+1: I see a large and a small dark grey dot on the bottom
+0: ok so, group of three dots, two medium, one small black
+1: I don't think I see that. I see a group of three- two large grey, one small black
+0: i think thats it, pick the small black

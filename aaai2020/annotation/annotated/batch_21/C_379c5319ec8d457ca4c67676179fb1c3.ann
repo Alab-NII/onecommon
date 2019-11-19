@@ -1,0 +1,5 @@
+T1	Markable 25 41	a light grey one
+T2	Markable 130 144	that small one
+T3	Markable 3 18	small black one
+T4	Markable 87 91	it's
+R1	Anaphora Arg1:T4 Arg2:T3	

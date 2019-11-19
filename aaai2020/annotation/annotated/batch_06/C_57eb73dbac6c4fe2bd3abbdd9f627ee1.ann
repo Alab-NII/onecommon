@@ -1,0 +1,22 @@
+T1	Markable 34 48	the bottom two
+T2	Markable 64 75	the top one
+T3	Markable 167 174	the one
+T4	Markable 160 164	that
+T5	Markable 213 221	the line
+T6	Markable 273 276	its
+T7	Markable 319 329	a triangle
+T8	Markable 298 308	three dots
+T9	Markable 385 419	a slightly smaller and lighter dot
+T10	Markable 331 338	tip one
+T11	Markable 354 356	it
+T12	Markable 547 551	that
+T13	Markable 568 586	the large dark dot
+T14	Markable 3 13	three dots
+T15	Markable 89 95	middle
+T16	Markable 110 121	lower right
+T17	Markable 253 255	it
+R1	Anaphora Arg1:T6 Arg2:T17	
+R2	Predicative Arg1:T7 Arg2:T8	
+#1	AnnotatorNotes T10	top one
+R3	Anaphora Arg1:T11 Arg2:T10	
+T18	Markable 472 521	another slightly smaller and slightly lighter dot

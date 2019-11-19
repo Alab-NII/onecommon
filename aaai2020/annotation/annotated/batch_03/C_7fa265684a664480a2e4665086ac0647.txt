@@ -1,0 +1,8 @@
+1: I have two dark dots, one light one vertical toward the center
+0: I have 2 relatively large, dark dots next to each other.
+1: As do I. The one on the right is smaller, by a hair.
+0: yes
+1: Shall we try it
+0: are you selecting the smaller one?
+1: Yes
+0: okay, let's do it

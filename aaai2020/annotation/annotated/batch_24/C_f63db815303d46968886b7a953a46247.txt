@@ -1,0 +1,4 @@
+1: I have one dot that is larger and darker than all the rest
+0: are there two lighter colored dots about equal distance on either side?
+1: Yes! Should we pick the large dark one that's in the middle?
+0: yes

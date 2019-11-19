@@ -1,0 +1,4 @@
+1: I have one large dot, sort of on its own
+0: Is it medium gray color
+1: It's on the darker side
+0: let us select it

@@ -1,0 +1,9 @@
+T1	Markable 97 116	a smaller black dot
+T2	Markable 42 61	a lighter large dot
+T3	Markable 15 36	a large dark grey dot
+T4	Markable 139 152	the light one
+T5	Markable 176 198	a rought diagonal line
+T6	Markable 229 238	the three
+T7	Markable 169 172	All
+R1	Predicative Arg1:T5 Arg2:T7	
+T8	Markable 213 225	the lightest

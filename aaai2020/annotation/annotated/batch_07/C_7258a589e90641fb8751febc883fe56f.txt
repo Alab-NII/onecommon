@@ -1,0 +1,4 @@
+1: I have a small dark dot at about 2 o clock.
+0: i have small black at 2:00 Large grey at 1:00 small black at 11:00 do u have any of those
+1: I think we have the small black one at 2 oclock in common.
+0: lets click it

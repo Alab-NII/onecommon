@@ -1,0 +1,9 @@
+0: I see 2 dots. they are almost aligned vertically at an angle.
+1: Is the higher one darker and larger?
+0: are the dots you talking about, how are they positioned?
+1: The darker one is larger, and above the other. It is slightly to the left of the smaller, lighter dot
+0: I don't have that. I have one pair where the larger is upper to the left. Another where the dot is black and larger at the lower to the right. And then another pair similar in size where darker is upper to the right
+1: I think I have that middle pair - is the one that is lower to the right about twice as large?
+0: yes and it is darker. Is the upper to the left of that a dark or light shade?
+1: light shade
+0: ok. let's big the lower to the right of that

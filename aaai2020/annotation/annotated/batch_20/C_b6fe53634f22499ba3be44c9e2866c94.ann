@@ -1,0 +1,14 @@
+T1	Markable 9 29	four large gray dots
+T2	Markable 100 112	the last one
+T3	Markable 70 83	three of mine
+T5	Markable 57 61	four
+T6	Markable 173 180	the one
+T7	Markable 203 212	which one
+T8	Markable 283 300	about the top one
+T9	Markable 258 262	they
+T4	Markable 117 122	yours
+R1	Anaphora Arg1:T4 Arg2:T5	
+T10	Markable 151 156	three
+A1	Generic T7
+T11	Markable 242 247	three
+R2	Anaphora Arg1:T9 Arg2:T11	

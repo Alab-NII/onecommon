@@ -1,0 +1,7 @@
+T1	Markable 22 46	a really small light one
+T2	Markable 3 15	Dark big one
+T3	Markable 56 60	it's
+T4	Markable 114 122	that one
+T5	Markable 75 92	a dark medium one
+T6	Markable 133 149	the dark big one
+R1	Anaphora Arg1:T3 Arg2:T2	

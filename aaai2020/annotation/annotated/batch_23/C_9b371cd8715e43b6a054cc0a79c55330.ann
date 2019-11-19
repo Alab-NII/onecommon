@@ -1,0 +1,11 @@
+T1	Markable 87 117	a smaller but equally dark dot
+T2	Markable 9 20	a four dots
+T3	Markable 243 247	that
+T4	Markable 271 275	that
+T5	Markable 283 300	the the large one
+T6	Markable 352 360	that one
+T7	Markable 49 64	large dark grey
+T8	Markable 29 43	a banana shape
+R1	Predicative Arg1:T8 Arg2:T2	
+T9	Markable 122 151	a same size but lighter color
+R2	Anaphora Arg1:T4 Arg2:T3	

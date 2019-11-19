@@ -1,0 +1,4 @@
+1: i see 3 dots forming a diagonal line in a row very close to each other, middle dot is large and darker grey
+0: I have that. Which should we choose?
+1: choose middle large dot aforementioned!
+0: Okay!

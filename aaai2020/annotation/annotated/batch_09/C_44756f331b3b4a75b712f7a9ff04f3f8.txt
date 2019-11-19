@@ -1,0 +1,5 @@
+0: Do you have a tiny black dot?
+1: is it toward the bottom? above it about 2 inches are some light dots?
+0: Your bottom is different from mine. Do you have two very light grey dots that are pretty close to each other?
+1: i have 2 light ones, the lower is a little bigger/lighter. the smaller, slightly darker one is up and to it's right
+0: Yes!! Click the smaller darker one!

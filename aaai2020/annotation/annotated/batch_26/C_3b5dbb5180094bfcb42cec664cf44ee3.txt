@@ -1,0 +1,4 @@
+1: cluster of 3 dots that form a triangle with 1 tiny light grey dot at the top. another 2 dots aligned vertically where top is tiny black dot
+0: I have that cluster
+1: pick the tiny light grey dot at top
+0: Sorry, my chat greyed out - yes, I have that - selecting small grey dot

@@ -1,0 +1,9 @@
+T1	Markable 3 42	medium sized on the small side grey dot
+T2	Markable 113 133	two kinda large ones
+T3	Markable 172 174	it
+T4	Markable 76 79	all
+A1	All-Referents T4
+T5	Markable 137 142	right
+R1	Anaphora Arg1:T3 Arg2:T5	
+T6	Markable 178 198	same size very light
+T7	Markable 215 229	the lower left

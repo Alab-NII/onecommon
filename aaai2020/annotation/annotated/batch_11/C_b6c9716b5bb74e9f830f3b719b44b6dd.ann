@@ -1,0 +1,9 @@
+T1	Markable 10 31	a larger med grey dot
+T2	Markable 58 88	a slightly smaller lighter one
+T3	Markable 104 108	that
+T4	Markable 119 146	a very small very light one
+T5	Markable 163 169	itself
+T6	Markable 180 203	a small medium grey dot
+T7	Markable 241 249	that one
+A1	No-Referent T3
+R1	Anaphora Arg1:T5 Arg2:T4	

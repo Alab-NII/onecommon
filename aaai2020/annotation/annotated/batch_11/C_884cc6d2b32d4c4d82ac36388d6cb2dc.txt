@@ -1,0 +1,3 @@
+0: really dark dot, just above a dot that's the same size but normal grey?
+1: yes. I have a black dot above a lighter one of the same size. lets pick the black one
+0: deal

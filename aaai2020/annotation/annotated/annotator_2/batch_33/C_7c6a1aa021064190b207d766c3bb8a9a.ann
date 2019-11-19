@@ -1,0 +1,10 @@
+T1	Markable 39 65	a much smaller lighter dot
+T2	Markable 10 33	a large medium gray dot
+T3	Markable 92 94	it
+T4	Markable 104 131	one line of three tiny dots
+T6	Markable 274 288	the middle dot
+T7	Markable 196 212	a large dark dot
+T8	Markable 299 303	that
+R1	Anaphora Arg1:T3 Arg2:T2	
+T5	Markable 232 252	a small medium shade
+T9	Markable 316 330	the middle dot

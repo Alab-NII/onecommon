@@ -1,0 +1,5 @@
+0: I have 2 very dark small dots positioned up down of each other
+1: I do not have that. I have five dots that form letter T upside down
+0: Ok. Me too. Is the intersection a tiny dot?
+1: Yes, let us select the tiny dot
+0: ok

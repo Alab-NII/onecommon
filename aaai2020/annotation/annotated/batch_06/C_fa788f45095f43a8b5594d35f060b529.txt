@@ -1,0 +1,6 @@
+0: I see one dot that is the largest and darkest all by itself
+1: dont have that one...i have a few lone light gray dots as well as a bunch of medium gray ones close together
+0: I have those as well
+1: the dark grey ones are all fairly large. Theres one in the middle that has a smaller one up and to the right of it. do u see that?
+0: yes
+1: ok lets click the smaller one

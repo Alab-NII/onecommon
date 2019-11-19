@@ -1,0 +1,9 @@
+T1	Markable 62 78	a group of three
+T2	Markable 91 105	a group of two
+T3	Markable 154 176	bottom (slightly left)
+T5	Markable 233 259	top black medium large dot
+T6	Markable 3 9	3 dots
+A1	No-Referent T1
+T4	Markable 123 126	top
+T7	Markable 206 213	the top
+R1	Anaphora Arg1:T7 Arg2:T4	

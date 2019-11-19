@@ -1,0 +1,12 @@
+T1	Markable 15 26	a black dot
+T3	Markable 84 114	a triangle of three small dots
+T4	Markable 208 224	a large gray dot
+T5	Markable 152 165	the black dot
+T6	Markable 367 395	a slightly smaller black dot
+T7	Markable 312 331	the large black dot
+T8	Markable 407 409	it
+T9	Markable 446 464	the small gray dot
+T10	Markable 500 502	it
+A1	No-Referent T5
+T11	Markable 249 268	your gray large dot
+R1	Anaphora Arg1:T8 Arg2:T7	

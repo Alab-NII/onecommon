@@ -1,0 +1,8 @@
+0: I have one large dark that is far apart from the others
+1: Is it medium grey and the closest dot is similar in shade but very small?
+0: No
+1: Hmm Do you see two dots that are light grey and similar in shade kind of close together towards the bottom of the other dots?
+0: No, I have one medium slightly dark gray dot far from the rest
+1: Hmm is the closest one to it and large medium grey dot?
+0: Yes
+1: K pick that large medium grey one

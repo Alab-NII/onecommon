@@ -1,0 +1,8 @@
+T1	Markable 14 32	a large light grey
+T2	Markable 119 121	it
+T3	Markable 96 110	two small dots
+T4	Markable 201 207	itself
+T6	Markable 308 310	it
+T7	Markable 168 183	a tiny med grey
+R1	Anaphora Arg1:T4 Arg2:T7	
+T8	Markable 211 214	its

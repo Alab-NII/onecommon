@@ -1,0 +1,8 @@
+1: I see 2 black dots
+0: I have 4 dots that make an L shape backwards. No black dots here
+1: I see an L shape backwards
+0: pick the largest to the top of the L
+1: The top of the L is a large grey dot
+0: yup!
+1: I see a large grey dot almost in the middle of the circle
+0: nope... nothing in the center. I have that l shape backwards.

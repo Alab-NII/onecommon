@@ -1,0 +1,4 @@
+1: do you have 3 dots in a row, almost perfectly horizontal?
+0: Yes, left to right they get darker.
+1: perfect, lets pick the middle one
+0: Ok

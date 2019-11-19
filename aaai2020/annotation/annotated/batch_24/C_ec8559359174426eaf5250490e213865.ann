@@ -1,0 +1,7 @@
+T1	Markable 32 54	a very light small dot
+T2	Markable 15 25	a dark dot
+T3	Markable 66 90	a lonely large black dot
+T4	Markable 107 122	any lonely dots
+T5	Markable 134 141	the one
+T6	Markable 166 179	the light one
+A1	No-Referent T4

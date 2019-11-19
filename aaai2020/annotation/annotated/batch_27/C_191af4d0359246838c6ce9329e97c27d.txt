@@ -1,0 +1,4 @@
+1: Do you gave a large dark gray dot with a large black dot below and to the right of it?
+0: Yes!!
+1: Great, lets choose the large black dot
+0: Okay!

@@ -1,0 +1,19 @@
+T1	Markable 60 70	a triangle
+T2	Markable 10 37	one smaller darker grey dot
+T3	Markable 129 146	a medium grey dot
+T4	Markable 95 110	a tiny grey dot
+T5	Markable 122 124	it
+T6	Markable 153 155	it
+T7	Markable 230 242	no triangles
+T8	Markable 282 288	itself
+T9	Markable 311 315	that
+T10	Markable 74 89	medium back dot
+R1	Anaphora Arg1:T5 Arg2:T10	
+R2	Anaphora Arg1:T6 Arg2:T10	
+#1	AnnotatorNotes T10	medium black dot
+T11	Markable 170 174	what
+A1	No-Referent T11
+T12	Markable 205 209	what
+A2	No-Referent T7
+T13	Markable 259 274	a big black dot
+R3	Anaphora Arg1:T8 Arg2:T13	

@@ -1,0 +1,5 @@
+0: I have one large black dot
+1: do you have a large black dot with a med black dot to its left?
+0: Yes
+1: lets choose the larger black dot?
+0: Okay

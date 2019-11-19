@@ -1,0 +1,2 @@
+0: I have a cluster of 3 dots that form a triangle. The top one is largest and medium gray with a smaller dot to the lower right and a black dot below that
+1: yes! good description!! click the black one!

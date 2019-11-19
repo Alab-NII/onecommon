@@ -1,0 +1,11 @@
+T1	Markable 9 25	a large dark dot
+T2	Markable 64 80	a small dark dot
+T3	Markable 139 152	the black one
+T4	Markable 197 211	the bottom one
+T5	Markable 241 253	the dark one
+T6	Markable 275 279	that
+T7	Markable 90 101	two circles
+T8	Markable 123 127	Both
+R1	Anaphora Arg1:T8 Arg2:T7	
+T9	Markable 170 177	the one
+R2	Anaphora Arg1:T9 Arg2:T3	

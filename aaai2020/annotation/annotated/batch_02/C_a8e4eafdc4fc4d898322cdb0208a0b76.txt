@@ -1,0 +1,3 @@
+0: I have two dark grey large dots next to each other.
+1: I have 3. The one all the way to the right is slightly larger and slightly darker
+0: I have that. I'm selecting the largest!

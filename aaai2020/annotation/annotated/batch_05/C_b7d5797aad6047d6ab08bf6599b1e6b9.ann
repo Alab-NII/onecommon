@@ -1,0 +1,7 @@
+T1	Markable 10 44	a group of three fairly light dots
+T2	Markable 82 92	each other
+T4	Markable 147 162	the biggest one
+T5	Markable 97 119	an upside-down L shape
+T6	Markable 166 176	that shape
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T5 Arg2:T1	

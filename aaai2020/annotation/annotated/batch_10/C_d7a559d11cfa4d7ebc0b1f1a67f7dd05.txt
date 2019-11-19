@@ -1,0 +1,4 @@
+0: I see two large dots in very close proximity to each one, one slightly darker than the other in the top of my circle.
+1: Do you have two light dots close together
+0: I think we're talking about the same dots.
+1: Yes we are click the lighter one

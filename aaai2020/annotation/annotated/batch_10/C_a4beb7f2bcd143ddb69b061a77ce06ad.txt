@@ -1,0 +1,4 @@
+1: do you have two grey dots very close to one another, one is lighter and smaller than the other
+0: is the left one slightly higher and the lighter of the two?
+1: yes
+0: ok let's choose that one

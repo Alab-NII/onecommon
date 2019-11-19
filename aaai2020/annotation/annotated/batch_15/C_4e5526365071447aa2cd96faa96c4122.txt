@@ -1,0 +1,10 @@
+0: Do you have a large gray. At the
+1: I have a tiny black one near the bottom of the circle, above and to the right of a larger light gray dot
+0: You have a light gray to the right corner middle
+1: What is the right corner middle? can you tell me where as if the circle is a clock?
+0: Somewhere around the 4 mark roughly
+1: Is there a tiny black dot to the left of that one?
+0: No to the right
+1: Ok, lets pick the tiny black one- is that ok?
+0: K
+1: thanks :)

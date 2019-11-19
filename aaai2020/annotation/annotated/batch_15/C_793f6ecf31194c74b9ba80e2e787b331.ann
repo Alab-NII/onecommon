@@ -1,0 +1,12 @@
+T1	Markable 17 34	a cluster of four
+T4	Markable 106 119	The upper one
+T5	Markable 159 161	it
+T7	Markable 297 318	the upper darkest one
+T2	Markable 54 57	all
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 167 175	that one
+T6	Markable 198 202	it's
+T8	Markable 203 214	medium gray
+T9	Markable 216 227	medium gray
+T10	Markable 248 259	darker gray
+T11	Markable 266 278	darkest gray

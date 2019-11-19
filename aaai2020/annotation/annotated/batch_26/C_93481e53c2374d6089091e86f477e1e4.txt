@@ -1,0 +1,4 @@
+0: Do you have to dots of the same size above each other at an angle?
+1: yes. One clack dot and another one dark gray
+0: Yes! The black on top?
+1: Ok

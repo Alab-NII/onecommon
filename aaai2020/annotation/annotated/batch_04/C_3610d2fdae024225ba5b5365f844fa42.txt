@@ -1,0 +1,4 @@
+1: I see a big dark dot surrounded by two smaller dots...the right one is a little darker than the left one
+0: are the smaller dots somewhat the same size ?
+1: Yes! the centre dot is almost black, the left one very light grey and the right one mid-dark. The smaller ones are also almost the same distance away from the centre one
+0: Lets select the dark dot

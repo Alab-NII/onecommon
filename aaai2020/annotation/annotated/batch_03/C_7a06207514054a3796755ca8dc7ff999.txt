@@ -1,0 +1,3 @@
+0: do you see a cluster of 4 dots? one is darker on the left?
+1: with a med/grey larger one is at the top of the cluster, smaller same color to the right, lightest smaller one is at the bottom?
+0: thats what I'm talking about. lets choose the darkest one

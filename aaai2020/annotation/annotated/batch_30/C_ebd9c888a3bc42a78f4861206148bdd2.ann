@@ -1,0 +1,5 @@
+T1	Markable 15 45	two very small very light dots
+T2	Markable 63 73	each other
+T3	Markable 145 157	the left one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T4	Markable 82 97	the smaller one

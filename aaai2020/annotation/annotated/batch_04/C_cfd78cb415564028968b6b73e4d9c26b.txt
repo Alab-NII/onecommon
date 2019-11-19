@@ -1,0 +1,6 @@
+1: I have one small black dot lonely at the top
+0: i see one small dark dot on 11 o'clock very near the border
+1: Does it have any other dots by it?
+0: no the next one is gray a little after 12 o'clock
+1: Shall we try the small dot?
+0: sure

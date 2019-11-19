@@ -1,0 +1,9 @@
+0: medium very dark at center top by itself?
+1: I have two black dots at the top, one is larger than the other
+0: not it then. how about small light grey also center bottom
+1: I do, its about medium size
+0: is there a larger slightly darker to its right
+1: I have one like that, but its not at the bottom its towards the left of my circle. But the dark dot is somewhat lower
+0: ok. how about a large black slightly below middle in the center
+1: I think we should select that black dot next to the lighter one
+0: yes let us

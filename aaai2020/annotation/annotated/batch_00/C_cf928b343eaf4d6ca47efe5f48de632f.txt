@@ -1,0 +1,8 @@
+0: is your darkest dot large?
+1: yes
+0: is it next to any other dots or is it kind of alone?
+1: no... but there is 2 medium color ones 1 below and 1 above
+0: my darkest dot has a medium one above it, near but not close and nothing below it because it's near the edge.
+1: do you have a dark gray medium dot above the big black one and theres another medium dark gray above the other medium one
+0: yes.
+1: select the big black

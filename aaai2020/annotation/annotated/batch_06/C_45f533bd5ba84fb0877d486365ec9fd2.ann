@@ -1,0 +1,17 @@
+T2	Markable 60 68	the rest
+T3	Markable 82 95	any lone dots
+T5	Markable 131 137	a line
+T7	Markable 115 120	three
+T8	Markable 167 181	the middle one
+T10	Markable 185 194	the three
+T11	Markable 229 252	a tiny medium shade dot
+T12	Markable 270 297	a medium size light grey do
+T13	Markable 356 370	the medium one
+T14	Markable 320 332	the tiny one
+T15	Markable 397 409	the tiny one
+T16	Markable 3 16	One large dot
+A1	No-Referent T3
+R1	Predicative Arg1:T5 Arg2:T7	
+R2	Anaphora Arg1:T10 Arg2:T5	
+T1	Markable 301 304	its
+R3	Anaphora Arg1:T1 Arg2:T11	

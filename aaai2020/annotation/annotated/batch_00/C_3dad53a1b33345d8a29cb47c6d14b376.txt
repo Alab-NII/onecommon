@@ -1,0 +1,6 @@
+0: Hello!
+1: i have three gray dots that are the same color. they aren't in a line but they're close to it
+0: I do as well!
+1: okay. let's choose the middle one.
+0: Is the middle one the smallest of the three?
+1: yes

@@ -1,0 +1,4 @@
+1: do you have 3 dots in an arch where two are dark almost black and one is light gray?
+0: yes I do but one is bigger in center and 2 are smaller
+1: Yes! choose the large black one in the middle.
+0: ok

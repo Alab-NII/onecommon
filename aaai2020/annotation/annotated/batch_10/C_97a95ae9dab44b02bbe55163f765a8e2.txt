@@ -1,0 +1,6 @@
+1: I have one light grey dot with a smaller darker dot to the right of it. slightly lower
+0: Two large medium grey dots that look almost identical?
+1: Is there a small black dot to the left of them?
+0: No. Do you see 3 dots that almost form a face? The left eye being the largest and very very light grey?
+1: yes. should we pick the very light grey one?
+0: Yes!

@@ -1,0 +1,11 @@
+1: do you see a large black dot?
+0: Is it the furthest to the right and the darkest shade of grey?
+1: its pretty much all by itself
+0: Hmm. Is the closest one to it a larger medium shade dot?
+1: below it i believe?
+0: No. Hmm. Do you see the smallest dot that is also pretty dark and on the edge of the dots?
+1: my edge and yours is different
+0: Right. Hmm do you see two dots that are exactly the same size (large) and have one dot in between them that is a little smaller and darker?
+1: no, do u have a small medium grey dot, to the right of a larger dot same color, lets pick that if u do
+0: No i dont! Let's just go with the medium size darkest dot
+1: ok

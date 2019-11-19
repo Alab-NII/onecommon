@@ -1,0 +1,7 @@
+T1	Markable 15 29	two black ones
+T2	Markable 120 124	them
+T3	Markable 76 96	a middle smaller one
+T4	Markable 141 173	the middle smaller "nose" circle
+T5	Markable 46 56	each other
+R1	Anaphora Arg1:T5 Arg2:T1	
+R2	Anaphora Arg1:T2 Arg2:T1	

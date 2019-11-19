@@ -1,0 +1,5 @@
+1: I have a lonely black medium dot
+0: I have two very light grey dots.
+1: i dont. I have a medium, black dot above a darker grey one that is slightly smaller
+0: I have that. Which would you like to choose?
+1: the lighter one?

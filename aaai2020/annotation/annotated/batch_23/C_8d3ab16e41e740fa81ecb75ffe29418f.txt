@@ -1,0 +1,5 @@
+1: 3 dots aligned beside each other at an angle?
+0: i'm not sure. is the middle on part of two identical dark grey dots. the other one is to the lower right of it?
+1: is the middle of black?
+0: no, but i think i see the one your talking about. the dark grey ones are at it's 11 and 4
+1: yeah. let's pick the dark grey one at the bottom

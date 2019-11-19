@@ -1,0 +1,29 @@
+T1	Markable 14 30	a large dark dot
+T2	Markable 39 57	a smaller dark dot
+T3	Markable 140 158	a black medium dot
+T4	Markable 73 94	a large dark gray dot
+T5	Markable 100 117	a medium gray dot
+T6	Markable 133 135	it
+T7	Markable 180 182	it
+T8	Markable 205 227	the two dark gray dots
+T9	Markable 354 363	the large
+T10	Markable 455 468	the third dot
+T11	Markable 400 414	the larger one
+T12	Markable 478 480	it
+T13	Markable 512 514	it
+T14	Markable 383 395	the two dots
+T15	Markable 577 579	it
+T16	Markable 609 625	a light gray dot
+T17	Markable 645 649	them
+T18	Markable 587 591	they
+T19	Markable 665 691	the bottom medium gray dot
+R1	Anaphora Arg1:T6 Arg2:T4	
+R2	Anaphora Arg1:T7 Arg2:T4	
+T20	None 66 67	i
+#1	AnnotatorNotes T20	I
+T21	Markable 247 248	3
+T22	Markable 260 269	the third
+T23	Markable 295 299	They
+T24	Markable 368 372	what
+A1	Generic T24
+T25	Markable 527 550	the medium lighter gray

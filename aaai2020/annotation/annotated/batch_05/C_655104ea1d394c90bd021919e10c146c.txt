@@ -1,0 +1,9 @@
+1: i do not have any black dots. I see a dark grey dot with a small light grey dot directly to the right of it.
+0: Yes I do too! To the right and above of that small dot is there a very light small dot?
+1: i do not see that. the small light grey dot is right on the right edge of my circle
+0: Hmm no. Do you see two dots that are pretty close together with the larger one being below and to the right and slightly lighter?
+1: no i do not
+0: Do you see 2 dots that aren't too far away from each other that are small and almost the exact same size?
+1: yes and the higher one is slightly darker.
+0: Yes! Pick the darker one!
+1: i will choose the higher one

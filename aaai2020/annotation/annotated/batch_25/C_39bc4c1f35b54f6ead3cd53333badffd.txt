@@ -1,0 +1,6 @@
+0: Dark, large dot, medium grey, medium size dot straight above it
+1: i have a tiny light gray dot directly north of a slightly larger medium gray dot
+0: I do not have yours
+1: ok...I have yours I think...does it have a tiny lightest gray above the medium gray?
+0: yes, lets pick darkest bottom dot
+1: k

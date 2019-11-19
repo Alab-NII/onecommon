@@ -1,0 +1,5 @@
+0: Do you have one medium sized very dark dot?
+1: Is it near a smaller gray dot?
+0: The smaller grey dot is slightly below it and to the right. Is that correct?
+1: Yea
+0: Let's click the dark one

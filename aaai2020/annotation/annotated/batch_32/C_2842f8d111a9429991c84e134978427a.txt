@@ -1,0 +1,3 @@
+0: I have two tiny black dots vertical to each other
+1: Yup click the top black
+0: Sounds Good! gb

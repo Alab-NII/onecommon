@@ -1,0 +1,4 @@
+1: Big black dot top left
+0: I have a huge black dot with a smaller light grey dot to its lower right
+1: I think we found it click!
+0: Ok!

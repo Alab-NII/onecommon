@@ -1,0 +1,7 @@
+0: I see two light grey dots
+1: 4 dots in a curved line. lowest one is small and medium gray
+0: is there a medium grey, dark grey, and light grey in that order starting with your bottom medium moving up?
+1: no. I think your dark gray is big and slightly to the left of the ones above and below
+0: I have a big dark one to the right of small dark ones above and below and then a light big one slight above to the right of a big dark one and small dark one.
+1: try big dark one on right
+0: okay

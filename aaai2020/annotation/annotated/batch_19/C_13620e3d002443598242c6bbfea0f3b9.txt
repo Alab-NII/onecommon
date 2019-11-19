@@ -1,0 +1,5 @@
+0: I have 3 light small dots in a diagonal slanting to the right
+1: hmm I think i only see two of them. does one of them have a large black dot up and to its right?
+0: yes
+1: k click that black one
+0: ok

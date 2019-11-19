@@ -1,0 +1,16 @@
+T1	Markable 6 17	all my dots
+T2	Markable 44 58	all of my dots
+T3	Markable 96 110	a cluster of 4
+T4	Markable 112 117	three
+T5	Markable 214 223	the three
+T6	Markable 167 187	one larger/light one
+T9	Markable 245 267	a cluster of the three
+T10	Markable 269 276	The one
+T11	Markable 336 344	that one
+T12	Markable 373 388	the darkest one
+T14	Markable 449 453	mine
+T15	Markable 492 517	the right/large/light one
+A1	All-Referents T1
+A2	All-Referents T2
+R1	Anaphora Arg1:T5 Arg2:T4	
+T7	Markable 521 526	the 3

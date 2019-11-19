@@ -1,0 +1,4 @@
+1: two tiny black dots next to each other, the right one is half inch away and higher?
+0: Yes. Let
+1: choose the higher one?
+0: Yes

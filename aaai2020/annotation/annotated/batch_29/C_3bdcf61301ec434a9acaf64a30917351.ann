@@ -1,0 +1,10 @@
+T1	Markable 54 71	a medium grey dot
+T2	Markable 97 101	them
+T3	Markable 145 152	smaller
+T4	Markable 3 17	two black dots
+T5	Markable 26 36	each other
+R1	Anaphora Arg1:T5 Arg2:T4	
+R2	Anaphora Arg1:T2 Arg2:T4	
+T6	Markable 106 125	2 medium black dots
+T7	Markable 160 170	same group
+T8	Markable 185 190	black

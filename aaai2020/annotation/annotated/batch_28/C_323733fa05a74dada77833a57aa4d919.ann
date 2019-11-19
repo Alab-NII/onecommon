@@ -1,0 +1,14 @@
+T1	Markable 21 29	one of 4
+T3	Markable 161 162	2
+T4	Markable 211 226	a dark grey dot
+T5	Markable 194 205	a black one
+T6	Markable 252 254	it
+T7	Markable 330 332	it
+T8	Markable 336 363	a slightly lighter grey dot
+T9	Markable 378 391	the black dot
+T10	Markable 13 20	2 lines
+T11	Markable 30 38	one of 3
+T2	Markable 96 113	your smallest dot
+T12	Markable 124 135	all of mine
+R1	Anaphora Arg1:T6 Arg2:T5	
+T13	Markable 283 286	its

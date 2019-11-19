@@ -1,0 +1,4 @@
+0: I have a dark grey large lonely dot
+1: My lonely ones are black
+0: what about large light one, with small darker dot above it, on the left side?
+1: Yes pick larger

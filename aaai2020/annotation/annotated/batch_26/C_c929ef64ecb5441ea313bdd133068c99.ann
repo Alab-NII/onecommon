@@ -1,0 +1,11 @@
+T1	Markable 46 60	a zig-zag line
+T2	Markable 70 107	2 large black and 1 medium black dots
+T3	Markable 142 151	my 4 dots
+T4	Markable 156 171	the smaller dot
+T5	Markable 223 232	small one
+T6	Markable 10 37	4 black (or very dark dots)
+R1	Predicative Arg1:T1 Arg2:T6	
+T7	Markable 120 124	That
+T8	Markable 137 138	3
+T9	Markable 189 194	the 3
+R2	Anaphora Arg1:T9 Arg2:T8	

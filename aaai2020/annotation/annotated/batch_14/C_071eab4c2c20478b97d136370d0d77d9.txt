@@ -1,0 +1,7 @@
+1: small gray at about 1pm
+0: I see a large black dot with a slightly smaller black one below it and to the right
+1: i see lonely large gray to bottom left
+0: i see tiny gray dot with same sized dark gray dot below and a little to the right of it
+1: yes
+0: should we select the tiny light gray one then?
+1: yes

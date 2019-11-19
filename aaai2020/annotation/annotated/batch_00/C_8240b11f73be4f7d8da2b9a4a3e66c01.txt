@@ -1,0 +1,4 @@
+1: Hi!
+0: Hello
+1: Do you have a large black dot near the top but a little lower to the right and touching the edge?
+0: Yes

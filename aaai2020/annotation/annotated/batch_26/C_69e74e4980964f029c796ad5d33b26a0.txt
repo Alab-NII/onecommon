@@ -1,0 +1,2 @@
+1: small, dark dot towards the bottom all on its own
+0: yes, lets click on it

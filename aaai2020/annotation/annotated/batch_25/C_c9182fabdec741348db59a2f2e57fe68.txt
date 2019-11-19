@@ -1,0 +1,4 @@
+1: large med grey dot?
+0: is it down below the rest of the dots?
+1: hmm sort of. is there another large dot that is dark grey almost on a vertical line w it above?
+0: yes! click that darker one above!

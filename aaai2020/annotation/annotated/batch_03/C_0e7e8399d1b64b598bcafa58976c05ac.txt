@@ -1,0 +1,5 @@
+0: Hello! Where's your dot?
+1: do you see three different size dots along the top in a line going small medium large
+0: yes i see those, the middle one is the darkest of the 3?
+1: yes choose that one?
+0: yes

@@ -1,0 +1,6 @@
+0: I have three dark dots in sort of a vertical line
+1: Is the one in the center closer to the one on top and slightly to the left?
+0: no, my middle is pretty evenly spaced and smaller than the one above it
+1: Darn. Okay do you see a very light grey dot that is medium sized w a very large dark dot slightly above and to the left?
+0: yes, with no near dots above those
+1: Yes! Let's click that light grey dot

@@ -1,0 +1,5 @@
+0: very larger very dark dot?
+1: Is it to the left?
+0: there is a smaller slightly lighter dot down its left?
+1: Yes
+0: k click the larger dark one

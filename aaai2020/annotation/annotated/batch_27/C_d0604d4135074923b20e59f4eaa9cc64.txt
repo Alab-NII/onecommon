@@ -1,0 +1,4 @@
+0: Large light for, above and to the right of it is a smaller dark grey dot, below and to the left is also a smaller grey dot
+1: i think i got it. go for the larger dot to the upper right
+0: The light or dark medium sized one
+1: light one

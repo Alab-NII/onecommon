@@ -1,0 +1,3 @@
+1: dark gray dot larger and darker than the other dots?
+0: yup. its surrounded by light grey dots
+1: yes! pick it

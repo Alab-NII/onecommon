@@ -1,0 +1,10 @@
+T1	Markable 5 15	SMALL DOTS
+T2	Markable 19 34	A STRAIGHT LINE
+T3	Markable 98 106	the line
+T4	Markable 83 94	the top dot
+T5	Markable 47 63	a large dark dot
+T6	Markable 131 139	THAT ONE
+R1	Predicative Arg1:T2 Arg2:T1	
+T7	Markable 144 158	The larger one
+T8	Markable 163 180	the top small one
+T9	Markable 185 198	THE LARGE ONE

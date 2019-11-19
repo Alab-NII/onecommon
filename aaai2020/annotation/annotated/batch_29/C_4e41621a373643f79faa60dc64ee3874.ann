@@ -1,0 +1,14 @@
+T1	Markable 43 57	All of my dots
+T2	Markable 119 122	two
+T3	Markable 220 228	a couple
+T4	Markable 252 261	the other
+T5	Markable 230 233	one
+T6	Markable 397 417	that lighter big one
+T7	Markable 376 390	the darker one
+T8	Markable 324 339	the lighter one
+T9	Markable 471 484	the other one
+T10	Markable 497 511	that light one
+T11	Markable 3 38	very very large very light grey dot
+A1	No-Referent T1
+R1	Anaphora Arg1:T6 Arg2:T8	
+T12	Markable 422 424	it

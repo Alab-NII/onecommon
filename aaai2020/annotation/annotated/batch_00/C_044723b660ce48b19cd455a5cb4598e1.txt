@@ -1,0 +1,4 @@
+0: big black dot with a lighter smaller one to immediate upper left?
+1: I see two black dots - one is smaller, and it's on the left, a bit higher
+0: ok the big black one has a big grey one to upper right? we can click on big black?
+1: ok!

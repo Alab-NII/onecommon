@@ -1,0 +1,6 @@
+1: one tiny light gray dot at in a triangle with two darker larger gray dots?
+0: Two dots same color and side darker gray. with a small light grey dot to the right.
+1: yes-choose the smaller one
+0: light gray
+0: light gray?
+1: light gray selected

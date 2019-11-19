@@ -1,0 +1,9 @@
+T2	Markable 49 65	a large gray dot
+T5	Markable 176 184	the dots
+T7	Markable 282 284	it
+T8	Markable 248 265	a black small dot
+T9	Markable 300 304	that
+T10	Markable 331 350	the small black dot
+A1	Generic T5
+T1	Markable 219 242	a medium light gray dot
+R1	Anaphora Arg1:T7 Arg2:T1	

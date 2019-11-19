@@ -1,0 +1,3 @@
+0: very tiny light grey dot?
+1: I have one of those, is there a large light grey dot to its bottom left very far from it?
+0: yes! click that tiny light one!

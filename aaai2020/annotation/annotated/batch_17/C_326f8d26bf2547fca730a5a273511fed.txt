@@ -1,0 +1,3 @@
+1: Do you see a medium large black dot, below and to the left are two dots one tiny black, and one small light
+0: yes, of the tiny dots, the lighter one is further down then the black one?
+1: Yes, take that larger black dot on top

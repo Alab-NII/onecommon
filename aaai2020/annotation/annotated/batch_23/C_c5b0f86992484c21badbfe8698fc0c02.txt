@@ -1,0 +1,2 @@
+1: 3 dots aligned vertically with some space in between. bottom one is darker. they are all about the same size
+0: yes pick the dark bottom one!

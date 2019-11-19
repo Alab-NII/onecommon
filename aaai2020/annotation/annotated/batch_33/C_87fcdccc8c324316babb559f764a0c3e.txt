@@ -1,0 +1,6 @@
+0: I have a very large light grey dot
+1: Is it to the left of a darker gray dot about the same size?
+0: yes
+1: And lower and to the left of a smaller dot that's slightly darker?
+0: and slightly smaller? yes
+1: I think we have that dot in common then.

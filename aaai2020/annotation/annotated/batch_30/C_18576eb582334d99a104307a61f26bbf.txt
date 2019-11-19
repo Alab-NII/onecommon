@@ -1,0 +1,3 @@
+0: s dark dots in a line going left
+1: Do you see a line of dark dots with the middle one slightly larger than the rest?
+0: yep, lets pick the middle

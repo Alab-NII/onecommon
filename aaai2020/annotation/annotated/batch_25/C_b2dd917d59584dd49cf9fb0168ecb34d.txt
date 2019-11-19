@@ -1,0 +1,6 @@
+1: I see 5 dots in a tight cluster. 2 are large, the top one is very dark and the one under it is medium gray
+0: I don't have that. I have a large dark gray dot with a much smaller very light gray dot above and to the right of it
+1: Hmm I dont have that either. How about 3 that are almost in a line, where the middle one is tiny and light? the line slopes down and to the right
+0: I might have 2 of those. Is there a large dark gray dot below and to the left of the tiny light dot in the middle?
+1: Yes!
+0: ok. Let's pick the small light one

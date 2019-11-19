@@ -1,0 +1,4 @@
+0: Two very light grey dots really close together?
+1: yes. light grey big dot to right
+0: Yes and a little lower? If so click it!
+1: yes

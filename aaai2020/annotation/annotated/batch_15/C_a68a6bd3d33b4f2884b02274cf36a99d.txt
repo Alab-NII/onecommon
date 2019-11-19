@@ -1,0 +1,4 @@
+0: I see two dots extremely close together, the bigger one on top?
+1: yes, the bottom one is a little bit lighter?
+0: yes and small. Take the big one.
+1: ok

@@ -1,0 +1,3 @@
+1: 2 large dots together, left one is grey, right is black?
+0: yes. choose the black one?
+1: ok

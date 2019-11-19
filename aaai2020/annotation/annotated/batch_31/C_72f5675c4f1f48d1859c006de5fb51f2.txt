@@ -1,0 +1,5 @@
+0: two big dots close together, one dark one medium
+1: There's a black dot to the top left and just to the right a dark grey a little smaller
+0: i don't see that. do you see 3 big dots almost in a line going from light ,med, dark
+1: Yes, I see that. Let's choose the lightest one
+0: ok

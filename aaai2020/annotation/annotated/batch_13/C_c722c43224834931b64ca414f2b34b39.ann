@@ -1,0 +1,20 @@
+T2	Markable 146 175	a equally black smaller black
+T3	Markable 122 139	a large black dot
+T4	Markable 189 193	They
+T5	Markable 221 236	the smaller dot
+T6	Markable 285 290	those
+T7	Markable 365 382	a light small one
+T8	Markable 322 336	a med/grey dot
+T9	Markable 474 492	your line of three
+T10	Markable 454 470	the smallest dot
+T12	Markable 494 501	The one
+T13	Markable 15 16	3
+T14	Markable 45 55	the middle
+T15	Markable 79 91	the left one
+T16	Markable 179 182	its
+R1	Anaphora Arg1:T16 Arg2:T3	
+R2	Anaphora Arg1:T5 Arg2:T2	
+T1	Markable 297 301	my 3
+T17	Markable 344 349	their
+T18	Markable 391 396	their
+T19	Markable 425 440	the same things

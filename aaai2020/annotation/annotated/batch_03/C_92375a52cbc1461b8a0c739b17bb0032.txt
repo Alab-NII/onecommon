@@ -1,0 +1,4 @@
+0: I have six that are pretty near each other and then one that is grey and bottom left that is lonely
+1: yes. is the lonely one large?
+0: Yes, medium to large
+1: ok lets click mr lonely

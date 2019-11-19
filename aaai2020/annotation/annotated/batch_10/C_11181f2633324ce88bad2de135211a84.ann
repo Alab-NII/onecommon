@@ -1,0 +1,14 @@
+T1	Markable 75 88	two gray dots
+T2	Markable 180 199	a gray med size dot
+T3	Markable 127 134	nothing
+T4	Markable 233 243	a gray dot
+T5	Markable 261 272	a black dot
+T6	Markable 412 421	the other
+T7	Markable 350 363	two gray dots
+T8	Markable 395 406	one lighter
+T9	Markable 478 480	it
+T11	Markable 434 449	the lighter one
+T12	Markable 3 24	tiny lonely black dot
+A1	No-Referent T3
+T13	Markable 305 308	any
+R1	Anaphora Arg1:T9 Arg2:T11	

@@ -1,0 +1,8 @@
+T1	Markable 39 70	a medium color, medium size dot
+T2	Markable 14 33	one Large, dark dot
+T3	Markable 76 78	it
+T4	Markable 98 106	dark dot
+T5	Markable 166 174	that one
+T6	Markable 197 210	the large dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+A1	No-Referent T5

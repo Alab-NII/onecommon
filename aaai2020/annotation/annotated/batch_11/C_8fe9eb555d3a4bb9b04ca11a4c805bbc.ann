@@ -1,0 +1,14 @@
+T1	Markable 12 31	one small black dot
+T2	Markable 89 91	it
+T3	Markable 107 111	that
+T4	Markable 176 191	a diagonal line
+T5	Markable 113 138	Two pairs of smaller dots
+T6	Markable 222 229	the one
+T7	Markable 254 261	the one
+T8	Markable 284 287	its
+T9	Markable 46 73	a light a little bigger dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T3
+R2	Predicative Arg1:T4 Arg2:T5	
+T10	Markable 319 327	that one
+R3	Anaphora Arg1:T10 Arg2:T8	

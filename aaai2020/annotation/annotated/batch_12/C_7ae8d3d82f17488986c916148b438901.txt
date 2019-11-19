@@ -1,0 +1,5 @@
+0: Do you see a cluster of dots
+1: i have a close triangle of three darker dots, two on the left are the same size
+0: Me too
+1: wanna pick the dark top one?
+0: Yea

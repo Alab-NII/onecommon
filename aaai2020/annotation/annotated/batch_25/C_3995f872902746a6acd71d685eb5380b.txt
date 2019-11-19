@@ -1,0 +1,6 @@
+0: I have one large dark dot, with smaller and lighter dot on top right of it
+1: my biggest circle is on the left of the circle touching the edge it is also my darkest
+1: towards the top correct?
+0: yes
+1: to the left as well ? if so click on that one
+0: yes that's it i click the largest one

@@ -1,0 +1,2 @@
+1: I have a very large and light dot with a much smaller darker dot above and to the right of it
+0: I have that. Let's choose the smaller darker dot to the right and above

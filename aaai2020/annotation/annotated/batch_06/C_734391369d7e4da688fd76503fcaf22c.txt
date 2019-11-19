@@ -1,0 +1,5 @@
+0: do you see a medium black dot, with a larger dark grey close by and slightly left and above?
+1: i think so, is there another small light grey dot above to the left as well?
+0: i misspoke, the the larger dark grey dot is close by, slightly left, and above
+1: yeah, and there is a smaller light grey dot to the left of that, which dot did you pick?
+0: yes, select black

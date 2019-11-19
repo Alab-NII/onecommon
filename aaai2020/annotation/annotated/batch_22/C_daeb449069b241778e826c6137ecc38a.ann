@@ -1,0 +1,7 @@
+T1	Markable 9 27	3 larger grey dots
+T2	Markable 77 87	a triangle
+T3	Markable 57 67	each other
+T4	Markable 35 39	they
+T5	Markable 110 117	the one
+R1	Anaphora Arg1:T3 Arg2:T4	
+R2	Predicative Arg1:T2 Arg2:T4	

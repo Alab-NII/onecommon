@@ -1,0 +1,6 @@
+1: I have a small black dot in the middle of a large black dot and large medium grey dot
+0: almost in a straight line
+1: Yes
+0: which one were you thinking
+1: Let's select the small black dot in the middle of the two
+0: ok

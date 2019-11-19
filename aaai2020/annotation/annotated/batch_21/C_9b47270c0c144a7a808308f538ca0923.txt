@@ -1,0 +1,3 @@
+0: a large light grey dot, directly above it is a large medium grey dot?
+1: Yes is the darker one slightly skewed to the right? if so click that darker one
+0: yes

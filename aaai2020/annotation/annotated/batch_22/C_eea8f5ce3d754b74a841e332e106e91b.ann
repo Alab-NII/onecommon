@@ -1,0 +1,9 @@
+T1	Markable 50 58	the rest
+T2	Markable 10 25	one smaller dot
+T3	Markable 99 109	a triangle
+T4	Markable 213 223	the others
+T5	Markable 171 185	the bottom dot
+T6	Markable 68 88	three dark gray dots
+R1	Predicative Arg1:T3 Arg2:T6	
+T7	Markable 113 116	all
+R2	Anaphora Arg1:T7 Arg2:T6	

@@ -1,0 +1,6 @@
+T1	Markable 14 30	a light gray dot
+T2	Markable 103 131	a small upside down triangle
+T3	Markable 220 242	the smaller darker one
+T4	Markable 72 92	three close together
+R1	Predicative Arg1:T2 Arg2:T4	
+T5	Markable 156 168	the left one

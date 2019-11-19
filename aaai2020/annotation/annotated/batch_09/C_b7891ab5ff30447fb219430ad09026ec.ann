@@ -1,0 +1,12 @@
+T1	Markable 22 28	itself
+T2	Markable 79 98	two other dark dots
+T3	Markable 57 59	it
+T4	Markable 134 144	a triangle
+T5	Markable 175 184	those two
+T6	Markable 201 220	this small dark one
+T7	Markable 240 253	the first one
+T8	Markable 288 302	small dark dot
+T9	Markable 3 18	small black dot
+R1	Anaphora Arg1:T1 Arg2:T9	
+T10	Markable 100 103	one
+T11	Markable 116 119	one

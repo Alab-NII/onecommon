@@ -1,0 +1,4 @@
+0: Hi do u have a large light gray dot with a smaller one of similar shade to its lower right?
+1: no. i have two medium dots almost level. the left one is darker and slightly lower
+0: Got it! click the left lower one?
+1: yup

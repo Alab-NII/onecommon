@@ -1,0 +1,13 @@
+T1	Markable 10 44	one lonely, medium, light gray dot
+T2	Markable 58 62	mine
+T3	Markable 114 138	a larger medium-gray dot
+T4	Markable 94 109	My lightest dot
+T5	Markable 161 163	it
+T6	Markable 242 245	one
+T8	Markable 263 278	the lighter one
+T9	Markable 314 316	it
+T10	Markable 352 367	the lighter dot
+R1	Anaphora Arg1:T5 Arg2:T4	
+T11	Markable 201 207	2 dots
+R2	Anaphora Arg1:T9 Arg2:T6	
+T7	Markable 332 340	the same

@@ -1,0 +1,3 @@
+0: They're all clustered together. The one to the farthest left is completely black.
+1: Three bunched. Left most one is black, bottom right is lightest and smallest
+0: Yep. Let's pick the black one.

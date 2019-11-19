@@ -1,0 +1,4 @@
+0: Do you see a larger dark gray dot over to the right?
+1: I see two similarly sized dark grey dots, with a darker, slightly smaller dot on the bottom
+0: I don't see the two similarly sized dark grey dots. I see a dark grey dot just slightly to the left and above a much darker dot. Both are the same size.
+1: Ok, i think we're talking about the same thing. Lets click the one on top

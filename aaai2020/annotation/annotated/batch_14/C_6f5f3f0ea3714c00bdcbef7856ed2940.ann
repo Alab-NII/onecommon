@@ -1,0 +1,10 @@
+T1	Markable 9 38	an overly large dark gray dot
+T2	Markable 40 42	It
+T3	Markable 80 82	it
+T4	Markable 120 147	a small very light grey dot
+T5	Markable 154 166	a larger dot
+T6	Markable 194 202	that one
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+T7	Markable 90 92	it
+A1	No-Referent T7

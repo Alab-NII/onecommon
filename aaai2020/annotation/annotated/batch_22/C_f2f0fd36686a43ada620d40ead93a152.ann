@@ -1,0 +1,8 @@
+T1	Markable 43 58	a vertical line
+T3	Markable 69 98	darkest medium size black dot
+T4	Markable 172 185	the black one
+T5	Markable 217 231	that black one
+T6	Markable 3 32	two very large very dark dots
+R1	Predicative Arg1:T1 Arg2:T6	
+T7	Markable 110 138	medium size lighter grey dot
+R2	Anaphora Arg1:T5 Arg2:T4	

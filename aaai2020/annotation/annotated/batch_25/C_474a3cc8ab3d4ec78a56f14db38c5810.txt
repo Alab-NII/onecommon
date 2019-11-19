@@ -1,0 +1,13 @@
+0: two dots very close together?
+1: Hi! Do you have a light gray dot with a smaller dark dot to its right?
+0: no. do you have a tiny black dot?
+1: I have a small black, but not tiny
+0: hmm okay what is near your black dot?
+1: It has a light gray dot to its left
+0: hmm nope. do you have a med sized black dot almost in the center of the rest of the dots?
+1: Nope. Do you have a medium gray dot with a dark gray above?
+0: yes! if the one on top is larger and to the right click that one
+1: Is slightly to the left, but not larger
+0: i have no idea what you're seeing
+1: Do you have a medium gray isolated dot?
+0: yes! click that one!

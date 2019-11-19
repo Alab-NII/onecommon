@@ -1,0 +1,4 @@
+1: two medium gray dots next to each other, one is larger on the left ?
+0: three very close dots, left to right, medium light grey, small light grey, darker medium dot
+1: sounds like the same ones...the darker one is down and to the right correct
+0: yes, pick the darker one

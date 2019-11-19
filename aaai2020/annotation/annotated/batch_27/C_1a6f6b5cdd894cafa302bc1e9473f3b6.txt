@@ -1,0 +1,2 @@
+0: do you see two large light grey dots with small light grey dot between them
+1: yes! was just about to describe those! click the small one!

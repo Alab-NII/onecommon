@@ -1,0 +1,3 @@
+0: Do you have a group of 4 bunched together. A small black dot is left of them, the right most one is grey and medium to large, top is light, and bottom is dark grey
+1: i think so. can we choose the darkest one on the left?
+0: Yes

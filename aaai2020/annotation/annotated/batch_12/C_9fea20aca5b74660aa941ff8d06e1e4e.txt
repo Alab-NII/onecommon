@@ -1,0 +1,4 @@
+1: Do you see a small dark gray dot in the middle by itself?
+0: There are two dots. They are almost vertically aligned. Left bigger and a normal gray. Right is black and smaller. I see a small dark gray dot alone, but not in the middle. Of course, our locations are different.
+1: I see yours
+0: Ok. Let's choose the left one.

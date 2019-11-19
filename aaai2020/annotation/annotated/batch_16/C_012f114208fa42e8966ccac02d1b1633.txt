@@ -1,0 +1,10 @@
+1: I have no large dots and no very light dots
+0: I have a tiny dark grey dot. Slightly above it and to the left is a larger but still small-ish black dot
+1: I 2 tiny dark grey dots, but I don't see any larger black dots by it
+0: Are they close to each other, and is the one on the left slightly larger and slightly higher?
+1: it is slightly larger and higher but it's a little further out on the left.
+0: Ok, i think thats the same thing though. Theres nothing close above them?
+1: correct, which one of the two should we pick?
+0: the left one
+1: is the left one the darker and larger one?
+0: Yes!

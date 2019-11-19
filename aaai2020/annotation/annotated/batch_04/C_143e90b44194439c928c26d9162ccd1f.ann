@@ -1,0 +1,10 @@
+T1	Markable 10 29	one small black dot
+T2	Markable 60 85	the two darker large dots
+T3	Markable 98 112	the darker one
+T4	Markable 163 185	two larger darker dots
+T5	Markable 187 193	My one
+T6	Markable 268 283	all of the dots
+T7	Markable 292 296	that
+A1	All-Referents T6
+T8	Markable 319 321	it
+R1	Anaphora Arg1:T8 Arg2:T7	

@@ -1,0 +1,6 @@
+0: Do you see one large medium colored gray dot?
+1: one small medium grey dot between two darker grey ones of larger size?
+0: I don't see that
+1: The dot you asked about, is it sort of off on it's own?
+0: Yes
+1: Let's select that one

@@ -1,0 +1,5 @@
+0: i see three dots close together in a line up and down, the middle one is light grey
+1: Yes I see those. And the one is slightly big
+0: the bottom one is slightly big and black?
+1: Yes that's how mine appear too
+0: ok, let's choose the middle one

@@ -1,0 +1,4 @@
+0: I have a dark grey super big dot. To its left is a smaller light grey dot
+1: i see that too. is the smaller one to the left a little lower?
+0: exactly! Click the big one
+1: ok

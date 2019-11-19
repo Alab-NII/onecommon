@@ -1,0 +1,7 @@
+1: is it a medium gray dot?
+0: i have a big dark grey dot with another dark grey dot to the left
+1: i have a big gray dot on my upper right
+0: what do you have around it?
+1: i do have two dark gray dots, they are big, and to the left above a medium mid gray dot and to the left below a medium light gray dot
+0: yes i see this lets click on the bigger darker grey dot
+1: ok

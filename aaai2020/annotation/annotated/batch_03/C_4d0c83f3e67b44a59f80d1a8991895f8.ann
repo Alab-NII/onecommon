@@ -1,0 +1,8 @@
+T2	Markable 73 80	nothing
+T3	Markable 183 185	it
+T4	Markable 143 161	a similar size one
+T5	Markable 103 117	my biggest dot
+T6	Markable 202 216	the darker one
+T7	Markable 3 14	Biggest dot
+A1	No-Referent T2
+R1	Anaphora Arg1:T3 Arg2:T5	

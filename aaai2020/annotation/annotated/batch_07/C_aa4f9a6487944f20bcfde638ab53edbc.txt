@@ -1,0 +1,4 @@
+1: Let's choose the smallest and lightest dot.
+0: i have two big ones in a near vertical line, the top one is darker than the bottom one, they are close together
+1: Let's take top darker one I see it
+0: ok!

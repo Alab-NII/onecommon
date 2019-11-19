@@ -1,0 +1,10 @@
+T1	Markable 29 33	they
+T2	Markable 10 27	2 large dark dots
+T3	Markable 73 102	a triangle of large dark dots
+T5	Markable 135 144	2 of them
+T6	Markable 115 126	a small one
+T7	Markable 228 241	the two large
+T8	Markable 205 224	the lowest dark dot
+R1	Anaphora Arg1:T1 Arg2:T2	
+T4	Markable 153 166	the dark dots
+T9	Markable 183 187	they

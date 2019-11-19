@@ -1,0 +1,4 @@
+0: i have three close together
+1: I dont have three close together but I have two light gray dots next to each other... the bottom one is a little bigger than the other
+0: i see that too, do you want to pick the bottom one
+1: yes

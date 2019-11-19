@@ -1,0 +1,22 @@
+T1	Markable 62 64	it
+T2	Markable 68 87	a smaller black dot
+T3	Markable 98 137	three medium sized semi light gray dots
+T4	Markable 213 234	a tiny light grey dot
+T5	Markable 150 168	two dark gray dots
+T6	Markable 185 204	a big dark grey dot
+T7	Markable 245 268	the light tiny grey dot
+T8	Markable 293 314	a large dark grey dot
+T9	Markable 275 277	it
+T10	Markable 323 342	the large dark grey
+T11	Markable 456 466	they other
+T12	Markable 409 433	two other dark grey dots
+T13	Markable 435 438	one
+T14	Markable 519 529	each other
+T15	Markable 491 495	they
+T16	Markable 546 566	the almost black one
+T17	Markable 581 583	it
+T18	Markable 3 29	a large dark dark grey dot
+R1	Anaphora Arg1:T1 Arg2:T18	
+#1	AnnotatorNotes T11	the other
+R2	Anaphora Arg1:T15 Arg2:T12	
+R3	Anaphora Arg1:T14 Arg2:T12	

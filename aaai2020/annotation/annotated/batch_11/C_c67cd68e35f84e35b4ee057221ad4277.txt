@@ -1,0 +1,4 @@
+1: I see a very small very dark dot with another larger, similarly dark dot above it almost vertical
+0: Do you see two dots side by side, darker slightly smaller one to the left, and larger lighter one right
+1: yes lets pick the left dark one
+0: Yep I see yours too gotcha

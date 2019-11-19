@@ -1,0 +1,11 @@
+T1	Markable 172 194	a slightly smaller dot
+T2	Markable 140 166	a very large dark grey dot
+T3	Markable 258 271	that left one
+T4	Markable 317 329	the left one
+T5	Markable 3 11	two dots
+T6	Markable 36 52	Three small dots
+T7	Markable 54 61	tiniest
+T8	Markable 99 106	largest
+T9	Markable 234 237	its
+T10	Markable 290 297	The one
+R1	Anaphora Arg1:T4 Arg2:T10	

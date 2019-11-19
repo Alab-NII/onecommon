@@ -1,0 +1,12 @@
+T1	Markable 9 19	three dots
+T2	Markable 30 42	the smallest
+T3	Markable 157 172	two darker dots
+T4	Markable 188 190	it
+T5	Markable 131 151	your lonely gray dot
+T6	Markable 202 225	a lonely light gray dot
+T7	Markable 249 273	two small farm gray dots
+T8	Markable 302 328	the bottom small dark gray
+T9	Markable 347 351	that
+T10	Markable 54 69	Lonely gray dot
+T11	Markable 88 109	lonely light gray dot
+R1	Anaphora Arg1:T4 Arg2:T5	

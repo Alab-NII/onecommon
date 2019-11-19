@@ -1,0 +1,21 @@
+T1	Markable 15 29	a med grey dot
+T2	Markable 50 56	itself
+T3	Markable 63 65	it
+T4	Markable 121 131	themselves
+T5	Markable 147 161	a big dark dot
+T6	Markable 181 220	a slightly smaller slightly lighter dot
+T7	Markable 245 247	it
+T8	Markable 172 175	one
+T9	Markable 300 302	it
+T10	Markable 258 268	a dark dot
+T11	Markable 279 293	a med dark dot
+T12	Markable 357 379	the other med dark dot
+T13	Markable 312 314	it
+T14	Markable 320 340	another med dark dot
+T15	Markable 397 411	the darker one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T16	Markable 104 107	any
+A1	No-Referent T16
+R2	Anaphora Arg1:T4 Arg2:T16	
+R3	Anaphora Arg1:T7 Arg2:T8	
+R4	Anaphora Arg1:T9 Arg2:T10	

@@ -1,0 +1,5 @@
+1: i have three tiny dark dots but only one large dark dot
+0: I have one very tiny dark dot. Below it almost vertically is a larger, also very dark dot. The small dot on top is slightly left of the larger
+1: I see a large dark dot that looks a lot like what you described
+0: Ok, lets click the LARGE dark dot
+1: ok

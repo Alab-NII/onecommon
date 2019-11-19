@@ -1,0 +1,3 @@
+0: largest black dot in cluster of 4?
+1: pick it
+0: ok

@@ -1,0 +1,7 @@
+0: 3 black dots on my view. All similar in size
+1: i have one black dot... i have a large gray dot with a smaller slightly darker dot above it
+0: I don't have that. Is the black dot you have near any other dot?
+1: no. it's on the edge at my 5 o'clock
+0: Ok. I think it's one of the gray dots. I have a tiny gray dot and 2 large (same size/color) dots
+1: i dont see that either. how about 2 small same size and color dots, with the right one higher than the left one
+0: I have that. Let's choose the top right higher one

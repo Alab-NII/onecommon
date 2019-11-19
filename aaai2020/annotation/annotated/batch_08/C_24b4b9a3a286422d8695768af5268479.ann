@@ -1,0 +1,7 @@
+T1	Markable 27 35	a square
+T2	Markable 45 52	The one
+T3	Markable 73 97	the lightest and largest
+T4	Markable 122 130	that one
+T5	Markable 3 9	4 dots
+R1	Predicative Arg1:T1 Arg2:T5	
+R2	Predicative Arg1:T3 Arg2:T2	

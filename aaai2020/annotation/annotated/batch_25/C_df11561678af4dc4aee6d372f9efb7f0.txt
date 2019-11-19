@@ -1,0 +1,5 @@
+1: I have a very large dark dot, which has 3 lighter smaller dots around it
+0: do you see a large dark dot with a medium colored dot slightly above and to the right of it?
+1: yes we are talking about the same dot
+0: do you want to chose the large dark dot?
+1: yes

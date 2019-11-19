@@ -1,0 +1,3 @@
+0: Lightest largest dot, above it a AND slightly to the left is a smaller grey dot
+1: is the smaller one above slightly to the left? if so click that one
+0: I clicked top one

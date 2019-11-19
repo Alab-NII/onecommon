@@ -1,0 +1,14 @@
+T1	Markable 10 16	5 dots
+T3	Markable 53 60	The dot
+T4	Markable 113 117	that
+T5	Markable 126 138	2 black dots
+T6	Markable 167 181	either of them
+T7	Markable 153 160	nothing
+T9	Markable 252 263	the top one
+T10	Markable 285 299	the bottom one
+T11	Markable 340 354	the light gray
+A1	No-Referent T4
+A2	No-Referent T7
+R1	Anaphora Arg1:T6 Arg2:T5	
+T2	Markable 192 213	one of the black dots
+T8	Markable 224 245	two medium sized dots

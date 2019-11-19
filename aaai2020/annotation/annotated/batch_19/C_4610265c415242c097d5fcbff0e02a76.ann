@@ -1,0 +1,10 @@
+T1	Markable 7 17	a triangle
+T2	Markable 21 33	3 black dots
+T3	Markable 47 50	One
+T4	Markable 137 152	the small black
+R1	Predicative Arg1:T2 Arg2:T1	
+T5	Markable 79 82	top
+T6	Markable 95 106	bottom left
+T7	Markable 127 136	the right
+R2	Predicative Arg1:T4 Arg2:T7	
+T8	Markable 166 177	largest dot

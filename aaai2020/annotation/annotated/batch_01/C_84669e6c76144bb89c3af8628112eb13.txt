@@ -1,0 +1,10 @@
+0: I have a lonely medium, light grey dot alone
+1: I see one at the top near the edge
+0: I have 2 near the edge
+1: I see one right at the edge which is above a black dot
+0: lets focus on those 2. they're both light grey but I think you have to look really close to see that one is slightly bigger
+1: yes, I see two grey dots with a black dot between them on the left side of the circle
+0: ok mines different. do you have 2 aligned vertically. One is darker grey and a bit bigger, and the smaller one to the left is smaller
+1: not exactly vertical, small light grey is higher, larger medium grey is lower a bit to the right
+0: ok i have something like that, lets choose the larger, light grey one?
+1: ok

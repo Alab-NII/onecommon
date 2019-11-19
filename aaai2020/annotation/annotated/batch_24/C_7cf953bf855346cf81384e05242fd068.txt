@@ -1,0 +1,4 @@
+0: two large dark grey dots almost identical?
+1: i have two similar sized dark large dots.
+0: if the larger one is down and to the right of the top one click that larger one!
+1: yup

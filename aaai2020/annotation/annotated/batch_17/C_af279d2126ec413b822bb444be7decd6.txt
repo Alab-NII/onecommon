@@ -1,0 +1,5 @@
+1: two dots very close together larger one on top?
+0: I see three light gray dots in a slightly angled line
+1: Are two of them pretty close together?
+0: Yes two of them are close together
+1: K click the smaller dot below the larger one

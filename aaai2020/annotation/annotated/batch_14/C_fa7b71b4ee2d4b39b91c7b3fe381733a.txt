@@ -1,0 +1,4 @@
+1: do you have one really dark gray dot?
+0: I SEE A VERY LARGE DARK GREY DOT BY ITSELF
+1: yes, click that one
+0: OK

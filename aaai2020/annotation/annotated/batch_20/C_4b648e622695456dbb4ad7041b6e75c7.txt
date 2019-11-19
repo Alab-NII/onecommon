@@ -1,0 +1,8 @@
+1: I have a cluster of 2 grey and one black dot south of center.
+0: I have one large medium gray dot
+1: where?
+0: Close to the top with a dark one down and to the right
+1: I don't have that
+0: Okay the tiniest dot I'd black
+1: me too
+0: Let's pick that one

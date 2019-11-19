@@ -1,0 +1,12 @@
+T1	Markable 32 44	smaller dots
+T2	Markable 13 23	a triangle
+T3	Markable 77 90	two dark ones
+T4	Markable 55 71	a small gray dot
+T5	Markable 127 129	it
+T6	Markable 179 196	the same triangle
+T7	Markable 202 217	the 2 dark ones
+R1	Predicative Arg1:T1 Arg2:T2	
+T9	Markable 280 308	the gray (lighter color) one
+T10	Markable 173 178	thats
+R2	Predicative Arg1:T6 Arg2:T10	
+T11	Markable 256 260	That

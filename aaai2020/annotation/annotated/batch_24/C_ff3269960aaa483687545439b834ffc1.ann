@@ -1,0 +1,11 @@
+T1	Markable 41 47	itself
+T2	Markable 15 37	a small light gray dot
+T4	Markable 94 113	very light grey dot
+T5	Markable 170 182	a larger one
+T6	Markable 207 209	it
+T7	Markable 224 248	that very light grey dot
+T8	Markable 252 264	the triangle
+R1	Anaphora Arg1:T1 Arg2:T2	
+T9	Markable 63 71	triangle
+T3	Markable 75 88	two dark dots
+T10	Markable 156 160	that

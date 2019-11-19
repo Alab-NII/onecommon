@@ -1,0 +1,7 @@
+0: Hi, I have a very dark medium sized dot at the very top of my circle
+1: is that dot near any others?
+0: Yes a medium grey sized one to the bottom left and a larger slightly darker one on the lower right
+1: i have two dark medium sized ones. one has a light a smaller lighter on diagonally to the lower left.
+0: your smallest darkest dot, where is it located on your circle, and what is below it?
+1: it is in the upper left part of the circle with a slightly larger one lower and to the left of it. it also has a different medium dark dot to the lower right of it
+0: Ok, I'm going to choose the dark, small circle.

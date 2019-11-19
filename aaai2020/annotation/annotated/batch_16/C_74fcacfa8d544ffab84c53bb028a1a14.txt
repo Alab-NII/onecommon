@@ -1,0 +1,4 @@
+1: Do you have a cluster of five medium large sized dots?
+0: Yes, let's choose the one in the middle
+1: Sure. It's light?
+0: Yes

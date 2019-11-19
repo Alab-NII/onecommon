@@ -1,0 +1,10 @@
+T1	Markable 15 44	a triangle of small dark dots
+T3	Markable 73 104	1 medium sized, medium grey dot
+T4	Markable 119 121	It
+T5	Markable 202 219	your smallest dot
+T6	Markable 193 197	that
+T7	Markable 236 255	the small dark dots
+T8	Markable 287 298	the top one
+T9	Markable 336 347	the top one
+A1	No-Referent T6
+T2	Markable 303 318	the bottom left

@@ -1,0 +1,3 @@
+1: I see an overly large dark gray dot. It is slightly to the right. Do you see it?
+0: No it is not on my screen. I see a small very light grey dot below a larger dot of the same shade
+1: I see that one. I think anyway.

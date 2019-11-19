@@ -1,0 +1,5 @@
+0: do you have a large dark grey dot with a small light grey dot to the right of it
+1: three dots are on a straight line with black one in the middle
+0: i don't see that. do you have a light grey small dot with a dark grey dot of the same size below and to the right of it
+1: I see large black dot with a small light grey dot to the right of it. click on small grey dot.
+0: yes

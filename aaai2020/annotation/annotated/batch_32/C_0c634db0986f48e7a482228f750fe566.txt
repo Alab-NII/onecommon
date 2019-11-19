@@ -1,0 +1,7 @@
+0: i have two black dots, how many do u have?
+1: 3. Are yours small or large?
+0: one almost small, the other is a little larger, if u take those two and a 3rd dark grey dot, they form a line, starting on top left with the grey, going to the smaller black dot, down and to the right, and ending on bottom right with the larger black dot.
+1: got it. Lets click that middle large lighter one in the line
+0: the middle one is black in my line
+1: ah i see it now. i have 2 lines on mine! i see the bottom half of your line. Good catch! lets click the smaller black dot
+0: hope its right

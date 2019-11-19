@@ -1,0 +1,7 @@
+1: do you have a large black dot on yours anywhere?
+0: very top of mine, yes. ... there are some light ones below it
+1: light ones almost in a direct linear line going down?
+0: i have a large black one at the very top- nothing above it. i have all light ones below it... furthest away are 2 small very light ones that are touching the bottom rim of the circle
+1: Directly under your black large dot, maybe 2 inches, is there a large gray dot?
+0: let's try the large black dot
+1: k

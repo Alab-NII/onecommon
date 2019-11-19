@@ -1,0 +1,5 @@
+1: do you have any dots at 9 o'clock or 10?
+0: black dot med size at slightly below 9 o clock tiny gray at slightly above 3 o clock
+1: my 9 is medium dark dot. i have nothing at 3
+0: my med is also a dark dot but its slightly below 9 o clock
+1: lets try the one at 9

@@ -1,0 +1,3 @@
+0: Do you have one Large gray dot with a large black dot below and to the left of it?
+1: Large grey with a tiny black above it
+0: Yes, I have that to, lets choose the large gray

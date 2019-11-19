@@ -1,0 +1,7 @@
+T1	Markable 35 57	a larger dark grey dot
+T2	Markable 9 29	a very dark grey dot
+T3	Markable 64 66	it
+T4	Markable 129 142	the lower dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+T5	Markable 79 103	a same size lighter grey
+T6	Markable 154 170	Topmost dark dot

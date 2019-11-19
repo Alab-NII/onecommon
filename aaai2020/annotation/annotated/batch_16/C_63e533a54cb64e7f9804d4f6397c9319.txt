@@ -1,0 +1,5 @@
+0: I see a large dark grey dot
+1: is it by itself to the left
+0: yes it is
+1: alright, let's choose that one
+0: okay

@@ -1,0 +1,4 @@
+0: My smallest dot is dark grey and off by itself near my border.
+1: is there a larger dot almost same shade up to its left?
+0: No, but I do have a dot like that. Do you also have a lighter grey dot above the aforementioned larger dot?
+1: yes click the larger dot

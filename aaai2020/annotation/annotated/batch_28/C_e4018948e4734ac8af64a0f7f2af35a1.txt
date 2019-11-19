@@ -1,0 +1,3 @@
+0: four dots in a row, tiny, small, small, medium
+1: no, sorry. i have a row of three. tiny tiny medium. middle is the darkest
+0: ok, pick the darkest one

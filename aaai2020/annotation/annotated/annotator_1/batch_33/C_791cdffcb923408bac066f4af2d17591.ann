@@ -1,0 +1,27 @@
+T1	Markable 16 22	itself
+T2	Markable 102 115	that dark one
+T3	Markable 148 175	a very small light grey dot
+T4	Markable 208 221	the black one
+T5	Markable 257 270	the black one
+T7	Markable 327 337	each other
+T8	Markable 305 309	they
+T9	Markable 416 424	that one
+T10	Markable 381 394	the light one
+T11	Markable 519 521	it
+T12	Markable 486 499	the black dot
+T13	Markable 611 625	the small pair
+T14	Markable 582 595	the light one
+T15	Markable 3 12	black dot
+R1	Anaphora Arg1:T1 Arg2:T15	
+T16	Markable 28 47	a similar sized dot
+T17	Markable 60 63	its
+R2	Anaphora Arg1:T17 Arg2:T15	
+A1	No-Referent T2
+T18	Markable 281 300	two small grey dots
+R3	Anaphora Arg1:T7 Arg2:T8	
+R4	Anaphora Arg1:T9 Arg2:T10	
+T6	Markable 429 433	they
+T19	Markable 501 508	nothing
+A2	No-Referent T19
+R5	Anaphora Arg1:T11 Arg2:T12	
+T20	Markable 529 547	that dark grey one

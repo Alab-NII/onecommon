@@ -1,0 +1,6 @@
+0: large grey dot with the same color slightly smaller dot to the right and lower
+1: Three dots in a row? I don't have what you have
+0: i see 3 dots pretty close
+1: Darker on the left, lightest on the middle?
+0: exactly
+1: Pick the middle

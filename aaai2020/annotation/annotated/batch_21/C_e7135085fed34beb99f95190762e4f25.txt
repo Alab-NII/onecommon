@@ -1,0 +1,4 @@
+1: Do you have a large black dot with a slightly lighter smaller grey dot right beside it?
+0: two dots very close together one of them black and large?
+1: Yep! Smaller one is on the left.
+0: yes click the large black one!

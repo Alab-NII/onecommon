@@ -1,0 +1,42 @@
+T1	Markable 64 78	the lowest one
+T2	Markable 83 106	a larger very light dot
+T3	Markable 48 58	each other
+T4	Markable 14 31	3 tiny black dots
+T5	Markable 115 117	it
+T6	Markable 121 123	it
+T7	Markable 238 259	three tiny black dots
+T8	Markable 418 432	the lowest one
+T9	Markable 386 396	each other
+T10	Markable 470 472	it
+T11	Markable 342 361	the tiny black dots
+T12	Markable 539 542	one
+T13	Markable 573 575	it
+T14	Markable 490 509	two tiny black dots
+T15	Markable 524 534	each other
+T16	Markable 638 656	the black tiny dot
+T17	Markable 662 675	the light one
+T18	Markable 690 692	it
+T19	Markable 696 698	it
+T20	Markable 722 742	the Light larger one
+T21	Markable 771 791	the light larger dot
+R1	Anaphora Arg1:T3 Arg2:T4	
+R2	Anaphora Arg1:T5 Arg2:T1	
+R3	Anaphora Arg1:T6 Arg2:T1	
+T23	Markable 141 150	7 objects
+A1	All-Referents T23
+T24	Markable 176 192	large light gray
+T25	Markable 197 212	small dark gray
+A2	No-Referent T7
+T26	Markable 274 306	one medium sized medium gray dot
+R4	Anaphora Arg1:T9 Arg2:T11	
+T27	Markable 412 413	3
+R5	Anaphora Arg1:T27 Arg2:T11	
+T28	Markable 437 455	a larger Light one
+R6	Anaphora Arg1:T10 Arg2:T8	
+R7	Anaphora Arg1:T15 Arg2:T14	
+T29	Markable 547 563	a large gray dot
+R8	Anaphora Arg1:T13 Arg2:T12	
+T30	Markable 602 614	the med/grey
+A3	No-Referent T30
+R9	Anaphora Arg1:T18 Arg2:T16	
+R10	Anaphora Arg1:T19 Arg2:T16	

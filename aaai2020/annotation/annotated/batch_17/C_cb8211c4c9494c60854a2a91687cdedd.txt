@@ -1,0 +1,3 @@
+1: 1 dot much darker and larger than the others?
+0: Yes there is a dark gray above and to the right of the large dot?
+1: yes, lets pick the large one

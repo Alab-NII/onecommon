@@ -1,0 +1,5 @@
+0: I have a medium sized light gray dot with smaller dark gray dot below and to the right of it
+1: I do not see that. The only smaller dark grey dot I have is above another dark grey dot just a little bigger than the small one
+0: Are the 2 dark gray dots fairly far apart? The top one is slightly to the left of the bottom one?
+1: Yes about an inch apart. Want to click the lower dark grey dot that is slight to the right?
+0: yes

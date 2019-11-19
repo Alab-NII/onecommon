@@ -1,0 +1,5 @@
+0: do you see the single dark grey dot to the left
+1: I got a little triangle, do you have one and no
+0: does light have one dark gray at the top a medium gray in the middle its also the smallest and a light grey at the bottom
+1: Yeah click the light grey at the bottom
+0: ok

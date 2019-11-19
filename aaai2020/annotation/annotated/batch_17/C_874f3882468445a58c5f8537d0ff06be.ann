@@ -1,0 +1,21 @@
+T1	Markable 142 155	your triangle
+T2	Markable 164 194	one smaller, light colored dot
+T3	Markable 196 198	it
+T4	Markable 241 243	it
+T5	Markable 203 229	a much bigger and dark dot
+T6	Markable 260 283	largest sized black dot
+T7	Markable 348 353	yours
+T8	Markable 297 314	a larger grey dot
+T9	Markable 291 293	it
+T10	Markable 365 367	it
+T12	Markable 405 422	my very light one
+T14	Markable 441 461	the bottom black one
+T15	Markable 15 40	an obtuse triangle patter
+T16	Markable 43 51	top left
+T17	Markable 72 75	mid
+T18	Markable 94 97	low
+A1	No-Referent T1
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T2	
+R3	Anaphora Arg1:T9 Arg2:T6	
+A2	No-Referent T7

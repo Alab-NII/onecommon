@@ -1,0 +1,4 @@
+0: very large very light grey dot
+1: i have a med grey on the line do u have it
+0: No, but I have a smaller pretty black dot
+1: lets click it

@@ -1,0 +1,7 @@
+1: I see grouping of 4 with one being black and most left
+0: I have 3 in a triangle bottom right side
+1: Is the top one small and dark? I might see two of the three you describe. the one to the left is larger and lower to the left?
+0: Yes LARGE one is on line about 5 o'clock
+1: Other than that I have a lonely grey dot that is almost smallest size
+0: On the left side about 9 o'clock
+1: Yep, let's take loner

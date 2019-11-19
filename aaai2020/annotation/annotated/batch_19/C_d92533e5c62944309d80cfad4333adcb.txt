@@ -1,0 +1,2 @@
+1: largest grey dot lower right of small blacker dot
+0: yes 12 oclock for me, biggest dot on screen for me, good job

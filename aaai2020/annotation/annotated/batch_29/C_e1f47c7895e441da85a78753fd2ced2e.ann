@@ -1,0 +1,14 @@
+T1	Markable 15 34	2 medium black dots
+T2	Markable 36 39	one
+T3	Markable 65 74	the other
+T4	Markable 120 125	those
+T5	Markable 89 113	a larger medium grey dot
+T7	Markable 167 170	its
+T8	Markable 161 163	it
+T10	Markable 200 217	they 2 black dots
+T11	Markable 262 278	the 2 black dots
+T12	Markable 337 348	the top one
+T6	Markable 149 154	whats
+A1	No-Referent T6
+R1	Anaphora Arg1:T7 Arg2:T8	
+#1	AnnotatorNotes T10	the 2 black dots

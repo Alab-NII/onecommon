@@ -1,0 +1,5 @@
+1: Hello! Where's your dot?
+0: i have lots lol. I have only one dark large dot
+1: Is there a smaller light grey one to the bottom right of it?
+0: yes
+1: Great! Lets click the large black dot

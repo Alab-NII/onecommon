@@ -1,0 +1,10 @@
+T1	Markable 14 27	only two dots
+T2	Markable 82 103	two close, black dots
+T3	Markable 64 69	those
+T4	Markable 278 295	a medium grey dot
+T5	Markable 311 328	the top black dot
+T6	Markable 199 211	all our dots
+T7	Markable 253 274	those two angled dots
+T8	Markable 362 382	that medium grey dot
+A1	No-Referent T3
+A2	All-Referents T6

@@ -1,0 +1,5 @@
+0: Hi, I see a gray medium size circle at the bottom edge of my image
+1: I have three darkish dots in a row, the right one is the largest.
+0: Ok
+1: Let's click on the largest one
+0: OK

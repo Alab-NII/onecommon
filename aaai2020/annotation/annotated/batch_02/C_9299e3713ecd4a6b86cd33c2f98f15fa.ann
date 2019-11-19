@@ -1,0 +1,19 @@
+T1	Markable 14 38	a small lonely black dot
+T2	Markable 80 82	it
+T4	Markable 234 245	a dark grey
+T5	Markable 284 286	it
+T7	Markable 303 307	that
+T8	Markable 372 386	the lonely one
+T9	Markable 335 357	all of your other dots
+T10	Markable 411 422	2 sets of 2
+T11	Markable 440 442	it
+T12	Markable 461 465	that
+T13	Markable 475 486	another dot
+T14	Markable 548 561	the other one
+T15	Markable 581 599	the smallest black
+T16	Markable 43 67	a medium grey lonely dot
+T17	Markable 206 221	the grey medium
+R1	Anaphora Arg1:T5 Arg2:T17	
+T3	Markable 391 406	my lonely black
+R3	Anaphora Arg1:T11 Arg2:T3	
+A1	No-Referent T12

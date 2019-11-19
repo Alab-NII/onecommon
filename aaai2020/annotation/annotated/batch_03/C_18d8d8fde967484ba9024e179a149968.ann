@@ -1,0 +1,9 @@
+T1	Markable 19 39	four small grey dots
+T2	Markable 88 104	a light gray one
+T3	Markable 121 141	two darker gray ones
+T4	Markable 63 79	A dark black one
+T5	Markable 182 198	all four of them
+T7	Markable 176 180	that
+T8	Markable 233 241	the four
+R1	Anaphora Arg1:T5 Arg2:T7	
+T6	Markable 246 261	The darkest one

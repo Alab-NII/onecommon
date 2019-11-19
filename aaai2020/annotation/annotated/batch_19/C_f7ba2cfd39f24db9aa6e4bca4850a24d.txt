@@ -1,0 +1,7 @@
+0: I only have one very dark gray dot
+1: is it near the top, all alone?
+0: I have one like that, but it's not the darkest. The dark dark one has two lighter dots to the right of it on the top and bottom
+1: Is the lighter one to the upper right bigger than the dark gray dot?
+0: Yes it is
+1: let's choose the dark dot.
+0: Okay

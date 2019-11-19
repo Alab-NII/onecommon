@@ -1,0 +1,6 @@
+0: I have one medium black dot north east of center
+1: I don't have that.
+0: I have a group of 2 grey dots south of center. The most western dot is bigger. They are pretty close together
+1: I have that!
+0: Let's pick the bigger dot
+1: Okay!

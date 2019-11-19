@@ -1,0 +1,16 @@
+T1	Markable 26 36	each other
+T2	Markable 38 41	One
+T3	Markable 55 64	the other
+T4	Markable 101 103	it
+T5	Markable 189 203	the middle one
+T6	Markable 126 138	3 small dots
+T7	Markable 247 254	the one
+T8	Markable 270 278	that one
+T10	Markable 331 344	the black one
+T11	Markable 3 17	Two black dots
+R1	Anaphora Arg1:T1 Arg2:T11	
+R2	Anaphora Arg1:T4 Arg2:T2	
+T12	Markable 159 165	a line
+R3	Predicative Arg1:T12 Arg2:T6	
+T13	Markable 216 226	middle one
+T14	Markable 299 303	that

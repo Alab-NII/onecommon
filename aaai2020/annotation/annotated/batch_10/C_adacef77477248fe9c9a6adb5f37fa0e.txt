@@ -1,0 +1,6 @@
+1: I have a smaller gray dot just above and to the right of a large black dot
+0: Do they form a triangle with a medium dot that is the same shade as the small one?
+1: Not that I can see, it is at the top of my screen though... off to the right of the large black dot there is a vertical line of three dots that kind of curves
+0: Hmm not sure what you're seeing. Do you see two almost black dots very close together?
+1: Larger one below the other?
+0: Yes! Click the larger one!

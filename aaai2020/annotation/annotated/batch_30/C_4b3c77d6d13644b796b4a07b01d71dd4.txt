@@ -1,0 +1,6 @@
+0: large almost black dot?
+1: yes, select it
+0: wait is there a very light smaller dot to its horizontal left?
+1: yes
+0: which one did you click?
+1: the large one

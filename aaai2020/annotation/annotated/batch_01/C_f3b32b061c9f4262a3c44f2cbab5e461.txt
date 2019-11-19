@@ -1,0 +1,7 @@
+1: I see a cluster of three circles in the upper right portion of the circle with the farthest right circle being the darkest.
+0: I only have one dark dot. it is medium size. south east of it is a pair of dots, diagonal from each other with the lower one medium gray and the other light gray.
+1: Are the diagonal dots pretty close to each other?
+0: yes, the lower is darker and slightly smaller. the upper one is light grey.
+1: Should we both click on the dot that is lower and darker?
+0: yes, it is medium grey. nothing is below mine until much further down
+1: Correct

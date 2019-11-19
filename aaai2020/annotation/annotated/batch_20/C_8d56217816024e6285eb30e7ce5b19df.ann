@@ -1,0 +1,9 @@
+T1	Markable 38 55	a small black dot
+T2	Markable 10 21	a line of 5
+T3	Markable 109 118	black dot
+T4	Markable 79 92	a line of six
+T6	Markable 139 159	the middle black dot
+T7	Markable 29 32	a c
+R1	Predicative Arg1:T7 Arg2:T2	
+T5	Markable 100 103	a c
+R2	Predicative Arg1:T5 Arg2:T4	

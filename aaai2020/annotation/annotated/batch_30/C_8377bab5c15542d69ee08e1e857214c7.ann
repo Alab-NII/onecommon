@@ -1,0 +1,7 @@
+T2	Markable 120 127	the one
+T3	Markable 74 86	2 small dots
+T4	Markable 156 165	light one
+T5	Markable 3 13	Three dark
+T1	Markable 88 91	one
+T6	Markable 131 134	its
+R1	Anaphora Arg1:T6 Arg2:T1	

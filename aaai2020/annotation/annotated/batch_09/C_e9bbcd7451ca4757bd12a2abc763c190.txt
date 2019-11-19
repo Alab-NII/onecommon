@@ -1,0 +1,4 @@
+1: I see a triangle that forms a face with the left eye being slightly smaller than the rest and the darkest
+0: I think I see that too. Do you mean the right eye is the darkest?
+1: Ah yeah sorry. And the nose and left eye are very similar in size and the nose is slightly darker?
+0: Yes! Pick the nose

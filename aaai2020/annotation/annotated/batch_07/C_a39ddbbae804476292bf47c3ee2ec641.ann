@@ -1,0 +1,8 @@
+T1	Markable 56 64	two dots
+T2	Markable 86 90	They
+T3	Markable 107 114	The one
+T4	Markable 162 164	it
+T5	Markable 200 214	the darker one
+T6	Markable 9 18	which dot
+A1	Generic T6
+R1	Anaphora Arg1:T2 Arg2:T1	

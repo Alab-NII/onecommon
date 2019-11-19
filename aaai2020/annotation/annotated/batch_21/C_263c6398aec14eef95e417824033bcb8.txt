@@ -1,0 +1,5 @@
+1: my smallest dot is my darkest
+0: Hi, do you have a large dark dot with a very small light one directly under it?
+1: yes, the small one is to the left
+0: Yes! lets click the large one?
+1: fine

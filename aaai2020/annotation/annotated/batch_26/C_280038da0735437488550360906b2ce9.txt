@@ -1,0 +1,4 @@
+0: Large black dot above and to the left of a smaller grey dot
+1: my largest dot is also my darkest dot. it is above and to the left of a smaller lighter dot
+0: Let's pick the black dot?
+1: sounds good

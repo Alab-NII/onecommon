@@ -1,0 +1,14 @@
+T1	Markable 10 22	2 black dots
+T2	Markable 48 57	the other
+T3	Markable 92 100	any dots
+T4	Markable 156 162	itself
+T5	Markable 164 177	The small one
+T6	Markable 203 225	a small light grey dot
+T7	Markable 233 251	the small grey dot
+T8	Markable 256 275	the small black dot
+T9	Markable 330 349	the small black dot
+T10	Markable 37 38	1
+A1	Generic T3
+T11	Markable 133 149	my big black dot
+R1	Anaphora Arg1:T4 Arg2:T11	
+T12	Markable 113 128	either of these

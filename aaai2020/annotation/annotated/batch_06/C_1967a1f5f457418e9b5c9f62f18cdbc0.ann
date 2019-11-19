@@ -1,0 +1,16 @@
+T1	Markable 9 15	3 dots
+T2	Markable 156 179	an equilateral triangle
+T3	Markable 334 347	your triangle
+T4	Markable 349 369	the bottom right dot
+T5	Markable 401 414	the black one
+T6	Markable 48 62	light grey top
+T7	Markable 67 78	bottom dots
+T8	Markable 106 118	any vertical
+A1	No-Referent T8
+T9	Markable 127 128	3
+R1	Predicative Arg1:T2 Arg2:T9	
+T10	Markable 181 186	all 3
+R2	Anaphora Arg1:T10 Arg2:T9	
+T11	Markable 204 212	smallest
+T12	Markable 230 237	biggest
+T13	Markable 283 295	medium sized

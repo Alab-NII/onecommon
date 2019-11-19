@@ -1,0 +1,11 @@
+0: all but one of my dots are on the top half
+1: Hello! wheres your dot?
+0: i have one small dark grey dot and one light grey dot, the rest are medium colored.
+1: the circles are always different - your top is not my top... Do you see two dots close to one another,pointing down and to the right?
+0: what about yours?
+1: the 2 that are close together are darker in color
+0: i think i have those
+1: the top one is smaller?
+0: yes
+1: ok pick the top one?
+0: ok!

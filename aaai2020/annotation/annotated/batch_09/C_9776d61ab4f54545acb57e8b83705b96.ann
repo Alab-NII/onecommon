@@ -1,0 +1,14 @@
+T1	Markable 16 34	your lightest dots
+T2	Markable 53 69	a small dark dot
+T3	Markable 90 96	itself
+T4	Markable 114 133	any very light dots
+T5	Markable 152 167	a very dark one
+T6	Markable 203 233	a larger, slightly lighter one
+T7	Markable 194 196	it
+T8	Markable 240 242	it
+T9	Markable 289 302	the lower one
+T10	Markable 307 327	the darkest lower on
+R1	Anaphora Arg1:T3 Arg2:T2	
+A1	No-Referent T4
+R2	Anaphora Arg1:T7 Arg2:T5	
+R3	Anaphora Arg1:T8 Arg2:T5	

@@ -1,0 +1,7 @@
+1: We got a cluster of three dots in kind of a wide based triangle that is pointing toward the left. Go for the top one.
+0: I don't see that
+1: Alright, there is a dark black dot with a light grey dot below and to the left of it. Got that one ?
+0: I don't see that one. Do the initial dots have a smallish dark grey dot above them. I have a column of three nearly vertical dark grey dots.
+1: I think i got your column
+0: Great. Shall we choose that top one?
+1: Yes

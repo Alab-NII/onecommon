@@ -1,0 +1,7 @@
+0: do you have any black dots?
+1: i have one small black dot with no dots near it
+0: okay i have one black dot i would say medium size compared to the rest of the dots. the rest of the dots are all light grey to dark grey
+1: all mine are also light and dark, but my black dot is the smallest in my circle, i do have two largish sized medium greys close together
+0: I too have 2 larger size medium colored greys close with a smaller medium color grey bottom left of the two larger
+1: those are on the edge of my screen so i can't see anything below and to the left, above and to the right is a slightly smaller light grey dot
+0: I believe that is the one select it!

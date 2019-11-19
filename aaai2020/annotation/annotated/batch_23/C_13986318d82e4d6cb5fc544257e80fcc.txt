@@ -1,0 +1,6 @@
+1: i have one large dark grey with a smaller light grey to the right
+0: dont' have that. is there a large dark grey dot where below it (with some space) a smaller same color dot?
+1: no, i don't see that either
+0: how about large dark grey with a lighter grey (smaller sized) to the upper left?
+1: yes, i believe so, choose the lighter one?
+0: alright

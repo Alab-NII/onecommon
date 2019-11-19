@@ -1,0 +1,3 @@
+0: do you see an upside down triangle with the largest dot in the triangle at the bottom
+1: if it were a face the right eye would be the smallest and lightest? if so click it!
+0: yes

@@ -1,0 +1,3 @@
+0: 2 small dot, one is black, the other is above and slightly to the right and is grey?
+1: Got it...down and to the right is a larger dark gray dot?
+0: yes, choose the small black one?

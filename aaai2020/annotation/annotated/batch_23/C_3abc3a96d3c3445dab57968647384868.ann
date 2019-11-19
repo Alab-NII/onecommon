@@ -1,0 +1,10 @@
+T1	Markable 9 23	a mid grey dot
+T2	Markable 71 88	a small black dot
+T3	Markable 154 156	it
+T4	Markable 175 194	a smaller black dot
+T5	Markable 227 243	the mid grey dot
+T6	Markable 39 42	its
+R1	Anaphora Arg1:T6 Arg2:T1	
+T7	Markable 112 140	a similar size and color dot
+T8	Markable 247 250	its
+R2	Anaphora Arg1:T8 Arg2:T5	

@@ -1,0 +1,3 @@
+1: three dots in a diagonal line, top is small light grey, then small grey, then small light grey
+0: i have 3 dots angling up and to the right
+1: ok, same dots, pick the top one

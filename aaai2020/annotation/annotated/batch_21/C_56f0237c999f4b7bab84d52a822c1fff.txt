@@ -1,0 +1,5 @@
+1: i have 2 dots similar size beside each other. very close. left one is darker
+0: one is higher than the other?
+1: one on the left is higher
+0: yes i have that
+1: pick that left one higher

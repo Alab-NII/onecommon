@@ -1,0 +1,14 @@
+T1	Markable 10 25	a very dark dot
+T2	Markable 31 34	two
+T3	Markable 59 61	it
+T4	Markable 129 147	the other two dots
+T5	Markable 70 74	they
+T6	Markable 219 222	One
+T7	Markable 269 278	the other
+T8	Markable 325 337	the dark dot
+T9	Markable 287 299	the two dots
+T10	Markable 362 374	the dark dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+T11	Markable 101 115	the middle dot
+T12	Markable 152 156	They
+T13	Markable 202 217	a partial curve

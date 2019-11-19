@@ -1,0 +1,6 @@
+T1	Markable 3 30	two med sized med grey dots
+T2	Markable 61 74	vertical line
+T3	Markable 115 128	the same line
+T4	Markable 89 105	a tiny black dot
+T5	Markable 144 163	that tiny black one
+R1	Predicative Arg1:T2 Arg2:T1	

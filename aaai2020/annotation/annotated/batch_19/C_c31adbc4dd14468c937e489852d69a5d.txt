@@ -1,0 +1,4 @@
+0: small black dot upper right quarter of the circle
+1: no, lower left light shaded dot. 2 in a line
+0: yes pick the lower one
+1: ok

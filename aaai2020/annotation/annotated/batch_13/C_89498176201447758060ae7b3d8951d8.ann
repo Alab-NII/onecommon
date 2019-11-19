@@ -1,0 +1,11 @@
+T2	Markable 20 35	a vertical line
+T3	Markable 130 134	that
+T5	Markable 180 185	yours
+T6	Markable 140 144	it's
+T7	Markable 194 205	the top dot
+T8	Markable 256 276	the larger, gray dot
+T9	Markable 3 9	3 dots
+R1	Predicative Arg1:T2 Arg2:T9	
+T1	Markable 37 40	Top
+T10	Markable 51 57	middle
+T11	Markable 78 84	bottom

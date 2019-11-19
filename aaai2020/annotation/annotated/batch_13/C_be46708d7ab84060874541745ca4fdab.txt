@@ -1,0 +1,4 @@
+0: I have 3 black-ish dots right next to each other. 2 are big and slightly smaller on to right of them
+1: I have 3 dark dots very close to each other, the one in the middle is the largest but slightly lighter
+0: Looks like we have same one. Click the middle of the 3.
+1: sure

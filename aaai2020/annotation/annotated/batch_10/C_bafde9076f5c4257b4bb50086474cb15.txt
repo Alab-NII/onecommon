@@ -1,0 +1,5 @@
+1: I have one medium sized dark spot
+0: does it have a med grey above to the right with a small darker one to its right ?
+1: yes!
+0: which one did you pick?
+1: the medium sized dark spot

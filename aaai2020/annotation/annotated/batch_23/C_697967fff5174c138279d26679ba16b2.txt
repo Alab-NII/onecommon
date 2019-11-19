@@ -1,0 +1,5 @@
+0: a triangle of 3 dots the highest and most left is the darkest and medium sized
+1: Are the other two light on color, one a little smaller than the other?
+0: yes
+1: Perfect, I see that.
+0: choose the darkest dot

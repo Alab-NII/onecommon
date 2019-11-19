@@ -1,0 +1,7 @@
+1: do you have a small dark circle, slightly above and to the left of it is a darker larger dot?
+0: Is the smaller circle on the edge?
+1: it's not on the edge about 1 cm away from the edge
+0: Mine is right on the edge
+1: it might not be the one, do you have 2 circle very similar in size the bottom one is slightly larger and darker, and it's below and to the left of the other one
+0: Yes I do. Should we pick the bottom one?
+1: ok

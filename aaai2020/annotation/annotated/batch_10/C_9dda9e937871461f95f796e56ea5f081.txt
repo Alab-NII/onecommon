@@ -1,0 +1,5 @@
+1: I have two sets of dots that are very close to each other. In one, the darkest dot is below the lighter dot. In the other the opposite is true.
+0: Yes! I was just about to type that! Does the pair that is most towards the right have the top dot towards the right?
+1: Yes. Those two are also closer in color grading than the top two. In the top two the dark one is darker and the light one is lighter than either of the bottom two.
+0: Yes Want to click the bottom darker, larger circle in that pair to the right?
+1: Sounds good.

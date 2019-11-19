@@ -1,0 +1,5 @@
+1: hi which do u want to try for?
+0: I have a straight line of 3 dots with a small black one in the middle
+1: I see that
+0: you want to pick the small black one?
+1: sure!

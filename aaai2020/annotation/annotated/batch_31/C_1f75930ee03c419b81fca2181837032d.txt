@@ -1,0 +1,3 @@
+0: Two small dots are close together and the top one is lighter
+1: I have a group of two tiny dots above and below. Top is light grey, bottom is black.
+0: select the bottom black

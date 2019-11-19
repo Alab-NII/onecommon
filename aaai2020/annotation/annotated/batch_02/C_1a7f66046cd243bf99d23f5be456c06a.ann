@@ -1,0 +1,24 @@
+T1	Markable 52 59	the one
+T2	Markable 10 22	2 small dots
+T3	Markable 120 124	that
+T4	Markable 185 191	a line
+T5	Markable 237 246	med light
+T6	Markable 193 200	top one
+T8	Markable 285 297	another line
+T9	Markable 360 369	black one
+T10	Markable 371 375	they
+T11	Markable 408 415	my line
+T12	Markable 422 438	the top dark one
+T13	Markable 472 481	your line
+T15	Markable 483 485	it
+T16	Markable 93 97	both
+R1	Anaphora Arg1:T16 Arg2:T2	
+A1	No-Referent T3
+T17	Markable 135 159	4 of the same/small size
+R2	Predicative Arg1:T4 Arg2:T17	
+T18	Markable 210 218	2nd down
+T7	Markable 248 258	bottom one
+T19	Markable 323 338	the, light grey
+T20	Markable 345 353	med grey
+T21	Markable 456 468	the lightest
+R3	Anaphora Arg1:T15 Arg2:T21	

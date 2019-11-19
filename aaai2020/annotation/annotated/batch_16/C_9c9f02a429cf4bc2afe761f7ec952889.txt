@@ -1,0 +1,4 @@
+1: ONE BIG DOT IN THE MIDDLE
+0: is your largest dot dark and to the top?
+1: YEAH
+0: pick largest dark

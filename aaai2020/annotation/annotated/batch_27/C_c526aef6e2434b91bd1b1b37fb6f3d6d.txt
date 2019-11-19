@@ -1,0 +1,3 @@
+1: 4 dots forming a horizontal line with very very large light dot compared to the other 3?
+0: Yes I have that do you want to pick the large gray dot
+1: yes!

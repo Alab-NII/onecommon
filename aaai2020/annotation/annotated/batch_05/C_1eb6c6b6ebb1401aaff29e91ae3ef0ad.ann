@@ -1,0 +1,5 @@
+T2	Markable 62 66	they
+T4	Markable 158 169	the top one
+T1	Markable 9 17	two dots
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 89 100	the top one

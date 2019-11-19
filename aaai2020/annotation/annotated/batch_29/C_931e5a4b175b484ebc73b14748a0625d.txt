@@ -1,0 +1,8 @@
+0: Large black dot with a smaller dark grey dot very close to it, to its right
+1: To the right and slightly above?
+0: on mine its to the right and slightly below
+1: Hmmm. Not so sure above that one. Do you see a large dark gray dot with a light gray dot around the same size to the left and a dark black dot around the same size to the right and slightly above?
+0: I do have a large dark gray dot, but it has a medium gray one about the same size to its lower left. is the left one on yours to its lower left?
+1: No, it's actually slightly above as well. How about a large black dot all by itself?
+0: I do have a large black dot by itself, might be our only common one on this one!
+1: Let's try it!

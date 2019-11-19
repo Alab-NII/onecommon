@@ -1,0 +1,3 @@
+1: 3 dots forming a sloping line down to the right all dark?
+0: one all the way to the right is smallest and medium shade?
+1: yes left is almost black? If so click it!

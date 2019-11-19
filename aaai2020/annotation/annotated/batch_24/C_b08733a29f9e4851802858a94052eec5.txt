@@ -1,0 +1,5 @@
+1: darkest largest dot right top close to line
+0: I don't have that. I have a small black dot northwest of center, close to the edge than the center.
+1: does that dark dot have a small grey dot below it
+0: yes
+1: lets try the dark dot

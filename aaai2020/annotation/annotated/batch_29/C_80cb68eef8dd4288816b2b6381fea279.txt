@@ -1,0 +1,7 @@
+1: two small dots slightly different grays directly beside each other?
+0: no, i have two medium dots close to each other, very similar size and color
+1: do you have a medium black dot directly underneath those two close to each other?
+0: its pretty small, and pretty far below, but yes. of the two the same size & color, theres one lower and to the left of the other.
+1: Ok...I may see it. Not 100% though. Do you have a tiniest light gray dot anywhere?
+0: not really, i have a tiny pretty light, but not the lightest ever.
+1: yes...pick that one

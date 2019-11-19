@@ -1,0 +1,4 @@
+1: Do you have a small dark dot with a tiny light grey one to its right?
+0: I do with a large light dot off diagonally of each end of those.
+1: yes i see that
+0: Lets go for the small dark dot.

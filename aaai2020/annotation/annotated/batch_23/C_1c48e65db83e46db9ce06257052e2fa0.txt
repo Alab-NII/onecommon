@@ -1,0 +1,5 @@
+1: I have two large dots very close together, one is dark gray and one is black
+0: yes i have those 2, wanna select the black one?
+1: Does the black one have another dark gray large dot below it?
+0: i guess i have different cut of the circle, so i just see 2 dots, one is black, another is dark grey under it to the right of it
+1: Black one it is:)

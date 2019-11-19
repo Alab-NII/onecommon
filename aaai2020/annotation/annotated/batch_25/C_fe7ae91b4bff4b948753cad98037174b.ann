@@ -1,0 +1,14 @@
+T1	Markable 63 76	med black dot
+T2	Markable 46 61	Large black dot
+T3	Markable 102 113	all of mine
+T4	Markable 139 164	your large black left one
+T5	Markable 235 250	a med black one
+T6	Markable 319 338	the large black one
+T7	Markable 373 401	your middle medium black one
+T8	Markable 3 17	Line of 3 dots
+T9	Markable 78 98	smaller med gray dot
+A1	All-Referents T3
+T10	Markable 201 202	3
+A2	No-Referent T10
+T11	Markable 256 279	a smaller dark grey one
+T12	Markable 294 298	it's

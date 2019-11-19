@@ -1,0 +1,14 @@
+T1	Markable 50 65	a diagonal line
+T2	Markable 38 46	two dots
+T3	Markable 67 81	The bottom dot
+T4	Markable 164 168	that
+T5	Markable 182 194	2 small dots
+T6	Markable 230 240	each other
+T7	Markable 242 254	the left one
+T8	Markable 268 281	the right one
+T9	Markable 320 333	the black one
+T10	Markable 3 12	which dot
+A1	Generic T10
+R1	Predicative Arg1:T1 Arg2:T2	
+A2	No-Referent T4
+R2	Anaphora Arg1:T6 Arg2:T5	

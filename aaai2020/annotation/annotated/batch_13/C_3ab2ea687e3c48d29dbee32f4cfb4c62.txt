@@ -1,0 +1,4 @@
+0: do you see a small black dot close to a lighter, much larger dot? dark dot is down & to the right
+1: I have four dots in a row that are going from top left to bottom right. They are in the following order. Medium small then a space and then small medium.
+0: pick the top left dot
+1: ok

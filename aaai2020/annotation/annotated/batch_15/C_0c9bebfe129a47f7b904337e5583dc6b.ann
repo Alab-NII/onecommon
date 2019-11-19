@@ -1,0 +1,13 @@
+T1	Markable 10 13	one
+T2	Markable 47 55	high one
+T3	Markable 62 82	a darkest medium dot
+T4	Markable 136 150	the darker one
+T5	Markable 189 200	nearest one
+T6	Markable 178 184	itself
+T7	Markable 204 206	it
+T8	Markable 253 261	that one
+R1	Predicative Arg1:T3 Arg2:T2	
+T9	Markable 87 97	the bottom
+T10	Markable 155 162	the one
+T11	Markable 210 228	the same color dot
+R2	Predicative Arg1:T11 Arg2:T5	

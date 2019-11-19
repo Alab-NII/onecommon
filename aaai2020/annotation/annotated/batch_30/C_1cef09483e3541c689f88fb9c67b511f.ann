@@ -1,0 +1,21 @@
+T1	Markable 86 98	the left one
+T2	Markable 119 132	one large dot
+T3	Markable 148 167	three pairs of dots
+T4	Markable 184 198	the three dots
+T5	Markable 289 304	two medium dots
+T6	Markable 377 384	the one
+T7	Markable 326 333	The one
+T8	Markable 421 423	it
+T9	Markable 487 491	they
+T10	Markable 592 608	another dark dot
+T11	Markable 570 582	the dark dot
+T12	Markable 654 667	the black dot
+T13	Markable 3 9	3 dots
+T14	Markable 20 24	Left
+T15	Markable 35 41	Middle
+T16	Markable 64 69	Right
+R1	Anaphora Arg1:T1 Arg2:T14	
+T17	Markable 136 139	its
+R2	Anaphora Arg1:T17 Arg2:T2	
+T18	Markable 231 235	what
+A1	No-Referent T18

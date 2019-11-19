@@ -1,0 +1,3 @@
+0: I have a large dot darker than the rest
+1: Me too, let's choose it.
+0: Okay that sounds good

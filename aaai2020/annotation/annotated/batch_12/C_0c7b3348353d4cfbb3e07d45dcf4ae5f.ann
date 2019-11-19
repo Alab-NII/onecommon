@@ -1,0 +1,8 @@
+T2	Markable 51 53	it
+T4	Markable 93 103	each other
+T5	Markable 118 133	the smaller one
+T6	Markable 3 18	medium grey dot
+T1	Markable 24 44	a smaller darker one
+T3	Markable 61 65	they
+R1	Anaphora Arg1:T2 Arg2:T6	
+R2	Anaphora Arg1:T4 Arg2:T3	

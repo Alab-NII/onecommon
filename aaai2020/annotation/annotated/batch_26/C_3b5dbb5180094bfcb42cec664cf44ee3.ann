@@ -1,0 +1,12 @@
+T2	Markable 31 41	a triangle
+T3	Markable 47 68	1 tiny light grey dot
+T4	Markable 128 142	tiny black dot
+T5	Markable 81 95	another 2 dots
+T6	Markable 153 165	that cluster
+T7	Markable 174 197	the tiny light grey dot
+T8	Markable 265 279	small grey dot
+T9	Markable 248 252	that
+T10	Markable 3 20	cluster of 3 dots
+R1	Predicative Arg1:T2 Arg2:T10	
+T1	Markable 121 124	top
+R2	Predicative Arg1:T4 Arg2:T1	

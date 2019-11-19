@@ -1,0 +1,4 @@
+0: Can you see two in a vertical line exact same size bottom one slightly darker?
+1: Yes, go for darker one?
+0: Yeah! Good luck
+1: you too :)

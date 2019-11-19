@@ -1,0 +1,5 @@
+1: do you see triangle of three?
+0: yes the left lower is black?
+1: yes! thats it :)
+0: ok at 5 min we'll pick the black one?
+1: yep, that'll work

@@ -1,0 +1,3 @@
+0: I have a very light gray got that is of medium size
+1: Is there a small darker dot down and to the right of it?
+0: Yes let us select the light gray on top

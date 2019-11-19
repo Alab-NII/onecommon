@@ -1,0 +1,7 @@
+0: I see three darker dots. Do you?
+1: I mostly see two, but one of them is also only of two that are the biggest
+0: My two largest dots are diagonal from each other, Are yours?
+1: Yes, with the darker one being to the bottom right of the diagonal, same with you?
+0: Yes, the same!
+1: Okay, should we go with that one then?
+0: I think so

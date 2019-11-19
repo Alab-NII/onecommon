@@ -1,0 +1,13 @@
+T1	Markable 3 37	cluster of 3 large light grey dots
+T2	Markable 79 83	that
+T3	Markable 69 72	two
+T4	Markable 51 63	cluster of 4
+T5	Markable 223 240	a small dark grey
+T6	Markable 143 151	a darker
+T7	Markable 266 279	the first one
+T8	Markable 283 295	your cluster
+R1	Anaphora Arg1:T2 Arg2:T4	
+T9	Markable 114 123	4 cluster
+T10	Markable 166 194	a lighter smaller light grey
+T11	Markable 200 213	bigger darker
+T12	Markable 313 320	darkest

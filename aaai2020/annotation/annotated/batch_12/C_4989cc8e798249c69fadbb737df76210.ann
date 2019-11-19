@@ -1,0 +1,14 @@
+T1	Markable 105 128	a darker grey large dot
+T2	Markable 172 185	your our dots
+T3	Markable 272 274	it
+T4	Markable 287 311	a smaller light grey dot
+T5	Markable 318 320	it
+T6	Markable 357 389	a pair of large medium grey dots
+T8	Markable 475 488	the large dot
+T9	Markable 3 28	two light grey large dots
+A1	Generic T2
+T10	Markable 239 259	any identifying dots
+A2	Generic T10
+A3	Generic T3
+T11	Markable 428 431	One
+T12	Markable 54 57	top

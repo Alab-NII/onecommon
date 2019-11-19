@@ -1,0 +1,6 @@
+T1	Markable 78 92	the bottom one
+T2	Markable 125 127	it
+T3	Markable 15 19	dots
+T4	Markable 47 64	the little dipper
+R1	Predicative Arg1:T4 Arg2:T3	
+T5	Markable 106 115	dark grey

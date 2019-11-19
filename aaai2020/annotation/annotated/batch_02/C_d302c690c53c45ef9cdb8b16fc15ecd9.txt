@@ -1,0 +1,4 @@
+0: largest/lightest one? lower right
+1: i see 2 medium size dots right next to each other
+0: ok... the one on left is slightly higher, slightly lighter?
+1: yes, lets pick that one!

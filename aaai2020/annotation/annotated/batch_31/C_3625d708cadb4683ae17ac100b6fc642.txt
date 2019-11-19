@@ -1,0 +1,4 @@
+0: I have a large black dot with a smaller light gray dot above and to the right of it
+1: i dont. :( do you have to dark grey dots very close together?
+0: Yes - are they in a horizontal line? The one on the right larger than the one on the left?
+1: yes! click the larger one on the right

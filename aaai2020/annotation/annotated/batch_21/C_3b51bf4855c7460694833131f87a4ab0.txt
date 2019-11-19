@@ -1,0 +1,4 @@
+1: I have one dot larger than the rest that is dark gray. There is a smaller black dot far to the right and above it.
+0: Black small dot, immediately to the right and a smidge below is a medium large light gray one. Take the small blackish one.
+1: Is there a larger medium gray dot below and slightly to the left of it?
+0: yes, but take the black one

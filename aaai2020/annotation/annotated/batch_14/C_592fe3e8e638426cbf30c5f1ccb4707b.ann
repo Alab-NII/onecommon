@@ -1,0 +1,13 @@
+T1	Markable 111 131	a large mid-grey dot
+T2	Markable 170 179	these two
+T3	Markable 153 158	a dot
+T4	Markable 197 201	that
+T5	Markable 213 229	a large grey one
+T6	Markable 236 250	the other ones
+T7	Markable 33 38	a box
+T8	Markable 69 89	the top right corner
+T9	Markable 93 100	the box
+R1	Anaphora Arg1:T9 Arg2:T7	
+A1	No-Referent T4
+T10	Markable 256 273	large medium grey
+T11	Markable 280 299	small dark grey one

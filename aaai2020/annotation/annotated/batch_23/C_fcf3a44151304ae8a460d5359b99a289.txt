@@ -1,0 +1,4 @@
+1: I have 1 tiny light grey dot all by itself.
+0: I do not see that dot I have two large grey dots similar size the darker one is lower and left
+1: I have that. Click on the darker one
+0: ok

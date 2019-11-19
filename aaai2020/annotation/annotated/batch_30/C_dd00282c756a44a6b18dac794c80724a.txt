@@ -1,0 +1,3 @@
+1: i have three gray dots in a line, bottom to top they get lighter, and the middle one is a little smaller than the other two
+0: i see that select the middle dot
+1: got it

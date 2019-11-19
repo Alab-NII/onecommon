@@ -1,0 +1,7 @@
+1: Hello. Do you have a large very dark circle at around 3 o'clock?
+0: I have one around 1 o'clock
+1: I do not. Do you have a very dark very small dot towards the bottom around 7 o'clock?
+0: I have one little black dot by itself on left side
+1: Towards the bottom?
+0: Yes
+1: Let's select that one.

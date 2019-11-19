@@ -1,0 +1,17 @@
+T1	Markable 9 22	two gray dots
+T2	Markable 60 70	each other
+T4	Markable 81 98	2 light gray dots
+T5	Markable 124 127	one
+T6	Markable 257 261	them
+T7	Markable 277 281	they
+T8	Markable 339 353	the bottom one
+T9	Markable 301 317	the top gray dot
+T10	Markable 374 385	the top one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 165 168	the
+#1	AnnotatorNotes T3	they
+T11	Markable 189 199	each other
+R2	Anaphora Arg1:T11 Arg2:T3	
+T12	Markable 204 208	mine
+T13	Markable 241 249	any dots
+A1	Generic T13

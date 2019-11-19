@@ -1,0 +1,4 @@
+1: Do you see a large, light dot by itself?
+0: Yeah. The closest dots I see to the large light grey dot are 2 tiny black dots
+1: are they at the 7 o'clockish position below it?
+0: yep!

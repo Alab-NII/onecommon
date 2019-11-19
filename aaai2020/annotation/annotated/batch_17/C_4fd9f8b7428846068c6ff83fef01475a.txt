@@ -1,0 +1,6 @@
+0: my darkest dot is also my largest. you?
+1: Yes is there a darker smaller dot up and to its left? if so click that one
+0: No, it is close to a large medium shade dot.
+1: Hmm no do you see two med shade dots very close together?
+0: yes. i do. near identical size. one lower is a bit darker.
+1: yes! click the lower darker one

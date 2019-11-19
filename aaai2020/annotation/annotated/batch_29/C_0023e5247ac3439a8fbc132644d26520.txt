@@ -1,0 +1,2 @@
+1: Small dark grey dot. To the right of it is a large grey dot, and above that small dot is a large black dot
+0: Yes, I have that too. Let's pick the small dark one.

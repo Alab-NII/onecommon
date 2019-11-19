@@ -1,0 +1,5 @@
+0: medium Black in the middle
+1: What is to the right of it?
+0: A little Grey
+1: I see it
+0: You doing multiple Hits?

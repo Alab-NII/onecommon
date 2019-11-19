@@ -1,0 +1,6 @@
+0: I have two very light and big dots close
+1: hmm is there a med sized dark grey dot below to the right of one of them?
+0: Yes, let us select the topmost big dot
+1: no! i dont have that one!
+0: Okay let us select the dark grey dot to the right
+1: yes thank you!!

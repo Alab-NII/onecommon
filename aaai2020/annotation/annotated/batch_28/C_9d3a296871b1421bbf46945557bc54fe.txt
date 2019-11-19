@@ -1,0 +1,3 @@
+0: large very light grey dot?
+1: 6 dots almost like the face of a dice ? largest dot in group top left is light grey
+0: is the one right below it black? if so click the black one!

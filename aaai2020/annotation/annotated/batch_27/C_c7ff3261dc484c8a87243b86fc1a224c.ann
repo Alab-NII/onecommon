@@ -1,0 +1,19 @@
+T1	Markable 67 74	the one
+T2	Markable 10 19	two black
+T3	Markable 85 87	it
+T4	Markable 95 99	they
+T5	Markable 181 190	the other
+T7	Markable 130 138	only one
+T8	Markable 256 258	it
+T9	Markable 343 365	a small light grey dot
+T11	Markable 381 383	it
+T12	Markable 421 434	the right one
+T13	Markable 580 589	the black
+T14	Markable 558 571	the light one
+T15	Markable 32 42	the bottom
+R1	Anaphora Arg1:T3 Arg2:T15	
+T6	Markable 293 297	mine
+R2	Anaphora Arg1:T11 Arg2:T6	
+T10	Markable 397 415	2 of the same size
+T16	Markable 476 489	the light one
+T17	Markable 505 528	my Right side black one

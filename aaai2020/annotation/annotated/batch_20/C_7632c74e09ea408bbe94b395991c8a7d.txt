@@ -1,0 +1,5 @@
+1: I have a large light gray dot off on its own
+0: DO you have one really dark, black dot?
+1: more medium sized
+0: I see the light dot you are referring to, towards the bottom?
+1: yes, choose it?

@@ -1,0 +1,8 @@
+T1	Markable 97 101	that
+T2	Markable 106 110	they
+T3	Markable 161 165	they
+T4	Markable 3 17	a big grey dot
+T5	Markable 41 45	that
+R1	Anaphora Arg1:T5 Arg2:T4	
+T6	Markable 49 77	a smaller med size black dot
+T7	Markable 182 192	the bottom

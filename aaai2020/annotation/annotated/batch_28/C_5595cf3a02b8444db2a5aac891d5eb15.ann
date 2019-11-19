@@ -1,0 +1,9 @@
+T2	Markable 47 51	they
+T5	Markable 112 129	a bunch of 5 dots
+T6	Markable 254 258	they
+T7	Markable 8 36	a bunch of medium sized dots
+T8	Markable 69 88	the left bottom one
+R1	Anaphora Arg1:T2 Arg2:T7	
+T1	Markable 153 166	left most one
+T3	Markable 179 193	right most one
+T4	Markable 302 315	left dark one

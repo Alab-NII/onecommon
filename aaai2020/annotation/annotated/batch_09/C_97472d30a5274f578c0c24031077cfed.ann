@@ -1,0 +1,11 @@
+T1	Markable 10 27	3 light gray dots
+T3	Markable 36 46	a triangle
+T4	Markable 52 64	the smallest
+T5	Markable 92 103	2 dark dots
+T6	Markable 109 122	the upper one
+T7	Markable 150 163	the lower one
+T8	Markable 173 186	the upper one
+T9	Markable 170 172	it
+T10	Markable 212 225	the lower one
+T11	Markable 248 266	the top larger one
+R1	Predicative Arg1:T3 Arg2:T1	

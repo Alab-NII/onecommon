@@ -1,0 +1,13 @@
+T1	Markable 15 32	a small black dot
+T3	Markable 53 87	a diagonal line of two medium dots
+T4	Markable 156 184	the two same size black dots
+T5	Markable 207 214	the one
+T6	Markable 239 246	the one
+T7	Markable 298 305	the one
+T8	Markable 351 359	your dot
+T9	Markable 338 344	a grey
+T10	Markable 380 383	its
+T11	Markable 92 109	both black medium
+T12	Markable 264 271	The one
+T13	Markable 400 414	the left black
+A1	Generic T1

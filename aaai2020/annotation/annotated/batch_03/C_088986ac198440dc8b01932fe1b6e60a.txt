@@ -1,0 +1,7 @@
+0: Do you see a very large dot standing on its own in an island?
+1: Is the large dot dark grey, with lighter grey dots northeast and southeast of it?
+0: na, do you see an extremely light grey small dot. Nothing else really that light?
+1: yes, I see 1 small light grey dot on my map.
+0: ok I think we are on the same page, is it bottom?
+1: yeah. There is a larger black dot to its far east
+0: yes that is the one

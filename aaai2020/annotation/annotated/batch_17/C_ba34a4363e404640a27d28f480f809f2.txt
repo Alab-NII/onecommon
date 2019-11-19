@@ -1,0 +1,5 @@
+1: i have one very light grey dot, medium sized
+0: Is it lighter than the other. I have one very light tiny dot
+1: lightly lower and to the right of a slightly bigger and slightly darker dot?
+0: Let us select the dot
+1: ok

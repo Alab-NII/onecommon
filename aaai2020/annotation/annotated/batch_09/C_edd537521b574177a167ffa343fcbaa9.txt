@@ -1,0 +1,4 @@
+0: I see one larger dot that us darker than all the others. Do you see it?
+1: Is it kind of far off by itself?
+0: It is farther away, but there is smaller light dot to the left of it.
+1: K I think that one is cut out for me! Click the larger darkest one

@@ -1,0 +1,6 @@
+1: I have a lonely small gray dot toward the 5
+0: i have dots that form like a "spinner" toward the top... the one in the center of the "spinner" is the darkest
+1: Do you have a large light gray dot?
+0: that lonely small one you say, i dont have. they're almost all the same size for me. the smallest/lightest one is toward the top of the "spinner" which is 4 dots, the center one being the darkest, the top one being the smallest/lightest
+1: Shall we try for that darker dot?
+0: ok

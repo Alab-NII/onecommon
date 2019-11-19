@@ -1,0 +1,7 @@
+0: small gray between two larger black ones?
+1: I see a dark grey smaller dot on the left side, around 7 o clock.
+0: I don't see that, do you see mine?
+1: Nope :( What about small grey on the right side? Around 2 oclock-ish.
+0: how many small gray top you have?
+1: Just one small grey.
+0: ok i think we have the same small gray one

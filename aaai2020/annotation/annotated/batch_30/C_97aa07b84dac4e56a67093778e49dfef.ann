@@ -1,0 +1,5 @@
+T1	Markable 23 39	a close triangle
+T2	Markable 3 19	3 dark grey dots
+R1	Predicative Arg1:T1 Arg2:T2	
+T3	Markable 48 67	largest and darkest
+T4	Markable 100 108	that one

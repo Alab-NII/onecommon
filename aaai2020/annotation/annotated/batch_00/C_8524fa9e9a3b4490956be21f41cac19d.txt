@@ -1,0 +1,8 @@
+0: I see one light gray dot in the top right at about 1 oclock that is smaller than all the others
+1: I see two large light grey dots
+0: Are they roughly horizontal?
+1: Yes, with a dark grey on the other side below them.
+0: Is the dark gray below them smaller?
+1: Yes, it is smaller
+0: Ok, mine too. Pick the light gray on the right?
+1: Alright. choosing the large light gray on the right

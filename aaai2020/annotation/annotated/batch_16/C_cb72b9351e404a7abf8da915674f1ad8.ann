@@ -1,0 +1,20 @@
+T1	Markable 9 30	a large dark grey dot
+T2	Markable 38 44	itself
+T3	Markable 55 67	two big dots
+T4	Markable 90 99	the other
+T5	Markable 69 72	one
+T6	Markable 120 141	the very dark one got
+T7	Markable 155 161	itself
+T8	Markable 177 188	a small dot
+T9	Markable 198 200	it
+T10	Markable 248 256	that one
+T11	Markable 261 270	the small
+T12	Markable 280 282	it
+T13	Markable 289 291	it
+R1	Anaphora Arg1:T2 Arg2:T1	
+#1	AnnotatorNotes T6	the very dark one dot
+R2	Anaphora Arg1:T7 Arg2:T6	
+T14	Markable 214 226	any clusters
+T15	Markable 329 350	a smaller lighter one
+T16	Markable 364 367	its
+T17	Markable 390 414	the big dark grey circle

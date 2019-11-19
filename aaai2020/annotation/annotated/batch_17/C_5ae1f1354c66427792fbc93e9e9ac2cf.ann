@@ -1,0 +1,13 @@
+T1	Markable 9 18	four dots
+T2	Markable 93 110	a small black dot
+T3	Markable 81 89	left one
+T4	Markable 112 119	top one
+T5	Markable 134 143	the three
+T6	Markable 174 198	a lighter small grey dot
+T7	Markable 63 79	a bunch of three
+T8	Markable 161 170	low right
+T9	Markable 213 223	those dots
+T10	Markable 235 254	the small black dot
+R1	Predicative Arg1:T2 Arg2:T3	
+R2	Predicative Arg1:T6 Arg2:T8	
+R3	Anaphora Arg1:T5 Arg2:T7	

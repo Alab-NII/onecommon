@@ -1,0 +1,12 @@
+T1	Markable 27 40	a smaller dot
+T2	Markable 48 68	a slightly bent line
+T3	Markable 10 22	2 large dots
+T4	Markable 104 114	the others
+T5	Markable 150 164	the middle one
+T6	Markable 73 88	the middle dots
+T7	Markable 116 128	the smallest
+T8	Markable 175 177	it
+T9	Markable 191 195	that
+T10	Markable 221 236	the largest one
+R1	Anaphora Arg1:T5 Arg2:T6	
+R2	Anaphora Arg1:T8 Arg2:T5	

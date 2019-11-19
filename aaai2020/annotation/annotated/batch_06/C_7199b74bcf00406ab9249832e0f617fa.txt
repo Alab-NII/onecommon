@@ -1,0 +1,4 @@
+1: Hello, I have one small black dot
+0: I have a small black dot with two larger black dots down and to the left. and there is a light gray dot up and to the left of it. Does that sound like the same one?
+1: Yes that sounds similar
+0: We should pick that one

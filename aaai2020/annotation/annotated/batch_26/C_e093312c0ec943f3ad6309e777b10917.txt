@@ -1,0 +1,6 @@
+1: i have two medium size doth with a smaller black dot below them in a line
+0: i see 4 dots on my bottom half. 3 make a line, bottom dot is almost black. theres another small dot slightly larger below and to the left
+0: me too. are the two medium size dots close? one on top is darker, one below is light grey?
+1: yes
+0: pick the lightest dot?
+1: yes

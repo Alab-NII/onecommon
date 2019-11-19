@@ -1,0 +1,28 @@
+T1	Markable 159 163	that
+T2	Markable 95 105	a triangle
+T3	Markable 107 127	the bottom right one
+T4	Markable 168 185	the top right one
+T5	Markable 81 91	three dots
+T6	Markable 216 229	your triangle
+T7	Markable 246 253	The dot
+T8	Markable 318 330	your cluster
+T9	Markable 334 349	a vertical line
+T10	Markable 433 448	a different dot
+T11	Markable 545 565	a larger lighter dot
+T12	Markable 578 597	the larger dark dot
+T13	Markable 476 489	Your triangle
+T14	Markable 651 661	those dots
+T16	Markable 644 647	one
+T17	Markable 681 697	the big dark one
+T18	Markable 10 14	four
+T19	Markable 35 47	Bottom right
+R1	Predicative Arg1:T2 Arg2:T5	
+A1	No-Referent T4
+T20	Markable 298 306	left top
+R2	Predicative Arg1:T9 Arg2:T8	
+T21	Markable 355 368	the top right
+T22	Markable 392 404	the top left
+A2	No-Referent T10
+T23	Markable 494 521	a small medium darkness dot
+T15	Markable 622 626	that
+A3	Generic T16

@@ -1,0 +1,4 @@
+1: Hi do you have a small light gray dot above and to the right of a medium black dot?
+0: no ,,,have two black dots almost horizontal and fairly close
+1: No. Medium dark gray dot just left of a large black dot?
+0: yes, think so

@@ -1,0 +1,5 @@
+0: 5 dots that make a leftie check mark . Gray dot is where the checks corner is
+1: i see it, let's pick the one at the bottom that is the lightest, ok?
+0: Are we sure thats the one?
+1: yes, the leftie check mark. the one at the bottom is big and light gray, correct? let's pick that one
+0: Okay!

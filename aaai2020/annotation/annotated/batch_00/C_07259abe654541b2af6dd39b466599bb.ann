@@ -1,0 +1,18 @@
+T1	Markable 10 37	a very tiny medium gray dot
+T2	Markable 72 89	a larger gray dot
+T3	Markable 43 61	a lighter gray dot
+T4	Markable 131 134	two
+T5	Markable 164 184	any really tiny ones
+T6	Markable 256 264	two dots
+T7	Markable 304 314	each other
+T8	Markable 356 366	each other
+T9	Markable 379 389	the darker
+T10	Markable 393 400	the two
+T11	Markable 116 129	no black dots
+A1	No-Referent T11
+T12	Markable 145 149	rest
+T13	Markable 189 192	two
+A2	Generic T5
+R1	Anaphora Arg1:T7 Arg2:T6	
+T14	Markable 325 346	two medium light grey
+R2	Anaphora Arg1:T8 Arg2:T14	

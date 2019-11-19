@@ -1,0 +1,3 @@
+1: There are 3 tiny dots all the
+0: I only see two tiny dots. One very light and one very dark
+1: Let's pick the light one

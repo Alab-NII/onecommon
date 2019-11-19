@@ -1,0 +1,5 @@
+0: do you have 3 large dots in a triangle shape?
+1: No, I only have two large dots in my circle. They are both dark grey
+0: up and to the right of the top most dot do you have a darker smaller dot?
+1: Yes, should we pick that small dark dot?
+0: yes I think so.

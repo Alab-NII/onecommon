@@ -1,0 +1,8 @@
+T1	Markable 15 27	a group of 4
+T2	Markable 75 79	them
+T3	Markable 81 99	the right most one
+T4	Markable 46 63	A small black dot
+T5	Markable 196 211	the darkest one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T6	Markable 129 132	top
+T7	Markable 147 153	bottom

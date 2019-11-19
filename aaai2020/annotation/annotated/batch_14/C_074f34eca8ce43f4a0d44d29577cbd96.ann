@@ -1,0 +1,15 @@
+T1	Markable 37 55	the lower left one
+T2	Markable 82 95	the other two
+T3	Markable 17 27	a triangle
+T4	Markable 110 132	large medium shade dot
+T5	Markable 163 167	it's
+T8	Markable 197 208	the top one
+T9	Markable 272 294	the bottom right piece
+T6	Markable 332 349	bottom left large
+T7	Markable 351 371	top small light gray
+T10	Markable 373 404	bottom right little darker gray
+T11	Markable 422 425	top
+R1	Anaphora Arg1:T11 Arg2:T7	
+T12	Markable 445 452	the top
+T13	Markable 298 310	the triangle
+T14	Markable 212 224	the triangle

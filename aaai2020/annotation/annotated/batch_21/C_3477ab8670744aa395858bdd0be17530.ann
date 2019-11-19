@@ -1,0 +1,15 @@
+T1	Markable 10 28	only one black dot
+T2	Markable 30 32	It
+T3	Markable 63 65	it
+T4	Markable 79 111	a slightly larger light grey dot
+T5	Markable 187 189	it
+T6	Markable 172 180	anything
+T7	Markable 213 233	the rest of the dots
+T9	Markable 259 272	the black one
+T10	Markable 277 301	All the rest of the dots
+T11	Markable 330 343	the black one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T12	Markable 116 128	My black dot
+A1	No-Referent T6
+R2	Anaphora Arg1:T5 Arg2:T12	
+T8	Markable 237 240	its

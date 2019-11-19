@@ -1,0 +1,3 @@
+1: i see a small tiny black dot. Below and to the right is a also tiny but light grey dot
+0: I don't see that. I do have a large gray dot with a small black dot above and to the right of it
+1: i have that. let's pick the large grey dot.

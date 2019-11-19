@@ -1,0 +1,3 @@
+0: I have a single light grey dot, which happens to be large
+1: I see two large dots, one very dark, one light, right next to each other. The dark is on the left. I also have a single grey dot that is large and fairly alone
+0: Click on the light grey dot next to the large black dot

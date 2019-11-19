@@ -1,0 +1,4 @@
+1: i have two similar sized light grey dots at an angle, the one on top and to the left is a bit darker
+0: I have those. Is the top left one also smaller?
+1: yes, smaller by just a bit
+0: Yup. let's pick that top left one

@@ -1,0 +1,5 @@
+1: i see a cluster of similarly shaded dots on the bottom right of various sizes. they are very light in shade
+0: All of my dots are light gray with one medium gray large towards the top left
+1: i think i see the large medium grey one. what does the closest dot to it look like?
+0: A small light gray down and almost under it about 1/2 inch down
+1: pick the large medium grey one.

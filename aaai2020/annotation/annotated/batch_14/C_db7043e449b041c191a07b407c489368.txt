@@ -1,0 +1,8 @@
+1: I have one very small and light dot with no other small dots near it
+0: About 2 o'clock Light gray
+1: there is a medium gray dot above and to the left of it
+0: I don't see that there is one below
+1: should we try picking the small light dot?
+0: On the left
+1: yes
+0: Okay

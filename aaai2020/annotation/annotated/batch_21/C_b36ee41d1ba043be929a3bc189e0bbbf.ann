@@ -1,0 +1,12 @@
+T1	Markable 10 18	two dots
+T2	Markable 154 171	a small light dot
+T3	Markable 197 203	itself
+T4	Markable 237 240	one
+T5	Markable 333 346	the lower dot
+T7	Markable 69 91	a medium gray mid size
+T8	Markable 141 145	that
+A1	No-Referent T8
+R1	Anaphora Arg1:T3 Arg2:T2	
+T9	Markable 207 214	the two
+T10	Markable 268 277	the other
+T11	Markable 394 398	that

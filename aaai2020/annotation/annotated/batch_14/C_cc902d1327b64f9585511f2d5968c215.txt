@@ -1,0 +1,7 @@
+1: hello, i have a lot of dots
+0: ok that's not helpful we both have 7 dots. do you have one medium/dark grey kinda small dot? with a really light tiny one to it's left?
+1: yes I do
+0: is there a tiny black one above them?
+1: yes
+0: ok let's choose the medium/dark grey dot on the right
+1: ok done

@@ -1,0 +1,10 @@
+0: I have one large black dot only
+1: Yeah my darkest one is almost in the center and its big
+0: does it make a triangular shape. being the top corner, the black one and two smaller dark grey ones on the other corners?
+1: Is the triangle pointing down?
+0: no. up.
+1: are the bottom dots the same color ?
+0: seems like it but looks like the one on the left corner could be slightly darker
+1: I see that
+0: ok lets pick the large black one?
+1: Okay

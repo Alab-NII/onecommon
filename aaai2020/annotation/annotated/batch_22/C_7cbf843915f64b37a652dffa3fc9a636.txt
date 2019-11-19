@@ -1,0 +1,5 @@
+0: 3 dots forming backward C all similar in size
+1: is middle one darkest of the three?
+0: top is lightest as well...
+1: let's choose the middle of the C
+0: okay. i will pick that!

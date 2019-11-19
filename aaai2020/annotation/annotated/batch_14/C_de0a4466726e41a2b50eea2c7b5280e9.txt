@@ -1,0 +1,4 @@
+0: hi
+1: I have three dots in a line with a small one in the middle
+0: light grey, lighter grey, then dark?
+1: Yes, let's pick the middle small one

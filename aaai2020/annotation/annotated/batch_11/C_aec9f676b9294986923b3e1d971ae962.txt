@@ -1,0 +1,4 @@
+1: I see a deformed triangle and a deformed square both leaning to the left
+0: 2 dots very close together?
+1: yeah, both medium sized. one above and slightly to the right is barely darker and barely smaller
+0: Yes! click that top one to the right

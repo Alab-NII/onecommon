@@ -1,0 +1,4 @@
+0: i have a small light grey with a large black under to its left.
+1: Are they about an inch apart?
+0: yes
+1: Let's click the small light grey dot.

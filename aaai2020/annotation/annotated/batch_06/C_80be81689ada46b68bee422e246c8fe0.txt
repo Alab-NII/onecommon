@@ -1,0 +1,3 @@
+0: i have two dots together, both black, one on the left is slightly smaller than the one on the right
+1: Are they almost on the same horizontal line?
+0: yes, pick the smaller one

@@ -1,0 +1,4 @@
+0: Hello. Do you have a lone large gray dot?
+1: Do you see the medium large sized black Dot and to the right of that is another black dot which is a bit larger? Quite far away from each other
+0: Is the one on the right slightly higher than the one on the left?
+1: Yes click that higher one.

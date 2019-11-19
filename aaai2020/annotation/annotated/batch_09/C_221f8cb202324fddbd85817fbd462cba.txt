@@ -1,0 +1,6 @@
+0: I see three dots. They form a triangle. Different sizes. The two bottom ones are black.
+1: Small light on the left
+0: I see a small dot on the left is very light. Is there a bigger dot to the left, a shade darker?
+1: I don't see that left side small all by itself
+0: Should we try that one then? Maybe my view is different.
+1: Yes let's try

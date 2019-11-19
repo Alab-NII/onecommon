@@ -1,0 +1,3 @@
+0: I have a large very light grey dot a bit away from the others
+1: click that one
+0: ok

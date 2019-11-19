@@ -1,0 +1,19 @@
+T2	Markable 32 36	that
+T3	Markable 83 102	one large dark grey
+T4	Markable 58 72	a cluster of 5
+T5	Markable 146 169	the large dark grey one
+T6	Markable 224 226	it
+T7	Markable 179 183	that
+T8	Markable 240 242	it
+T9	Markable 297 318	two other larger ones
+T10	Markable 340 363	the large dark grey one
+T11	Markable 3 18	cluster of dots
+R1	Anaphora Arg1:T2 Arg2:T11	
+T1	Markable 107 122	small dark grey
+T12	Markable 133 137	that
+R2	Anaphora Arg1:T7 Arg2:T5	
+T13	Markable 189 201	a light grey
+R3	Anaphora Arg1:T6 Arg2:T5	
+T14	Markable 261 272	a rectangle
+T15	Markable 278 292	the light grey
+T16	Markable 381 394	the rectangle

@@ -1,0 +1,4 @@
+0: two black dots one is to the right and then to the left of it is a bigger black dot
+1: yes. i think i got it
+0: which one do you want to click
+1: left one

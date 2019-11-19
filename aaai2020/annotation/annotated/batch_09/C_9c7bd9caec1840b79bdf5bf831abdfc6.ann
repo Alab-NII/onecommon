@@ -1,0 +1,13 @@
+T1	Markable 54 67	a smaller one
+T2	Markable 83 85	it
+T3	Markable 33 48	a dark gray one
+T4	Markable 96 107	smaller one
+T5	Markable 130 144	the larger one
+T6	Markable 156 158	it
+T7	Markable 238 249	all of them
+T8	Markable 184 191	The dot
+T10	Markable 329 331	it
+T11	Markable 3 18	The biggest dot
+R1	Anaphora Arg1:T2 Arg2:T11	
+R2	Predicative Arg1:T3 Arg2:T11	
+T12	Markable 253 255	it

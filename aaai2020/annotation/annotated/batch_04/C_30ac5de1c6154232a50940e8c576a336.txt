@@ -1,0 +1,5 @@
+0: do you have dots on the left side look like the little dipper
+1: yes
+0: is the bottom one grey
+1: yes, dark grey
+0: press it

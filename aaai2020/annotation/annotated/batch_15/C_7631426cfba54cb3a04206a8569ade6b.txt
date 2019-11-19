@@ -1,0 +1,4 @@
+0: I see a lonely large black dot
+1: do you have large black with small black to its bottom left
+0: yes the small one is slightly lower on the left
+1: yes, let us select the large black one

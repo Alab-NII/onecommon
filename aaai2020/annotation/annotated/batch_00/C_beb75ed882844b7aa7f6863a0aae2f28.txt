@@ -1,0 +1,5 @@
+1: i've got two gray dots real close left to right, left is darker and smaller, right is bigger and lighter
+0: DO you have 2 medium colored dots close together?
+1: yes those are the ones
+0: select the lighter one on the bottom right?
+1: ok

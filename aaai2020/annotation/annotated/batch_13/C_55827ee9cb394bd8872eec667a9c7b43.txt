@@ -1,0 +1,4 @@
+0: small light grey dot
+1: By itself? I don't see one.
+0: ok line of dots medium grey, light grey and dark grey
+1: Pick the dark gray

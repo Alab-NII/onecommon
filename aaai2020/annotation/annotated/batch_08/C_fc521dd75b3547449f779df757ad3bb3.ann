@@ -1,0 +1,17 @@
+T1	Markable 10 21	a black dot
+T2	Markable 30 56	a gray slightly bigger dot
+T4	Markable 72 106	two very small very dark grey dots
+T5	Markable 143 156	the other one
+T6	Markable 114 117	one
+T8	Markable 232 236	them
+T9	Markable 210 214	they
+T10	Markable 256 278	a larger also dark dot
+T3	Markable 121 124	the
+#1	AnnotatorNotes T3	them
+T7	Markable 220 226	a face
+R1	Anaphora Arg1:T8 Arg2:T9	
+T11	Markable 243 251	the eyes
+R2	Predicative Arg1:T11 Arg2:T9	
+T12	Markable 285 293	the nose
+R3	Predicative Arg1:T12 Arg2:T10	
+T13	Markable 310 318	the nose

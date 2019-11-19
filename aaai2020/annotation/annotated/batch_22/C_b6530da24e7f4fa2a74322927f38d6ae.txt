@@ -1,0 +1,5 @@
+0: Do you have a medium black dot, it has a smaller medium gray dot to its upper right and a same size light one to its lower left?
+1: I got 2 small light gray dot next to one another. I got a medium size black dot with a medium size light gray dot to the left of it
+0: that black dot sounds like the common one...is the light gray dot to its left lower?
+1: yes
+0: ok lets click the black one!

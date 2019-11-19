@@ -1,0 +1,6 @@
+0: I see 3 dark dots. There is a small light gray one in the center of those 3.
+1: i have four dark and three grey ones
+0: There are 3 dark-almost black, a dark gray, a regular gray, and two light grays. Where are yours located?
+1: do you have a big grey circle?
+0: I have 3 bigger ones and one bigger medium-gray spot. But everything else is smaller.
+1: select the big grey

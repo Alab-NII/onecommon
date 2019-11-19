@@ -1,0 +1,12 @@
+T1	Markable 9 26	a larger grey dot
+T3	Markable 66 83	a larger gray dot
+T4	Markable 169 195	a smaller lighter grey dot
+T5	Markable 207 209	it
+T6	Markable 234 238	that
+T7	Markable 271 279	that one
+T8	Markable 303 313	larger one
+T9	Markable 318 332	the larger one
+T10	Markable 85 98	a few of them
+T2	Markable 127 145	My larger grey dot
+R1	Anaphora Arg1:T5 Arg2:T2	
+T11	Markable 284 299	the smaller dot

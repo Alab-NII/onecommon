@@ -1,0 +1,8 @@
+0: I have one large dot that is light gray.
+1: Nope. I have one small dot that is medium grey.
+0: I have that too!
+1: Is there a bigger dot above it and to the right slightly and is dark grey?
+0: yes
+1: Which one do you want to choose?
+0: Let's pick the little one
+1: Okay!

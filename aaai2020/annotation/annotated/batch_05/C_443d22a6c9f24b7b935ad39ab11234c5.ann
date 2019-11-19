@@ -1,0 +1,5 @@
+T1	Markable 43 53	little one
+T3	Markable 3 15	Big dark dot
+T4	Markable 26 41	Lonely grey dot
+R1	Anaphora Arg1:T1 Arg2:T4	
+T2	Markable 67 80	the dark grey

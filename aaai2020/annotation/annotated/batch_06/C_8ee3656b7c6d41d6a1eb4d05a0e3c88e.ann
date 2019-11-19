@@ -1,0 +1,11 @@
+T1	Markable 10 35	one large lonely gray dot
+T2	Markable 190 209	the lonely gray dot
+T4	Markable 221 238	that line of dots
+T5	Markable 269 282	the third dot
+T6	Markable 56 85	three diagonally aligned dots
+T7	Markable 122 127	Black
+T8	Markable 138 148	Light Gray
+T9	Markable 162 176	Small and gray
+A1	No-Referent T2
+T3	Markable 285 310	Smallest and regular gray
+R1	Predicative Arg1:T3 Arg2:T5	

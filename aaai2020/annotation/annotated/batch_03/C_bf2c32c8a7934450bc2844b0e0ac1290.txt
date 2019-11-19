@@ -1,0 +1,6 @@
+1: I have a dark big grey on the line left side
+0: i have large black at 10:00 and one slightly down from center do u have either
+1: yes
+0: which one
+1: 10
+0: lets click it

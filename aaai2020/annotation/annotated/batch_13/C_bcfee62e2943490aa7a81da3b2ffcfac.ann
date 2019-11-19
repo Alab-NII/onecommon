@@ -1,0 +1,16 @@
+T1	Markable 9 26	a small black dot
+T2	Markable 43 63	a same size grey dot
+T3	Markable 84 86	it
+T4	Markable 140 155	almost triangle
+T5	Markable 100 112	a three dots
+T6	Markable 210 217	the one
+T7	Markable 157 164	The one
+T8	Markable 446 454	the gray
+A1	No-Referent T3
+R1	Predicative Arg1:T4 Arg2:T5	
+T9	Markable 252 268	the extreme left
+T10	Markable 307 319	no triangles
+A2	No-Referent T10
+T11	Markable 348 364	a small med gray
+T12	Markable 401 404	its
+T13	Markable 414 429	same size black

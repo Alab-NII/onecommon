@@ -1,0 +1,4 @@
+1: 2 medium sized light grey dots side by side very close
+0: the one to the right is slightly smaller?
+1: Yes, and slightly higher too
+0: yep, lets choose the right one

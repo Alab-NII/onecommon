@@ -1,0 +1,4 @@
+0: i HAVE 3 BLACK DOTS 1 MED AND TWO LARGE DO U HAVE THOSE
+1: I only have two black dots. Are two of them very close together?
+0: yes top one is large one under is med what about yours
+1: Yes! Click the top larger one

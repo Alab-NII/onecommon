@@ -1,0 +1,5 @@
+1: I have a dark grey one at exactly 9 oclock
+0: I have a line of 6 dots going across the circle and one black one by itself at 5 pm.
+1: I selected the black one.
+0: at 5 pm?
+1: Yes!

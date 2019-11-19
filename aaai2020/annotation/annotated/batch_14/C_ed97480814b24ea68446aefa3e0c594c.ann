@@ -1,0 +1,9 @@
+T1	Markable 9 23	a big grey got
+T2	Markable 46 64	all the other dots
+T3	Markable 82 90	that one
+T4	Markable 124 142	the only large dot
+T5	Markable 108 116	this one
+T6	Markable 118 120	it
+T7	Markable 165 173	that dot
+#1	AnnotatorNotes T1	a big grey dot
+R1	Anaphora Arg1:T6 Arg2:T5	

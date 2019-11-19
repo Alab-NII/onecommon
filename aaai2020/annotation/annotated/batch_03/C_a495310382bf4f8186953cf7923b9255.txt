@@ -1,0 +1,4 @@
+1: two grey dots lined up from left to right?
+0: Hello Buddy. A small dark circle above a medium-light gray circle. See it?
+1: yes
+0: Click the small dark circle!

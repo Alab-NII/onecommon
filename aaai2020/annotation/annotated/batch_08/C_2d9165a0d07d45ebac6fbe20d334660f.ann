@@ -1,0 +1,12 @@
+T1	Markable 71 91	two really dark ones
+T3	Markable 164 167	one
+T4	Markable 171 184	the dark ones
+T5	Markable 229 242	the right one
+T7	Markable 282 294	the left one
+T8	Markable 200 203	two
+T9	Markable 12 41	a really dark kinda large one
+T2	Markable 116 123	neither
+R1	Anaphora Arg1:T2 Arg2:T1	
+T10	Markable 218 228	each other
+R2	Anaphora Arg1:T10 Arg2:T8	
+T6	Markable 317 330	that dark dot

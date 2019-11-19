@@ -1,0 +1,6 @@
+T1	Markable 100 116	two smaller dots
+T2	Markable 124 143	the large light one
+T3	Markable 3 28	very large light grey dot
+T4	Markable 33 40	my dots
+T5	Markable 46 60	a lower case t
+R1	Predicative Arg1:T5 Arg2:T4	

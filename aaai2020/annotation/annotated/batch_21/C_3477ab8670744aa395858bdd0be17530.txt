@@ -1,0 +1,5 @@
+0: I have only one black dot. It's on the right?
+1: yes. below it to the right a slightly larger light grey dot?
+0: My black dot is on the right of the circle. I can't see anything below it to the right.
+1: k are the rest of the dots to its left? if so click the black one!
+0: All the rest of the dots are on the left. I'll click the black one.

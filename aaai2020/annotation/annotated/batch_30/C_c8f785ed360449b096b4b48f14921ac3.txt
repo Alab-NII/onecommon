@@ -1,0 +1,3 @@
+0: medium black dot with a small medium grey below to the right
+1: Is there also a grey slightly smaller and northwest of the black?
+0: yes select the medium black one

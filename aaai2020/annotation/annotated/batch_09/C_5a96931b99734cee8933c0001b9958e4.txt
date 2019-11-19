@@ -1,0 +1,8 @@
+0: large dark dot above 5 pm
+1: I don't have that. I have a very large light gray dot, with a medium sized black dot down and to the left of it.
+0: no dont have it do you have a small great dot below 12
+1: I do have a small gray dot, but my circle is different, so it's in a different place. There is a black dot down and to the right of it.
+0: no
+1: My largest dot is a medium gray. Do you have one like that?
+0: yes it is about 10 pm for me it might be 5 pm for you
+1: Why don't we try and do that one.

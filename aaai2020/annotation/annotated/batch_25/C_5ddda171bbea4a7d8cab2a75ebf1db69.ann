@@ -1,0 +1,23 @@
+T1	Markable 41 57	another tiny dot
+T2	Markable 10 30	a very dark tiny dot
+T3	Markable 111 113	it
+T4	Markable 129 135	3 dots
+T5	Markable 146 152	a line
+T6	Markable 319 332	the other two
+T7	Markable 283 294	the top one
+T8	Markable 276 280	that
+T9	Markable 417 425	the pair
+T10	Markable 383 400	a medium gray dot
+T11	Markable 437 448	the top one
+T12	Markable 502 523	the top dark tiny dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Predicative Arg1:T5 Arg2:T4	
+T13	Markable 248 253	yours
+T14	Markable 171 178	biggest
+T15	Markable 182 190	smallest
+T16	Markable 192 199	biggest
+R3	Anaphora Arg1:T16 Arg2:T14	
+T17	Markable 212 220	smallest
+R4	Anaphora Arg1:T17 Arg2:T15	
+T18	Markable 347 352	the 2
+T19	Markable 457 480	a large medium gray dot

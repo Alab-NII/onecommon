@@ -1,0 +1,5 @@
+1: Small back dot. Above it and to the left is a light medium sized dot
+0: not sure, what else is around the small black dot
+1: Do you have a grouping of four which resembles a cup?, The two top ones are horizontally spread further and dark grey, while bottom two are light and closer together horizontally
+0: i dont think i have that, i have a medium black dot on its own, there is a tiny grey dot below it
+1: Click black large dot

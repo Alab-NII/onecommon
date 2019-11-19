@@ -1,0 +1,24 @@
+T1	Markable 15 33	a medium black one
+T3	Markable 60 80	a line of three dots
+T4	Markable 147 161	the middle one
+T5	Markable 110 117	The two
+T6	Markable 189 196	The one
+T7	Markable 278 305	the largest black/right one
+T8	Markable 261 272	two of them
+T10	Markable 310 332	that largest black one
+T11	Markable 374 402	a medium size Very light one
+T12	Markable 440 442	it
+T14	Markable 566 576	each other
+T15	Markable 596 606	the others
+T16	Markable 578 589	The top one
+T17	Markable 643 668	a very small med/grey one
+T19	Markable 715 733	the lower dark one
+R2	Anaphora Arg1:T12 Arg2:T10	
+T9	Markable 519 551	two medium sized, very dark dots
+R3	Anaphora Arg1:T14 Arg2:T9	
+T13	Markable 672 677	their
+T18	Markable 692 696	that
+T2	Markable 471 487	different things
+A1	Generic T2
+T20	Markable 698 702	them
+R1	Predicative Arg1:T20 Arg2:T18	

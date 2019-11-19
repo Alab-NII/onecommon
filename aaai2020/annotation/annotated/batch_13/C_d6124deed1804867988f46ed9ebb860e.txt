@@ -1,0 +1,2 @@
+1: Do you see the group of 4 dots?
+0: Yes, click the black one

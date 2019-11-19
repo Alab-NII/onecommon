@@ -1,0 +1,5 @@
+1: I have two tiny black dots
+0: 2 Tiny black, one tiny gray at 11 oclock edge
+1: is one tiny black dot have a slightly larger, slightly lighter dot below it?
+0: both tiny black dots are same size. one is lower left edge.
+1: lets do with the one on lower left edge

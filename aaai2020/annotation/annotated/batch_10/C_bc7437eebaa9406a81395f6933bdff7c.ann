@@ -1,0 +1,9 @@
+T1	Markable 64 71	the one
+T2	Markable 36 50	the middle one
+T3	Markable 92 107	both other dots
+T4	Markable 14 34	a line of three dots
+T6	Markable 129 140	the top one
+T7	Markable 167 180	the small one
+T8	Markable 216 240	the large light grey one
+T9	Markable 255 274	the small black one
+A1	No-Referent T6

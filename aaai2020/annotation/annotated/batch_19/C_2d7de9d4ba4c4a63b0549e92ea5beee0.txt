@@ -1,0 +1,4 @@
+1: Do you see a small black dot at 9 o clock?
+0: a large dark grey dot with a slighter smaller light grey to the right and above it
+1: Yes I got that
+0: ok select the light grey dot

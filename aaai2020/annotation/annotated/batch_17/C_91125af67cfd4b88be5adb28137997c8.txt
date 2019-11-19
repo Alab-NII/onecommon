@@ -1,0 +1,4 @@
+0: Hi! Do you have a large black dot within your circle?
+1: possibly. does it have a smaller, slightly lighter dot very close below it?
+0: Yep!
+1: click the big one

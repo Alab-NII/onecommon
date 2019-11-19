@@ -1,0 +1,26 @@
+T1	Markable 19 34	a tight cluster
+T2	Markable 9 15	5 dots
+T3	Markable 78 85	the one
+T4	Markable 49 60	the top one
+T5	Markable 92 94	it
+T6	Markable 126 130	that
+T7	Markable 139 160	a large dark gray dot
+T8	Markable 227 229	it
+T9	Markable 166 200	a much smaller very light gray dot
+T10	Markable 307 321	the middle one
+T11	Markable 293 299	a line
+T13	Markable 341 349	the line
+T15	Markable 463 481	the tiny light dot
+T16	Markable 416 437	a large dark gray dot
+T17	Markable 523 542	the small light one
+R1	Predicative Arg1:T1 Arg2:T2	
+T18	Markable 36 37	2
+R2	Anaphora Arg1:T5 Arg2:T4	
+A1	No-Referent T6
+R3	Anaphora Arg1:T8 Arg2:T7	
+T19	Markable 249 253	that
+A2	No-Referent T19
+T20	Markable 272 273	3
+R4	Predicative Arg1:T11 Arg2:T20	
+R5	Anaphora Arg1:T13 Arg2:T20	
+T12	Markable 395 405	2 of those

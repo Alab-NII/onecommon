@@ -1,0 +1,10 @@
+T1	Markable 9 24	a group of four
+T3	Markable 88 107	one large black dot
+T5	Markable 216 230	your black dot
+T6	Markable 167 183	a light grey dot
+T7	Markable 298 302	mine
+T2	Markable 260 293	a mirror image of your check mark
+R1	Anaphora Arg1:T7 Arg2:T2	
+T4	Markable 342 356	the check mark
+T8	Markable 432 455	the lighter grey circle
+T9	Markable 459 473	the check mark

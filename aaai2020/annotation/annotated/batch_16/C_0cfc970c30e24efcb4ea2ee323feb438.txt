@@ -1,0 +1,5 @@
+1: bottom i have large dark dot with a grey one its size to its left
+0: I don't have that. Do you have two gray dots, the left one slightly smaller and lighter, almost horizontal from one another?
+1: yes
+0: lets pick the lighter one on the left
+1: ok

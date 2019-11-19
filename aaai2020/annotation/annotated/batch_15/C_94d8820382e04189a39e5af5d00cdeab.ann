@@ -1,0 +1,11 @@
+T1	Markable 35 54	another large black
+T2	Markable 12 29	a large black one
+T3	Markable 84 86	it
+T4	Markable 237 239	it
+T5	Markable 193 214	a lighter smaller one
+T7	Markable 254 256	it
+T8	Markable 270 274	they
+T9	Markable 298 305	the one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T11	Markable 97 115	a very dark circle
+T6	Markable 173 179	medium

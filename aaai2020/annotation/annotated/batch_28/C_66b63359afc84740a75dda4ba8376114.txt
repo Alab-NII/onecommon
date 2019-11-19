@@ -1,0 +1,4 @@
+0: i see 3 black dots, same size. forming a triangle!!!
+1: I have a triangle of dots, all three same color, dark grey
+0: ok. pick the top middle dot!!!
+1: done

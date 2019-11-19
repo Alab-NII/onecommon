@@ -1,0 +1,17 @@
+T1	Markable 19 45	ONe really large black one
+T2	Markable 50 69	One large black one
+T3	Markable 85 88	one
+T4	Markable 124 127	one
+T5	Markable 165 190	your two black large dots
+T6	Markable 285 302	a darker grey one
+T7	Markable 192 201	the three
+T8	Markable 221 242	a tiny very light one
+T9	Markable 244 268	a medium small light one
+T10	Markable 312 317	those
+T11	Markable 338 356	the tiny light one
+T12	Markable 358 360	it
+T13	Markable 386 390	That
+A1	No-Referent T4
+T14	Markable 152 153	3
+R1	Anaphora Arg1:T7 Arg2:T14	
+R2	Anaphora Arg1:T12 Arg2:T11	

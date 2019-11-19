@@ -1,0 +1,6 @@
+1: medium, sized grey dot between larger lighter gray dots?
+0: Do you have one large gray dot?
+1: no i have several large grey dots. what about one tiny dark dot between three larger dots?
+0: Do you have one small black dot?
+1: i have one small dark grey
+0: Let select that one

@@ -1,0 +1,5 @@
+1: two med sized dots close together on a diagonal line?
+0: top left to bottom right or top right to bottom left? Also, is the dark one below or above? Is the dark one smaller or lighter?
+1: the darker one is below to the left of the top one
+0: OK. The dark one is slightly larger? If so, let's select it.
+1: yes

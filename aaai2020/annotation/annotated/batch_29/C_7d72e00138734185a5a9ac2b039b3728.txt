@@ -1,0 +1,4 @@
+1: i have one black dot. it is smaller but not tiny.
+0: Does it have a large lighter grey dot up and to the right?
+1: yes :) let's choose the black one please
+0: Okay!

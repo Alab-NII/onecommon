@@ -1,0 +1,5 @@
+1: I only have one dark dot on this board all the rest are shades or grey. my dark one is small sized
+0: Ah I have two dark ones and they are both small
+1: Are one of your dark ones near lighter grey dots that are larger?
+0: yes, and actually I have 3 small ones. But only one is next to a large dot.
+1: I think we should go with that small dark dot next to a large one?

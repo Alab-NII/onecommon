@@ -1,0 +1,5 @@
+0: I have a black dot just to the left of a larger dark gray dot.
+1: My black dot is tiny and by itself... I have another black next to a medium grey
+0: Are the black one and medium gray one very close together?
+1: Yes and almost same size
+0: I have that. Let's pick the black one.

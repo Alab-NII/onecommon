@@ -1,0 +1,4 @@
+1: Do you have a large black dot that has a large dark gray dot below it and to the left slightly
+0: I have one isolated small light grey dot that is beneath all the other dots
+0: No I don't have that
+1: I have the small isolated light gray dot also, lets choose yours

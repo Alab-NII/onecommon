@@ -1,0 +1,5 @@
+1: I see two large dots, only ones on the center of screen, one is slight lower left of other, and slightly darker
+0: very tiny black dot?
+1: Never mind, yes I see the tiny black one take that!
+0: wait is there one of almost identical size but med grey up to its right?
+1: you got it! but take the dark one!

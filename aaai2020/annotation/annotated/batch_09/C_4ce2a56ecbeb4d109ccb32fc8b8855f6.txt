@@ -1,0 +1,7 @@
+0: I see many dots
+1: do you have three very close... the smallest is lightest and to the left of the largest/darkest, with the medium one below them both and to the slight left of the smallest?
+0: the smallest is lightest the left of the largest darkest one
+1: ok sounds the same... is there an even darker one above them both?
+0: yes
+1: ok let's choose the smallest lightest one ?
+0: sounds good

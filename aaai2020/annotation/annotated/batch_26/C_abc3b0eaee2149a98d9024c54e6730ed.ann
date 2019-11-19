@@ -1,0 +1,15 @@
+T1	Markable 10 20	only 1 dot
+T2	Markable 65 76	a black dot
+T3	Markable 97 99	it
+T4	Markable 41 43	It
+T5	Markable 119 138	any light grey ones
+T7	Markable 200 218	two med sized ones
+T8	Markable 184 194	a triangle
+T9	Markable 220 227	the one
+T10	Markable 234 236	it
+T11	Markable 284 288	that
+R1	Anaphora Arg1:T4 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+A1	No-Referent T5
+T12	Markable 152 172	a large med grey one
+T6	Markable 296 314	the large med grey

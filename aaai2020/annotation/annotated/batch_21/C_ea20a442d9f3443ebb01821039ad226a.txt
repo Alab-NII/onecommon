@@ -1,0 +1,6 @@
+1: I see two almost black dots close to each other, the one on the left is bigger than the one on the right
+0: towards the top?
+1: towards my top yes.
+0: same...
+1: ok choose the bigger one?
+0: ok

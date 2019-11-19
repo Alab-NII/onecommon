@@ -1,0 +1,4 @@
+0: Two dots vertically aligned. Top is bigger and blacker, the bottom is smaller and lighter.
+1: Do you have a tiny little black dot with one that's a little lighter but the same size to the right?
+0: It isn't tiny. But I do see something similar. It is a bit far to the bottom right.
+1: I think we should select the one you said first. The top one

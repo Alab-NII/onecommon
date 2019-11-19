@@ -1,0 +1,4 @@
+0: two large black dots 1 slightly lower and left
+1: Is the lower one slightly smaller?
+0: yes
+1: ok. Let's pick the lower one on the left

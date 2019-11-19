@@ -1,0 +1,9 @@
+1: I see two gray dots approximately the same size close to each other
+0: i have 2 light gray dots to the right top line... one is below and slightly smaller
+1: are the kind of diagonal to each other?
+0: mine are super close...
+1: are there any dots around them?
+0: no and yes they are diagonal
+1: Is the top gray dot slightly larger than the bottom one?
+0: yes lets choose the top one
+1: agreed

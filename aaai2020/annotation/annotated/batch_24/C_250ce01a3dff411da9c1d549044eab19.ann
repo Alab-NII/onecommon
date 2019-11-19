@@ -1,0 +1,9 @@
+T1	Markable 65 78	the right one
+T2	Markable 18 37	2 medium sized dots
+T3	Markable 117 129	the left one
+T4	Markable 184 196	the left one
+T5	Markable 236 248	the left one
+T6	Markable 332 346	the darker one
+T7	Markable 384 398	the darker one
+T8	Markable 52 63	one another
+R1	Anaphora Arg1:T8 Arg2:T2	

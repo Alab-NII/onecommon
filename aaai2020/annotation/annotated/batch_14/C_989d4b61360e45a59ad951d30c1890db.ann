@@ -1,0 +1,10 @@
+T1	Markable 56 68	one big grey
+T2	Markable 37 51	one small grey
+T3	Markable 74 76	it
+T4	Markable 86 88	it
+T5	Markable 90 94	Mine
+T6	Markable 149 163	the darker one
+T7	Markable 179 194	the bigger grey
+T8	Markable 3 11	one dark
+R1	Anaphora Arg1:T3 Arg2:T8	
+T9	Markable 122 134	the grouping

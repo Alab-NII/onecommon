@@ -1,0 +1,16 @@
+T1	Markable 9 28	two very light dots
+T2	Markable 98 102	that
+T3	Markable 117 127	three dots
+T4	Markable 129 133	They
+T5	Markable 139 149	a triangle
+T6	Markable 231 239	that one
+T7	Markable 49 53	Left
+A1	No-Referent T2
+R1	Anaphora Arg1:T4 Arg2:T3	
+R2	Predicative Arg1:T5 Arg2:T4	
+T8	Markable 151 155	Left
+T9	Markable 160 165	right
+T10	Markable 187 191	left
+R3	Anaphora Arg1:T10 Arg2:T8	
+T11	Markable 203 209	Middle
+T12	Markable 258 268	the middle

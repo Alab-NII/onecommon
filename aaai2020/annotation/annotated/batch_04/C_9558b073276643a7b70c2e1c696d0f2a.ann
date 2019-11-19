@@ -1,0 +1,12 @@
+T1	Markable 15 25	1 dark dot
+T2	Markable 26 28	it
+T3	Markable 66 68	it
+T4	Markable 79 89	1 dark dot
+T5	Markable 157 159	it
+T6	Markable 221 223	it
+T7	None 3 4	1
+#1	AnnotatorNotes T7	I
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+T8	Markable 113 129	one med dark dot
+T9	Markable 163 165	it

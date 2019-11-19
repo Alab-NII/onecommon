@@ -1,0 +1,8 @@
+T1	Markable 71 95	the majority of the dots
+T2	Markable 9 41	one very large and very dark dot
+T3	Markable 196 212	two smaller ones
+T4	Markable 193 195	it
+T5	Markable 282 297	the darkest one
+T6	Markable 112 138	a very large and dark spot
+T7	Markable 173 189	the closest dots
+R1	Predicative Arg1:T3 Arg2:T7	

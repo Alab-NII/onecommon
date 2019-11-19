@@ -1,0 +1,5 @@
+T2	Markable 90 94	them
+T3	Markable 9 31	a cluster of four dots
+T4	Markable 37 76	smallest light to medium color grey dot
+T5	Markable 102 114	smallest one
+R1	Anaphora Arg1:T2 Arg2:T3	

@@ -1,0 +1,4 @@
+1: Two dots are like the earth and the moon
+0: Large light dot, above and to the right is a small darker dot
+1: Yes, let us select the small darker
+0: Ok, but honestly your clue was worthless

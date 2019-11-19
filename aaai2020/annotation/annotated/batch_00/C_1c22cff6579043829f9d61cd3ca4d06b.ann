@@ -1,0 +1,9 @@
+T1	Markable 10 36	the lonely grey medium dot
+T2	Markable 111 124	a lighter one
+T3	Markable 143 145	it
+T4	Markable 86 89	one
+T6	Markable 178 207	a medium dark grey lonely one
+T8	Markable 282 296	the darker one
+T9	Markable 63 69	2 dots
+R1	Anaphora Arg1:T3 Arg2:T4	
+T5	Markable 156 163	those 2

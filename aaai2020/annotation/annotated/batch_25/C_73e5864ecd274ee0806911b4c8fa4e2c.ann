@@ -1,0 +1,18 @@
+T1	Markable 14 30	a large dark dot
+T2	Markable 36 46	three dots
+T3	Markable 54 56	it
+T4	Markable 112 114	it
+T5	Markable 83 105	a small light gray dot
+T6	Markable 132 149	a small black dot
+T7	Markable 170 188	the large dark dot
+T8	Markable 219 240	a smaller lighter dot
+T9	Markable 258 279	a smaller lighter dot
+T10	Markable 310 321	the big dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+T11	Markable 60 77	a small black dot
+R2	Anaphora Arg1:T4 Arg2:T11	
+A1	No-Referent T6
+T12	Markable 244 247	its
+R3	Anaphora Arg1:T12 Arg2:T7	
+T13	Markable 283 286	its
+R4	Anaphora Arg1:T13 Arg2:T7	

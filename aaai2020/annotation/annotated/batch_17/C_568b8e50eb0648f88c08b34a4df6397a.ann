@@ -1,0 +1,7 @@
+T1	Markable 42 71	a lighter tiny bit bigger one
+T3	Markable 104 123	an almost black one
+T4	Markable 30 40	each other
+T5	Markable 145 156	a third one
+T6	Markable 223 231	left one
+T7	Markable 14 20	a pair
+R1	Anaphora Arg1:T4 Arg2:T7	

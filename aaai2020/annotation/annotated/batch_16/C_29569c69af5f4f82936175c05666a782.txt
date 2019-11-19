@@ -1,0 +1,3 @@
+0: Do you see a tiny black dot to the right of a big black dot?
+1: Yes, should we picked the bigger black dot?
+0: Sounds great to me :)

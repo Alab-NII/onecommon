@@ -1,0 +1,4 @@
+0: lightest dot, medium size, kind of on it's own center right
+1: Is there a black one down and to the left?
+0: yes, same size... just over an inch or so away. choose that black one?
+1: Ok

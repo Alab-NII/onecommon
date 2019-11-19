@@ -1,0 +1,8 @@
+T1	Markable 12 35	a large medium grey dot
+T2	Markable 59 74	the largest one
+T3	Markable 56 58	it
+T4	Markable 108 120	a light grey
+T5	Markable 125 147	a really dark grey dot
+T6	Markable 101 103	it
+T7	Markable 169 190	that really large dot
+R1	Predicative Arg1:T2 Arg2:T3	

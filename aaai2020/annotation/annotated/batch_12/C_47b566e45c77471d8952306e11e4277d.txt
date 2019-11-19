@@ -1,0 +1,4 @@
+1: black dot with a small dark grey dot under it
+0: Hello, I see that I think...is the smaller one south but also a bit to the left?
+1: Yes, choose the large black one?
+0: Great, yes lets go for it

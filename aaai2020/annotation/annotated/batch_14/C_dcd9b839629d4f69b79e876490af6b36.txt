@@ -1,0 +1,12 @@
+1: Do you see a large black dot by itself at the very top?
+0: All 7 of my dots are all clustered together
+0: no dots by itself
+1: ok What about a large light dot touching the circle at the very bottom to the left?
+0: We have different views of the same map. What is at your bottom might be at my top. What is touching your edge might be in center of my screen
+1: ok
+0: Do you have tiny black dot?
+1: No. I only have a tiny light gray dot
+0: Do you have 3 medium black dots close to each other?
+1: Yes
+0: click the right-most one
+1: Ok

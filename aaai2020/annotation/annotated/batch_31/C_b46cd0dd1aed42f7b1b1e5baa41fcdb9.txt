@@ -1,0 +1,5 @@
+1: 1 medium sized much lighter than the rest?
+0: I see 3 horizontal dots. one in the middle is very tiny dark gray
+1: maybe is the one on the left much bigger?
+0: yes. and darker
+1: yes, pick that one

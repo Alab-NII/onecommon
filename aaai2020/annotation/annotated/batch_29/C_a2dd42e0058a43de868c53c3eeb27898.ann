@@ -1,0 +1,9 @@
+T1	Markable 12 28	a light grey dot
+T2	Markable 78 80	it
+T3	Markable 96 100	that
+T4	Markable 174 187	the lower one
+T5	Markable 51 67	a med grey color
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T3
+T6	Markable 109 131	a same color dot close
+T7	Markable 132 141	the lower

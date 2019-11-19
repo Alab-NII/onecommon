@@ -1,0 +1,2 @@
+1: I have two dots near the bottom. The one is a pretty large light grey dot, while the other one is below it and to the right and is slightly darker and smaller
+0: Choose the lighter one

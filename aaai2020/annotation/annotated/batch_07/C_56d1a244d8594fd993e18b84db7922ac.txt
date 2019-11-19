@@ -1,0 +1,6 @@
+1: hello which dot would you like to try for?
+0: Do you see a really dark medium sized dot?
+1: yes
+0: Is it below three dots that are similar in size to each other but different shades?
+1: yes exactly
+0: K let's pick the darkest one to the bottom

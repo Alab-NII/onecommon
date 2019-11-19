@@ -1,0 +1,6 @@
+1: i see a very large dark gray dot very close to smaller darker dot
+0: Yes! I have that one too. Mine are almost in the center
+1: is there a dark black and smaller dot to the left
+0: Yes! And above and to the right is another large dark dot?
+1: yes, lets pick the largest dot to the right of the black dot
+0: Okay!

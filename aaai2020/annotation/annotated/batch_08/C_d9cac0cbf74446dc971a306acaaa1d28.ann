@@ -1,0 +1,14 @@
+T1	Markable 10 28	a larger black dot
+T2	Markable 71 73	it
+T3	Markable 90 94	that
+T4	Markable 103 113	three dots
+T5	Markable 115 119	They
+T6	Markable 125 146	a right diagonal line
+T7	Markable 194 208	the center one
+T8	Markable 253 261	that one
+T9	Markable 34 58	a very small lighter dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T3
+R2	Anaphora Arg1:T5 Arg2:T4	
+R3	Predicative Arg1:T6 Arg2:T5	
+T10	Markable 225 230	the 3

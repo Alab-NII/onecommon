@@ -1,0 +1,4 @@
+0: I see a large gray dot with a medium sized gray dot slightly above to the right of it. The larger one might be a little bit darker, but not much.
+1: I have three dots of the same size that form a triangle. The top dot in the triangle is medium grey.
+0: I think I see the dots you are referring to. Which one would you like to click?
+1: Let's try the top, lighter colored dot.

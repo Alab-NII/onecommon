@@ -1,0 +1,18 @@
+T1	Markable 121 133	smallest one
+T2	Markable 71 82	largest one
+T4	Markable 9 26	a group of 3 dots
+T5	Markable 152 157	those
+T6	Markable 97 107	medium one
+T7	Markable 188 218	a group of the different sized
+T8	Markable 257 269	a group of 3
+T9	Markable 360 371	your others
+T10	Markable 383 392	the group
+T11	Markable 441 450	the group
+T12	Markable 426 437	the largest
+T13	Markable 28 31	all
+R1	Anaphora Arg1:T13 Arg2:T4	
+T14	Markable 173 177	both
+R2	Anaphora Arg1:T14 Arg2:T5	
+T16	Markable 235 244	one loner
+T17	Markable 303 317	the group of 3
+A1	No-Referent T9

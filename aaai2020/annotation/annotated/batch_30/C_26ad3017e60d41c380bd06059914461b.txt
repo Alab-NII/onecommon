@@ -1,0 +1,2 @@
+0: i see a cluster of 4 dots forming a triangle sorta. top of the triangle is larger grey dot
+1: yes, i have that, pick the larger grey dot

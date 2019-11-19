@@ -1,0 +1,5 @@
+0: 4 dots forming upside down trapezoid. bottom two dots are tiny
+1: i have three grouped, two lighter one darker
+0: are the two lighter one darker tiny? right dot is like darker than the left?
+1: yes, i see that. choose the darker one?
+0: ok

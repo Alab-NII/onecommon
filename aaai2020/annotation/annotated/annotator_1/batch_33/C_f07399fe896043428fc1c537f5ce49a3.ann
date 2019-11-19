@@ -1,0 +1,9 @@
+T1	Markable 35 45	a triangle
+T2	Markable 9 26	a large black one
+T3	Markable 96 98	it
+T4	Markable 136 145	the three
+T6	Markable 166 168	it
+T7	Markable 170 189	the large black one
+T8	Markable 51 58	other 2
+T9	Markable 108 117	black one
+R1	Anaphora Arg1:T7 Arg2:T6	

@@ -1,0 +1,3 @@
+0: do you have a cluster of three dark dots
+1: Yes, let's choose the bigger black one
+0: okay

@@ -1,0 +1,6 @@
+T2	Markable 14 46	a cluster of 3 medium sized dots
+T3	Markable 78 82	that
+T4	Markable 99 113	the lowest one
+T5	Markable 48 54	2 dark
+T6	Markable 56 65	one light
+R1	Anaphora Arg1:T3 Arg2:T2	

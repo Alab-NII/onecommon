@@ -1,0 +1,3 @@
+1: A very black smaller dot close to a light bigger one
+0: yes the dark dot is on the left of the big light grey dot.
+1: Let us select the dark one

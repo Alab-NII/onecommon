@@ -1,0 +1,5 @@
+1: tiny dark dot all by itself?
+0: single larger light grey dot
+1: all by itself as well?
+0: yes
+1: select it then!

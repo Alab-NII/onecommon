@@ -1,0 +1,24 @@
+T1	Markable 15 21	3 dots
+T2	Markable 72 78	4 dots
+T3	Markable 99 102	one
+T4	Markable 133 138	yours
+T5	Markable 150 165	a big black dot
+T6	Markable 181 193	the triangle
+T7	Markable 255 271	the top most dot
+T8	Markable 243 254	my triangle
+T9	Markable 355 366	the top dot
+T11	Markable 302 322	the bottom right dot
+T12	Markable 382 384	it
+T13	Markable 473 475	it
+T14	Markable 422 435	the black dot
+T15	Markable 550 565	the top big dot
+T16	Markable 533 543	the 3 dots
+T17	Markable 486 497	the top dot
+T18	Markable 501 514	your triangle
+T20	Markable 40 56	a triangle shape
+R1	Predicative Arg1:T20 Arg2:T1	
+T21	Markable 198 209	my triangle
+R2	Anaphora Arg1:T16 Arg2:T18	
+R3	Anaphora Arg1:T15 Arg2:T17	
+R4	Anaphora Arg1:T13 Arg2:T14	
+A1	No-Referent T14

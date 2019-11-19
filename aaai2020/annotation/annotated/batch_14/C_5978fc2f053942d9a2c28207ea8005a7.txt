@@ -1,0 +1,5 @@
+0: Hi! Do you see a square of dots in which the bottom left one is darkest and largest of the 4?
+1: Yes with a LARGE lighter on our. Top
+0: Bottom left is darkest and largest, top left is just a bit smaller and a bit lighter, top and bottom right are the same size and shade
+1: Only LARGE blacker one on the screen
+0: Go for it!

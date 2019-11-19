@@ -1,0 +1,4 @@
+1: Big dark dot
+0: Yes
+1: Lonely grey dot, little one
+0: I pressed the dark grey

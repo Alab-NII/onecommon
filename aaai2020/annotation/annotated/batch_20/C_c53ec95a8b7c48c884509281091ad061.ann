@@ -1,0 +1,10 @@
+T1	Markable 141 166	the smaller dark grey dot
+T2	Markable 188 201	the black one
+T3	Markable 215 228	the black one
+T4	Markable 3 9	3 dots
+T5	Markable 18 28	a triangle
+R1	Predicative Arg1:T5 Arg2:T4	
+T6	Markable 29 36	top dot
+T7	Markable 58 76	a larger black dot
+T8	Markable 81 98	smaller dark gray
+R2	Anaphora Arg1:T3 Arg2:T2	

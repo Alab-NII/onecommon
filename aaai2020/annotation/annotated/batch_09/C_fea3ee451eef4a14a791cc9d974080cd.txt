@@ -1,0 +1,5 @@
+0: two large ones almost vertical, bottom one is a hair lighter
+1: Do you see a tight grouping of three, two grey and one small black?
+0: yep thats them!
+1: Take the small black
+0: got it!

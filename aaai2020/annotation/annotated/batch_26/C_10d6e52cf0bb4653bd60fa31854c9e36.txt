@@ -1,0 +1,6 @@
+0: I see a big dark dot
+1: two light dots close to each other on right side of circle, small lighter one below and to slight right
+0: I don't see that.
+1: and below that dot is there small dot to the left
+0: I see a small dot to the right of two bigger light dots.
+1: lets select big dark dot as you mentioned earlier.

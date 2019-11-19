@@ -1,0 +1,4 @@
+1: Do you see a dark dot that is left of a light dot of similar size?
+0: big fat Black on the right
+1: okay
+0: looks good

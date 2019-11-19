@@ -1,0 +1,4 @@
+1: I have one dark large grey dot by itself
+0: To confirm, is there a triangle of lighter dots below it and to the right?
+1: yes
+0: Okay let's pick the dot you mentioned earlier

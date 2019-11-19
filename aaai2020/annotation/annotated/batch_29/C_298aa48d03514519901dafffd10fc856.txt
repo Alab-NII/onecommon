@@ -1,0 +1,3 @@
+0: i have a medium black with a smaller grey to its upper left
+1: Me too. There's a medium light gray to its lower right. Do you want to choose the black dot?
+0: yes

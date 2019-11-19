@@ -1,0 +1,4 @@
+1: I see 4 grey dots and 3 black dots
+0: Do u have a large black with smaller black below on the right
+1: yes
+0: Pick larger

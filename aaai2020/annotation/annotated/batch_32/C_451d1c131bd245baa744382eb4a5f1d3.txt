@@ -1,0 +1,4 @@
+0: large dark dot, and to the left below is a medium sized grey dot
+1: i don't see that -- i have two medium dots, aligned horizontally, the left very light and the right very dark?
+0: yeah i see! go for the dark dot!
+1: got it

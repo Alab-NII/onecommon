@@ -1,0 +1,7 @@
+0: do you see a group of dots containing one very small black dot?
+1: Large gray dot near the bottom slightly smaller gray to it's right small gray above both
+0: i have a large grey dot toward the upper right part of my circle with nothing around it
+1: Forget my last statement. I see your black dot click it
+0: do you see three lighter dots around that black dot?
+1: Yes
+0: ok i will choose that small black dot.

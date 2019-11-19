@@ -1,0 +1,17 @@
+T1	Markable 9 15	3 dots
+T2	Markable 80 92	a bigger dot
+T3	Markable 119 133	the middle one
+T5	Markable 156 167	the darkest
+T7	Markable 319 321	it
+T8	Markable 359 363	that
+T9	Markable 335 348	two dark dots
+T10	Markable 24 33	a L shape
+R1	Predicative Arg1:T10 Arg2:T1	
+T11	Markable 35 42	the top
+T12	Markable 47 56	left side
+T4	Markable 178 195	the middle circle
+T13	Markable 239 241	it
+T6	Markable 260 265	the 3
+T14	Markable 286 292	this L
+T15	Markable 372 377	the L
+T16	Markable 393 395	it

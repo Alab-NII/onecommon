@@ -1,0 +1,4 @@
+1: how many dark dots do you have ?
+0: i see two really light grey dots near each other, the one on the left is lower and larger than the one on the right
+1: i see that
+0: lets pick the larger one. i have 3 light grey, 1 medium and 3 dark grey btw.

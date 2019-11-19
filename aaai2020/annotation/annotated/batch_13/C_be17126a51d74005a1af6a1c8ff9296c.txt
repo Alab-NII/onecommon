@@ -1,0 +1,7 @@
+0: I have a dark medium sized dot touching the line at the bottom of the circle on the left.
+1: do you have two medium gray dots near each other that are close to the same size?
+0: Are the above and below each other?
+1: yes. and to the right of the one on the bottom is a darker gray and bigger dot
+0: Yes I do have that. Which dot should we choose?
+1: the bottom lighter gray one to the left of the black one I just described
+0: Ok sounds good.

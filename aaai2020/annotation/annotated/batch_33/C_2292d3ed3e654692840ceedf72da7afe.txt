@@ -1,0 +1,5 @@
+1: two dots, one medium and grey, with tiny black dot to its right
+0: Two larger dots at the top. One is slightly lower and to the right and is darker
+1: i don't have yours, do you have what i said?
+0: Yes. Chose your smaller dot, is that ok?
+1: yup

@@ -1,0 +1,4 @@
+1: I have a med sized, medium grey dot alone by itself
+0: I have a large grey dot that is pretty much at center with a large grey dot just south east of it
+1: I have large grey dot, then just down and to the right of it is the same sized, lighter grey dot
+0: Yeah. Let's choose the large darker grey dot

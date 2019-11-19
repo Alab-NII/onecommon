@@ -1,0 +1,3 @@
+1: I have a large light gray dot with a same size but darker dot above and to the right of it
+0: Yes I see these twin sized dots, are you thinking about the lighter colored one?
+1: yes, let's pick the lighter one

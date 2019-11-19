@@ -1,0 +1,6 @@
+1: do you see a black dot just below a light dot
+0: I have 2 dots on top of each other. The lower one is darker. TOp one is lighter. Let's choose the black dot below
+1: ok
+0: top one if smaller right?
+1: yes
+0: go for black dot

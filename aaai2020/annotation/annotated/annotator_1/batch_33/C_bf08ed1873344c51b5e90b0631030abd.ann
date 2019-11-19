@@ -1,0 +1,6 @@
+T1	Markable 10 34	a small-medium black dot
+T2	Markable 40 70	an even smaller light grey dot
+T3	Markable 94 98	They
+T4	Markable 132 144	the down one
+T5	Markable 74 77	its
+R1	Anaphora Arg1:T5 Arg2:T1	

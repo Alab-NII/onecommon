@@ -1,0 +1,25 @@
+T1	Markable 3 19	most of the dots
+T2	Markable 45 59	one large gray
+T3	Markable 108 119	the largest
+T4	Markable 132 143	the darkest
+T5	Markable 124 126	it
+T6	Markable 238 294	a similar size (but smaller) similar color (but lighter)
+T8	Markable 318 326	that dot
+T10	Markable 416 431	a tiny dark dot
+T11	Markable 462 482	a larger lighter dot
+T12	Markable 438 451	that tiny dot
+T13	Markable 569 581	the tiny one
+T14	Markable 541 559	a lighter gray dot
+T15	Markable 607 609	it
+T16	Markable 625 627	it
+T17	None 42 44	an
+#1	AnnotatorNotes T17	and
+R1	Anaphora Arg1:T5 Arg2:T3	
+R2	Predicative Arg1:T4 Arg2:T5	
+T18	Markable 148 150	it
+T7	Markable 331 335	that
+T9	Markable 484 494	the larger
+R3	Anaphora Arg1:T9 Arg2:T11	
+R4	Anaphora Arg1:T15 Arg2:T13	
+R5	Anaphora Arg1:T16 Arg2:T13	
+T19	Markable 641 653	the tiny guy

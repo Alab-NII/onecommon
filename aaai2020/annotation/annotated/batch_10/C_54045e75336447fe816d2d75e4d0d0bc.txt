@@ -1,0 +1,5 @@
+1: Hi! Do you see a triangle of dots?
+0: Yes of a medium gray, and two light gray?
+1: Yes, medium grey on top and two light grey on bottom.
+0: Yep, should we select the medium gray on the top?
+1: Sounds like a match to me. Selecting now.

@@ -1,0 +1,4 @@
+1: cluster of 3 dots with space in between. 1 is light grey, other 2 are dark
+0: I have a medium sized, medium grey dot, just diagonal to the right and down is the same sized but darker spot
+1: I have that. pick the darker spot (down into the right)
+0: trying, having issue and not letting me, give me a sec

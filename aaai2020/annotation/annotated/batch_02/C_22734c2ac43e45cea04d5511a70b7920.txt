@@ -1,0 +1,5 @@
+1: i see a medium grey dot all by itself at the top
+0: i have a cluster of three. 2 are black. and one to the right of the lower black one is med/grey. they're all med/large
+1: is there another cluster of three to the right of your cluster
+0: yes, that second cluster of three are in a line. lightest/largest is on the left of the line, going slightly up and to the right getting smaller/dark
+1: ok pick that lightest largest one in the second cluster

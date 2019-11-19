@@ -1,0 +1,7 @@
+0: I have 4 larger dots all in various shades, only 1 is from from the cluster
+1: i have a cluster of lighter shaded dots (4) and then three darker dots around the perimeter
+0: in the cluster do they seem to go in the order of, medium size and shade, larger lighter shade, medium slightly darker shade. going at a slant
+1: slanting down from left to right...?
+0: yes
+1: yes. lets click the highest on the left?
+0: ok

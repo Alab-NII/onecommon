@@ -1,0 +1,4 @@
+1: I see a dark gray dot in the bottom almost center
+0: half of my circle is empty, i see 4 dots that make up a square, 3 of them are the same size, with one smaller, the smaller one and the one above and to the right are medium grey, the other two are light grey
+1: yep I see the same formation, lets choose the dark small one at the bottom of the square
+0: ok

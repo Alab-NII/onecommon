@@ -1,0 +1,7 @@
+T1	Markable 30 48	2 large black dots
+T3	Markable 57 68	one of them
+T4	Markable 79 94	small black dot
+T5	Markable 101 103	it
+T6	Markable 135 154	the large black one
+T7	Markable 3 18	large black dot
+R1	Anaphora Arg1:T5 Arg2:T3	

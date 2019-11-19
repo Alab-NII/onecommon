@@ -1,0 +1,5 @@
+1: hello which dot would you like to try for?
+0: I have two on my left portion,three bottom rightish, and two semi mid and up
+1: do you have 3 that look like a triangle?
+0: Yes, they are all grey two which are darker and one that is very light, the largest being the lightest, if yours is too let's pick largest lightest
+1: yes that sounds correct, lets choose the lightest

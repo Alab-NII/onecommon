@@ -1,0 +1,16 @@
+T1	Markable 18 24	a line
+T2	Markable 66 72	a line
+T3	Markable 159 175	a small dark one
+T4	Markable 141 157	a light grey one
+T5	Markable 124 140	the bottom three
+T6	Markable 267 293	a light grey mid sized dot
+T7	Markable 298 319	a dark grey small dot
+T8	Markable 337 356	the dark grey small
+T9	Markable 3 7	Mine
+R1	Predicative Arg1:T1 Arg2:T9	
+T10	Markable 56 59	min
+#1	AnnotatorNotes T10	mine
+R2	Predicative Arg1:T2 Arg2:T10	
+A1	All-Referents T9
+T11	Markable 181 214	a slightly larger medium grey dot
+T12	Markable 242 265	a medium grey large dot

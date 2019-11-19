@@ -1,0 +1,4 @@
+1: Do you see one tiny dot darker than the rest?
+0: i only have 1 small black dot do u have a small black dot
+1: Yes...let's choose it.
+0: ok

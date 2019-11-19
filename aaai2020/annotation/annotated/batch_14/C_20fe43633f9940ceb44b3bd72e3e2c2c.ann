@@ -1,0 +1,8 @@
+T1	Markable 27 41	the bottom one
+T3	Markable 55 58	one
+T4	Markable 10 23	two lone dots
+T5	Markable 90 101	the smaller
+T6	Markable 116 127	the smaller
+T7	Markable 74 83	large one
+T8	Markable 149 162	the small one
+R1	Anaphora Arg1:T6 Arg2:T5	

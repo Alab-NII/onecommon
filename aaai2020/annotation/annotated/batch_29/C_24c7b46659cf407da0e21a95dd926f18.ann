@@ -1,0 +1,17 @@
+T1	Markable 45 55	a dark dot
+T2	Markable 10 27	two light big dot
+T3	Markable 36 38	it
+T4	Markable 71 75	that
+T5	Markable 108 112	they
+T6	Markable 185 205	a small med grey dot
+T7	Markable 228 230	it
+T8	Markable 274 276	it
+T9	Markable 236 257	a larger lighter grey
+T10	Markable 341 354	the light dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+A1	No-Referent T4
+T11	Markable 88 96	two dots
+R2	Anaphora Arg1:T5 Arg2:T11	
+T12	Markable 126 132	bottom
+T13	Markable 146 149	top
+R3	Anaphora Arg1:T8 Arg2:T7	

@@ -1,0 +1,10 @@
+T1	Markable 10 35	one dark grey smaller dot
+T2	Markable 46 65	a group of two dots
+T3	Markable 79 89	each other
+T4	Markable 205 220	the darkest dot
+T5	Markable 190 198	anything
+T6	Markable 252 285	a very large, very light grey dot
+T7	Markable 297 310	that dark one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T8	Markable 91 102	Top (right)
+T9	Markable 136 149	bottom (left)

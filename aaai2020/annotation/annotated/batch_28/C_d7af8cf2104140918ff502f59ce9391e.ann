@@ -1,0 +1,14 @@
+T3	Markable 93 96	top
+T4	Markable 71 87	a line of 3 dots
+T5	Markable 175 196	a tiny light gray dot
+T6	Markable 206 208	it
+T7	Markable 223 227	that
+T9	Markable 321 339	the light gray dot
+T10	Markable 14 42	a y shape of cluster of dots
+T1	Markable 146 149	top
+R1	Predicative Arg1:T5 Arg2:T1	
+T2	Markable 153 154	Y
+R2	Anaphora Arg1:T6 Arg2:T1	
+A1	No-Referent T7
+T11	Markable 246 265	the medium gray dot
+T12	Markable 301 311	3 dot line

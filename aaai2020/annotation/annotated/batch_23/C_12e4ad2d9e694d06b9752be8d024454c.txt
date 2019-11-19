@@ -1,0 +1,2 @@
+1: I see a lonely small black dot
+0: Yes, and across from it diagonally is a large light gray dot. Let's choose the black dot.

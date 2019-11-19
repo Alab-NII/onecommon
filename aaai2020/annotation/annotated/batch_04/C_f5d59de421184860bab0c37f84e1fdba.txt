@@ -1,0 +1,4 @@
+1: Do you have a tiny black dot?
+0: I have 2 actually. One to the left of a tiny light grey dot, and one below the same tiny light grey dot.
+1: Lets focus on that tiny light grey dot, by the two black dots?
+0: ok

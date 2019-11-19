@@ -1,0 +1,11 @@
+T1	Markable 81 95	a pair of dots
+T3	Markable 166 181	a vertical line
+T4	Markable 202 213	lighter one
+T5	Markable 298 308	darker one
+T6	Markable 3 25	large size medium grey
+T2	Markable 141 151	each other
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T3 Arg2:T1	
+T7	Markable 185 195	darker dot
+T8	Markable 269 278	Which one
+A1	Generic T8

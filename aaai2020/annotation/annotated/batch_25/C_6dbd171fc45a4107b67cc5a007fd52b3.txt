@@ -1,0 +1,4 @@
+0: I have a lonely small light grey dot
+1: what size?
+0: it is small and at least 1 inch away from other dots
+1: ok I see it, let's pick it

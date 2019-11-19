@@ -1,0 +1,6 @@
+1: Two dots, one large on the bottom, one small on top?
+0: one lone tiny black dot
+1: I don't have that one
+0: two light grey medium together
+1: Yeah, one lower on the left?
+0: right on left select

@@ -1,0 +1,5 @@
+1: 3 dots in a vertical line with the two lower ones being same shade and smaller than the top light one?
+0: hmm no. do you see a very large med grey dot?
+1: I do...with a lighter smaller dot below it?
+0: is the dot below slightly to the right if so click that one
+1: Yes...click the large med gray dot

@@ -1,0 +1,4 @@
+0: I have a large grey dot in the upper right side at about 11 oclock
+1: Do you have one very small black dot just under a larger dark grey dot?
+0: Yes I do!
+1: Let's choose the large dark grey one

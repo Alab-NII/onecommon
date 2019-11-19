@@ -1,0 +1,5 @@
+0: Hi! Do you have 2 medium size very light gray dots next to each other?
+1: Ok I see two dots that are very light and small/medium
+0: Awesome :) Do you want to pick the one on the right or on the left?
+1: right
+0: ok, thanks :)

@@ -1,0 +1,3 @@
+0: I have a small black dot diagonally above a larger grey dot
+1: Yes i think is it at the upper right
+0: Yes! I'll choose the smaller dark one

@@ -1,0 +1,3 @@
+0: Do you have one small, dark dot with another larger, lighter dot below it and to the right?
+1: I do. the dot to the bottom right is larger and much lighter?
+0: Yes. Let's pick the darker dot

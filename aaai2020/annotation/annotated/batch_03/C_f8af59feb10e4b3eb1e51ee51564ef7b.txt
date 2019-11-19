@@ -1,0 +1,3 @@
+0: One really big dot that is darkish gray
+1: Yes, I see that one. Select it?
+0: yes

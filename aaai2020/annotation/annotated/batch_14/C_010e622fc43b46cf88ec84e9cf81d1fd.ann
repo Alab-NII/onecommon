@@ -1,0 +1,12 @@
+T1	Markable 14 42	one tiny very light grey dot
+T2	Markable 48 67	a larger darker one
+T3	Markable 183 195	one gray dot
+T4	Markable 110 128	almost all my dots
+T5	Markable 158 175	top diagonal line
+T6	Markable 218 220	it
+T7	Markable 249 259	the others
+T8	Markable 291 310	a small medium dark
+T9	Markable 367 369	it
+R1	Anaphora Arg1:T6 Arg2:T5	
+T10	Markable 231 243	the diagonal
+T11	Markable 334 346	the diagonal

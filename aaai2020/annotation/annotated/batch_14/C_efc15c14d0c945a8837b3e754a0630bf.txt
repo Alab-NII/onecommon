@@ -1,0 +1,3 @@
+0: I have a small black dot near center
+1: I have two tiny dots close together. The one on top is very dark black, the one on bottom is very light grey and its down and to the left of the black one
+0: Yes I have those, choose the light gray one

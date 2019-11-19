@@ -1,0 +1,31 @@
+T1	Markable 10 32	2 Largest darkest dots
+T2	Markable 43 52	the other
+T3	Markable 72 87	a tiny dark dot
+T4	Markable 152 186	a slightly smaller, very light dot
+T5	Markable 129 146	a large, dark dot
+T6	Markable 202 204	it
+T7	Markable 270 289	the top darkest one
+T8	Markable 217 235	the very light dot
+T9	Markable 318 338	the tiniest dark dot
+T10	Markable 366 376	any others
+T11	Markable 346 351	yours
+T12	Markable 434 436	it
+T13	Markable 399 427	a large medium-dark grey one
+T14	Markable 458 460	it
+T15	Markable 499 515	a large dark dot
+T16	Markable 521 541	two medium gray dots
+T17	Markable 548 550	it
+T18	Markable 597 615	the tiny black dot
+T19	Markable 617 635	none of the others
+T20	Markable 33 36	one
+T21	Markable 102 116	all the others
+R1	Anaphora Arg1:T6 Arg2:T5	
+A1	No-Referent T8
+A2	No-Referent T7
+T22	Markable 381 393	the tiny one
+A3	Generic T10
+R2	Anaphora Arg1:T12 Arg2:T22	
+T23	Markable 440 444	Mine
+A4	No-Referent T14
+R3	Anaphora Arg1:T17 Arg2:T15	
+A5	No-Referent T19

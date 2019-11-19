@@ -1,0 +1,6 @@
+1: i see two dots that are the same size close together on top of each other. the top one is black, the bottom is light grey
+0: I think I have that, but my top one is more of a dark gray. I have a very large black one that makes a triangle with two dots that are a little smaller and different shades of gray.
+1: i do not have any that form a triangle. do you have a tiny black dot with a dark grey just barely larger dot to the lower right of it?
+0: No, but I have two small black dots in a diagonal line.
+1: i have that. want to choose the lowest of the two?
+0: OK!

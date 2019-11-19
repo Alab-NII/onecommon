@@ -1,0 +1,8 @@
+0: DO you see one really dark dot, with a lighter one above it?
+1: is the dark one small and the light one large?
+0: NO, about the same size.
+1: then no
+0: How about one really small medium gray dot? Off to the left?
+1: yes, with a larger gray dot above it?
+0: Yes
+1: choose the small one?

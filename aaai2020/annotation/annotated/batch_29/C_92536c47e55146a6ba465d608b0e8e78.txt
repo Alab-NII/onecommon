@@ -1,0 +1,3 @@
+1: 2 small dots completely vertical top one dark grey bottom one light grey
+0: nope, i have two small dots, left one is grey, down to the right is a smaller light grey dot
+1: I see that, select the darker one

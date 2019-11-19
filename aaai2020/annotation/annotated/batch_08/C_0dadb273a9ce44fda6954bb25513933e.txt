@@ -1,0 +1,5 @@
+1: I see two very light dots similar in size very close together
+0: I do too! Are they two larger darker ones above them?
+1: Yes there are!
+0: Want to click on the bigger light one on the right?
+1: k

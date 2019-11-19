@@ -1,0 +1,4 @@
+0: i see 5 dots in a nearly straight line
+1: I don't have that many in a straight line
+0: i also have two that are on their own, one that's farther up and to the right that's a darker gray and slightly larger
+1: I think i have the same one, should we choose it?

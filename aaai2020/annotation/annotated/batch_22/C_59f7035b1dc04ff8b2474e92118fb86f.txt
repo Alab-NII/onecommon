@@ -1,0 +1,4 @@
+1: medium gray dot with a smaller dark one to its immediate lower left?
+0: yes choose medium gray dot
+1: ok!
+0: cool

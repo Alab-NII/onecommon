@@ -1,0 +1,4 @@
+0: Large black dot
+1: The two closest together, one slightly larger and darker and one slightly smaller and lighter. Go for the large darker one?
+0: Yes
+1: Good luck!

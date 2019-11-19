@@ -1,0 +1,4 @@
+1: Do you see a bigger dark grey dot at about 2 o clock?
+0: no, I have a large grey dot at 5:30 o clock
+1: Do you have a medium grey dot at 430 o clock? or a smaller darkish grey dot at 10 o clock?
+0: confirm on the 430 oclock, lets choose that

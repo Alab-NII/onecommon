@@ -1,0 +1,8 @@
+T2	Markable 35 68	a triangle cluster of larger dots
+T3	Markable 3 29	1 single smaller black dot
+T4	Markable 96 98	it
+T5	Markable 117 153	two lighter and one medium-dark dots
+T7	Markable 100 112	the triangle
+T8	Markable 173 185	the dark dot
+T9	Markable 189 201	the triangle
+R1	Predicative Arg1:T5 Arg2:T7	

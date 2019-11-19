@@ -1,0 +1,4 @@
+0: Two very close dots. One is larger and black and to the right
+1: Yes! Is the one of the left slightly above and light grey?
+0: Yep! Let's choose that light grey one!
+1: k

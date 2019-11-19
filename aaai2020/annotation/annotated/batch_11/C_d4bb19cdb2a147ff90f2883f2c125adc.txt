@@ -1,0 +1,5 @@
+1: do you see one tiny black dot by itself
+0: I see two of those on my view. (both alone)
+1: is one on the upper and the other on the bottom
+0: Yes.
+1: okay, choose the top one

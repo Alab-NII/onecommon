@@ -1,0 +1,10 @@
+T1	Markable 10 17	one dot
+T2	Markable 90 111	a bunch of small ones
+T3	Markable 117 135	big dark grey ones
+T4	Markable 219 223	them
+T5	Markable 190 207	a lighter big one
+T6	Markable 147 171	two large dark gray ones
+T7	Markable 270 285	the largest one
+T8	Markable 64 78	all the others
+R1	Anaphora Arg1:T4 Arg2:T6	
+T9	Markable 289 298	the bunch

@@ -1,0 +1,3 @@
+1: 2 dots really close too each other, same size but different colors
+0: Do you have two dots very close to each other? The one to the left is darker? The are both medium to a bit large
+1: Yes, let's choose the darker one

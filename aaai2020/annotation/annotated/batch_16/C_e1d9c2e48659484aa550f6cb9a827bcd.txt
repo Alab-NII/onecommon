@@ -1,0 +1,5 @@
+0: I have a large light gray dot near the middle of the circle. Do you?
+1: Yes
+0: Shall we select it?
+1: yes
+0: OK

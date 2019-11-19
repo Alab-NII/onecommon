@@ -1,0 +1,4 @@
+0: do you have two dots towards the middle on the left, one light grey and one dark grey right below it
+1: two together vertically dark on bottom
+0: yes, choose the dark one
+1: yes, choose dark on bottom

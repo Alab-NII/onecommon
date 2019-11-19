@@ -1,0 +1,7 @@
+1: Hello. Do you have one medium gray dot by itself?
+0: kind of between two darker ones?
+1: It's large and I show one dark smaller one to the left of it and one medium colored and sized one under and to the left.
+0: yes, I see that one
+1: The large medium gray one correct?
+0: yes
+1: Okay, you can select that one.

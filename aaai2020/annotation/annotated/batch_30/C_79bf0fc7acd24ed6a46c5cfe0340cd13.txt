@@ -1,0 +1,6 @@
+1: I see a large dark grey dot with a smaller light grey dot right next to it
+0: Hello my friend. Two big, dark circles next to each other. Yea?
+1: Nope, don't have that
+0: Ok yes, the large dark grey dot. The smaller light grey dot is above it and to the right?
+1: YES
+0: Click the large dark grey dot, you genius

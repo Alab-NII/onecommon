@@ -1,0 +1,8 @@
+1: Do you see two of the darkest dots in a parallel line together?
+0: yes. the one on the left is larger than the one on the right.
+1: perfect! is the larger one closer to the center and lighter than the smaller one on the right?
+0: they both look black to me
+1: but is the larger one closer to the center for you?
+0: they are both in the center of the top part of my circle
+1: let's click the smallest one
+0: ok

@@ -1,0 +1,3 @@
+0: i have a big black one, to its right is a smaller black one and a real small dark gray
+1: Same. Let's choose the large black.
+0: got it

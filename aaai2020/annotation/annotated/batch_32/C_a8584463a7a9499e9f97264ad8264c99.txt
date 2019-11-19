@@ -1,0 +1,3 @@
+1: I have a shape like an L with one little black dot
+0: I have that as well. choose the black dot when able
+1: okay

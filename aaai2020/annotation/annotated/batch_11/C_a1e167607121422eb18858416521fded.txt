@@ -1,0 +1,4 @@
+0: i have a lone dark dot at 10 o clock, do you?
+1: mines more at 1 o clock
+0: hmm, do you have two larger, medium dark dots lower right at 5:30?
+1: yes, yes I do. select the bottom one

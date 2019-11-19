@@ -1,0 +1,4 @@
+0: Hello
+1: small black dot at 7 oclock?
+0: Yes
+1: ok we can click on that one

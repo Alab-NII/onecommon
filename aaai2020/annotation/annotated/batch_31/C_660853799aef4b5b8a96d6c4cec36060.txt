@@ -1,0 +1,4 @@
+1: tiny black dot to the left of it is a med dark dot
+0: I see a group of three dots, going from left to right, Large light grey, medium darker grey, and small almost black.
+1: yup thats it click the small black one
+0: sounds good

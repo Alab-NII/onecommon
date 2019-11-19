@@ -1,0 +1,4 @@
+0: two medium dots very close to each other, the left one is darker and smaller?
+1: I see three dots in a triangle, medium grey, the top and left dots are medium-small, the right one on the bottom is larger and lighter-- that might be the bottom two dots in my triangle
+0: I see that triangle. The bottom right one is much larger and lighter. Lets click that one
+1: yeppers

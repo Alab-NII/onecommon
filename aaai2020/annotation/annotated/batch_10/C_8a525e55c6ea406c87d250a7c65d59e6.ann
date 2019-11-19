@@ -1,0 +1,8 @@
+T1	Markable 14 31	a small black dot
+T2	Markable 54 83	same sized lightest shade dot
+T3	Markable 48 50	it
+T4	Markable 128 135	the one
+T5	Markable 94 107	the black dot
+T6	Markable 161 174	the black one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T7	Markable 185 190	black

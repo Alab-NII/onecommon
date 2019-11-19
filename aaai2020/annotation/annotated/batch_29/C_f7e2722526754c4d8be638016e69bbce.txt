@@ -1,0 +1,6 @@
+0: Hi there.
+1: Hi!! Do you have two dots the same size the bottom is black top is medium shade grey going diagonal?
+0: Is the medium grey one diagonally above & to the right of the black one?
+1: Yes!
+0: Oh snap! I guess we have that in common.
+1: Yay! Let's choose the medium grey!

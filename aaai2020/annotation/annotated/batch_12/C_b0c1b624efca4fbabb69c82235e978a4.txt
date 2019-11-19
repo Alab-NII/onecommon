@@ -1,0 +1,5 @@
+1: I have one large black dot a bit away from the others
+0: two tiny... med/grey. lower one is a tiny bit lighter tiny bit bigger. the big black one is off to their lower left?
+1: yes, i see all three of those, let's click the black one
+0: the big black one, right? thats by itself?
+1: lol, yes, that one

@@ -1,0 +1,4 @@
+T2	Markable 18 33	the darkest dot
+T3	Markable 133 135	it
+T1	Markable 106 110	mine
+R1	Anaphora Arg1:T3 Arg2:T1	

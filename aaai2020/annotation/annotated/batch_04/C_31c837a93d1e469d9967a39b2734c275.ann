@@ -1,0 +1,6 @@
+T1	Markable 15 40	one medium color gray dot
+T2	Markable 66 90	almost all my other dots
+T3	Markable 99 101	it
+T5	Markable 151 159	that one
+T6	Markable 50 53	its
+R1	Anaphora Arg1:T5 Arg2:T3	

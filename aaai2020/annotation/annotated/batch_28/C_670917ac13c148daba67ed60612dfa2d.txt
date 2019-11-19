@@ -1,0 +1,5 @@
+1: do you see a large black dot with a medium gray dot to the north and slightly left of it?
+0: Yes! Is there another black one southwest of the dark one?
+1: I don't see that one but we have different views so maybe that is why. My large black dot has a light gray dot to the direct right of it too.
+0: Yep. Let's choose the dark one.
+1: ok

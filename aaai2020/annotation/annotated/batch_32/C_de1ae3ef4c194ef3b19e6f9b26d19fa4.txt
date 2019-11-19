@@ -1,0 +1,4 @@
+0: two medium grey dots very close together?
+1: yes - are they in a horizontal line? The one on the left is slightly larger than the one on the right?
+0: yup exactly. let's pick the left one?
+1: ok

@@ -1,0 +1,4 @@
+1: three dots forming a triangle largest is very large and almost black?
+0: yes, choose the large dark one?
+1: yes if its most to the right!
+0: yes

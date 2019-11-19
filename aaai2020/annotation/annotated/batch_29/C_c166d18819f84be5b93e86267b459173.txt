@@ -1,0 +1,5 @@
+1: do you have 2 dark grey same size right next to each other? right one is lower
+0: No i do not
+1: do you have 3 going up to the right... bottom is largest... middle is darkest and middle-size, top one is smallest and furthest away up to the right?
+0: yes i see that
+1: ok let's pick the middle darkest one then

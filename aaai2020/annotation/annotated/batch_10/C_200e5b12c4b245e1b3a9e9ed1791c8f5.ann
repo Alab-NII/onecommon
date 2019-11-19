@@ -1,0 +1,12 @@
+T1	Markable 3 33	A lot of medium and large dots
+T2	Markable 37 46	a cluster
+T3	Markable 48 60	the left one
+T4	Markable 82 88	5 dots
+T5	Markable 114 117	One
+T6	Markable 136 154	The remaining ones
+T7	Markable 260 277	the left most one
+T8	Markable 306 314	that one
+R1	Predicative Arg1:T2 Arg2:T1	
+T9	Markable 183 205	the lower right corner
+A1	No-Referent T9
+T10	Markable 241 255	the same thing

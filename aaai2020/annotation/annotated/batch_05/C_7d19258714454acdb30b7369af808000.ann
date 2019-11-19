@@ -1,0 +1,23 @@
+T1	Markable 14 35	a tiny light gray dot
+T2	Markable 68 74	3 dots
+T4	Markable 163 178	the darkest one
+T6	Markable 270 284	the middle dot
+T7	Markable 286 300	the middle dot
+T8	Markable 390 408	a big med gray dot
+T9	Markable 357 361	mine
+T10	Markable 437 440	its
+T11	Markable 515 547	thea different largest black dot
+T12	Markable 682 704	the larger darkest one
+T14	Markable 733 752	largest darkest one
+T15	Markable 78 84	an arc
+R1	Predicative Arg1:T15 Arg2:T2	
+T3	Markable 120 128	last dot
+T16	Markable 141 156	largest darkest
+R2	Predicative Arg1:T16 Arg2:T3	
+T5	Markable 217 232	the darkest one
+R3	Anaphora Arg1:T7 Arg2:T6	
+T17	Markable 332 337	the 3
+T18	Markable 578 599	same size lighter dot
+T19	Markable 603 606	its
+R4	Anaphora Arg1:T19 Arg2:T11	
+T20	Markable 627 644	another same size

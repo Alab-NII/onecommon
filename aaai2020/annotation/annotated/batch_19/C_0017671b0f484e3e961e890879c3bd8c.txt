@@ -1,0 +1,5 @@
+1: i have a med black dot on the line on the right do u have it
+0: is yours towards the top
+1: yes
+0: okay do you have anything else that stands out before we would try that one
+1: lets click that one

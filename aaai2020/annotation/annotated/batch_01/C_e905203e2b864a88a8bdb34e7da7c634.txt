@@ -1,0 +1,7 @@
+0: I see three dark dots in a nearly horizontal line, the smallest is in the center and the largest is on the right
+1: Hello! Wheres your dot?
+0: Do you see that?
+1: No I dont see those in mine. How about a really large dark dot and a slightly smaller one to the bottom right of it
+0: Is the one to the bottom right at about 5 o clock?
+1: Yes
+0: Ok, lets choose the bigger one on top

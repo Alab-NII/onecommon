@@ -1,0 +1,4 @@
+1: i HAVE A LINE of 2 ranged from smallest to largest (right to left) going down. the smallest is first and its dark gray/black
+0: i have a cluster... 3 are in line going up to the right, with the left one being med/dark-grey, middle lightest, right/higher one is smallest and darkest... just below them is a med/dark-grey semi-large one
+1: yes i my go up to the right as well. with those colorings. choose the smallest?
+0: i chose the dark small one

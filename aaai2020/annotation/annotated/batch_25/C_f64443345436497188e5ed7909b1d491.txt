@@ -1,0 +1,4 @@
+0: Do you have a small light gray dot?
+1: I have a tiny dot smaller than all the others. It is medium gray though. There is a much larger light gray to to the right and slightly below it
+0: It's not the same. Do you have a big light gray dot with a smaller darker dot to the left and slightly above?
+1: yes. Let's pick the large lighter one

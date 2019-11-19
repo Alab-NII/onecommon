@@ -1,0 +1,6 @@
+0: do you have two large black ones, the lower one is to the right and an inch or so down from the other?
+1: i have a line of three large circles running left to right, from top to bottom, a light grey large spot and two black spots running diagonally down the right
+0: ok is there a very small one same color as the top one? it is to the right in between the first two you mentioned? If so let's pick the Bottom Dark Dot
+1: yes
+0: bottom black one
+1: done

@@ -1,0 +1,5 @@
+1: My largest dot here is black
+0: Yes on the left
+1: Does it have a light small one to the left
+0: Yes
+1: select the light small one

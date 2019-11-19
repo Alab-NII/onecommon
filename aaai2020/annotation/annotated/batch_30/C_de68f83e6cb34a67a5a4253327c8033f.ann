@@ -1,0 +1,7 @@
+T1	Markable 38 48	a triangle
+T2	Markable 152 174	that lightest tiny one
+T3	Markable 3 9	3 dots
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 58 79	lightest and smallest
+T5	Markable 88 99	medium gray
+T6	Markable 114 126	larger black

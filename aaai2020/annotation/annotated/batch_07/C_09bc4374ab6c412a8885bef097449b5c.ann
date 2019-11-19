@@ -1,0 +1,19 @@
+T1	Markable 14 38	one small light grey dot
+T2	Markable 48 79	two large and darkest grey dots
+T3	Markable 154 158	them
+T4	Markable 137 145	anything
+T5	Markable 176 202	one smaller light grey dot
+T6	Markable 279 293	your dark dots
+T7	Markable 347 356	four dots
+T8	Markable 381 385	them
+T9	Markable 500 504	them
+T10	Markable 417 420	one
+T11	Markable 444 447	one
+T12	Markable 478 488	three dots
+T13	Markable 400 415	two darker ones
+T14	Markable 524 543	the dark larger dot
+T15	Markable 116 121	those
+A1	Generic T4
+R1	Anaphora Arg1:T3 Arg2:T15	
+T16	Markable 323 327	They
+R2	Anaphora Arg1:T8 Arg2:T16	

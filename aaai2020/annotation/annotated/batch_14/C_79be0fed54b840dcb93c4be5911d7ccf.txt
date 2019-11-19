@@ -1,0 +1,5 @@
+0: I have lonely dark circle at the top
+1: Do you see 2 dots right beside each other? A light great and darker grey
+0: Yes, the darker grey one is smaller, right?
+1: Yes! I'll pick that one
+0: the left one right?

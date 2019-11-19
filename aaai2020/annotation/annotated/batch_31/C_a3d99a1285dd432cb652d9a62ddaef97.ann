@@ -1,0 +1,8 @@
+T1	Markable 32 34	it
+T2	Markable 49 57	two dots
+T3	Markable 74 84	each other
+T4	Markable 163 171	that one
+T5	Markable 3 20	massive one black
+R1	Anaphora Arg1:T1 Arg2:T5	
+R2	Anaphora Arg1:T3 Arg2:T2	
+T6	Markable 107 114	the one

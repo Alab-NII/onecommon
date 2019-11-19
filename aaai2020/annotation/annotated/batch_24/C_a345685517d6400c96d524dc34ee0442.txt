@@ -1,0 +1,5 @@
+0: massive large light grey dot with a smaller darker dot below and to the right?
+1: I don't see that one. Do you see 3 dots that are close to being in a line and have close to the same color?
+0: no
+1: What about a bit light grey dot that is on its own?
+0: do you have a large black dot?

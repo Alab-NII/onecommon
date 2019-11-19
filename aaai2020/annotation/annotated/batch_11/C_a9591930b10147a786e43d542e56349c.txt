@@ -1,0 +1,6 @@
+0: I have a vertical pair of medium dots. Larger on top
+1: I Have one large dark dot one small light dot and the rest are grey
+0: Does your dark do have a smaller medium grey dot above and to the left?
+1: yes and a large grey dot above that dot but to the right of it
+0: Yes. I have those three. Let's choose the dark bottom larger dot
+1: ok

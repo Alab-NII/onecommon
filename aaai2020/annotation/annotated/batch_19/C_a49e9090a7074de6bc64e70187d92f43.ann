@@ -1,0 +1,12 @@
+T1	Markable 10 36	three large dark gray dots
+T2	Markable 60 66	a line
+T3	Markable 101 110	a 4th dot
+T4	Markable 122 124	it
+T5	Markable 161 176	two of the dots
+T7	Markable 223 234	a large dot
+T8	Markable 278 286	the line
+T9	Markable 305 316	the top dot
+T10	Markable 320 328	the line
+R1	Predicative Arg1:T2 Arg2:T1	
+T11	Markable 135 147	a backward L
+T6	Markable 242 246	an L

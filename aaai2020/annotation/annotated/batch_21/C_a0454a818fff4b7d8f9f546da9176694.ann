@@ -1,0 +1,21 @@
+T1	Markable 59 67	one dark
+T2	Markable 15 28	2 larger dots
+T4	Markable 310 324	any other dots
+T5	Markable 363 369	a dark
+T6	Markable 401 407	a dark
+T7	Markable 338 346	one dark
+T8	Markable 382 389	a light
+T9	Markable 506 515	the light
+T10	Markable 494 500	a pair
+T11	Markable 429 452	one of my pairs of dots
+T12	Markable 589 604	a lone dark dot
+T13	Markable 44 54	one medium
+T14	Markable 160 182	all but one of my dots
+T3	Markable 224 231	several
+T15	Markable 259 274	2 pairs of dots
+T16	Markable 294 295	3
+A1	No-Referent T4
+T17	Markable 335 336	2
+T18	Markable 347 356	one light
+T19	Markable 526 537	the darkest
+T20	Markable 644 649	light

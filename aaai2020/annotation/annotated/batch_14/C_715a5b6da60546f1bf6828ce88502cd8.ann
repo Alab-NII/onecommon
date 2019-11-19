@@ -1,0 +1,8 @@
+T1	Markable 10 33	a single pure black dot
+T2	Markable 35 37	It
+T3	Markable 111 129	a smaller grey dot
+T4	Markable 73 84	a black Dot
+T5	Markable 105 107	it
+T6	Markable 173 186	the black dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T5 Arg2:T4	

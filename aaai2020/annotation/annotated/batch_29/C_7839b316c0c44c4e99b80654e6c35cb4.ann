@@ -1,0 +1,8 @@
+T1	Markable 13 27	four tiny dots
+T2	Markable 105 109	them
+T3	Markable 49 53	they
+T4	Markable 146 166	that pretty dark one
+T5	Markable 224 241	the top small dot
+T6	Markable 272 284	the dark one
+R1	Anaphora Arg1:T2 Arg2:T3	
+A1	No-Referent T5

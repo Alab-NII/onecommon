@@ -1,0 +1,6 @@
+1: light grey small dot almost center top close to line but not touching
+0: Is it a little left and above a very small black dot?
+1: no, lets try darker medium size dot centered at the bottom, close to line not touching
+0: Is there any more near this one?
+1: kinda theres about the same size dot to its right closer to line but not touching very close to line though
+0: okay lets choose the one on left

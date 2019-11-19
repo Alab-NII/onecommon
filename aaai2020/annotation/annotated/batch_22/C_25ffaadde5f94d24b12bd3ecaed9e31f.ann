@@ -1,0 +1,8 @@
+T1	Markable 38 44	itself
+T3	Markable 130 138	one gray
+T4	Markable 116 125	one black
+T5	Markable 112 114	it
+T6	Markable 97 105	two dots
+T7	Markable 10 26	a tiny black dot
+R1	Anaphora Arg1:T1 Arg2:T7	
+T8	Markable 65 72	the one

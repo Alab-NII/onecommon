@@ -1,0 +1,8 @@
+0: I have three dots really close together that form a triangle. The top right dot is medium sized and dark
+1: I think I have that - is there a much larger dot of the same color down a little from it, and to the left a little bit.
+0: I don't have that.
+1: Are two of the dots in the triangle the same color, and then the one is darker?
+0: I think so...the bottom dot might be a tiny bit darker than the one on the top left. The bottom dot is also smaller than the other two.
+1: My bottom one is the biggest. In another area, I have a pretty light medium sized dot that's not really close to anything else.
+0: Is there a darker, slightly larger dot directly above it about 2 inches or so away?
+1: Yes. Let's pick that lighter one.

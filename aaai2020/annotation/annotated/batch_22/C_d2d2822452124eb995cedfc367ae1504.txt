@@ -1,0 +1,2 @@
+0: 3 dots making a triangle, one on the bottom left is small and dark, one on bottom right is small and light, the one on top is medium color and large
+1: i have that! clicking on top dot

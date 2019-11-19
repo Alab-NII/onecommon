@@ -1,0 +1,9 @@
+T1	Markable 3 23	cluster of many dots
+T2	Markable 105 122	a small dark gray
+T3	Markable 80 99	one large dark gray
+T4	Markable 164 166	it
+T5	Markable 205 209	that
+T6	Markable 216 239	the small dark grey dot
+T7	Markable 34 47	farthest left
+R1	Anaphora Arg1:T4 Arg2:T3	
+T8	Markable 180 193	this grouping

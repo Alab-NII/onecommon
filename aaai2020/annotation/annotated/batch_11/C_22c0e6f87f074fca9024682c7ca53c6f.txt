@@ -1,0 +1,4 @@
+0: I see three dots in a diagonal row
+1: Are 2 black and closer to each other?
+0: Yes!
+1: I'll pick the middle black dot.

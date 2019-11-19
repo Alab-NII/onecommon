@@ -1,0 +1,5 @@
+0: small dark dot?
+1: I see 3 dots in a line
+0: is the dot on the left small and dark?
+1: Yes
+0: choose that one

@@ -1,0 +1,15 @@
+T1	Markable 14 31	a cluster of dots
+T3	Markable 86 107	a large dark gray dot
+T4	Markable 154 156	it
+T5	Markable 249 267	the large gray dot
+T6	Markable 279 281	it
+T7	Markable 356 358	it
+T2	Markable 65 79	the corner dot
+R1	Predicative Arg1:T3 Arg2:T2	
+T8	Markable 112 127	Large dark grey
+T9	Markable 157 191	slightly smaller equally dark grey
+T10	Markable 213 217	that
+T11	Markable 218 234	large light grey
+R2	Anaphora Arg1:T4 Arg2:T8	
+T12	Markable 304 325	your diagonal L shape
+T13	Markable 381 385	my L

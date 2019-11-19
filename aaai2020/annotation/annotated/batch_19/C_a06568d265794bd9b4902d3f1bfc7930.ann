@@ -1,0 +1,13 @@
+T1	Markable 9 23	two large dots
+T2	Markable 60 63	one
+T3	Markable 188 192	that
+T4	Markable 164 182	the tiny black one
+T5	Markable 211 214	one
+T6	Markable 281 283	it
+T7	Markable 294 306	the dark one
+T8	Markable 118 137	very tiny black dot
+T9	Markable 25 34	only ones
+R1	Anaphora Arg1:T3 Arg2:T4	
+T10	Markable 244 252	med grey
+T11	Markable 259 262	its
+R2	Anaphora Arg1:T11 Arg2:T5	

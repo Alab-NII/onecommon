@@ -1,0 +1,4 @@
+1: lone large black dot
+0: no i dont have that. do you see a tiny light grey dot?
+1: with a large dark grey dont left and below it?
+0: yes! click the tiny one!

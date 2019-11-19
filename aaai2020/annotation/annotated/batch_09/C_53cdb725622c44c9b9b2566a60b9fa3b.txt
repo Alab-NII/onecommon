@@ -1,0 +1,10 @@
+0: i have small black dot near 6:00
+1: I see three medium sized dots all in a row, going slightly up and to the right. The dot in the middle is darkest and smallest. The one on the right is largest
+0: dont have that describe size color and location
+1: Ok, do you have two that are almost vertical to each other? They are similar shades of dark grey. The one on top is larger, a little darker and slightly to the left
+0: no i have a dark black small one at 2:00 and a small black at 11:00 do u have either
+1: my 11 o clock and 2 o clock is different than yours
+0: do u have a large med grey at 9:00
+1: dude we have different circles, my 9 o clock is different that yours. Do you see two small dots, the one on top is dark black and the one on bottom is around the same size and lighter
+0: click on the bottom one and i am not a dude
+1: you're bad at this maam*

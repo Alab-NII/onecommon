@@ -1,0 +1,4 @@
+1: I see a dark grey dot in the top right corner
+0: there three dark dots on the top right side
+1: Not for me
+0: i have med size dot it dark one the right

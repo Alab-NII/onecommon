@@ -1,0 +1,7 @@
+T1	Markable 124 131	Top one
+T2	Markable 181 188	the one
+T3	Markable 3 33	2 very large almost black dots
+T4	Markable 60 63	two
+T5	Markable 85 88	The
+#1	AnnotatorNotes T5	They
+R1	Anaphora Arg1:T5 Arg2:T4	

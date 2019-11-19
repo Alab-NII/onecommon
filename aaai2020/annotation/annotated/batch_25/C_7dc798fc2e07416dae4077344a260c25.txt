@@ -1,0 +1,5 @@
+0: DO you have 2 large dots of the same color near each other?
+1: do you have two very small dots beside each other in different shades of gray?
+1: I think so on yours. Are there two small dots beside the right most large gray dot?
+0: yes for the two small dots the closet one is dark
+1: Yes...choose the largest dot closest to the small dots

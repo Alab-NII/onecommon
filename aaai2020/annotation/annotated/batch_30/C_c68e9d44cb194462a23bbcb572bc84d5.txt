@@ -1,0 +1,3 @@
+0: I have a very large light gray dot with darker dots on either side.
+1: in a line sloping up to the right? and the middle is the slightly off center?
+0: Yes! Let's pick the large light one in the middle.

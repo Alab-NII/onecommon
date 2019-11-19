@@ -1,0 +1,3 @@
+1: do you see a large dark dot with a slightly smaller and less dark dot below and to the left?
+0: Yes, I have those.
+1: lets choose the darkest one!

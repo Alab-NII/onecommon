@@ -1,0 +1,5 @@
+1: Do you have one dot that's lighter than all the others?
+0: Yes. Is it small?
+1: Yes
+0: I chose that one.
+1: Me too

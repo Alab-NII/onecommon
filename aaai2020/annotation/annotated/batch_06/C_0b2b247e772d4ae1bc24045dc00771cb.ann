@@ -1,0 +1,13 @@
+T3	Markable 62 65	one
+T4	Markable 10 27	a large black dot
+T5	Markable 113 139	two equal sized black dots
+T6	Markable 168 175	the one
+T7	Markable 246 251	those
+T8	Markable 271 278	the one
+T9	Markable 301 305	mine
+T10	Markable 335 338	one
+T11	Markable 394 396	it
+T12	Markable 426 433	the dot
+T1	Markable 192 226	a smaller and a bit lighter circle
+A1	No-Referent T8
+R2	Anaphora Arg1:T11 Arg2:T9	

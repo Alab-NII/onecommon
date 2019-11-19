@@ -1,0 +1,4 @@
+1: medium grey right wall
+0: large?
+1: Yes
+0: ok lets try it

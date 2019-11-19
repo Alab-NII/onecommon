@@ -1,0 +1,3 @@
+0: Line of 4, left is small black
+1: I have that. let's pick the small black dot farther to the left.
+0: Ok

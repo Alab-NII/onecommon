@@ -1,0 +1,4 @@
+1: Do you have a large grey dot near 6 oclock?
+0: do you see a diagonal line with the first one being medium grey, medium size then to its right a small black dot, and to its right, a larger, dark grey dot?
+1: Yes I do! Let's select the small black dot
+0: ok

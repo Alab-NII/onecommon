@@ -1,0 +1,11 @@
+1: Hi! Lower part i have a triangle of 3 dots.
+0: Do you see one large gray dot off to the left side like alone?
+1: yes! is it up to the top
+0: nope mines in the middle
+1: Hm I don't have that
+0: do you see a lighter gray one on the right side at the bottom
+1: no... I have a lighter gray one right top?
+0: i have a little dark gray one that actually looks like its in a triangle like you side earlier
+1: yes... i have that one.
+0: want to try that one
+1: sure

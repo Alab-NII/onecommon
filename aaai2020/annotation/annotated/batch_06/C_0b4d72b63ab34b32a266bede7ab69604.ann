@@ -1,0 +1,9 @@
+T1	Markable 56 69	the other two
+T2	Markable 86 95	those two
+T3	Markable 35 50	one much darker
+T4	Markable 105 107	it
+T5	Markable 121 135	the darker one
+T6	Markable 3 13	three dots
+T7	Markable 71 74	its
+#1	AnnotatorNotes T7	it
+R1	Anaphora Arg1:T7 Arg2:T3	

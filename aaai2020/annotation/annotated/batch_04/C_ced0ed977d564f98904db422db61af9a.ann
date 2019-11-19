@@ -1,0 +1,9 @@
+T1	Markable 10 16	2 dark
+T2	Markable 37 46	4 lighter
+T3	Markable 112 114	It
+T4	Markable 63 108	a grey of the lightest shade and the smallest
+T5	Markable 166 177	one lighter
+T6	Markable 139 141	it
+T7	Markable 215 230	that lonely one
+T8	Markable 18 31	1 medium dark
+R1	Anaphora Arg1:T6 Arg2:T3	

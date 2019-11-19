@@ -1,0 +1,11 @@
+T1	Markable 11 15	They
+T2	Markable 21 32	a trapezoid
+T3	Markable 58 71	one large dot
+T4	Markable 89 99	a dark dot
+T5	Markable 106 113	the dot
+T6	Markable 133 141	The next
+T7	Markable 174 176	it
+T8	Markable 193 209	the big gray dot
+T9	Markable 3 9	4 dots
+R1	Anaphora Arg1:T1 Arg2:T9	
+R2	Predicative Arg1:T2 Arg2:T1	

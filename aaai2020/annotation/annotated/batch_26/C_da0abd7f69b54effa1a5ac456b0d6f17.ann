@@ -1,0 +1,7 @@
+T2	Markable 34 49	a vertical line
+T3	Markable 66 80	the bottom one
+T4	Markable 88 102	the bottom one
+T5	Markable 149 163	the bottom one
+T6	Markable 3 30	two large almost black dots
+R1	Predicative Arg1:T2 Arg2:T6	
+R2	Anaphora Arg1:T5 Arg2:T4	

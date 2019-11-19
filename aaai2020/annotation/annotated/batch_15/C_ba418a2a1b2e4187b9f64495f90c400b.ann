@@ -1,0 +1,5 @@
+T2	Markable 9 36	three very dark larger dots
+T5	Markable 97 112	the biggest one
+T1	Markable 47 59	this shape \
+R1	Predicative Arg1:T1 Arg2:T2	
+T3	Markable 77 88	two of them

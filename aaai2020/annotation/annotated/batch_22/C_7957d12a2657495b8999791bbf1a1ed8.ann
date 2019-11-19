@@ -1,0 +1,14 @@
+T1	Markable 21 31	each other
+T2	Markable 33 46	very tiny one
+T3	Markable 97 122	two large light grey dots
+T4	Markable 133 148	a vertical line
+T5	Markable 175 186	the top one
+T6	Markable 195 206	the top one
+T7	Markable 257 268	the top one
+T8	Markable 3 10	to tops
+#1	AnnotatorNotes T8	two dots
+R1	Anaphora Arg1:T1 Arg2:T8	
+T9	Markable 55 75	very large and black
+R2	Predicative Arg1:T4 Arg2:T3	
+T10	Markable 160 164	that
+R3	Anaphora Arg1:T7 Arg2:T6	

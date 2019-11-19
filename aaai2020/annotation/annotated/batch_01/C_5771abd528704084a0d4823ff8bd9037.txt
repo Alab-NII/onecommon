@@ -1,0 +1,5 @@
+1: I see a small dark circle in the upper right
+0: I don't
+1: do you see a very light large grey circle toward the right side
+0: yes
+1: is it in the middle right side

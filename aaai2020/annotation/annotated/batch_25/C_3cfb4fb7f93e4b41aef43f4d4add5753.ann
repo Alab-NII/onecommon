@@ -1,0 +1,13 @@
+T1	Markable 15 27	2 large dots
+T2	Markable 87 105	three smaller dots
+T3	Markable 63 81	a medium sized dot
+T4	Markable 167 195	a same sized medium gray dot
+T5	Markable 138 161	a medium sized dark dot
+T6	Markable 202 204	it
+T7	Markable 270 276	itself
+T8	Markable 299 323	a medium shade small dot
+T9	Markable 404 417	the lower one
+R1	Anaphora Arg1:T6 Arg2:T5	
+T10	Markable 241 258	a small light dot
+R2	Anaphora Arg1:T7 Arg2:T10	
+T11	Markable 329 362	another of similar shade and size

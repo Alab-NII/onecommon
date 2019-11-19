@@ -1,0 +1,6 @@
+0: Large light gray dot on the line
+1: I cannot see it. The small dark dot alone
+0: I don't have that one. do you 2 dark dots close? One is smaller and black the other is dark gray and bigger up and to the right of the black dot?
+1: Let us select the down dark one
+0: its black? or the dark gray?
+1: The blackest

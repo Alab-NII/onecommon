@@ -1,0 +1,14 @@
+T1	Markable 33 43	each other
+T2	Markable 146 160	two large dark
+T3	Markable 194 207	two back dots
+T4	Markable 279 297	the two black dots
+T5	Markable 341 355	the large gray
+T6	Markable 9 23	two black dots
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 71 81	large dark
+T8	Markable 103 120	same one top left
+T9	Markable 121 136	one lower right
+T10	Markable 217 227	large gray
+T11	Markable 264 274	large gray
+T12	Markable 359 373	the large gray
+T13	Markable 380 385	black

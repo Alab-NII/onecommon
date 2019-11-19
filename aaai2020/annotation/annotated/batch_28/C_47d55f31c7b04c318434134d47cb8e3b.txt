@@ -1,0 +1,4 @@
+1: Hello, I have two dots close together, one larger one smaller
+0: small dark dot almost center with large light dot to its right. i have 2 dots also bottom right? smaller dot on top almost touching the line
+1: Do you want to try the smaller dot?
+0: smaller dot

@@ -1,0 +1,3 @@
+0: I have a large black dot, with an equal size black dot above and to the right, its very close
+1: yeah i see that
+0: Lets click black on left

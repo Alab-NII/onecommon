@@ -1,0 +1,14 @@
+T1	Markable 62 76	the center one
+T2	Markable 30 40	middle one
+T3	Markable 89 99	the others
+T4	Markable 153 157	them
+T5	Markable 193 203	each other
+T6	Markable 261 263	it
+T7	Markable 3 19	Three large dots
+T8	Markable 107 121	the center one
+A1	No-Referent T4
+T9	Markable 171 180	two large
+R1	Anaphora Arg1:T5 Arg2:T9	
+T10	Markable 205 216	bottom left
+T11	Markable 237 252	the bottom left
+R2	Anaphora Arg1:T6 Arg2:T11	

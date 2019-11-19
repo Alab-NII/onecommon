@@ -1,0 +1,10 @@
+T1	Markable 9 23	two large dots
+T2	Markable 60 67	The one
+T3	Markable 170 189	a close smaller dot
+T4	Markable 163 165	it
+T5	Markable 221 243	that close smaller dot
+T6	Markable 258 282	the very large light dot
+T7	Markable 90 97	the one
+T8	Markable 128 144	A very large dot
+R1	Anaphora Arg1:T4 Arg2:T8	
+A1	No-Referent T5

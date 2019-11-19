@@ -1,0 +1,6 @@
+0: I have a lone small moderate grey dot. Do you have any distinctive dots?
+1: I have one dark medium dot and one large medium dot.
+0: Are they above one another?
+1: yes. The medium gray is on top of the dark one.
+0: Is the dark one slightly smaller? if so, I would suggest we pick the bottom one (the darker one)
+1: Yes, it is slightly smaller. I agree, we should choose that one.

@@ -1,0 +1,5 @@
+0: Do you see a small dark gray dot?
+1: Is it located below a larger lighter gray dot diagonal from it?
+0: Yes
+1: I see it.
+0: Let's pick that one

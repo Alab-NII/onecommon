@@ -1,0 +1,7 @@
+T1	Markable 3 20	cluster of 5 dots
+T3	Markable 93 117	a medium sized black dot
+T4	Markable 135 139	them
+T5	Markable 175 195	the medium black dot
+T7	Markable 22 38	one medium black
+T8	Markable 56 71	a bunch of dots
+R1	Anaphora Arg1:T4 Arg2:T8	

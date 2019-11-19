@@ -1,0 +1,11 @@
+T1	Markable 61 65	them
+T2	Markable 22 44	a vertical curved line
+T3	Markable 12 18	4 dots
+T4	Markable 46 57	the largest
+T5	Markable 91 98	the one
+T6	Markable 151 153	it
+T7	Markable 118 144	a lighter much smaller one
+T8	Markable 178 189	the big one
+R1	Predicative Arg1:T2 Arg2:T3	
+R2	Anaphora Arg1:T1 Arg2:T3	
+R3	Anaphora Arg1:T6 Arg2:T5	

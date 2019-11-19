@@ -1,0 +1,4 @@
+1: do you have a small black dot above and to the right of a larger med/light-grey one, that has two smaller lighter ones below that?
+0: i have 1 small black dot and two large black do u have any of those
+1: is your small black dot above a med/grey large one?
+0: yes click on it

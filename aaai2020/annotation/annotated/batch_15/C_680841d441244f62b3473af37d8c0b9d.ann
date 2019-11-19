@@ -1,0 +1,14 @@
+T1	Markable 15 21	2 dots
+T2	Markable 40 53	the right one
+T3	Markable 70 79	the other
+T4	Markable 129 142	the seven one
+T5	Markable 109 125	two smallest dot
+T6	Markable 160 169	a big one
+T7	Markable 206 233	one biggest and darkest dot
+T8	Markable 262 278	a very small dot
+T9	Markable 304 311	big one
+T10	Markable 353 369	the smallest dot
+A1	All-Referents T4
+T11	Markable 185 190	yours
+A2	No-Referent T11
+T12	Markable 244 255	One big dot

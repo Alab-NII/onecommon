@@ -1,0 +1,3 @@
+1: large black dot?
+0: larger dark dot over a medium colored medium sized dot?
+1: Yes if the black one is up and to the left of it click the black one!

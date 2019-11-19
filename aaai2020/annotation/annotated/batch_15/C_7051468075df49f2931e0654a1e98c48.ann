@@ -1,0 +1,8 @@
+T1	Markable 20 26	3 dots
+T2	Markable 35 45	a triangle
+T3	Markable 10 16	2 sets
+T4	Markable 70 89	the large black dot
+T5	Markable 93 100	the set
+R1	Predicative Arg1:T2 Arg2:T1	
+T6	None 17 19	if
+#1	AnnotatorNotes T6	of

@@ -1,0 +1,4 @@
+0: I see one large black dot
+1: With 2 medium gray dots on either side?
+0: Yes - do you want to pick the black one?
+1: Yes

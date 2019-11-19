@@ -1,0 +1,8 @@
+0: Large black dot by itself?
+1: Yes, does it have a medium black dot above to the right?
+0: and a medium sized light grey dot below it and a hair to the right?
+1: Hmm, I don't see the 2nd dot you described. My large black dot is at the left center edge of my circle.
+0: ahh that can be the reason, all the way to the right, and i mean way to the right is a smaller light grey dot?
+1: I have a medium light grey circle to the right, with a slightly smaller darker grey circle to the right of it, slightly above
+0: ok pick the black one
+1: I picked large black, is that correct?

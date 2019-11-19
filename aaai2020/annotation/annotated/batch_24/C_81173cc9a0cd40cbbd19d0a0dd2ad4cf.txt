@@ -1,0 +1,3 @@
+0: I have two light grey dots close together and two dark grey dots close together, both sets have a large and a small dot
+1: I think I have the light gray dots. Is the light gray dot to the right larger and slightly above the one to the left
+0: yes it is, let's pick that larger dot

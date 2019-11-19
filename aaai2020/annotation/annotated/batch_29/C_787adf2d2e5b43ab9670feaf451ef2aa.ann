@@ -1,0 +1,10 @@
+T1	Markable 40 42	it
+T2	Markable 20 33	a larger grey
+T3	Markable 73 77	that
+T4	Markable 3 14	Small black
+R1	Anaphora Arg1:T1 Arg2:T4	
+A1	No-Referent T3
+T5	Markable 82 92	Lone black
+T6	Markable 102 120	medium sized black
+T7	Markable 127 138	nearest dot
+T8	Markable 210 215	black

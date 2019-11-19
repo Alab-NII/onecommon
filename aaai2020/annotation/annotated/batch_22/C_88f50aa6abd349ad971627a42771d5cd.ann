@@ -1,0 +1,14 @@
+T1	Markable 15 31	a light grey dot
+T2	Markable 66 86	three very dark dots
+T3	Markable 247 261	the bottom one
+T4	Markable 276 287	a small dot
+T5	Markable 298 311	the large dot
+T6	Markable 320 333	The small dot
+T7	Markable 361 365	They
+T8	Markable 395 403	that one
+T9	Markable 90 103	a small curve
+R1	Predicative Arg1:T9 Arg2:T2	
+T10	Markable 106 116	middle one
+T11	Markable 137 145	leftmost
+T12	Markable 175 194	the large black dot
+T13	Markable 407 420	The small one

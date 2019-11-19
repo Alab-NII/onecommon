@@ -1,0 +1,5 @@
+1: I have a dark dot near 12 o clock
+0: l have a large black dot near 12 o clock and a large dot close below to the left
+1: do you have a large black dot near 10 o clock with a small light gray dot beneath?
+0: yes it is near 9 o clock and small grey dot beneath
+1: ok choose small gray dot

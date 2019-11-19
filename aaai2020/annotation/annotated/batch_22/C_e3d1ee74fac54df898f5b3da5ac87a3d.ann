@@ -1,0 +1,12 @@
+T1	Markable 21 44	an almost vertical line
+T2	Markable 48 62	the bottom one
+T3	Markable 122 138	a small dark dot
+T4	Markable 182 184	it
+T5	Markable 144 165	a larger lighter grey
+T6	Markable 238 256	the large gray dot
+T7	Markable 195 211	another gray one
+T8	Markable 278 296	the small dark dot
+T9	Markable 3 17	two small ones
+R1	Predicative Arg1:T1 Arg2:T9	
+T10	Markable 75 82	the top
+R2	Anaphora Arg1:T4 Arg2:T3	

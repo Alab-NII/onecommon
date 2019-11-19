@@ -1,0 +1,7 @@
+T1	Markable 9 27	a lonely black dot
+T2	Markable 76 86	each other
+T3	Markable 130 134	that
+T4	Markable 255 263	left one
+T5	Markable 31 50	Two light tiny dots
+R1	Anaphora Arg1:T2 Arg2:T5	
+T6	Markable 87 106	slightly darker one

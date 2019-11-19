@@ -1,0 +1,11 @@
+T1	Markable 65 91	a very dark smaller circle
+T2	Markable 114 116	it
+T3	Markable 179 181	it
+T4	Markable 189 191	it
+T5	Markable 9 29	a really dark circle
+R1	Anaphora Arg1:T2 Arg2:T1	
+T6	Markable 127 143	a lighter circle
+T7	Markable 150 165	a darker circle
+R2	Anaphora Arg1:T4 Arg2:T3	
+T8	Markable 221 239	the lighter circle
+T9	Markable 248 255	the one

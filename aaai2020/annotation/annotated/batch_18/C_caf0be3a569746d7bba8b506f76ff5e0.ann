@@ -1,0 +1,6 @@
+T1	Markable 82 86	mine
+T2	Markable 101 136	a slightly larger, pretty light dot
+T3	Markable 93 95	it
+T4	Markable 191 203	the dark one
+T5	Markable 3 17	My darkest dot
+R1	Anaphora Arg1:T3 Arg2:T1	

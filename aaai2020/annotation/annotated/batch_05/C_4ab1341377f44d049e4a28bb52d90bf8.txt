@@ -1,0 +1,5 @@
+1: i have one large really dark grey dot, the rest are all much smaller, most of them the same size
+0: I see that. the smaller ones - the right one is the same color and the left one is lighter?
+1: yeah, the left one is tiny, right?
+0: yes sounds like we have a match. click the large dark grey one?
+1: ok

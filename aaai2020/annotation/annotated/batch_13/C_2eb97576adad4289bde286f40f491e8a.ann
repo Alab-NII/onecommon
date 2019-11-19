@@ -1,0 +1,8 @@
+T1	Markable 15 31	a large grey dot
+T2	Markable 83 93	each other
+T3	Markable 142 154	the left one
+T4	Markable 181 194	the right one
+T5	Markable 217 229	the left one
+T6	Markable 63 74	2 gray dots
+R1	Anaphora Arg1:T2 Arg2:T6	
+T7	Markable 95 115	light gray, left one

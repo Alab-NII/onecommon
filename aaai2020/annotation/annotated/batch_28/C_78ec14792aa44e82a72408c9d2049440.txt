@@ -1,0 +1,4 @@
+0: hi
+1: Group of three, mid is lowest and darkest, one on the right is lightest, left most one is largest, all three quite small
+0: i believe i have that as well
+1: Click that lowest darkest

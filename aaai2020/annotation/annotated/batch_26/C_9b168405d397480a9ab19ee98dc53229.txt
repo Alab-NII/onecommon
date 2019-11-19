@@ -1,0 +1,7 @@
+0: 3 light grey dots making a triangle
+1: i have one large dot medium shade off on its own
+0: Not sure I have that
+1: i think i see your triangle, they are all very similar
+0: Yes they are, similar size and shade
+1: which should we pick?
+0: highest dot of the triangle

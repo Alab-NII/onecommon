@@ -1,0 +1,4 @@
+0: The largest dot here is medium tone
+1: 3 going in a semi-circle line... top left is smallest lightest... middle is large/med/grey. bottom one is also med/grey but smaller
+0: Let us select the topmost smallest
+1: ok any time :)

@@ -1,0 +1,3 @@
+0: Large light grey dot to the bottom left
+1: big black dot with a smaller grey to upper right and smaller black to upper left
+0: I've got it. Choose the big black one

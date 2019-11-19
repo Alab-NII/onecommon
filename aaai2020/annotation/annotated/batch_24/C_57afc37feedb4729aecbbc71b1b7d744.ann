@@ -1,0 +1,13 @@
+T1	Markable 58 68	a triangle
+T2	Markable 33 47	2 smaller dots
+T3	Markable 79 89	a triangle
+T4	Markable 91 106	The largest dot
+T5	Markable 140 153	The other two
+T6	Markable 191 196	yours
+T7	Markable 277 299	one very very dark dot
+T8	Markable 329 343	two other dots
+T9	Markable 399 412	the black dot
+T10	Markable 424 437	the black dot
+T11	Markable 3 27	a massive large grey dot
+R1	Anaphora Arg1:T6 Arg2:T3	
+T12	Markable 229 240	My triangle

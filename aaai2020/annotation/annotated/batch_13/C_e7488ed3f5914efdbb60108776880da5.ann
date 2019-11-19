@@ -1,0 +1,8 @@
+T1	Markable 9 15	a line
+T2	Markable 19 38	3 similar size dots
+T3	Markable 153 162	the black
+R1	Predicative Arg1:T2 Arg2:T1	
+T4	Markable 66 70	Left
+T5	Markable 81 87	middle
+T6	Markable 102 107	right
+T7	Markable 135 139	that

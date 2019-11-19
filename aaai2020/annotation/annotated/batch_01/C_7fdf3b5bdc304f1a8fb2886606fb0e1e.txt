@@ -1,0 +1,5 @@
+1: Hello! Where's your dot?
+0: Do you see two medium darkness dots off by themselves? The larger one is above the smaller one they are similar darkness
+1: I believe I see them. Is the larger one up and to the left?
+0: yes
+1: ok lets pick the larger one

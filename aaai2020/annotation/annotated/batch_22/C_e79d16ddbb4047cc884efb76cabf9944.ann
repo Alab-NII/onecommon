@@ -1,0 +1,5 @@
+T1	Markable 25 40	the lighter one
+T2	Markable 76 78	it
+T3	Markable 119 127	that one
+T4	Markable 3 24	two really close dots
+R1	Anaphora Arg1:T3 Arg2:T2	

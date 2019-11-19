@@ -1,0 +1,4 @@
+0: I have a tiny grey dot (medium grey) that forms a triangle with 2 darker grey dots below it
+1: Large grey dot, pretty light in color, very close and to the left of a smaller darker one
+0: I dont see that. Do you have one large black that is below the main group of dots?
+1: oh yeah, easy catch, sorry I didnt mention it before!

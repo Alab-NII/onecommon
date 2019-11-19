@@ -1,0 +1,9 @@
+T1	Markable 35 58	smaller and lighter dot
+T2	Markable 10 28	one large dark dot
+T3	Markable 75 77	it
+T5	Markable 146 148	it
+T6	Markable 243 251	that one
+T7	Markable 277 292	the largest one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T9	Markable 81 98	my biggest circle
+R2	Anaphora Arg1:T5 Arg2:T9	

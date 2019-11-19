@@ -1,0 +1,4 @@
+1: Do you see a square of dots, just slightly out shape?
+0: Yes, with two small dots and two large dots
+1: I see two medium dots in the west and north, and small in the south and east. Want to do the honors and pick a direction?
+0: Let's pick the darkest in the west

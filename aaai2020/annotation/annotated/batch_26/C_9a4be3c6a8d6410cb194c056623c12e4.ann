@@ -1,0 +1,9 @@
+T1	Markable 29 32	two
+T2	Markable 36 40	them
+T4	Markable 142 150	that one
+T5	Markable 99 115	the blackest one
+T6	Markable 3 9	3 dots
+R1	Anaphora Arg1:T2 Arg2:T6	
+T7	Markable 59 62	Two
+T3	Markable 66 70	them
+R2	Anaphora Arg1:T4 Arg2:T5	

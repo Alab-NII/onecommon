@@ -1,0 +1,9 @@
+0: I see one black dot. Do you see it?
+1: nope
+0: Do you see a large gray dot towards the bottom left?
+1: I have nothing towards the bottom left. Is your black dot big and at 11 oclock?
+0: No
+1: I have a big gray dot at 4 oclock, do you have that?
+0: Yes
+1: Is is lighter gray or darker gray?
+0: Darker

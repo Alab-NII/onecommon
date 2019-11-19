@@ -1,0 +1,5 @@
+1: i see one gray medium dot on its own
+0: Does it have to smaller dots above it and to the left?
+1: no - what about a dark small one slightly off on it's own with a cluster of 3 below and 2 the the top right
+0: do you have a black medium sized dot?
+1: selected the black medium one

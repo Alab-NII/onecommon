@@ -1,0 +1,6 @@
+T1	Markable 36 61	a larger medium shade dot
+T2	Markable 67 96	a darker slightly smaller dot
+T3	Markable 120 122	it
+T4	Markable 132 136	that
+T5	Markable 148 162	the larger one
+R1	Anaphora Arg1:T3 Arg2:T1	

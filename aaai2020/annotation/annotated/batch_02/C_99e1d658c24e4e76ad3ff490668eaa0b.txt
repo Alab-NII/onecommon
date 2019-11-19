@@ -1,0 +1,6 @@
+1: I have two light gray dots, one is smaller than the other
+0: I have a line going across the bottom half small grey, small black, large light grey, darker large grey, then medium grey.
+1: I have a medium gray dot at the bottom.
+0: I have a medium large grey at the bottom as well.
+1: Lets pick that one
+0: ok

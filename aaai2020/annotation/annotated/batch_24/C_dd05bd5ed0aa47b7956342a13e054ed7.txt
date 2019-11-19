@@ -1,0 +1,4 @@
+1: Do you see two black dots right next to each other?
+0: Yep, was just typing that. Let's pick the one on the right
+1: The one closest to the other dots?
+0: yes

@@ -1,0 +1,25 @@
+T1	Markable 43 51	the rest
+T2	Markable 10 28	one small gray dot
+T3	Markable 62 84	large medium gray dots
+T4	Markable 130 135	those
+T5	Markable 140 145	those
+T6	Markable 203 233	a cluster of medium sized dots
+T7	Markable 262 267	three
+T9	Markable 348 364	a large gray dot
+T10	Markable 288 289	4
+T11	Markable 378 383	those
+T12	Markable 402 420	the two black ones
+T13	Markable 513 517	them
+T14	Markable 506 509	one
+T15	Markable 533 540	the one
+A1	No-Referent T4
+A2	No-Referent T5
+T16	Markable 169 188	any small gray dots
+A3	No-Referent T16
+T17	Markable 235 238	two
+T18	Markable 305 306	2
+T19	Markable 318 319	2
+T20	Markable 425 428	one
+T8	Markable 242 247	which
+R1	Anaphora Arg1:T8 Arg2:T6	
+A4	Generic T14

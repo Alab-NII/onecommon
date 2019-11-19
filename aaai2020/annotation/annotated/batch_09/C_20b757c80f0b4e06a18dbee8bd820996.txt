@@ -1,0 +1,3 @@
+0: I have two dots very close to each other the upper one is larger and darker
+1: largest, lightest dot? with a dark smaller one below it to it's left, and an even smaller dark one across to the right from that?
+0: Yes. Lets pick the large lightest dot

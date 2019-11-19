@@ -1,0 +1,9 @@
+T1	Markable 34 37	one
+T2	Markable 9 28	two large grey dots
+T3	Markable 68 77	the other
+T4	Markable 121 125	them
+T5	Markable 94 114	a smaller darker one
+T6	Markable 84 88	they
+T7	Markable 154 179	a moderately big triangle
+T8	Markable 197 219	the smaller darker one
+R1	Anaphora Arg1:T4 Arg2:T6	

@@ -1,0 +1,3 @@
+0: Do you see a large black dot in the middle of a square formed by four gray dots?
+1: yes, wanna go for the big one?
+0: yes

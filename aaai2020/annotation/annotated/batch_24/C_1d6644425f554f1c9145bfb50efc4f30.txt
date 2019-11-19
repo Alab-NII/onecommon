@@ -1,0 +1,7 @@
+0: I see three dark circles towards the bottom. about medium to large in size.
+1: most of mine are about the same size and dark. two dark grey ones at the top of all of them, right grey one is biggest of all mine
+0: is there one all the way to the right. that is a little lighter?
+1: the two dark grey ones are the lightest i have. the left top one has a small black one below it to it's right that is the darkest and smallest that I have
+0: select the largest circle that you see.
+1: is it at the top? med/dark grey?
+0: yes.

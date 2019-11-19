@@ -1,0 +1,4 @@
+1: medium black dot, above a ways and to the right is a same sized light dot
+0: I have 1 black dot. Above and to the right is a very light dot.
+1: lets go for the dark dot
+0: Yep nice explanation my friend

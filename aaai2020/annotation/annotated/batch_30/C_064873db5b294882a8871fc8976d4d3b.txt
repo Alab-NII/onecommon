@@ -1,0 +1,6 @@
+1: Lone large medium grey dot
+0: large dark grey dot with a smaller same color dot below it to the right?
+1: My large dark grey is at the bottom left edge of my circle, so I cannot see below it
+0: above it, way above it, to the right a little bit, is a tiny lightish grey dot?
+1: Yes, it is. Select the large dark grey?
+0: ok

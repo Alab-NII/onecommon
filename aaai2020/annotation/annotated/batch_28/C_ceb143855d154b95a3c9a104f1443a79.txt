@@ -1,0 +1,3 @@
+1: I have two black dots that are like same size and somewhat close
+0: I have two as well... one is above and to the right
+1: Let us select the one above to the right

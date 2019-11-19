@@ -1,0 +1,7 @@
+0: I have 2 dot about the same size one light and one dark on the right
+1: Is there a large black dot to the right of them at the bottom?
+0: No I have a cluster of 5 with 2 LARGE light gray dots
+1: Do you have a large gray dot (light) at the bottom touching the dotted circle line?
+0: No in the middle on right close to the line
+1: What color is it? Is it large or small?
+0: Black

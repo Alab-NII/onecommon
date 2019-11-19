@@ -1,0 +1,4 @@
+0: I see three dots. It makes a trail. The lead is dark gray. The last two are small and almost black.
+1: Are they all the same size?
+0: The last two are small and the same. The first one is a bit bigger.
+1: Ok. I have that too. Let's pick the larger one at the top

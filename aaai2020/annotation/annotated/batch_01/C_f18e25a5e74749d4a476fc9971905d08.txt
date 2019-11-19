@@ -1,0 +1,8 @@
+0: Hi! Do you see two darker dots?
+1: I have 2 black dots next to each other. One is larger and smaller one is to the left
+0: Is the smaller one to the right of a gray one?
+1: no. but I have 2 other gray dots. One on left is larger and a bit darker, the smaller one is lighter shade and bit lower
+0: I think the smaller gray one might be the same one we both have. Should we try that one?
+1: ok the larger one?
+0: the small light one...I hope!
+1: ok

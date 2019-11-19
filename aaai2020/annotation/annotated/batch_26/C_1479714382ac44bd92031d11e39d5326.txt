@@ -1,0 +1,5 @@
+0: I have a medium black dot, with a small dark grey dot below it to the left
+1: I don't. I have a light grey next to a darker grey, almost the same size
+0: Small or large?
+1: they are both medium sized
+0: click bottom darker grey

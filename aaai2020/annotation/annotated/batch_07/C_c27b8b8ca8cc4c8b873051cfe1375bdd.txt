@@ -1,0 +1,7 @@
+1: tiny gray at 10 o clock
+0: I do have a tiny light grey. Mine is close to 12:00. Is it to the right and slightly higher than a darker grey dot that is a little larger? Do you see a large dark grey or a large light grey dot?
+1: i have no large dots i have a tiny grey slight under 3 o clock but closer to the center
+0: Hm. I have 2 small black dots that are about an inch apart, horizontally
+1: do you have any black dots closer to the left side
+0: I think our placement will be different. If you see the 2 small black dots, kind of side by side, we can pick the one on the left
+1: okay lets try

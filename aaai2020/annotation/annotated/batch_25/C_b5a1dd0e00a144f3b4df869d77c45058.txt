@@ -1,0 +1,3 @@
+0: I have a large black dot, there is a small light dot above it on the left side of it
+1: yes! good description! click the large black dot!
+0: sure

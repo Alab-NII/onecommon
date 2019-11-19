@@ -1,0 +1,6 @@
+0: Big dark one with a slightly lighter, smaller one immediately to it's lower right
+1: My largest dot is grey and has the lightest shade dot right and lower from it's position
+0: What is your darkest dot? does it have a smaller dark one RIGHT next to it on it's lower right?
+1: I do not see that. Do you see a medium black Dot and directly above it is same sized light dot?
+0: all my light ones are off to the right and lower than my 2 dark ones. they are all spread out except for the two dark ones. The closest to my dark ones is a medium size light one... two really small light ones are over an inch away below
+1: Click your smallest light dot

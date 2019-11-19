@@ -1,0 +1,12 @@
+T1	Markable 10 52	a straight line of med and light gray dots
+T3	Markable 62 64	it
+T4	Markable 68 94	2 black and dark gray dots
+T5	Markable 98 104	a line
+T6	Markable 142 158	a small dark dot
+T7	Markable 185 187	it
+T8	Markable 189 201	lighter dots
+T9	Markable 225 246	the largest black dot
+T10	Markable 310 331	the largest black dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+R2	Predicative Arg1:T5 Arg2:T4	
+T2	Markable 117 136	Largest darkest dot

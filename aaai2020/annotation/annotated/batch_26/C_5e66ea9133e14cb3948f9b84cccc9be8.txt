@@ -1,0 +1,8 @@
+0: i have three of the same size and almost same color in a line on the left side
+1: I don't have those
+0: in the middle i have two darker dots
+1: I do too. Is one slightly smaller?
+0: yes my bottom one does look a bit smaller
+1: as does mine
+0: want to click it then
+1: Let's

@@ -1,0 +1,5 @@
+0: I have one very tiny light grey?
+1: A tiny medium gray dot by it self
+0: Yes. Closest dot is up and left larger and darker?
+1: Yes let's pick the tiny one
+0: Ok

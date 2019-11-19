@@ -1,0 +1,13 @@
+T3	Markable 10 26	a line of 3 dots
+T4	Markable 96 100	that
+T5	Markable 117 128	a black dot
+T7	Markable 187 206	a smaller black dot
+T8	Markable 160 162	it
+T9	Markable 253 264	the smaller
+T10	Markable 268 275	the two
+T11	Markable 288 302	the larger one
+T12	Markable 326 328	it
+T1	Markable 54 61	largest
+T2	Markable 65 73	smallest
+A1	No-Referent T4
+T6	Markable 318 319	2

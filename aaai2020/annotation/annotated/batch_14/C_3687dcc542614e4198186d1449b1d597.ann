@@ -1,0 +1,10 @@
+T1	Markable 14 32	one large dark dot
+T2	Markable 54 76	three small light dots
+T3	Markable 82 84	it
+T4	Markable 47 49	It
+T5	Markable 92 94	it
+T6	Markable 141 157	the big dark dot
+R1	Anaphora Arg1:T4 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+T7	Markable 106 124	a square formation
+R3	Predicative Arg1:T7 Arg2:T5	

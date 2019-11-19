@@ -1,0 +1,8 @@
+T1	Markable 23 27	none
+T3	Markable 82 104	a larger dark grey dot
+T4	Markable 53 75	a small light grey dot
+T5	Markable 106 109	one
+T6	Markable 144 168	the small light grey dot
+T7	Markable 3 21	group of five dots
+A1	No-Referent T1
+R1	Anaphora Arg1:T5 Arg2:T4	

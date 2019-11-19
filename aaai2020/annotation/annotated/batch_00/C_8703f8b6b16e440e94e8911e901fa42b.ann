@@ -1,0 +1,6 @@
+T2	Markable 92 105	a small black
+T3	Markable 153 168	the large black
+T4	Markable 3 12	big black
+T5	Markable 18 31	smaller black
+T6	Markable 62 74	both of them
+R1	Anaphora Arg1:T3 Arg2:T2	

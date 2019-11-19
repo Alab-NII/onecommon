@@ -1,0 +1,6 @@
+T1	Markable 65 69	them
+T2	Markable 92 106	the medium one
+T3	Markable 3 15	2 light ones
+T4	Markable 17 20	one
+T5	Markable 32 41	the other
+R1	Anaphora Arg1:T1 Arg2:T3	

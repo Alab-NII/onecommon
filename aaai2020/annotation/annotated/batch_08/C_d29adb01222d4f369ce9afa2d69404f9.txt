@@ -1,0 +1,2 @@
+0: i have a tiny dot, dark, it is below and to the right of a large, lighter color dot
+1: ok lets click it

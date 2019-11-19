@@ -1,0 +1,4 @@
+0: i have a lonely big black dot on right touching the circle
+1: 1 large black dot on the right edge of the circle on the bottom
+0: yes
+1: lets click it

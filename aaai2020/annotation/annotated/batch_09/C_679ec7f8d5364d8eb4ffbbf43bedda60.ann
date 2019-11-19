@@ -1,0 +1,11 @@
+T1	Markable 15 26	one big dot
+T2	Markable 28 30	It
+T4	Markable 59 71	two of those
+T5	Markable 124 126	it
+T6	Markable 82 103	a darker, smaller dot
+T7	Markable 140 153	a smaller dot
+T8	Markable 197 199	it
+T9	Markable 217 230	a smaller dot
+T10	Markable 275 291	that one big dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 204 212	This dot

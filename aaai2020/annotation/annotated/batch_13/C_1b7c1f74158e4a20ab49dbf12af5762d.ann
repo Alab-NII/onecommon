@@ -1,0 +1,14 @@
+T1	Markable 14 34	two medium gray dots
+T2	Markable 56 66	each other
+T4	Markable 126 148	a med/grey smaller one
+T5	Markable 180 207	a slightly larger black one
+T6	Markable 219 223	them
+T7	Markable 231 234	two
+T9	Markable 298 311	the right one
+T10	Markable 346 353	the one
+T11	Markable 385 397	a bigger dot
+T12	Markable 438 484	the slightly larger, slightly darker right one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 290 294	line
+R2	Predicative Arg1:T3 Arg2:T7	
+T8	Markable 398 402	both

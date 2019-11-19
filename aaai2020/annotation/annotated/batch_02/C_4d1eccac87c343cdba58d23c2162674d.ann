@@ -1,0 +1,30 @@
+T1	Markable 9 19	three dots
+T2	Markable 98 108	middle one
+T3	Markable 148 152	that
+T4	Markable 219 223	they
+T5	Markable 271 275	they
+T6	Markable 332 341	a diamond
+T7	Markable 357 365	the dots
+T8	Markable 401 427	a straight horizontal line
+T9	Markable 382 386	they
+T11	Markable 513 524	all of them
+T12	Markable 461 469	the line
+T13	Markable 429 457	The darkest and smallest dot
+T14	Markable 574 612	a couple of really dark and small dots
+T16	Markable 641 655	all of my dots
+T17	Markable 709 721	the smallest
+T18	Markable 740 759	the horizontal line
+T19	Markable 725 733	the ones
+T20	Markable 58 68	4 med grey
+A1	No-Referent T3
+T21	Markable 169 179	3 vertical
+A2	No-Referent T21
+T22	Markable 244 254	4 med grey
+T23	Markable 314 318	they
+R1	Predicative Arg1:T6 Arg2:T23	
+R2	Anaphora Arg1:T7 Arg2:T23	
+R3	Predicative Arg1:T8 Arg2:T9	
+R4	Anaphora Arg1:T12 Arg2:T9	
+T10	Markable 529 531	it
+A3	All-Referents T11
+R5	Predicative Arg1:T18 Arg2:T19	

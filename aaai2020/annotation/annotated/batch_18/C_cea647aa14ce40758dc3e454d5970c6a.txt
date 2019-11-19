@@ -1,0 +1,4 @@
+0: I see a large very dark dot that is not near any other dots
+1: Yes... way off to the left is a dark gray med. dot?
+0: Do you see two lighter grey dots on its farther left?
+1: yes. lets pick that large dot by itself

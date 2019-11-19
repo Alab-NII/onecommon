@@ -1,0 +1,4 @@
+0: one big medium grey dot on right side
+1: Nope. Do you see three dots the same size the one in the middle is black?
+0: yes, select the middle one
+1: Okay!

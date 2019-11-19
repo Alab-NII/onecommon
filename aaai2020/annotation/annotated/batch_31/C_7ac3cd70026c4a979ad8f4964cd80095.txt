@@ -1,0 +1,3 @@
+0: 3 dots aligned closely at an upward angle
+1: I do not have a group of three, but I have a group of two almost vertical, top is black medium large dot, bottom (slightly left) is dark grey and larger than the top.
+0: ok lets select top black medium large dot

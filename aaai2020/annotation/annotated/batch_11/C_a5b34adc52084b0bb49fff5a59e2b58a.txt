@@ -1,0 +1,6 @@
+0: I see a pair of grey dots, the larger is on the right
+1: I see two gray dots almost horizontal to each other, one small light gray the other large and slightly darker.
+0: I see them too. lets choose the
+1: Choose which one?
+0: The darker on the right
+1: ok

@@ -1,0 +1,5 @@
+0: i have a large grey dot towards the bottom slightly left
+1: I have two very small dark dots, they arent that close. The one on bottom is at the 7 oclock of the one on top. I dont see what you mean
+0: yes I see those two dots which would you like me to choose
+1: Lets choose the top one
+0: will do

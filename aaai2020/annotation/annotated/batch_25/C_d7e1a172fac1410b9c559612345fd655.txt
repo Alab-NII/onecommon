@@ -1,0 +1,4 @@
+0: Black dot. then darker gray dot that is larger to the right/ south east
+1: the black dot is tiny?
+0: yes.
+1: choose it?

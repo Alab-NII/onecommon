@@ -1,0 +1,6 @@
+1: I see a black dot. Above it, is a smaller gray dot, and below that black dot is a medium gray dot.
+0: Do you see the lonely light gray dot
+1: No. All of dots are near other dots.
+0: I see a large light grey dot with three smaller dark dots above it in a line slanted to the right
+1: I see a light gray dot. To the left is a black dot and is small. To the right is a smaller black dot. Is that the one you are referring to? (The lightest one)
+0: No, but I understand the one you are referring to. It's the lightest dot.

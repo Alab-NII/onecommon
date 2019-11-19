@@ -1,0 +1,3 @@
+0: three small dots that form a triangle
+1: i have a cluster of three small light dots and another cluster of two same sized medium black dots-- yes, the light triangle with the point towards the top
+0: yes, pick the top dot in the triangle

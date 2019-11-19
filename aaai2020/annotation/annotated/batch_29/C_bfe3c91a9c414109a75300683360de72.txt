@@ -1,0 +1,3 @@
+1: 4 clustered dots one small dark 3 large dark grey medium grey
+0: yes and the small dot in under them.
+1: yes select the small dot

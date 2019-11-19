@@ -1,0 +1,6 @@
+T1	Markable 42 52	a triangle
+T2	Markable 131 141	bottom one
+T3	Markable 185 209	that smallest bottom one
+T4	Markable 3 13	three dots
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 62 73	largest one

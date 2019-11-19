@@ -1,0 +1,10 @@
+T1	Markable 92 104	the triangle
+T2	Markable 15 58	a triangle of large gray dots of same shade
+T4	Markable 63 76	a lighter one
+T5	Markable 114 131	2 large grey dots
+T6	Markable 201 209	that one
+T7	Markable 219 233	the larger one
+R1	Anaphora Arg1:T1 Arg2:T2	
+T3	Markable 140 150	each other
+R2	Anaphora Arg1:T3 Arg2:T5	
+T8	Markable 151 161	the left 1

@@ -1,0 +1,3 @@
+0: group of 5 dots top 3 make a line horizontally, and to the right up 2 large dots
+1: Yes, I see that. Choose upper large black dot that is furthest right?
+0: ok

@@ -1,0 +1,11 @@
+T1	Markable 49 59	the bigger
+T2	Markable 14 27	two gray dots
+T3	Markable 33 43	each other
+T4	Markable 81 84	its
+T6	Markable 258 275	your original dot
+T7	Markable 277 292	the smaller one
+T8	Markable 307 316	the other
+R1	Anaphora Arg1:T3 Arg2:T2	
+T5	Markable 133 150	a small black dot
+T9	Markable 172 187	a dark gray dot
+T10	Markable 213 231	a lighter gray dot

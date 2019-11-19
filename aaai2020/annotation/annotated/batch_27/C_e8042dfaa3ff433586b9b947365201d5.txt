@@ -1,0 +1,4 @@
+0: 5 of my dots make a Y
+1: I am not quite seeing a Y. Do you see a triangle with a smaller lighter one being the top point?
+0: no triangle. I do have a 2 near the edge that are to to left is a small light gray, bottom is dark gray and slightly larger
+1: Yes. I do. Let's try the bottom one?

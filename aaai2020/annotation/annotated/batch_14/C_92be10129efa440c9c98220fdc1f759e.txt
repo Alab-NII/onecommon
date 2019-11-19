@@ -1,0 +1,4 @@
+0: I have 2 light grey dots in my view They are forming a \
+1: Is the top one between 2 darker dots?
+0: yep. Click the top light grey
+1: ok

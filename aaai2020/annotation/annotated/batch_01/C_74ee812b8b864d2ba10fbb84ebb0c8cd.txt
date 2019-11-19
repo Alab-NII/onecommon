@@ -1,0 +1,6 @@
+0: I have 2 small BLACK dots with one slightly smaller.
+1: I have two medium dots aligned vertically. same shade and seems like bottom is slightly larger
+0: I have that and is there a small black dot diagonally above and to the right of the top dot?
+1: yes
+0: Choose the bottom?
+1: ok

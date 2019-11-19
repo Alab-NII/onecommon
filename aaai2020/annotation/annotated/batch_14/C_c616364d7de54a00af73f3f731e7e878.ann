@@ -1,0 +1,7 @@
+T1	Markable 70 92	one long vertical line
+T2	Markable 51 62	all of mine
+T3	Markable 105 122	a large black dot
+T4	Markable 143 147	Mine
+T5	Markable 210 218	that one
+T6	Markable 3 18	large black dot
+R1	Predicative Arg1:T1 Arg2:T2	

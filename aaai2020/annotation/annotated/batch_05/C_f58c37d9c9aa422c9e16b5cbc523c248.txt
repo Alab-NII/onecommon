@@ -1,0 +1,8 @@
+1: I have a large dark dot, adjacent to a tiny gray one
+0: I don't have that. I do see an almost black dot on the edge in the lower left.
+1: Is it large in size?
+0: Medium of the sizes I see.
+1: Do you see a tiny gray dot?
+0: Lower let, almost centered vertically, about a quarter of the way up from the bottom.
+1: Should we try it?
+0: Sure.

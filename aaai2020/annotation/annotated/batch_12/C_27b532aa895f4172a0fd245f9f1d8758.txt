@@ -1,0 +1,3 @@
+1: Lone black dot
+0: no, I see 3 black dots forming a triangle. I see one smallest dot that is lighter than the rest
+1: Do the smallest dot

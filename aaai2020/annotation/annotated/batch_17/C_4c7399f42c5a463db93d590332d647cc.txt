@@ -1,0 +1,6 @@
+1: Do you have 2 large dots close together?
+0: Yes, the one below is darker and a little bit smaller.
+1: yes.
+0: Is it pretty much north of center
+1: Mine is slightly NW
+0: Yeah, me too. Let's choose the lower darker one

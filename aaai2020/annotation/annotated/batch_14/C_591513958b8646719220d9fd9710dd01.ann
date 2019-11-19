@@ -1,0 +1,13 @@
+T1	Markable 70 95	a slightly wonky triangle
+T2	Markable 54 59	three
+T3	Markable 140 144	that
+T4	Markable 169 172	its
+T5	Markable 290 308	the Tiny black dot
+T6	Markable 241 272	a slightly larger a lighter dot
+T7	Markable 355 364	the three
+T8	Markable 316 328	the tiny dot
+T9	Markable 375 385	a triangle
+T10	Markable 410 431	the tiny and dark one
+T11	Markable 3 17	My tiniest dot
+R1	Predicative Arg1:T1 Arg2:T2	
+R2	Predicative Arg1:T9 Arg2:T7	

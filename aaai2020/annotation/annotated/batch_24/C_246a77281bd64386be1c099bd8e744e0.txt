@@ -1,0 +1,7 @@
+1: Do you see a cluster of dots?
+0: I see a 4 dots forming a banana, bottom is large medium grey dot, top right is dark medium size, and two middle are a small and medium to large dot
+1: is the larger one in the middle the lightest color?
+0: it is about the same color as the bottom most one but slightly smaller
+1: I think I see those four as well.
+0: ok pick the smallest dark one 2nd from the bottom?
+1: That works with me

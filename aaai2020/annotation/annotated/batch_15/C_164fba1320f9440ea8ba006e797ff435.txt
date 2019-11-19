@@ -1,0 +1,8 @@
+1: I see a circle with three darker gray dots
+0: i see a very small very light dot near edge. I don't think I see circle you describe
+1: Is the light dot at the 11 on a clock?
+0: we each see a different view, but my light small dot is near 4 o clock and near a large dark gray dot
+1: Okay is the large grey dot a little bit lower than the lighter gray dot?
+0: no, its to upper right. I also see two medium gray dots close together in medium size
+1: Are they to the left of the light gray dot?
+0: yes, do you see them, if so choose one on left?

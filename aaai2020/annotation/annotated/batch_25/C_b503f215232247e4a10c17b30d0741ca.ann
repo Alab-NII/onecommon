@@ -1,0 +1,16 @@
+T1	Markable 45 57	the left one
+T3	Markable 33 43	each other
+T4	Markable 235 254	the bottom two dots
+T5	Markable 258 269	my triangle
+T6	Markable 169 182	the right one
+T7	Markable 221 225	that
+T8	Markable 129 150	the top and left dots
+T9	Markable 104 114	a triangle
+T10	Markable 90 100	three dots
+T11	Markable 279 292	that triangle
+T12	Markable 294 314	The bottom right one
+T13	Markable 354 362	that one
+T14	Markable 3 18	two medium dots
+R1	Anaphora Arg1:T3 Arg2:T14	
+R2	Predicative Arg1:T9 Arg2:T10	
+R3	Predicative Arg1:T4 Arg2:T7	

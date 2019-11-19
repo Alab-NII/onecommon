@@ -1,0 +1,4 @@
+0: Do you have 3 dots in a diagonal line?
+1: I have a lonely small light dot
+0: I also have a lonely small light dot in the NW area of my circle.
+1: Ok let us select it

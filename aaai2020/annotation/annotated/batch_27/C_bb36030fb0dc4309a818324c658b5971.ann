@@ -1,0 +1,9 @@
+T1	Markable 30 47	an acute triangle
+T2	Markable 61 73	the smallest
+T3	Markable 77 86	the three
+T4	Markable 112 116	them
+T5	Markable 121 145	some very dark grey dots
+T6	Markable 161 177	the smallest one
+T7	Markable 3 22	light/med gray dots
+R1	Predicative Arg1:T1 Arg2:T7	
+R2	Anaphora Arg1:T4 Arg2:T3	

@@ -1,0 +1,5 @@
+1: do you see a large, light grey dot away from the rest?
+0: I have 2 of those. Do you see a pair with on dot lighter and smaller?
+1: i only see one, but its on the edge of the circle. is the other dot down or to the left?
+0: No. Does one of your larger dark gray dots have a smaller one up and to the left kind of far away?
+1: yes, pick the smaller one

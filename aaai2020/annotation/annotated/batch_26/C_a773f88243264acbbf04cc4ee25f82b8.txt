@@ -1,0 +1,5 @@
+1: three very dark dots forming a triangle?
+0: I have a with a LARGE gray one too I have 5 total with that
+1: hmm is the largest dot in that triangle black and most to the bottom?
+0: Yes with 2 other dark dot up and to the right
+1: yes! click that black largest one!

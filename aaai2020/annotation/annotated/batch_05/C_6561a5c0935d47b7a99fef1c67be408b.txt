@@ -1,0 +1,4 @@
+1: medium black dot with a medium light gray one below it and to the right?
+0: Two dots very close together. Both medium grey. The one on the right being small.
+1: I see that one! click the small one?
+0: Yes!

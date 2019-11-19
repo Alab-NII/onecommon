@@ -1,0 +1,7 @@
+T1	Markable 32 41	no others
+T2	Markable 9 26	a lonely grey dot
+T3	Markable 49 51	it
+T4	Markable 59 61	it
+T5	Markable 99 107	that one
+A1	No-Referent T1
+R1	Anaphora Arg1:T3 Arg2:T2	

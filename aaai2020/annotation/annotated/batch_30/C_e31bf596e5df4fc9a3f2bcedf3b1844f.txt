@@ -1,0 +1,3 @@
+1: Tiny grey dot, above and slightly to the left is a tiny black
+0: I see the same thing, though the black one is a little bigger than the grey
+1: Yep take black

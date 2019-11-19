@@ -1,0 +1,5 @@
+0: Do you see a large black dot?
+1: Not that large though. but i have 2 dots beside each other. left one is bigger
+0: Is it a medium gray and the smaller is a lighter gray?
+1: Yeah. let's choose the lighter grey on the right
+0: ok

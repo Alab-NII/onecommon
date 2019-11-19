@@ -1,0 +1,7 @@
+0: Do you see a large medium gray dot on the dotted line by itself?
+1: no
+0: Do you see a darker gray smaller dot near the line beside a larger darker dot?
+1: do you one small grey all by itself
+0: no
+1: one small dark with two larger dark grey
+0: Yes...let's choose the smaller one

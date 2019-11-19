@@ -1,0 +1,19 @@
+T1	Markable 22 44	a smaller lighter grey
+T2	Markable 63 81	a lonely large dot
+T3	Markable 124 150	a smaller lighter grey dot
+T4	Markable 92 118	a big lonely dark grey dot
+T5	Markable 184 206	a small light grey dot
+T6	Markable 254 272	a medium black dot
+T7	Markable 282 297	a dark grey one
+T8	Markable 413 431	a small light grey
+T9	Markable 401 403	it
+T10	Markable 469 478	the black
+T11	Markable 520 533	the black one
+T12	Markable 3 16	big dark grey
+T13	Markable 210 213	its
+T14	Markable 301 304	its
+R1	Anaphora Arg1:T14 Arg2:T6	
+T15	Markable 344 356	medium black
+T16	Markable 362 373	medium grey
+T17	Markable 501 514	a medium grey
+A1	No-Referent T17

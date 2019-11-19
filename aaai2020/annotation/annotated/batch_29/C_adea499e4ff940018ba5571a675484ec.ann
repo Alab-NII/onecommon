@@ -1,0 +1,8 @@
+T1	Markable 35 39	that
+T2	Markable 43 59	a small grey dot
+T3	Markable 96 107	the big one
+T4	Markable 80 84	that
+T5	Markable 3 18	1 big black dot
+R1	Anaphora Arg1:T1 Arg2:T5	
+T6	None 92 95	big
+#1	AnnotatorNotes T6	pick

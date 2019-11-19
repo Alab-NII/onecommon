@@ -1,0 +1,5 @@
+1: one small black dot on its own?
+0: No I don't see that on mine. I have two almost black dots right almost vertical from each other. The bottom one is slightly smaller and off to the left.
+1: I think i see it. A smaller slightly darker dot to the upper right of the top one?
+0: Yes should we pick the bottom dot?
+1: yes

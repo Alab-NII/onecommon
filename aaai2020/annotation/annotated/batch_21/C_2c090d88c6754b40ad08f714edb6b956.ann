@@ -1,0 +1,19 @@
+T1	Markable 53 59	a line
+T2	Markable 121 134	all grey ones
+T3	Markable 84 96	2 black ones
+T4	Markable 151 165	the black ones
+T5	Markable 212 224	3 light ones
+T6	Markable 188 207	the upper right one
+T7	Markable 284 304	the larger black one
+T8	Markable 315 317	it
+T9	Markable 436 449	no other dots
+T10	Markable 10 23	a small black
+T11	Markable 28 42	a medium black
+T12	Markable 138 147	the lower
+R1	Anaphora Arg1:T4 Arg2:T3	
+T13	Markable 228 232	it's
+R2	Anaphora Arg1:T13 Arg2:T6	
+T14	Markable 254 258	that
+T15	Markable 346 348	It
+T16	Markable 453 457	it's
+A1	No-Referent T9

@@ -1,0 +1,6 @@
+1: Line of 3 small light gray, larger med gray, light gray
+0: ok, are they like in the same line but the one at the right is moved towards the top a little bit/
+1: yeah! Almost could make a semi circle from them!
+0: I'm not sure. Is the one at the right the lightest of all 3?
+1: yeah and its about the same size as the middle one
+0: ok, let's pick the lighter, ok?

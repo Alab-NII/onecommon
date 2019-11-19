@@ -1,0 +1,10 @@
+T1	Markable 39 56	one of the groups
+T2	Markable 105 123	a smaller grey dot
+T3	Markable 61 79	a black medium dot
+T4	Markable 14 31	two groups of two
+T6	Markable 201 205	that
+T7	Markable 134 149	a dark gray dot
+T8	Markable 172 194	a small light gray dot
+T9	Markable 219 236	two groups of two
+T10	Markable 262 276	that small dot
+R1	Anaphora Arg1:T6 Arg2:T7	

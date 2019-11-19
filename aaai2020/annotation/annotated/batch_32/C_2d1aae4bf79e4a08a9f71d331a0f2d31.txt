@@ -1,0 +1,2 @@
+1: two dots very very close together?
+0: 2 dots beside each other. left dot is large black. right is smaller . YES. pick the left dot that is black

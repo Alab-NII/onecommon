@@ -1,0 +1,8 @@
+T1	Markable 3 22	black med sized dot
+T2	Markable 49 52	its
+T3	Markable 28 45	tiny med grey dot
+T4	Markable 135 148	the black one
+T5	Markable 98 111	the lower one
+T6	Markable 179 192	the black one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T7	Markable 73 84	another dot

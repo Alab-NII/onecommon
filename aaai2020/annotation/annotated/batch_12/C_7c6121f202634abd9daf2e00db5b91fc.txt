@@ -1,0 +1,5 @@
+0: I have 3 dots, almost in same color and size, making a triangle
+1: hmm no do you see two very large medium grey dots that form a line sloping up and to the right
+0: I do have them, is there a smaller dot between them? almost in the same color
+1: yes and its up and the right? is so click that smaller one
+0: yes

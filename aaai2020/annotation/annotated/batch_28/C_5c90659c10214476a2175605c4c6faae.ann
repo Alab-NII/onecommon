@@ -1,0 +1,6 @@
+T3	Markable 48 64	Left set of dots
+T4	Markable 121 137	the smaller pair
+T5	Markable 106 117	the top one
+T6	Markable 141 143	it
+T7	Markable 3 17	2 sets of dots
+R1	Anaphora Arg1:T6 Arg2:T5	

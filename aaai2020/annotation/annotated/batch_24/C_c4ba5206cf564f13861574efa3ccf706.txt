@@ -1,0 +1,4 @@
+0: DO you have a medium black dot with a small pale dot above it to the right?
+1: I have a medium gray and size and a light small below it and close
+0: is the lighter dot below it slightly to the right?
+1: yes let us select the lighter one below

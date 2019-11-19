@@ -1,0 +1,16 @@
+T1	Markable 32 49	a large light gre
+T2	Markable 13 26	a small black
+T3	Markable 244 258	the little dot
+T4	Markable 262 280	another little dot
+T5	Markable 316 332	a small dark dot
+T6	Markable 301 312	the big dot
+T7	Markable 341 360	that light grey dot
+T8	Markable 362 365	its
+T9	Markable 395 398	its
+T10	Markable 93 111	a small light grey
+T11	Markable 122 125	its
+R1	Anaphora Arg1:T11 Arg2:T10	
+T12	Markable 147 168	that small light grey
+T13	Markable 196 213	a large dark grey
+R2	Anaphora Arg1:T8 Arg2:T7	
+R3	Anaphora Arg1:T9 Arg2:T7	

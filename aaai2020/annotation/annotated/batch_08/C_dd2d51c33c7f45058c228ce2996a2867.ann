@@ -1,0 +1,17 @@
+T1	Markable 24 28	line
+T2	Markable 167 184	the tiny dark one
+T3	Markable 205 235	a slightly larger med/grey one
+T4	Markable 242 246	it's
+T5	Markable 307 311	it's
+T6	Markable 358 375	the tiny dark dot
+T7	Markable 3 20	one tiny dark one
+T8	Markable 34 47	a medium grey
+T9	Markable 54 66	the med grey
+T10	Markable 81 85	it's
+#1	AnnotatorNotes T10	its
+T11	Markable 124 139	a tiny dark dot
+#2	AnnotatorNotes T4	its
+R1	Anaphora Arg1:T4 Arg2:T2	
+T12	Markable 279 303	the much larger med/grey
+#3	AnnotatorNotes T5	its
+R2	Anaphora Arg1:T5 Arg2:T2	

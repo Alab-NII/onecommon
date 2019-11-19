@@ -1,0 +1,6 @@
+1: I see one very large and very dark dot that is pretty far away from the majority of the dots.
+0: I also have a very large and dark spot towards the left side
+1: Yes. Are the closest dots to it two smaller ones that are the same shade of medium grey?
+0: yes
+1: Cool. Did you pick the darkest one?
+0: yes

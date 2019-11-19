@@ -1,0 +1,22 @@
+T2	Markable 54 57	one
+T3	Markable 63 72	the other
+T5	Markable 160 163	one
+T6	Markable 10 26	two sets of dots
+T8	Markable 43 50	one set
+T9	Markable 96 106	bottom one
+T10	Markable 201 216	3 vertical dots
+T12	Markable 257 261	that
+T13	Markable 278 286	that one
+T14	Markable 356 378	a very light small dot
+T15	Markable 326 328	it
+T16	Markable 440 462	the bottom two of mine
+T19	Markable 394 400	3 dots
+T21	Markable 548 564	those three dots
+T1	Markable 74 81	top one
+T4	Markable 115 124	other set
+T7	Markable 142 146	both
+T23	Markable 218 224	middle
+T11	Markable 402 405	its
+R1	Anaphora Arg1:T11 Arg2:T19	
+T17	Markable 487 491	that
+T18	Markable 534 544	the bottom

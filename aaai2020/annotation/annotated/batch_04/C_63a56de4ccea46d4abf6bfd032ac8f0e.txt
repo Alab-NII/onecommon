@@ -1,0 +1,7 @@
+0: Do you have a very light small dot?
+1: right side lower one small dot touching the line almost
+0: Is there a big very dark dot up and to the left of it?
+1: yes
+0: Is there an even darker but smaller dot to the left and slightly below the big dark one?
+1: yes
+0: Okay let's click on the very light small dot.

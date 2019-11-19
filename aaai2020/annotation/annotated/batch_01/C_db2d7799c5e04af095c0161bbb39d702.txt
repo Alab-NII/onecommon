@@ -1,0 +1,9 @@
+1: I have only 2 light gray dots
+0: Almost all my dots are spread far apart. I have 4 large ones on the 4 corners almost. All different shades
+1: Okay. I have 2 large dots, one dark near the top and one light near the bottom in a straight line.
+0: Me too
+1: Does the dark one have two smaller dots above it?
+0: No, it has a small dark grey one to the right and slightly higher
+1: Does the large light grey dot on the bottom have a small dark grey dot over it to the right?
+0: no. it has one above and to the right, almost an inch away, its black and small
+1: choose small black dot.

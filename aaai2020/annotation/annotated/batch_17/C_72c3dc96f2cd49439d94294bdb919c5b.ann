@@ -1,0 +1,8 @@
+T1	Markable 16 34	only one black dot
+T2	Markable 58 76	one large dark dot
+T3	Markable 154 157	one
+T4	Markable 172 175	one
+T5	Markable 193 196	one
+T6	Markable 214 217	one
+T7	Markable 128 146	and tiny gray dots
+#1	AnnotatorNotes T7	any tiny gray dots

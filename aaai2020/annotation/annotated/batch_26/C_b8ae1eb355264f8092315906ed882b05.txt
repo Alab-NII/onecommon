@@ -1,0 +1,5 @@
+0: My largest dot is the blackest
+1: me too. let's select it
+0: Does it have a tiny lighter dot to the right low
+1: yes
+0: Let us select the big black

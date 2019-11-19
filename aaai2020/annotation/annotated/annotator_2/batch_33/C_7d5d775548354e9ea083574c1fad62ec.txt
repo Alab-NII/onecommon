@@ -1,0 +1,5 @@
+0: Hello
+1: I have a tiny dark gray dot with a larger very light gray dot below and to the right of it
+0: I have those too they are a little above center in the middle...it sounds like one of those are in common?
+1: Let's pick the smaller darker dot
+0: Ok deal

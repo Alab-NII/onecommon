@@ -1,0 +1,5 @@
+1: Hello! Where's your dot?
+0: I have a pair, a large dark grey and a med size med grey together do you have that?
+1: yes I think i see that, is the lighter one to the right of the other?
+0: Correct, should we select the larger dark one ?
+1: sounds good

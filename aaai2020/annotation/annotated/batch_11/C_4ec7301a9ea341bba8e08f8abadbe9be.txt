@@ -1,0 +1,10 @@
+1: i have two dots that are lighter near each other, the one one the left is lighter and up higher, they are the same size,
+0: i am not sure if i have that. do you have any black dots?
+1: yes i have one smaller black one
+0: can you describe what is near it?
+1: there's a light dot almost in a straight horizontal line with it to its left
+0: is it very small?
+1: no its about the same size. i also have two circles almost vertical to each other, the top one is slightly darker and slightly smaller than the larger, lighter one below it
+0: i think i see that
+1: ok pick the lighter bigger bottom one
+0: ok

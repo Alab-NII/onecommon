@@ -1,0 +1,8 @@
+T1	Markable 10 25	3 smallish dots
+T2	Markable 35 45	each other
+T3	Markable 70 82	the smallest
+T4	Markable 56 60	that
+T5	Markable 159 177	the light gray one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T6	Markable 119 125	bottom
+T7	Markable 129 130	3

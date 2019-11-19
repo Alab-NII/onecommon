@@ -1,0 +1,12 @@
+T1	Markable 83 96	the small dot
+T2	Markable 10 25	three dark dots
+T3	Markable 123 136	two dark dots
+T4	Markable 197 214	a horizontal line
+T5	Markable 149 152	one
+T6	Markable 26 37	one big one
+T7	Markable 53 60	med dot
+T8	Markable 137 140	one
+T9	Markable 161 165	both
+R1	Anaphora Arg1:T9 Arg2:T3	
+R2	Predicative Arg1:T4 Arg2:T3	
+T10	Markable 247 263	The smallest one

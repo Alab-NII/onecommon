@@ -1,0 +1,4 @@
+1: I have a small very light gray dot with a same sized but darker (medium) gray dot above and to the right of it
+0: no, i have two dark dots almost vertical
+1: I don't have that. My largest dot is medium gray with a smaller dot directly to the left and slightly above it.
+0: right have that... choose medium grey dot largest

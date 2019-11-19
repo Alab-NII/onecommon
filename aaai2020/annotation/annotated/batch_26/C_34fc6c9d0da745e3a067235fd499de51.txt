@@ -1,0 +1,4 @@
+1: I see one for that's pretty close to the middle. The rest are between 4 and 7 o'clock
+0: tiny black dot below large dark grey dot?
+1: Yes...around 7 o'clock?
+0: ok. click the tiny black dot then

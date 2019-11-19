@@ -1,0 +1,9 @@
+T1	Markable 22 42	a large med/grey one
+T2	Markable 79 81	it
+T3	Markable 98 112	the larger dot
+T5	Markable 202 219	a darker grey one
+T6	Markable 254 256	it
+T7	Markable 306 321	the 2 gray dots
+T8	Markable 357 379	the large med/grey one
+T9	Markable 49 69	a smaller same color
+R1	Anaphora Arg1:T2 Arg2:T1	

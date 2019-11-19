@@ -1,0 +1,11 @@
+T1	Markable 35 53	most bottom bottom
+T2	Markable 100 117	a large black one
+T3	Markable 145 157	3 small ones
+T4	Markable 161 171	each other
+T5	Markable 194 219	the larger very light one
+T6	Markable 3 15	3 small dots
+T7	Markable 73 93	Large very light one
+T8	Markable 121 124	its
+A1	No-Referent T3
+R1	Anaphora Arg1:T4 Arg2:T3	
+R2	Anaphora Arg1:T8 Arg2:T7	

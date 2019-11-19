@@ -1,0 +1,10 @@
+1: I see a large black dot with a large grey dot to the left of it
+0: I'm sorry. no. i have a group of three dots. the darkest is on the right. the largest is in the middle, and the left dot is above them.
+1: I have a group of three dots on the bottom, the one on the right is large and black, the one in the middle is small and gray and above the on one the right, and one the on the far left is even with the one on the right and is smaller than the one in the middle and also light grey
+0: No. i dont see that either ;( My lightest dot is small. its to the left of a slightly smaller but slightly darker dot
+1: hm
+0: tell me about your absolute darkest dot...
+1: it's also small and it's to the left and below a similar sized dot at the bottom
+0: we are short on time... i'm wondering if we both just select our darkest dots?
+1: sorry I misspoke it's to the right of a bigger lighter dot
+0: ok, select that darker dot

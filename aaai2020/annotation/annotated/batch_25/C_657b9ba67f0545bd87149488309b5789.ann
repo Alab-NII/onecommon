@@ -1,0 +1,14 @@
+T1	Markable 41 47	itself
+T3	Markable 181 183	it
+T4	Markable 273 275	it
+T5	Markable 305 313	that one
+T6	Markable 17 29	a darker dot
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 58 73	on black circle
+#1	AnnotatorNotes T7	one black circle
+T8	Markable 108 113	yours
+A1	Generic T8
+T9	Markable 117 121	Mine
+T2	Markable 194 216	a smallish darker gray
+T10	Markable 233 250	My small gray dot
+R2	Anaphora Arg1:T4 Arg2:T10	

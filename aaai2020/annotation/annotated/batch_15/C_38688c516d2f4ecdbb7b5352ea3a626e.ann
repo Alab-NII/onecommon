@@ -1,0 +1,10 @@
+T1	Markable 50 53	one
+T2	Markable 77 108	a very small medium colored dot
+T3	Markable 154 166	a shared one
+T4	Markable 184 209	two large light grey dots
+T5	Markable 173 178	yours
+T6	Markable 230 233	one
+T7	Markable 244 247	one
+T8	Markable 279 292	the small one
+T9	Markable 10 37	a tiny medium dark grey dot
+R1	Anaphora Arg1:T1 Arg2:T9	

@@ -1,0 +1,4 @@
+0: 2 light circle, close together, light grey, top one is larger
+1: and a darker dot off to the left and right?
+0: yes
+1: ok, let's pick the top light grey circle

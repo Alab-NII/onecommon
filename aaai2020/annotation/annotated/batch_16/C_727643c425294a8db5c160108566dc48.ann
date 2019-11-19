@@ -1,0 +1,25 @@
+T1	Markable 10 42	three very large light gray dots
+T2	Markable 46 71	a crooked horizontal line
+T3	Markable 99 115	a small dark dot
+T4	Markable 162 164	it
+T5	Markable 181 185	that
+T6	Markable 211 247	a little bit smaller and lighter dot
+T8	Markable 194 205	a black dot
+T9	Markable 272 274	it
+T10	Markable 292 296	that
+T11	Markable 309 319	2 dark dot
+T12	Markable 370 374	they
+T13	Markable 380 395	a diagonal line
+T14	Markable 401 408	the one
+T15	Markable 450 464	the bigger one
+R1	Predicative Arg1:T2 Arg2:T1	
+T16	None 78 81	dot
+T17	Markable 129 145	a med light gray
+#1	AnnotatorNotes T16	dont
+T18	Markable 87 91	that
+A1	No-Referent T18
+R2	Anaphora Arg1:T4 Arg2:T3	
+A2	No-Referent T5
+R3	Anaphora Arg1:T9 Arg2:T8	
+A3	No-Referent T10
+R4	Predicative Arg1:T13 Arg2:T12	

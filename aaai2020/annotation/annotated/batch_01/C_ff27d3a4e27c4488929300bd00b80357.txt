@@ -1,0 +1,8 @@
+1: Do you have one dark dot?
+0: I see two dark dots, similar size. One is up and right of the other one
+1: Do you have any larger dots?
+0: One that is dark gray. Next to it is a lighter gray, same size
+1: I have one large gray dot located in the lower right quadrant of the circle.
+0: Is there any dots very close to it?
+1: Not less than two centimeters.
+0: Yes. Choose that large gray

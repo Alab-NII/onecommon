@@ -1,0 +1,5 @@
+1: I have a small grey dot touching the circle at the 8 oclock position
+0: One very large very dark dot that is far from the rest?
+1: is it closer to the top?
+0: Yes!
+1: ok

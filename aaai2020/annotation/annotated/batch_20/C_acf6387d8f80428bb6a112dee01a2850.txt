@@ -1,0 +1,5 @@
+0: two dots one black very close together?
+1: One light and one dark?
+0: black one is up and to the right of the lighter one?
+1: Yes, I believe so.
+0: k click the black one!

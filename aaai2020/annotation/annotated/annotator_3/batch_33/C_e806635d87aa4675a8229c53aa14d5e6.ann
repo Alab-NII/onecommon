@@ -1,0 +1,14 @@
+T1	Markable 23 29	itself
+T2	Markable 48 68	the rest of the dots
+T4	Markable 36 38	it
+T5	Markable 94 110	your largest dot
+T6	Markable 167 169	it
+T7	Markable 173 194	two regular grey ones
+T8	Markable 197 208	One smaller
+T9	Markable 213 231	another one bigger
+T10	Markable 243 262	that large dark one
+T11	Markable 278 293	the biggest one
+T12	Markable 3 19	little black dot
+R1	Anaphora Arg1:T1 Arg2:T12	
+T3	Markable 266 275	which one
+A1	Generic T3

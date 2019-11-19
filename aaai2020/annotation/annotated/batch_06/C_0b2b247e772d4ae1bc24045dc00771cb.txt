@@ -1,0 +1,5 @@
+1: I have a large black dot just down and to the right one of one that is slightly lighter and smaller.
+0: I see two equal sized black dots aligned horizontally. Above the one on the right is a smaller and a bit lighter circle.
+1: I think I have those, too. I don't have the one to the right, because mine is at the edge. But there is one the same color, but smaller just up and to the left of it.
+0: So do you want to choose the dot on the left that is dark?
+1: Yes

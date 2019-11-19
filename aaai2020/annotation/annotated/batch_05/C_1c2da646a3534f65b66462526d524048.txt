@@ -1,0 +1,5 @@
+1: i see darker grey medium to large dot top left of circle on the dotted line
+0: Is there a tiny gray dot across from it?
+1: yes tiny grey dot is below and right of original said dot
+0: Should we try the tiny gray dot?
+1: yep

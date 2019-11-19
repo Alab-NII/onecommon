@@ -1,0 +1,5 @@
+T1	Markable 23 31	a square
+T2	Markable 3 12	four dots
+R1	Predicative Arg1:T1 Arg2:T2	
+T3	Markable 43 55	the smallest
+T4	Markable 97 118	smallest bottom right

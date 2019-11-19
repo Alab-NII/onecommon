@@ -1,0 +1,4 @@
+0: two dark dots next to one another same size?
+1: A cluster of dots, with 3 larger ones making a triangle. the triangle is made of all dark dots
+0: choose one on right
+1: ok

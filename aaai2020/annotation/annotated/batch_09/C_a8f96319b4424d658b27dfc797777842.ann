@@ -1,0 +1,15 @@
+T1	Markable 15 28	one large dot
+T2	Markable 34 36	it
+T3	Markable 60 67	my dots
+T4	Markable 88 103	any one of them
+T6	Markable 127 150	that large med grey one
+T7	Markable 154 160	itself
+T8	Markable 194 214	a smaller/darker one
+T9	Markable 247 267	a smaller darker one
+T10	Markable 344 357	the large one
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	All-Referents T3
+R2	Anaphora Arg1:T4 Arg2:T3	
+R3	Anaphora Arg1:T7 Arg2:T6	
+T5	Markable 218 222	it's
+R4	Anaphora Arg1:T5 Arg2:T6	

@@ -1,0 +1,25 @@
+T2	Markable 15 35	a pair of black dots
+T3	Markable 56 78	a light very small dot
+T4	Markable 111 125	two black dots
+T5	Markable 222 226	mine
+T6	Markable 306 324	the two black dots
+T7	Markable 272 288	a light gray dot
+T8	Markable 375 391	another gray dot
+T9	Markable 335 350	large black dot
+T10	Markable 423 428	those
+T11	Markable 442 464	a large light grey dot
+T12	Markable 516 518	it
+T13	Markable 592 599	the one
+T14	Markable 671 691	light gray small dot
+T15	Markable 698 716	the two black dots
+T16	Markable 636 638	it
+T17	Markable 738 752	that small one
+T1	Markable 152 155	one
+T18	Markable 198 205	The one
+T19	Markable 238 247	What else
+A1	Generic T19
+T20	Markable 356 364	gray dot
+A2	No-Referent T10
+T21	Markable 488 498	everything
+R1	Anaphora Arg1:T12 Arg2:T11	
+T22	Markable 557 567	black dots

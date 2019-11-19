@@ -1,0 +1,7 @@
+0: I see a light grey dot
+1: Is there a slightly darker one higher and to its left, about the same size?
+0: I see one that is slight darker and looks to be more towards the center a bit more and to the left a tad but more towards the center.
+1: Is gray dot large or small?
+0: Relative to the other dots the light gray is about the second smallest on mine
+1: Could be. The one I'm looking at is the lightest-colored gray on my circle. Remember, you're looking a different circle that overlaps mine, so my center is different than yours
+0: Ooh that's a good point. My dot that I was looking at originally is also the lightest color on my wheel

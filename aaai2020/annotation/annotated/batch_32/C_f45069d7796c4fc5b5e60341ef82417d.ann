@@ -1,0 +1,20 @@
+T1	Markable 56 79	a triangle of dark dots
+T2	Markable 21 38	a medium size one
+T4	Markable 152 156	that
+T5	Markable 199 222	a black medium size dot
+T6	Markable 284 299	the medium size
+T7	Markable 333 353	Large light gray dot
+T8	Markable 314 320	a line
+T9	Markable 412 427	small black dot
+T10	Markable 360 362	it
+T11	Markable 439 441	it
+T12	Markable 454 468	the middle one
+T13	Markable 3 17	My darkest dot
+R1	Predicative Arg1:T2 Arg2:T13	
+A1	No-Referent T4
+T3	Markable 165 192	medium size medium gray dot
+T14	Markable 235 266	a larger (not much) lighter one
+T15	Markable 366 393	medium size medium gray dot
+T16	Markable 404 408	that
+R2	Anaphora Arg1:T16 Arg2:T15	
+R3	Anaphora Arg1:T10 Arg2:T7	

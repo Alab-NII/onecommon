@@ -1,0 +1,19 @@
+T1	Markable 23 40	a larger dark one
+T2	Markable 44 46	it
+T3	Markable 3 17	very light one
+T5	Markable 117 121	them
+T6	Markable 143 160	a large dark gray
+T7	Markable 203 220	a large dark gray
+T8	Markable 268 284	a very light one
+T9	Markable 316 323	the two
+T10	Markable 357 366	Those two
+T11	Markable 535 551	the lightest one
+R1	Anaphora Arg1:T2 Arg2:T3	
+T4	Markable 61 66	these
+T12	Markable 86 96	all others
+T13	Markable 166 185	a medium light gray
+T14	Markable 226 245	a small medium gray
+R2	Anaphora Arg1:T10 Arg2:T9	
+T15	Markable 397 410	several pairs
+T16	Markable 415 423	a single
+T17	Markable 510 517	2 pairs

@@ -1,0 +1,4 @@
+0: I have one large black dot in a cluster of large grey dots
+1: 2 dots to the edge of the circle one large black below and to the right is med gray
+0: I have large black with a medium grey to the right
+1: choose the black one

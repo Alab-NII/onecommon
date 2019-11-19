@@ -1,0 +1,8 @@
+1: I have a dark small dot in the middle. Adjacent to other dots.
+0: I see two medium sized dots that are medium grey.
+1: Do you have one dot darker than the rest?
+0: I do but it's only slight darker than one close by that is similar in size and color.
+1: Yes this may be the same dot.
+0: Is the one that is larger one equidistant from two medium grey dots (one slightly smaller than the other)?
+1: Yes
+0: Okay lets click on that larger really dark one!

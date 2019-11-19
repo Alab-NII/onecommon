@@ -1,0 +1,10 @@
+T1	Markable 9 15	4 dots
+T2	Markable 125 147	a larger dark gray dot
+T3	Markable 81 98	a small black dot
+T4	Markable 238 252	the larger dot
+T5	Markable 157 178	a large dark grey dot
+T6	Markable 184 213	a small almost black grey dot
+T7	Markable 280 308	the smaller almost black one
+T8	Markable 328 343	the smaller one
+T9	Markable 50 70	a backwards letter L
+R1	Predicative Arg1:T9 Arg2:T1	

@@ -1,0 +1,3 @@
+0: 4 dots close together with one large black dot?
+1: yes! is there a small dark dot to the right and below the black one? and is there a light gray smaller do to the left of it?
+0: yes! click the black one!

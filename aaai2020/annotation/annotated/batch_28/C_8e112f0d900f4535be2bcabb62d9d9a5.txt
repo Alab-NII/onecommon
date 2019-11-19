@@ -1,0 +1,3 @@
+0: I have no black dots - I have a group of 3 large dots that form an upside down triangle - the lowest dot of that triangle appears to be the darkest
+1: is the top left the lightest? if so click that one!
+0: Yes, top left of triangle is lightest. Let's choose that

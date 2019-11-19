@@ -1,0 +1,6 @@
+0: Hello! Where's your dot?
+1: Do you see a large black dot connecting vertically with another black dot, same size
+0: I don't have that in my circle. I do have a large black dot by itself but it has another large gray dot much further to the right of it with a small dot near that
+1: I have a black large dot with a small dot near it. small one is to its left and slightly higher. its dark grey
+0: i think i see that one, click the large dot?
+1: ok

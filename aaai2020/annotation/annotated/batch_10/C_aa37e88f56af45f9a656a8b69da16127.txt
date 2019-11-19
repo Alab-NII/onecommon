@@ -1,0 +1,9 @@
+0: I see one dark dot off by itself
+1: I have one black dot by itself with a smaller lighter dot further below it and slightly to the left.
+0: There are no dots below this dark large dot
+1: I have one small black dot with a lighter dot below it about and inch and slightly to the right
+0: I have one large light gray dot with two small dark dots to the right slightly above and below it
+1: I do not see that. I have to dots very close to each other. The left one is slightly smaller and darker than the one on the right
+0: i see those
+1: lets pick the left one
+0: ok

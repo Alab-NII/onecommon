@@ -1,0 +1,7 @@
+T1	Markable 3 17	Lone black dot
+T2	Markable 51 61	a triangle
+T3	Markable 72 91	one large dark grey
+T4	Markable 109 111	it
+T5	Markable 128 141	the large one
+T6	Markable 23 41	a triangle pattern
+R1	Anaphora Arg1:T4 Arg2:T2	

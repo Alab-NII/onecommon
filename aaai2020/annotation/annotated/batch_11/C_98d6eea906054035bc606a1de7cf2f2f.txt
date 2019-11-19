@@ -1,0 +1,3 @@
+0: do you see 2 small dots together the left one is lighter in color?
+1: yes, choose the right side /darker one
+0: yes

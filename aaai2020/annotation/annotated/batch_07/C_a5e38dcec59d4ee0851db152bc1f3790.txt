@@ -1,0 +1,8 @@
+0: i have two small dark dots pretty separated from the others
+1: are they the same size?
+0: exactly the same size and stacked vertically
+1: the ones i see are diagonal to each other
+0: slightly so? sloping down and to the right?
+1: if it were a clock the top one would be 11
+0: yes and the bottom one would be the center, let's pick the top?
+1: ok

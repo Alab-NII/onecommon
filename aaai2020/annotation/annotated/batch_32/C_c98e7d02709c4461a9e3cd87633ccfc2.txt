@@ -1,0 +1,5 @@
+0: large dark dot, and above is a medium sized dark dot, to the left of that a small dark dot
+1: a bunch of black/dark dots together, yep! the small one is to its upper left?
+0: sure thing!
+1: ok lets click that large dark one
+0: sounds good!

@@ -1,0 +1,23 @@
+T1	Markable 117 121	mine
+T2	Markable 182 203	a lone tiny black dot
+T3	Markable 160 168	your dot
+T4	Markable 215 231	a tiny black dot
+T5	Markable 264 286	another small gray dot
+T6	Markable 236 238	it
+T7	Markable 297 301	mine
+T8	Markable 365 367	it
+T9	Markable 420 431	a black dot
+T10	Markable 404 414	a triangle
+T11	Markable 561 570	the three
+T12	Markable 529 541	bottom point
+T13	Markable 450 463	the black dot
+T14	Markable 583 596	the black dot
+T15	Markable 3 27	lone tiny light grey dot
+T16	Markable 40 42	it
+T17	Markable 68 79	a large dot
+A1	No-Referent T3
+R1	Anaphora Arg1:T6 Arg2:T4	
+T18	Markable 322 325	its
+R2	Anaphora Arg1:T18 Arg2:T7	
+R3	Anaphora Arg1:T8 Arg2:T7	
+T19	Markable 488 504	right top corner

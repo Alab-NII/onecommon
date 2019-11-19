@@ -1,0 +1,9 @@
+T1	Markable 32 42	a triangle
+T3	Markable 117 132	the largest dot
+T4	Markable 3 23	three very dark dots
+T5	Markable 243 265	that black largest one
+R1	Predicative Arg1:T1 Arg2:T4	
+T6	Markable 61 77	a LARGE gray one
+T7	Markable 89 90	5
+T2	Markable 136 149	that triangle
+T8	Markable 192 208	2 other dark dot

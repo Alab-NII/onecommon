@@ -1,0 +1,5 @@
+0: I have a large black dot with a medium grey large dot directly above and to the right, less than a fingers width away
+1: Do you want me to select the black or medium grey one?
+0: I want you to confirm that you have the same thing before we select. Please follow the guidelines.
+1: Yes, I do have the same two dots
+0: Ok. Select the upper dot

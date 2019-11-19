@@ -1,0 +1,7 @@
+1: I have one lonely large black dot
+0: I see a large black dot with the same size gray dot to the left and right of it
+1: Is the one on the left light gray? and the one on the right dark gray and lower than it?
+0: yes it is.
+1: Is the lower dark gray one slightly bigger?
+0: very slightly. i think the black dot that we see is the one to select
+1: ok sounds good to me

@@ -1,0 +1,6 @@
+1: med sized black dot?
+0: There is a black medium-large circle right in the middle.
+0: yes lets select it.
+1: wait is if kind of off to the right by itself? then if so yes lets click that one
+0: In mine it is dead center... there is a small very light one far down and to the left. I selected the black dot
+1: k. we have to make sure before we click and also our centers are different bc we have different views.

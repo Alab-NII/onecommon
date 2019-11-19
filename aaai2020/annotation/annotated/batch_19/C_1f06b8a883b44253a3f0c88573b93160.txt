@@ -1,0 +1,8 @@
+1: one large medium grey just above medium sized light grey
+0: do you have a large black dot lower right-center
+0: no, don't have that.
+1: tiny black dot alone at top
+0: towards the right?
+1: yes... alone
+0: that may be the one. shall we choose it?
+1: yes

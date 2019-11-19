@@ -1,0 +1,7 @@
+0: do you see small grey dot around 11 on clock
+1: I have two large circles. one medium grey almost in the middle and a dark grey/black a little to the bottom right of that
+0: i have large med grey in middle, a little above on left...and darkest grey almost black around 4:00
+1: I think i have the 4 one? Pick that one?
+0: yes...
+0: done
+1: select it

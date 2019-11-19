@@ -1,0 +1,13 @@
+T1	Markable 31 41	each other
+T2	Markable 65 74	the other
+T3	Markable 43 46	one
+T4	Markable 99 104	those
+T5	Markable 139 142	one
+T6	Markable 117 137	two medium grey dots
+T7	Markable 164 173	the other
+T8	Markable 202 204	it
+T9	Markable 218 223	those
+T10	Markable 232 239	the one
+T11	Markable 3 17	two small dots
+R1	Anaphora Arg1:T1 Arg2:T11	
+A1	No-Referent T4

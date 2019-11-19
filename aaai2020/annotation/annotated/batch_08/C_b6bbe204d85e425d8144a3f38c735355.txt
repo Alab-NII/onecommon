@@ -1,0 +1,3 @@
+0: I have one that is darker and larger than the rest.
+1: yes far below a small med grey dot?
+0: Yes. Let's click on the large dark one.

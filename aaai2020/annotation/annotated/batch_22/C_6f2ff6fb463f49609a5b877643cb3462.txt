@@ -1,0 +1,5 @@
+0: how many black dots?
+1: 3. But two of them are really close together and they are on the left
+0: any large light dots?
+1: yes. I have one large very light gray dot. it's kinda by itself
+0: choose that one

@@ -1,0 +1,14 @@
+T1	Markable 9 30	a large dark grey dot
+T2	Markable 36 60	a smaller light grey dot
+T3	Markable 75 77	it
+T4	Markable 128 138	each other
+T5	Markable 165 169	that
+T6	Markable 181 204	the large dark grey dot
+T7	Markable 242 244	it
+T8	Markable 206 232	The smaller light grey dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+T10	Markable 98 119	Two big, dark circles
+R2	Anaphora Arg1:T4 Arg2:T10	
+A1	No-Referent T5
+R3	Anaphora Arg1:T7 Arg2:T6	
+T11	Markable 279 302	the large dark grey dot

@@ -1,0 +1,4 @@
+0: cluster of 3 dark shade dots. furthest top is big dark grey
+1: I have a large black dot with a slightly smaller dark grey dot under it
+0: i see that. pick the top black dot
+1: done

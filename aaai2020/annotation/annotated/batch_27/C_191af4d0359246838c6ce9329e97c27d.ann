@@ -1,0 +1,7 @@
+T1	Markable 15 36	a large dark gray dot
+T2	Markable 86 88	it
+T3	Markable 42 59	a large black dot
+T4	Markable 121 140	the large black dot
+T5	None 10 14	gave
+#1	AnnotatorNotes T5	have
+R1	Anaphora Arg1:T2 Arg2:T1	

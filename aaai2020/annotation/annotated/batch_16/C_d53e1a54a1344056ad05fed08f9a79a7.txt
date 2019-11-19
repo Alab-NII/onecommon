@@ -1,0 +1,6 @@
+1: I have one large black dot
+0: i have a large dot but i think its dark grey because one next to it is black . i have one tiny light grey dot
+1: I do too...is it at the bottom of a diagonal line with a medium grey, medium sized dot and a smaller dark grey dot?
+0: yes
+1: Let's click the small light grey one.
+0: ok

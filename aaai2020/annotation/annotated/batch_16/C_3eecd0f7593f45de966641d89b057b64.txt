@@ -1,0 +1,10 @@
+1: I see two dots close together
+0: What size? and Color?
+1: light gray, one is small, the other is medium
+0: Is there a Dark colored one to the right of the medium light grey one?
+1: from my view there is a set of two other dots both medium size and dark gray
+0: Are they to the left of the light grey dots
+1: left sorry
+0: I do too
+1: which one to choose, the smallest light gray?
+0: That works for me.

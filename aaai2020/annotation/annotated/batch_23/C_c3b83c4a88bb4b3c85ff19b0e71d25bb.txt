@@ -1,0 +1,5 @@
+1: large black dot?
+0: i have 2 large black dots
+1: does one of them have have small black dot above it to the left?
+0: yes
+1: k click the large black one!

@@ -1,0 +1,5 @@
+T1	Markable 37 50	diagonal line
+T2	Markable 58 61	one
+T3	Markable 99 115	that lighter one
+T4	Markable 3 18	two larger dots
+R1	Predicative Arg1:T1 Arg2:T4	

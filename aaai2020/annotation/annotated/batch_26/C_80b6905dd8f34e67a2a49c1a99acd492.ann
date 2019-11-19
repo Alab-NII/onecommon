@@ -1,0 +1,9 @@
+T1	Markable 43 61	a medium black dot
+T2	Markable 15 37	a large light gray dot
+T3	Markable 86 88	it
+T4	Markable 104 108	they
+T5	Markable 175 195	the large light gray
+R1	Anaphora Arg1:T3 Arg2:T2	
+T6	Markable 127 132	their
+R2	Anaphora Arg1:T6 Arg2:T4	
+T7	Markable 154 158	mine

@@ -1,0 +1,6 @@
+1: Do you have a tiny black dot?
+0: Do you see three dots very close together making a triangle one piece darker than the other two
+1: Is the darker dot on top?
+0: Yes
+1: Okay! Let's choose the small dark dot on top
+0: Nice good luck friend

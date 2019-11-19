@@ -1,0 +1,7 @@
+1: hi! i have a pair of dots. on the right is a very dark dot dot, small and lower to the right. on the left, is a slightly larger and lighter dot
+0: I don't think I have that do you have a tiny black dot?
+1: i dont. my tiniest dot is a very light shade
+0: Does the tiniest have a slightly larger dark grey below it and to the right?
+1: no. i'm sorry. it is in a grouping of four dots.
+0: I have that Which should we choose?
+1: the smallest?

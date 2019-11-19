@@ -1,0 +1,4 @@
+0: I see two small dots that are slightly different shades and are far apart with a large dark dot in between them.
+1: I see a group of 3 dots in almost a row. A medium sized dark grey, same sized black, and I think a slightly smaller black.
+0: Yes! I see it. Is the one in the middle light grey and middle in size?
+1: I think so. Click on the light grey one.

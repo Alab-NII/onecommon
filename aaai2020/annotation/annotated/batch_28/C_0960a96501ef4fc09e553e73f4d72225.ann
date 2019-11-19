@@ -1,0 +1,7 @@
+T1	Markable 9 26	a cluster of dots
+T2	Markable 37 52	a big black dot
+T4	Markable 114 142	smaller slightly lighter dot
+T5	Markable 149 151	it
+T6	Markable 185 199	that black dot
+T3	Markable 69 83	large dark dot
+R1	Anaphora Arg1:T5 Arg2:T3	

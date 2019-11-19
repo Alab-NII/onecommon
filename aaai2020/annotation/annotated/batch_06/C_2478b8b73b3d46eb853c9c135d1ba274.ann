@@ -1,0 +1,29 @@
+T1	Markable 53 56	one
+T2	Markable 78 96	a smaller grey dot
+T3	Markable 10 27	4 large dark dots
+T4	Markable 38 48	a triangle
+T5	Markable 102 104	it
+T6	Markable 29 34	three
+T7	Markable 180 182	it
+T8	Markable 239 241	it
+T9	Markable 219 230	a light one
+T10	Markable 187 197	a dark one
+T11	Markable 143 153	a triangle
+T12	Markable 204 213	the group
+T13	Markable 286 298	the triangle
+T14	Markable 259 277	the small grey one
+T15	Markable 376 388	the triangle
+T16	Markable 369 372	one
+T17	Markable 433 445	the triangle
+R1	Predicative Arg1:T4 Arg2:T6	
+R2	Anaphora Arg1:T5 Arg2:T1	
+T18	Markable 120 125	the 3
+T19	Markable 159 171	a small gray
+R3	Anaphora Arg1:T7 Arg2:T11	
+R4	Anaphora Arg1:T12 Arg2:T11	
+R5	Anaphora Arg1:T8 Arg2:T10	
+A1	No-Referent T14
+T20	Markable 304 317	that grouping
+T21	Markable 408 415	the one
+R6	Predicative Arg1:T11 Arg2:T18	
+A2	Generic T16

@@ -1,0 +1,7 @@
+0: do you have 3 dots in a triangle shape?
+1: Two are darker than the other one
+0: yes. my lightest colored one is largest and on the left side.
+1: Yes but its only slightly larger
+0: same.
+1: Want to select that one ?
+0: sure. selecting the lightest slightly larger dot now.

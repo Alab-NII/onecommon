@@ -1,0 +1,5 @@
+0: 2 med dark dots near center do u have those
+1: I have two that are pretty dark and close together near the center.
+0: are they med size
+1: yes, the one of the left is a little higher and darker, the one on the right is slightly lower and slightly lighter
+0: click the one on the left

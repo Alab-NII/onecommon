@@ -1,0 +1,6 @@
+1: my smallest dot is the lightest
+0: Is your smallest dot the right side of a line with 2 medium gray medium size dots?
+1: actually, its a bit on its own... but between two medium size/shade dots
+0: are there 2 lighter dots above the left side? One big on medium size
+1: yes, there are... can we select the original small light dot?
+0: Perfect! will do

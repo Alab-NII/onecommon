@@ -1,0 +1,29 @@
+T1	Markable 7 21	all of my dots
+T2	Markable 38 52	my largest dot
+T3	Markable 64 74	a tiny one
+T4	Markable 116 130	Small grey dot
+T5	Markable 147 180	a lightest shade medium sized dot
+T6	Markable 141 143	it
+T7	Markable 236 252	a large grey dot
+T8	Markable 334 349	the bottom four
+T9	Markable 357 363	a line
+T10	Markable 397 412	the darkest dot
+T13	Markable 551 570	the small light dot
+T14	Markable 619 636	a larger grey dot
+T15	Markable 657 659	it
+T16	Markable 689 692	one
+T17	Markable 711 723	the lone dot
+T18	Markable 91 99	a medium
+R1	Anaphora Arg1:T6 Arg2:T4	
+T19	Markable 256 263	my dots
+A1	Generic T19
+T20	Markable 268 275	group 3
+T21	Markable 302 303	4
+R2	Predicative Arg1:T9 Arg2:T8	
+T22	Markable 458 462	dots
+A2	Generic T22
+T12	Markable 478 488	other dots
+A3	Generic T12
+R3	Anaphora Arg1:T15 Arg2:T13	
+T11	Markable 664 672	two dots
+T23	Markable 673 676	one

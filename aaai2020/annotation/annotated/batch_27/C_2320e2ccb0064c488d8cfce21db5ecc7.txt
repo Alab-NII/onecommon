@@ -1,0 +1,3 @@
+0: 4 cluster of dots with 3 greyish and 1 darkest dot. then another 2 dots aligned horizontally where right dot is larger
+1: i think i know what you are saying. Smallest darker dot with a cluster to left?
+0: yeah. pick smallest dark dot with cluster to the left

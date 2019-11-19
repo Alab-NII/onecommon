@@ -1,0 +1,2 @@
+1: Triangle shape... Black to right, medium dark grey bottom left, top left lighter grey
+0: Let's click the top left lighter grey

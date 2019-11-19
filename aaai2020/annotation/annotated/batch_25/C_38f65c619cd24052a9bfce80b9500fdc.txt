@@ -1,0 +1,6 @@
+0: small black dot?
+1: By itself
+0: yes. there is a large med grey dot up to its right?
+1: Yes
+0: which one did you click??
+1: black dot

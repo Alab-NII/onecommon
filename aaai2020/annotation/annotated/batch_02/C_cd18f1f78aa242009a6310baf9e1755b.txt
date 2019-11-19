@@ -1,0 +1,3 @@
+1: Hello! Wheres your dot?
+0: I have a group of 3 dots top left small black dot is on the bottom of this cluster
+1: I see that, lets pick the small black dot

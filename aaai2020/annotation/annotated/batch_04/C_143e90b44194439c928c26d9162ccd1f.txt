@@ -1,0 +1,5 @@
+0: I have one small black dot at about 11:30.
+1: Do you see the two darker large dots? Let's pick the darker one that is a bit lower and to the right
+0: I do have two larger darker dots. My one that is slightly below and to the right is the largest and darkest out of all of the dots.
+1: Yep that be her!! Let's choose it
+0: Sounds good.

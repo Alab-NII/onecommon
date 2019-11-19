@@ -1,0 +1,4 @@
+T1	Markable 139 154	that middle one
+T3	Markable 3 25	3 very dark large dots
+T4	Markable 93 103	the middle
+R1	Anaphora Arg1:T1 Arg2:T4	

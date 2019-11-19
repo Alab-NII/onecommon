@@ -1,0 +1,6 @@
+0: i have two dots very close together. one is black or almost black. the other is smaller and very light grey
+1: I see a black dot with a smaller gray dot lower and to the right
+0: i think we see the same thing. do you see any other dots near it?
+1: a ways to the right a black dot and to the bottom and left at an angle a ways away is a large grey dot
+0: ok. lets choose the small light grey dot that is close to the black one
+1: okay

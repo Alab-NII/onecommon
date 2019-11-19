@@ -1,0 +1,5 @@
+1: there is a light very large dot, and not close to other dots
+0: I have a line of 4 dots going up-down. Top one is small black. Bottom of 4 in line is dark grey
+1: I guess i have just 3 of them, the 4th one might be cut because of having different angles, I see the small black, then large gray very close to it
+0: Yes. Click the small black on top
+1: sure

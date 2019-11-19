@@ -1,0 +1,15 @@
+T1	Markable 69 92	a small medium grey dot
+T2	Markable 100 106	itself
+T3	Markable 121 123	it
+T4	Markable 200 203	two
+T5	Markable 223 226	one
+T6	Markable 167 176	the three
+T7	Markable 301 315	the middle one
+T8	Markable 354 356	it
+T10	Markable 3 13	Three dots
+R1	Anaphora Arg1:T2 Arg2:T1	
+T11	Markable 138 145	the one
+T12	Markable 253 262	dark gray
+T13	Markable 264 274	light gray
+T14	Markable 280 286	medium
+T15	Markable 331 333	It

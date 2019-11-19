@@ -1,0 +1,5 @@
+1: I see 7 dots.
+0: Do you have two small dots diagonal from each other? One black and one dark grey?
+1: yes
+0: Great! Which do you want to choose?
+1: Let's choose the black one. In my view it is above the light gray and a little to the left.

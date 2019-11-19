@@ -1,0 +1,15 @@
+T1	Markable 10 36	a drifting large black dot
+T2	Markable 47 60	no large dots
+T3	Markable 69 77	two dots
+T4	Markable 175 191	medium black dot
+T5	Markable 238 266	a smaller and light grey dot
+T6	Markable 280 304	the small light grey dot
+A1	No-Referent T2
+T7	Markable 87 97	each other
+R1	Anaphora Arg1:T7 Arg2:T3	
+T8	Markable 99 119	one medium dark grey
+T9	Markable 121 141	one small light grey
+T10	Markable 145 148	its
+R2	Anaphora Arg1:T10 Arg2:T8	
+T11	Markable 205 208	its
+R3	Anaphora Arg1:T11 Arg2:T4	

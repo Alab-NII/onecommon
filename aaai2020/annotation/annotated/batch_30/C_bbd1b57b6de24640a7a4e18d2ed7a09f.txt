@@ -1,0 +1,3 @@
+0: whats centermost for you?
+1: our centers are different. do you have a very large almost black dot forming a triangle w two small dots?
+0: yes choose large dot

@@ -1,0 +1,7 @@
+0: i have 4 dots that are almost aligned barely
+1: are they at the top? and dark? going down to the right kinda? cause i have 3 there like that
+0: yeah. is the middle of those 3 largest or smallest?
+1: the top one i have is small and dark. next one to the right lower is largest and med/dark grey, bottom right is furthest away and large almost black but not as large as the other one
+0: pick the right lower largest
+1: the largest is the middle one i have... med/dark grey. am i picking the darkest lower one that is large but not THE largest??
+0: the largest middle on you have

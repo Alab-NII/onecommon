@@ -1,0 +1,4 @@
+1: Big black dot 1030 o clock?
+0: I have two very tiny dots both dark one up and to the left of the other.
+1: got that too lets choose the one up to the left
+0: Okay.

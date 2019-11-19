@@ -1,0 +1,4 @@
+0: I have one large, medium gray dot by itself
+1: three light grey in a triangle shape?
+0: Yes, I see that
+1: pick the biggest light grey of the three

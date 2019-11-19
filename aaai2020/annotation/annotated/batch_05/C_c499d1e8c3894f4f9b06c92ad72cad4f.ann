@@ -1,0 +1,10 @@
+T1	Markable 102 109	the one
+T2	Markable 90 100	a triangle
+T3	Markable 140 142	it
+T4	Markable 165 179	the other dots
+T5	Markable 272 287	small black dot
+T6	Markable 9 29	tiniest black circle
+T7	Markable 71 86	three dark dots
+R1	Predicative Arg1:T2 Arg2:T7	
+T8	Markable 193 213	the dark largest dot
+R2	Anaphora Arg1:T3 Arg2:T7	

@@ -1,0 +1,10 @@
+T1	Markable 9 15	7 dots
+T2	Markable 61 71	each other
+T3	Markable 73 82	One black
+T4	Markable 87 100	one dark grey
+T5	Markable 164 177	the black one
+T6	Markable 202 216	the light gray
+T7	Markable 190 192	it
+A1	All-Referents T1
+T8	Markable 32 46	two small dots
+R1	Anaphora Arg1:T2 Arg2:T8	

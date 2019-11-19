@@ -1,0 +1,6 @@
+0: Hiya. Do you have a medium black dot just below and left of a medium light gray dot?
+1: Yes!!
+0: Awesome! Let's pick 'em!
+1: Which one did you select? The darker or lighter
+0: I don't think it matters if we pick the same one, so long as it's one in common. But I clicked the black one.
+1: Oh, Okay!

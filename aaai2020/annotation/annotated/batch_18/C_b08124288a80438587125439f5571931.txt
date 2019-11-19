@@ -1,0 +1,3 @@
+0: I've got a large dark grey above and to the left of slightly smaller black dot. Can you find the black dot ?
+1: yes, i have those. i will click the black one
+0: Alright, Black on it is

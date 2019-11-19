@@ -1,0 +1,5 @@
+1: two very close dots. a large light grey with a smaller darker dot above and to the right
+0: Do you have a large light gray dot by itself
+1: i only have a large black dot by itself
+0: What about a tiny black dot with a light gray down and to the left
+1: yes. thats what i described at first. click on the black dot

@@ -1,0 +1,5 @@
+T1	Markable 10 31	medium dark black dot
+T3	Markable 86 89	one
+T4	Markable 45 49	self
+R1	Anaphora Arg1:T4 Arg2:T1	
+T2	Markable 68 70	it

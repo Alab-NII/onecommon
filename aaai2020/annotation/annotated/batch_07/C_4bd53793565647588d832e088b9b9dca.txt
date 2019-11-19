@@ -1,0 +1,6 @@
+0: i have 3 dots almost horizontally, light gray, darker, way darker
+1: I have a big dark dot at 8 oclock all by itself. what are the sizes of those 3?
+0: the lighter and darkest ones are small same size and the not so dark one is a bit bigger
+1: Okay I think it is one of those small ones. is your lightest one on the left?
+0: yes
+1: lets go with that one

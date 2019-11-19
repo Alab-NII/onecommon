@@ -1,0 +1,5 @@
+0: A large black dot with a medium dark gray dot to its left?
+1: Hi, I've got two very dark circles one above the other with light grey circles to the left, right, and below the dark ones. One of the ones below is very light
+0: I dont seem to have that. How about 3 smaller ones in a vertical line, the top one is the darkest?
+1: i do have a large black dot with a medium grey to the left, no vertical lines of dots though. should we choose the dark dot?
+0: sounds like the dark one is the one we have in common

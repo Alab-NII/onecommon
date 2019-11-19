@@ -1,0 +1,17 @@
+T1	Markable 58 75	a small black dot
+T2	Markable 104 110	itself
+T3	Markable 124 132	that one
+T4	Markable 146 152	3 dots
+T5	Markable 163 173	a triangle
+T6	Markable 289 293	that
+T7	Markable 330 354	the small black left one
+T8	Markable 9 18	which dot
+A1	Generic T8
+R1	Anaphora Arg1:T2 Arg2:T1	
+A2	No-Referent T3
+R2	Predicative Arg1:T5 Arg2:T4	
+T9	Markable 182 203	a large dark gray one
+T10	Markable 211 224	a small black
+T11	Markable 244 261	a large black one
+T12	Markable 295 304	which one
+A3	Generic T12

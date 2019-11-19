@@ -1,0 +1,6 @@
+T1	Markable 33 61	a much smaller and light dot
+T2	Markable 106 108	it
+T3	Markable 10 27	a large black dot
+T4	Markable 119 123	that
+T5	Markable 146 159	the large dot
+R1	Anaphora Arg1:T2 Arg2:T3	

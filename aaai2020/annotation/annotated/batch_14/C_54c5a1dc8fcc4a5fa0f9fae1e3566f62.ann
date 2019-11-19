@@ -1,0 +1,13 @@
+T1	Markable 25 52	two darker one lighter dots
+T2	Markable 9 19	a triangle
+T3	Markable 77 81	that
+T4	Markable 89 105	a small triangle
+T5	Markable 86 88	it
+T6	Markable 147 163	all of my others
+T7	Markable 114 140	one large, medium-gray dot
+T8	Markable 200 207	the one
+A1	No-Referent T3
+R1	Predicative Arg1:T4 Arg2:T5	
+T10	Markable 168 171	its
+R2	Anaphora Arg1:T10 Arg2:T7	
+R3	Predicative Arg1:T1 Arg2:T2	

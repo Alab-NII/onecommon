@@ -1,0 +1,5 @@
+T1	Markable 22 38	a large dark dot
+T2	Markable 44 57	a lighter dot
+T3	Markable 89 91	it
+T4	Markable 156 174	the large dark one
+R1	Anaphora Arg1:T3 Arg2:T1	

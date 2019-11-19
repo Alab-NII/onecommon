@@ -1,0 +1,15 @@
+T1	Markable 24 50	a larger lighter black dot
+T2	Markable 67 69	it
+T3	Markable 73 87	Group of three
+T4	Markable 89 98	right one
+T5	Markable 170 180	bottom one
+T6	Markable 130 159	Left and slightly highest one
+T8	Markable 214 231	a large dark grey
+T9	Markable 203 205	it
+T10	Markable 258 260	it
+T11	Markable 3 18	medium dark dot
+R1	Anaphora Arg1:T2 Arg2:T11	
+A1	No-Referent T9
+R2	Anaphora Arg1:T10 Arg2:T8	
+T7	Markable 264 283	a small medium grey
+T12	Markable 324 344	that medium dark dot

@@ -1,0 +1,4 @@
+0: do you have 2 pale dots close together?
+1: Yes a medium light gray. Right above a large light gray.
+0: same
+1: Let's choose large one

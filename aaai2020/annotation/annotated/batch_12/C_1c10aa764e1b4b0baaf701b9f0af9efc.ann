@@ -1,0 +1,11 @@
+T1	Markable 9 17	two dots
+T2	Markable 58 62	They
+T4	Markable 170 174	They
+T5	Markable 219 221	it
+T6	Markable 229 241	the left one
+T7	Markable 19 23	Both
+T8	Markable 38 47	the right
+T9	Markable 94 103	the right
+T3	Markable 130 143	the right one
+R1	Anaphora Arg1:T7 Arg2:T1	
+R2	Anaphora Arg1:T2 Arg2:T1	

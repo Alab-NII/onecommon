@@ -1,0 +1,8 @@
+T1	Markable 9 27	two very dark dots
+T2	Markable 52 61	a big one
+T4	Markable 71 75	that
+T5	Markable 80 82	it
+T6	Markable 89 121	a large grouping of 5 total dots
+T7	Markable 145 163	the large dark one
+T8	Markable 30 39	one small
+R1	Anaphora Arg1:T5 Arg2:T4	

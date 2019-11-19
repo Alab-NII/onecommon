@@ -1,0 +1,5 @@
+0: dots large black dots almost on a vertical line?
+1: No I don't have that. I have a small dark dot and a larger lighter dot to the right.
+0: is the lighter one up above it to the right?
+1: Not the one I was looking at but I do have one like that. But the smaller dot has another larger dot below it to the right also
+0: yes! click the larger med grey dot furthest up!

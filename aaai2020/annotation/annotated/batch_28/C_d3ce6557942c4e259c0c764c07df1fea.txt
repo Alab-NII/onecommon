@@ -1,0 +1,3 @@
+1: do you see a small black dot with a slightly larger light grey dot above it
+0: No. Do you see a small light grey dot with a larger light grey dot up and to the right going diagonal?
+1: yes. select the small light grey one.

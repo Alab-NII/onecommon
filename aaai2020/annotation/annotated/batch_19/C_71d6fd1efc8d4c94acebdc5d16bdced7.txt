@@ -1,0 +1,4 @@
+1: very large dark grey dot?
+0: I see a large dark dot, smack dab center of screen
+1: your center is different from mine. we have different views. It there a small light grey dot above it to the left?
+0: yes that is the one. Go for the big dark one that is below and to the right of the small one

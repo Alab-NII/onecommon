@@ -1,0 +1,4 @@
+1: I see a pair of dots, one is larger and darker and is above and slightly to the right
+0: I think I see that. The larger darker one has a dot that is the same size and color to the right and slightly above, and the lower dot has a somewhat darker, larger dot to the right and below.
+1: Exactly! Let's pick the higher darker dot from that pair
+0: Sounds good!

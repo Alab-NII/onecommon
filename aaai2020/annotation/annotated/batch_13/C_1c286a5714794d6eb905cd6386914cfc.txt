@@ -1,0 +1,5 @@
+0: Do you see a black dot?
+1: yes, up towards the top
+0: It's got a couple other light dots around it but nothing right next to it?
+1: yes
+0: Pick the black one

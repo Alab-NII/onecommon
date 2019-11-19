@@ -1,0 +1,6 @@
+1: hello, do you have a medium size dark grey dot under a big one same color?
+0: I see an extremely dark dot . I do not see the one you have.
+1: it's a middle size under a big one same color, a little bit shifted to the right (the one above)?
+0: yes do you want to take smaller one underneath?
+1: yes, the small one underneath
+0: ok choosing it now

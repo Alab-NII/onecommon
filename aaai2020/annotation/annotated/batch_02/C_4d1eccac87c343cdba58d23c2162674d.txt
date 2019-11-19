@@ -1,0 +1,11 @@
+1: I see three dots arranged almost vertically.
+0: i have 4 med grey spread out along the bottom. middle one is darkest and smallest
+1: I don't see that.
+0: i don't see 3 vertical. what size/color and how far apart are they?
+1: Actually, I see 4 med grey spread out, but they are along the middle of the circle
+0: they kind of form a diamond if you connect the dots?
+1: Not really, they are almost in a straight horizontal line. The darkest and smallest dot in the line is also the darkest and smallest dot among all of them.
+0: it really doesnt sound the same. do you have a couple of really dark and small dots toward the top/left?
+1: No, all of my dots are in the middle of the circle or below
+0: lets try the smallest of the ones along the horizontal line
+1: Ok

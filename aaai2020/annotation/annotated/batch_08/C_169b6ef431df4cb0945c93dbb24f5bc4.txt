@@ -1,0 +1,5 @@
+1: Do you have one that is really light compared to the others?
+0: I have a group of 3 making a triangle ... from left to right... makes the tip small black... up to the right light gray smaller, down and to the right larger black...
+1: I don't have a group making a triangle. Do you have 2 dark ones?
+0: i do have 1 small lighter one and I have 3 darker ones
+1: Let's click on the small lighter one.

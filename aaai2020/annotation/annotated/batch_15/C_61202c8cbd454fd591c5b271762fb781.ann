@@ -1,0 +1,10 @@
+T1	Markable 36 46	each other
+T2	Markable 104 109	those
+T3	Markable 111 114	One
+T4	Markable 133 142	the other
+T5	Markable 182 193	the top one
+T6	Markable 15 26	to Dark One
+#1	AnnotatorNotes T6	two Dark One
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 86 87	2
+T8	Markable 171 176	the 2

@@ -1,0 +1,8 @@
+1: I see a really dark circle touching the dotted line.
+0: I see a very dark smaller circle, left side
+0: you see it?
+1: i see a lighter circle above a darker circle
+0: yes I see it and is it slight right by a smidge?
+1: the lighter circle?
+0: yes the one above
+1: yes

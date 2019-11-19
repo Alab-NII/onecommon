@@ -1,0 +1,7 @@
+0: I see two dots. Identical everything. Small and light. They are diagonal going down to the right.
+1: i have two large black 2 med black 2 med grey a one large grey
+1: is one at 4:00 position and the other above it towards center
+0: Do you see the ones I am talking about?
+1: r they near 4:00 position?
+0: Yeah. They are small and light gray? Choose the left one.
+1: ok

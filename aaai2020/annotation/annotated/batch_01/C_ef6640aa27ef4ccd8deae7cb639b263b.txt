@@ -1,0 +1,8 @@
+1: i see 6 dots that almost make an M shape
+0: i don't have an M shape, i have a light large dot at the edge of the circle, even outside of the edge a little bit
+1: do u have a dot thats all by itself. way above two larger medium grey dots?
+0: no, i have darkest dot is the smallest one in the bunch
+1: i have that, its below a large medium grey, and to the right of it, is a light grey dot? below is a large medium grey dot
+0: yes
+1: lets pick the really dark grey dot then
+0: ok

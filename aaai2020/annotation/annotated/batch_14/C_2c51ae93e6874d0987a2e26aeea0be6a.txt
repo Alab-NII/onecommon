@@ -1,0 +1,5 @@
+1: I have one dot all alone on the bottom
+0: I have one dot that is the darkest on the bottom right.
+1: is anything by it?
+0: No, the closest is a large light dot straight across the bottom
+1: okay lets click it.

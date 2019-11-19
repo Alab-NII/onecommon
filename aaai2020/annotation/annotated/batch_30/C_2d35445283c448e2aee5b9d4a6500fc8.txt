@@ -1,0 +1,10 @@
+1: i i have a black med size, it has a bigger but slightly lighter dot on lower left
+0: you see the black dot at the top
+1: I see that, it is med size
+0: No its kind of small at the top by itself
+1: what about light med size dot, with darker grey dot above it?
+0: at the top or the bottom of the circle
+1: we have different cuts, it is on the top
+0: yes is it black
+1: okay lets choose the black one
+0: ok

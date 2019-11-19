@@ -1,0 +1,9 @@
+1: Do you have a medium grey smallish dot apart from others? Closest is to the southeast.
+0: I got one big black dot isolated and also a triangle made of three big grey dots opposite of that
+1: I have no black dots. Only grey ones.
+0: Do you have three grey dots close to each other left one is big middle is small right ones is medium
+1: Maybe. Are they in a line?
+0: No the dots are going like upward
+1: In a diagonal line?
+0: Yeah
+1: Let's choose the left big one

@@ -1,0 +1,7 @@
+T1	Markable 52 55	one
+T2	Markable 64 74	a triangle
+T3	Markable 36 39	two
+T4	Markable 81 96	the darkest one
+T5	Markable 134 145	the darkest
+T6	Markable 9 34	three same size grey dots
+R1	Anaphora Arg1:T2 Arg2:T6	

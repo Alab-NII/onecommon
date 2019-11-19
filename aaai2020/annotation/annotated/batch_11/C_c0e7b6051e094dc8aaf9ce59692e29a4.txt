@@ -1,0 +1,5 @@
+1: I see a cluster of two black and two grey dots
+0: is there a smaller black dot in the cluster?
+1: Yes it is north north east of the larger black dot
+0: Yes. Let's pick that smaller black dot.
+1: Great

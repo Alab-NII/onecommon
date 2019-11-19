@@ -1,0 +1,6 @@
+0: I have two fairly large dots close together. The bottom one is much darker, slightly right and maybe slightly smaller
+1: yes I see it has an arc of 3 small dots to its right and down
+0: The small dots are going down and to the left, correct?
+1: yes they are going down and to the left
+0: Ok, lets click the darker dot I originally described
+1: ok

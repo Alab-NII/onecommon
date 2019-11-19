@@ -1,0 +1,3 @@
+1: Do you see one dot that is darker than the rest?
+0: Yes. It is small, very near another the same size but that one is lighter?
+1: Yes. Let's click that one.

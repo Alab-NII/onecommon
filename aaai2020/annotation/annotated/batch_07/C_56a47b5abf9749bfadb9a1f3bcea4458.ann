@@ -1,0 +1,17 @@
+T1	Markable 19 25	6 dots
+T2	Markable 52 76	a lonely medium grey dot
+T4	Markable 165 175	each other
+T5	Markable 92 114	a light grey large one
+T6	Markable 217 238	two medium large dots
+T7	Markable 344 362	the left light one
+T8	Markable 291 302	a light one
+T9	Markable 257 270	the dark ones
+T10	Markable 326 339	the dark ones
+T11	Markable 416 441	med size and med gray dot
+T12	Markable 377 393	small black dots
+T13	Markable 455 486	the medium size medium gray dot
+T14	Markable 532 549	the two dark ones
+T15	Markable 10 13	a x
+R1	Predicative Arg1:T1 Arg2:T15	
+T3	Markable 128 147	two dark small dots
+R2	Anaphora Arg1:T4 Arg2:T3	

@@ -1,0 +1,4 @@
+1: Large black next to smaller grey
+0: i think i see that. is the larger one to the upper right of the other one?
+1: Yes
+0: pick the larger one.

@@ -1,0 +1,19 @@
+T1	Markable 10 26	1 large grey dot
+T2	Markable 44 84	a bunch of very dark grey and black dots
+T3	Markable 169 179	each other
+T4	Markable 127 135	two dots
+T5	Markable 181 192	the top one
+T6	Markable 263 279	a tiny black dot
+T7	Markable 295 311	a tiny black dot
+T8	Markable 316 318	it
+T9	Markable 371 373	it
+T10	Markable 382 403	a large dark grey dot
+T11	Markable 436 448	3 black dots
+T12	Markable 487 506	that tiny black dot
+R1	Anaphora Arg1:T3 Arg2:T4	
+T13	Markable 207 217	the bottom
+R2	Anaphora Arg1:T8 Arg2:T7	
+R3	Anaphora Arg1:T9 Arg2:T7	
+T14	Markable 423 427	that
+R4	Anaphora Arg1:T14 Arg2:T10	
+T15	Markable 458 472	the same thing

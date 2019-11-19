@@ -1,0 +1,8 @@
+T1	Markable 85 93	that one
+T2	Markable 59 61	it
+T3	Markable 123 138	two darker ones
+T4	Markable 145 147	it
+T5	Markable 206 230	a very light colored dot
+T6	Markable 281 289	that one
+T7	Markable 3 22	black very lone dot
+R1	Anaphora Arg1:T1 Arg2:T2	

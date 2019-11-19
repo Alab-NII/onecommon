@@ -1,0 +1,5 @@
+0: Do you see one tiny dot darker than the rest?
+1: Yes I do.
+0: Let's choose that one. =)
+1: Ok!
+0: Apparently it requires more conversation.

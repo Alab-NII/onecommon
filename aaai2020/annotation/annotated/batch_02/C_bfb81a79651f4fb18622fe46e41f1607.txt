@@ -1,0 +1,7 @@
+1: i see a group of four at the top that looks like a check mark if connected
+0: I have one large black dot on the line at the top of the circle at 12:00.
+1: is there a light grey dot to the right and slightly above your black dot
+0: No but I think I may have a mirror image of your check mark but mine is in the center of the circle
+1: yes, the check mark i described is reverse of how people usually draw them
+0: Should we select the lighter grey circle in the check mark?
+1: yes

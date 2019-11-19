@@ -1,0 +1,7 @@
+1: i see a little black dot off by itself
+0: Two tiny dots of similar size and same black color. downward is the smallest
+1: a gray one to the left of the small one?
+0: Does it have a much lighter one to the top left
+1: yes
+0: Let us select the much lighter one
+1: ok

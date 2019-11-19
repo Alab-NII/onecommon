@@ -1,0 +1,13 @@
+T1	Markable 52 76	a smaller same color dot
+T2	Markable 102 104	it
+T3	Markable 121 126	those
+T4	Markable 199 208	Right one
+T5	Markable 235 240	those
+T6	Markable 253 273	the lighter gray one
+T7	Markable 10 46	a large very dark (almost black) dot
+R1	Anaphora Arg1:T2 Arg2:T7	
+A1	No-Referent T3
+T8	Markable 135 147	2 small dots
+T9	Markable 148 152	left
+T10	Markable 188 197	the right
+R2	Anaphora Arg1:T4 Arg2:T10	

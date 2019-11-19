@@ -1,0 +1,8 @@
+T1	Markable 10 33	one very light gray dot
+T2	Markable 150 174	one very small black dot
+T3	Markable 185 204	one small black dot
+T4	Markable 233 241	that one
+T5	Markable 40 54	all the others
+T6	Markable 66 94	one large black solid circle
+T7	Markable 119 141	the large black circle
+A1	No-Referent T7

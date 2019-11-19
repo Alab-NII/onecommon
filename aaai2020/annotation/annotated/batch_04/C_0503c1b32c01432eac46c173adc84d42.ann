@@ -1,0 +1,5 @@
+T1	Markable 15 25	1 dark dot
+T2	Markable 54 56	it
+T4	Markable 93 95	it
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 76 78	it

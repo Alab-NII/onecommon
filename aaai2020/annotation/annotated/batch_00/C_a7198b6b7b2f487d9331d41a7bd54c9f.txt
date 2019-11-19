@@ -1,0 +1,7 @@
+1: only one larger darker dot?
+0: i have one that is larger and is darker than the rest, in total i have 5 light grey and two darker dots
+1: pick the dark one?
+0: mine is in the upper right quadrant, so i think yours might be lower right?
+1: the big dark one has a smaller lighter one close to it, down and to the right
+0: yup, lets go for the big dark one
+1: ok

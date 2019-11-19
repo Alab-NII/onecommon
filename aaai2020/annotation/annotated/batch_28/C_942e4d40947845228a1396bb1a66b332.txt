@@ -1,0 +1,6 @@
+0: Do you have two medium sized black dots on top of each other but spaced a good distance?
+1: No but one of my Black dots is by itself...it is kinda far below two small light gray dots
+0: I have that!!
+1: The right light gray dot is a little bigger than the other
+0: Yes!
+1: ok pick the lonely black dot below the two light grey ones

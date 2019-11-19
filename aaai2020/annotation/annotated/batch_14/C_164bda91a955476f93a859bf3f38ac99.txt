@@ -1,0 +1,4 @@
+0: I have a large dark gray dot with a slightly smaller lighter gray dot above and to the right of it. They are very close together
+1: I see them!
+0: Let's pick the darker one
+1: Got it!

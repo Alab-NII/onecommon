@@ -1,0 +1,17 @@
+T1	Markable 29 32	one
+T2	Markable 59 62	one
+T3	Markable 83 86	one
+T4	Markable 107 110	one
+T7	Markable 121 133	any of those
+T8	Markable 10 28	3 large black dots
+T9	Markable 144 170	one medium-large black dot
+T10	Markable 184 192	the rest
+T11	Markable 217 229	a small grey
+T12	Markable 242 245	one
+T13	Markable 308 312	that
+T14	Markable 280 294	the small grey
+R1	Anaphora Arg1:T7 Arg2:T8	
+T5	Markable 203 216	no med blacks
+A1	No-Referent T5
+T6	Markable 264 270	either
+R2	Anaphora Arg1:T13 Arg2:T14	

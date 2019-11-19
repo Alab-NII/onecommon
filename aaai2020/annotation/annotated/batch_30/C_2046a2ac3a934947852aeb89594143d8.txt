@@ -1,0 +1,4 @@
+0: I have a large black dot, with a little bit smaller black dot down and to the right of it.
+1: I have two similar dot the one below is black and the one on top is dark
+0: I think I have that too. Should we pick the black one that is below the other one?
+1: yes

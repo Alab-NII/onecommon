@@ -1,0 +1,4 @@
+1: I have a little black dot, with a larger black dot to the right of it and down a little bit
+0: I don't believe i have that i have three smaller lighter dots in a row with a tiny one in the center and there is a darker larger dot almost right below the tiny dot
+1: I have that too - let's pick the tiny one in the center
+0: ok

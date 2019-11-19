@@ -1,0 +1,4 @@
+0: I see five dots almost in a line
+1: Hmm Do you see a tiny black dot near that line?
+0: Yeah the tiny black dot is near the top
+1: Yes click that tiny black one!

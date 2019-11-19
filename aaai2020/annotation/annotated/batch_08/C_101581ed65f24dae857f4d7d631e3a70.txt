@@ -1,0 +1,7 @@
+0: I see a dark grey large dot with an also large dark grey dot below it
+1: I do not see that. I see a large black dot with a small light one about and inch and a half above it
+0: I don't see that. I see a light grey small dot that is sitting kind of lonely
+1: to the left
+0: yes it seems to be on the left side on my view
+1: lets try it
+0: okay

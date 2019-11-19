@@ -1,0 +1,22 @@
+T1	Markable 60 77	a small black dot
+T2	Markable 38 40	it
+T3	Markable 10 27	a large black dot
+T4	Markable 94 98	that
+T5	Markable 161 178	a horizontal line
+T6	Markable 217 224	the one
+T7	Markable 180 187	The one
+T8	Markable 310 318	that one
+T9	Markable 349 392	a slightly lighter and slightly smaller dot
+T10	Markable 274 289	none of my dots
+T11	Markable 399 401	it
+T12	Markable 463 491	a larger very light gray dot
+T13	Markable 514 516	it
+T14	Markable 550 562	the dark dot
+T15	Markable 533 537	that
+R1	Anaphora Arg1:T2 Arg2:T3	
+A1	No-Referent T4
+T16	Markable 107 130	2 large same sized dots
+R2	Predicative Arg1:T5 Arg2:T16	
+A2	No-Referent T10
+T17	Markable 437 457	a tiny very dark dot
+R3	Anaphora Arg1:T13 Arg2:T17	

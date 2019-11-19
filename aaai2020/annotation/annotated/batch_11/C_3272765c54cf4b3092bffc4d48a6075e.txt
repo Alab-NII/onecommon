@@ -1,0 +1,5 @@
+1: I have a dot the slightly left of 12 oclock and slightly passing border of circle
+0: I do not have that
+1: 2 darker circles bottom left by themselves?
+0: No, I have two vertical circles to the left of the circle. One is light grey one is dark grey.
+1: lets choose the lighter one

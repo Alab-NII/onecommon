@@ -1,0 +1,4 @@
+1: do you have one small dark grey dot?
+0: Is it next to a bunch of other dots?
+1: no, its kind of by itself. do you have a large medium color grey dot with a small light gray dot to the upper right of it?
+0: I do see the small dark grey dot now lol, took me a minute to process

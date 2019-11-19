@@ -1,0 +1,7 @@
+0: What do you see?
+1: I have one darker dot, across from a tiny gray dot
+0: I don't see that.
+1: I have a series of three dots in a line
+0: Is the bottom darker than the top two? The middle is bigger?
+1: Yes, and the top is smaller.
+0: Let's click the dark bottom one.

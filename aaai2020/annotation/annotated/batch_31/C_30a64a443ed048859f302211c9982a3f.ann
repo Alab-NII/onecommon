@@ -1,0 +1,16 @@
+T1	Markable 35 45	each other
+T2	Markable 10 18	two dots
+T3	Markable 47 50	One
+T4	Markable 77 86	the other
+T5	Markable 174 176	it
+T6	Markable 139 153	Small dark Dot
+T7	Markable 235 242	the two
+T8	Markable 279 289	your black
+R1	Anaphora Arg1:T1 Arg2:T2	
+T9	Markable 116 122	A pair
+T10	Markable 130 133	its
+R2	Anaphora Arg1:T10 Arg2:T9	
+R3	Anaphora Arg1:T5 Arg2:T6	
+T11	Markable 180 210	a larger but medium size black
+A1	No-Referent T7
+T12	Markable 267 272	yours

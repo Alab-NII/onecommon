@@ -1,0 +1,6 @@
+0: one dark dot left side below touching the dot lines
+1: I have a black small dot next to a medium/large grey dot
+0: on which side ? left side center?
+1: it will be different for you , its kind of center for me
+0: i have those two
+1: Take the small black one

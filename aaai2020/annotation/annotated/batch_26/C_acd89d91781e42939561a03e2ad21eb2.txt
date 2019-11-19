@@ -1,0 +1,5 @@
+0: 2 large black dots aligned at an angle
+1: Is the lower one down and to the right?
+0: yes
+1: Let's choose the lower one
+0: ok

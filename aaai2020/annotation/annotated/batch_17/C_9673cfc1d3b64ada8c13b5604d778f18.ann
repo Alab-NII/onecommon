@@ -1,0 +1,13 @@
+T1	Markable 10 29	four med-large dots
+T2	Markable 74 82	the rest
+T3	Markable 58 61	one
+T4	Markable 115 134	the most bottom one
+T5	Markable 99 114	the darkest one
+T6	Markable 148 150	it
+T7	Markable 167 179	the gray one
+T8	Markable 188 190	it
+T9	Markable 206 218	the grey one
+T10	Markable 40 56	a vertical curve
+R1	Predicative Arg1:T10 Arg2:T1	
+R2	Predicative Arg1:T4 Arg2:T5	
+R3	Anaphora Arg1:T6 Arg2:T5	

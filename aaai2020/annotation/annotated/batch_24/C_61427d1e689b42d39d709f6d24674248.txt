@@ -1,0 +1,5 @@
+0: I have a single medium sized black dot with a tiny grey dot up and to its right
+1: med sized black dot?
+0: Are we talking about same one?
+1: i think so! does it have a tiny med grey dot up to its right?
+0: Yep! choose medium black

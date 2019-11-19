@@ -1,0 +1,12 @@
+T1	Markable 14 38	the single dark grey dot
+T2	Markable 91 94	one
+T3	Markable 200 212	a light grey
+T4	Markable 121 134	one dark gray
+T5	Markable 241 255	the light grey
+T6	Markable 60 77	a little triangle
+R1	Anaphora Arg1:T2 Arg2:T6	
+T7	Markable 110 115	light
+#1	AnnotatorNotes T7	it
+T8	Markable 146 159	a medium gray
+T9	Markable 174 177	its
+R2	Anaphora Arg1:T9 Arg2:T8	

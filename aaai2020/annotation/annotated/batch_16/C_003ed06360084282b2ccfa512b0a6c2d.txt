@@ -1,0 +1,5 @@
+0: Do you have a large dark grey dot?
+1: No. Do you have three dots that are all gray in a diagonal line? The bottom dot in the line is a little bit of a darker gray
+0: Yes!
+1: do you want to pick the top gray dot in the line?
+0: Let's do it!

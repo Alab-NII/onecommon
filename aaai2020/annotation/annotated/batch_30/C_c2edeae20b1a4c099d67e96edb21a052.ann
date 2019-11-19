@@ -1,0 +1,6 @@
+T1	Markable 10 48	an almost vertical line of 4 grey dots
+T2	Markable 58 78	a tiny dark grey dot
+T4	Markable 145 163	the tiny dark grey
+T3	Markable 113 120	the end
+T5	Markable 124 134	the "line"
+R1	Anaphora Arg1:T5 Arg2:T1	

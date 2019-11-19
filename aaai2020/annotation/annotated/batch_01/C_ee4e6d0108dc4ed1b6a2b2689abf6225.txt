@@ -1,0 +1,5 @@
+0: Do you have one small dark-grey dot distant from any others
+1: sort of, it's black
+0: Okay, and is its pretty far from any other dots? I also see a large ligth-grey dot with a slightly smaller light grey dot north east of it. Do you have those?
+1: yes I do go with the smaller of the two?
+0: Yes, smaller of the two light-grey dots. Should be the top one

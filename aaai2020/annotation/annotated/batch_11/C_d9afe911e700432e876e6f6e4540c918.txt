@@ -1,0 +1,4 @@
+1: I see two small light gray dots
+0: yes, the one on the left is slightly lighter in color?
+1: yes, let's pick the one on the left
+0: ok

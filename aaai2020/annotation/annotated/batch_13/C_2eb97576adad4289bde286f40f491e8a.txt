@@ -1,0 +1,5 @@
+0: do you have a large grey dot on the far left, 9 o clock?
+1: 2 gray dots next to each other, light gray, left one is slightly bigger.
+0: is the left one also slightly darker than the right one?
+1: Yes, let's choose the left one
+0: ok

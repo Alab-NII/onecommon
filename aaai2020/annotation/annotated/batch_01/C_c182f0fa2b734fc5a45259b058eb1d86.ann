@@ -1,0 +1,15 @@
+T1	Markable 12 23	a small dot
+T2	Markable 104 106	it
+T3	Markable 178 186	that one
+T4	Markable 200 218	a small darker dot
+T5	Markable 350 352	It
+T6	Markable 370 384	any other dots
+T7	Markable 401 409	that one
+T8	Markable 65 86	one small dark circle
+T9	Markable 126 143	two other circles
+A1	No-Referent T3
+T10	None 240 246	bottle
+#1	AnnotatorNotes T10	bottom
+T11	Markable 296 315	a large dark circle
+R1	Anaphora Arg1:T5 Arg2:T11	
+A2	No-Referent T6

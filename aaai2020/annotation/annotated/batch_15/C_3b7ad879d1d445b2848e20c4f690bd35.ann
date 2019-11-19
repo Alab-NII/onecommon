@@ -1,0 +1,15 @@
+T1	Markable 10 29	one large black dot
+T2	Markable 46 48	it
+T3	Markable 78 107	a much smaller light grey dot
+T4	Markable 212 214	it
+T5	Markable 231 250	any small dark dots
+T6	Markable 259 278	three smallish dots
+T7	Markable 305 319	The middle one
+T8	Markable 345 352	the two
+T9	Markable 425 439	the middle one
+T10	Markable 410 418	the line
+T11	Markable 125 129	this
+A1	No-Referent T11
+T12	Markable 141 168	an extremely dark small dot
+R1	Anaphora Arg1:T4 Arg2:T12	
+A2	No-Referent T5

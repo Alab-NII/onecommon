@@ -1,0 +1,4 @@
+0: I have a cluster of 3 dots forming a triangle learning right - lower right dot is black
+1: Do you see two small dots across from each other diagonally and a smaller one in the middle but up
+0: Yes, I think we see the same thing. Upper dot above is lightest? If so, let select that dot
+1: Yes!

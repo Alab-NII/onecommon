@@ -1,0 +1,4 @@
+1: two black dots close together?
+0: yes, they are slightly medium?
+1: yes smaller one up to the left? if so click that one!
+0: got it

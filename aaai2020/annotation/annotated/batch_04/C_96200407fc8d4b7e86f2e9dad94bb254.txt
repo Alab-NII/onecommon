@@ -1,0 +1,10 @@
+0: big dot bottom right?
+1: Hey bud. Yes, I got it. Do you see anything to it's left?
+0: medium sized grey dot
+1: Oh no. That's not the same dot! Do you have a tiny dark dot on yours?
+0: yes
+1: Did you already pick a dot bruh?
+0: yes
+1: I don't think I can see the one you picked. We need to find another one in common
+0: just pick one
+1: I'm taking it seriously. But I'll pick one. I don't like your style.

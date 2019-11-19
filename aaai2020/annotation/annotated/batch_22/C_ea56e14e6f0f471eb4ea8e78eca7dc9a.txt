@@ -1,0 +1,5 @@
+1: one tiny, very light grey dot, by it self
+0: Do you have a large, dark gray dot with a small, light gray dot below it and a bit to the left of it?
+0: I do not have the tiny light gray dot by itself
+1: I do have the large one you mentioned,
+0: Okay, lets pick the large one then.

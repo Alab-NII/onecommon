@@ -1,0 +1,12 @@
+T1	Markable 46 56	a triangle
+T2	Markable 15 35	three big black dots
+T3	Markable 84 94	a triangle
+T4	Markable 100 130	two smaller but very dark dots
+T5	Markable 146 162	the smaller dots
+T6	Markable 201 218	the same triangle
+T7	Markable 269 284	the largest one
+T8	Markable 230 242	the triangle
+T9	Markable 309 329	that large black one
+R1	Predicative Arg1:T1 Arg2:T2	
+T10	Markable 60 80	very large black dot
+R2	Anaphora Arg1:T8 Arg2:T6	

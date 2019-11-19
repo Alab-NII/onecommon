@@ -1,0 +1,5 @@
+0: three small dots almost forming a line with light grey dot in the middle?
+1: I have a three small dots close and the largest dots at a side
+0: are the outside dots almost black?
+1: I have two of the small dots pretty black
+0: K click the black dot most to the left!

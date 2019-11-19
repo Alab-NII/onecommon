@@ -1,0 +1,3 @@
+0: I have one very tiny light gray dot
+1: I have 2. one is near the dotted line and one in underneath a medium light grey dot
+0: I have the one under a medium light gray dot. Let's click on that one, the small one

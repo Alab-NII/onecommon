@@ -1,0 +1,4 @@
+0: Medium sized, medium gray isolated to the top right
+1: i don't have that. i see a pair of two almost vertical to one another of the same color but the top one is much smaller
+0: I have that. Choose small one?
+1: small one it is.

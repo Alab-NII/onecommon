@@ -1,0 +1,8 @@
+0: at the top, do you have a black small one with a larger (like medium size) lighter one that's medium grey right below it a little to the right?
+1: I see a large grey dot that is a slightly above the center
+0: ok is there a lighter smaller one to it's right?
+1: I have one to its right but slightly lower than the center
+0: hmmm... is there a dark, like black one, the same size as the lower light one, that's to it's lower left? directly below the bigger grey one too?
+1: Yes
+0: what did you choose?
+1: The large light grey

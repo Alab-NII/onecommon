@@ -1,0 +1,5 @@
+1: I see 5 darker dots and 2 lighter dots
+0: i have one small dark gray dot
+1: is it in line with 2 larger dots
+0: yes
+1: ok lets pick that one

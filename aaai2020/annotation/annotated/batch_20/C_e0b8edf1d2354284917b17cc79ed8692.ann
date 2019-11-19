@@ -1,0 +1,10 @@
+T1	Markable 15 22	one dot
+T2	Markable 42 44	it
+T3	Markable 82 91	a cluster
+T4	Markable 62 74	6 of my dots
+T5	Markable 114 117	one
+T7	Markable 146 148	it
+T8	Markable 165 169	that
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T3 Arg2:T4	
+R3	Anaphora Arg1:T8 Arg2:T7	

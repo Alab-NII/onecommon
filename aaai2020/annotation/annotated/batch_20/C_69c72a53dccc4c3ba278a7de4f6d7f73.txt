@@ -1,0 +1,5 @@
+0: is your smallest dot a dark grey
+1: is it almost black and with a larger dot of similar shade up and to the left of it? if so click that larger dark grey dot
+0: i have two dots up and to the left
+1: which one did you click the large dark grey one?
+0: yes

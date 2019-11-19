@@ -1,0 +1,6 @@
+0: i see two dots near each other, the one on the left is really light and the one slightly lower and to the right is medium grey, both about the same size
+1: I have a 3 dots that make a perfect diagonal line. the middle dot is the largest and of a medium grey shade
+0: going from top left, to bottom right?
+1: yes. the top is medium shade, middle is darks, and last one is the lightest shade of them all
+0: my top and bottom are about equal, lets pick middle/
+1: ok

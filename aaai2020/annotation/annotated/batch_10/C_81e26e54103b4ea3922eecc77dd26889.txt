@@ -1,0 +1,4 @@
+0: Hello, I have two dark dots, one larger, down and to the right of the other. The rest are light colored. Do you see the dark dots?
+1: yes one is smaller
+0: The smaller one is higher up and to the left. Should we click that one?
+1: yes

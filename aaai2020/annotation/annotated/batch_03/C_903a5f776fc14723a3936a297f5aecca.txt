@@ -1,0 +1,7 @@
+1: Do you have any dots on the far rim of your circle?
+0: yes i see two
+1: where are they placed
+0: far left
+1: both of them? how big/dark are they?
+0: both are on far left inside the circle and biggest out of all dots.
+1: I think we have one of those in common

@@ -1,0 +1,4 @@
+1: I have three close together. Left one is tiny, lowest and very dark.
+0: yes i see them
+1: Lets click the little dark one
+0: ok click on little dark one

@@ -1,0 +1,18 @@
+T1	Markable 9 15	3 dots
+T2	Markable 24 34	a triangle
+T3	Markable 45 51	5 dots
+T4	Markable 113 124	the darkest
+T5	Markable 82 96	the center one
+T6	Markable 148 152	that
+T7	Markable 180 187	the one
+T8	Markable 247 257	other dots
+T9	Markable 275 293	your triangle dots
+T10	Markable 339 354	that center one
+T11	Markable 356 371	the darkest one
+R1	Predicative Arg1:T2 Arg2:T1	
+T12	Markable 65 80	a bent number 4
+R2	Predicative Arg1:T12 Arg2:T3	
+R3	Predicative Arg1:T4 Arg2:T5	
+A1	No-Referent T6
+T13	Markable 375 386	your bent 4
+R4	Anaphora Arg1:T11 Arg2:T10	

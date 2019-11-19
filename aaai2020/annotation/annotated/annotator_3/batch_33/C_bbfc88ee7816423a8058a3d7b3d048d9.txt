@@ -1,0 +1,9 @@
+1: 3 dots almost on horizontal line?
+0: I have a light grey dot, about medium size
+1: did you read my message?
+0: I do not have that
+1: is your largest dot med grey?
+0: yes
+1: is there a darker smaller dot slightly below it to the left?
+0: no, there is a medium grey almost parallel to the right
+1: k click that largest med grey dot

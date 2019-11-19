@@ -1,0 +1,11 @@
+T1	Markable 10 34	3 light to med gray dots
+T2	Markable 42 52	a triangle
+T3	Markable 100 115	the tiniest dot
+T4	Markable 90 93	one
+T5	Markable 60 64	they
+T6	Markable 168 184	the darkest gray
+T7	Markable 214 229	the largest dot
+T8	Markable 244 256	the tiny dot
+R1	Predicative Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T3 Arg2:T4	
+T9	Markable 124 135	the tiniest

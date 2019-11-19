@@ -1,0 +1,12 @@
+T2	Markable 10 27	a cluster of dots
+T3	Markable 62 89	a very tiny medium gray dot
+T4	Markable 108 118	the others
+T5	Markable 29 40	A black dot
+T6	Markable 152 166	one large grey
+T7	Markable 123 134	all of mine
+T8	Markable 185 205	the large light gray
+T9	Markable 214 216	it
+T10	Markable 248 266	a medium black dot
+T11	Markable 283 305	the big light gray dot
+A1	All-Referents T7
+R1	Anaphora Arg1:T9 Arg2:T8	

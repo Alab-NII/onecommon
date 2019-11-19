@@ -1,0 +1,2 @@
+1: I have a larger black dot off to the left
+0: me too select it

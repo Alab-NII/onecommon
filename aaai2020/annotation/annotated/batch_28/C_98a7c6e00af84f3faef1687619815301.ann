@@ -1,0 +1,9 @@
+T1	Markable 47 57	each other
+T2	Markable 177 184	the one
+T3	Markable 202 207	a dot
+T4	Markable 337 341	that
+T5	Markable 3 23	two large light gray
+R1	Anaphora Arg1:T1 Arg2:T5	
+T6	Markable 90 93	the
+#1	AnnotatorNotes T6	they
+T7	Markable 278 298	your smallest circle

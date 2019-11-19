@@ -1,0 +1,7 @@
+T1	Markable 22 33	the darkest
+T2	Markable 52 66	two light ones
+T3	Markable 40 42	it
+T4	Markable 86 93	the dot
+T5	Markable 117 130	the big black
+T6	Markable 3 18	the biggest dot
+R1	Predicative Arg1:T1 Arg2:T6	

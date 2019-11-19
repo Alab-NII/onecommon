@@ -1,0 +1,5 @@
+T1	Markable 9 28	two light grey dots
+T2	Markable 43 53	each other
+T3	Markable 71 83	top left one
+T4	Markable 136 144	that one
+R1	Anaphora Arg1:T2 Arg2:T1	

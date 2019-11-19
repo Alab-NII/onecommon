@@ -1,0 +1,10 @@
+T1	Markable 54 60	2 dots
+T2	Markable 74 84	each other
+T4	Markable 124 143	the darker grey one
+T5	Markable 181 189	that one
+T6	Markable 10 28	lonely dark circle
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 86 99	A light great
+#1	AnnotatorNotes T3	A light gray
+T7	Markable 104 115	darker grey
+T8	Markable 193 205	the left one

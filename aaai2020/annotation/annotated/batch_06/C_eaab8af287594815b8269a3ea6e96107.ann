@@ -1,0 +1,9 @@
+T1	Markable 9 31	a med large darker dot
+T2	Markable 96 120	a nearly horizontal line
+T3	Markable 74 92	three smaller dots
+T4	Markable 122 129	The one
+T5	Markable 180 187	The one
+T6	Markable 233 242	your dots
+T7	Markable 257 272	the darkest one
+T8	Markable 292 303	darkest one
+R1	Predicative Arg1:T2 Arg2:T3	

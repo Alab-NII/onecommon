@@ -1,0 +1,18 @@
+T1	Markable 14 39	a medium lighter grey dot
+T2	Markable 45 56	a black dot
+T3	Markable 183 191	your dot
+T4	Markable 126 137	a tiny grey
+T5	Markable 215 223	your dot
+T6	Markable 256 277	a large dark grey dot
+T7	Markable 230 250	your medium grey dot
+T8	Markable 303 305	it
+T10	Markable 322 335	they grey dot
+T11	Markable 373 390	the dark grey one
+T12	Markable 77 80	its
+R1	Anaphora Arg1:T12 Arg2:T1	
+T13	Markable 105 120	medium grey dot
+A1	No-Referent T3
+A2	No-Referent T5
+R2	Anaphora Arg1:T8 Arg2:T7	
+T14	Markable 314 316	it
+#1	AnnotatorNotes T10	the grey dot

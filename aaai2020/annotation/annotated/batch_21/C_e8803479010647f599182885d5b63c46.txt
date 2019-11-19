@@ -1,0 +1,5 @@
+1: I have 2, 3 dot lines. One line is sloping down and to the right the other one is sort of level from left to right, ending in a darker dot?
+0: I have two small light dots , one if to the right and down
+1: the two small ones might be that first line I mentioned. Are they the same shade, like a lighter gray?
+0: yes, we can pick the rightmost of the three
+1: Ok!

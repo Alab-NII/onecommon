@@ -1,0 +1,11 @@
+T1	Markable 37 60	a much smaller dark dot
+T2	Markable 9 30	a very large dark dot
+T3	Markable 94 96	it
+T4	Markable 109 130	a large dark grey dot
+T5	Markable 136 157	a smaller lighter one
+T6	Markable 197 199	it
+T7	Markable 213 231	any tiny dark dots
+T8	Markable 240 257	one tiny dark dot
+T9	Markable 263 310	a slightly larger, but still small, lighter dot
+A1	No-Referent T3
+A2	No-Referent T6

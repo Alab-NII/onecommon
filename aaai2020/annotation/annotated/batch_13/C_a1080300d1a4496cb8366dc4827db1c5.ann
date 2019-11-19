@@ -1,0 +1,19 @@
+T1	Markable 14 22	two dots
+T2	Markable 54 64	each other
+T3	Markable 66 69	dot
+T4	Markable 126 142	a tight triangle
+T5	Markable 188 191	two
+T6	Markable 206 216	each other
+T7	Markable 220 224	they
+T8	Markable 239 252	the right one
+T9	Markable 301 305	them
+T10	Markable 275 286	my triangle
+T11	Markable 362 377	the largest one
+T12	Markable 343 355	the triangle
+R1	Anaphora Arg1:T2 Arg2:T1	
+T13	Markable 121 122	3
+R2	Predicative Arg1:T4 Arg2:T13	
+T14	Markable 146 157	left bottom
+R3	Anaphora Arg1:T6 Arg2:T5	
+R4	Anaphora Arg1:T7 Arg2:T5	
+T15	Markable 309 314	their

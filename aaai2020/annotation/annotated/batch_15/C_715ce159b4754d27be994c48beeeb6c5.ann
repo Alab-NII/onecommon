@@ -1,0 +1,8 @@
+T1	Markable 45 55	each other
+T2	Markable 71 93	a single dark grey one
+T3	Markable 118 136	a larger black one
+T4	Markable 190 209	the large black one
+T5	Markable 3 36	2 lone medium size and color dots
+R1	Anaphora Arg1:T1 Arg2:T5	
+T6	Markable 149 153	it's
+R2	Anaphora Arg1:T6 Arg2:T2	

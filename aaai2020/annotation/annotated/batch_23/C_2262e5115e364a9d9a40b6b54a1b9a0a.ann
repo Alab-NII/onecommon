@@ -1,0 +1,21 @@
+T1	Markable 35 52	a cluster of dots
+T2	Markable 57 60	one
+T4	Markable 75 81	itself
+T5	Markable 111 115	them
+T6	Markable 83 85	It
+T9	Markable 121 123	It
+T10	Markable 170 174	that
+T11	Markable 188 198	a lone one
+T12	Markable 296 306	each other
+T13	Markable 225 249	the Y shape dots cluster
+T14	Markable 262 279	two big gray dots
+T15	Markable 308 315	the one
+T16	Markable 369 383	the bottom one
+T17	Markable 385 396	the lighter
+T18	Markable 10 19	a Y shape
+R1	Anaphora Arg1:T4 Arg2:T2	
+A1	No-Referent T10
+T3	Markable 216 220	none
+A2	No-Referent T3
+R2	Anaphora Arg1:T12 Arg2:T14	
+R3	Anaphora Arg1:T17 Arg2:T16	

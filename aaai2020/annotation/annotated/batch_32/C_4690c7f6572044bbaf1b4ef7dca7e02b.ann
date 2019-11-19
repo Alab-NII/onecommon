@@ -1,0 +1,6 @@
+T1	Markable 69 71	it
+T2	Markable 43 50	nothing
+T3	Markable 96 104	that one
+T4	Markable 10 37	one medium sized light grey
+R1	Anaphora Arg1:T1 Arg2:T4	
+A1	No-Referent T2

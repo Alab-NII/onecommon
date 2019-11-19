@@ -1,0 +1,2 @@
+1: I see three dots almost vertically aligned. They are the same size, same colors - except for the bottom which is slightly darker)
+0: I see those too. Let's pick the darker one at the bottom

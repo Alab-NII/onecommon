@@ -1,0 +1,4 @@
+1: A pair of smaller dots the darker black one is above and to the right
+0: i do not have that I have two large dots the upper is medium grey to left and below is a darker one
+1: Do not see that. Do you have a lonely dark tiny dot? If so click it
+0: yes i have 1 select it

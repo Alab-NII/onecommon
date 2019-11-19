@@ -1,0 +1,5 @@
+1: Only 1 pure black dot. IT is medium/smallish
+0: Does it have a lighter one below to the left
+1: There is a dark grey one at its 8 o clock
+0: Does it have a very light one below to the right
+1: Yes! Click the black

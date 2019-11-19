@@ -1,0 +1,5 @@
+T1	Markable 41 61	a lightest shade dot
+T2	Markable 35 37	it
+T3	Markable 101 114	the dark grey
+T4	Markable 3 22	Small dark grey dot
+R1	Anaphora Arg1:T2 Arg2:T4	

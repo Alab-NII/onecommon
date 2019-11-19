@@ -1,0 +1,7 @@
+0: I see one dot that is larger in size and lighter in color than all the rest
+1: Medium sized dark dot with a larger light dot to its upper left?
+0: I see the medium dark dot to its upper left but not the other larger light dot
+1: your large light colored one, is there a smaller dark one to its lower right and possible another one to its lower left further away
+0: There's a medium black dot to the lower left and to the upper left there is a small black dot. My circle ends so there's nothing to the right
+1: thats the same one, lets click the large light one!
+0: ok!

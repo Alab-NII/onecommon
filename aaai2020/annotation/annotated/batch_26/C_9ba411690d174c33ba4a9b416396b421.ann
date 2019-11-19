@@ -1,0 +1,7 @@
+T1	Markable 132 148	the lightest dot
+T2	Markable 91 107	Three large dots
+T3	Markable 111 126	a vertical line
+T4	Markable 203 211	that one
+T5	Markable 3 13	light gray
+R1	Predicative Arg1:T3 Arg2:T2	
+T6	Markable 172 176	that

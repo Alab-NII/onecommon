@@ -1,0 +1,14 @@
+T2	Markable 52 55	ONE
+T3	Markable 98 126	all grey and light grey dots
+T4	Markable 128 145	one tiny grey dot
+T5	Markable 203 205	it
+T6	Markable 264 276	about 4 dots
+T7	Markable 235 248	the large one
+T8	Markable 281 294	the large one
+T9	Markable 350 365	a very tiny dot
+T10	Markable 310 315	three
+T11	Markable 391 411	the larger light one
+T12	Markable 3 18	most of my dots
+A1	All-Referents T3
+T1	Markable 164 192	a slightly larger light grey
+R1	Anaphora Arg1:T5 Arg2:T4	

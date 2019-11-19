@@ -1,0 +1,3 @@
+0: I have a group that forms a perfect triangle
+1: I have a similar thing, are they made of a large and light grey, a small and dark grey, and a smaller and dark grey dot?
+0: yes let choose the lightest one

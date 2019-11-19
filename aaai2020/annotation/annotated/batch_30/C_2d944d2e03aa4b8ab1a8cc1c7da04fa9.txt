@@ -1,0 +1,2 @@
+1: do you see a large black dot with another slightly smaller black dot above and to the right of it
+0: i have that. let's pick the large black dot

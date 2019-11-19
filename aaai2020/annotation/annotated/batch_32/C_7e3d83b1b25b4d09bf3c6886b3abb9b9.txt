@@ -1,0 +1,5 @@
+0: large black lone dot?
+1: Nope I have a diagonal line going upwards to the left of t 4 dots middle is smaller medium grey
+0: hmm on that line is there a small black one?
+1: No but there is one down and to the right of the middle one
+0: yes! click that small black one

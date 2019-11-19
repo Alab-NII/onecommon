@@ -1,0 +1,4 @@
+1: Do you have one small medium grey dot?
+0: Large light grey dot with a smaller dark grey dot to the right
+1: I do not have that. Larger dark grey dot with smaller medium grey one to the right of it?
+0: Yes. do the large one

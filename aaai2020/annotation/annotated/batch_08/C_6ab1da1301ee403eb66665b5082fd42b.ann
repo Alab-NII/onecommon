@@ -1,0 +1,17 @@
+T1	Markable 9 17	two dots
+T2	Markable 74 80	a line
+T3	Markable 273 291	2 LARGE black dots
+T4	Markable 314 338	two very large dark dots
+T5	Markable 399 403	them
+T6	Markable 365 372	no dots
+T7	Markable 430 437	the one
+T8	Markable 92 96	an U
+R1	Predicative Arg1:T8 Arg2:T2	
+T9	Markable 128 138	Light gray
+T10	Markable 158 176	light gray smaller
+T11	Markable 178 190	larger black
+T12	Markable 192 205	largest black
+T13	Markable 207 220	smaller black
+T14	Markable 226 245	smallest light gray
+T15	Markable 247 259	larger black
+A1	No-Referent T6

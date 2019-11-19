@@ -1,0 +1,4 @@
+1: A have a tiny medium gray dot with a larger same color dot above and to the right of it
+0: Top one is a little larger?
+1: yes.
+0: Let's choose the larger.

@@ -1,0 +1,5 @@
+0: hello which dot would you like to try for?
+1: I have five semi mid, and two that are on bottom left of my circle. I think the two is what we should aim for. One is mid to large and light and one is very small and darker
+0: are the two sloping down and to the right?
+1: Yes the larger one is underneath and lighter
+0: sounds like the same one. lets click the larger one

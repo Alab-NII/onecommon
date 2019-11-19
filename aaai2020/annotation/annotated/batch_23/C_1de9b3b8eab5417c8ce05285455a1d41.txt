@@ -1,0 +1,6 @@
+0: do You have a triangle shape made of small dots?
+1: I have 2 large dots close to each other, one is black on is light grey
+0: I do not have that.
+1: i do not have the triangle, what about a large black dot with a smaller same color dot under it to the right?
+0: Yes I see that.
+1: lets select the larger one

@@ -1,0 +1,8 @@
+T1	Markable 17 27	each other
+T2	Markable 29 37	left one
+T3	Markable 92 109	a horizontal line
+T4	Markable 156 176	the larger light one
+T5	Markable 3 9	2 dots
+R1	Anaphora Arg1:T1 Arg2:T5	
+T6	Markable 63 81	two med sized dots
+R2	Predicative Arg1:T3 Arg2:T6	

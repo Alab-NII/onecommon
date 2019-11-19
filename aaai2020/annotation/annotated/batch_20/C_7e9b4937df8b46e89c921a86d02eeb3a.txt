@@ -1,0 +1,3 @@
+1: I have a large medium grey dot up and to the left of a larger dark dot?
+0: i think i have that... is there a darker, smaller one to the upper right of your large med/grey dot ?
+1: YES! that is it! lets choose the one in the middle the large grey dot?

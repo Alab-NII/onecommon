@@ -1,0 +1,17 @@
+T1	Markable 9 26	a large black dot
+T2	Markable 73 104	a curve of 3 vertical dark dots
+T3	Markable 153 181	3 other grey/light grey dots
+T4	Markable 202 221	a cluster of 3 dots
+T5	Markable 256 269	2-3 tiny dots
+T6	Markable 271 284	tin tiny dots
+T7	Markable 329 332	one
+T8	Markable 338 341	one
+T9	Markable 363 366	one
+T10	Markable 293 304	the cluster
+T11	Markable 393 402	those two
+T13	Markable 356 358	it
+T14	Markable 423 442	the bigger grey dot
+T15	Markable 56 64	no black
+A1	No-Referent T15
+R1	Anaphora Arg1:T6 Arg2:T5	
+R2	Anaphora Arg1:T13 Arg2:T7	

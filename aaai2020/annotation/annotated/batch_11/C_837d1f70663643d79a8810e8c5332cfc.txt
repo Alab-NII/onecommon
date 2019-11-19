@@ -1,0 +1,8 @@
+1: I see a medium gray medium size dot at the top touching the line
+0: I don't have that. I have a very large black dot just to the left of a smaller dark gray dot. Do you have that?
+1: I dont see that. I have 3 dots in a diagonal line near the bottom. Darkest to the right same size medium gray in the middle and a medium to light gray smaller to the left.
+0: I don't see that. I do have one dot that is lighter than all the others, and is kind of by itself.
+1: Is it near the center kind of but a little left
+0: My circle is different, so things are in different places, but I think that is the same one.
+1: ok we can try
+0: Ok

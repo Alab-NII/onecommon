@@ -1,0 +1,5 @@
+1: I see one tiny, light grey dot with a very dark medium dot to the right of it. Do you?
+0: Very small very light off by itself?
+1: Nope, I don't have that one. I also have a large dark dot and straight above it is two light, dots almost side by side
+0: yup go with the largest dark?
+1: Sure!

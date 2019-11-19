@@ -1,0 +1,27 @@
+T1	Markable 10 26	a tiny, pale dot
+T2	Markable 34 36	it
+T3	Markable 124 141	a larger gray dot
+T4	Markable 156 160	that
+T5	Markable 169 175	3 dots
+T6	Markable 250 267	medium sized dots
+T7	Markable 319 324	those
+T9	Markable 360 380	a very tiny gray dot
+T11	Markable 450 468	my large dark grey
+T12	Markable 496 519	the tiny, pale gray dot
+T13	Markable 543 546	one
+T14	Markable 566 578	The dark one
+T15	Markable 622 630	the dark
+T16	Markable 82 84	It
+A1	No-Referent T4
+T17	Markable 240 245	All 3
+R1	Predicative Arg1:T6 Arg2:T17	
+T18	Markable 269 282	medium color,
+T19	Markable 283 295	medium color
+T20	Markable 297 312	dark grey color
+T8	Markable 392 408	My tiny grey dot
+T10	Markable 524 528	That
+T21	Markable 550 555	the 3
+T22	Markable 559 564	a row
+R2	Predicative Arg1:T22 Arg2:T21	
+T23	Markable 596 608	the diagonal
+R3	Anaphora Arg1:T23 Arg2:T22	

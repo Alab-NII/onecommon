@@ -1,0 +1,4 @@
+1: all my dots are medium color
+0: do you see two dots close together with the one to the right being smaller and darker?
+1: yes should we choose the darker/smaller?
+0: yep

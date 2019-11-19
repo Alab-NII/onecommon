@@ -1,0 +1,3 @@
+0: I have one dot that is darker than the rest, and it is big.
+1: I see one like that as well and it is on the right side with a small medium grey color to the right of it
+0: Yes. Let's go with it

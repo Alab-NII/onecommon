@@ -1,0 +1,7 @@
+0: I have one dot that is lighter than all the others.
+1: very large? towards the right?
+0: No. I have a small medium gray dot on the left by itself.
+1: I have a cluster darker gray dots, varying sizes towards the left. One large with a tiny one to the right?
+0: I see that are they they same color?
+1: yes
+0: Ok let's select the smaller one.

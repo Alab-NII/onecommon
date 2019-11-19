@@ -1,0 +1,6 @@
+T1	Markable 10 29	one very tiny light
+T2	Markable 39 61	A tiny medium gray dot
+T3	Markable 65 72	it self
+T4	Markable 81 92	Closest dot
+T5	Markable 145 157	the tiny one
+R1	Anaphora Arg1:T3 Arg2:T2	

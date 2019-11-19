@@ -1,0 +1,12 @@
+T1	Markable 41 51	each other
+T2	Markable 10 26	3 black-ish dots
+T3	Markable 99 103	them
+T4	Markable 152 159	the one
+T5	Markable 140 150	each other
+T6	Markable 114 125	3 dark dots
+T7	Markable 232 240	same one
+R1	Anaphora Arg1:T1 Arg2:T2	
+T8	Markable 53 54	2
+R2	Anaphora Arg1:T3 Arg2:T2	
+R3	Anaphora Arg1:T5 Arg2:T6	
+T9	Markable 248 267	the middle of the 3

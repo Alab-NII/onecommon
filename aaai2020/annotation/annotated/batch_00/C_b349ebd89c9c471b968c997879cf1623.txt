@@ -1,0 +1,4 @@
+0: I only have one dark black dot on the screen.
+1: Same here. Is it by a few grey dots? Two a little above, two to the bottom left ?
+0: Yep. Wanna click it?
+1: Sounds like its the one :)

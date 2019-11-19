@@ -1,0 +1,6 @@
+1: I see a lonely large black dot
+0: do you have a small dark dot, on the right of it is a larger lighter dot?
+1: I have a small black dot with a larger light gray dot on its left
+0: i don't have that, i have a black dot making a triangle with 2 other dot
+1: I do not have that, I think we should pick that small dark dot
+0: ok

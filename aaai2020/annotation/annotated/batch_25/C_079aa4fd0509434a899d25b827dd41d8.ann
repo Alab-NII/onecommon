@@ -1,0 +1,11 @@
+T1	Markable 22 33	my smallest
+T2	Markable 61 72	3 dark dots
+T3	Markable 44 56	3 light dots
+T5	Markable 227 238	the darkest
+T6	Markable 203 218	my smallest dot
+T7	Markable 249 266	the biggest light
+T8	Markable 3 18	My blackest dot
+R1	Predicative Arg1:T1 Arg2:T8	
+T4	Markable 118 132	the light ones
+R2	Predicative Arg1:T5 Arg2:T6	
+T9	Markable 137 144	biggest

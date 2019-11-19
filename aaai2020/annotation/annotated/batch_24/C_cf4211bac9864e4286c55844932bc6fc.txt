@@ -1,0 +1,2 @@
+1: Tiny black at top left with larger black below it
+0: yes if the larger black dot is slightly to the right click that larger black one!

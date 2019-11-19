@@ -1,0 +1,6 @@
+0: my darkest dot is also my smallest.
+1: I have two dots that are darker than the rest and one of those two is big and the other dot is my smallest too
+0: ok, i dont have a larger dark dot, just the small one. it is above and to the left of a large light gray dot.
+1: i have the small dot in this same position as well. would you like to confirm more or do you think we should select the little black dot?
+0: i feel confident with that little black dot. you?
+1: i do as well, going to select it then

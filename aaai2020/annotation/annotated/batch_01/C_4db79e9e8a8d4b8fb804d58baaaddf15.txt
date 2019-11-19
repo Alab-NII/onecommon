@@ -1,0 +1,6 @@
+0: Hi, I have three dark dots, two medium sized,one small in the center of my circle
+1: do you have a light, small one, toward the edge?
+0: No, but I do have a light small one in my left-center, that has two small dark dots on the top and bottom of it. Do you see two dark dots above your light dot?
+1: none of that sounds like anything i have. is the largest one that you have a medium/light one?
+0: The largest I have is a medium light one, and a medium grey one. The medium light one is on the far left side, and the medium grey is on the upper right area
+1: The largest, medium/light one, that's on the Far left side, let's choose that one

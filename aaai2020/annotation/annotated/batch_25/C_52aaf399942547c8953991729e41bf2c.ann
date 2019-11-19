@@ -1,0 +1,7 @@
+T2	Markable 58 66	triangle
+T3	Markable 9 37	smaller equilateral triangle
+T4	Markable 70 96	a light grey and small dot
+T5	Markable 114 140	the biggest darkest of all
+T1	Markable 48 54	bottom
+R1	Anaphora Arg1:T2 Arg2:T3	
+R2	Predicative Arg1:T4 Arg2:T1	

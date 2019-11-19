@@ -1,0 +1,4 @@
+0: Do you have a tiny black dot, a large grey dot is lower and to the right of it
+1: yes, let's choose the tiny black dot
+0: Is it you again that I told to click next job quick?
+1: no, not me haha

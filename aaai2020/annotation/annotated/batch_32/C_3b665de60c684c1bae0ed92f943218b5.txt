@@ -1,0 +1,4 @@
+0: i see a dark grey dot and a larger, light grey dot to the right and slightly above
+1: tiny black dot all by its lonesome self?
+0: i see that too. let's choose the lonely black dot
+1: ok. i saw your dots too. i just hit enter before i saw them. clicking on lone dot

@@ -1,0 +1,14 @@
+T1	Markable 9 23	two black dots
+T2	Markable 38 42	they
+T3	Markable 83 91	anything
+T4	Markable 98 124	either of those black dots
+T5	Markable 161 178	a bigger gray dot
+T6	Markable 203 205	it
+T7	Markable 209 214	a dot
+T8	Markable 296 314	the left black dot
+T9	Markable 129 137	Left dot
+A1	Generic T3
+T10	Markable 180 189	Right dot
+R1	Anaphora Arg1:T6 Arg2:T10	
+T11	Markable 258 278	the exact same thing
+R2	Anaphora Arg1:T2 Arg2:T1	

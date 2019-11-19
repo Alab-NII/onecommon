@@ -1,0 +1,6 @@
+T1	Markable 34 42	a square
+T2	Markable 17 26	four dots
+T3	Markable 75 82	the one
+R1	Predicative Arg1:T1 Arg2:T2	
+T4	Markable 134 156	the upper right corner
+T5	Markable 190 201	lower right

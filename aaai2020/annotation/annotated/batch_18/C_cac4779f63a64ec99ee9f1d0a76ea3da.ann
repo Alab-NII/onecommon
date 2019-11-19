@@ -1,0 +1,16 @@
+T1	Markable 75 80	yours
+T2	Markable 135 137	it
+T3	Markable 82 101	large dark grey dot
+T4	Markable 188 193	yours
+T5	Markable 237 240	one
+T6	Markable 302 309	the one
+T7	Markable 3 23	two medium grey dots
+T8	Markable 24 25	1
+T9	Markable 51 60	the other
+A1	No-Referent T1
+T10	Markable 141 171	a slightly smaller and lighter
+R1	Anaphora Arg1:T2 Arg2:T3	
+A2	No-Referent T4
+T11	Markable 194 210	1 large grey dot
+T12	Markable 234 235	2
+T13	Markable 263 272	the other

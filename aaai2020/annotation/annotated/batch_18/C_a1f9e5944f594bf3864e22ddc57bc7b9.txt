@@ -1,0 +1,4 @@
+1: do you have three dots in a triangle?
+0: yes, with a large light grey dot at the top, a small dark grey dot on the right and a medium grey dot on the bottom
+1: great! lets choose the top light grey dot
+0: okay great

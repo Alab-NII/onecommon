@@ -1,0 +1,5 @@
+1: hi
+0: hi i have two dots very close together. one is darker than the other
+1: with 2 gray dots above?
+0: yes.
+1: pick the darker one

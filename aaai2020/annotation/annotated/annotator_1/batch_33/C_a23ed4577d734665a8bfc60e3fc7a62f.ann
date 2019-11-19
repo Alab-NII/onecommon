@@ -1,0 +1,13 @@
+T1	Markable 58 72	the curved dot
+T2	Markable 10 24	two large dots
+T3	Markable 86 99	the other dot
+T4	Markable 123 127	that
+T5	Markable 136 142	3 dots
+T6	Markable 161 176	a vertical line
+T7	Markable 178 185	The one
+T8	Markable 245 249	that
+T9	Markable 268 291	the lightest larger dot
+T10	Markable 306 314	the line
+A1	No-Referent T4
+R1	Predicative Arg1:T6 Arg2:T5	
+T11	Markable 223 234	the other 2

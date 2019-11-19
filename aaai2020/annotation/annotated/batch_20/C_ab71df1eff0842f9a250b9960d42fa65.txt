@@ -1,0 +1,4 @@
+0: larger black dot at slightly lower then 9 o clock
+1: small black dot below it
+0: yes
+1: choose large black dot

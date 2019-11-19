@@ -1,0 +1,12 @@
+T1	Markable 25 35	each other
+T2	Markable 91 119	two identical dark grey dots
+T3	Markable 160 162	it
+T4	Markable 121 134	the other one
+T5	Markable 216 223	the one
+T6	Markable 244 262	the dark grey ones
+T7	Markable 304 321	the dark grey one
+T8	Markable 3 9	3 dots
+R1	Anaphora Arg1:T1 Arg2:T8	
+T9	Markable 69 79	the middle
+T10	Markable 170 180	the middle
+T11	Markable 270 274	it's

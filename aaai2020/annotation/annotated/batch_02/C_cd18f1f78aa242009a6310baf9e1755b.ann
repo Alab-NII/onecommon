@@ -1,0 +1,6 @@
+T2	Markable 37 54	a group of 3 dots
+T3	Markable 64 79	small black dot
+T4	Markable 100 112	this cluster
+T5	Markable 138 157	the small black dot
+R1	Anaphora Arg1:T4 Arg2:T2	
+T1	Markable 122 126	that

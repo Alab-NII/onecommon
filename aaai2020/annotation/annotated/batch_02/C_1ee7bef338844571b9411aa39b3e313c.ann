@@ -1,0 +1,6 @@
+T1	Markable 14 36	a large light gray dot
+T2	Markable 40 46	itself
+T3	Markable 55 57	It
+T4	Markable 112 116	mine
+T5	Markable 141 149	that one
+R1	Anaphora Arg1:T2 Arg2:T1	

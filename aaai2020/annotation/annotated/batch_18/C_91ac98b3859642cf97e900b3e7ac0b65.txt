@@ -1,0 +1,7 @@
+0: hi! i have one very small very light dot... do you see it
+1: kind of in the middle, but lower and to the left
+0: no, mine is lower right quadrant. with two similar size/shade larger dots.
+1: i have two light medium sized grey dots toward the top,
+0: what are their sizes?
+1: medium sized to large, one of the far left, the other slightly above and about an inch to the right same color
+0: click the largest?

@@ -1,0 +1,6 @@
+1: I have a very large dark grey dot all alone?
+0: I don't have an all alone large dot
+1: My view it is in a corner and on the opposite corner I have a small dark grey dot?
+0: I think I see it, do those dots have any dots in between them?
+1: Agreed! Let's choose the smaller one?
+0: Okay

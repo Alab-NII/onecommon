@@ -1,0 +1,8 @@
+0: My largest dot is dark gray and located in the top left of circle around 11 oclock
+1: My largest dot is light grey between 3-4 oclock
+0: Is there a slightly smaller and darker gray dot right by it?
+1: smaller but same light grey
+0: Is the smaller one a lot smaller? I see a large light gray with another light gray that has about half the diameter
+1: i think
+0: Pick the large light gray?
+1: ok

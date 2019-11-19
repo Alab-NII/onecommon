@@ -1,0 +1,4 @@
+0: do you see 2 larger grey close to circle edge?
+1: Yes one is lower slightly to the right
+0: lets pick the larger of the 2 ok?
+1: Okay

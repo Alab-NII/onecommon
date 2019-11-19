@@ -1,0 +1,5 @@
+1: I have a tiny very light gray dot with a large slightly darker dot to the left and slightly above it
+0: Nope. I have a medium gray dot with a slightly larger same color dot below and barely to the south west/left
+1: I don't see that. What about a dark gray (almost black) dot with a slightly smaller and slightly lighter dot below and to the left of it?
+0: I see the tiny very light gray dot now. We should click that one.
+1: yes

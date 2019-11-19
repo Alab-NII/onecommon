@@ -1,0 +1,19 @@
+T1	Markable 3 17	two large dots
+T2	Markable 19 26	Top one
+T3	Markable 74 93	no large light dots
+T4	Markable 232 255	an almost-vertical line
+T5	Markable 215 227	3 small ones
+T7	Markable 367 374	top one
+T8	Markable 462 484	the middle smaller one
+A1	No-Referent T3
+T9	Markable 102 129	the darkest/ med-large size
+T10	Markable 171 174	any
+R1	Predicative Arg1:T4 Arg2:T5	
+T11	Markable 257 260	top
+T12	Markable 265 271	bottom
+T13	Markable 303 309	bottom
+R2	Anaphora Arg1:T13 Arg2:T12	
+T14	Markable 330 336	middle
+R3	Anaphora Arg1:T7 Arg2:T11	
+T15	Markable 409 413	both
+T6	Markable 434 438	what

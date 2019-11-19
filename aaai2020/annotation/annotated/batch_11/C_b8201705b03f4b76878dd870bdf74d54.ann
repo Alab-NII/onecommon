@@ -1,0 +1,20 @@
+T1	Markable 50 60	light ones
+T2	Markable 101 106	those
+T3	Markable 84 94	black ones
+T4	Markable 217 227	light ones
+T5	Markable 319 321	it
+T6	Markable 297 312	a dark tiny one
+T7	Markable 344 346	it
+T8	Markable 333 337	none
+T9	Markable 408 410	it
+T10	Markable 423 425	it
+T11	Markable 439 452	a smaller one
+T13	Markable 456 464	that one
+T14	Markable 514 537	your 9 oclock light one
+T16	Markable 3 16	tiny gray dot
+T17	Markable 156 171	a med size gray
+T18	Markable 256 268	the med/grey
+A1	No-Referent T8
+T19	Markable 355 358	its
+T20	Markable 377 401	a similar size light one
+R1	Anaphora Arg1:T10 Arg2:T9	

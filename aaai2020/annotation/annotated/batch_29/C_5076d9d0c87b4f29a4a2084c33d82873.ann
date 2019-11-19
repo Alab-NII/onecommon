@@ -1,0 +1,8 @@
+T1	Markable 14 20	7 dots
+T2	Markable 63 73	seven dots
+T3	Markable 99 116	a cluster of five
+T4	Markable 123 138	the darkest one
+T7	Markable 170 172	it
+T8	Markable 212 220	that one
+A1	All-Referents T1
+A2	All-Referents T2

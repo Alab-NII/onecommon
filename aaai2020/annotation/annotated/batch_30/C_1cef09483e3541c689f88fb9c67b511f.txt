@@ -1,0 +1,8 @@
+1: 3 dots together. Left is light. Middle is smaller and black. Right is same size as the left one and black.
+0: I see one large dot on its own and three pairs of dots. Not sure I see the three dots together
+1: No. Ok. I don't see what you described either. What else do you see/
+0: I see two medium dots about the same size. The one on the left and slightly down is black and the one on the right is light gray
+1: Ok is it going in a / direction? Semi-close but not real close?
+0: yeah they're about an inch apart, maybe a little less. And further away, to the left of the dark dot, there's another dark dot about the same size
+1: Yeah. Ok. lets choose the black dot.
+0: ok

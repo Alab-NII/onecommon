@@ -1,0 +1,4 @@
+1: Hi, I have a gray dot all the way in the bottom
+0: how about two black medium sized dots almost vertical. the bottom one is slightly smaller and to the right and has a medium grey dot to it's lower left?
+1: I think I have those two black dots. Does the smaller one on the bottom is closer to the right side?
+0: yes. lets go with that smaller dot

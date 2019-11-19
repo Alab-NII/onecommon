@@ -1,0 +1,8 @@
+T1	Markable 60 62	it
+T2	Markable 26 42	a large dark one
+T3	Markable 118 131	the light dot
+T6	Markable 89 101	the dark dot
+T7	Markable 159 163	that
+T8	Markable 186 199	the light one
+T10	Markable 3 20	lightish med size
+R1	Anaphora Arg1:T1 Arg2:T10	

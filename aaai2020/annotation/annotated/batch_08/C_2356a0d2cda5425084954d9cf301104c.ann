@@ -1,0 +1,11 @@
+T1	Markable 40 60	a large lighter grey
+T2	Markable 99 104	those
+T3	Markable 76 78	it
+T4	Markable 151 166	the lighter one
+T5	Markable 185 199	the darker one
+T6	Markable 119 127	two dots
+T7	Markable 207 211	they
+T8	Markable 270 291	the lighter color one
+T9	Markable 10 26	a large med grey
+R1	Anaphora Arg1:T3 Arg2:T9	
+T10	Markable 240 244	mine

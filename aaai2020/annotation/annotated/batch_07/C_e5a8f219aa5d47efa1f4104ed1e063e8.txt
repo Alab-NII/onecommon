@@ -1,0 +1,5 @@
+0: I see one very small dot that is pretty dark and kind of in the center of the rest of the dots
+1: ok, do you only have one small black dot?
+0: Were you able to see the message I just sent?
+1: no
+0: Oh sorry misread yours. Yes I do

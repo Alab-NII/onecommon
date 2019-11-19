@@ -1,0 +1,5 @@
+0: Hi do you see three dots forming a triangle?
+1: YES! I was typing that... is your middle one black?
+0: YES! And the one to the left of that is slightly lighter?
+1: yes! Lets choose the black one
+0: Have a great night! :)

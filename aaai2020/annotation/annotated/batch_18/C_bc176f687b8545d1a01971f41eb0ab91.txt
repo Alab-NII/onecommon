@@ -1,0 +1,9 @@
+1: I have two very close together. They are both small-medium size, and basically the same size. The one on the top is a darker shade, and a little to the right.
+0: no
+1: Ok, I have a single small-medium size black dot. Below is and to its right is a small dark grey dot.
+0: No. Do you have any light grey dots at the bottom?
+1: Not really. I have a large dark grey dot, diagonal up and to its left is a larger very light grey dot. They are similar, large, size.
+0: I got large light grey dot up top on the left side
+1: Does it have a small black dot almost directly below it, kind of far away, but with nothing in between?
+0: yes
+1: Ok, click the big light grey

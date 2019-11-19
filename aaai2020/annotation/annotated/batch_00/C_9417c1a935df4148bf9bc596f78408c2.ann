@@ -1,0 +1,20 @@
+T1	Markable 10 39	only one very large black dot
+T2	Markable 53 61	only one
+T4	Markable 85 88	two
+T5	Markable 186 205	one small light one
+T6	Markable 145 185	a cluster of medium grey/medium size (3)
+T7	Markable 220 231	the cluster
+T8	Markable 263 274	the cluster
+T9	Markable 233 247	one dark small
+T10	Markable 293 297	that
+T11	Markable 316 342	the smaller light gray one
+T12	Markable 357 368	the cluster
+T13	Markable 452 465	the small one
+T14	Markable 466 468	it
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 90 94	both
+R2	Anaphora Arg1:T3 Arg2:T4	
+R3	Anaphora Arg1:T7 Arg2:T6	
+R4	Anaphora Arg1:T8 Arg2:T6	
+T15	Markable 435 440	the 3
+R5	Anaphora Arg1:T14 Arg2:T15	

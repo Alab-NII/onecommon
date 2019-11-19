@@ -1,0 +1,5 @@
+1: large dark gray dot
+0: I have two large dark gray ones. Does yours have a very small, very light dot right next to it on the right?
+1: yes at about 3:30 and about 1cm to the right
+0: Yes, I think that's the same one. Let's pick the large dark gray one.
+1: lets do it

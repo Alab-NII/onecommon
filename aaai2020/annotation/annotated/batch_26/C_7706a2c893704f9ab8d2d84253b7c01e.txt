@@ -1,0 +1,3 @@
+0: I see 2 BIG black dots. There is a tiny black dot between them to the right
+1: Yes! want to pick the blackest dot furthest up?
+0: sure

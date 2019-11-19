@@ -1,0 +1,11 @@
+T1	Markable 15 30	a med/light one
+T2	Markable 40 58	a smaller dark one
+T3	Markable 124 131	top one
+T4	Markable 195 211	bottom right one
+T5	Markable 249 254	those
+T7	Markable 325 342	the top light one
+T8	Markable 81 85	it's
+R1	Anaphora Arg1:T8 Arg2:T1	
+T9	Markable 96 122	Three medium to large dots
+T10	Markable 162 173	bottom left
+T11	Markable 258 271	the light one

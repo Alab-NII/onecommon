@@ -1,0 +1,4 @@
+1: I see two dark dots almost in the center
+0: no, can you see big light grey dot ,with dark medium size dot to its right
+1: yes
+0: lets select light grey dot

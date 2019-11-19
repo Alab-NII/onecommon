@@ -1,0 +1,14 @@
+T1	Markable 76 90	all light dots
+T2	Markable 95 108	one black dot
+T3	Markable 117 119	it
+T4	Markable 134 136	it
+T5	Markable 170 192	a small media gray one
+T6	Markable 206 208	it
+T7	Markable 241 265	the large light gray dot
+T8	Markable 228 239	the big one
+T9	Markable 3 20	massive light one
+T10	Markable 26 34	a "moon"
+T11	Markable 38 41	its
+R1	Anaphora Arg1:T11 Arg2:T9	
+R2	Anaphora Arg1:T4 Arg2:T3	
+R3	Predicative Arg1:T7 Arg2:T8	

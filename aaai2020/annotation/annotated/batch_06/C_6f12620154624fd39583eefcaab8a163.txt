@@ -1,0 +1,8 @@
+1: mine looks like a smiley face missing its middle teeth
+0: Is your smallest dot a light grey?
+1: yes but it has a lighter bigger one on its right and bigger darker one on its left
+0: Mine looks like the smiley, too! the two beside where the middle teeth would be, are they the same size? Both black?
+1: yes!
+0: Okay so which would we choose?
+1: the one on the right
+0: Okay

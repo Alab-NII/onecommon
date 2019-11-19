@@ -1,0 +1,5 @@
+0: 3 dots that form a vertical line. Top is black, middle is bigger and gray, bottom is smallest and almost black.
+1: Yes, I have that. But it's not a completely vertical line, is yours?
+0: No, the top dot is more towards the left.
+1: okay. want to choose the larger, gray dot in the middle?
+0: yeah

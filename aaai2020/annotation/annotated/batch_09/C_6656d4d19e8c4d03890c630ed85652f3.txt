@@ -1,0 +1,6 @@
+0: I have two medium sized dots fairly close together. The one on top is much darker, and a little larger. The one on bottom is a little to the right
+1: I see 4 dots in a relatively straight line where the small dot on the end is darkest
+0: Do the two dots I described sound like the middle of your line?
+1: possibly the first two dots is very dark and the second dot is very light
+0: The small dark dot at the end of the line... does it have a much lighter, similarly sized dot to its 2-3oclock?
+1: yes, pick the small dark dot

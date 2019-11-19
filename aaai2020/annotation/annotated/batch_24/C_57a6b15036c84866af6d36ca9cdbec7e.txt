@@ -1,0 +1,7 @@
+1: i have 2 larger dark and 2 medium dark and 2 lighter dark and 1 very light dots
+0: is there a medium gray dot to the right of the light gray dot?
+1: no the light gray dot is on its own. i have a smaller dark dot to the right and slightly below the darker grey
+0: okay, i don't think i see that on mine... do you see a large dark dot, with two smaller dots lined up underneath it?
+1: yes although the smaller dot below are slightly slanting to the left underneath
+0: yes! lets choose the large dot
+1: agree

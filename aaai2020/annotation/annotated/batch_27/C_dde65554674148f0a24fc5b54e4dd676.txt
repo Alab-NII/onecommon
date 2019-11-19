@@ -1,0 +1,6 @@
+0: Hi, i've got a bunch of light grey dots and one dark grey
+1: Does the dark grey have a dot up and to the left of it that is lighter?
+0: yes!
+1: Which do you want to choose?
+0: you tell me, either the light grey up and to the left or the dark grey one?
+1: Dark Grey!

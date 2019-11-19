@@ -1,0 +1,3 @@
+0: I have one dot that is darker than the rest. There is a lighter dot the same size almost directly above it.
+1: i don't have that, i have a tiny light grey dot above and to the left of a larger dot same color, and to the right of the tiny dot is a large dark grey dot
+0: Yes, I have that. Let's pick the smallest dot.

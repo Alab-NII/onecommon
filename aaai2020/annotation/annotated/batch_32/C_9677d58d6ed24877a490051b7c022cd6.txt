@@ -1,0 +1,5 @@
+0: I have a group of two dots, almost next to each other, the left is smaller and black, the right is Large and light grey
+1: I see, but is there another grey below both dots?
+0: yes but mine shows is about two inches below the group of two. It is about the same size as the black left dot.
+1: Ok lets click the darkest dot in that group?
+0: okay

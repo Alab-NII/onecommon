@@ -1,0 +1,11 @@
+T1	Markable 20 35	horizontal line
+T2	Markable 128 132	that
+T3	Markable 139 155	your largest dot
+T4	Markable 221 223	it
+T5	Markable 307 332	that largest med grey dot
+T6	Markable 3 9	3 dots
+R1	Predicative Arg1:T1 Arg2:T6	
+T7	Markable 47 63	a light grey dot
+A1	No-Referent T2
+T8	Markable 185 205	a darker smaller dot
+T9	Markable 253 266	a medium grey

@@ -1,0 +1,12 @@
+T1	Markable 142 153	the top one
+T2	Markable 247 261	the light grey
+T3	Markable 268 270	it
+T4	Markable 180 194	the bottom one
+T5	Markable 290 310	that bottom dark one
+T6	Markable 3 28	two large light grey dots
+T7	Markable 64 70	3 dots
+T8	Markable 86 96	large gray
+T9	Markable 98 115	medium light gray
+T10	Markable 117 130	med dark gray
+A1	No-Referent T1
+R1	Anaphora Arg1:T3 Arg2:T4	

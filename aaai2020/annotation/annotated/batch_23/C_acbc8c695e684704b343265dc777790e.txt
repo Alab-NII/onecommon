@@ -1,0 +1,3 @@
+0: Lonely tiny black dot
+1: is there a small light gray dot below it?
+0: Yep, click black

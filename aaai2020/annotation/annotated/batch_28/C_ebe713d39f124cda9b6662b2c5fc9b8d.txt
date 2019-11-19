@@ -1,0 +1,5 @@
+0: very large black dot with tiny light dot above it to the left?
+1: I see 2 large black dots one bottom left of center one slight above right of center
+0: k does one of them fit my description?
+1: yes I see the one with a light dot above it
+0: k click that tiny light one

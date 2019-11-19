@@ -1,0 +1,7 @@
+1: side left, dark grey dot near 9 oclock
+0: Is it medium in size?
+1: yes and there's nothing around it
+0: Okay, I think our screens are mirrored. But that sounds right. Shall we click it?
+1: are you saying you have a medium gray dot on the right side near 4 oclock?
+0: Yes that's correct
+1: okay yeah click that one

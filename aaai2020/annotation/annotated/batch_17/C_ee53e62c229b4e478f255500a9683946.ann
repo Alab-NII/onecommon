@@ -1,0 +1,13 @@
+T1	Markable 62 89	three dark grey/black spots
+T2	Markable 10 16	a line
+T3	Markable 91 94	one
+T4	Markable 115 119	they
+T5	Markable 144 146	it
+T6	Markable 202 207	three
+T7	Markable 181 200	a line of four dots
+T8	Markable 218 239	one medium large gray
+T9	Markable 263 266	its
+T10	Markable 289 301	the med gray
+T11	Markable 316 327	the biggest
+T12	Markable 100 101	2
+R1	Predicative Arg1:T11 Arg2:T10	

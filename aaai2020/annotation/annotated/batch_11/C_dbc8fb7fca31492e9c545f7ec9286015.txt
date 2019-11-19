@@ -1,0 +1,3 @@
+0: I have one very large, very dark dot. To its lower left there is a smaller lighter dot. Do you see that?
+1: I have a small dark grey circle slightly above and to the right of it is a large almost black circle
+0: We're talking about the same thing. Click the large dark one

@@ -1,0 +1,6 @@
+1: I HAVE TWO LIGHT GREY DOTS AND ONE IS BIGGER
+0: Is the larger one to the left and slightly below the smaller one?
+1: MY LARGER ONE IS TO THE LEFT AND ABOVE THE SMALLER
+0: ok I think I see that. Is there a large black dot below the smallest light gray one?
+1: YES
+0: Ok. Let's pick the smaller light gray dot below the larger one

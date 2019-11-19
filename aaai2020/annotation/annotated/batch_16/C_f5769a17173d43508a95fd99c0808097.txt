@@ -1,0 +1,4 @@
+1: I have two pretty small dots in a horizontal line. The dot on the left is darker and a tiny bit bigger
+0: I have a big black dot isolated also I have two grey dots isolated and one dot is darker and to the left of the bottom one
+1: I don't think I see either of those. I have three dots that form a triangle. The top dot and the the bottom left are both medium sized and dark grey. The dot on the bottom right is bigger and lighter
+0: Yeah I have those click the bigger and lighter

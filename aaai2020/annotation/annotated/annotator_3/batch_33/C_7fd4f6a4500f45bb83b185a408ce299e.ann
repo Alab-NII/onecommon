@@ -1,0 +1,8 @@
+T1	Markable 3 13	three dots
+T2	Markable 17 22	a row
+R1	Predicative Arg1:T2 Arg2:T1	
+T3	Markable 24 30	middle
+T4	Markable 60 64	left
+T5	Markable 87 93	middle
+T6	Markable 120 125	right
+T7	Markable 165 175	the middle

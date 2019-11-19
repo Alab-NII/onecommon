@@ -1,0 +1,6 @@
+0: I have a box of 4 dots
+1: Hi! Do you have a large dark grey dot towards to the middle left?
+0: No I don't, I do have a black dont just shy of the center
+1: We may be talking about the same dot. I have two black dots towards the middle. One is a bit larger than the other.
+0: yeah choose the top one?
+1: Yes!

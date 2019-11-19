@@ -1,0 +1,4 @@
+0: Do you see two large black dots pinky width from each other? top left one is a little smaller?
+1: I see two black dots, the one on the right is slightly lower
+0: yes choose the one on the right?
+1: okay

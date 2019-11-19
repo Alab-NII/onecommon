@@ -1,0 +1,12 @@
+T1	Markable 14 23	four dots
+T2	Markable 57 78	a light and dark grey
+T3	Markable 47 51	They
+T4	Markable 154 171	a medium dark dot
+T5	Markable 122 144	a small light gray dot
+T6	Markable 178 190	the grey dot
+T8	Markable 238 259	the smallest grey dot
+T9	Markable 34 45	a rectangle
+R1	Predicative Arg1:T9 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+T10	Markable 95 108	the rectangle
+R3	Anaphora Arg1:T10 Arg2:T1	

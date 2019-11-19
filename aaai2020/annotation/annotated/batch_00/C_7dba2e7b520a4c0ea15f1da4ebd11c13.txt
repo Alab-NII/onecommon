@@ -1,0 +1,5 @@
+1: I have 2 dots same size but one black and other dark grey
+0: is black below the lighter one and slightly to the right ?
+1: yes
+0: Lets click the darker bottom one.
+1: ok

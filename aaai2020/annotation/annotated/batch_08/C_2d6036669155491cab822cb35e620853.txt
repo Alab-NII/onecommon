@@ -1,0 +1,3 @@
+1: do you see a small dark grey dot to the right of and above a slightly lighter, same color one?
+0: I don't see that. I have 1 large medium gray dot with a cluster of 2 smaller dots above and to the right of it. One of the smaller dots is medium gray and the other is light gray
+1: yes i see that. lets pick the larger dot of the bunch

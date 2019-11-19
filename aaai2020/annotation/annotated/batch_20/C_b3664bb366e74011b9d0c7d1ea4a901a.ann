@@ -1,0 +1,10 @@
+T1	Markable 9 27	one light gray dot
+T2	Markable 76 93	a large black dot
+T3	Markable 114 134	one larger black dot
+T4	Markable 196 198	it
+T5	Markable 201 225	the only really dark one
+T6	Markable 247 249	it
+T7	Markable 51 65	all the others
+T8	Markable 161 166	Mines
+R1	Anaphora Arg1:T4 Arg2:T8	
+R2	Predicative Arg1:T5 Arg2:T8	

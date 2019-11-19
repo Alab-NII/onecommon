@@ -1,0 +1,4 @@
+1: very tiny almost black dot?
+0: I see that can you describe another dot in relation to it
+1: its kind of by itself but there is a very light grey dot only a tiny bit larger down to its diagonal left
+0: ok select the dark dot

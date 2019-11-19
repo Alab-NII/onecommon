@@ -1,0 +1,4 @@
+0: tiny dark grey dot
+1: yes
+0: is there a very large med grey dot up to its right? if so click the tiny one!
+1: click tiny ok

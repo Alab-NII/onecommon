@@ -1,0 +1,6 @@
+1: two very dark dots diagonal from each other?
+0: I have two of roughly the same size near each other. The one on the left is darker.
+1: k is the smaller one up and to the right? if so click it
+0: Sorry, I have the diagonal dots too. One is slightly smaller and at north-northeast of the larger one
+1: which one did you click??
+0: the smaller one

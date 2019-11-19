@@ -1,0 +1,8 @@
+T1	Markable 9 34	a lonely medium black dot
+T2	Markable 49 55	3 dots
+T3	Markable 66 81	a straight line
+T4	Markable 135 140	yours
+T5	Markable 165 180	middle gray one
+R1	Predicative Arg1:T3 Arg2:T2	
+T6	Markable 87 97	the middle
+A1	No-Referent T4

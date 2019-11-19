@@ -1,0 +1,5 @@
+0: 2 tiny dots in an up and down line. One up top is slightly bigger and darker than the one on the bottom
+1: right or left side
+0: Right side
+1: okay i see that
+0: Choose the top dot

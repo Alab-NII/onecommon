@@ -1,0 +1,3 @@
+0: do you have a small grey day alone?
+1: Do you see a large gray dot with a medium black dot to its left?
+0: yes. select large grey

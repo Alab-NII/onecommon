@@ -1,0 +1,16 @@
+T1	Markable 107 111	them
+T2	Markable 10 35	to of the same color dots
+T3	Markable 209 228	smaller, darker dot
+T4	Markable 264 269	three
+T5	Markable 296 299	one
+T6	Markable 321 340	Two small dark ones
+T7	Markable 441 444	one
+T8	Markable 380 387	nothing
+T9	Markable 414 422	anything
+#1	AnnotatorNotes T2	two of the same color dots
+T10	Markable 77 100	a med size lighter gray
+R1	Anaphora Arg1:T1 Arg2:T2	
+T11	Markable 177 202	relatively large dark dot
+A1	No-Referent T8
+T12	Markable 466 469	its
+R2	Anaphora Arg1:T12 Arg2:T7	

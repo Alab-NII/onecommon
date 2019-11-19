@@ -1,0 +1,5 @@
+1: i see a very-dark grey dot with a tiny dark grey dot below it
+0: i see the dark dots in a small triangle, one black, one tiny dark grey, the other larger medium-gray
+1: i see that too
+0: choose the darkest blackish one?
+1: sure!

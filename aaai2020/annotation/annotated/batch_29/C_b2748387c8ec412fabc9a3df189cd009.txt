@@ -1,0 +1,3 @@
+0: two larger dots close together on diagonal line?
+1: Is one Northwest and lighter?
+0: yes! click that lighter one!

@@ -1,0 +1,15 @@
+T1	Markable 22 41	two large gray dots
+T2	Markable 72 79	the one
+T3	Markable 56 66	each other
+T5	Markable 200 212	those 2 dots
+T6	Markable 270 289	two light gray dots
+T7	Markable 240 261	a small dark gray dot
+T8	Markable 308 329	a large dark gray dot
+T10	Markable 470 480	a gray dot
+T13	Markable 716 734	the small gray dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+T4	Markable 159 176	more than one dot
+A1	Generic T4
+T15	Markable 129 149	more than one circle
+A2	Generic T15
+T9	Markable 746 787	the 2 differently toned lighter gray dots

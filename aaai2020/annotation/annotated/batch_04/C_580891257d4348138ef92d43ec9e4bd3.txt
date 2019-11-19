@@ -1,0 +1,6 @@
+1: Do you have one large black dot?
+0: with a smaller, lighter grey dot pretty close to it, below and to the right?
+1: That is what mine shows as well. Do you want to select that?
+0: yes, the darker and larger one?
+1: The large black dot
+0: i clicked it

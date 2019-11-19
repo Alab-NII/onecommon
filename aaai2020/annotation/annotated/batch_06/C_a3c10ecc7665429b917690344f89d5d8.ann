@@ -1,0 +1,8 @@
+T1	Markable 91 93	it
+T2	Markable 118 141	the large dark grey one
+T3	Markable 103 105	it
+T4	Markable 6 11	which
+A1	Generic T4
+T5	Markable 37 48	small black
+T6	Markable 54 69	large dark grey
+R1	Anaphora Arg1:T1 Arg2:T5	

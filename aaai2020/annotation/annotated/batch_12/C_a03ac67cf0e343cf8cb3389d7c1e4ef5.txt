@@ -1,0 +1,4 @@
+0: I have 4 dots making a trapezius
+1: Yes one further p is the smallest and darkest? if so click it!
+0: yes, wanna select that?
+1: yes!

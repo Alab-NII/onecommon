@@ -1,0 +1,5 @@
+0: i have one dark grey smaller dot
+1: I have a group of two dots, Diagonal to each other, Top (right) is darkest and slightly smaller, bottom (left) is larger and lighter grey
+0: do u have anything above the darkest dot? slightly to the right?
+1: yes a very large, very light grey dot
+0: ok pick that dark one

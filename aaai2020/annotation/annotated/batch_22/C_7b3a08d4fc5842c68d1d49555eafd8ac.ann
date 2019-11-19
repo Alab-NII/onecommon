@@ -1,0 +1,12 @@
+T1	Markable 44 59	a huge dark dot
+T2	Markable 77 86	tiny dots
+T3	Markable 93 109	a black tiny dot
+T4	Markable 65 73	the rest
+T5	Markable 155 176	a tiny light grey dot
+T6	Markable 213 217	that
+T8	Markable 242 266	that tiny light grey one
+T9	Markable 3 32	very tiny very light grey dot
+T10	Markable 113 125	the huge dot
+R1	Predicative Arg1:T2 Arg2:T4	
+R2	Anaphora Arg1:T10 Arg2:T1	
+T11	Markable 180 183	its

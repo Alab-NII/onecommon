@@ -1,0 +1,2 @@
+1: I have a very large black dot, with a slightly smaller black dot just above it
+0: yup, picking the larger one

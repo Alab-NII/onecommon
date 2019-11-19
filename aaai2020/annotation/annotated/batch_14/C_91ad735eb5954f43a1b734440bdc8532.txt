@@ -1,0 +1,4 @@
+0: I see biggest medium gray between one smallest light gray and darkest gray
+1: Hi- Do you have a really large medium gray dot with 3 smaller ones below it on the bottom half of the circle?
+0: Did you select the biggest one?
+1: yep

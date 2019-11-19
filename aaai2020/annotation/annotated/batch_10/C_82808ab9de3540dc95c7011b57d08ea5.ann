@@ -1,0 +1,11 @@
+T1	Markable 15 27	one dark dot
+T2	Markable 28 30	it
+T3	Markable 104 108	that
+T4	Markable 152 170	all the other dots
+T6	Markable 117 146	the largest, darkest gray dot
+T7	Markable 203 205	it
+T8	Markable 261 269	that one
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T7 Arg2:T6	
+T5	Markable 223 242	that large gray one
+R3	Anaphora Arg1:T5 Arg2:T6	

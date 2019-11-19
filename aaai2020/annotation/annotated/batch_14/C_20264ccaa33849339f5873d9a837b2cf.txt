@@ -1,0 +1,2 @@
+1: I see a large black dot to the left clustered near smaller dots. Do you see it?
+0: Yep! THat one?

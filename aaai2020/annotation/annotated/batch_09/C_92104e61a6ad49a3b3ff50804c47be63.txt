@@ -1,0 +1,12 @@
+1: I have one very large very dark dot at the 12 oclock position, do you?
+0: Do you see lot of dark dots? I see three making an obtuse triangle high up in my circle
+1: No, I have two very dark dot, but they are at opposite poles of the circle. I have one tiny light dark at the very center of my circle. Do you?
+0: Is there a lighter larger dark dot above it?
+1: No, there is a darker dot above my center dot. But do you have a center dot?
+0: I see a tiny black dot with a dot north and slightly right of my smallest black dot
+1: I have one dot, just above the 9 oclock position, almost touching the circle. Do you?
+0: Give clues as not to where yours are as mine are in different positions, tell me in relation to other dots.
+1: We have different dots. My relations will be different
+0: Do you have a tiny light dot? Lightest dot for me is tiny
+1: same. its in the center of the circle.
+0: Do it

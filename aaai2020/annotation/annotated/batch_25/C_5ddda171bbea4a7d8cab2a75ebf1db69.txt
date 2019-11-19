@@ -1,0 +1,7 @@
+0: I have a very dark tiny dot, and then another tiny dot that is lighter kind of far down and to the right of it.
+1: do you see 3 dots almost in a line and in order from biggest to smallest (biggest on top with smallest on bottom)...i think I see yours too...
+0: I might see that - the top one is pretty far away from the other two.
+1: nope...on the 2 you're talking about is there a medium gray dot to the right of the pair? closer to the top one
+0: Yes, a large medium gray dot.
+1: ok...let's click the top dark tiny dot.
+0: OK

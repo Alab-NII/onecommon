@@ -1,0 +1,27 @@
+T1	Markable 17 34	one tiny gray dot
+T2	Markable 48 56	the rest
+T3	Markable 86 88	it
+T4	Markable 103 106	two
+T5	Markable 113 115	it
+T6	Markable 124 134	a triangle
+T7	Markable 150 154	that
+T8	Markable 185 202	a much larger one
+T9	Markable 181 183	it
+T10	Markable 267 275	two dots
+T11	Markable 290 300	each other
+T12	Markable 322 329	the one
+T13	Markable 357 369	the tiny one
+T14	Markable 397 402	those
+T15	Markable 426 433	the one
+T16	Markable 70 78	any dots
+A1	Generic T16
+R1	Anaphora Arg1:T3 Arg2:T1	
+A2	No-Referent T7
+T17	Markable 158 161	One
+R2	Predicative Arg1:T8 Arg2:T17	
+T18	Markable 226 230	that
+A3	No-Referent T18
+R3	Anaphora Arg1:T11 Arg2:T10	
+T19	Markable 302 306	both
+R4	Anaphora Arg1:T19 Arg2:T10	
+T20	Markable 449 463	The darker one

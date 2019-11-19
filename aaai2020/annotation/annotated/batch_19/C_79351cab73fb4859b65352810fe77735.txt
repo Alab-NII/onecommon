@@ -1,0 +1,4 @@
+0: Do you have three pretty dark gray dots?
+1: do you have one very light one? directly next to a dark medium one on it's lower left?
+0: I do see that one
+1: ok let's pick that light one?

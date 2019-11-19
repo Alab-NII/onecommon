@@ -1,0 +1,3 @@
+0: I have a very large light gray dot, with a smaller, darker one down and to the left of it.
+1: yes i believe i see the same thing choose large light grey?
+0: Ok!

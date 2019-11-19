@@ -1,0 +1,4 @@
+0: I see a cluster of three horizontal dots, black one in the center
+1: Do you see the cluster of 4 dots, middle one is black, top is second darkest
+0: I see three of them, probably. Let's choose the black one.
+1: Black center one u described click it

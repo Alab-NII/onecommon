@@ -1,0 +1,6 @@
+1: I see a small black dot with a slightly smaller, slightly lighter one up and to the right.
+0: I'm not seeing either one. The biggest dot I see is a medium shade of gray and it's noticeably bigger than the others
+1: Is there a lighter one almost the same size that is to the right and down a little bit
+0: yes
+1: Let's pick the larger darker one
+0: ok

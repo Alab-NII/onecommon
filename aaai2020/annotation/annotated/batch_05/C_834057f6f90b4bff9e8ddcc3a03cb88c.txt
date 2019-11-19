@@ -1,0 +1,4 @@
+1: I have a larger black dot all by its self down and to the left
+0: Hm. Do you see three in a diagonal? Top left is medium size black middle is large light grey bottom right is small black?
+1: yes lets choose the middle one
+0: okay

@@ -1,0 +1,6 @@
+0: Do you see one lonely tiny grey dot down and to the right of the collection?
+1: Is there a dot just a bit bigger and light grey down and to the left of it?
+0: Nope. How about 2 dots basically the same medium size basically atop each other. Top one is lighter?
+1: Yes! Does the darker one on the bottom have a smaller black dot down and to the left?
+0: Yes! Shall we choose the light top one?
+1: Yes!

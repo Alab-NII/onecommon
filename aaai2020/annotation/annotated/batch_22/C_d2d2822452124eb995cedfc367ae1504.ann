@@ -1,0 +1,8 @@
+T1	Markable 111 118	the one
+T2	Markable 29 32	one
+T3	Markable 71 74	one
+T5	Markable 17 27	a triangle
+T6	Markable 162 166	that
+T7	Markable 180 187	top dot
+T8	Markable 3 9	3 dots
+R1	Predicative Arg1:T5 Arg2:T8	

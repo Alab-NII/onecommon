@@ -1,0 +1,3 @@
+1: I have a medium sized light gray dot with a larger dark gray dot directly above and slightly to the left of it. they are very close together
+0: me too, chose the lighter one?
+1: yes

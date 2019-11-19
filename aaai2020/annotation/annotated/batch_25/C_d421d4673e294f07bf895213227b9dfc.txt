@@ -1,0 +1,5 @@
+0: I see 4 dots forming a backward C Top is dark medium to large size, bottom is large dark
+1: sorry i do not see a c at all on mine
+0: ok I also see 3 dots almost forming a vertical line. The top one is spaced apart from the other two, it is large medium color grey. bottom is small to medium size dark, and middle slightly larger than dark light grey
+1: lets try the med color grey one
+0: ok!

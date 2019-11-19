@@ -1,0 +1,3 @@
+0: I see a bunch of gray dots
+1: Do you have one due east from center that is light and near the edge
+0: Yes, I think so.

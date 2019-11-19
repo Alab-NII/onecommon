@@ -1,0 +1,19 @@
+T1	Markable 10 16	6 dots
+T2	Markable 62 68	a line
+T3	Markable 100 107	the one
+T4	Markable 152 160	the rest
+T5	Markable 178 201	another small light one
+T6	Markable 221 228	the one
+T7	Markable 315 322	the one
+T8	Markable 344 351	the one
+T9	Markable 266 269	one
+T12	Markable 408 417	your line
+T13	Markable 387 404	another light one
+T14	Markable 431 445	that light one
+T15	Markable 462 475	the light one
+T16	Markable 24 36	a backward 3
+R1	Predicative Arg1:T16 Arg2:T1	
+T17	Markable 40 46	5 dots
+R2	Predicative Arg1:T2 Arg2:T17	
+T18	Markable 205 214	that line
+A1	Generic T9

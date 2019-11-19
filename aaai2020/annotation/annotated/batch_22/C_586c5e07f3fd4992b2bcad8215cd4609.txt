@@ -1,0 +1,7 @@
+1: do you see a large black dot at the top of a triangle?
+0: Do you have a super dark spot right above a medium dark spot, both are larger in size.
+1: Yes. Choose the black one
+0: Sounds good.
+1: Is it part of the triangle by any chance?
+0: It creates a triangle with 2 medium grey dots and it is at the top.
+1: Yes

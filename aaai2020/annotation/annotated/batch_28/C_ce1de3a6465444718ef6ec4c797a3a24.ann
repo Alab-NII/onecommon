@@ -1,0 +1,7 @@
+T1	Markable 41 51	a triangle
+T2	Markable 69 80	the largest
+T3	Markable 103 117	the larger one
+T4	Markable 3 22	three med grey dots
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 53 65	right and up
+R2	Predicative Arg1:T2 Arg2:T5	

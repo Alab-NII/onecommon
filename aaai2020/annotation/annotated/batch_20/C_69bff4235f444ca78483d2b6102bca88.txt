@@ -1,0 +1,5 @@
+1: I see a dot slightly above the middle of the circle.
+0: two medium dark , medium sized horizontally next to each other
+1: Hmm I see the same thing. Is one slightly bigger than the other (and darker)?
+0: yes... choose the left one
+1: got it

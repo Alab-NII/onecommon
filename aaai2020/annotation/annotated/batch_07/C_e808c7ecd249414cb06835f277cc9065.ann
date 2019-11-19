@@ -1,0 +1,17 @@
+T1	Markable 10 13	two
+T2	Markable 39 49	each other
+T3	Markable 51 63	the left one
+T4	Markable 96 118	the larger, darker one
+T5	Markable 151 177	a medium to large grey dot
+T6	Markable 134 136	it
+T7	Markable 260 268	that one
+T8	Markable 289 311	a near horizontal line
+T9	Markable 346 359	the right one
+T10	Markable 313 325	the left one
+T11	Markable 282 285	two
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T6
+T12	Markable 225 232	the top
+A2	No-Referent T7
+R2	Predicative Arg1:T8 Arg2:T11	
+T13	Markable 404 422	that bigger darker

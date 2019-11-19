@@ -1,0 +1,4 @@
+0: two medium sized midgray color dots close to each other
+1: no , dont have it
+0: Large black dot almost vertical above a lighter and smaller gray dot
+1: yes choose it

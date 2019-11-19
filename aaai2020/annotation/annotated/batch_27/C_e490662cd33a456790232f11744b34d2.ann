@@ -1,0 +1,14 @@
+T1	Markable 10 27	one very dark dot
+T2	Markable 72 76	that
+T3	Markable 78 94	my only dark dot
+T4	Markable 185 191	a pair
+T5	Markable 193 196	one
+T6	Markable 220 223	one
+T7	Markable 274 288	the bottom one
+T8	Markable 323 337	the larger one
+T9	Markable 29 32	its
+R1	Anaphora Arg1:T9 Arg2:T1	
+A1	No-Referent T2
+T10	Markable 108 127	a medium light grey
+T11	Markable 162 166	that
+A2	No-Referent T11

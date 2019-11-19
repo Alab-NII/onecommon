@@ -1,0 +1,7 @@
+T1	Markable 10 23	2 darker dots
+T2	Markable 28 42	5 lighter ones
+T3	Markable 96 127	a smaller, slightly lighter one
+T4	Markable 58 90	a medium/large med/dark-grey one
+T5	Markable 131 135	it's
+R1	Anaphora Arg1:T5 Arg2:T4	
+T6	Markable 209 238	the smaller lighter lower one

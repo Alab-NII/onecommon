@@ -1,0 +1,6 @@
+T1	Markable 9 19	a triangle
+T2	Markable 23 50	two black and one grey dots
+T4	Markable 95 107	the grey one
+T5	Markable 144 156	the gray one
+R1	Predicative Arg1:T2 Arg2:T1	
+T3	Markable 54 58	They

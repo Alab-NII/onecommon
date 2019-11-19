@@ -1,0 +1,5 @@
+T1	Markable 21 31	each other
+T2	Markable 123 136	the light one
+T4	Markable 3 6	two
+R1	Anaphora Arg1:T1 Arg2:T4	
+T5	Markable 33 41	left one

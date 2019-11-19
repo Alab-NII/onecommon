@@ -1,0 +1,5 @@
+1: I have a pair of close horizontal light dots
+0: I have a pair of close horizontal light dots on the right side of my circle
+1: Are they of equal size? Is the left one slightly darker?
+0: Its seems they are of equal size. The left one is slightly darker.
+1: Great. Let's choose the left slightly darker one

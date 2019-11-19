@@ -1,0 +1,11 @@
+1: big light gray dot toward bottom on left right at edge
+0: My big gray dot is by 3
+1: no small black dot on left toward top
+0: I have two small gray dots in the middle, to the left a little
+1: small black dot on right toward top
+0: Mine is medium sized. Small dark gray dot towards the 3
+1: no very light gray do toward bottom on left
+0: Is it medium sized? Mine is toward bottom in the middle
+1: no to left of middle
+0: It is probably the same?
+1: mark it

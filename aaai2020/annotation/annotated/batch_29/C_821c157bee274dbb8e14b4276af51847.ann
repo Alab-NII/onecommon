@@ -1,0 +1,9 @@
+T1	Markable 9 15	2 dots
+T2	Markable 26 36	each other
+T3	Markable 38 45	top one
+T5	Markable 83 111	a large light light grey dot
+T6	Markable 126 130	that
+R1	Anaphora Arg1:T2 Arg2:T1	
+T4	Markable 75 79	that
+R2	Anaphora Arg1:T4 Arg2:T3	
+T7	Markable 145 150	black

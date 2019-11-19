@@ -1,0 +1,4 @@
+0: two dots vertical of each other...small one is light gray and top is black
+1: Is the top dot medium size?
+0: Yes... you want to pick that top one?
+1: yes

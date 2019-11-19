@@ -1,0 +1,7 @@
+T1	Markable 114 134	that large black one
+T2	Markable 44 63	the large black one
+T3	Markable 73 81	the tiny
+T4	Markable 3 14	Large black
+T5	Markable 23 33	tint light
+R1	Anaphora Arg1:T1 Arg2:T2	
+T6	Markable 138 140	It

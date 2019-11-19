@@ -1,0 +1,6 @@
+1: Hello! Where's your dot?
+0: i have a medium size light grey loner. and OR i also have a cluster of 2 medium sized grey and light grey
+1: ok the loner i dont have. the two medium sized ones, is the darker one to the left and down from the lighter one?
+0: no... ok start over. i have a 3 in a row. starting with a large grey then to the lower left a smaller grey ending with a medium dark grey to the left?
+1: Got it! Click the large one?
+0: yes

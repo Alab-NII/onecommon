@@ -1,0 +1,2 @@
+0: I have 3 dots all different sizes close to a triangle shape
+1: yes, smallest one is on bottom, take this one.

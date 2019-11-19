@@ -1,0 +1,4 @@
+0: I have a diagonal of three slanted downwards to the right...middle one is black
+1: I think I see that, is the middle one smaller than the other 2?
+0: Yes! Choose the middle?
+1: ok

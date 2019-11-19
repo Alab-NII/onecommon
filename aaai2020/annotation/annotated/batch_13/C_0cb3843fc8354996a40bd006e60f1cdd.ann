@@ -1,0 +1,10 @@
+T1	Markable 62 74	the triangle
+T2	Markable 14 37	an upside down triangle
+T3	Markable 43 58	the largest dot
+T5	Markable 95 97	it
+T6	Markable 172 174	it
+R1	Anaphora Arg1:T1 Arg2:T2	
+T7	Markable 103 109	a face
+R2	Predicative Arg1:T7 Arg2:T5	
+T8	Markable 110 123	the right eye
+R3	Anaphora Arg1:T6 Arg2:T8	

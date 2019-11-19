@@ -1,0 +1,13 @@
+T1	Markable 10 29	a group of two dots
+T2	Markable 46 56	each other
+T4	Markable 165 174	both dots
+T7	Markable 224 240	the group of two
+T8	Markable 271 289	the black left dot
+T9	Markable 242 244	It
+T10	Markable 308 323	the darkest dot
+T11	Markable 327 337	that group
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 58 66	the left
+T12	Markable 89 98	the right
+T13	Markable 146 158	another grey
+T5	Markable 187 191	mine

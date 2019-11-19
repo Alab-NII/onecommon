@@ -1,0 +1,5 @@
+0: I see two dark black dots with a gray in between
+1: one of the black dots is smaller than the other black dot
+0: Yes
+1: lets click the middle one . They grey dot in between
+0: sounds good

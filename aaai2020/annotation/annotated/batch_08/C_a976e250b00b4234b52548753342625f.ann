@@ -1,0 +1,5 @@
+T1	Markable 30 52	a large light grey dot
+T2	Markable 14 24	a triangle
+T3	Markable 101 112	the big one
+T4	Markable 56 78	the bottom left vertex
+R1	Anaphora Arg1:T4 Arg2:T1	

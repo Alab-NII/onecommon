@@ -1,0 +1,7 @@
+1: do you have two black dots that are the same shade diagonal from one another about half an inch away from each other? the left one is slightly smaller
+0: Yes, I do
+1: and the left one is the higher?
+0: Yes and it's a bit darker than the bottom one, right?
+1: yes
+0: alright that one
+1: okay

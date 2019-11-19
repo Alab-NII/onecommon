@@ -1,0 +1,5 @@
+1: I see a cluster of 4 small dots forming a shallow U
+0: i do as well but looks more like a smile face
+1: Is the left-most dot in the smile the darkest?
+0: yes darkest from the four
+1: ok. click that one

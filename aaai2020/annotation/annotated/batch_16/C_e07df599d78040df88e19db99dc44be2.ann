@@ -1,0 +1,9 @@
+T2	Markable 53 57	that
+T3	Markable 96 106	a gray one
+T4	Markable 143 145	it
+T5	Markable 66 89	a very little black dot
+T6	Markable 187 192	those
+T7	Markable 202 221	the black lower dot
+T8	Markable 9 22	a lot of dots
+A1	No-Referent T2
+R1	Anaphora Arg1:T4 Arg2:T5	

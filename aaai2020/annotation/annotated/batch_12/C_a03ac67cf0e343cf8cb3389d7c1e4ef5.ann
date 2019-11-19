@@ -1,0 +1,10 @@
+T1	Markable 10 16	4 dots
+T3	Markable 98 100	it
+T4	Markable 123 127	that
+T5	Markable 24 35	a trapezius
+R1	Predicative Arg1:T5 Arg2:T1	
+T6	None 55 56	p
+#1	AnnotatorNotes T6	up
+#2	AnnotatorNotes T5	trapezoid
+T2	Markable 43 46	one
+R2	Anaphora Arg1:T3 Arg2:T2	

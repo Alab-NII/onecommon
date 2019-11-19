@@ -1,0 +1,19 @@
+T1	Markable 10 20	three dots
+T2	Markable 24 39	a long triangle
+T3	Markable 57 75	the far left point
+T4	Markable 92 105	the top point
+T5	Markable 77 88	the darkest
+T6	Markable 151 175	a small lighter grey dot
+T7	Markable 129 142	your triangle
+T8	Markable 272 289	a group of 4 dots
+R1	Predicative Arg1:T2 Arg2:T1	
+T10	Markable 41 53	the lightest
+R2	Predicative Arg1:T3 Arg2:T10	
+R3	Predicative Arg1:T4 Arg2:T5	
+A1	No-Referent T7
+T11	Markable 198 214	a large dark dot
+T12	Markable 249 253	that
+A2	No-Referent T12
+T9	Markable 291 302	the largest
+T13	Markable 333 345	the lightest
+T14	Markable 395 422	the largest/lowest/lightest

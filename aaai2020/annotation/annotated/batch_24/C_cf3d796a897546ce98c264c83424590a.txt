@@ -1,0 +1,5 @@
+0: do you see a tiny dark gray dot directly above a large lighter gray dot?
+1: Yes
+0: select the smaller one
+1: on top
+0: Yes

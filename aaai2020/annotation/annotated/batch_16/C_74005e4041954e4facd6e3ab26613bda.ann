@@ -1,0 +1,13 @@
+T1	Markable 38 44	itself
+T2	Markable 68 73	a dot
+T3	Markable 86 94	the rest
+T4	Markable 275 277	it
+T5	Markable 9 34	a very dark medium circle
+R1	Anaphora Arg1:T1 Arg2:T5	
+T6	Markable 139 169	a very light gray small circle
+T7	Markable 190 213	your medium gray circle
+T8	Markable 226 249	my medium darker circle
+A1	No-Referent T4
+T9	Markable 305 321	a smaller circle
+T10	Markable 343 371	the large medium gray circle
+T11	Markable 414 442	the large medium gray circle

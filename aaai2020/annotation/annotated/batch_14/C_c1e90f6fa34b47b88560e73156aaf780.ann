@@ -1,0 +1,11 @@
+T2	Markable 9 19	a dark dot
+T3	Markable 63 66	one
+T4	Markable 80 95	The largest dot
+T5	Markable 143 145	it
+T6	Markable 173 180	the two
+T7	Markable 155 159	that
+T8	Markable 255 266	the top one
+T9	Markable 213 227	the bottom one
+A1	No-Referent T3
+T1	Markable 106 127	a smaller dark circle
+R1	Anaphora Arg1:T5 Arg2:T4	

@@ -1,0 +1,8 @@
+T1	Markable 37 56	a med/grey dark one
+T2	Markable 125 144	the large black dot
+T3	Markable 165 176	the top one
+T4	Markable 197 208	the top one
+T5	Markable 3 17	very black one
+T6	Markable 71 73	it
+R1	Anaphora Arg1:T6 Arg2:T5	
+T7	Markable 98 112	the same thing

@@ -1,0 +1,9 @@
+T1	Markable 55 72	a large black dot
+T2	Markable 94 96	it
+T3	Markable 115 129	the medium one
+T4	Markable 148 167	the large black one
+T5	Markable 3 9	3 dots
+T6	Markable 34 43	no 3 dots
+A1	No-Referent T6
+T7	Markable 78 90	a medium dot
+R1	Anaphora Arg1:T2 Arg2:T1	

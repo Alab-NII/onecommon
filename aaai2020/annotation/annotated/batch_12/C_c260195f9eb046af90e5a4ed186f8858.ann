@@ -1,0 +1,21 @@
+T1	Markable 38 48	each other
+T2	Markable 10 29	a cluster of 2 dots
+T4	Markable 62 66	that
+T5	Markable 114 118	they
+T6	Markable 150 165	3 BIG DARK DOTS
+T7	Markable 170 191	2 BIG LIGHT GREY DOTS
+T8	Markable 205 239	any large/small of those dark dots
+T9	Markable 257 272	they light ones
+T11	Markable 296 300	they
+T12	Markable 352 359	the one
+T13	Markable 419 428	RIGHT ONE
+R1	Anaphora Arg1:T1 Arg2:T2	
+T3	Markable 83 99	TWO BIG GREY DOT
+R2	Anaphora Arg1:T4 Arg2:T2	
+#1	AnnotatorNotes T9	the light ones
+T10	Markable 277 285	ONE PAIR
+T14	Markable 328 332	THEY
+T15	Markable 402 406	LEFT
+T16	Markable 454 476	the darker larger spot
+T17	Markable 301 323	larger or smaller dots
+R3	Predicative Arg1:T17 Arg2:T11	

@@ -1,0 +1,4 @@
+1: I have a tiny black dot just west of center. Then a large grey dot below that. Then a black dot to the left of that grey dot
+0: Do you have two tiny black dots same size?left of the top tiny black dot is a tiny light dot
+1: Yes
+0: Click that top tiny blackie

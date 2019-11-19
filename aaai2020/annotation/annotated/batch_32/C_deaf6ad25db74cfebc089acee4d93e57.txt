@@ -1,0 +1,3 @@
+1: I have 2 black dots that are the same size with a smaller black dot in between them
+0: The blackest dot i have has a lighter one on its left
+1: I see one like that. Click the black one

@@ -1,0 +1,15 @@
+T1	Markable 31 43	3 other dots
+T2	Markable 9 25	a small dark dot
+T3	Markable 47 60	a tight group
+T4	Markable 70 72	it
+T5	Markable 140 151	a black one
+T7	Markable 83 117	a small cluster of three gray dots
+T8	Markable 177 205	the farthest upper right dot
+T9	Markable 253 262	the three
+T10	Markable 296 318	a small light gray one
+T11	Markable 272 290	a large light gray
+T12	Markable 427 447	the large light gray
+T13	Markable 391 411	the small light gray
+R1	Anaphora Arg1:T4 Arg2:T2	
+T6	Markable 353 365	the same set
+R2	Predicative Arg1:T3 Arg2:T1	

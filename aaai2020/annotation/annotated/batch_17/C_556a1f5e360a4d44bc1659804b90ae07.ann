@@ -1,0 +1,23 @@
+T1	Markable 47 55	a square
+T2	Markable 10 27	a group of 4 dots
+T4	Markable 83 99	a small gray dot
+T5	Markable 147 160	2 LARGER DOTS
+T6	Markable 230 243	2 larger dots
+T7	Markable 293 302	the other
+T8	Markable 245 248	one
+T9	Markable 364 379	the lighter dot
+T10	Markable 411 413	it
+T11	Markable 392 395	one
+T12	Markable 532 543	the lighter
+R1	Predicative Arg1:T1 Arg2:T2	
+T3	Markable 128 136	its self
+R2	Anaphora Arg1:T3 Arg2:T4	
+T14	Markable 182 185	ONE
+T15	Markable 191 200	THE OTHER
+T16	Markable 323 331	the same
+T17	Markable 447 464	one mid sized dot
+T18	Markable 472 475	its
+R3	Anaphora Arg1:T18 Arg2:T17	
+T19	Markable 550 560	that group
+T13	Markable 586 590	that
+R4	Anaphora Arg1:T13 Arg2:T19	

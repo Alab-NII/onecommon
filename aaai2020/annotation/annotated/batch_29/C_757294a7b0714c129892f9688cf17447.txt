@@ -1,0 +1,3 @@
+1: I have two very close tiny dots of different color
+0: yes one on the left is light and on the right it is med grey
+1: Yes let us select the one on the right

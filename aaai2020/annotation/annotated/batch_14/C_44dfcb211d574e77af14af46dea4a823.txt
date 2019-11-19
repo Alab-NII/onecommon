@@ -1,0 +1,3 @@
+0: Do you see three dots sloping vertically and to the right, the top one is black all semi small
+1: Yes. Select top black one?
+0: Yes

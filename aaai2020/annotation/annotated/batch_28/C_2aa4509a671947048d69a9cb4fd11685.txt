@@ -1,0 +1,4 @@
+0: I see three forming a triangle two small biggest one light grey
+1: i see that. is the biggest lightest one on the right?
+0: yes
+1: let's choose the largest lightest one.

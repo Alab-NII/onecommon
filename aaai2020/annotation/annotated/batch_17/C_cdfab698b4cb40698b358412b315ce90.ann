@@ -1,0 +1,8 @@
+T1	Markable 69 78	THE OTHER
+T2	Markable 122 131	THE OTHER
+T3	Markable 143 158	the smaller one
+T4	Markable 185 201	that smaller one
+T5	Markable 3 27	two very light grey dots
+T6	Markable 50 53	ONE
+T7	Markable 92 95	ONE
+R1	Anaphora Arg1:T4 Arg2:T3	

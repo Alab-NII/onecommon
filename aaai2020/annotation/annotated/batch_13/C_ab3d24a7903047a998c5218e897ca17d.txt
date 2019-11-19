@@ -1,0 +1,5 @@
+1: I have 3 light grey dots forming a triangle
+0: yes I have those
+1: bottom left corner is smallest and lightest grey
+0: yes
+1: click that one

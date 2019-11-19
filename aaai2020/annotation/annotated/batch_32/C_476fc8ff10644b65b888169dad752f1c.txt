@@ -1,0 +1,4 @@
+1: Really large dark dot with a medium light dot to its upper left?
+0: Yes! Which should we choose?
+1: lets go for the large dark one
+0: Okay!

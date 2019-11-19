@@ -1,0 +1,16 @@
+T1	Markable 120 126	2 dots
+T2	Markable 127 130	one
+T3	Markable 147 150	one
+T5	Markable 68 85	a group of 4 dots
+T7	Markable 212 218	itself
+T8	Markable 198 208	a dark one
+T9	Markable 172 182	each other
+T10	Markable 240 254	the group of 4
+T11	Markable 369 379	the larger
+T12	Markable 3 38	Cluster of 4 light/medium grey dots
+R1	Anaphora Arg1:T9 Arg2:T1	
+R2	Anaphora Arg1:T7 Arg2:T8	
+T4	Markable 321 327	medium
+T6	Markable 329 334	small
+T13	Markable 336 341	large
+T14	Markable 343 349	medium

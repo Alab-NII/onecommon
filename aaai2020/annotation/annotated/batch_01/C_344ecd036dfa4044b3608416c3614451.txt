@@ -1,0 +1,5 @@
+1: do you see one really big black dot
+0: i think so. is there anything near it?
+1: not really, there 's three medium sized black ones and the big black one is above it
+0: diagonally below it and to the left i see a smaller black dot
+1: i'm going to choose the big one

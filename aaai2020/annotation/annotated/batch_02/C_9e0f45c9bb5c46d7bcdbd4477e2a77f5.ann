@@ -1,0 +1,6 @@
+T1	Markable 10 28	two dark gray dots
+T2	Markable 58 68	each other
+T3	Markable 36 40	they
+T4	Markable 82 96	the bottom one
+T5	Markable 135 139	that
+R1	Anaphora Arg1:T2 Arg2:T3	

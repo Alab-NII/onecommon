@@ -1,0 +1,6 @@
+0: Do you see 3 dots in almost a straight line?
+1: i do not.
+0: My largest dot is darkish grey with a small lighter dot down and to the right
+1: i see that
+0: Do you want to choose the larger dot?
+1: ok

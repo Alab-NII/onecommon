@@ -1,0 +1,5 @@
+0: hi which do u wanna try?
+1: I have a large black dot and a large gray dot right on top of it
+0: is the gray one slightly to the left?
+1: yes should we pick the gray?
+0: yes!

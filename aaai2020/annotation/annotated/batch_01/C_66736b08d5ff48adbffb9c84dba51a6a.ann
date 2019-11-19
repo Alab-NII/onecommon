@@ -1,0 +1,10 @@
+T1	Markable 14 29	a group of dots
+T2	Markable 50 69	med/large light one
+T3	Markable 76 93	a small light one
+T4	Markable 114 141	a slightly larger small one
+T5	Markable 224 246	the smaller darker dot
+T6	Markable 97 101	it's
+R1	Anaphora Arg1:T6 Arg2:T2	
+T7	Markable 164 168	it's
+T8	Markable 181 196	Larger dark one
+T9	Markable 200 204	it's

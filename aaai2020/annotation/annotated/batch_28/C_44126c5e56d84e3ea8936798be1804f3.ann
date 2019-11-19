@@ -1,0 +1,16 @@
+T1	Markable 25 51	slightly smaller black dot
+T2	Markable 3 19	Medium black dot
+T5	Markable 65 76	a black dot
+T6	Markable 58 60	it
+T7	Markable 93 95	it
+T9	Markable 112 120	anything
+T10	Markable 177 180	one
+T11	Markable 163 172	two black
+T12	Markable 142 152	three dots
+T13	Markable 203 217	the middle one
+T14	Markable 218 229	the darkest
+T15	Markable 242 244	it
+R1	Anaphora Arg1:T6 Arg2:T2	
+A1	No-Referent T9
+R2	Predicative Arg1:T14 Arg2:T13	
+R3	Anaphora Arg1:T15 Arg2:T13	

@@ -1,0 +1,12 @@
+T1	Markable 20 27	top one
+T2	Markable 97 101	it's
+T3	Markable 129 132	two
+T4	Markable 171 181	each other
+T5	Markable 187 198	the top one
+T6	Markable 225 242	the top black one
+T7	Markable 3 9	3 dots
+T8	Markable 39 51	the lightest
+T9	Markable 114 118	it's
+R1	Anaphora Arg1:T2 Arg2:T8	
+R2	Anaphora Arg1:T9 Arg2:T8	
+R3	Anaphora Arg1:T4 Arg2:T3	

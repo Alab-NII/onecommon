@@ -1,0 +1,3 @@
+1: 3 dots very close together?
+0: no 3 dots, how about a large black dot with a medium dot at it's 2:00
+1: Yes! if the medium one is med grey click the large black one!

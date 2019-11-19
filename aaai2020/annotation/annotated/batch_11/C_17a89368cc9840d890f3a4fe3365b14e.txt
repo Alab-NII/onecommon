@@ -1,0 +1,7 @@
+0: Do you see a black tiny dot?
+1: I have a light gray dot at 10 o'clock. I have a larger gray dot a 7 o'clock. A small black dot is just above that gray dot at 7 o'clock
+0: Do not do oclocks... I have different circle lol... is the dark dot you describe above and to the right of a light dot that is just slightly larger?
+1: directly above. Do you have a gray dot in the middle of the circle?
+0: Do you see largest sized medium shade dot, it is left of a small slightly lighter dot
+1: Do you have a small dot towards the left side of the circle
+0: Sure I'll just get this wrong click it...

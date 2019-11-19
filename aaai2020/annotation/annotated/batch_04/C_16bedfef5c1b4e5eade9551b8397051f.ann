@@ -1,0 +1,14 @@
+T1	Markable 10 33	a lonely small gray dot
+T2	Markable 107 114	the one
+T3	Markable 132 145	the "spinner"
+T4	Markable 176 198	a large light gray dot
+T5	Markable 247 251	they
+T6	Markable 400 411	the top one
+T7	Markable 366 380	the center one
+T9	Markable 288 313	the smallest/lightest one
+T10	Markable 460 475	that darker dot
+T11	Markable 57 61	dots
+R1	Anaphora Arg1:T3 Arg2:T11	
+T12	Markable 203 224	that lonely small one
+A1	No-Referent T12
+T13	Markable 335 348	the "spinner"

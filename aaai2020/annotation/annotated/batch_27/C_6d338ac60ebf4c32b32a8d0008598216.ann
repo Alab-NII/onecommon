@@ -1,0 +1,6 @@
+T1	Markable 12 37	two very small light ones
+T2	Markable 52 62	each other
+T3	Markable 64 79	lower right one
+T4	Markable 120 124	that
+T5	Markable 132 157	the lower right light dot
+R1	Anaphora Arg1:T2 Arg2:T1	

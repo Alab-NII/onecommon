@@ -1,0 +1,4 @@
+0: large black dot, by itself?
+1: Do you see two dots side by side grey to dark,
+0: yes, choose the one to the right?
+1: Yes

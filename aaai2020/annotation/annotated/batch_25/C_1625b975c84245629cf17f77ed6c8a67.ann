@@ -1,0 +1,11 @@
+T1	Markable 52 54	it
+T2	Markable 24 45	a small dark grey dot
+T3	Markable 89 108	my smaller gray dot
+T4	Markable 65 84	the large black dot
+T5	Markable 118 120	it
+T6	Markable 138 145	the one
+T8	Markable 179 191	the black on
+T9	Markable 3 18	Large black dot
+R1	Anaphora Arg1:T1 Arg2:T9	
+R2	Anaphora Arg1:T5 Arg2:T4	
+#1	AnnotatorNotes T8	the black one

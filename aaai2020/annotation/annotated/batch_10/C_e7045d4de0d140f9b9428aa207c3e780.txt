@@ -1,0 +1,5 @@
+1: I see three dots very close to each other that are almost in a horizontal line. The lightest one is on the right.
+0: medium black one by itself and i dont a one on the right
+1: Do you have a large medium gray dot with a black dot that's smaller lower and to the right from it?
+0: no i just re read your previous message i have the three dots we can go with the lighter one on right
+1: Got it.

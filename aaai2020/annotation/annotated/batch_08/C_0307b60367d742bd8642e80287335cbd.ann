@@ -1,0 +1,17 @@
+T1	Markable 49 67	all the other dots
+T2	Markable 10 33	one very light grey dot
+T3	Markable 71 77	itself
+T5	Markable 159 162	two
+T8	Markable 184 196	most of mine
+T9	Markable 224 227	two
+T10	Markable 256 266	each other
+T11	Markable 302 316	the darker one
+T12	Markable 362 364	it
+T13	Markable 423 438	that larger one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T14	Markable 81 104	Two of the largest dots
+A1	No-Referent T5
+R2	Anaphora Arg1:T10 Arg2:T9	
+T6	Markable 271 277	medium
+T7	Markable 282 292	light grey
+T15	Markable 376 383	the one

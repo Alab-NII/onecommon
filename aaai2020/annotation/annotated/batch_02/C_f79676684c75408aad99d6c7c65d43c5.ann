@@ -1,0 +1,9 @@
+T1	Markable 21 38	a small dark grey
+T2	Markable 101 116	the largest dot
+T3	Markable 200 204	them
+T4	Markable 175 188	the small dot
+T5	Markable 3 15	cluster of 3
+T6	Markable 53 73	2 darker bigger ones
+T7	Markable 121 129	smallest
+T8	Markable 160 164	what
+R1	Anaphora Arg1:T4 Arg2:T8	

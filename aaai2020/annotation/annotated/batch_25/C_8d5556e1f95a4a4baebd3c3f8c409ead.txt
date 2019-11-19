@@ -1,0 +1,5 @@
+0: Hi! Do you have a small dark dot?
+1: two huge dots almost level. right one is light and left one is dark. i only have one small dark dot. its below my dots and to the left
+0: I have those two that you mention. Should we go for the lighter or the darker?
+1: darker
+0: Ok

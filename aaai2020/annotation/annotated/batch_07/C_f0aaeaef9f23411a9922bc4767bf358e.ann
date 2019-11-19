@@ -1,0 +1,6 @@
+T1	Markable 9 24	a very tiny dot
+T2	Markable 64 66	it
+T3	Markable 71 98	another larger, lighter dot
+T4	Markable 161 173	the tiny dot
+T5	Markable 121 124	its
+R1	Anaphora Arg1:T5 Arg2:T2	

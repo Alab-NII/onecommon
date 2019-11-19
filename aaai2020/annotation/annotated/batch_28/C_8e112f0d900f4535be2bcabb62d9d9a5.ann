@@ -1,0 +1,16 @@
+T2	Markable 116 124	triangle
+T3	Markable 93 107	the lowest dot
+T4	Markable 139 150	the darkest
+T5	Markable 33 56	a group of 3 large dots
+T6	Markable 67 90	an upside down triangle
+T7	Markable 10 23	no black dots
+T9	Markable 226 234	triangle
+T10	Markable 261 265	that
+A1	No-Referent T7
+R1	Predicative Arg1:T6 Arg2:T5	
+R2	Anaphora Arg1:T2 Arg2:T5	
+R3	Predicative Arg1:T4 Arg2:T3	
+T1	Markable 157 169	the top left
+T8	Markable 196 204	that one
+T11	Markable 214 222	top left
+R4	Anaphora Arg1:T10 Arg2:T11	

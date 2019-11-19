@@ -1,0 +1,10 @@
+0: I have a lonely light grey small dot on bottom left
+1: i have four dots right across the equator
+0: I don't have
+1: does your lonely light gray dot have any others near it?
+0: no it does not
+1: hmm do you have ant large dark?
+0: yes on right bottom of the circle
+1: does large dark have small medium gray above and slightly to the right of it
+0: yes
+1: click on large dark

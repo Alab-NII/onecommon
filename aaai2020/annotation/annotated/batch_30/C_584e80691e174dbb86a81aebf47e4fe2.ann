@@ -1,0 +1,14 @@
+T1	Markable 25 48	smaller medium gray dot
+T2	Markable 70 72	it
+T3	Markable 84 94	three dots
+T4	Markable 126 130	them
+T5	Markable 119 122	one
+T6	Markable 179 191	My black dot
+T7	Markable 211 236	the smaller dark gray dot
+T8	Markable 250 266	another gray dot
+T9	Markable 305 316	the darkest
+T10	Markable 3 19	medium black dot
+R1	Anaphora Arg1:T2 Arg2:T10	
+R2	Anaphora Arg1:T4 Arg2:T3	
+T11	Markable 154 157	two
+T12	Markable 170 177	the 3rd

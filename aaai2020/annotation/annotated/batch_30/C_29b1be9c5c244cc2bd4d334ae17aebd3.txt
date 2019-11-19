@@ -1,0 +1,5 @@
+0: two dots very close together? one large and black?
+1: do you see two dark dots that are vertical? the top one slightly larger?
+0: hmm did you read my message?
+1: sorry. i see two dots close together. the larger one being dark. the smaller gray one is to its right side
+0: yes! click the large black one!

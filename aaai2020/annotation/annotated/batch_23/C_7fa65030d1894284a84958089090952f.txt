@@ -1,0 +1,3 @@
+1: lone large black dot
+0: medium, very dark dot with lighter, smaller dot slightly up and to the right, I do not have the lone large one
+1: choose the right one

@@ -1,0 +1,6 @@
+1: I have a light gray dot above a medium gray one
+0: Is it to the left of a and slightly above another set of 2 dots different colors?
+1: Not that I can tell
+0: Do you have a small dark dot on the dotted line away from everything else?
+1: Yes
+0: lets choose that one

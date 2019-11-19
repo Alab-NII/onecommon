@@ -1,0 +1,4 @@
+1: I have one tiny black dot that is alone
+0: i don't think i have that. i see a vertical pai where the top one is larger and lighter.
+1: pai? I have two tiny dots close the one above it smaller and little lighter
+0: i meant pair. in your pair. pick the bottom one

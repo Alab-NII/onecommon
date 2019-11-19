@@ -1,0 +1,4 @@
+0: 2 dots same size a dark on the left and light on the right
+1: clicking darker one
+0: ok. is the darker one above a little
+1: yes

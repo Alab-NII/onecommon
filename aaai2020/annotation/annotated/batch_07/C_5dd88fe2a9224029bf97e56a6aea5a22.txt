@@ -1,0 +1,9 @@
+0: I have two large dark gray dots, one about four centimeters directly above the other.
+1: i do not have any large grey dots. I have a large black dot.
+0: No large black dot, sorry
+1: do you have a small light grey dot?
+0: I sure do, with a medium gray dot to its northwest.
+1: yes. a bit far away
+0: From what you don't have and I don't have, I think it has to be one of those dots. Which one are we choosing?
+1: i will choose the small light grey dot
+0: sounds good

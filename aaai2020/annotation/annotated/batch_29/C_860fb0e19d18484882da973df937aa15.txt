@@ -1,0 +1,2 @@
+1: Hi. Do you see a black dot, and then diagonally (below and a bit to the left) a bigger, medium-grey dot?
+0: yes! click that black one on top!

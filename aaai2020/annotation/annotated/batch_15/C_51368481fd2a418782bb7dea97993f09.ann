@@ -1,0 +1,8 @@
+T1	Markable 14 29	a dark grey dot
+T2	Markable 97 107	a triangle
+T3	Markable 140 157	a small dark gray
+T4	Markable 113 131	a small light gray
+T5	Markable 227 242	the small black
+T6	Markable 75 85	a grouping
+R1	Predicative Arg1:T2 Arg2:T6	
+T7	Markable 179 190	small black

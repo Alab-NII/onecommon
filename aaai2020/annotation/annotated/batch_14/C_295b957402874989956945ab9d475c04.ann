@@ -1,0 +1,19 @@
+T1	Markable 55 73	the lower left one
+T2	Markable 15 28	two tiny dots
+T3	Markable 43 53	each other
+T4	Markable 84 103	the upper right one
+T5	Markable 187 197	a lone one
+T6	Markable 217 245	a medium size light grey one
+T7	Markable 251 272	a darker, smaller one
+T8	Markable 299 301	it
+T9	Markable 305 307	it
+T10	Markable 329 342	two tiny ones
+T11	Markable 349 366	the two tiny ones
+T12	Markable 375 389	the bottom one
+T13	Markable 407 425	the black tiny one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T14	Markable 126 148	lone medium light gray
+R2	Anaphora Arg1:T8 Arg2:T6	
+R3	Anaphora Arg1:T9 Arg2:T6	
+A1	No-Referent T5
+T15	Markable 455 469	the black tiny

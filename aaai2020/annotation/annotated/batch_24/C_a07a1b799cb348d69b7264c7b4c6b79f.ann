@@ -1,0 +1,9 @@
+T1	Markable 42 57	horizontal line
+T2	Markable 124 131	the one
+T3	Markable 85 92	a black
+T4	Markable 69 83	two close dots
+T6	Markable 191 205	the larger one
+T7	Markable 3 11	two dots
+R1	Predicative Arg1:T1 Arg2:T7	
+T8	Markable 97 108	a dark grey
+T9	Markable 162 167	those

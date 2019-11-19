@@ -1,0 +1,4 @@
+1: I have two larger dots. One is pale and northeast of the other dots. The other is dark and southeast of the others.
+0: I dont think i have those. I have a large medium grey dot to the right of the rest
+1: Is there a small dark dot above it to the left?
+0: Yes. pick the larger one

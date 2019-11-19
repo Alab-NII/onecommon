@@ -1,0 +1,16 @@
+T1	Markable 82 89	the one
+T2	Markable 14 28	3 smaller dots
+T3	Markable 32 38	a line
+T4	Markable 44 51	the two
+T5	Markable 119 144	a dark grey mid sized dot
+T7	Markable 292 302	the others
+T8	Markable 241 244	one
+T10	Markable 217 235	a triangle of dots
+T11	Markable 311 326	most of my dots
+T13	Markable 464 466	it
+T14	Markable 475 485	other dots
+T15	Markable 515 533	a large medium dot
+T16	Markable 618 637	the large light dot
+R1	Predicative Arg1:T3 Arg2:T2	
+T6	Markable 376 400	a small almost black dot
+T9	Markable 550 562	a medium dot

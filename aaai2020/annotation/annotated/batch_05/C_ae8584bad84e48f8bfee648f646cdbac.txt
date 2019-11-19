@@ -1,0 +1,7 @@
+1: i have 2 small light grey dots almost side by side about an inch apart
+0: I have two small light grey dots but they aren't side by side
+1: is the one on the right slightly lower?
+0: Yes
+1: does the one on the right have a medium sized medium colored dot above to the left?
+0: Yes! Which should we choose?
+1: the one under that medium colored one

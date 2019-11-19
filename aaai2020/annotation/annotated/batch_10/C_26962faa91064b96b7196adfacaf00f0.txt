@@ -1,0 +1,4 @@
+1: Hello, I have one dot tinier and darker that the rest
+0: I have two that are darker. Is yours just below a much larger lighter dot?
+1: yes
+0: Ok, lets do that little dark one

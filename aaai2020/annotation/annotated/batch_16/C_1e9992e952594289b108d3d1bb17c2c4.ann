@@ -1,0 +1,15 @@
+T1	Markable 49 55	itself
+T2	Markable 66 89	a medium light gray dot
+T3	Markable 107 109	It
+T4	Markable 142 162	a tiny dark gray dot
+T5	Markable 186 192	itself
+T6	Markable 237 257	a tiny dark gray dot
+T7	Markable 261 267	itself
+T8	Markable 283 291	that one
+T10	Markable 10 37	a very large light gray dot
+R1	Anaphora Arg1:T1 Arg2:T10	
+R2	Anaphora Arg1:T3 Arg2:T2	
+R3	Anaphora Arg1:T5 Arg2:T4	
+T11	Markable 197 201	Mine
+R4	Anaphora Arg1:T7 Arg2:T6	
+R5	Anaphora Arg1:T8 Arg2:T6	

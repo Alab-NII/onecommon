@@ -1,0 +1,5 @@
+0: I see a triangle of two big grey dots with a smaller black dot.
+1: I have same one with smaller black dot.
+0: Which one did you pick??
+1: Black dot
+0: Ok

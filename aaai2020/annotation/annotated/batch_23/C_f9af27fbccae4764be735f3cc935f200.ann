@@ -1,0 +1,9 @@
+T1	Markable 28 34	a line
+T2	Markable 59 83	largest and lightest one
+T3	Markable 102 118	three small dots
+T4	Markable 154 168	the middle dot
+T5	Markable 239 241	it
+T6	Markable 249 257	that one
+T7	Markable 3 19	three small dots
+R1	Predicative Arg1:T1 Arg2:T7	
+T8	Markable 173 176	Its

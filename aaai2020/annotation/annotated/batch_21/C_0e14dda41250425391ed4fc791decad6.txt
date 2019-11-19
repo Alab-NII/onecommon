@@ -1,0 +1,6 @@
+0: Mine all go in a line from 2 o clock to 8 o clock
+1: min go in a line from 2 oclock to 6 oclock
+0: Okay, thats fine. Are the bottom three a light grey one, a small dark one, and a slightly larger medium grey dot?
+1: no, from the bottom up a medium grey large dot, a light grey mid sized dot and a dark grey small dot
+0: let's go with the dark grey small
+1: ok

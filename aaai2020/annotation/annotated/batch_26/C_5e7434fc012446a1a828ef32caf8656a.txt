@@ -1,0 +1,5 @@
+1: I got a really big dark grey one near the center of mine.
+0: I don't have that
+1: Do you have two black ones next to each other about the same size ? The one on the right is slightly above the one on the left ?
+0: Yes, I think I have those
+1: Go for lefty

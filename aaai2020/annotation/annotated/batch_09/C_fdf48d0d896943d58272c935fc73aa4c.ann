@@ -1,0 +1,17 @@
+T1	Markable 10 33	a very large, black dot
+T2	Markable 41 47	itself
+T3	Markable 60 64	that
+T4	Markable 104 121	a larger grey dot
+T5	Markable 81 99	a medium black Dot
+T6	Markable 174 178	that
+T7	Markable 253 260	the one
+T8	Markable 222 229	The one
+T9	Markable 331 346	The smaller dot
+T10	Markable 353 368	the larger ones
+T11	Markable 387 406	that small dark one
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+A1	No-Referent T6
+T12	Markable 187 220	two fairly dark medium sized dots
+R3	Anaphora Arg1:T10 Arg2:T8	
+R4	Anaphora Arg1:T9 Arg2:T7	

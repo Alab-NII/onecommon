@@ -1,0 +1,10 @@
+T1	Markable 98 113	the smaller one
+T2	Markable 168 170	it
+T4	Markable 196 200	that
+T5	Markable 3 11	Two dots
+T6	Markable 13 17	Left
+T7	Markable 38 47	The right
+T8	Markable 119 144	an even smaller black dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T9	Markable 175 177	It
+T3	Markable 233 246	the right dot

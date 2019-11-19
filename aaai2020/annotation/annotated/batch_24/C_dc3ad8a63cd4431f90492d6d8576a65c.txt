@@ -1,0 +1,5 @@
+1: DO you have 2 dots of the same size one vertically over the other?
+0: I have 2 large same sized dots stacked in a vertical line. the one on the bottom is darker than the one on the top
+1: same
+0: Let's pick the darker one on the bottom
+1: okay I will

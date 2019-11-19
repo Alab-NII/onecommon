@@ -1,0 +1,4 @@
+1: I see a large light gray dot to the right. Do you see this one?
+0: I do! :)
+1: That's the one!
+0: Perfect!

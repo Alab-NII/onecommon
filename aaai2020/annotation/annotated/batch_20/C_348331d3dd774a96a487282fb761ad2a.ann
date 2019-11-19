@@ -1,0 +1,8 @@
+T1	Markable 19 25	a line
+T2	Markable 139 151	the left one
+T3	Markable 14 15	4
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 48 63	small dark grey
+T5	Markable 65 82	large medium gray
+T6	Markable 84 100	small light gray
+T7	Markable 102 119	small medium gray

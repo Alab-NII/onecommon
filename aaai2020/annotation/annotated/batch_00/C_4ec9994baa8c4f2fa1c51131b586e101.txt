@@ -1,0 +1,4 @@
+1: Hello. Do you see any dots that are alone?
+0: I have a small black dot all by itself?
+1: Is it sort of middle/left of the circle?
+0: no but we have different views

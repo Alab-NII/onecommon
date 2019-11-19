@@ -1,0 +1,5 @@
+1: I see three dots slightly slanted down in a diagonal?
+0: okay what are you sizes and colors
+1: The largest is light grey, the next is smaller and darker, the 3rd is about the same and the 2nd but lighter.
+0: okay i think we should try the largest one that is light grey
+1: Ok

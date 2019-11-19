@@ -1,0 +1,5 @@
+0: I have one large lonely gray dot to my left
+1: I see three diagonally aligned dots going towards the right. Far left - Black, Middle - Light Gray, Far Right - Small and gray. I don't see the lonely gray dot.
+0: I have that line of dots.
+1: Ok. Do you want to choose the third dot? (Smallest and regular gray?)
+0: yes

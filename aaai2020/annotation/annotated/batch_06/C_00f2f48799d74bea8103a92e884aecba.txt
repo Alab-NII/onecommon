@@ -1,0 +1,4 @@
+1: two dots same color, almost vertical, lower one is slightly smaller
+0: Is the lower one slightly to the left?
+1: yes
+0: ok, let's pick the lower one

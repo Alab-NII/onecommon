@@ -1,0 +1,11 @@
+T1	Markable 31 35	mine
+T2	Markable 70 77	nothing
+T4	Markable 171 175	that
+T5	Markable 128 138	a triangle
+T6	Markable 107 117	three dots
+T8	Markable 183 200	the top right one
+T9	Markable 245 263	that top right one
+A1	All-Referents T1
+A2	No-Referent T2
+R1	Predicative Arg1:T5 Arg2:T6	
+R2	Anaphora Arg1:T4 Arg2:T6	

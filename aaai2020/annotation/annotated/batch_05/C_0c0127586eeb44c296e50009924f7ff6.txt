@@ -1,0 +1,7 @@
+0: do you have 3 light/same size, across in a line, with the middle one slightly raised?
+1: i see 2 black dots close together one larger
+0: what side are they on? are they above the ones I described?
+1: they are below 3 vertical small grey
+0: oh i only have one of the black ones you describe, and i have no idea if it's larger or small bc you didn't say which side the larger is on... so of the 3, they are horizontal to each other... yes small grey. shall we choose the one furthest on the right?
+1: no pick the middle small grey
+0: ok middle small grey it is, ty

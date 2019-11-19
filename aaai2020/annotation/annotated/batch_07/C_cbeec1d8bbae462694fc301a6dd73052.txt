@@ -1,0 +1,9 @@
+0: I have 2 dots on the left, same size, right one is darker, left one is lighter
+1: Is there one that is a similar size but light grey that forms a triangle with those two?
+0: yes but it is a little away from the first 2
+1: Hmm are the two dots really dark grey?
+0: one is dark one is lighter
+1: Hmm no the ones I am seeing are very dark. Do you see two large dots that are medium shade that are exactly the same size?
+0: yes but i see a lighter smaller dot between them
+1: Yes! Let's pick the larger dot thats on top
+0: sure

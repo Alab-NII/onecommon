@@ -1,0 +1,11 @@
+T2	Markable 14 38	one very large black dot
+T3	Markable 40 42	It
+T4	Markable 77 81	that
+T5	Markable 98 126	a medium sized very dark one
+T6	Markable 185 199	two other dots
+T7	Markable 139 158	the large black one
+T8	Markable 263 282	the one and the one
+T10	Markable 201 208	The one
+R1	Anaphora Arg1:T3 Arg2:T2	
+#1	AnnotatorNotes T8	the one
+T1	Markable 351 372	the larger black spot

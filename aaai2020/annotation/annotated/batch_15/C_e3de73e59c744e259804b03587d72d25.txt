@@ -1,0 +1,9 @@
+1: one large black dot alone by 8 oclock
+0: DO you have a largest darkest dot
+1: yes alone near 8 oclock
+0: not same position, do you have medium gray medium size object
+1: yes below the large black and to the right
+0: is it at the right top corner
+1: no...how about tiny black dot just below two medium dark dots
+0: Is it at the right top corner
+1: yes. lets try it ...tiny black one

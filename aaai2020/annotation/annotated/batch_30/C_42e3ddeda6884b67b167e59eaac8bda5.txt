@@ -1,0 +1,6 @@
+0: do you have a small black dot about an inch beside a light small dot?
+1: is it to the bottom and right of the light dot?
+0: no...my light dot is to the right and below the black dot...do you have a cluster of 3 dots where two are the same shade and one is lighter?
+1: yes
+0: Ok...choose the small dot that is same shade as medium dot
+1: okay will do

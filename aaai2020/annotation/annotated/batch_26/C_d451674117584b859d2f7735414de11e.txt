@@ -1,0 +1,3 @@
+1: Do you have a Large black dot that forms a triangle with a small gray (bottom left of the triangle) and a large light gray(bottom right of triangle)?
+0: yes i do! great description
+1: Thanks :) Lets do the large black dot

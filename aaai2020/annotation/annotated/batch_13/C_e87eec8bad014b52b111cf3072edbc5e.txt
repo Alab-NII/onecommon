@@ -1,0 +1,6 @@
+0: I see two black dots. Equal sizes, they are horizontally aligned.
+1: do you see anything below either of those black dots?
+0: Left dot - To the lower left is a bigger gray dot. Right dot - Underneath it is a dot almost the same size and lighter.
+1: i see the exact same thing.
+0: Let's choose the left black dot.
+1: ok

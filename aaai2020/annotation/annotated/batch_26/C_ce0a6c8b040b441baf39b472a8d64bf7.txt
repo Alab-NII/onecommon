@@ -1,0 +1,10 @@
+1: Hello! Do you have two large gray dots right next to each other with the one to the top right slightly smaller?
+0: Do you see more than one circle
+1: I see more than one dot, yes
+0: No I don't see those 2 dots you speak of
+1: What about a small dark gray dot between two light gray dots
+0: No. What about a large dark gray dot touching the dotted circle on the bottom left?
+1: We don't share the same view, so my dotted circle is different from yours.
+0: Do you have a gray dot touching the outer circle at all?
+1: That wouldn't matter because our outer circles are totally different. We have to communicate based on references of dots to each other
+0: Ok you don't understand what I'm saying. Let's just go with the small gray dot in between the 2 differently toned lighter gray dots on each side

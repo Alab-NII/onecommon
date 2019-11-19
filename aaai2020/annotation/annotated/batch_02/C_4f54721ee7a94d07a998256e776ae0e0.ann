@@ -1,0 +1,9 @@
+T1	Markable 10 28	a lonely black dot
+T2	Markable 114 138	a group of 3 larger dots
+T4	Markable 189 193	them
+T5	Markable 157 160	one
+T6	Markable 204 209	those
+T7	Markable 216 231	the lighter one
+T8	Markable 46 56	larger dot
+T3	Markable 140 141	2
+R1	Anaphora Arg1:T4 Arg2:T3	

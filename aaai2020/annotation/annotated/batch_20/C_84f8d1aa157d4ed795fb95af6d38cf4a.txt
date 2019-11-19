@@ -1,0 +1,6 @@
+0: large dark grey dot by itself, top left
+1: I have a very large very dark dot by itself.
+0: top left?
+1: Yes. That's the one.
+0: ok, lets pick it
+1: Sounds good.

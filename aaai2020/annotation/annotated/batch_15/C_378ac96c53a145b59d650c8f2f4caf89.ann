@@ -1,0 +1,13 @@
+T1	Markable 34 85	a much smaller, slightly lighter but still dark dot
+T2	Markable 10 27	a large black dot
+T3	Markable 122 139	a small black dot
+T4	Markable 182 199	a small black dot
+T5	Markable 213 221	two dots
+T6	Markable 266 273	The one
+T7	Markable 397 404	top one
+T8	Markable 424 442	darker, higher one
+A1	No-Referent T4
+T9	Markable 253 264	one another
+R1	Anaphora Arg1:T9 Arg2:T5	
+T10	Markable 334 345	The left on
+#1	AnnotatorNotes T10	The left one

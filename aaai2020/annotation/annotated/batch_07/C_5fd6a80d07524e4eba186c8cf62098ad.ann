@@ -1,0 +1,10 @@
+T1	Markable 92 96	them
+T2	Markable 67 83	a large dark one
+T3	Markable 21 27	a line
+T4	Markable 29 39	middle one
+T5	Markable 12 17	three
+T6	Markable 98 102	they
+T7	Markable 130 137	those 4
+T8	Markable 146 157	the big one
+R1	Predicative Arg1:T3 Arg2:T5	
+R2	Anaphora Arg1:T1 Arg2:T5	

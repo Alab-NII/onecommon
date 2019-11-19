@@ -1,0 +1,8 @@
+T2	Markable 38 44	3 dots
+T3	Markable 52 62	a triangle
+T4	Markable 88 95	One dot
+T5	Markable 115 118	one
+T6	Markable 142 145	one
+T7	Markable 176 178	it
+T8	Markable 191 209	the small dark one
+R1	Predicative Arg1:T3 Arg2:T2	

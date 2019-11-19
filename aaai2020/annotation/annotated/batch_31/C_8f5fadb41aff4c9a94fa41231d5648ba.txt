@@ -1,0 +1,2 @@
+1: triangle of two black dots and med grey one on top?
+0: yes if the largest blackest one is to the bottom left click that one!

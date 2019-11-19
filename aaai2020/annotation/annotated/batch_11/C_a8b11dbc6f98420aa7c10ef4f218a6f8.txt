@@ -1,0 +1,4 @@
+1: I have 2 large dots 1 slightly lighter and left above the dark dot
+0: Is the lighter one slightly larger than the darker one below it?
+1: yes
+0: Ok. Let's pick the darker dot below

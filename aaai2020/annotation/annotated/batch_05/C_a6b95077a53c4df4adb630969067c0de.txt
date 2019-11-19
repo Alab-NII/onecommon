@@ -1,0 +1,4 @@
+0: I see two dark dots next to each other with a light small dot underneath the left one
+1: i think i have it, the small one is light grey?
+0: Yes
+1: ok, pick that small light grey one

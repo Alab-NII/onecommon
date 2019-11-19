@@ -1,0 +1,4 @@
+0: Hello! Which dot would you like to try for?
+1: do you have a black large dot with another large medium gray dot to the bottom right
+0: Yes, the bottom right one is far away?
+1: yes. pick the bottom right one

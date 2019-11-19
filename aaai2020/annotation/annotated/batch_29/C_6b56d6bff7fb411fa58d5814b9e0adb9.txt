@@ -1,0 +1,3 @@
+0: Do you see a large light grey dot with a smaller black dot right beside it on the right?
+1: yes! click that large light one!
+0: Okay!

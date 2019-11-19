@@ -1,0 +1,2 @@
+1: four dark dots grouped together, the left most is the smallest , others are the same size
+0: yes, lets choose the smallest one on the left

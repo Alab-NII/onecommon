@@ -1,0 +1,3 @@
+0: four dots that make a square
+1: Yes, is the smallest the bottom right point?
+0: right, choose smallest bottom right

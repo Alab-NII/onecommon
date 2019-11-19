@@ -1,0 +1,5 @@
+1: Do you see two smaller dots that are pretty close together and almost opposite in shade?
+0: No...I do have a small, almost black, dot on the right edge of my circle. It is to the right of a larger, darker dot.
+1: Okay cool I do too. Is the larger one slightly above?
+0: yes barely. which should we pick
+1: The darker larger one

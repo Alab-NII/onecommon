@@ -1,0 +1,7 @@
+0: Hello
+1: hello
+0: I see seven dots in my circle. Two are dark gray and fairly close together at the bottom, with one slightly above and left of the other
+1: and the one which is slightly on the left is larger and a bit lighter than the other 2?
+0: No, but there is a larger and lighter one above and left of the top one I was talking about
+1: yes i see, the one in the middle is medium color and smaller than other 2?
+0: sorry, I didn't read your last message correctly. I think we were talking about the same one. Like there's a large light gray at the top of a triangle, smaller light great bottom left triangle and dark gray on the bottom right of the triangle, with the other dark gray between that and the big one. Can we select the large gray at the top of the triangle?

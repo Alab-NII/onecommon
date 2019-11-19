@@ -1,0 +1,12 @@
+T1	Markable 10 34	one large light grey dot
+T2	Markable 115 137	a tiny medium grey dot
+T3	Markable 81 101	some dark small dots
+T4	Markable 44 64	one large light grey
+T5	Markable 75 77	it
+T6	Markable 145 149	they
+T7	Markable 188 212	the large light grey dot
+T8	Markable 263 281	the light grey dot
+T9	Markable 299 307	that one
+R1	Anaphora Arg1:T5 Arg2:T4	
+T10	Markable 173 181	the ones
+T11	Markable 219 235	a triangle group

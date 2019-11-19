@@ -1,0 +1,6 @@
+1: 2 almost identical small dark dots almost vertical?
+0: hmm no... do you have a very larger almost black dot?
+1: nope, how about 2 medium grey, the smaller one is down and to the right, about 4 oclock
+0: darn no. do you have a small black dot? smaller than the rest?
+1: sort of, a larger lighter one to the right of it?
+0: yes! click the small black one

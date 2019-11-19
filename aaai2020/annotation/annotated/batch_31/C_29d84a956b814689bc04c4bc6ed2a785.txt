@@ -1,0 +1,3 @@
+0: cluster of 3 dots close together. one big med grey dot in the 3 dots
+1: Yes. Are 2 medium gray and one lighter gray?
+0: yeah. pick the bigger dot

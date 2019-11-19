@@ -1,0 +1,11 @@
+T1	Markable 30 34	That
+T2	Markable 91 112	two almost black dots
+T5	Markable 197 212	one of the dots
+T6	Markable 216 238	a super light grey one
+T7	Markable 15 28	a light green
+R1	Anaphora Arg1:T1 Arg2:T7	
+T8	Markable 157 161	Mine
+R2	Predicative Arg1:T6 Arg2:T5	
+T3	Markable 248 257	Which one
+A1	Generic T3
+T4	Markable 277 280	One

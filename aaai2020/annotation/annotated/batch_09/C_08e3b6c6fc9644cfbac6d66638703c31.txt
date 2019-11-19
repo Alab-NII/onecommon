@@ -1,0 +1,5 @@
+0: I have two small black dots with a larger lighter one to the very left of them
+1: i dont see that. do you see a large, very light dot near the bottom
+0: I do not have a very light dot on my screen. do you have a large dark one off by itself?
+1: yeah by the top
+0: lets pick that one

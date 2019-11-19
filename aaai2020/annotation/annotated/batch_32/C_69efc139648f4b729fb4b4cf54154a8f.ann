@@ -1,0 +1,28 @@
+T1	Markable 59 75	two lighter dots
+T2	Markable 91 95	them
+T3	Markable 10 42	three very small dark/black dots
+T4	Markable 145 165	the two lighter ones
+T5	Markable 111 124	the dark ones
+T6	Markable 197 204	the one
+T7	Markable 171 175	they
+T8	Markable 307 329	the larger lighter one
+T9	Markable 273 288	my lighter ones
+T10	Markable 396 402	itself
+T11	Markable 355 372	a small black one
+T12	Markable 413 424	another one
+T13	Markable 543 556	a larger grey
+T14	Markable 535 537	it
+T15	Markable 572 574	it
+T16	Markable 589 609	the lonely upper dot
+T17	Markable 655 662	nothing
+T18	Markable 695 697	it
+T21	Markable 745 753	that one
+R1	Anaphora Arg1:T2 Arg2:T3	
+A1	No-Referent T5
+R2	Anaphora Arg1:T7 Arg2:T4	
+R3	Anaphora Arg1:T10 Arg2:T11	
+T23	Markable 496 509	the small one
+R4	Anaphora Arg1:T14 Arg2:T23	
+R5	Anaphora Arg1:T15 Arg2:T23	
+T24	Markable 614 618	That
+A2	No-Referent T17

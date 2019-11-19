@@ -1,0 +1,8 @@
+T1	Markable 16 23	one dot
+T2	Markable 36 44	the rest
+T3	Markable 55 77	a large light grey dot
+T4	Markable 83 97	3 smaller ones
+T5	Markable 104 106	it
+T6	Markable 151 164	the large dot
+R1	Anaphora Arg1:T5 Arg2:T3	
+T7	Markable 121 135	that situation

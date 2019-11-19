@@ -1,0 +1,8 @@
+0: Hey!
+1: hello,I see a small light grey dot next to a bigger light grey dot.
+0: Is it in the 8 o'clock area?
+1: closer to 10, but our locations are different anyway
+0: I have that as well, but the instructions say in common, there is a spot we both have in the same location.
+1: just the dots.
+0: We can try but i believe you are misunderstanding. if we both have 3 black dots, then it'd be very basic to find them in common if location didn't matter. it'd take no effort.
+1: the views are different dots are the same

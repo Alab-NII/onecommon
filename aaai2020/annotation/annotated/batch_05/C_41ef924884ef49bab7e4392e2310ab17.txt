@@ -1,0 +1,6 @@
+0: i see cluster of 3 dots same dark grey color, larger dots
+1: I don't see that. I see three dots toward the bottom of the circle, the one farthest right is large and medium grey, the one next to the is smaller and almost black and the one next to that is even smaller and lighter grey
+0: I see your dots but only the left 2 the almost black one is larger than the smaller grey one to the left
+1: Yes! Okay, we're definitely looking at the same thing. Let's select the almost black one.
+0: ok choosing smallest black :)
+1: Have a great day!! :)

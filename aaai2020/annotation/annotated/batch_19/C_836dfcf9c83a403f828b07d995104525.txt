@@ -1,0 +1,5 @@
+0: Do you have a line of three dots that sort of stretch into a triangle?
+1: possibly, the right most is the darkest dot?
+0: na, lets ditch that one. How about a large extremely light grey dot?
+1: yea i have one, kind of alone. should we select that one? upper left quarter of circle
+0: yes!

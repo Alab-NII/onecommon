@@ -1,0 +1,5 @@
+0: i have one almost black dot. its is medium-large in size.
+1: yes.
+0: it is below and to the right of a similar size, but much lighter dot.
+1: yes
+0: select the darker dot

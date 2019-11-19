@@ -1,0 +1,4 @@
+0: I see a small cluster of 3 dark grey dots with a single light grey dot to the upper right of the cluster
+1: I think I see that. In the cluster of 3 dark dots are there 2 close together almost in a vertical line with the top one being smaller and slightly to the left
+0: yes thats it. lets click the larger dot on the bottom slightly to the right
+1: ok

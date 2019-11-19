@@ -1,0 +1,33 @@
+T1	Markable 21 52	a slightly lighter, smaller one
+T2	Markable 68 70	it
+T3	Markable 188 204	your darkest dot
+T4	Markable 211 213	it
+T5	Markable 252 254	it
+T6	Markable 258 260	it
+T7	Markable 292 296	that
+T8	Markable 347 349	it
+T9	Markable 309 327	a medium black Dot
+T10	Markable 378 395	all my light ones
+T11	Markable 432 446	my 2 dark ones
+T12	Markable 483 500	the two dark ones
+T13	Markable 448 452	they
+T14	Markable 517 529	my dark ones
+T15	Markable 560 587	two really small light ones
+T16	Markable 625 648	your smallest light dot
+T17	Markable 3 15	Big dark one
+R1	Anaphora Arg1:T2 Arg2:T17	
+T18	Markable 88 102	My largest dot
+T19	Markable 119 141	the lightest shade dot
+T20	Markable 163 167	it's
+R2	Anaphora Arg1:T20 Arg2:T18	
+R3	Anaphora Arg1:T4 Arg2:T3	
+T21	Markable 219 237	a smaller dark one
+R4	Anaphora Arg1:T5 Arg2:T3	
+R5	Anaphora Arg1:T6 Arg2:T3	
+A1	No-Referent T7
+T22	Markable 353 373	same sized light dot
+R6	Anaphora Arg1:T8 Arg2:T9	
+T23	Markable 502 513	The closest
+R7	Anaphora Arg1:T14 Arg2:T11	
+T24	Markable 533 556	a medium size light one
+R8	Predicative Arg1:T24 Arg2:T23	

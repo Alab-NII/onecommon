@@ -1,0 +1,4 @@
+1: I have a large very dark gray dot with a smaller same color dot directly to the right
+0: is it part of a horizontal line with two gray dots and a smaller black dot in the middle?
+1: I think I see that. Does the horizontal line you see slant up and to the right? The middle black dot is higher than the gray dot on the left?
+0: yes exactly! pick that middle black dot.

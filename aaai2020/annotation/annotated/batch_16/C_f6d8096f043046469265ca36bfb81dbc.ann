@@ -1,0 +1,10 @@
+T1	Markable 33 35	it
+T2	Markable 64 88	one large light grey dot
+T4	Markable 97 101	that
+T5	Markable 134 159	any other light grey dots
+T6	Markable 164 169	thats
+T7	Markable 174 188	the other ones
+T8	Markable 230 232	it
+T9	Markable 10 28	only one light dot
+R1	Anaphora Arg1:T1 Arg2:T9	
+A1	Generic T5

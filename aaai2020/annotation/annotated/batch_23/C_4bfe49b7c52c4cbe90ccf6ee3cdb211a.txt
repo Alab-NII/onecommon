@@ -1,0 +1,8 @@
+0: I see 5 dots close together forming a pentagon
+1: I'm not sure if i have that. do you have two dots close together with the one on the right being darker to the one on the left?
+0: yes I do.
+1: they are about the same size
+0: yes
+1: does the one on the right look black?
+0: black
+1: ok lets choose that one

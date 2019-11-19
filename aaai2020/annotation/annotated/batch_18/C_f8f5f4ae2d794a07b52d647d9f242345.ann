@@ -1,0 +1,6 @@
+T1	Markable 14 50	two of the same size same color dots
+T2	Markable 59 69	each other
+T3	Markable 140 166	the left most matching dot
+T4	Markable 191 207	that smaller one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T5	Markable 88 117	a same color, but smaller one

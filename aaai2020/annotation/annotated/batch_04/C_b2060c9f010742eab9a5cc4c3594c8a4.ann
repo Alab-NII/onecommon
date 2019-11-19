@@ -1,0 +1,24 @@
+T1	Markable 62 76	the other four
+T2	Markable 10 20	three dots
+T3	Markable 24 46	a semi-horizontal line
+T4	Markable 130 137	nothing
+T5	Markable 275 285	three dots
+T6	Markable 342 360	A small darker dot
+T7	Markable 389 410	a larger med-gray dot
+T8	Markable 314 325	The top two
+T9	Markable 459 494	a slightly smaller lighter grey dot
+T11	Markable 502 509	the dot
+T13	Markable 570 582	a darker one
+T14	Markable 600 602	it
+T15	Markable 624 633	those two
+T16	Markable 689 703	the darker one
+T17	Markable 649 660	a small one
+T18	Markable 733 757	the light/lowest big one
+R1	Predicative Arg1:T3 Arg2:T2	
+A1	No-Referent T4
+T20	Markable 170 178	the ones
+A2	All-Referents T20
+T21	Markable 432 455	the larger med-gray dot
+T22	None 456 458	in
+#1	AnnotatorNotes T22	is
+R2	Anaphora Arg1:T14 Arg2:T11	

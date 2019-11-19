@@ -1,0 +1,5 @@
+0: Do you have a large dark gray circle with a large light gray circle directly to the right and slightly above it?
+1: I got two dark dots one above the other
+0: Are they black and the one on top is bigger?
+1: Yeah I have that click the light grey above
+0: ok, light gray above

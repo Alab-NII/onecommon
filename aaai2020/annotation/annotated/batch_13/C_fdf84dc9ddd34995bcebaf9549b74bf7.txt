@@ -1,0 +1,5 @@
+0: i have a black dot with a dark grey dot close to it directly below it and slightly yo the left
+1: Is the dark gray dot bigger?
+0: yes
+1: Let's pick the black dot.
+0: ok

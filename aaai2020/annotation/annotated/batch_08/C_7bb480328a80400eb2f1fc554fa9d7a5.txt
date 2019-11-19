@@ -1,0 +1,4 @@
+0: I see two very tiny light grey dots close together
+1: Me too! Is there a large dark dot close to the bottom one
+0: Yes. Want to click on that large darker dot?
+1: sure

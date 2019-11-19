@@ -1,0 +1,13 @@
+T1	Markable 46 64	one small med grey
+T2	Markable 69 84	one black small
+T3	Markable 95 112	a black small one
+T4	Markable 148 154	a line
+T5	Markable 118 140	the large med grey one
+T7	Markable 10 26	2 med light grey
+T8	Markable 28 44	3 large med gray
+T9	Markable 198 203	which
+A1	Generic T9
+T10	Markable 216 227	any of them
+A2	Generic T10
+T11	Markable 258 268	the middle
+T6	Markable 272 282	the gray 3

@@ -1,0 +1,12 @@
+T1	Markable 82 92	each other
+T2	Markable 109 113	that
+T3	Markable 127 140	one black dot
+T4	Markable 156 170	your black dot
+T5	Markable 181 194	the black dot
+T6	Markable 257 261	that
+T7	Markable 358 372	that black one
+T8	Markable 3 17	two black dots
+R1	Anaphora Arg1:T1 Arg2:T8	
+A1	No-Referent T2
+T9	Markable 226 249	a small medium grey dot
+T10	Markable 296 307	another dot

@@ -1,0 +1,4 @@
+0: Is your smallest dot dark grey?
+1: yes and there is a slightly larger lighter dot at 2 o clock
+0: Yes! Which should we choose?
+1: perfect! pick the small one

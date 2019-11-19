@@ -1,0 +1,4 @@
+1: do you have 2 dots closest together. one dark one and one light one?
+0: yes
+1: okay do you wanna pick the darkest one
+0: yes

@@ -1,0 +1,7 @@
+1: i see 7 dots
+0: two smaller med grey dots close together?
+1: at the top
+0: yes they are almost on a horizontal line. right one a little lower?
+1: yes
+0: which one did you click??
+1: bottom one

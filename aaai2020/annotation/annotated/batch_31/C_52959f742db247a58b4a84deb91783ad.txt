@@ -1,0 +1,5 @@
+1: two small dots horizontal from each other...left is black
+0: I don't see that I have a triangle with a medium size dot and 2 smaller dots with one on bottom right being light gray
+1: Got it...two dots on the left are the same shade
+0: Yes let's pick the light gray one
+1: k

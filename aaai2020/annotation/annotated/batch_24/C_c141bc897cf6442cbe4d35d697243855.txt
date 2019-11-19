@@ -1,0 +1,6 @@
+1: Some dots form a letter v
+0: I am viewing my circle as if it were a clock
+1: No dont. it is wrong and will be rejected. I have a light dot that is like the largest
+0: Okay, Is that dot located at the "bottom" of the V you described earlier.
+1: five dots write letter v let us select the bottom most
+0: And that will be the lightest colored dot on my view

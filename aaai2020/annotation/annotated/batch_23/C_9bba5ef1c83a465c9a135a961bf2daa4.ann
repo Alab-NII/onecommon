@@ -1,0 +1,5 @@
+T1	Markable 19 27	a square
+T4	Markable 88 101	the black one
+T5	Markable 3 8	group
+R1	Predicative Arg1:T1 Arg2:T5	
+T6	Markable 31 42	One of them

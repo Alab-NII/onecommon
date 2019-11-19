@@ -1,0 +1,5 @@
+0: Do you have a dark gray dot?
+1: I do. There's a larger, slightly dark dot above it and to the left. Is that what you see?
+0: yes
+1: Let's pick the darker one
+0: I am sorry -I do not see 2 of them. There's one at 11 on the clock

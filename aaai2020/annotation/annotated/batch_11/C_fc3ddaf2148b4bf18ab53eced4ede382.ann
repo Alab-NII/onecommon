@@ -1,0 +1,6 @@
+T1	Markable 29 36	Top one
+T2	Markable 149 160	the top one
+T3	Markable 3 27	Two very light grey dots
+T4	Markable 101 105	that
+T5	Markable 126 135	the thing
+R1	Anaphora Arg1:T5 Arg2:T4	

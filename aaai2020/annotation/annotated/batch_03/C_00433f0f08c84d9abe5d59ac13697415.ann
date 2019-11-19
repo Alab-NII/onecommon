@@ -1,0 +1,17 @@
+T1	Markable 10 29	two light grey dots
+T2	Markable 31 34	One
+T3	Markable 62 71	the other
+T4	Markable 163 174	the top one
+T5	Markable 332 341	the other
+T6	Markable 301 304	one
+T7	Markable 353 356	two
+T8	Markable 358 361	One
+T9	Markable 399 402	One
+T10	Markable 414 417	one
+T11	Markable 427 444	The three of them
+T13	Markable 450 471	an isosceles triangle
+T15	Markable 113 141	two large light grey circles
+T16	Markable 381 397	two dark circles
+R1	Predicative Arg1:T13 Arg2:T11	
+T12	Markable 484 504	the two dark circles
+T17	Markable 639 664	the bottom light grey dot

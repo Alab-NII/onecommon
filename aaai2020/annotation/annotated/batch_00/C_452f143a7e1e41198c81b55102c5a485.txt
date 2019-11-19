@@ -1,0 +1,6 @@
+1: hI i HAVE A big grey dot on the lower left
+0: I see one large gray dot at the top and bottom
+1: is the one at the top to the right a little?
+0: Yes
+1: light color?
+0: yes, I think that is our common one

@@ -1,0 +1,5 @@
+1: I have two small black dots close together. Bottom one is smaller, tiny and right
+0: I see a small dark dot with a bigger equally dark dot above to the left
+0: yes, select the top bigger one?
+1: Ok!
+0: Ok

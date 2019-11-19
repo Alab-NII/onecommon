@@ -1,0 +1,7 @@
+1: I have a large black dot, with an equally sized dark grey dot down and to the right
+0: Do you have a large black dot all the way a the top left, touching the outline?
+1: Our outlines are different. Does it have the large dark grey down and to the right
+0: No. It does not
+1: Ok, then I don't think I have it. Do you have a tiny very dark grey dot, with another tiny, but slightly larger dot up and to the left?
+0: Yes, I do have those two dots
+1: Ok, lets click the one on bottom

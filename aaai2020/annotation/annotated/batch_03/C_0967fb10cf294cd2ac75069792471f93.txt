@@ -1,0 +1,2 @@
+1: I see one large, very light gray dot SE of a tiny, darker dot
+0: let's choose the little gray dot

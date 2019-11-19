@@ -1,0 +1,9 @@
+T1	Markable 57 73	the leftmost one
+T2	Markable 45 55	each other
+T3	Markable 10 35	two large dark/black dots
+T4	Markable 130 143	a lighter dot
+T5	Markable 187 205	that high dark dot
+R1	Anaphora Arg1:T2 Arg2:T3	
+T6	Markable 101 112	the highest
+T7	Markable 147 150	its
+R2	Anaphora Arg1:T7 Arg2:T6	

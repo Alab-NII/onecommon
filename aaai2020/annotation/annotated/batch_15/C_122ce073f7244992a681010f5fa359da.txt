@@ -1,0 +1,4 @@
+0: How many dots do you have at twelve to three o clock quadrant?
+1: 1 dot there. Large pure black
+0: Do you have one darkest largest dot closer to one o clock
+1: yep

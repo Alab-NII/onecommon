@@ -1,0 +1,4 @@
+1: 6 of my dots form almost a rectangle.
+0: i have a smaller gray dot above a larger almost same color one
+1: yes,,, the are on the right... with a lighter gray dot below and to the right?
+0: yes, lets pick the smaller one>

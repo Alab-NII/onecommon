@@ -1,0 +1,10 @@
+T1	Markable 45 47	it
+T2	Markable 94 96	it
+T3	Markable 51 67	a small dark dot
+T4	Markable 105 121	a small dark dot
+T5	Markable 132 145	the first two
+T6	Markable 189 191	it
+T7	Markable 3 26	Huge lightest shade dot
+R1	Anaphora Arg1:T1 Arg2:T7	
+T8	Markable 164 182	The huge light dot
+R2	Anaphora Arg1:T6 Arg2:T8	

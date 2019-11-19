@@ -1,0 +1,6 @@
+1: I have a small black and a medium black almost in a line left to right
+0: i have 2 black ones that are to the left of all grey ones... the lower of the black ones is slightly bigger... the upper right one has 3 light ones to it's right
+1: Yes I think that is the same. Lets choose the larger black one?
+0: ok... it's left-most for you too?
+1: It is more center for me but usually the views are just a little off.
+0: yeah but there's no other dots to it's left?

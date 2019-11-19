@@ -1,0 +1,9 @@
+T1	Markable 34 44	each other
+T3	Markable 139 156	two smallest dots
+T4	Markable 113 130	darkest large dot
+T5	Markable 177 179	it
+T6	Markable 9 25	three large dots
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 75 90	three large dot
+A1	No-Referent T7
+T2	Markable 183 200	largest black dot

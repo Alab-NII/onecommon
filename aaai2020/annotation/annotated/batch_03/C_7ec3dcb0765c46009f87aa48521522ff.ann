@@ -1,0 +1,15 @@
+T1	Markable 10 27	a lonely tiny dot
+T2	Markable 67 79	a group of 3
+T3	Markable 83 89	a line
+T4	Markable 118 125	the one
+T5	Markable 204 208	that
+T6	Markable 251 268	a larger gray one
+T7	Markable 310 327	a small black dot
+T8	Markable 340 342	it
+T9	Markable 370 389	the small black dot
+R1	Predicative Arg1:T3 Arg2:T2	
+T10	Markable 171 182	the other 2
+A1	No-Referent T5
+T11	Markable 217 236	a small dark circle
+T12	Markable 284 304	a medium grey circle
+R2	Anaphora Arg1:T8 Arg2:T12	

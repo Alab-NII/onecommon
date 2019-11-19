@@ -1,0 +1,3 @@
+0: do you see a darker one that is near a slightly lighter same-sized one?
+1: yes
+0: lets click that

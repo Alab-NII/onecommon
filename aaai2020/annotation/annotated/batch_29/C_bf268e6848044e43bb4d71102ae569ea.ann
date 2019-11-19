@@ -1,0 +1,15 @@
+T2	Markable 95 107	the left one
+T3	Markable 38 55	a large black dot
+T4	Markable 75 93	2 small black dots
+T5	Markable 201 214	vertical line
+T6	Markable 150 170	two larger dark dots
+T8	Markable 276 298	a medium dark gray dot
+T9	Markable 304 326	a slightly smaller one
+T10	Markable 3 23	very large black dot
+R1	Predicative Arg1:T5 Arg2:T6	
+T1	Markable 236 240	that
+A1	No-Referent T1
+A2	No-Referent T3
+T7	Markable 330 333	its
+R2	Anaphora Arg1:T7 Arg2:T8	
+T11	Markable 369 384	the smaller one

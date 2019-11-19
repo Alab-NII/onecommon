@@ -1,0 +1,14 @@
+T1	Markable 58 69	4 gray dots
+T2	Markable 143 146	one
+T3	Markable 98 104	a line
+T5	Markable 177 181	line
+T6	Markable 82 87	three
+T7	Markable 189 191	it
+T8	Markable 192 201	which one
+T9	Markable 9 18	which dot
+A1	Generic T9
+R1	Predicative Arg1:T3 Arg2:T6	
+R2	Anaphora Arg1:T5 Arg2:T3	
+A2	Generic T8
+T4	Markable 227 240	the light one
+T10	Markable 248 252	line

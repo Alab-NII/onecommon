@@ -1,0 +1,4 @@
+1: There is an obvious group of four dots spaced out but very similar in size and color. All medium grey. Do you see that?
+0: I don't I see 3 of those
+1: K. Is the one farthest to the top close to a very large dark dot?
+0: Yes. Click that large dark dot.

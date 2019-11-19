@@ -1,0 +1,10 @@
+T1	Markable 15 28	one black dot
+T2	Markable 30 32	It
+T3	Markable 169 171	it
+T4	Markable 201 221	any medium grey dots
+T5	Markable 251 264	the black dot
+T6	Markable 294 301	the one
+T7	Markable 349 362	the black one
+T8	Markable 373 380	the one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T9	Markable 77 80	its

@@ -1,0 +1,5 @@
+1: do you have 3 across, med/dark grey, with the middle being a little higher, the left one being the smallest?
+0: I have a large black dot, with a equally black smaller black to its left. They are almost horizontal, but the smaller dot on the left is a little lower.
+1: i think i see those below my 3. do you have either a med/grey dot off to their upper left, or a light small one down to their lower right?
+0: Yes, we see the same things. Lets choose the smallest dot on your line of three. The one on the left
+1: perfect

@@ -1,0 +1,5 @@
+0: Cluster of 4 light/medium grey dots aligned vertically
+1: i have a group of 4 dots all the way to my right edge, and 2 dots one really dark and one really light next to each other to my top, and a dark one by itself on the bottom.
+0: is the group of 4 you have aligned vertically? if so, sizes go, from top to bottom: medium, small, large, medium?
+1: yes, lets pick the larger.
+0: ok

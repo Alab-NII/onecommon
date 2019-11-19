@@ -1,0 +1,11 @@
+T1	Markable 52 54	it
+T2	Markable 10 28	one tiny black dot
+T3	Markable 69 77	any dots
+T4	Markable 96 98	it
+T5	Markable 106 122	a tiny black dot
+T6	Markable 192 210	the lone black dot
+T7	Markable 157 167	other dots
+R1	Anaphora Arg1:T1 Arg2:T2	
+A1	Generic T3
+T8	Markable 30 37	nothing
+A2	No-Referent T8

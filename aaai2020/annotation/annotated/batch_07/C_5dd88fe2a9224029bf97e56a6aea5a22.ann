@@ -1,0 +1,18 @@
+T1	Markable 10 34	two large dark gray dots
+T2	Markable 36 39	one
+T3	Markable 78 87	the other
+T4	Markable 106 125	any large grey dots
+T5	Markable 134 151	a large black dot
+T6	Markable 197 219	a small light grey dot
+T7	Markable 240 257	a medium gray dot
+T8	Markable 373 383	those dots
+T9	Markable 366 369	one
+T10	Markable 353 355	it
+T11	Markable 429 453	the small light grey dot
+A1	No-Referent T4
+T12	Markable 156 174	No large black dot
+A2	No-Referent T12
+T13	Markable 261 264	its
+T14	Markable 385 394	Which one
+A3	Generic T14
+A4	Generic T9

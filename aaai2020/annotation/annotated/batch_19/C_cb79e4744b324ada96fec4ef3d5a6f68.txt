@@ -1,0 +1,4 @@
+0: I have a tiny dark grey dot, almost directly vertical below it is a medium sized black dot.
+1: I don't have any tiny grey dots
+0: Do you have two medium-large, medium shade grey dots diagonal from one another? The one on top is a little darker, a little smaller and to the right
+1: I think so, yes. Click on the top one ?

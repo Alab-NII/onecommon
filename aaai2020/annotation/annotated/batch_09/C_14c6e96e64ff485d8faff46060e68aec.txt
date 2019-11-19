@@ -1,0 +1,5 @@
+1: grey dot on bottom
+0: Is it dark and larger than the others
+1: bottom right?
+0: Yes
+1: select

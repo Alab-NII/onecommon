@@ -1,0 +1,4 @@
+0: do u see two light grey dots next to each other, with a really dark dot either above or below them?
+1: 2 large light grey dots right next to each other
+0: ok, lets pick the small black dot above those two, u see it?
+1: yes

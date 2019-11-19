@@ -1,0 +1,3 @@
+0: three dots in a row, middle is slightly lighter?
+1: yes, left is largest and black, middle is light grey and medium, right is smallest and black?
+0: yes!, choose the middle

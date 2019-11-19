@@ -1,0 +1,7 @@
+0: two large grey dots very close together?
+1: Yes I think I have that...is one light grey and one under it darker and slightly to the left?
+0: hmm are you sure the darker one isn't to the top's right?
+1: Yes, that means they must not be the same ones. Do you have any large dots that are alone? I have 3 of those maybe we can try them
+0: No actually I think i have your pair as well! is the top one in your pair light?
+1: Yes and off to the right a bit
+0: Yes click the top one!

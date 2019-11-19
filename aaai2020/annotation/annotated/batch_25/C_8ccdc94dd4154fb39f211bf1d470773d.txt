@@ -1,0 +1,3 @@
+0: I have a dark grey dot due east of center
+1: Yes, is it the only one on that side?
+0: yes

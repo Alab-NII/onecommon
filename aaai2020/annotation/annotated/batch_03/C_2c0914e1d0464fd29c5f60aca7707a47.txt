@@ -1,0 +1,4 @@
+0: Do u see the dot right on the line
+1: Do you have two dots in an almost vertical line. They are both medium gray. The one on the bottom is larger, darker and slightly to the left?
+0: Yes
+1: Lets click the larger one on bottom

@@ -1,0 +1,11 @@
+T1	Markable 83 85	it
+T2	Markable 87 97	the larger
+T3	Markable 159 169	larger one
+T4	Markable 3 17	light grey dot
+T5	Markable 27 37	each other
+R1	Anaphora Arg1:T5 Arg2:T4	
+T6	Markable 39 42	big
+T7	Markable 55 64	small bot
+#1	AnnotatorNotes T7	small dot
+T8	None 142 145	tes
+#2	AnnotatorNotes T8	yes

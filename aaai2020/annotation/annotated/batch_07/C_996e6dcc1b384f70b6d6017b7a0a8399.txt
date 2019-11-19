@@ -1,0 +1,9 @@
+0: dark one high
+1: Is it on the smaller side?
+0: almost the largest, there are a bunch the same large size but not the max possible
+1: Is it in the middle of three dots?
+0: no
+1: Then I dont see it. I have a light dot medium in size
+0: three dark greys and a light one in the letter L backwards?
+1: Yes
+0: the lighter one at the bottom

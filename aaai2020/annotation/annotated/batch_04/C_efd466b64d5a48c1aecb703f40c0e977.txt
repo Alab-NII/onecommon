@@ -1,0 +1,4 @@
+0: hi, do you have a large medium dot by itself
+1: No. Do you see a cluster of four dots together? Two larger and darker grey one medium and light grey and one small and dark grey?
+0: yes
+1: want to pick the light grey one?

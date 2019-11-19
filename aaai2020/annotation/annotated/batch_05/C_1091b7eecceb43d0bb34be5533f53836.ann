@@ -1,0 +1,15 @@
+T1	Markable 25 44	a smaller black dot
+T2	Markable 9 19	a gray dot
+T3	Markable 46 50	They
+T4	Markable 90 94	that
+T7	Markable 127 131	They
+T8	Markable 160 164	they
+T9	Markable 237 244	the one
+T10	Markable 338 349	another dot
+T11	Markable 382 389	the one
+T5	Markable 105 125	another pair of dots
+R1	Anaphora Arg1:T7 Arg2:T5	
+R2	Anaphora Arg1:T8 Arg2:T7	
+T6	Markable 271 278	The one
+T12	Markable 463 475	the top left
+A1	No-Referent T4

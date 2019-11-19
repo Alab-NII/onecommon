@@ -1,0 +1,31 @@
+T1	Markable 36 46	a triangle
+T2	Markable 10 25	three dark dots
+T3	Markable 48 71	the largest and darkest
+T4	Markable 171 193	a small light grey dot
+T5	Markable 199 221	a large light grey dot
+T6	Markable 237 239	it
+T7	Markable 306 316	those dots
+T8	Markable 330 346	a large dark dot
+T9	Markable 356 358	it
+T10	Markable 447 450	one
+T11	Markable 469 472	one
+T12	Markable 401 403	it
+T13	Markable 492 507	the lighter dot
+T14	Markable 631 638	the one
+T15	Markable 692 704	the triangle
+T16	Markable 608 627	large dark grey dot
+T17	Markable 806 822	the leftmost dot
+R1	Predicative Arg1:T1 Arg2:T2	
+T18	Markable 110 114	what
+R2	Anaphora Arg1:T6 Arg2:T4	
+A1	No-Referent T7
+T19	Markable 368 389	My larger darkest dot
+R3	Anaphora Arg1:T12 Arg2:T19	
+T20	Markable 412 426	an orions belt
+T21	Markable 432 446	2 smaller dots
+R4	Anaphora Arg1:T9 Arg2:T8	
+T22	Markable 511 519	the belt
+T23	Markable 545 547	it
+R5	Predicative Arg1:T14 Arg2:T16	
+T24	Markable 826 836	the "belt"
+#1	AnnotatorNotes T24	the belt

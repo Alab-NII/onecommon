@@ -1,0 +1,11 @@
+0: Do you see one dot darker than all the rest
+1: i have a really light circle touching the dotted line bottom left
+0: is it up and to the left from a large slightly darker dot
+1: no, is the really dark circle around 3 oclock?
+0: No - new question - do you have two large dots close- together
+1: i do, are the light?
+0: yes toward the upper left in my view
+1: are hey just above the top half?
+0: yes - I think i will select one of those dots - sound good?
+1: select the bottom one
+0: OK

@@ -1,0 +1,11 @@
+T1	Markable 37 39	it
+T2	Markable 41 53	3 light dots
+T3	Markable 63 69	a line
+T5	Markable 93 101	The dots
+T6	Markable 129 137	the line
+T7	Markable 152 167	the largest one
+T8	Markable 3 23	very large black dot
+A1	No-Referent T1
+T4	None 59 62	for
+#1	AnnotatorNotes T4	form
+R1	Predicative Arg1:T3 Arg2:T2	

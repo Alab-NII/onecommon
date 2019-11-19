@@ -1,0 +1,6 @@
+0: i see a huge black dot and there is a light gray dot on the bottom to the left
+1: The dot left to the black dot on mine is dark grey.
+0: is there a dark black dot (smaller) right under the big black dot?
+1: No, I only see one black dot on mine
+0: let's choose that one, i guess
+1: Ok

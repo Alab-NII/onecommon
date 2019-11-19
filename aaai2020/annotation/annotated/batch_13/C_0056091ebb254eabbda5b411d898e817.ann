@@ -1,0 +1,9 @@
+T1	Markable 42 46	that
+T2	Markable 59 80	a tiny light grey dot
+T3	Markable 128 130	it
+T4	Markable 146 158	the tiny one
+T5	Markable 3 23	lone large black dot
+A1	No-Referent T1
+T6	Markable 90 107	a large dark grey
+T7	None 108 112	dont
+#1	AnnotatorNotes T7	on

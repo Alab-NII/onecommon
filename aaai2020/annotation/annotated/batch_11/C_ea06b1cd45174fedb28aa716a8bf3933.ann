@@ -1,0 +1,19 @@
+T1	Markable 38 54	a tiny black one
+T2	Markable 61 63	it
+T3	Markable 15 32	a large dark grey
+T4	Markable 112 118	itself
+T5	Markable 153 159	itself
+T6	Markable 175 181	itself
+T7	Markable 164 171	a small
+T8	Markable 189 202	the small one
+T9	Markable 240 267	a slightly larger light one
+T10	Markable 219 234	a tiny grey one
+T11	Markable 283 285	it
+T12	Markable 317 335	the light gray one
+R1	Anaphora Arg1:T2 Arg2:T3	
+T13	Markable 84 108	a little medium gray one
+R2	Anaphora Arg1:T4 Arg2:T13	
+T14	Markable 130 149	a tiny med grey one
+R3	Anaphora Arg1:T5 Arg2:T14	
+R4	Anaphora Arg1:T6 Arg2:T7	
+T15	Markable 296 300	that

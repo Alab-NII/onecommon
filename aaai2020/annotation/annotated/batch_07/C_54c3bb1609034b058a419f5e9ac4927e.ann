@@ -1,0 +1,16 @@
+T1	Markable 10 16	2 dots
+T2	Markable 32 40	left one
+T3	Markable 63 72	right one
+T4	Markable 119 127	that one
+T5	Markable 189 203	the right dark
+T6	Markable 166 184	the left arm light
+T7	Markable 136 147	a four dots
+T8	Markable 227 240	the right one
+T9	Markable 218 225	those 4
+T10	Markable 297 310	a lighter one
+T11	Markable 336 358	the top right dark one
+A1	No-Referent T4
+T12	Markable 151 160	a Y shape
+R1	Predicative Arg1:T12 Arg2:T7	
+T13	Markable 257 264	other 3
+T14	Markable 276 292	the leg of the Y

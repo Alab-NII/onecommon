@@ -1,0 +1,14 @@
+T1	Markable 9 26	a medium gray dot
+T2	Markable 6 8	it
+T3	Markable 63 84	another dark grey dot
+T4	Markable 38 57	a big dark grey dot
+T5	Markable 107 121	a big gray dot
+T6	Markable 167 169	it
+T7	Markable 240 261	a medium mid gray dot
+T8	Markable 184 202	two dark gray dots
+T9	Markable 204 208	they
+T10	Markable 340 366	the bigger darker grey dot
+R1	Cataphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T9 Arg2:T8	
+T12	Markable 284 307	a medium light gray dot
+T13	Markable 321 325	this

@@ -1,0 +1,4 @@
+0: I have a diagonal line of three dots all very close together. The darkest one is in the middle.
+1: 3 dots in a cluster with the one in middle being black and smallest...
+0: Yes! Let's pick that small black one in the middle.
+1: ok

@@ -1,0 +1,4 @@
+0: I have a medium light gray dot by 9
+1: Got it too
+0: Is it medium sized?
+1: Yes it is.

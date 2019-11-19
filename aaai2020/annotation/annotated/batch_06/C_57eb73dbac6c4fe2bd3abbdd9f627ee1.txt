@@ -1,0 +1,5 @@
+1: three dots, in a crooked like, the bottom two are same size, the top one is lightest, middle is black, and lower right is medium dark?
+0: Yes, I think I see that - the one in the middle is large and black? And the line is crooked, but horizontal?
+1: its not horizontal, its more vertical. i see three dots that make a triangle. tip one is dark, below it and slightly to the left is a slightly smaller and lighter dot, from there you go to the right and up slightly for another slightly smaller and slightly lighter dot
+0: OK, I think I do have that. Should we pick the large dark dot at the top?
+1: ok

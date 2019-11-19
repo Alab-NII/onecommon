@@ -1,0 +1,12 @@
+T1	Markable 10 27	two smallish dots
+T2	Markable 37 47	each other
+T3	Markable 49 56	The one
+T4	Markable 123 139	three light dots
+T5	Markable 143 158	a diagonal line
+T7	Markable 231 235	mine
+T8	Markable 258 270	the dark one
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T5 Arg2:T4	
+T9	Markable 160 170	The middle
+T6	Markable 201 205	what
+A1	No-Referent T6

@@ -1,0 +1,5 @@
+1: I see two dots that are very close together. One that is larger and very dark and the other that is the smallest and medium dark
+0: I see a very small very light grey dot.
+1: No the one I see is medium in size. Does it form a triangle with two other dots very similar in size but both darker in shades?
+0: No it forms a long triangle with two dots, one that is the darkest and same size and one that is the largest and medium grey
+1: Okay, let's pick on the lightest grey dot!

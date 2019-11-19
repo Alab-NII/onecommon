@@ -1,0 +1,5 @@
+1: I see a very tiny dot that is a medium shade of grey
+0: Does it has another larger, lighter dot up and to the left at its 10 oclock
+1: Yes.
+0: Ok, lets click the tiny dot
+1: Okay

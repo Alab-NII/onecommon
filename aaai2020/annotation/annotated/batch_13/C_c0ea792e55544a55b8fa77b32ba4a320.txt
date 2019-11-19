@@ -1,0 +1,4 @@
+1: I have a cluster of 2 small black dots. One is slightly above and to the right of the other
+0: do you see a large medium dot above a small dark dot
+1: No. I have one medium gray dot that is larger than all the rest. There is a smaller slightly darker dot to the left and slightly below it
+0: pick the large one

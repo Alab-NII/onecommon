@@ -1,0 +1,10 @@
+T1	Markable 43 50	5th dot
+T2	Markable 124 134	each other
+T3	Markable 136 140	they
+T4	Markable 206 220	the darker one
+T5	Markable 3 22	cluster of 4-5 dots
+T6	Markable 24 41	4 grey shade dots
+T7	Markable 81 114	two medium grey medium sized dots
+R1	Anaphora Arg1:T2 Arg2:T7	
+R2	Anaphora Arg1:T3 Arg2:T7	
+T8	Markable 160 170	upper left

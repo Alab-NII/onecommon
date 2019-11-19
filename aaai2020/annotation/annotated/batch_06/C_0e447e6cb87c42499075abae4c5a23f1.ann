@@ -1,0 +1,30 @@
+T1	Markable 9 20	a black dot
+T2	Markable 83 100	a medium gray dot
+T3	Markable 28 30	it
+T4	Markable 35 53	a smaller gray dot
+T5	Markable 65 79	that black dot
+T6	Markable 116 141	the lonely light gray dot
+T8	Markable 170 180	other dots
+T10	Markable 219 242	three smaller dark dots
+T11	Markable 191 213	a large light grey dot
+T12	Markable 255 261	a line
+T13	Markable 249 251	it
+T14	Markable 292 308	a light gray dot
+T15	Markable 325 336	a black dot
+T16	Markable 367 386	a smaller black dot
+T17	Markable 396 403	the one
+T18	Markable 391 395	that
+T19	Markable 427 443	The lightest one
+T20	Markable 469 476	the one
+T21	Markable 504 520	the lightest dot
+T22	Markable 499 501	It
+R1	Anaphora Arg1:T3 Arg2:T1	
+R2	Anaphora Arg1:T5 Arg2:T1	
+T7	Markable 149 160	All of dots
+A1	All-Referents T7
+R3	Anaphora Arg1:T13 Arg2:T11	
+R4	Predicative Arg1:T12 Arg2:T10	
+R5	Anaphora Arg1:T17 Arg2:T18	
+R6	Anaphora Arg1:T18 Arg2:T14	
+R7	Predicative Arg1:T21 Arg2:T22	
+R8	Anaphora Arg1:T22 Arg2:T20	

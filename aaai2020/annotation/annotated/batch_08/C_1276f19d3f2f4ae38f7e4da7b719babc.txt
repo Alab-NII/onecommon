@@ -1,0 +1,8 @@
+0: I have one very tiny very light dot
+1: Is there a same size but slightly darker dot below it to the right?
+0: i cannot see one to the right of it but there is a dark one to the slight left.
+1: I don't think I have that same section. Do you have a very large light dot in the 2 o'clock position?
+0: I do not. I have two dots of the same color the top left one is smaller and the one on the bottom to the right is larger
+1: I have 2 sets of dots that match that description. Far above the smaller dot you are describing, is there a lighter dot of the same color?
+0: I think we are seeing the same two sets of same color dots. one set is to the left of the other set. Nearly the same positions
+1: yes. Let's pick the smallest dot in the set farthest to the left

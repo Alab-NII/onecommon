@@ -1,0 +1,7 @@
+1: I see a gray one centered in the circle
+0: we have different cuts, so we have different angles, i see 3 dots making a triangle, the largest one is the darkest, the lightest one is med size
+1: Not sure about the triangle...hmm I see two black dots next to one small grey one
+0: I see those 2 black dots too, the one on the left is slightly larger?
+1: yes
+0: you selected the larger one?
+1: yeah click the large one my bad lol

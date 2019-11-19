@@ -1,0 +1,6 @@
+T1	Markable 91 95	that
+T3	Markable 25 48	the tip of the triangle
+T4	Markable 105 129	the small light gray dot
+T5	Markable 3 19	perfect triangle
+T2	Markable 49 76	a very small light gray dot
+R1	Predicative Arg1:T2 Arg2:T3	

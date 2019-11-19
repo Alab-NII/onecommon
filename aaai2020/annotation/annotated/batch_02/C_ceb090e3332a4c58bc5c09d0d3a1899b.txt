@@ -1,0 +1,4 @@
+1: Do you see two black downs, almost in a vertical line with the top one being a little bigger?
+0: no, i see 2 almost identical medium grey in a vertical line
+1: I see those two, should we pick the top one of those?
+0: yes

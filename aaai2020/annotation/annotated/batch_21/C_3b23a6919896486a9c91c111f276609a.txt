@@ -1,0 +1,4 @@
+0: I see a triangle of larger dots, the one on the top of the triangle is the largest and darkest
+1: Yes. There is a smaller one very close below and to the right a bit?
+0: yes take the largest dark one on top!
+1: Ok

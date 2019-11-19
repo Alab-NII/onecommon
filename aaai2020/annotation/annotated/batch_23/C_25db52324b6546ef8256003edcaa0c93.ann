@@ -1,0 +1,10 @@
+T1	Markable 15 32	a horizontal line
+T2	Markable 76 86	three dots
+T3	Markable 214 222	that one
+T4	Markable 3 4	3
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 35 38	one
+T6	Markable 97 100	med
+T7	Markable 101 106	light
+T8	Markable 116 120	dark
+T9	Markable 130 137	Largest

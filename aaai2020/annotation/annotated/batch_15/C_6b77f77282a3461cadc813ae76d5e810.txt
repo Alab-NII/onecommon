@@ -1,0 +1,8 @@
+1: I have a large black dot, with an equally large light grey dot to the right and slightly lower
+0: one large black dot center near 6 oclock
+1: Does it have a large light grey dot to its right, slightly lower?
+0: no, but only have one large black dot
+1: Does it have a tiny dark grey dot up and to the left at its 11 oclock?
+0: yes
+1: Ok, click the big black one
+0: ok

@@ -1,0 +1,20 @@
+T1	Markable 54 64	each other
+T2	Markable 138 149	topmost dot
+T3	Markable 193 201	the four
+T4	Markable 234 238	that
+T5	Markable 251 267	a small tiny dot
+T6	Markable 360 363	top
+T7	Markable 305 315	three dots
+T8	Markable 418 422	that
+T9	Markable 429 450	the bottom light grey
+T10	Markable 3 15	2 black dots
+R1	Anaphora Arg1:T1 Arg2:T10	
+T11	Markable 81 85	that
+A1	No-Referent T11
+T12	Markable 93 102	four dots
+T13	Markable 103 106	all
+R2	Anaphora Arg1:T13 Arg2:T12	
+T14	Markable 173 180	topmost
+A2	No-Referent T4
+T15	Markable 377 383	middle
+T16	Markable 390 396	bottom

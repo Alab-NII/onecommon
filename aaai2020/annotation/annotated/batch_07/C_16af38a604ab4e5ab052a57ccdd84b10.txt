@@ -1,0 +1,6 @@
+1: I see two dots that are a lighter grey than the rest that are almost the same size and not too far apart from each other
+0: I don't see that. I see two very light grey dots that are the same size and very far apart.
+1: Okay do you see three dots that are almost the same shade with the biggest one being in the middle?
+0: Yes
+1: Okay, let's click on the middle bigger one.
+0: Sounds good!

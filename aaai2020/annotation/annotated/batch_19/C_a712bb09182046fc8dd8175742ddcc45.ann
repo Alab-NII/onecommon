@@ -1,0 +1,12 @@
+T1	Markable 19 45	a very tiny light gray dot
+T2	Markable 62 64	it
+T3	Markable 71 89	the light gray dot
+T6	Markable 296 319	a dark gray smaller dot
+T7	Markable 259 270	I black dot
+T8	Markable 223 238	a dark gray dot
+T10	Markable 50 55	three
+R1	Anaphora Arg1:T2 Arg2:T1	
+T11	Markable 138 143	mines
+T12	Markable 174 182	anything
+A1	Generic T12
+T4	Markable 367 376	the black

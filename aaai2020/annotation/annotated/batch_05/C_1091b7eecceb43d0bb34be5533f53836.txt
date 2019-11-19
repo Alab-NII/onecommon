@@ -1,0 +1,7 @@
+0: I see a gray dot near a smaller black dot. They are aligned vertically.
+1: I don't see that.
+0: I see another pair of dots. They are much farther apart. But they are going diagonal left, same size some color gray. (medium gray)
+1: is the one on bottom to the left?
+0: The one I was referring to the bottom was left, but out further is another dot on the top left too.
+1: Yes but the one on the top left is slightly bigger. Which should we choose?
+0: Let's try the top left.

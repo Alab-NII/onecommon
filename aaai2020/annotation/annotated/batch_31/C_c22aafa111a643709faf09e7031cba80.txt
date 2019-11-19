@@ -1,0 +1,3 @@
+1: I see two large, light gray dots right next to each other
+0: yeah I see it, lets choose the left one
+1: ok

@@ -1,0 +1,3 @@
+0: Hello, I have a large dark circle in the center
+1: Does it match this? i have two dots very close together. one is very dark and big and the other is lighter and a little smaller to the right and up.
+0: Yes, let's go with the dark one

@@ -1,0 +1,5 @@
+1: Do you have 2 dark dots close together?
+0: I have one large black dot on the right, a smaller black one to the left of it, and another large black dot to the left of that.
+1: I have a large dark dot with a smaller dark dot to slightly above it and do the left, they are at the edge of my circle.
+0: Good. Let's hit the smaller dark dot.
+1: okay.

@@ -1,0 +1,4 @@
+1: Is your largest dot black?
+0: i have 2 largest black n gray... black is to the lower
+1: I have that but my grey is the lower
+0: we pick large black

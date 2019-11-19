@@ -1,0 +1,3 @@
+0: small black dot with a large dark gray one to its right slightly lower
+1: I see it. Let us select the smaller black
+0: ok i selected it...

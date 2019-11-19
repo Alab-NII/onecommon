@@ -1,0 +1,7 @@
+0: i have three very dark dots. they are small.
+1: Is the smallest black with a slightly larger black down and to the right of it?
+0: its not my smallest, but i see the dot you are referencing
+1: Do you want to choose that?
+0: just confirm which one you want to select
+1: The small black dot
+0: ok

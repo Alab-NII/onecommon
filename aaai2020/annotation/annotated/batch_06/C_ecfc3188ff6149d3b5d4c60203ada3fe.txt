@@ -1,0 +1,7 @@
+0: I have four clustered together. Bottom right is largest and darkest
+1: i have three dots in a triangle, the bottom right one is large and dark-- i may have that and the top right one is out of my circle
+0: Ok, so your triangle is pretty flat? The dot on the right top is larger and lighter than left top?
+1: oh, is your cluster in a vertical line? and the top right is slightly lower than the top left?
+0: I think you are missing a different dot that I originally thought. Your triangle has a small medium darkness dot on the lower left, and a larger lighter dot on top with the larger dark dot on bottom right?
+1: yes that's the one i had, one of those dots?
+0: Yes, lets take the big dark one lower right

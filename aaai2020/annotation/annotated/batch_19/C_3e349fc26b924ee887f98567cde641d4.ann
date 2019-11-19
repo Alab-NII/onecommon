@@ -1,0 +1,7 @@
+T1	Markable 9 22	two dark dots
+T2	Markable 72 120	two extremely tiny, extremely light colored dots
+T4	Markable 160 185	two small light gray dots
+T5	Markable 221 228	the one
+T3	Markable 127 136	those two
+R1	Anaphora Arg1:T3 Arg2:T2	
+T6	Markable 244 252	that duo

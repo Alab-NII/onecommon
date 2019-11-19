@@ -1,0 +1,5 @@
+1: large grey doubt all alone on the left?
+0: i have a line of 3 diagonally... from to left to right Smallest Light gray, med gray, largest medium gray
+0: No
+1: ok i see the line of dots
+0: pick the largest

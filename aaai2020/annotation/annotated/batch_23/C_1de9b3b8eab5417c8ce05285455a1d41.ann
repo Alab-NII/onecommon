@@ -1,0 +1,15 @@
+T2	Markable 84 94	each other
+T3	Markable 62 74	2 large dots
+T4	Markable 96 99	one
+T5	Markable 143 147	that
+T6	Markable 191 208	a large black dot
+T7	Markable 166 178	the triangle
+T8	Markable 245 247	it
+T9	Markable 275 279	that
+T10	Markable 296 310	the larger one
+T11	Markable 15 31	a triangle shape
+R1	Anaphora Arg1:T2 Arg2:T3	
+A1	No-Referent T5
+A2	No-Referent T7
+T1	Markable 214 238	a smaller same color dot
+R2	Anaphora Arg1:T8 Arg2:T6	

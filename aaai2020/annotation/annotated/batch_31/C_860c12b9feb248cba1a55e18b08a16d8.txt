@@ -1,0 +1,2 @@
+0: i have a large black dot, with slightly larger but lighter dot on upper right side of it
+1: click the large black

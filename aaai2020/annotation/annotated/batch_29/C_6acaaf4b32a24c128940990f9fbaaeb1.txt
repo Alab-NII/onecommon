@@ -1,0 +1,3 @@
+0: Have a triangle with a black dot and two identical grey dots
+1: Yes, lets choose the black one
+0: Ok

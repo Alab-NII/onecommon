@@ -1,0 +1,8 @@
+1: Hell, I have one dot very close to the edge
+0: i do too, but i think our circles aren't overlayed on the dots exactly... what is around your dot?
+1: Underneath there is a light and darker dot that form a triangle
+0: no, i dont see that.
+1: Do you see a larger light dot at all?
+0: my lightest dot is about medium size... its in the middle of a line of smaller dots going up hill from the left
+1: Yes I have that one
+0: directly below it is a similar size but much darker dot. either way, lets select that large light gray dot

@@ -1,0 +1,2 @@
+0: Hi, I have 4 in a line, from left to right - small dark grey, large medium gray, small light gray, small medium gray?
+1: right...choose the left one

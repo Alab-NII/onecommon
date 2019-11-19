@@ -1,0 +1,14 @@
+T1	Markable 15 27	one dark dot
+T2	Markable 75 86	my dark one
+T3	Markable 133 137	they
+T4	Markable 115 128	two dark ones
+T5	Markable 187 204	lighter grey dots
+T6	Markable 160 181	one of your dark ones
+T7	Markable 250 262	3 small ones
+T8	Markable 268 276	only one
+T9	Markable 288 299	a large dot
+T10	Markable 330 349	that small dark dot
+T11	Markable 358 369	a large one
+T12	Markable 42 54	all the rest
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T4	

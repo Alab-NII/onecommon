@@ -1,0 +1,3 @@
+1: Do you see a dark grey dot to the top left of the circle?
+0: Do you see a grouping that makes a triangle with a small light gray on top, a small dark gray on bottom right, and small black on bottom left?
+1: Yes let's choose the small black on the bottom left.

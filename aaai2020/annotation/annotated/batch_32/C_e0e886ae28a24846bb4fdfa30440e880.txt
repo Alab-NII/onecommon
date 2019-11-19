@@ -1,0 +1,3 @@
+1: Do you see two dark dots on the right, next to each other, the smaller one is the darkest
+0: Yes diagonal to each other? Top is dark grey and largest, the bottom(right) is smaller and black?
+1: Yes , lets click the darker one

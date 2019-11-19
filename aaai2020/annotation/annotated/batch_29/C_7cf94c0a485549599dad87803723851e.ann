@@ -1,0 +1,23 @@
+T1	Markable 15 30	some black dots
+T2	Markable 43 53	each other
+T3	Markable 62 78	a very small one
+T4	Markable 131 145	All of my dots
+T5	Markable 209 225	the 3 black dots
+T6	Markable 227 236	right one
+T8	Markable 318 330	the smallest
+T9	Markable 305 307	it
+T10	Markable 375 388	the small one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T11	Markable 93 107	a med size one
+T12	Markable 111 115	it's
+R2	Anaphora Arg1:T12 Arg2:T3	
+T13	Markable 162 190	a medium size and light gray
+T14	Markable 251 261	lower left
+T15	Markable 293 301	that one
+T7	Markable 334 339	the 3
+T16	Markable 350 354	that
+T17	Markable 265 269	that
+R3	Anaphora Arg1:T17 Arg2:T6	
+R4	Anaphora Arg1:T15 Arg2:T14	
+R5	Anaphora Arg1:T9 Arg2:T14	
+R6	Anaphora Arg1:T7 Arg2:T5	

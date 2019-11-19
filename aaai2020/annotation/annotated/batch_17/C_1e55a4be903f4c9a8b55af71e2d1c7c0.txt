@@ -1,0 +1,6 @@
+0: black dot with a slightly lighter dot close to it
+1: hi do you have two black ones RIGHT next to each other, the right one is a little smaller and a little higher?
+0: yes. i'm choosing the black larger dot
+1: ok there is another black one above them to the right? further away?
+0: yup
+1: black large lower dot to the left?

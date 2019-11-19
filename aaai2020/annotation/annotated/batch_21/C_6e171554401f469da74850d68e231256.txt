@@ -1,0 +1,4 @@
+1: I have a large black dot with a smaller lighter dot above it , on the right side
+0: Is the smaller dot up and to the left of the large black one?
+1: no but i guess i have the pair you are talking about too, like a dark grey large dot, then lighter small dot up to the left, and above small one, i have big light grey dot to the left
+0: Yes! click that tiny light grey one!

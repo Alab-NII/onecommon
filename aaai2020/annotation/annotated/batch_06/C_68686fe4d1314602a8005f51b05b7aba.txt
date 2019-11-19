@@ -1,0 +1,4 @@
+1: i see two really dark dots, larger one has a smaller one above it and to the left
+0: I see those 2
+1: pick the larger one?
+0: yes

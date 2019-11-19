@@ -1,0 +1,7 @@
+1: I have two large dots fairly close together
+0: none of my dots are close together i have 2 large black ones both close to edge of circle
+1: Me too, one is black and one more on the gray side
+0: it it on your upper half of the circle?
+1: No it's in the bottom half.
+0: our circles may be rotated 180, can you pick the largest black dot?
+1: Yes I can

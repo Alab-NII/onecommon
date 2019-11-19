@@ -1,0 +1,13 @@
+0: I see 3 dots grouped together in the bottom hemisphere
+1: I don't see that.
+0: Alright what about a light gray dot close to the edge of the circle
+1: Is it a smaller dot or a larger dot?
+0: It is smaller
+1: I don't see that. I do see a small grey dot to the left of a large dark dot. For me, it's about a quarter of a way down, but not by any edges.
+0: I think I have that one, is it closer to the middle of the circle? The big gray dot is much darker than the smaller one?
+1: Yes, I believe that is it.
+0: Let's click it?
+1: The smaller, light dot, right?
+0: right.
+1: Okay!
+0: Did you select it>?

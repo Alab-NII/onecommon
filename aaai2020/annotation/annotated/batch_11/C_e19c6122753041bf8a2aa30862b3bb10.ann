@@ -1,0 +1,20 @@
+T1	Markable 10 23	two grey dots
+T2	Markable 61 67	4 dots
+T3	Markable 107 117	a triangle
+T4	Markable 88 93	Three
+T5	Markable 97 101	them
+T6	Markable 192 201	those two
+T7	Markable 240 255	two darker dots
+T8	Markable 224 228	that
+T9	Markable 297 301	they
+T10	Markable 380 382	it
+T11	Markable 429 440	the top dot
+T12	Markable 393 412	are dark bigger dot
+T13	Markable 461 465	that
+R1	Anaphora Arg1:T5 Arg2:T2	
+R2	Predicative Arg1:T3 Arg2:T4	
+T14	Markable 119 122	All
+A1	No-Referent T8
+T15	Markable 345 351	bottom
+#1	AnnotatorNotes T12	a dark bigger dot
+T16	Markable 469 480	The top dot

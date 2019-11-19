@@ -1,0 +1,8 @@
+1: okay I have two dots on the left, a black one with a light gray one slightly larger and above to the right
+0: hi i have three large circles one light gray, one black, one medium gray
+1: ok my 3 biggest ones are black on the far left, light gray on the far right and medium at the top
+0: ok back to the 2 you were saying before, I see them but mine are on the smaller end
+1: yes they should be top left with a black one just to the left and lower than the lighter shade one
+0: yes ok but which one should we pick? My light gray one is maybe about an inch away from the small black one
+1: i say the small black one
+0: ok got it

@@ -1,0 +1,6 @@
+T2	Markable 70 72	it
+T3	Markable 58 62	that
+T4	Markable 76 88	a bigger dot
+T5	Markable 136 155	the small light dot
+T6	Markable 3 26	One of the smallest dot
+R1	Anaphora Arg1:T2 Arg2:T3	

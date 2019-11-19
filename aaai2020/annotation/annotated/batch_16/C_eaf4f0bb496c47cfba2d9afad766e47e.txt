@@ -1,0 +1,5 @@
+1: Do you four dots in a row near bottom six o'clock to nine o'clock position?
+0: Do you have a tiny black one towards bottom or did it not make it for you?
+1: No black only medium gray to light gray, have one small one off by itself near 12 o'clock.
+0: I don't have that one, I do see the 4 you are referring to. The two on bottom are smallest and it forms this shape \?
+1: Yes, bottom two smaller than the other two, Select the smallest at bottom of "v"?

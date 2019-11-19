@@ -1,0 +1,4 @@
+0: i see two dots on left side very close left one is lighter grey and slightly smaller
+1: i have a medium size/medium dark with a larger/darker to it's right
+0: which one did you choose the lighter one to the left or the darker slightly larger one to the right
+1: i chose the lighter/slightly smaller one :)

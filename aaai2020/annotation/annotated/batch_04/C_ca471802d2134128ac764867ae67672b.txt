@@ -1,0 +1,7 @@
+1: I have one big black dot and one big gray dot
+0: My largest dots are almost black, and dark gray.
+1: which one do you want to click?
+0: WHich one is larger? Are they the same size for you?
+1: same size
+0: Okay. Lets click the lighter of the two. Is that okay?
+1: ok do it

@@ -1,0 +1,4 @@
+0: do you have a dark medium close to the border
+1: I have a dark medium one to the right with a darker and smaller dot above it to the right
+0: let us select the darker and medium dot
+1: ok

@@ -1,0 +1,8 @@
+T1	Markable 14 35	a very small dark dot
+T2	Markable 51 78	a slightly larger light dot
+T3	Markable 154 157	one
+T4	Markable 125 135	each other
+T5	Markable 106 114	too dots
+#1	AnnotatorNotes T5	two dots
+R1	Anaphora Arg1:T4 Arg2:T5	
+T6	Markable 189 196	the top

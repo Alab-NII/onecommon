@@ -1,0 +1,9 @@
+T2	Markable 15 35	a line of three dots
+T3	Markable 105 120	the darkest dot
+T4	Markable 140 148	that one
+T5	Markable 160 192	a large extremely light grey dot
+T6	Markable 208 211	one
+T7	Markable 245 253	that one
+T1	Markable 87 101	the right most
+R1	Predicative Arg1:T3 Arg2:T1	
+R2	Anaphora Arg1:T7 Arg2:T6	

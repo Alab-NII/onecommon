@@ -1,0 +1,6 @@
+0: 2 lone dots at the top, one dark and one light
+1: Yes. I see them
+0: top one is darker?
+1: Yes.
+0: lets click it
+1: OK

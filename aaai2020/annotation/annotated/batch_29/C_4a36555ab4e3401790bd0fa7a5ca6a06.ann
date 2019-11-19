@@ -1,0 +1,7 @@
+T1	Markable 15 43	a tiny medium shade grey dot
+T2	Markable 141 155	a pair of grey
+T3	Markable 48 63	Black large dot
+T4	Markable 100 109	tiny grey
+T5	Markable 121 137	that large black
+R1	Anaphora Arg1:T5 Arg2:T3	
+T6	Markable 189 200	Large black

@@ -1,0 +1,12 @@
+1: Hi there. Do you see a lonely light gray dot toward the bottom, center?
+0: Can you see one light colored dot at the bottom right?
+1: No, I don't have one there.
+0: slightly off center to the right
+1: No I don't have one there. Do you have a dark gray dot at the very left side of the circle?
+0: no but i do have a dark grey dot at the top off center to the right
+1: Unfortunately don't have that one either
+0: light grey dot at the top left side?
+1: I might have it. How far up? Mines maybe an inch from the border
+0: yes
+1: ok let's try that
+0: ok

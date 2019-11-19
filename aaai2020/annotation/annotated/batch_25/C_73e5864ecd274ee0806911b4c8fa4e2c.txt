@@ -1,0 +1,6 @@
+1: do you see a large dark dot with three dots around it
+0: a small black dot with a small light gray dot above it?
+1: i don't have a small black dot on my screen
+0: for the large dark dot you talked about...do you see a smaller lighter dot to its right and a smaller lighter dot to its left?
+1: yes!
+0: click the big dot!

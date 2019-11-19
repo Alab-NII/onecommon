@@ -1,0 +1,19 @@
+T1	Markable 17 39	one large med grey dot
+T2	Markable 44 73	two smaller almost black dots
+T3	Markable 149 174	plenty of other grey dots
+T4	Markable 88 101	two black dot
+T5	Markable 255 265	each other
+T6	Markable 456 469	the black dot
+T7	Markable 502 512	three dots
+T8	Markable 551 556	black
+T9	Markable 632 652	the middle black one
+T10	Markable 3 11	triangle
+T11	Markable 123 134	one another
+R1	Anaphora Arg1:T11 Arg2:T4	
+T12	Markable 199 217	the "triangle" dot
+T13	Markable 222 225	its
+T14	Markable 226 240	two black dots
+T15	Markable 271 294	the largest and lightes
+R2	Anaphora Arg1:T5 Arg2:T14	
+T16	Markable 323 337	the black dots
+T17	Markable 394 422	a light grey medium size dot

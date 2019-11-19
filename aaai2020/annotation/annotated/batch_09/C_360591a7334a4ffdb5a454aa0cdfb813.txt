@@ -1,0 +1,4 @@
+1: I have 5 dots that are aligned almost vertically. The dot in the middle is the only black dot.
+0: I don't see that. I have 2 black dots. But there is nothing above either of them.
+1: Below one of the black dots, is there two medium sized dots, with the top one being light grey and the bottom one being medium grey?
+0: Yes. Let's choose the light gray.

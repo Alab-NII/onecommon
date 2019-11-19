@@ -1,0 +1,13 @@
+T1	Markable 54 56	it
+T4	Markable 66 71	a dot
+T5	Markable 160 165	those
+T6	Markable 111 144	a slightly larger and lighter dot
+T8	Markable 262 279	the tiny grey dot
+T9	Markable 347 349	it
+T10	Markable 332 340	anything
+T11	Markable 424 438	large dark dot
+T12	Markable 471 496	the little light grey dot
+T13	Markable 10 24	a medium black
+T14	Markable 30 41	a tiny grey
+R1	Anaphora Arg1:T1 Arg2:T13	
+T2	Markable 170 175	those

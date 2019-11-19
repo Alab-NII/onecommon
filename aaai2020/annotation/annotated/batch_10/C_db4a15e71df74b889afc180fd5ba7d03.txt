@@ -1,0 +1,3 @@
+0: Do you see three dots sloping up and to the left with the darkest at top?
+1: Yes is the one at the most bottom the smallest and lightest grey?
+0: Yep take the dark one at top

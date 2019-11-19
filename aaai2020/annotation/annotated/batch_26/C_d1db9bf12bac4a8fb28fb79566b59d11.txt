@@ -1,0 +1,4 @@
+0: cluster of 3 dots aligned vertically - darkest dot is at bottom
+1: is the middle one the largest and to the right a bit?
+0: Yes. Let's select the bottom darkest dot
+1: ok

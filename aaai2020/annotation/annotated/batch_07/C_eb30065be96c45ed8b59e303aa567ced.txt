@@ -1,0 +1,5 @@
+0: Do you have a large dark grey dot right above a large light gray dot?
+1: I see a small dark gray dot alone. To the right of that, are two dots that are aligned. One is dark, the other is a normal gray color.
+1: Yes.
+0: I don't have the aligned dots
+1: One is a large dark and the other is a large gray dot, but is aligned diagonal .

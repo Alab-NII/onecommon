@@ -1,0 +1,11 @@
+0: two med sized dots very close together?
+1: Hi, do you have a larger light colored dot?
+0: no i dont did you read my message?
+1: I don't have any of the same size very close together
+0: hmm do you have a small almost black dot?
+1: It's not my darkest but it's dark. We can try it.
+0: okay what is near it?
+1: It's kind of apart. The closest to it is a slightly lighter and larger dot.
+0: where though? below it or to its side?
+1: It's above it
+0: k click that smaller dark one!

@@ -1,0 +1,11 @@
+T1	Markable 14 34	any small black dots
+T2	Markable 104 106	it
+T3	Markable 54 87	a slightly larger and lighter dot
+T4	Markable 123 125	it
+T5	Markable 182 192	any others
+T6	Markable 200 202	it
+T7	Markable 246 269	a larger light gray dot
+T8	Markable 206 221	Larger gray dot
+T10	Markable 295 314	the larger grey dot
+T11	Markable 388 407	the first black dot
+A1	Generic T5

@@ -1,0 +1,4 @@
+1: very dark large dot with very light dot almost same size above and to the left?
+0: yeah, above the light dot do you have a small dark dot?
+1: yes to the left. click the large light one
+0: sounds good!

@@ -1,0 +1,4 @@
+0: Do you see two very small dark dots vertical to one another? They are both very dark. The dot on top is a little to the left
+1: no. but i have a very small medium dark dot with a darker larger dot at it's 11 o'clock
+0: Ok, I think I see that. Is there also a medium size, similar shade at its 1 oclock?
+1: yes. pick the small one

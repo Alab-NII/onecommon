@@ -1,0 +1,2 @@
+1: I have a large dark dot with a slightly lighter and smaller dot above and to the right
+0: I do too. Choose the darker one

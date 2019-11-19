@@ -1,0 +1,10 @@
+T1	Markable 15 21	3 dots
+T2	Markable 25 43	a triangle cluster
+T3	Markable 74 88	two light grey
+T5	Markable 171 179	that one
+R1	Predicative Arg1:T2 Arg2:T1	
+T6	Markable 54 64	themselves
+R2	Anaphora Arg1:T6 Arg2:T1	
+T7	Markable 92 104	one dark one
+T8	Markable 115 130	my top most dot
+T4	Markable 155 159	Mine

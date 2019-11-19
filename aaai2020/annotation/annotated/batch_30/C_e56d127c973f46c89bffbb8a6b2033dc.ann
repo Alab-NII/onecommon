@@ -1,0 +1,5 @@
+T1	Markable 3 27	two med sized black dots
+T2	Markable 61 71	each other
+T3	Markable 81 94	the right one
+T4	Markable 119 133	that right one
+R1	Anaphora Arg1:T2 Arg2:T1	

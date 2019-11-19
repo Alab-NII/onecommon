@@ -1,0 +1,5 @@
+0: do you see two dark dots next to each other? The one on the left is slightly larger
+1: no, i see a big dark one with a small dark one very close to it at its right
+0: is there a light grey dot below and to the left of them?
+1: yes, lets pick the big dark one, ok?
+0: ok

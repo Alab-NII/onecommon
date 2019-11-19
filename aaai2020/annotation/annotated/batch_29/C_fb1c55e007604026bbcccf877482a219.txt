@@ -1,0 +1,6 @@
+0: I have 5 larger dots close together, the bottom left one is largest and darkest?
+1: i have three that could be part of that the dark one has a slightly smaller lighter one up and to the right and to the right of that is a smaller one
+0: yes, that furthest right one is a little darker?
+1: yes
+0: ok lets click the large darkest one?
+1: done

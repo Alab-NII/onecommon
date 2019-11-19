@@ -1,0 +1,5 @@
+0: I have one small, very light grey dot. There is a larger, medium grey dot about an inch below it.
+1: Do you have a line of four dots running from northwest to southeast?
+0: I might have 3 of those 4? Is the last one small and medium grey?
+1: great. and the one up and to the left of that small medium grey one is darker and slightly larger?
+0: Yes---let's click the small, medium grey one (the last one).

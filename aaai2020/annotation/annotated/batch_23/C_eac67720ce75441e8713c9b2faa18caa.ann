@@ -1,0 +1,8 @@
+T2	Markable 62 78	a large dark dot
+T3	Markable 58 61	one
+T4	Markable 92 108	the top most dot
+T5	Markable 123 131	that one
+T6	Markable 15 46	a triangle shape of larger dots
+R1	Predicative Arg1:T2 Arg2:T3	
+T1	Markable 86 88	it
+R2	Predicative Arg1:T4 Arg2:T1	

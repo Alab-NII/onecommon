@@ -1,0 +1,10 @@
+T1	Markable 9 19	a dark dot
+T2	Markable 135 153	a lighter grey dot
+T3	Markable 91 108	a medium gray dot
+T4	Markable 84 86	it
+T5	Markable 55 72	a LARGE black dot
+T6	Markable 181 188	no dots
+T7	Markable 210 224	All of my dots
+R1	Anaphora Arg1:T4 Arg2:T5	
+A1	No-Referent T6
+A2	All-Referents T7

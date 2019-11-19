@@ -1,0 +1,4 @@
+1: lonely large gray bottom left
+0: No i dont see that. I see a Light grey dot toward the top with a darker one slightly lower to the right of it
+1: yes, we pick the light gray to the top
+0: Ok

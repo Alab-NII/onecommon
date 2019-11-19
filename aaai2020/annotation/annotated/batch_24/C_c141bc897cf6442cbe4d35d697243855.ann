@@ -1,0 +1,11 @@
+T3	Markable 130 141	a light dot
+T5	Markable 179 187	that dot
+T6	Markable 322 346	the lightest colored dot
+T7	Markable 309 313	that
+T8	Markable 3 12	Some dots
+T9	Markable 18 28	a letter v
+R1	Predicative Arg1:T9 Arg2:T8	
+T1	Markable 199 220	the "bottom" of the V
+T2	Markable 247 256	five dots
+T4	Markable 286 301	the bottom most
+R2	Predicative Arg1:T6 Arg2:T7	

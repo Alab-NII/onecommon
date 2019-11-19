@@ -1,0 +1,7 @@
+1: very very large very light grey dot?
+0: All of my dots are about the same size and are fairly small.
+1: k are there two that are very close together and almost opposite in shade?
+0: near the bottom of my circle i see a couple. one is very light and the other is not quite black, but rather a fairly dark grey.
+1: yes! if the lighter one is bigger and below to the right of the darker one click that lighter big one!
+0: it is slightly bigger and to the bottom right of the other one.
+1: k click that light one

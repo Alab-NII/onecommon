@@ -1,0 +1,10 @@
+1: I see one darker grey dot
+0: Is it large and lonely?
+1: I see it as a bit larger
+0: Is it a dark grey or completely black?
+1: It is dark grey
+0: Is there another dot near it?
+1: There is a small dot close by
+0: Is it to the right and a little bit higher then it?
+1: Yes
+0: Choose the dark grey dot

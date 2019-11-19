@@ -1,0 +1,6 @@
+1: I see 5 dots in a group near the bottom, there's a very light gray one on the bottom right
+0: I see 4 of the 5 you mention, I do not have the very light grey one.
+1: Yes i miscounted...perhaps switch areas then... do you have a small black one near the top center by itself
+0: Yes I do, well I have two... one to the right and one to the left...It has to be one of those...
+1: the one on the right should be much darker
+0: Ok lets do it

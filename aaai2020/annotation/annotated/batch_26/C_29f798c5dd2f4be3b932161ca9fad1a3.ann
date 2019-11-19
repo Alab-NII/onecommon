@@ -1,0 +1,23 @@
+T1	Markable 9 15	7 dots
+T2	Markable 73 77	that
+T5	Markable 82 99	one of those dots
+T7	Markable 169 182	the first one
+T8	Markable 187 206	a smaller black dot
+T9	Markable 261 267	3 dots
+T10	Markable 127 138	two of them
+T11	Markable 238 256	the other big grey
+T12	Markable 230 232	it
+T13	Markable 288 290	it
+T14	Markable 300 312	big grey dot
+T15	Markable 318 337	a smaller black dot
+T16	Markable 356 358	it
+T17	Markable 400 402	it
+T18	Markable 426 443	black smaller dot
+A1	All-Referents T1
+T19	Markable 53 56	a P
+A3	No-Referent T2
+A2	No-Referent T19
+R1	Anaphora Arg1:T12 Arg2:T7	
+R2	Anaphora Arg1:T13 Arg2:T11	
+T3	Markable 341 344	its
+R3	Anaphora Arg1:T3 Arg2:T14	

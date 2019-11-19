@@ -1,0 +1,3 @@
+1: Do you see 3 dots close together forming a triangle? one large with 2 small to the right?
+0: See a tight triangle. Left one is largest a grey, smallest is black, and lowest one is light
+1: Yes. Lets pick the large one on the left

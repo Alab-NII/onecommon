@@ -1,0 +1,12 @@
+T1	Markable 38 64	a smaller lighter gray dot
+T2	Markable 99 119	the smaller gray dot
+T3	Markable 127 133	itself
+T4	Markable 182 208	two tiny lighter gray dots
+T5	Markable 158 175	a cluster of dots
+T8	Markable 221 231	each other
+T9	Markable 314 331	the left most one
+T10	Markable 289 293	that
+T11	Markable 3 22	Large dark gray dot
+T12	Markable 72 82	themselves
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T8 Arg2:T4	

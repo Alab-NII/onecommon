@@ -1,0 +1,4 @@
+0: I have a lonely large light grey dot
+1: I have one to the right
+0: same here
+1: Let's pick it

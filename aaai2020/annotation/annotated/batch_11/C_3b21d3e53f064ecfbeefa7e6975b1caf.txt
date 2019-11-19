@@ -1,0 +1,8 @@
+1: Hello
+0: i have 3 large dots how about you ?
+1: I have a large dot at the 1 o'clock position
+0: I do not
+1: How about 5 o'clock?
+0: yes
+1: Thats our guy
+0: ok select

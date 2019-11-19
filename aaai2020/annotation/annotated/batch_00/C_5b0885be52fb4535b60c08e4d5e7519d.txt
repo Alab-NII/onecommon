@@ -1,0 +1,6 @@
+1: i see a largest darkest toward the top
+0: toward the edge or more toward the middle of the top?
+1: for me it's close to the edge. to the right of it toward the other edge is the lightest one, small
+0: ok i think i have that one. let make the pick
+1: the biggest dark?
+0: yes

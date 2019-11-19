@@ -1,0 +1,4 @@
+1: Do you have one larger lighter grey dot, with two slightly smaller and darker ones above it to either side?
+0: i think so. is the one above it to the left slightly smaller and darker than the one above it to the right?
+1: Yes. I believe we should select the bottom larger one
+0: ok

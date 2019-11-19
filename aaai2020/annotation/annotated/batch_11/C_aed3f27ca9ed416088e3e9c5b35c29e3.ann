@@ -1,0 +1,4 @@
+T1	Markable 43 53	each other
+T2	Markable 67 88	a large dark gray dot
+T3	Markable 3 28	Two very large black dots
+R1	Anaphora Arg1:T1 Arg2:T3	

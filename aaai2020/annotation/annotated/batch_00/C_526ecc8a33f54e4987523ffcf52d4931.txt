@@ -1,0 +1,3 @@
+0: Medium grey on right wall
+1: no, dark dark grey toward right all around 3 oclock
+0: Yes

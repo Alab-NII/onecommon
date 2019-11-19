@@ -1,0 +1,5 @@
+0: I have a very light small dot off to the left by itself
+1: I think I see that too. Are the two dark dots out around it? Not close though.
+0: I cannot see two dark ones around it.
+1: Ok. They are to the right very distant. Do we want to try it anyway? It could be my view is different.
+0: yes

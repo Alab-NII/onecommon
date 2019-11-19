@@ -1,0 +1,12 @@
+T1	Markable 60 66	3 dots
+T2	Markable 164 168	that
+T3	Markable 182 194	a small dark
+T4	Markable 200 221	a larger lighter grey
+T5	Markable 243 255	a large grey
+T6	Markable 295 297	it
+T7	Markable 3 14	Large black
+T8	Markable 20 32	lighter grey
+T9	Markable 68 79	large black
+T10	Markable 89 106	small medium dark
+T11	Markable 125 135	large gray
+A1	No-Referent T2

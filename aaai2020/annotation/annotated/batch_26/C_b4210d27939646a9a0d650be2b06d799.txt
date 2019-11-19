@@ -1,0 +1,3 @@
+1: Largest black dot, above it is a medium size grey dot, below it and to the right is a small black dot
+0: I see it! Click the largest black
+1: Ok

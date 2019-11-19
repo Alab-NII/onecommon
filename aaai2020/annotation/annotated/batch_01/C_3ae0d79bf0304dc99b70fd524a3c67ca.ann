@@ -1,0 +1,14 @@
+T1	Markable 29 50	the two lightest ones
+T2	Markable 139 162	a medium/dark large one
+T3	Markable 87 90	one
+T4	Markable 107 110	one
+T6	Markable 196 201	those
+T7	Markable 226 246	the largest dark dot
+T8	Markable 259 263	that
+T9	Markable 269 286	a medium dark dot
+T10	Markable 313 315	it
+T11	Markable 336 356	the largest/Dark dot
+T12	Markable 375 378	one
+A1	No-Referent T6
+R1	Anaphora Arg1:T10 Arg2:T8	
+R2	Anaphora Arg1:T12 Arg2:T11	

@@ -1,0 +1,7 @@
+T1	Markable 22 37	a vertical line
+T2	Markable 10 18	two dots
+T3	Markable 71 82	The top dot
+T4	Markable 153 161	that one
+T5	Markable 178 189	the top dot
+R1	Predicative Arg1:T1 Arg2:T2	
+T6	Markable 120 134	the bottom dot

@@ -1,0 +1,4 @@
+0: Hello I have one dot larger than the rest
+1: I have a large light grey dot with 3 smaller ones above it
+0: Yes I have that situation. Should we try the large dot?
+1: I think so, yea

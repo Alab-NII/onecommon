@@ -1,0 +1,3 @@
+0: two dots very close together on an almost horiontal line?
+1: right one larger and darker?
+0: yes click that one!

@@ -1,0 +1,6 @@
+0: hello wheres your dot?
+1: I see three circles nearly in a vertical line, the top one is the biggest and the bottom one is the darkest of the three
+0: Unfortunately I do not have that in my circle. How about a small dark dot with a large medium shade dot to the north west of it?
+1: Is the larger dot more to the west than it is above?
+0: Yes
+1: lets choose the small dark dot

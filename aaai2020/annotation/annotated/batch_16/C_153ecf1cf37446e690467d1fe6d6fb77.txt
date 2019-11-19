@@ -1,0 +1,5 @@
+0: Do you have a large dark grey dot farish from others?
+1: Kind of, it isn't too far though
+0: Is there another dark grey dot above and to the left (slightly smaller) and a medium grey of similar size to left and slightly below?
+1: Yes
+0: Great. Let's choose the original dark big dot.

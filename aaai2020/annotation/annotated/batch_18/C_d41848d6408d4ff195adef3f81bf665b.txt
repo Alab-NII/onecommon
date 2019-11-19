@@ -1,0 +1,4 @@
+0: large dark dark grey dot, below and to the left is a medium dot, slightly lighter in color?
+1: I have one tiny dark black dot. Above it and to the right is a slightly larger dark grey dot.
+0: i have yours, choose the tiny black dot?
+1: Ok!

@@ -1,0 +1,8 @@
+0: I have a large dark grey at almost 9 oclock.
+1: i see two dark grey dots close together. the smaller one is to the right of the larger one and slightly lower
+0: No I don't see those.
+1: do you have any black dots?
+0: Yep. I have a large one near 11 O'clock and then a smaller one to the right of that.
+1: is the one to the right of it slightly lower?
+0: Yes and is around 1 O'Clock.
+1: lets choose the smaller one

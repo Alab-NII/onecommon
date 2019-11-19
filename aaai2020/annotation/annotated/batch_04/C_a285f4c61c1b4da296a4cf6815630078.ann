@@ -1,0 +1,12 @@
+T1	Markable 10 25	only 1 dark dot
+T2	Markable 58 60	it
+T3	None 61 64	one
+T4	Markable 77 107	a smaller slightly lighter dot
+T5	Markable 192 204	the dark dot
+T6	Markable 246 248	it
+T7	Markable 292 303	the dark on
+T8	Markable 271 286	the lighter one
+#1	AnnotatorNotes T3	on
+T11	Markable 125 146	a med size light grey
+T12	Markable 209 230	a smaller lighter dot
+R1	Anaphora Arg1:T6 Arg2:T5	

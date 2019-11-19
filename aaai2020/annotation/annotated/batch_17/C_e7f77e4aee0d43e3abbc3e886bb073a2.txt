@@ -1,0 +1,6 @@
+1: do you see 5 dots in a sort of diagonal line?
+0: I have one long line of dots towards the bottom right that is five in a row
+1: is the second from the bottom paler and slightly out of line?
+0: Yes, the second from the right is a light dot. Certainly lighter than the rest
+1: want to select that pale dot?
+0: Yup

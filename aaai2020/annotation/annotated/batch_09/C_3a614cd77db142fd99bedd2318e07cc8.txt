@@ -1,0 +1,5 @@
+1: do you see a central fairly large grey dot
+0: yes and it has a smaller dot lower to the right and a medium sized dot straight to the right, nothing on the left
+1: correct
+0: pick the largest?
+1: sounds good in the center

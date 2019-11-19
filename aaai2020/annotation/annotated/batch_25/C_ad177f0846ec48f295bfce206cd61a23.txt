@@ -1,0 +1,5 @@
+0: 3 smaller dots all different sizes and shapes lightest is farthest left and highest up
+1: I don't have that. I have three black ones in a kind of diagonal line.
+0: do you have a medium light grey dot?
+1: I do - its a little to the left of a large dark dot.
+0: select that one

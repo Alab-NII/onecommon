@@ -1,0 +1,4 @@
+1: I have a very large, very dark dot with a small lighter dot down and to the left
+0: do you see a large dark gray dot towards the bottom left
+1: Yes, we see the same thing. Lets click the large dark dot
+0: will do

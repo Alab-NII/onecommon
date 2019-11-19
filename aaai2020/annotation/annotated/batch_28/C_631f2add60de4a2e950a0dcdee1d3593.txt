@@ -1,0 +1,6 @@
+1: I see an extra large gray dot by itself
+0: do u have a really large black dot? with a medium grey small dot to its right?
+1: I believe I do. Would you like to give it a shot... click the dark one?
+0: above the dark one is a pretty light dot, slightly smaller?
+1: No, There is a gray dot above my dark one, but it's not one of the light gray and it's the same size as the dark one.
+0: its not really light, but its not dark,i'd say medium to medium light, lets pick that really dark one

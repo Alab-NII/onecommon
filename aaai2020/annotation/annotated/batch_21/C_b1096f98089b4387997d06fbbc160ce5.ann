@@ -1,0 +1,6 @@
+T1	Markable 30 37	it self
+T2	Markable 53 55	it
+T3	Markable 57 61	mine
+T4	Markable 3 26	a black medium size dot
+R1	Anaphora Arg1:T1 Arg2:T4	
+R2	Anaphora Arg1:T3 Arg2:T2	

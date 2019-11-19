@@ -1,0 +1,3 @@
+1: large light grey with a smaller black below to the right
+0: Yes I see it, lets go with large light grey
+1: Ok.

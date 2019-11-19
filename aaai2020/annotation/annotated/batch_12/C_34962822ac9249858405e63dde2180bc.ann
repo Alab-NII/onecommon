@@ -1,0 +1,6 @@
+T1	Markable 58 72	two large dots
+T2	Markable 94 98	They
+T3	Markable 131 142	The top one
+T4	Markable 211 221	bottom one
+T5	Markable 3 30	two med grey med sized dots
+R1	Anaphora Arg1:T2 Arg2:T1	

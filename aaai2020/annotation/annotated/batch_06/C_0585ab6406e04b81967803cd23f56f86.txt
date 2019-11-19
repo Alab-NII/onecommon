@@ -1,0 +1,5 @@
+1: 3 dots that almost form a line. Top is the smallest and medium in shade and slightly to the right
+0: Hello, I have one dot smaller than the rest. On a curve are 2 larger dots
+1: K I think that's what I'm referring to. Is the bottom dot darkest?
+0: Yes it is
+1: Let's pick that darkest one then

@@ -1,0 +1,4 @@
+0: I have a vertical line of three dots with the darkest one at the top
+1: Is that vertical? Going right, downwards?
+0: yes, and the middle is the lightest and smallest of the three?
+1: Yes, let's do the top one that is the darkest.

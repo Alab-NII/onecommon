@@ -1,0 +1,8 @@
+0: I have only medium gray and light gray dots.
+1: My darkest circle is near the bottom to the right
+0: I don't have any dark (almost black) circles. Do you have a larger light-gray circle in your bottom right, also?
+1: i have a larger medium gray to the left and a smaller light gray directly above i do not have a light gray to the right
+0: Okay. I have the larger medium gray with the smaller light gray above it also. Where in your image are these dots located?
+1: lower left part of the image
+0: Alright. Let's choose the larger medium-gray dot.
+1: ok

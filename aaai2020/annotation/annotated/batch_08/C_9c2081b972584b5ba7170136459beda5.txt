@@ -1,0 +1,5 @@
+0: do you see a tiny grey dot above and to the left of a larger, slightly darker one?
+1: i have 1 smallest circle out of the bunch and it's on the right edge of the circle
+0: the edge is going to be different for us. what is the closest dot to your smallest circle?
+1: 2 large light and medium light on it's left, and 1 medium grey above it
+0: yeah i think. lets click on the small one

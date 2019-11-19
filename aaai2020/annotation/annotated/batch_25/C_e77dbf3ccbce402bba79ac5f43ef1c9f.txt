@@ -1,0 +1,5 @@
+0: I have 2 dark gray dots the same size in a horizontal line. They are both large sized dots
+1: do you see a black dot with a small light gray dot under it?...i don't see yours
+0: Is the small dot light gray and slightly to the right?
+1: yes...let's pick the small light gray dot!!
+0: ok

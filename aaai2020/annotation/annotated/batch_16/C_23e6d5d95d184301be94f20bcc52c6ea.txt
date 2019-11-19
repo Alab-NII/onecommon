@@ -1,0 +1,4 @@
+1: 3 large ones in a horizontal line, going slightly up to the right. two ends are black w/right one and middle one same size, middle is grey
+0: i see one medium size medium dark to right of circle
+1: i don't have that. do you have the two black ones with the grey in between?
+0: yes. pick gray between

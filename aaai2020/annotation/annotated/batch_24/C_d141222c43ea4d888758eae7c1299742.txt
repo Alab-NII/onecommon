@@ -1,0 +1,5 @@
+1: 2 black dots, almost same size but one is a little bigger and to the upper right of the smaller one
+0: Yes!
+1: do you see a smaller lighter dot to the left of the one on the bottom?
+0: Yes, I do.
+1: click the smaller black dot from the pair we first talked about.

@@ -1,0 +1,7 @@
+0: my largest and smallest are black
+1: we can do this! I have 7 dots, my smallest is the darkest. It's near two others of varying shades.
+0: my small dark only has 1 nearby. do you have 3 almost in a line that goes grey black grey ?
+1: i do not. i have two almost the same exact, but one is larger.
+0: is the largest on the right?
+1: yes it is. shall we select the larger to see if they are the same?
+0: yes!

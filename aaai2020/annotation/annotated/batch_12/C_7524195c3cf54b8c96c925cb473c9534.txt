@@ -1,0 +1,5 @@
+1: Do you see a large light grey?
+0: no... is it to the left of a line of many small ones? where the lowest are lightest? bc i have that line on the far left of my circle
+1: no it is to the left of a line of dark ones.
+0: the lowest dark one in the line doesn't have 2 light ones going off to it's lower right?
+1: it does. let's select the lowest dark one.

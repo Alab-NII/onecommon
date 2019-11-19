@@ -1,0 +1,9 @@
+T2	Markable 10 38	a cluster of four small dots
+T3	Markable 52 56	that
+T4	Markable 68 81	one large dot
+T5	Markable 190 192	it
+T6	Markable 218 232	the other dots
+T7	Markable 253 261	that one
+T1	Markable 102 114	all the rest
+T8	Markable 174 178	that
+R1	Anaphora Arg1:T5 Arg2:T8	

@@ -1,0 +1,6 @@
+1: massive light one with a "moon" at its top, like at 11 o'clock
+0: I have all light dots AND one black dot
+1: yes, it is not black, it is light gray
+0: Does other have a small media gray one up on top of it
+1: yes, let's pick the big one, the large light gray dot, ok?
+0: Okay

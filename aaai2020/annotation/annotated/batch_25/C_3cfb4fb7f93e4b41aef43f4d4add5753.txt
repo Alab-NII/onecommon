@@ -1,0 +1,8 @@
+0: do you have 2 large dots close together?
+1: no. Do you have a medium sized dot with three smaller dots to the left?
+0: no. do you have a medium sized dark dot with a same sized medium gray dot below it and to the left?
+1: no. Do you have a small light dot kind of by itself?
+0: no
+1: Do you have a medium shade small dot with another of similar shade and size to the upper left?
+0: yes
+1: Let's click the lower one.

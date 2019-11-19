@@ -1,0 +1,5 @@
+0: do you have a med light gray dot by itself?
+1: I have a large medium gray dot with a tiny black dot above and to the right of it
+0: i think i have it. are there two small-med black dots to the upper left of the tiny black dot?
+1: My view cuts off to the upper left. Let's pick the tiny black dot above the larger medium gray dot
+0: ok

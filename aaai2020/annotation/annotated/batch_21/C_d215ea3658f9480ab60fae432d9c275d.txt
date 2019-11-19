@@ -1,0 +1,5 @@
+0: I have a very tiny black dot, 2 oclock on my screen
+1: I have a medium sized medium gray dot in my center view. What is in your central view?
+0: A smaller black dot lol
+1: I have the smallest black dot at 4 oclock my screen.
+0: yeah I think I see the one!

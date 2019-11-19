@@ -1,0 +1,7 @@
+T1	Markable 50 56	itself
+T2	Markable 14 42	a very tiny medium-shade dot
+T3	Markable 80 106	a very light med sized dot
+T4	Markable 119 121	it
+T5	Markable 136 154	a smaller dark dot
+T6	Markable 169 188	that very light one
+R1	Anaphora Arg1:T1 Arg2:T2	

@@ -1,0 +1,6 @@
+1: I see 1 small pure black dot. It's closest neighbor is a dark grey smaller dot
+0: Hmm, okay. I think I see it. Do you see 3 light grey dots in different sizes that almost form an isosceles triangle?
+1: I see 3 light grey dots, but they form a line.
+0: Hmm no. Do you see another very dark grey dot?
+1: I see several dark grey dots. But I only see 1 black dot.
+0: Okay, let's pick that one. I see only one as well.

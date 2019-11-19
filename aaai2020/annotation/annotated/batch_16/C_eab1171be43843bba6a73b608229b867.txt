@@ -1,0 +1,8 @@
+1: Hey, i have a big dark dot on the right edge of my circle
+0: i have a med dark dot, also have just one big light grey dot
+1: i don't have any grey.
+0: do you see a med dark dot with a smaller dark dot close by
+1: No. i do have 2 medium dark dots right next to each other
+0: i see those also
+1: Want to select the lower of the two then?
+0: yes

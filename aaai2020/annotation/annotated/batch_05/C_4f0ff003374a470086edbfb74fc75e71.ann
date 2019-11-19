@@ -1,0 +1,6 @@
+T1	Markable 9 19	three dots
+T2	Markable 47 51	They
+T3	Markable 142 147	those
+T4	Markable 164 178	the darker one
+T5	Markable 96 106	the bottom
+R1	Anaphora Arg1:T2 Arg2:T1	

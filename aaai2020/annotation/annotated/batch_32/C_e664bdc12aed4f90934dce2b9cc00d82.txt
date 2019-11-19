@@ -1,0 +1,6 @@
+1: I see a small light gray dot that is away from the others, top right corner for me.
+0: hmm do you have a black dot that is largest than the rest
+1: Yes, it is somewhat close to a medium size, medium dark grey dot.
+0: where is the medium sized one in relation to the large one?
+1: Diagonally, upwards right of the large one.
+0: k! click the large one

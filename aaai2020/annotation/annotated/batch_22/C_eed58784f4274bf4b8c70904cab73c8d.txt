@@ -1,0 +1,5 @@
+1: very small very light grey dot?
+0: No the largest dot i have is medium gray
+1: is it up and kind of by itself? if not describe something near it
+0: Its lonely like you said. take it
+1: k

@@ -1,0 +1,5 @@
+T1	Markable 59 61	it
+T2	Markable 101 109	that one
+T3	Markable 95 97	It
+T4	Markable 7 32	very small light gray dot
+R1	Predicative Arg1:T2 Arg2:T3	

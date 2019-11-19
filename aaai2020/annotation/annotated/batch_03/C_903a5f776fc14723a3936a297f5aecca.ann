@@ -1,0 +1,10 @@
+T1	Markable 15 23	any dots
+T2	Markable 68 71	two
+T3	Markable 85 89	they
+T4	Markable 112 124	both of them
+T5	Markable 143 147	they
+T6	Markable 210 218	all dots
+T7	Markable 239 251	one of those
+R1	Anaphora Arg1:T5 Arg2:T4	
+T9	Markable 152 156	both
+A1	All-Referents T6

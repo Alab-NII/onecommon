@@ -1,0 +1,20 @@
+T1	Markable 15 32	a group of 3 dots
+T3	Markable 86 102	a light grey dot
+T4	Markable 157 159	it
+T5	Markable 108 137	a slightly smaller light grey
+T6	Markable 184 188	that
+T7	Markable 197 213	a line of 2 dots
+T8	Markable 230 250	one small light gray
+T9	Markable 255 273	a larger black one
+T10	Markable 283 305	almost a vertical line
+T11	Markable 320 324	that
+T12	Markable 390 412	a larger dark grey dot
+T13	Markable 352 374	a small light grey dot
+T14	Markable 493 507	the bigger dot
+T2	Markable 61 76	The largest dot
+R1	Predicative Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T2	
+A1	No-Referent T6
+R3	Predicative Arg1:T10 Arg2:T7	
+A2	No-Referent T11
+T15	Markable 461 471	horizontal

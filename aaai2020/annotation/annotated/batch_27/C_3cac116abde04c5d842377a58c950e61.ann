@@ -1,0 +1,7 @@
+T1	Markable 27 37	each other
+T2	Markable 39 48	Above one
+T3	Markable 65 74	lower one
+T4	Markable 125 129	that
+T5	Markable 143 161	the top larger dot
+T6	Markable 3 15	2 black dots
+R1	Anaphora Arg1:T1 Arg2:T6	

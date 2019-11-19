@@ -1,0 +1,11 @@
+T2	Markable 9 30	three large dark dots
+T3	Markable 196 221	2 equally dark large dots
+T4	Markable 235 242	the two
+T5	Markable 306 318	the lone one
+T1	Markable 36 63	a set of similar sized dots
+T6	Markable 160 176	a large dark dot
+T7	Markable 273 284	one another
+R1	Anaphora Arg1:T7 Arg2:T4	
+T8	Markable 82 91	the right
+T9	Markable 140 144	that
+A1	No-Referent T9

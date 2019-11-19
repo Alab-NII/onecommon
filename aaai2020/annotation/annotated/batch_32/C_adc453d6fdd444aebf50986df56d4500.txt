@@ -1,0 +1,4 @@
+1: i have one tiny very dark/black dot with two dark grey med size dots below and to the left of it
+0: i see that.
+1: pick the tiny dot?
+0: ok

@@ -1,0 +1,4 @@
+1: Do you see see three black dots pretty much in a horizontal line
+0: Yes. One is smaller?
+1: Yes the middle one is
+0: Yes. Let's choose the middle one.

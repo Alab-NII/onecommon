@@ -1,0 +1,8 @@
+1: Do you have any dots in a diagonal line ?
+0: I see for lighter dots and the darker dots.
+1: Do you have a large dark dot above two dots that same color ?
+0: Large dark dot above two different colored dots.
+1: where is it on your circle?
+0: In the lower left. It is the fourth dot from the top, the third from the left.
+1: Lets select it
+0: Ok.

@@ -1,0 +1,9 @@
+T1	Markable 10 25	a box of 4 dots
+T2	Markable 45 66	a large dark grey dot
+T3	Markable 183 195	the same dot
+T4	Markable 204 218	two black dots
+T5	Markable 239 242	One
+T6	Markable 264 273	the other
+T7	Markable 290 301	the top one
+T8	Markable 120 132	a black dont
+#1	AnnotatorNotes T8	a black dot

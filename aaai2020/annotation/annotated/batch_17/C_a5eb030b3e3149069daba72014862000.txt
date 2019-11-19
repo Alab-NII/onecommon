@@ -1,0 +1,4 @@
+1: do you have one really dark gray dot?
+0: Do you see a black Dot and directly right and slight above is a large grey dot
+1: yes, I do.
+0: Click black smaller dot

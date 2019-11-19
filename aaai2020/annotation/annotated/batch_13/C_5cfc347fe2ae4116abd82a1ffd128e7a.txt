@@ -1,0 +1,7 @@
+0: I see 7 dots
+1: tiny, very light dot very close to a slightly larger dot at it's 2:00
+0: I see a small black dot and a very dark grey dot just beneath it
+1: is the dark grey dot to the bottom right of the black dot?
+0: Yes!
+1: choose the black top dot
+0: okay will do

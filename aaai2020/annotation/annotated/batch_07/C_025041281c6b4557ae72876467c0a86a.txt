@@ -1,0 +1,3 @@
+0: I see a dark black spot and is large, and the dot is alone.
+1: all of mine are in pairs. I have a very small black dot with a larger black dot to the right of it.
+0: Yes I see that too. Click the one on the left.

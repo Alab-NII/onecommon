@@ -1,0 +1,5 @@
+0: medium dark grey dot with a small grey dot right above it
+1: No. I have a large black dot with slightly smaller black dot below it
+0: The lower dot is lightly left?
+1: yes
+0: pick the top one

@@ -1,0 +1,16 @@
+T2	Markable 50 79	a lot of tiny light gray dots
+T4	Markable 105 110	yours
+T5	Markable 138 145	nothing
+T6	Markable 181 183	it
+T7	Markable 286 297	some others
+T8	Markable 345 366	a smaller lighter one
+T9	Markable 409 413	that
+T10	Markable 3 31	one lone tiny light grey dot
+A1	No-Referent T5
+T1	Markable 245 250	thats
+A2	No-Referent T1
+A3	Generic T7
+T3	Markable 310 338	a very large medium gray dot
+T11	Markable 370 373	its
+R1	Anaphora Arg1:T11 Arg2:T3	
+T12	Markable 420 435	the medium gray

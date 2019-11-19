@@ -1,0 +1,4 @@
+1: I see medium size, dark gray dot with very light, slightly larger dot above it. all my dots are pretty spaced out this time
+0: I have one light grey dot towards the top left of my screen with no dots really that close to it. A ways below it is one of the only dark grey dots on my screen.
+1: Okay, lets go with the light grey dot above the dark dot.
+0: Sounds good!

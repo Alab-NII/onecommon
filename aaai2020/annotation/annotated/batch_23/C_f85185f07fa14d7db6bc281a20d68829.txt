@@ -1,0 +1,5 @@
+1: Large black dot with a similar sized medium gray one to its upper right?
+0: Do you have a large medium-gray dot with a small, lighter-gray dot to the right and slightly above it?
+0: Yes I have the one you described
+1: ok lets click the black one?
+0: Ok Great

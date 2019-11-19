@@ -1,0 +1,10 @@
+T1	Markable 32 35	one
+T2	Markable 109 111	it
+T3	Markable 118 129	the top one
+T4	Markable 156 158	it
+T5	Markable 3 11	two dots
+T6	Markable 63 70	top one
+T7	Markable 171 180	which one
+A1	Generic T7
+R1	Anaphora Arg1:T4 Arg2:T3	
+T8	Markable 200 211	the top one

@@ -1,0 +1,11 @@
+T1	Markable 22 29	a black
+T3	Markable 86 108	a cluster of four dots
+T4	Markable 131 134	one
+T5	Markable 110 115	three
+T6	Markable 212 216	that
+T7	Markable 225 238	the black one
+T8	Markable 3 16	big dark grey
+T9	Markable 48 60	lighter grey
+T2	Markable 146 155	the black
+T10	Markable 178 190	your cluster
+R1	Anaphora Arg1:T6 Arg2:T2	

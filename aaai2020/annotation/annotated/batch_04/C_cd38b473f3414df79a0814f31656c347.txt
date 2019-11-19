@@ -1,0 +1,4 @@
+0: small grey dot by itself bottom right?
+1: I have that one. is there a triangle of dots a little to the left and up from it?
+0: yes
+1: clicking the original small grey one you mentioned

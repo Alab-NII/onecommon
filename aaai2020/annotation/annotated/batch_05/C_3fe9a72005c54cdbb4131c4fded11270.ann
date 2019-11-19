@@ -1,0 +1,9 @@
+T2	Markable 30 51	a group of three dots
+T3	Markable 121 129	two dots
+T4	Markable 153 163	a dark dot
+T6	Markable 186 188	it
+T7	Markable 236 244	that one
+T5	Markable 189 206	your smallest dot
+T8	Markable 89 108	one lonely dark dot
+R1	Predicative Arg1:T5 Arg2:T6	
+T1	Markable 211 213	It

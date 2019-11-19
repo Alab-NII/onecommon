@@ -1,0 +1,4 @@
+0: Do you have a super big, really dark dot on the upper left quadrant of the circle?
+1: yes let us select it
+0: perfect!
+1: select it

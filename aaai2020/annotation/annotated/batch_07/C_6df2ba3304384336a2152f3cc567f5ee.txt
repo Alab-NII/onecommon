@@ -1,0 +1,5 @@
+1: I see a medium dark spot at about 12 o clock position
+0: I have mostly light dots. There are three medium grey dots in a line sloping up and to the right.
+1: Are they in this sequence... small dot big dot then small dot ...sloping upwards?
+0: Yes, and they all appear to be the same color. Should we select the middle dot?
+1: sure lets do that

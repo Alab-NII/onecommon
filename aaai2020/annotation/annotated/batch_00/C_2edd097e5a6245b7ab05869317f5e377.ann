@@ -1,0 +1,10 @@
+T1	Markable 24 37	a small black
+T2	Markable 137 150	a large black
+T3	Markable 3 18	large dark grey
+T4	Markable 61 77	medium dark gray
+T5	Markable 81 89	its self
+R1	Anaphora Arg1:T5 Arg2:T4	
+T6	Markable 102 120	a medium dark grey
+T7	Markable 124 131	himself
+R2	Anaphora Arg1:T7 Arg2:T6	
+T8	Markable 198 214	that lonely grey

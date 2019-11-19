@@ -1,0 +1,17 @@
+T1	Markable 26 42	a small grey dot
+T2	Markable 9 20	a black dot
+T3	Markable 141 148	the one
+T4	Markable 116 139	2 large light gray dots
+T5	Markable 204 222	one large grey dot
+T7	Markable 246 249	one
+T8	Markable 269 278	the other
+T9	Markable 228 245	2 small grey dots
+T10	Markable 262 264	it
+T11	Markable 309 319	a triangle
+T12	Markable 341 352	the big one
+T13	Markable 54 56	ut
+#1	AnnotatorNotes T13	it
+R1	Anaphora Arg1:T13 Arg2:T2	
+T14	Markable 73 84	All my dots
+A1	All-Referents T14
+T6	Markable 361 372	the big one

@@ -1,0 +1,6 @@
+0: Do you have a medium sized medium shade dot kind of set apart?
+1: I don't. I have one big dark dot and the rest are smaller.
+0: I don't have any really big ones. Do you have a smaller dark dot with another of almost the same size almost vertical underneath it?
+1: Is it close or further away?
+0: further away
+1: Let's click the bottom one.

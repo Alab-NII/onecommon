@@ -1,0 +1,8 @@
+0: Do you have a triangle of three close dots? Rightmost is darkest and largest?
+1: I have five dots very close together, i see a large dark dot, in between two smaller lighter dots
+0: My triangle has one close and to the right, but it's on the left side of my screen.
+1: I think I see your triangle but hard to tell, my 5 dots are so close. I also see five dots that almost line up
+0: Ok. Do you have a very light grey dot to the right and below that grouping? Medium far away?
+1: yes
+0: Great, why don't we choose that light grey dot?
+1: great

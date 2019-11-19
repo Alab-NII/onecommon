@@ -1,0 +1,6 @@
+0: I see a small light dot right in the center and large black dot on the edge in the lower left.
+1: I see that too.
+0: Want to select the one in the center?
+1: The small, light gray dot?
+0: Yes
+1: That sounds good.

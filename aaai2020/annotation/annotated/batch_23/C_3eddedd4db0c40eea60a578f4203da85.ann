@@ -1,0 +1,13 @@
+T1	Markable 130 146	a light gray dot
+T2	Markable 124 126	it
+T3	Markable 168 172	that
+T4	Markable 174 188	light grey dot
+T5	Markable 194 211	a medium grey dot
+T6	Markable 249 261	the left one
+T7	Markable 299 314	the lighter one
+T8	Markable 3 17	lone black dot
+T9	Markable 21 36	large dark gray
+T10	Markable 85 90	mines
+R1	Anaphora Arg1:T2 Arg2:T10	
+A1	No-Referent T3
+T11	Markable 244 248	that

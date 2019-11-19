@@ -1,0 +1,6 @@
+1: DO you have 3 darker dots close together?
+0: yes 1 very large to 2 smaller
+1: yes. my largest is the bottom dot slightly to the left.
+0: yes mine too
+1: one to select the largest dot?
+0: yes ,good choice

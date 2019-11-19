@@ -1,0 +1,10 @@
+T1	Markable 15 28	diagonal line
+T2	Markable 138 150	the smallest
+T3	Markable 182 193	the top one
+T4	Markable 249 257	that one
+T5	Markable 3 12	Four dots
+R1	Predicative Arg1:T1 Arg2:T5	
+T6	Markable 44 53	Two outer
+T7	Markable 80 89	two inner
+T8	Markable 123 132	the third
+T9	Markable 219 231	the diagonal

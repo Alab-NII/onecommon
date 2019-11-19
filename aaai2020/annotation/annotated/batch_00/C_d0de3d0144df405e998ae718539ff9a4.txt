@@ -1,0 +1,5 @@
+1: i see a dark grey dot with a slightly smaller darker dot below it
+0: i think i have that too. above the larger one and to its left i have a much smaller medium gray dot
+1: yes i have the smaller grey to the upper left as well. which do we click on ? the middle?
+0: lets click on the large one you mentioned first.
+1: ok good luck

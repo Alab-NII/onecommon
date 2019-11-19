@@ -1,0 +1,19 @@
+T1	Markable 48 71	a small medium grey dot
+T2	Markable 140 148	that one
+T3	Markable 196 206	a triangle
+T4	Markable 183 188	three
+T5	Markable 245 247	it
+T6	Markable 323 332	the three
+T7	Markable 346 356	the larger
+T8	Markable 362 376	the medium one
+T9	Markable 415 431	the smallest one
+T10	Markable 389 404	the largest one
+T12	Markable 445 447	it
+T13	Markable 3 6	all
+T14	Markable 17 25	Smallest
+R1	Predicative Arg1:T3 Arg2:T4	
+T15	Markable 207 214	largest
+T16	Markable 277 281	They
+T17	Markable 307 319	the smallest
+R2	Anaphora Arg1:T12 Arg2:T10	
+T11	Markable 474 484	large dark

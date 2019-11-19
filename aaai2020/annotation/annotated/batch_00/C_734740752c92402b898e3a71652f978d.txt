@@ -1,0 +1,7 @@
+0: I have two light, large dots at the top
+1: are they parallel to each other going upward?
+0: Well, yes, but any two dots are parallel! ha ha. Below them is a set of two darker, larger dots, in a line parallel to the first pair.
+1: the two darker ones, the right one is slightly larger?
+0: Yes! Shall we pick that darkest of the four dots we're talking about?
+1: the darkest is also the larger of the two under the light ones?
+0: Yes, that's the one I mean.

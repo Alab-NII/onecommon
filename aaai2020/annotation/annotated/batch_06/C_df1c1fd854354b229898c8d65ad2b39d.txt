@@ -1,0 +1,2 @@
+0: I see two black dots
+1: i only have one, its small and by itself

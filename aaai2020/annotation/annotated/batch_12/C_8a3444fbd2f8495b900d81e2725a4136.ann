@@ -1,0 +1,7 @@
+T1	Markable 16 28	2 small dots
+T2	Markable 45 59	the bottom one
+T4	Markable 176 178	it
+T3	Markable 135 139	tops
+R1	Anaphora Arg1:T4 Arg2:T3	
+T5	Markable 143 162	a light medium grey
+R2	Predicative Arg1:T5 Arg2:T3	

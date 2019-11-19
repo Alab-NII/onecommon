@@ -1,0 +1,3 @@
+1: I have a cluster of 2 very dark (almost black) dots very close together. A large one on the bottom and a smaller one above and to the left of it
+0: I also have the two dark dots, one smaller above. Lets choose the bottom one?
+1: yes, the larger one

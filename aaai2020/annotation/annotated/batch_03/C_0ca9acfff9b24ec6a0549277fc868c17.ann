@@ -1,0 +1,5 @@
+T2	Markable 51 62	two circles
+T3	Markable 82 93	one another
+T4	Markable 164 171	the one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T1	Markable 97 121	My darkest larger circle

@@ -1,0 +1,14 @@
+T1	Markable 60 71	the biggest
+T3	Markable 145 149	them
+T4	Markable 118 122	they
+T5	Markable 101 115	two black dots
+T6	Markable 157 165	Left one
+T7	Markable 213 217	them
+T8	Markable 219 223	they
+T9	Markable 278 282	them
+T10	Markable 313 324	a light dot
+T11	Markable 331 338	the one
+T12	Markable 10 58	a quadrilateral of big and medium very dark dots
+R1	Anaphora Arg1:T4 Arg2:T5	
+R2	Anaphora Arg1:T3 Arg2:T5	
+R3	Anaphora Arg1:T8 Arg2:T7	

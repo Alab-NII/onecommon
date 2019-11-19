@@ -1,0 +1,3 @@
+0: I have four dots that are tightly close
+1: A cluster of 4 with a tiny light gray dot
+0: Let us pick the tiny light gray

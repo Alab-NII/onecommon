@@ -1,0 +1,14 @@
+T1	Markable 9 26	one very dark dot
+T2	Markable 96 117	a large dark grey dot
+T3	Markable 58 60	It
+T4	Markable 130 135	those
+T5	Markable 137 148	My dark dot
+T6	Markable 270 286	a large grey dot
+T7	Markable 239 254	the darkest dot
+T8	Markable 305 324	the dark medium dot
+T9	Markable 38 56	a tiny medium gray
+R1	Anaphora Arg1:T3 Arg2:T9	
+T10	Markable 176 196	that large dark grey
+T11	Markable 206 224	no tiny medium dot
+A1	No-Referent T11
+T12	Markable 340 361	the large medium grey

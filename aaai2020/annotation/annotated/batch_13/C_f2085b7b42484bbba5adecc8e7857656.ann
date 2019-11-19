@@ -1,0 +1,14 @@
+T1	Markable 130 141	another one
+T2	Markable 14 24	a big Gray
+T3	Markable 58 72	two other dots
+T4	Markable 81 83	it
+T5	Markable 87 105	the upper side one
+T6	Markable 207 226	two light grey dots
+T7	Markable 332 341	black one
+T8	Markable 291 307	a light gray dot
+T9	Markable 372 385	the black one
+T10	Markable 404 406	it
+R1	Anaphora Arg1:T4 Arg2:T2	
+T11	Markable 260 271	one another
+R2	Anaphora Arg1:T11 Arg2:T6	
+R3	Anaphora Arg1:T10 Arg2:T9	

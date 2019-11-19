@@ -1,0 +1,3 @@
+0: i see three dots forming a small triangle with dark larger dot on either side and dark grey on bottom of those two
+1: yes, lets pick the bottom one
+0: ok!

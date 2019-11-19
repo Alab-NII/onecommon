@@ -1,0 +1,9 @@
+1: do you have two tiny black dots?
+0: yes, but I also have two tiny grey dots. do u?
+1: i have 2 tiny black, 2 tiny grey, and three medium grey
+0: No. how about a large light grey near the top left
+1: no, dont have that
+0: shall we go for the tiny grey very near the center bottom then?
+1: is it isolated or near other circles? i have one tiny light grey which is isolated and another which is around other circles
+0: there are others near it. how about a small black near the left center side
+1: okay let's do that

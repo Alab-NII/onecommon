@@ -1,0 +1,5 @@
+0: large gray at about south west
+1: Yes! To the left of it, a smaller dot?
+0: no. how about 2 small gray dots at the bottom?
+1: Yes I see them. Are they almost the exact same size?
+0: yes, pick the right most

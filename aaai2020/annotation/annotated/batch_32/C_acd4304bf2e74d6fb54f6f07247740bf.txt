@@ -1,0 +1,4 @@
+0: Do you see one very small, very light dot? It's next to three other darker dots
+1: yes. it is kind of in a diamond shape.
+0: Exactly! Wanna give that light one a shot?
+1: yes

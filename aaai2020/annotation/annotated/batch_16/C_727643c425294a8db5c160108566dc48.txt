@@ -1,0 +1,6 @@
+0: I have three very large light gray dots in a crooked horizontal line.
+1: I dot have that I have a small dark dot on left with a med light gray to the right of it
+0: I don't have that. I have a black dot with a little bit smaller and lighter dot down and to the left of it.
+1: I don't have that do you have 2 dark dot about the same size on the bottom
+0: I think so - they form a diagonal line? And the one on top is a tiny bit bigger?
+1: Yes pick the bigger one

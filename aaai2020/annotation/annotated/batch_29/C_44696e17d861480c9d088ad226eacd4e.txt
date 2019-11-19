@@ -1,0 +1,4 @@
+0: very tiny light grey dot by itself?
+1: hmm is it up above the rest?
+0: no to the left of the rest of the dots. slightly down (a little far away) is a slight bigger almost black dot
+1: yes okay i see what you mean. click that small light one!

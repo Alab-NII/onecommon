@@ -1,0 +1,36 @@
+T1	Markable 32 48	a large grey dot
+T2	Markable 64 66	it
+T3	Markable 9 26	a large black dot
+T4	Markable 92 113	a group of three dots
+T6	Markable 115 126	the darkest
+T7	Markable 200 204	them
+T8	Markable 178 190	the left dot
+T9	Markable 144 155	the largest
+T10	Markable 253 260	the one
+T11	Markable 294 301	the one
+T12	Markable 407 414	the one
+T13	Markable 448 455	the one
+T16	Markable 344 350	the on
+T17	Markable 370 373	one
+T20	Markable 216 237	a group of three dots
+T22	Markable 523 538	My lightest dot
+T23	Markable 568 610	a slightly smaller but slightly darker dot
+T24	Markable 549 552	its
+T25	Markable 634 659	your absolute darkest dot
+T26	Markable 713 732	a similar sized dot
+T27	Markable 686 688	it
+T28	Markable 811 827	our darkest dots
+T29	Markable 870 890	a bigger lighter dot
+T30	Markable 849 851	it
+T31	Markable 905 920	that darker dot
+R1	Anaphora Arg1:T2 Arg2:T3	
+#1	AnnotatorNotes T16	the one
+T5	None 351 354	one
+#2	AnnotatorNotes T5	on
+T14	None 374 380	the on
+#3	AnnotatorNotes T14	on
+T15	Markable 508 512	that
+A1	No-Referent T15
+R2	Anaphora Arg1:T24 Arg2:T22	
+T18	Markable 666 668	it
+R3	Anaphora Arg1:T27 Arg2:T18	

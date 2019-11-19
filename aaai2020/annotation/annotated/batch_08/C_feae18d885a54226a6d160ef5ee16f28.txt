@@ -1,0 +1,4 @@
+1: i have a vertical line going down and to the left... Med Large gray, smallest black, med large gray
+0: i have an almost black dot in the middle of to bigger lighter ones
+1: yes!
+0: lets pick the black?

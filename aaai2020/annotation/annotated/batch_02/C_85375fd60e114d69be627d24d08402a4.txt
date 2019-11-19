@@ -1,0 +1,3 @@
+0: big black dot toward left at bottom of circle
+1: I have two large dots on top of each other. the top one is dark grey and bottom is black or darker shade of grey than the top one
+0: select it it's ours

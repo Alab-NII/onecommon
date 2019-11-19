@@ -1,0 +1,4 @@
+0: i have a loose group of five, and two lonelies
+1: Do you see a big light grey dot with a smaller dark grey dot slightly above it? I have a loose group of 4 and a 2 and 1 lonely
+0: hmm...no. one of my lonelies is tiny black the other is medium light grey
+1: I have the tiny black lonely

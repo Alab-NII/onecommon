@@ -1,0 +1,4 @@
+0: i see a cluster of three small dots in a triangle, the top on is light grey, the bottom two are black
+1: I see that also
+0: ok, let's choose the light grey one
+1: Ok sounds good

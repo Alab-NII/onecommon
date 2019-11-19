@@ -1,0 +1,4 @@
+1: 4 dots very close together 3 tiny and one black?
+0: no. do you have a medium dark dot with a lighter smaller dot slightly upper right to it?
+1: yes click the lighter smaller one!
+0: ok

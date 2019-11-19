@@ -1,0 +1,5 @@
+0: Small black dot alone on the right... larger black dot alone on the left
+1: hmm I don't see that. I see three dots almost in a horizontal line with leftmost one largest and darker, middle small and very light grey, and medium size medium color grey on right
+0: No, how about two up Top?
+1: nope, I also see a triangle with very dark medium size bottom left, equal size but lighter dot bottom right, and smaller medium colored dot on top
+0: Go with the bottom darkest one

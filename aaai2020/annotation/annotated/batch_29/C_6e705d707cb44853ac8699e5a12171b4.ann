@@ -1,0 +1,8 @@
+T1	Markable 9 15	5 dots
+T2	Markable 73 88	a black med dot
+T3	Markable 98 102	that
+T4	Markable 113 126	black med dot
+T5	Markable 44 56	The top left
+T6	Markable 60 69	the shape
+R1	Anaphora Arg1:T6 Arg2:T1	
+R2	Predicative Arg1:T2 Arg2:T5	

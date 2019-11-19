@@ -1,0 +1,7 @@
+0: Do you have 4 medium sized dots in a squiggly tight line? the top one is black
+1: Yes...the two middle ones are light grey?
+0: yup
+1: are they different sizes?
+0: yes the top light one is a little bit smaller
+1: my top one is a light smaller too
+0: ok click the black dot at the top

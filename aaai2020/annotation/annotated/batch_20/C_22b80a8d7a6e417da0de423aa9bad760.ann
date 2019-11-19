@@ -1,0 +1,8 @@
+T1	Markable 39 51	3 black dots
+T2	Markable 107 121	the middle one
+T3	Markable 150 158	that one
+T4	Markable 3 9	5 dots
+T5	Markable 54 59	large
+T6	Markable 60 65	small
+T7	Markable 66 69	med
+R1	Anaphora Arg1:T3 Arg2:T2	

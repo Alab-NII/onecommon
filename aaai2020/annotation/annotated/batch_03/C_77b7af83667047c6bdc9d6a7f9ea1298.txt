@@ -1,0 +1,4 @@
+1: I have one large, dark dot that's kind of by itself
+0: I have two small dark grey dots vertical to one-another. I have a large moderately dark dot kind of alone.
+1: I also have the two small dark dots vertical. Do you want to choose the top one?
+0: yes. the top

@@ -1,0 +1,5 @@
+0: most dots are kinda dark except a medium one center right, i have a large dot on the left
+1: I have 3 dots, kind of in the shape of an upside down triangle
+0: ok i have those, they are different shades though, top left light, top right medium, bottom one dark
+1: The bottom dark one is the smallest?
+0: yes lets pick that one

@@ -1,0 +1,7 @@
+0: I have one dot darker than the rest
+1: I have a small gray dot with a large dark dot up and to the right of it.
+0: I don't have that. I do have a small light dot up high
+1: Okay on what you said about the darkest dot, is there a slightly lighter dot to the right and slightly down and another up and to the left?
+0: yes
+1: Okay let's select the darkest dot.
+0: done

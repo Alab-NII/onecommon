@@ -1,0 +1,16 @@
+T1	Markable 82 94	most of mine
+T3	Markable 175 189	right grey one
+T4	Markable 129 147	two dark grey ones
+T5	Markable 225 228	one
+T7	Markable 332 348	the left top one
+T8	Markable 353 370	a small black one
+T9	Markable 377 379	it
+T10	Markable 383 385	it
+T11	Markable 488 490	it
+T12	Markable 9 27	three dark circles
+T13	Markable 162 173	all of them
+T2	Markable 204 212	all mine
+A1	All-Referents T2
+T14	Markable 284 306	the two dark grey ones
+R1	Anaphora Arg1:T9 Arg2:T7	
+T6	Markable 449 467	the largest circle

@@ -1,0 +1,3 @@
+0: Medium sized, medium colored gray dot by itself
+1: two dots very close. the left one is small a light. the right one is larger and grey
+0: Yes, let's choose the larger one.

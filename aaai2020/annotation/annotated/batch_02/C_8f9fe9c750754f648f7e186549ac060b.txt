@@ -1,0 +1,6 @@
+0: I see a big gray dot
+1: i see a small black dot to the right side lonely
+0: yes with a grey dot to the left and below?
+1: no but i think i see yours, the grey dot to the left and below is about the same size and lighter then the one above
+0: yes
+1: i will choose the lighter grey dot

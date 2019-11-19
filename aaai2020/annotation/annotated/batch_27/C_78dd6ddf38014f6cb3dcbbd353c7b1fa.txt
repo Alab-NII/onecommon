@@ -1,0 +1,4 @@
+0: Triangle, all different sizes and colors
+1: Possibly. Is the top point the largest?
+0: Yes, let's pick it
+1: Okay!

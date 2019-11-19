@@ -1,0 +1,5 @@
+1: I see a pair. One larger than the other.
+0: do you have in the center a light gray and a darker gray
+1: I have a black with a light gray that is smaller
+0: lets click the lighter gray
+1: ok

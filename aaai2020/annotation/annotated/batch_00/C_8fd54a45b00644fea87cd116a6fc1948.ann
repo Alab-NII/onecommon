@@ -1,0 +1,4 @@
+T1	Markable 81 89	smallest
+T2	Markable 106 108	it
+T3	Markable 3 19	the smallest dot
+R1	Anaphora Arg1:T2 Arg2:T1	

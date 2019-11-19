@@ -1,0 +1,4 @@
+1: Hello, I have one dot larger than the rest
+0: I do too, is there a small dark dot below it and to the right?
+1: Yes
+0: Let's pick the large dot

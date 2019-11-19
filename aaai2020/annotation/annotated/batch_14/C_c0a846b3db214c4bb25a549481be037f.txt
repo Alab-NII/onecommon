@@ -1,0 +1,5 @@
+0: I see three large dots next to each other at the bottom
+1: I don't have three large dot bottom together, have darkest large dot between two smallest dots.
+0: yep, lets click it
+1: largest black dot?
+0: yep

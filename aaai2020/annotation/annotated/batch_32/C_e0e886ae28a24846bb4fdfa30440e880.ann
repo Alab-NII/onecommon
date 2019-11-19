@@ -1,0 +1,10 @@
+T1	Markable 62 77	the smaller one
+T2	Markable 81 92	the darkest
+T3	Markable 14 27	two dark dots
+T4	Markable 50 60	each other
+T5	Markable 112 122	each other
+T6	Markable 214 228	the darker one
+R1	Anaphora Arg1:T4 Arg2:T3	
+R2	Predicative Arg1:T2 Arg2:T1	
+T7	Markable 124 127	Top
+T8	Markable 154 171	the bottom(right)

@@ -1,0 +1,5 @@
+0: i see 3 dots forming a triangle
+1: I have 5 dots that make up a bent number 4. the center one on the right is the darkest
+0: i don't think i see that. well, maybe partially. is the one on the bottom medium dark grey and is kind of further from other dots/
+1: not sure. do your triangle dots have the same darkness?
+0: no. let's go with that center one (the darkest one in your bent 4)

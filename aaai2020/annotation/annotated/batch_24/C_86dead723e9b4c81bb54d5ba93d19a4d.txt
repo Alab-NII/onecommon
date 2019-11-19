@@ -1,0 +1,5 @@
+1: Do you have a large light dot and a darker dot almost vertical above it but slightly to the left?
+0: wow. i have a tight group of a large light dot with two slightly darker and smaller dots just below it. it has a darker dot above it. i'm not sure if its your dot or not.
+1: No, the only cluster I have is three dots with the darker one on the bottom. They are all nearly the same size.
+0: how about tiny dots? i only have one. its all by itself. its light
+1: Yes. Let's do that one.

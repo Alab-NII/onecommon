@@ -1,0 +1,2 @@
+1: hi, one large black dot with a lighter medium dot below and to the left?
+0: yes, pick the black dot

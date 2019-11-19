@@ -1,0 +1,6 @@
+1: Hello, I have two dots close together, a dark and light one
+0: I also have those are they near the bottom right of the circle?
+1: Yes they are
+0: Ok which one should we select?
+1: Let's select the darker one.
+0: Ok sounds good.

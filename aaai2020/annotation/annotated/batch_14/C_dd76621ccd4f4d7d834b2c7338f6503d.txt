@@ -1,0 +1,4 @@
+0: Do you see two dots horizontal about the same size?
+1: Do you see a large grey Dot and directly above and slightly right is a tiny darker dot
+0: Yes. Is there a larger black one beneath the large grey?
+1: Yes then just click that large black one

@@ -1,0 +1,4 @@
+0: I see a large circle with 7 smaller circles inside that are lighter or darker in shades
+1: Largest Darkest beside medium just as dark
+0: Yes I see that as well
+1: pick the largest darkest dot

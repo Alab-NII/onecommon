@@ -1,0 +1,4 @@
+0: 4 dots kind of form letter y upside down
+1: is the middle one the darkest?
+0: Yes, let us select that
+1: ok!

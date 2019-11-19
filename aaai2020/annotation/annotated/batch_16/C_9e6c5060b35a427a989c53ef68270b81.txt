@@ -1,0 +1,2 @@
+1: I have one small, medium grey dot with three large black dots nearby.
+0: yes, pick small grey

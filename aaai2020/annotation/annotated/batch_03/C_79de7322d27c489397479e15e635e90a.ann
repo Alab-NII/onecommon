@@ -1,0 +1,12 @@
+T1	Markable 10 31	a loose group of five
+T2	Markable 37 49	two lonelies
+T3	Markable 64 84	a big light grey dot
+T4	Markable 90 113	a smaller dark grey dot
+T5	Markable 129 131	it
+T6	Markable 140 158	a loose group of 4
+T7	Markable 226 235	the other
+T8	Markable 193 211	one of my lonelies
+R1	Anaphora Arg1:T5 Arg2:T3	
+T9	Markable 163 166	a 2
+T10	Markable 171 179	1 lonely
+T11	Markable 267 288	the tiny black lonely

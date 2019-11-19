@@ -1,0 +1,5 @@
+0: One of my dots is the darkest color and it's towards the bottom left.
+1: All of my dark dots are higher up. Do you have any light gray dots?
+0: I do, I've got a large one towards the bottom right, and a small one in the upper right
+1: My large one is more bottom center -- that's probably not it. I have a large dark dot towards the upper right, and then another large dot a couple inches below it
+0: I have a large dark dot towards the upper right as well.

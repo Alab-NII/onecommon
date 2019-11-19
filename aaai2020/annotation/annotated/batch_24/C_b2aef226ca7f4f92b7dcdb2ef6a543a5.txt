@@ -1,0 +1,4 @@
+0: Large black dot on top of two medium black dots?
+1: Yes, let's choose the large one
+0: k
+1: k

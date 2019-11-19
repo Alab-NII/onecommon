@@ -1,0 +1,18 @@
+T1	Markable 9 15	6 dots
+T2	Markable 79 96	a light large dot
+T3	Markable 194 200	itself
+T4	Markable 212 239	two larger medium grey dots
+T5	Markable 290 299	the bunch
+T6	Markable 255 266	darkest dot
+T7	Markable 374 390	a light grey dot
+T8	Markable 310 314	that
+T9	Markable 316 319	its
+T10	Markable 367 369	it
+T11	Markable 401 424	a large medium grey dot
+T12	Markable 445 469	the really dark grey dot
+T13	Markable 60 70	an M shape
+A1	No-Referent T13
+T14	Markable 175 180	a dot
+R1	Anaphora Arg1:T3 Arg2:T14	
+R2	Anaphora Arg1:T9 Arg2:T8	
+T15	Markable 326 345	a large medium grey

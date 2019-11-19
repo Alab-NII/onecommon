@@ -1,0 +1,3 @@
+0: I see five dot forming a line
+1: yes! is the middle med in size and light? if so click it
+0: yes

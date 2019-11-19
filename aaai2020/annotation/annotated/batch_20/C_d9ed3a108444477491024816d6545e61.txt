@@ -1,0 +1,7 @@
+0: 2 small dots the darker one above and left of the lighter one
+1: I have a dark gray dot and to the right horizontally a light gray one
+0: do you see large light grey dot with a smaller medium grey dot left and below it
+1: no -- Mine is to the right no left.
+0: ok select your small dark grey dot
+1: does that dots your talking about make a triangle by chance
+0: select the first small dark dot you described

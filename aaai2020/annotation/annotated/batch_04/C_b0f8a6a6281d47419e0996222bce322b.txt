@@ -1,0 +1,4 @@
+0: Do you see a triangle type shape of 3 dots?
+1: I see a small very dark dot fairly alone, with the closest dot large medium grey to its right. I have multiple triangles of dots
+0: I see where you are. Shall we select the dark dot?
+1: the small dark dot, yes.

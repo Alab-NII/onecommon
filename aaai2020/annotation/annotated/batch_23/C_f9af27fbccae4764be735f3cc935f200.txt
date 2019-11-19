@@ -1,0 +1,6 @@
+0: three small dots forming a line sloping up to the left? largest and lightest one on top?
+1: I have three small dots slipping right
+0: can you describe the middle dot?
+1: Its barely in the middle, black slightly left
+0: okay cool! i see it! click that one!
+1: Ok

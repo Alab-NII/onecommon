@@ -1,0 +1,5 @@
+0: I have two small dots in a diagonal pair
+1: one darker than the other?
+0: Yes, the bottom one is to the left and darker
+1: Yes. Let's pick the darker one.
+0: Ok

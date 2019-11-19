@@ -1,0 +1,4 @@
+0: i have two dot near each other. one is very dark on the left, one is much lighter on the right. both are similar sized. right dot is larger
+1: I have that!!
+0: lets click the darker left hand dot please
+1: Okay!

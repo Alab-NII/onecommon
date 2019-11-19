@@ -1,0 +1,4 @@
+0: do you see a small dark dot with a lighter and slightly larger dot underneath it/slightly to the right?
+1: Yes. And is there another dot to the right and slightly below the lighter dot that is the same size but darker?
+0: yes! do you want to pick the small dark dot?
+1: Sure

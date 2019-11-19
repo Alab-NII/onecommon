@@ -1,0 +1,3 @@
+0: I have one medium sized light grey with nothing remotely close to it
+1: Me too -- let's pick that one!
+0: Ok!

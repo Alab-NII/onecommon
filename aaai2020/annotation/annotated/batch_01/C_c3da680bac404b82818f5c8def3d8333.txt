@@ -1,0 +1,13 @@
+0: Do you see one large light dot?
+1: no i do not
+0: Do you see a medium toned large dot with a smaller darker dot behind it?
+1: what do you mean by "behind"?
+0: To the left and below
+1: i think so. is the smaller one black?
+0: Yes
+1: and they are really close together?
+0: Yes, where are they on your screen?
+1: they are on the bottom center of my circle
+0: Okay
+1: did you choose the black lower one or the dark grey one?
+0: Black lower one

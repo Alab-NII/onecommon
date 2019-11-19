@@ -1,0 +1,7 @@
+0: do you see a black medium dot with a dark gray dot directly above it very close and to the left a little
+1: I have three large dots forming a triangle. Darkest one is on the right
+0: i don't think i see your three large dots
+1: I do not have a medium black dot. do you have a slightly curved line of three medium grey dots?
+0: i think so. but what color are the dots? Is there a medium lightest of the 3? Medium size light color?
+1: Yes the lightest is in the middle
+0: k...choose middle lightest

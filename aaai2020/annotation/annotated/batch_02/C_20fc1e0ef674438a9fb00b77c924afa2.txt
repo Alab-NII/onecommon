@@ -1,0 +1,4 @@
+0: Hello do you have a large gray dot below a smaller gray dot
+1: with a smaller dot same shade just to the left?
+0: Yes that's the one
+1: yep got that

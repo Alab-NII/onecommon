@@ -1,0 +1,13 @@
+0: I have a dark grey circle touching the edge of the circle
+1: I have a U shape of dots.
+0: I do not
+1: I do have a dark gray near the line but none touch. I have a small black dot alone
+0: Do you have any large black dots alone
+1: no... do you have any near the center of the circle
+0: I only have grey near the center. One dark grey northwest of center, one light grey just east of center, and one grey a little north-northeast of center
+1: makes a little c shape?
+0: a V
+1: yeah it could be a V a wide one ...
+0: is the top left of the V dark grey
+1: Yes it also smaller than the other 2 dots.
+0: Yeah, let's choose that one.

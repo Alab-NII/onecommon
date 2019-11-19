@@ -1,0 +1,4 @@
+1: Massive dark grey dot, above it is a smaller dot that is same shade. Slightly to the left the one above
+0: Yes! Which should we choose?
+1: Massive
+0: Okay!

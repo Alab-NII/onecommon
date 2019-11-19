@@ -1,0 +1,3 @@
+0: large light circle at the bottom with a medium-large dark below it to the right
+1: yes i see it, let's pick the light one
+0: I agree.

@@ -1,0 +1,5 @@
+0: huge black dot with tiny black dot below it
+1: I think I know what you are talking about, but I am not sure it is black. Are they on the right side?
+0: we have different views, so i have no idea what you are seeing... there is another tiny dot above it, medium grey
+1: I know, but they are typically in a similar region. Do you want to try the big dark one?
+0: yeah

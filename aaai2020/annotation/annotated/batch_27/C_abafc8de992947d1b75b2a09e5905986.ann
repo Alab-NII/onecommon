@@ -1,0 +1,14 @@
+T1	Markable 33 44	the top one
+T2	Markable 119 129	a triangle
+T3	Markable 295 297	it
+T5	Markable 337 339	it
+T6	Markable 396 407	the top one
+T7	Markable 10 27	2 very large dots
+T8	Markable 71 81	the bottom
+T9	Markable 130 133	its
+R1	Anaphora Arg1:T9 Arg2:T2	
+T10	Markable 171 181	the bottom
+T11	Markable 210 217	the top
+T12	Markable 242 253	bottom same
+T13	Markable 277 283	my top
+R2	Anaphora Arg1:T3 Arg2:T13	

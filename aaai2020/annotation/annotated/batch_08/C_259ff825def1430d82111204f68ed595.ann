@@ -1,0 +1,4 @@
+T1	Markable 10 27	a small black dot
+T2	Markable 43 60	a small black dot
+T3	Markable 62 64	it
+R1	Anaphora Arg1:T3 Arg2:T2	

@@ -1,0 +1,4 @@
+1: Do you see a cluster of dots that kind of looks like a Y?
+0: I have 3 small dots in a slow with the middle one being black
+1: Yes, choose the black one.
+0: Okay

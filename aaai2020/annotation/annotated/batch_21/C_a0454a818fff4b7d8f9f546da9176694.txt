@@ -1,0 +1,8 @@
+0: Do you have 2 larger dots close together one medium and one dark?
+1: Lets pretend the circle is a clock and use "time" to see what dot we have in common?
+0: all but one of my dots are between 9 and 12 o' clock.
+1: I have several between 8 and 11
+0: I have 2 pairs of dots close together and 3 not very near any other dots
+1: I have 2, one dark one light at 8, a dark close to 9, a light at 10, and a dark between 10 and 11
+0: one of my pairs of dots is in the center of the clock and I have a pair with the light at 11 and the darkest close to 12 at the edge of the circle, I also have a lone dark dot at the edge of the circle around 10
+1: light closest to 11

@@ -1,0 +1,5 @@
+0: Three darker dots in a triangle?
+1: is on of yours black and smaller then the other two
+0: Yes, just a bit smaller than one
+1: okay want to try it
+0: Yeah lets go for it

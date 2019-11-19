@@ -1,0 +1,4 @@
+0: Do you have a cluster of three medium sized dots close together?
+1: Yes I do, is the right one the lightest in color?
+0: Yes and the top is the darkest. Shall we choose the light right one?
+1: yes

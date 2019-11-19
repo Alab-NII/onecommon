@@ -1,0 +1,11 @@
+T1	Markable 15 21	3 dots
+T2	Markable 71 81	a triangle
+T3	Markable 54 58	they
+T4	Markable 118 120	it
+T5	Markable 124 151	a slightly smaller grey dot
+T6	Markable 174 189	the smaller one
+T7	Markable 23 28	all 3
+R1	Anaphora Arg1:T7 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+R3	Predicative Arg1:T2 Arg2:T3	
+T8	Markable 85 100	a dark gray dot

@@ -1,0 +1,6 @@
+0: I see a small light grey dot away from all other dots
+1: Is it slightly to the left of the circle?
+0: It's all by itself on the left of my circle. The is a medium size black dot below and to the right
+1: I believe I see the small light grey dot that you are talking about! Should we chose that one?
+0: Okay select the small light gray dot.
+1: Ok, thank you!

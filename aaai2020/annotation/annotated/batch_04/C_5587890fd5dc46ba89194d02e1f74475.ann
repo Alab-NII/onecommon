@@ -1,0 +1,6 @@
+T1	Markable 10 34	two similarly sized dots
+T2	Markable 97 136	the lower and slightly to the right one
+T4	Markable 53 64	the top one
+T5	Markable 184 198	the darker one
+T6	Markable 40 51	one another
+R1	Anaphora Arg1:T6 Arg2:T1	

@@ -1,0 +1,4 @@
+0: Two small dots very close together top one is almost black
+1: i have 2 small dot, dark one is above and to the right
+0: Yes! want to click on that dark one?
+1: ok

@@ -1,0 +1,15 @@
+T1	Markable 36 43	the one
+T3	Markable 10 16	3 dots
+T4	Markable 24 34	a triangle
+T6	Markable 111 115	that
+T7	Markable 185 189	that
+T8	Markable 124 141	a large black dot
+T9	Markable 199 201	it
+T10	Markable 231 233	it
+T11	Markable 207 224	a small light dot
+T12	Markable 317 336	the large black dot
+T13	Markable 345 349	that
+R1	Predicative Arg1:T4 Arg2:T3	
+A1	No-Referent T6
+R2	Anaphora Arg1:T7 Arg2:T8	
+R3	Anaphora Arg1:T10 Arg2:T9	

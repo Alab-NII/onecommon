@@ -1,0 +1,8 @@
+T1	Markable 47 53	itself
+T2	Markable 10 21	a large dot
+T3	Markable 69 80	a black dot
+T4	Markable 188 199	a black dot
+T5	Markable 222 228	2 dots
+T7	Markable 292 307	the largest one
+R1	Anaphora Arg1:T1 Arg2:T2	
+T9	Markable 119 136	a medium Gray dot

@@ -1,0 +1,4 @@
+1: Do you see two dots that are very very close together?
+0: I have two dots the same size, the one on the left is lighter grey and the one on the right is medium grey
+1: Is the one on the left slightly above and very light grey?
+0: Yes, choosing that light grey one now

@@ -1,0 +1,12 @@
+1: Do you have a cluster of 3 large dots close together?
+0: I have a large black close to the center. There is a large grey dot in the upper left half.
+1: My large gray dot is also up and to the left of my large dark dot
+0: Is the large gray dot close to the middle line of the circle?
+1: yes
+0: do you have a small darker gray dot near the bottom?
+1: yes. it is between those dots but much lower
+0: is there a lonely dark gray dot on your left close to the bottom?
+1: no
+0: is there small dot directly below the center point? what else do you see
+1: the smallest dot I see is below the center point.
+0: i will click that one

@@ -1,0 +1,9 @@
+T1	Markable 81 88	the one
+T2	Markable 10 20	three dots
+T3	Markable 146 154	2 larger
+T4	Markable 195 199	Mine
+T5	Markable 125 137	the smallest
+T6	Markable 230 232	it
+T7	Markable 51 54	all
+R1	Anaphora Arg1:T7 Arg2:T2	
+T8	Markable 164 175	darker ones

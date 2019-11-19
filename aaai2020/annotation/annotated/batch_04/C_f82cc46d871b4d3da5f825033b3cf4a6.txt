@@ -1,0 +1,5 @@
+1: So all my dots are in the bottom left
+0: all of my dots are on the left of my circle. i have a cluster of 4. three go in a kind of a line down/to the right... with one larger/light one off to the upper right of the three
+1: I think I can see a cluster of the three. The one on the top right is lighter and larger? How much larger is that one for you?
+0: yes sounds like the darkest one is cut off for you, since yours are all on the bottom/left. mine are all on the left too. let's choose the right/large/light one of the 3 in the bottom cluster?
+1: Yes

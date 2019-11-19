@@ -1,0 +1,21 @@
+T1	Markable 43 59	some larger dots
+T2	Markable 15 31	a tiny black dot
+T3	Markable 120 130	the others
+T4	Markable 81 92	a tiny grey
+T5	Markable 180 190	the others
+T6	Markable 145 148	one
+T7	Markable 205 215	a triangle
+T8	Markable 221 235	two other dots
+T9	Markable 196 198	it
+T10	Markable 257 267	a triangle
+T12	Markable 331 349	a medium sized one
+T13	Markable 362 374	smaller ones
+T14	Markable 390 411	a very small dark dot
+T15	Markable 433 441	that one
+T16	Markable 239 243	Mine
+A1	No-Referent T10
+T17	Markable 283 286	one
+T11	Markable 326 328	it
+R1	Predicative Arg1:T12 Arg2:T11	
+T18	Markable 353 357	mine
+R2	Predicative Arg1:T13 Arg2:T18	

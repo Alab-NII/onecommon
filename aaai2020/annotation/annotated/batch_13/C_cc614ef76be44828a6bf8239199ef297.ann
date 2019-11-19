@@ -1,0 +1,14 @@
+T1	Markable 46 56	each other
+T2	Markable 62 75	the darker on
+T3	Markable 15 40	gray smaller dots cluster
+T4	Markable 105 133	a very dark medium sized dot
+T5	Markable 139 157	a lighter grey dot
+T6	Markable 164 166	it
+T7	Markable 182 186	they
+T8	Markable 217 236	a dark or black dot
+T9	Markable 253 264	the top one
+T10	Markable 343 357	the darker dot
+T11	Markable 276 305	the grey smaller dots cluster
+R1	Anaphora Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes T2	the darker one
+R2	Anaphora Arg1:T6 Arg2:T4	

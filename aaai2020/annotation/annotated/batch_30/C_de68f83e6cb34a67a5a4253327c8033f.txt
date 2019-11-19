@@ -1,0 +1,3 @@
+0: 3 dots very close together forming a triangle?
+1: Yes, lightest and smallest on top, medium gray in middle and larger black on bottom?
+0: yes! click that lightest tiny one up top

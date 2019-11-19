@@ -1,0 +1,4 @@
+0: i have black dot medium size at West location with large gray dot to its right
+1: I don't have that. I have a large gray dot with two smaller very dark gray dots to the right of it - one is above and one is slightly below
+0: yes i have that
+1: ok. Let's pick that large medium gray dot to the left of the smaller darker dots

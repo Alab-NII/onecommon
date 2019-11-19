@@ -1,0 +1,8 @@
+T1	Markable 33 50	a medium dark dot
+T2	Markable 54 61	it self
+T3	Markable 74 76	it
+T4	Markable 114 130	the cluster of 5
+T5	Markable 137 139	it
+T6	Markable 208 216	that dot
+T7	Markable 3 9	5 dots
+R1	Anaphora Arg1:T2 Arg2:T1	

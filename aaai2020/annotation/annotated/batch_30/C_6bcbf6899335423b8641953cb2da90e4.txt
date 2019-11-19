@@ -1,0 +1,6 @@
+0: Two very close same color. One on right is significantly larger?
+1: i don't think i quite see that. i see a cluster of three where the darkest is also the smallest, but not by much.
+0: Nope...In don't have any clustered except those. Um, how about two in a vertical diagonal to the right. Top one is larger and slightly darker?
+1: of the pair you mentioned before, is the smaller dot to the bottom left of the other one?
+0: Yes
+1: pick the smaller dot.

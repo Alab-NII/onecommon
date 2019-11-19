@@ -1,0 +1,6 @@
+1: Hello! Where's your dot?
+0: Hello!! I have a large black dot near 1 oclock.
+1: Does it have another large lighter grey dot above it?
+0: Yes I do have that one.
+1: ok lets click the large black dot?
+0: Got it :)

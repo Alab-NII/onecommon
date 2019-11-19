@@ -1,0 +1,3 @@
+0: medium light grey with a smaller darker grey below to the right
+1: got it, pick the darker dot
+0: k

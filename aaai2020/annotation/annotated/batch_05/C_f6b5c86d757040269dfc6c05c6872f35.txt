@@ -1,0 +1,6 @@
+0: I see a group of 3 smaller dots two of them black clustered in wide triangle
+1: I have two smaller black dots next to each other as well. Left one is slightly larger than right
+0: sounds right, do you have a larger grey dot far away up and right of these 2 dots
+1: Yes I am seeing that as well
+0: ok lets choose the slightly smaller black dot
+1: Sounds good

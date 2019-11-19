@@ -1,0 +1,4 @@
+1: Do you have two really dark dots. One smaller one and to the left one a little larger?
+0: yes
+1: Perfect, let's choose the larger one.
+0: on the right

@@ -1,0 +1,17 @@
+T1	Markable 66 70	that
+T3	Markable 105 107	it
+T4	Markable 76 90	one light grey
+T5	Markable 95 98	one
+T6	Markable 161 175	the darker one
+T9	Markable 221 225	they
+T10	Markable 265 279	any large dots
+T11	Markable 331 335	them
+T12	Markable 303 313	3 of those
+T13	Markable 366 375	your pair
+T14	Markable 388 399	the top one
+T15	Markable 403 412	your pair
+T16	Markable 467 478	the top one
+T17	Markable 3 22	two large grey dots
+R1	Anaphora Arg1:T3 Arg2:T4	
+T2	Markable 189 194	top's
+R2	Anaphora Arg1:T11 Arg2:T12	

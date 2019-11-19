@@ -1,0 +1,13 @@
+T1	Markable 63 73	each other
+T2	Markable 93 113	a few different ones
+T3	Markable 227 231	them
+T4	Markable 145 148	one
+T5	Markable 176 179	one
+T7	Markable 239 253	the bottom one
+T8	Markable 290 303	the black one
+T9	Markable 280 288	this one
+T10	Markable 15 23	any dots
+T11	Markable 52 53	2
+R1	Anaphora Arg1:T1 Arg2:T11	
+T12	Markable 133 140	these 2
+R2	Anaphora Arg1:T3 Arg2:T12	

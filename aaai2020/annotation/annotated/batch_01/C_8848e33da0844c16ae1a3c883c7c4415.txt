@@ -1,0 +1,12 @@
+1: hello
+0: I see a lonely dot that is darkest
+1: I see three sizes of dots. What size is your lonely dark dot?
+0: it is large
+1: I have two large dark dots. Is there a medium sized dot above your dark dot?
+0: yes there is a medium sized dot above my dark dot
+1: What color is that medium dot?
+0: it is medium shade
+1: I think I'm looking at the same dot as you then. Where in your big circle is that lonely dot? uhm, split the big circle into quarters, so NE, SE, SW, SE.
+0: it is in the SE corner, there is also a smaller medium shade dot to the left of the medium sized medium shade dot that is above my large dark dot
+1: perfect. mine too. Let's pick that one, okay?
+0: ok

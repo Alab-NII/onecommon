@@ -1,0 +1,4 @@
+1: large very black dot?
+0: I see a diagonal L of 4 dots with top of L large and dark grey and right side medium light colored grey
+1: does a black dot make the corner of that L?
+0: Yes click that one!

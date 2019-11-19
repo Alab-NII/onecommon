@@ -1,0 +1,5 @@
+1: Medium Grey Large dot with light grey small dot very close to right and slightly down
+0: don't have that...group of 3 dots, closest ones are 2 large dots top is light bottom is medium, third dot is is small to the top right medium toned
+1: Yes, I have that. let's select top right medium toned dot
+0: small one?
+1: the third dot you described yes

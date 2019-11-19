@@ -1,0 +1,24 @@
+T1	Markable 10 36	three very light gray dots
+T2	Markable 49 55	a line
+T3	Markable 94 98	they
+T4	Markable 128 147	two light grey dots
+T5	Markable 158 175	a small, dark dot
+T7	Markable 182 193	one of them
+T8	Markable 226 228	it
+T9	Markable 210 220	a dark dot
+T10	Markable 268 284	the lefthand one
+T11	Markable 247 254	The two
+T12	Markable 321 325	they
+T13	Markable 429 433	them
+T14	Markable 422 425	one
+T15	Markable 357 366	the three
+T16	Markable 385 397	a darker dot
+T17	Markable 462 464	it
+T18	Markable 512 538	the smaller light gray dot
+T19	Markable 466 478	The dark dot
+T20	Markable 576 583	the one
+R1	Predicative Arg1:T2 Arg2:T1	
+A1	No-Referent T9
+R2	Anaphora Arg1:T8 Arg2:T9	
+R3	Anaphora Arg1:T13 Arg2:T15	
+T6	Markable 619 643	that dark, inch away dot

@@ -1,0 +1,7 @@
+1: I have two very tiny dark dots. One of them is all by itself, away from all the others.
+0: Do you see two small black dots with a bigger gray dot kind of between them and to the right
+1: I don't have that. I have a very large medium dark gray dot just a tiny bit above and to the right of one that is just a little lighter and slightly smaller.
+0: i dont see that...do you see two dots of same size and same medium gray color but the are spaced pretty far from each other...one being kind of over the other
+1: No, I have two very small dark ones that are in a vertical line, but very far apart.
+0: does the one on top have a light gray dot to the left
+1: Yes. Pick that little dark one.

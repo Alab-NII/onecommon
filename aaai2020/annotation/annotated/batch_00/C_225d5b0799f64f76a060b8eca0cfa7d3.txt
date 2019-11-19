@@ -1,0 +1,7 @@
+1: Do you see a dark black dot close to the edge of the circle?
+0: Yes, to the left near the top
+1: I have it closer to the right bottom
+0: Do you have a medium grey dot near the 7 oclock spot?
+1: i have one closer to the 8 oclock spot
+0: Do you have a large medium grey circle slightly right to the middle but lower than the middle?
+1: yes, I do

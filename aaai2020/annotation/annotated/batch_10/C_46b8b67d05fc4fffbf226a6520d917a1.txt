@@ -1,0 +1,4 @@
+1: I have a medium, dark grey dot with a tiny dark grey dot up and to the right of it
+0: Hi. Two dark dots, one larger on the bottom, one smaller and slightly up and to the right?
+1: select the lower, larger one
+0: maybe we're talking about the same ones? Shall we click the one on the bottom?

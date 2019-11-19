@@ -1,0 +1,2 @@
+1: two large dots next to each other, the right one is dark
+0: Yes, I have those. Should we pick the dark one?

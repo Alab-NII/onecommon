@@ -1,0 +1,6 @@
+1: Tiny lightest shade dot. to the left and higher up is a light bigger dot but still small, above both of those are some black dots which are larger
+0: I see one dark grey dot to the left, just below a light grey dot
+1: Don't see that
+0: I don't have any black dots. They are all shades of grey
+1: Click your smallest lightest dot
+0: What did you select?

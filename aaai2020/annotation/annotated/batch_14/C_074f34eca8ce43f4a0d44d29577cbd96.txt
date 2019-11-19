@@ -1,0 +1,5 @@
+1: Hi do you see a triangle in which the lower left one is larger and darker than the other two?
+0: hi i have large medium shade dot to way left. And yes i do but it's only slightly darker
+1: then the top one of the triangle is lightest colored and about the same size as the bottom right piece of the triangle?
+0: yes it goes from bottom left large, top small light gray, bottom right little darker gray but same size as top
+1: Nice! lets pick the top then! Good luck!

@@ -1,0 +1,6 @@
+0: I have a single lonely light small dot
+1: i have 4 large black dots and 2 med grey dots and one light grey med dot
+0: Do you feel good about the light grey being our match?
+1: is it near the center to the right
+0: yes mine is also!
+1: lets click it

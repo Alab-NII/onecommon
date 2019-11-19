@@ -1,0 +1,5 @@
+0: do you have any black dots
+1: I have 3 black dots. 2 are small and toward the bottom. One is much larger than the rest and is at the 9 o'clock position
+0: towards the center of the circle for the black larger one
+1: mine is right of the center but I think we are describing the same one. Should we pick it?
+0: sure we can

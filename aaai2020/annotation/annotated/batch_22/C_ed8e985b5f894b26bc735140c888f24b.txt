@@ -1,0 +1,3 @@
+0: Do you have two dots small that are side by side left one is lighter and slightly lower
+1: yes choose light one
+0: Ok

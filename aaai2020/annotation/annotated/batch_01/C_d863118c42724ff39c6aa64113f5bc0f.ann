@@ -1,0 +1,24 @@
+T2	Markable 57 61	that
+T3	Markable 33 43	a triangle
+T4	Markable 10 22	3 large dots
+T5	Markable 79 91	2 black dots
+T6	Markable 116 126	each other
+T7	Markable 163 174	the smaller
+T8	Markable 128 135	top one
+T9	Markable 225 235	three dots
+T10	Markable 239 254	a diagonal line
+T11	Markable 365 382	a small black dot
+T12	Markable 301 303	it
+T13	Markable 393 397	that
+T14	Markable 412 431	the small black one
+T15	Markable 472 478	itself
+T16	Markable 443 460	a small black one
+R1	Predicative Arg1:T3 Arg2:T4	
+R2	Anaphora Arg1:T2 Arg2:T4	
+R3	Anaphora Arg1:T6 Arg2:T5	
+R4	Predicative Arg1:T10 Arg2:T9	
+R5	Anaphora Arg1:T12 Arg2:T9	
+T1	Markable 306 330	a medium sized dark grey
+T17	Markable 332 358	slightly larger light grey
+R6	Anaphora Arg1:T15 Arg2:T16	
+T18	Markable 540 551	your choice

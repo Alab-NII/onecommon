@@ -1,0 +1,8 @@
+1: I see 3 very dark grey large dots and 4 small one that are light-medium grey
+0: the only large dot i have is black
+1: What is it near?
+0: it is on the left side of my circle. to the right of it is a small grey dot
+1: K. Is the smaller dot lighter in shade?
+0: yes
+1: K let's click the smaller dot
+0: ok

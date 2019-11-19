@@ -1,0 +1,5 @@
+T1	Markable 42 62	three very tiny dots
+T3	Markable 110 117	the one
+T4	Markable 145 153	that one
+T5	Markable 3 28	Three same size tiny dots
+R1	Anaphora Arg1:T4 Arg2:T3	

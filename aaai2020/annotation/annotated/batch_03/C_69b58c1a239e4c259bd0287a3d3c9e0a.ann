@@ -1,0 +1,7 @@
+T1	Markable 20 35	three dark dots
+T2	Markable 46 50	They
+T3	Markable 57 72	a vertical line
+T4	Markable 80 93	the first one
+T5	Markable 132 153	the bigger middle one
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T3 Arg2:T2	

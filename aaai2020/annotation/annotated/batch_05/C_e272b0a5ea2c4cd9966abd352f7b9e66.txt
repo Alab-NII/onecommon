@@ -1,0 +1,3 @@
+0: i have a black dot just below and to the left of a slightly larger light dot
+1: yes. i have that too. lets choose the darker dot
+0: you got it

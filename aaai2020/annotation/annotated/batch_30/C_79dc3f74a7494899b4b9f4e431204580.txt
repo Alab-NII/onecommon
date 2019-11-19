@@ -1,0 +1,3 @@
+0: I have 4 dots very close together and the blackest is the largest
+1: 4 dots very close together different shade and sizes?
+0: Yes, let us select the biggest darkest

@@ -1,0 +1,11 @@
+T1	Markable 9 35	two large medium grey dots
+T2	Markable 89 105	a large gray dot
+T3	Markable 46 61	a dark grey dot
+T4	Markable 121 125	that
+T5	Markable 134 156	your large/medium dots
+T6	Markable 242 256	two large dots
+T7	Markable 309 335	a very small dark dark dot
+T8	Markable 352 368	a small dark dot
+A1	No-Referent T4
+T9	Markable 182 197	the smaller dot
+A2	No-Referent T6

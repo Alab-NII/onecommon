@@ -1,0 +1,5 @@
+1: Large dark gray dot to the left of a smaller lighter gray dot off by themselves?
+0: I only have the smaller gray dot off by itself
+1: hmm...ok do you have a cluster of dots where two tiny lighter gray dots are next to each other perfectly lined up about an inch apart?
+0: yes I do have that do you want to pick the left most one?
+1: sounds good

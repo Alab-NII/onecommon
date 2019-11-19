@@ -1,0 +1,3 @@
+1: I've got two large light grey dots near the top on opposite sides
+0: I have a cluster of 4 dots in a C shape. On one end is a large black dot and on the other is a small light dot
+1: okay, i see that. Let's go with the large black dot

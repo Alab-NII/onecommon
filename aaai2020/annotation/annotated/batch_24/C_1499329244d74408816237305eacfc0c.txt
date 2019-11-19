@@ -1,0 +1,2 @@
+1: do you have two black ones directly across each other horizontally, with a middle smaller one like a nose just below them?
+0: Yes. Select the middle smaller "nose" circle.

@@ -1,0 +1,9 @@
+0: i have one tiny black dot all alone
+1: i do not, i have a medium dark top top slight right on the line
+0: i have a grouping of four dots two along the bottom of the grouping are similar size and shade.
+1: i have group of 3 at bottom, light on left dark on right towards bottom. they're the same size
+0: hmmm... do you have two dark dots almost the same size?
+1: no i have 2 light dots same size
+0: ok... shift gears. tell me about your tiniest dot?
+1: grey colored on the right side, close to line but not touching. large light dot above and to the left
+0: ok, select your smallest dot, we are running out of time unfortunately

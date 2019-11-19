@@ -1,0 +1,9 @@
+0: I have a dark large dot at about 10 oclock
+1: yes so do i and a large light one right in the middle
+0: A light grey one in the middle?
+1: yes, does your large dark have a lighter one above it or below it?
+0: no, it does not, it has a small dark to the left
+1: i dont see that.
+0: ok, i think we have the same light grey in the almost middle
+1: wanna go for it?
+0: yes!

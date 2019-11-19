@@ -1,0 +1,5 @@
+1: I have a large dark grey dot by itself
+0: is the smallest one a grey almost at the centre
+1: Nearly yes, and it has a dark grey dot near it too?
+0: okay
+1: We need to wait for 30 seconds says the instructions. We will choose the light grey dot near the middle

@@ -1,0 +1,18 @@
+T1	Markable 9 20	a black dot
+T2	Markable 26 53	a slightly larger black dot
+T3	Markable 85 87	it
+T4	Markable 213 227	a med-grey one
+T5	Markable 154 176	a BIT bigger black one
+T7	Markable 282 311	the slightly bigger black one
+T8	Markable 258 276	the tiny light dot
+T9	Markable 318 331	the black one
+T10	Markable 359 390	your second slightly larger one
+T11	Markable 397 399	it
+T12	Markable 422 426	it's
+T13	Markable 487 502	your bigger one
+T14	Markable 459 480	the smaller black one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T15	Markable 91 105	tiny light dot
+T16	Markable 116 120	it's
+R2	Anaphora Arg1:T16 Arg2:T15	
+T6	Markable 193 197	it's

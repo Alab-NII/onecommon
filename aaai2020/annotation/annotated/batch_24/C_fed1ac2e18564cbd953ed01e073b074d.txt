@@ -1,0 +1,4 @@
+1: i have 1 larger mid grey dot with a slightly smaller same shade dot to the right of it
+0: i see 3 dots nearly in horizontal line. leftmost one is smallest and medium colored grey. middle is largest and near same color. and right most is lighter grey slightly smaller than middle
+1: i have the same, shall we choose the largest in the middle
+0: yes!

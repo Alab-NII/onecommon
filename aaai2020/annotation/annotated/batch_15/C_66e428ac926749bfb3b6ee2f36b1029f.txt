@@ -1,0 +1,5 @@
+1: do you see the cluster of about 6 dots
+0: do you have a cluster of two dark and two grey
+1: yes
+0: let us select the smaller dark
+1: ok

@@ -1,0 +1,2 @@
+1: I have a cluster of 4 dots. There are two tiny light grey dots on the left. There are two larger dots vertical to each other, with the lowest dot being darker, smaller and a bit to the left.
+0: I see that one. Let's choose the left tiny dot that you first described.

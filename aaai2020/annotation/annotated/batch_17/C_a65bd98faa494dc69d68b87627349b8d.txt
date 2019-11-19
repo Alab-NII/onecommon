@@ -1,0 +1,6 @@
+1: I have a group of 4 dots, to the top
+0: Is one of the dots darker than the rest?
+1: yes its larger and black
+0: Ok, I believe I see it too! Shall we choose that one?
+1: the black one?
+0: Yes

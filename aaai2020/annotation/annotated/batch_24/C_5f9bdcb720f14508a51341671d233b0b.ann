@@ -1,0 +1,30 @@
+T1	Markable 10 29	one small black dot
+T2	Markable 114 144	a medium sized medium grey dot
+T3	Markable 37 39	it
+T4	Markable 91 93	it
+T5	Markable 55 83	a slightly larger light grey
+T6	Markable 203 210	the one
+T7	Markable 237 244	the one
+T8	Markable 178 181	one
+T11	Markable 188 197	the other
+T12	Markable 159 176	2 light gray dots
+T13	Markable 251 253	it
+T14	Markable 284 304	two medium grey dots
+T15	Markable 306 317	the top one
+T16	Markable 368 370	it
+T17	Markable 384 401	a small black dot
+T18	Markable 407 429	a bigger dark gray dot
+T19	Markable 445 447	it
+T20	Markable 514 521	the dot
+T21	Markable 537 539	it
+T22	Markable 609 623	the bigger dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T1	
+R3	Anaphora Arg1:T13 Arg2:T6	
+R4	Anaphora Arg1:T6 Arg2:T8	
+R5	Anaphora Arg1:T7 Arg2:T11	
+T9	Markable 271 275	that
+A1	No-Referent T9
+A2	No-Referent T16
+R6	Anaphora Arg1:T19 Arg2:T17	
+T10	Markable 463 468	the 2

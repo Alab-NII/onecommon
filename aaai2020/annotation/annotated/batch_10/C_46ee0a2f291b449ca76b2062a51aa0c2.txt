@@ -1,0 +1,7 @@
+0: Do you see a black dot with a dot slightly larger to its left that is medium grey?
+1: yes
+0: Are they close together compared to the other dots?
+1: no
+0: Is there a dot that looks exactly like the one on the left of the black one to the right of the black dot?
+1: yes
+0: k click the black dot

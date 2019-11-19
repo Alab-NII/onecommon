@@ -1,0 +1,10 @@
+1: dark dot with a lighter larger dot below it?
+0: I don't think I have that one.
+1: medium black dot around the top?
+0: I got a medium dot all by its lonesome.
+1: darkest color?
+0: No. It's mid range grey.
+1: i dont have that one.
+0: You got a light grey dot with a mid grey above and to the right and a bunch of dots below and to the right also.
+1: yes
+0: Go for that one

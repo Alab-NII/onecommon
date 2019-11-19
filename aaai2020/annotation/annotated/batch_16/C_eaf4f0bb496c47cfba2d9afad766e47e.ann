@@ -1,0 +1,20 @@
+T1	Markable 10 19	four dots
+T2	Markable 94 110	a tiny black one
+T3	Markable 133 135	it
+T5	Markable 206 219	one small one
+T6	Markable 227 233	itself
+T7	Markable 267 275	that one
+T8	Markable 349 351	it
+T9	Markable 314 321	The two
+T10	Markable 404 417	the other two
+T11	Markable 380 390	bottom two
+T12	Markable 452 455	"v"
+T13	Markable 426 438	the smallest
+R1	Anaphora Arg1:T3 Arg2:T2	
+T4	Markable 160 168	No black
+A1	No-Referent T4
+T14	Markable 169 199	only medium gray to light gray
+R2	Anaphora Arg1:T6 Arg2:T5	
+A2	No-Referent T7
+T15	Markable 286 291	the 4
+R3	Anaphora Arg1:T8 Arg2:T15	

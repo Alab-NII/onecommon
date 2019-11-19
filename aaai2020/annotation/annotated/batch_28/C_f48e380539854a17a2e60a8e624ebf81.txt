@@ -1,0 +1,3 @@
+1: i have a group of two. almost the same size. top/right is very dark. bottom/left is very light?
+0: no, i have nothing dark, i have a group of two one on left is tiny and light grey, right is slightly lower, slightly larger and regular grey
+1: yes, i see that. select the left hand lighter dot

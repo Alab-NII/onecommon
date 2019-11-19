@@ -1,0 +1,5 @@
+1: I have two grey dots on the far right edge. One is slightly larger and slightly lighter than the other
+0: I don't know if I have those. I have a black dot in the middle of my circle.
+1: Is there a smaller, light grey dot near it?
+0: Above and to the right
+1: Yup, okay. Go with the big black one.

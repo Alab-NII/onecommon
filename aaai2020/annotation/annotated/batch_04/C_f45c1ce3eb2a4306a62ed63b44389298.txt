@@ -1,0 +1,5 @@
+1: i have three dark circles and four less dark circles
+0: i have a large dark near a tiny light grey
+1: do you have a grey touching the circumference
+0: no, but my circumference may be different than yours. do you have a large dark at all?
+1: i do have

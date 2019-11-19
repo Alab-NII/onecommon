@@ -1,0 +1,4 @@
+1: Is your largest dot black?
+0: I have a very dark, very large black dot with a medium sized medium grey dot up and to the right at 2 oclock
+1: It must be the black dot that is largest dot for me
+0: ok, lets click it

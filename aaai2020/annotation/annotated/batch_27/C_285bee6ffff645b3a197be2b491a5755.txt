@@ -1,0 +1,5 @@
+1: one lone tiny light grey dot
+0: on mine i have a lot of tiny light gray dots...what is the closest to yours that is alone?
+1: there is nothing close at all, but if i had to say, it would be and even smaller dark grey dot
+0: doesnt sound like thats going to be in my circle, lets try some others...how about a very large medium gray dot, with a smaller lighter one to its upper right?
+1: ok, i think i have that, pick the medium gray

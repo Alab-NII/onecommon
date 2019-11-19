@@ -1,0 +1,5 @@
+1: I see three small dots together, all different shade of gray
+0: I have 3 small dots in a row dark grey in middle
+1: which one to choose?
+0: Let's do dark get in the middle
+1: got it

@@ -1,0 +1,9 @@
+T1	Markable 88 108	a smaller darker dot
+T2	Markable 166 178	the smallest
+T3	Markable 140 157	a small black dot
+T4	Markable 200 220	a larger lighter dot
+T5	Markable 192 194	it
+T6	Markable 266 284	the tiny black dot
+T7	Markable 3 18	My smallest dot
+T8	Markable 31 52	medium light grey dot
+R1	Predicative Arg1:T2 Arg2:T3	

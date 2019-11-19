@@ -1,0 +1,6 @@
+0: Do u see the large grey dot in middle
+1: I see two big dark dots
+0: It's by a little one
+1: I see one big dot right at the border
+0: I see that right or left
+1: Top

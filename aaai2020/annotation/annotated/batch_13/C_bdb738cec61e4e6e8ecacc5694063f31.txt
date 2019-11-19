@@ -1,0 +1,5 @@
+1: light grey dot almost right above a slightly darker grey dot
+0: do you have 1 large black dot surrounded by 4 smaller dots
+1: no i dont. very small medium grey dot?
+0: yes i have 2
+1: pick the one to the left

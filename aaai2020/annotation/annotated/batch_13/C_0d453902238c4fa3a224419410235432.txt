@@ -1,0 +1,3 @@
+1: I have two very dark dots close together. The one on the right is larger, darker and a little lower. Do you see that?
+0: two black ones right next to each other. yes. exactly. let's choose the larger right one
+1: Ok, sounds good

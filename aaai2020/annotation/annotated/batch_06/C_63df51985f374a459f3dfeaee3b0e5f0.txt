@@ -1,0 +1,6 @@
+1: I have a large dark grey circle and a large light grey circle next to each other.
+0: i have a single small dark grey one to their right?
+1: yes! Should we select the small one?
+0: it's almost exactly in line with the larger dark one? and the light big one in the middle is slightly slightly lower?
+1: Exactly!
+0: ok choose the small dark dot, got it

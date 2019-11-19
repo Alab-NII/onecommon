@@ -1,0 +1,9 @@
+T1	Markable 10 34	one large very light dot
+T2	Markable 97 107	a triangle
+T3	Markable 76 86	three dots
+T5	Markable 109 124	one of the dots
+T6	Markable 210 226	the lightest one
+T8	Markable 46 49	its
+R1	Anaphora Arg1:T8 Arg2:T1	
+R2	Predicative Arg1:T2 Arg2:T3	
+T4	Markable 157 169	the lightest

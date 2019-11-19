@@ -1,0 +1,8 @@
+1: i have two groups of 3 and a lonely light grey small dot
+0: yes me too. the loner is on my top right
+1: my loner is on bottom right
+0: my top cluster of 3 is all same sized, with lighter in the middle
+1: yes, the lower and middle are closer together than the top one is to the middle?
+0: yup!
+1: it goes from top right to bottom left? if so lets pick middle
+0: ok sounds good

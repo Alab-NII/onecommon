@@ -1,0 +1,14 @@
+T1	Markable 14 25	a small dot
+T2	Markable 75 93	all the other dots
+T3	Markable 137 167	a very light colored small dot
+T4	Markable 115 123	this dot
+T5	Markable 175 177	it
+T6	Markable 217 242	another darker medium dot
+T7	Markable 193 212	a darker medium dot
+T8	Markable 256 258	it
+T9	Markable 266 268	it
+T10	Markable 310 318	that one
+T11	Markable 333 335	it
+T12	Markable 40 54	all the others
+A1	No-Referent T4
+R1	Anaphora Arg1:T9 Arg2:T8	

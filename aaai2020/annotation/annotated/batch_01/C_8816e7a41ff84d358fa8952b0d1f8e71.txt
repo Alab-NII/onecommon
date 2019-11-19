@@ -1,0 +1,8 @@
+0: i have a single large black dot
+1: I have 4 dots that make a Y shape, do you have that? I have one large black dot but its close to a small dark grey one to its right and a bit higher
+0: i have both of what you describe
+1: ok on the Y, is the bottom one the largest and seems like a black color? It may even be really dark grey...
+0: in the Y shape, is there a single small black dot?
+1: yes, like the top right corner one?
+0: yes. let's choose that single small black dot
+1: ok

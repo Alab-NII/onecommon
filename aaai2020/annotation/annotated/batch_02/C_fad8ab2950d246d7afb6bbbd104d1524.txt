@@ -1,0 +1,4 @@
+1: large med/dark grey one, same size/color above it to the left, with a lighter/smaller one to the right.
+0: yes in a triangle shape with the light one to the top right
+1: perfect, choose the light/right one?
+0: k

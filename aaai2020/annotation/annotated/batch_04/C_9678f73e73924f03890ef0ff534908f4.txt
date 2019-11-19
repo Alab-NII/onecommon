@@ -1,0 +1,8 @@
+0: one tiny black dot
+1: Hello! Where's your dot?
+0: it will be different on your screen i am told
+1: Yes do you have a medium light gray one with two small dark ones on each side of it?
+0: yes but one is small and one is tiny
+1: and it points upwards on a slope?
+0: yep, lets go with the light grey
+1: ok

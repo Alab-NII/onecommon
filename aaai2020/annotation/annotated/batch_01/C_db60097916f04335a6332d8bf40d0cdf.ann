@@ -1,0 +1,19 @@
+T1	Markable 10 23	two dark dots
+T2	Markable 53 72	two light grey dots
+T3	Markable 25 47	three medium grey dots
+T4	Markable 83 92	four dots
+T5	Markable 112 118	a line
+T6	Markable 148 157	dark gray
+T7	Markable 184 191	the two
+T8	Markable 120 127	The two
+T9	Markable 252 256	that
+T10	Markable 276 284	that one
+T11	Markable 327 336	the other
+T12	Markable 288 302	the inner ones
+T13	Markable 346 348	it
+T14	Markable 401 409	that one
+T15	Markable 430 438	that one
+R1	Predicative Arg1:T5 Arg2:T4	
+T16	None 128 131	one
+#1	AnnotatorNotes T16	on
+T17	Markable 162 178	the darkest gray

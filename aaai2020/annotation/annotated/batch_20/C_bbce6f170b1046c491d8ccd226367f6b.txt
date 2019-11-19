@@ -1,0 +1,3 @@
+0: i see three medium dark dots forming a triangle
+1: Yes, I think I see that. Which would you like to choose? The top one?
+0: okay

@@ -1,0 +1,11 @@
+1: do you see a darkish large dot on the right side near the big circle
+0: i see 3 large dots in a crescent shaped line. one is light grey, one is darker grey and the one in the center of the line is a darker grey shade
+1: I don't see that
+0: ok do you have any tiny dots?
+1: yes, towards the bottom of the page
+0: i see 2 small dots, one if super light gray the other is a medium-grey shade
+1: I only see the super light grey one
+0: is it below a small darker grey dot?
+1: yes
+0: choose the light one?
+1: yep!

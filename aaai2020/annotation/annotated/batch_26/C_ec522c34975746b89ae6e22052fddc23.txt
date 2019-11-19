@@ -1,0 +1,5 @@
+1: three dot close to each other on left side, light grey small one in middle and two dark dots above and below.
+0: I see two medium black and one small gray dots together
+1: yes i too
+0: click on small gray one,
+1: ok

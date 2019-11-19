@@ -1,0 +1,3 @@
+0: medium size light grey alone in the horizontal line, do you see it?
+1: Yes i do
+0: let's pick it, ok?

@@ -1,0 +1,7 @@
+1: Hey do you see an extremely tiny circle? Light grey and easily distinguishable?
+0: Yes!
+1: Alright this is the 2nd easy one in a row, I don't think it is always this easy. But let's go for the simple ones.
+0: Okay wait
+1: I am, so this is the smallest dot correct? And pretty much the lightest?
+0: Yes, is it almost in the middle of two medium sized circles of different shades? If so, let's click it
+1: yes

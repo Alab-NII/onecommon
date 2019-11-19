@@ -1,0 +1,11 @@
+T1	Markable 9 15	7 dots
+T2	Markable 54 75	a slightly larger dot
+T3	Markable 79 81	it
+T4	Markable 120 140	a very dark grey dot
+T5	Markable 98 115	a small black dot
+T6	Markable 154 156	it
+T7	Markable 163 180	the dark grey dot
+T8	Markable 204 217	the black dot
+T9	Markable 237 254	the black top dot
+A1	All-Referents T1
+T10	Markable 19 39	tiny, very light dot

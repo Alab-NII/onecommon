@@ -1,0 +1,17 @@
+T1	Markable 70 82	2 black dots
+T2	Markable 49 59	each other
+T3	Markable 105 116	highest one
+T4	Markable 140 152	2 black dots
+T5	Markable 204 214	each other
+T6	Markable 177 181	they
+T7	Markable 225 244	the 2 dark grey one
+T8	Markable 261 268	the one
+T9	Markable 389 396	the one
+T10	Markable 424 434	those dots
+T11	Markable 489 491	it
+T12	Markable 535 537	it
+T13	Markable 589 596	the one
+T14	Markable 9 40	two medium sized dark grey dots
+R1	Anaphora Arg1:T2 Arg2:T14	
+R2	Anaphora Arg1:T6 Arg2:T4	
+R3	Anaphora Arg1:T5 Arg2:T4	

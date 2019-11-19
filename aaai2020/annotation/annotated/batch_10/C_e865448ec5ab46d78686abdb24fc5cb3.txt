@@ -1,0 +1,4 @@
+1: Do you see 3 very large dots very very close together?
+0: Do you have three large black dots nearly on top of each other? If so take the one to the right
+0: Take the right one that's just a bit lower
+1: Is the one on the right slightly below the rest? If so click it

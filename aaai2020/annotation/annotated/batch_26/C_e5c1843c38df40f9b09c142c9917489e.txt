@@ -1,0 +1,4 @@
+0: I have 2 dots close together on the right, 1 dark and small, 1 light and medium. dark one is on top
+1: i see those as well
+0: choose the dark one?
+1: sounds good to me

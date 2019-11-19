@@ -1,0 +1,2 @@
+0: dark medium size dot with large medium gray dot above and to right
+1: Yes, let's choose the darker dot.

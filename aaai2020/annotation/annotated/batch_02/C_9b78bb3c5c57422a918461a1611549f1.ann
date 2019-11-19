@@ -1,0 +1,14 @@
+T1	Markable 15 34	one large black dot
+T2	Markable 43 61	the only black dot
+T3	Markable 94 100	itself
+T4	Markable 115 133	one large gray dot
+T5	Markable 173 190	about 3 large one
+T6	Markable 281 283	it
+T7	Markable 310 314	that
+T8	Markable 331 339	that one
+T9	Markable 364 377	the large one
+T10	Markable 382 395	the small one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T11	Markable 194 205	Medium gray
+T12	Markable 218 237	a small medium gray
+T13	Markable 399 408	Large one

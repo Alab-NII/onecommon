@@ -1,0 +1,13 @@
+T1	Markable 52 55	one
+T2	Markable 56 58	it
+T4	Markable 102 123	a largest lighter dot
+T5	Markable 94 96	it
+T6	Markable 158 164	itself
+T7	Markable 180 196	a tiny light dot
+T8	Markable 204 206	it
+T9	Markable 277 295	the tiny light dot
+T10	Markable 3 18	My blackest dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 149 151	it
+R2	Anaphora Arg1:T6 Arg2:T3	
+T11	Markable 230 246	the med grey dot

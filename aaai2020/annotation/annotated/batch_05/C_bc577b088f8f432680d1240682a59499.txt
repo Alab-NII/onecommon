@@ -1,0 +1,4 @@
+0: i see cluster of three dots with darkest medium size dot in middle
+1: I think I see that too - the other dots are a large dark one and a medium one that's slightly lighter.
+0: yes exactly lets choose the middle darkest one!
+1: OK

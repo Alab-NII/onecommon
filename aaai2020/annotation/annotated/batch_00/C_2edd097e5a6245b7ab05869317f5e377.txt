@@ -1,0 +1,4 @@
+0: large dark grey with a small black to upper left
+1: no... medium dark gray by its self
+0: ok i see a medium dark grey by himself with a large black far down to lower right? if yes then well pick that lonely grey
+1: yes

@@ -1,0 +1,6 @@
+T1	Markable 105 120	the smaller one
+T2	Markable 3 11	two dots
+T3	Markable 12 26	very dark dots
+R1	Predicative Arg1:T3 Arg2:T2	
+T4	Markable 51 59	1 medium
+T5	Markable 65 72	smaller

@@ -1,0 +1,3 @@
+0: My largest dot is medium gray and is closest to a small light gray dot.
+1: i believe i have that the small light gray dot is to the left and slightly down
+0: yes. lets select the large dot together

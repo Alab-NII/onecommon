@@ -1,0 +1,18 @@
+T2	Markable 88 107	a cluster of 3 dots
+T3	Markable 118 128	a triangle
+T4	Markable 130 151	A large dark gray one
+T5	Markable 209 226	a medium gray dot
+T6	Markable 266 274	that one
+T7	Markable 317 354	a much larger and slightly darker dot
+T8	Markable 289 311	one tiny dark gray dot
+T9	Markable 380 382	it
+T10	Markable 421 432	the big dot
+T11	Markable 452 468	the smallest one
+T12	Markable 15 28	on light grey
+#1	AnnotatorNotes T12	one light grey
+T13	Markable 33 44	medium grey
+R1	Predicative Arg1:T3 Arg2:T2	
+T1	Markable 160 184	a smaller same sized dot
+A1	No-Referent T6
+R2	Anaphora Arg1:T9 Arg2:T8	
+T14	Markable 386 403	the tiny med grey

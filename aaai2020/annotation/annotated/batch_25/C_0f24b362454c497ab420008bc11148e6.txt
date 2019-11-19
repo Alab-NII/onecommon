@@ -1,0 +1,4 @@
+1: there are two sets of darker dots almost aligned vertically.
+0: Yes, I see that.
+1: lets choose the dot on the top on the right hand side
+0: Perfect

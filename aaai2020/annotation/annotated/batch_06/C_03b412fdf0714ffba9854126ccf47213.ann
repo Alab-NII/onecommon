@@ -1,0 +1,12 @@
+T1	Markable 10 26	a large grey dot
+T2	Markable 70 94	two very small dark dots
+T3	Markable 96 100	they
+T4	Markable 159 166	the one
+T5	Markable 119 126	The one
+T6	Markable 213 227	those two dots
+T7	Markable 277 288	the top one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T8	Markable 228 233	which
+A1	Generic T8
+T9	Markable 186 190	what
+A2	No-Referent T9

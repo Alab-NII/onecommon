@@ -1,0 +1,3 @@
+0: There is a large medium-grey dot that's a little bit away from the others
+1: I see it, is there a large darker grey/black dot up and to the left?
+0: yes, let's pick the light grey one

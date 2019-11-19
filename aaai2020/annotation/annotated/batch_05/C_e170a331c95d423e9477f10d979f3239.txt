@@ -1,0 +1,4 @@
+1: hi, do you see two medium sized gray dots that look nearly identical, right next to each other
+0: yes on right toward top
+1: they're in different spots on each person's screen. but yes. let's pick the right dot.
+0: ok

@@ -1,0 +1,9 @@
+T1	Markable 3 20	one big black dot
+T4	Markable 83 85	it
+T5	Markable 107 131	two smaller lighter dots
+T6	Markable 149 162	the big black
+T7	Markable 34 49	My blackest dot
+T2	None 50 52	it
+#1	AnnotatorNotes T2	is
+T3	Markable 93 95	in
+#2	AnnotatorNotes T3	it

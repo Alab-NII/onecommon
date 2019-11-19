@@ -1,0 +1,9 @@
+T1	Markable 3 26	A string of 4 gray dots
+T2	Markable 33 35	it
+T3	Markable 122 126	that
+T4	Markable 136 157	a string of grey dots
+T5	Markable 203 215	the smallest
+R1	Anaphora Arg1:T2 Arg2:T1	
+T6	Markable 57 80	1 lonely dark grey spot
+A1	No-Referent T3
+T7	Markable 219 229	the string

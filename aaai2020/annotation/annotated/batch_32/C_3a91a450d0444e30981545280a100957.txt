@@ -1,0 +1,3 @@
+0: I have a large black dot with a smaller medium gray dot above and to the right of it. there is a lighter gray smaller dot below and to the left of the large dark one
+1: Yes! Which one should we choose?
+0: Let's pick the large black one

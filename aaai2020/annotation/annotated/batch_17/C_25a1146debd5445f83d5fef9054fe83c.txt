@@ -1,0 +1,5 @@
+1: DO you have a small dark dot with a large medium dot to the left of it over a ways?
+0: no
+1: do you have a medium sized medium colored dot with a slightly smaller dot of the same color almost straight up from it?
+0: yes
+1: lets select the bottom larger dot.

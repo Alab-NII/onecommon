@@ -1,0 +1,2 @@
+0: i have a lone tiny dark grey dot
+1: yes select it

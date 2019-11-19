@@ -1,0 +1,4 @@
+0: Do you have a big dot with a smaller one below it same color ?
+1: it's really smaller? and slightly to it's right? these are on the left of the circle?
+0: Yea its noticeably smaller and its on the left of my circle
+1: ok let's click the smaller one

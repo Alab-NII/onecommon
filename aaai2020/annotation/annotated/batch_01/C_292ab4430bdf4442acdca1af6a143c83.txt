@@ -1,0 +1,7 @@
+0: Hello! wheres your dot?
+1: I see two dots vertical of each other, the top one darker and smaller than the bottom one
+0: Doesn't look like I have that in my circle. How about a large medium shade dot to the left of a smaller light shade dot?
+1: Is the large dot slightly higher than the smaller dot?
+0: No its slightly lower. Probably not the same one. How about a large dark dot by itself with a small light dot to the north west of it?
+1: I don't have that, but I see which one you were talking about before and we can go with the large medium shade dot
+0: ok

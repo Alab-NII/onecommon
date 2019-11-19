@@ -1,0 +1,5 @@
+1: Do you see two small to medium sized dark grey dots that are almost same sized?
+0: are they close to one another with the slightly larger one above and to the right?
+1: Yes
+0: pick the larger one on the top?
+1: Yes

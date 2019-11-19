@@ -1,0 +1,11 @@
+T1	Markable 55 64	a cluster
+T2	Markable 6 14	this one
+T3	Markable 74 90	a dark black one
+T5	Markable 219 242	a medium gray large one
+T6	Markable 187 203	a dark small one
+T7	Markable 184 186	it
+T8	Markable 258 283	the medium gray large one
+T9	Markable 124 147	a dark medium sized dot
+R1	Anaphora Arg1:T7 Arg2:T9	
+T4	Markable 214 218	that
+R2	Anaphora Arg1:T4 Arg2:T6	

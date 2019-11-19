@@ -1,0 +1,22 @@
+T1	Markable 15 37	a very large black one
+T2	Markable 65 89	a really large black dot
+T6	Markable 220 233	the black one
+T7	Markable 107 109	it
+T8	Markable 153 155	it
+T9	Markable 250 274	the other light grey dot
+T10	Markable 296 308	any of those
+T11	Markable 326 346	your large black dot
+T12	Markable 365 378	more than one
+T13	Markable 392 394	it
+T14	Markable 396 419	My very large black dot
+T15	Markable 485 499	a med grey one
+T16	Markable 505 524	a small lighter one
+T17	Markable 561 587	the really large black dot
+R1	Anaphora Arg1:T7 Arg2:T2	
+T18	Markable 110 141	a really light medium sized dot
+T3	Markable 172 196	another really light dot
+A1	No-Referent T10
+A2	No-Referent T12
+R2	Anaphora Arg1:T13 Arg2:T11	
+T4	Markable 528 532	it's
+R3	Anaphora Arg1:T4 Arg2:T15	

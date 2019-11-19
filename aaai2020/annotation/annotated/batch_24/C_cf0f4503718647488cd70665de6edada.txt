@@ -1,0 +1,4 @@
+0: lonely med black dot top left side
+1: yes is there a very light med sized one down to its right?
+0: yes
+1: k click that black one!

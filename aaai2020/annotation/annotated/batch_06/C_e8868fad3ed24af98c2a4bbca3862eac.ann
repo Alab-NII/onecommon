@@ -1,0 +1,20 @@
+T1	Markable 66 80	the bottom one
+T2	Markable 10 20	three dots
+T3	Markable 107 111	Mine
+T4	Markable 212 226	your black dot
+T5	Markable 184 194	my top one
+T6	Markable 236 239	one
+T7	Markable 289 291	it
+T8	Markable 322 324	it
+T9	Markable 327 343	my top black one
+T10	Markable 414 433	a smaller black dot
+T11	Markable 354 362	that one
+T12	Markable 440 442	it
+T13	Markable 479 496	the top black dot
+T15	Markable 500 516	the set of three
+T16	Markable 135 140	Black
+T17	Markable 149 158	dark grey
+T18	Markable 174 179	black
+R1	Anaphora Arg1:T7 Arg2:T4	
+R2	Predicative Arg1:T9 Arg2:T8	
+R3	Anaphora Arg1:T12 Arg2:T11	

@@ -1,0 +1,4 @@
+0: tiny black dot?
+1: i have 1 tiny black dot with a larger grey dot to the right
+0: yes is the larger one med grey? if so click that larger one
+1: ok

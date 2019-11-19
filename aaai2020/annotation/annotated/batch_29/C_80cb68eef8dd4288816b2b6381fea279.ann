@@ -1,0 +1,18 @@
+T1	Markable 59 69	each other
+T2	Markable 110 120	each other
+T3	Markable 165 183	a medium black dot
+T4	Markable 223 233	each other
+T5	Markable 328 331	one
+T6	Markable 357 366	the other
+T7	Markable 290 297	the two
+T8	Markable 386 388	it
+T9	Markable 419 443	a tiniest light gray dot
+T10	Markable 476 495	a tiny pretty light
+T11	Markable 538 546	that one
+T12	Markable 3 17	two small dots
+R1	Anaphora Arg1:T1 Arg2:T12	
+T13	Markable 85 100	two medium dots
+R2	Anaphora Arg1:T2 Arg2:T13	
+T14	Markable 204 213	those two
+R3	Anaphora Arg1:T4 Arg2:T14	
+T15	Markable 238 241	its

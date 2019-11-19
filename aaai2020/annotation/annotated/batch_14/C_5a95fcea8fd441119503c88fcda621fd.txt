@@ -1,0 +1,7 @@
+1: do you see a small dark dot in the upper left?
+0: I have 1 light grey dot, 3 medium shaded dots, and 2 dark shaded dots
+0: I see a small dark dot at 10:00
+1: yes! maybe more like 10:30, but yes
+0: just to make sure, is this dot adjacent to a medium sized and medium shaded dot?
+1: yes, very close
+0: Great, I think it's in common, I will select it now.

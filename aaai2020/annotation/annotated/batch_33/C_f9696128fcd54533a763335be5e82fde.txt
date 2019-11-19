@@ -1,0 +1,5 @@
+0: 2 large dots across from each other one medium grey one dark
+1: I believe I see those. Do you see 2 small grey dots underneath them?
+0: about the same size
+1: I think your view is upside down from mine, but there is a dark grey dot I think we both see
+0: ok lets try it

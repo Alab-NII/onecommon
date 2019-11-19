@@ -1,0 +1,11 @@
+T1	Markable 31 33	it
+T2	Markable 37 55	a smaller grey dot
+T3	Markable 79 83	that
+T4	Markable 140 150	each other
+T5	Markable 152 160	Left one
+T6	Markable 3 21	Black smallish dot
+R1	Anaphora Arg1:T1 Arg2:T6	
+A1	No-Referent T3
+T7	Markable 100 113	two tiny dots
+R2	Anaphora Arg1:T4 Arg2:T7	
+T8	Markable 188 192	left

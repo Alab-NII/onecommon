@@ -1,0 +1,6 @@
+0: I have some lone dots. One is light gray and medium sized?
+1: Are there two dots above it to right a bit
+0: hmm, no...may be too risky. How about a large dark gray dot kind of by itself, theres a small black dot to its north west
+1: I think I see that one
+0: ok you want to click the large dark one?
+1: Yes lets try it

@@ -1,0 +1,4 @@
+1: i see a cluster of a large dark dot above a medium light dot and at a bottom left angle a dark medium dot
+0: very very light small one?
+1: i have a very very small light dot that is at the top of the circle and is in fact on the line of it
+0: okay click that one!

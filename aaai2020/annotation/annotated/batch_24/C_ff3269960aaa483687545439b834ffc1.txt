@@ -1,0 +1,4 @@
+1: Do you have a small light gray dot by itself on the left
+0: triangle of two dark dots with very light grey dot on the right and middle in size?
+1: I see that is there a larger one down and to the left of it
+0: yes! click that very light grey dot in the triangle

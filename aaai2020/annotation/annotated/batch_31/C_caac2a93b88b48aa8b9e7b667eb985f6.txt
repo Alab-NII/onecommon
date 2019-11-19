@@ -1,0 +1,3 @@
+0: Two dots vertical, top one black and smaller, bottom one darkish gray
+1: I only have one black dot. Is the black dot large and is there a smaller dot above it and to the left and a medium dot above it and to the right?
+0: yeah I see that dot, lets choose it

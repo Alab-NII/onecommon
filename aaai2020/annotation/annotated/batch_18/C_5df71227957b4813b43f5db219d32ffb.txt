@@ -1,0 +1,4 @@
+0: Do you have 3 dots close together in a triangle shape?
+1: I have a small black dot right above, slightly to the left of a large dark gray dot
+0: I do too.
+1: pick the small black dot

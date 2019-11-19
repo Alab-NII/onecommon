@@ -1,0 +1,14 @@
+T1	Markable 15 32	2 large gray dots
+T2	Markable 43 52	the other
+T3	Markable 159 175	a dark large dot
+T4	Markable 191 205	the higher one
+T5	Markable 279 304	a darker medium sized dot
+T6	Markable 239 255	the med grey dot
+T7	Markable 346 362	the med gray dot
+T8	Markable 56 70	the higher one
+T9	Markable 88 92	mine
+T10	Markable 123 143	a small med gray dot
+T11	Markable 33 36	one
+T12	Markable 185 189	that
+R1	Predicative Arg1:T4 Arg2:T12	
+T13	Markable 306 309	its

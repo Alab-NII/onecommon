@@ -1,0 +1,4 @@
+0: Do you have one medium sized very dark grey dot?
+1: black med dot with light grey med dot up and to its right?
+0: I would not be able to see that on mine, as it is on the very edge and we are looking at two parts of the same picture. Is there anything at all to it's left? If not, we should select that one
+1: there are dots but they are far away in my picture to the left so i think they are cut out for you. lets click that black one

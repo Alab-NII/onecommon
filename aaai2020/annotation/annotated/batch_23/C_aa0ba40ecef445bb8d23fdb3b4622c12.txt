@@ -1,0 +1,4 @@
+0: My smallest dot is almost small
+1: a large black dot, with a light large dot above it
+0: Let us select the large black
+1: okay

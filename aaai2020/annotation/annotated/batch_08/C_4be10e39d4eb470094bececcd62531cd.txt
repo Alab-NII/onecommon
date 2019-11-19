@@ -1,0 +1,3 @@
+1: i have only one dark medium dot
+0: i have a dark medium dot in between 2 lighter ones from top to bottom
+1: yes. let us select this dark medium dot

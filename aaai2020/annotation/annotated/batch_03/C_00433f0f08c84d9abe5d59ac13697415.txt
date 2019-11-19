@@ -1,0 +1,10 @@
+1: I have two light grey dots. One higher and to the right of the other in the middle of my circle.
+0: Hi. I see two large light grey circles/
+1: Great. Wanna hit the top one?
+0: I'm not sure what is top to you since we have different views
+1: Ok, how many light grey circles do you have in total? is one higher and to the right of the other?
+0: I have two. One is pretty close to two dark circles. One larger and one smaller. The three of them form an isosceles triangle.
+1: Ok. Are the two dark circles above the top light grey dot?
+0: Above the top is subjective since we have different views
+1: Fine. One minute left. How about we hit the bottom light grey dot and hope for the best?
+0: Yes!

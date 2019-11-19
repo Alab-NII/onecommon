@@ -1,0 +1,3 @@
+1: do you see two small dots next to each other different shades- one black ?
+0: Yes, I believe so.
+1: to the left of them is another set of small dots-if you see them, choose the small black one

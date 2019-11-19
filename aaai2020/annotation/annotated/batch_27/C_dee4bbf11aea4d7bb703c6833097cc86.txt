@@ -1,0 +1,4 @@
+1: The almost same size tiny dots forming a triangle
+0: is the bottom point the darkest and the upper right the smallest?
+1: The bottom is not the darkest. My darkest is the one in the middle
+0: ok pick the darkest one

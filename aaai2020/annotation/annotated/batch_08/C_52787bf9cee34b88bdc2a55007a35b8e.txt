@@ -1,0 +1,5 @@
+1: 4 dots in a loose diamond. large dark one in the lower left corner
+0: yes is the one that is to the right of the lower dark one... like a med gray? and larger?
+1: it's smaller and the same color
+0: ok not the same thing... looking to the left... of that darker dot... is is smaller and dark gray its above...and to the left
+1: yes. pick it

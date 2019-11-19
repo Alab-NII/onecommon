@@ -1,0 +1,3 @@
+0: i only have one dark dot it is larger in size near midline right sized
+1: Hello. Yes, I think I have that. I have the largest, darkest gray dot, and all the other dots are lighter and to the right of it. Shall we select that large gray one?
+0: yes! lets try that one!

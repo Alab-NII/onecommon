@@ -1,0 +1,4 @@
+1: Two tiny same size and color dots close
+0: Are they both black small dot
+1: yes select the one below
+0: Okay

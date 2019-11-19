@@ -1,0 +1,5 @@
+1: large dark dot and large gray dot?
+0: do you see 2 black dots with the bigger one above the other one?...for the ones you asked about...is the gray dot light and to the right of the black dot?
+1: yes!
+0: click the light dot!
+1: okay!

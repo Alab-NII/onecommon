@@ -1,0 +1,4 @@
+0: Small light gray dot by itself
+1: I think I got it
+0: Towards the middle
+1: Yep

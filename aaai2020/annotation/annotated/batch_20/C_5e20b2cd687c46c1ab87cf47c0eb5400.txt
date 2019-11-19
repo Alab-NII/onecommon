@@ -1,0 +1,4 @@
+1: two smaller dots almost on a vertical line?
+0: . no. One large black dot with smaller dots to the right?
+1: is there a slightly smaller and lighter dot down to its right? if so click that large dark one
+0: Yes

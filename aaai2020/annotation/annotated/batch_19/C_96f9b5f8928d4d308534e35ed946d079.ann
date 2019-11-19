@@ -1,0 +1,8 @@
+T2	Markable 15 34	a line of four dots
+T3	Markable 46 61	2 med dark dots
+T4	Markable 70 80	each other
+T5	Markable 88 92	they
+T6	Markable 168 172	them
+T7	Markable 133 159	a smaller lighter gray one
+T8	Markable 215 235	the lighter gray one
+R1	Anaphora Arg1:T4 Arg2:T3	

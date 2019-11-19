@@ -1,0 +1,8 @@
+T1	Markable 25 51	a grey slightly larger dot
+T2	Markable 85 87	it
+T3	Markable 119 132	the black one
+T4	Markable 100 102	it
+T5	Markable 115 117	it
+T6	Markable 3 20	my only black dot
+R1	Anaphora Arg1:T2 Arg2:T6	
+R2	Cataphora Arg1:T5 Arg2:T3	

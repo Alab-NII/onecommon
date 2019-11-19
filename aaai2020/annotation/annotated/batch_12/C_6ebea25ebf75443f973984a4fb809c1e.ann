@@ -1,0 +1,11 @@
+T1	Markable 22 28	3 dots
+T2	Markable 59 70	the top one
+T3	Markable 101 105	They
+T4	Markable 119 125	a line
+T5	Markable 211 213	it
+T6	Markable 221 240	the top smaller one
+T7	Markable 295 308	the black one
+R1	Predicative Arg1:T4 Arg2:T3	
+R2	Anaphora Arg1:T3 Arg2:T1	
+T8	Markable 134 137	one
+R3	Anaphora Arg1:T5 Arg2:T8	

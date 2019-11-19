@@ -1,0 +1,6 @@
+1: Do you have one large medium gray dot?
+0: I have many of those.
+1: What about one large black dot?
+0: is it close to anything else?
+1: Not on my screen, but the large black dot that I have is noticeably large than the other black dots that I have.
+0: Hmmm...

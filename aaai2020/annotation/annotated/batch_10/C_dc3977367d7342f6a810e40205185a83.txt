@@ -1,0 +1,7 @@
+0: I see a relatively large black dot slightly to the right of the center
+1: Do you see two medium shade grey dots very close together?
+0: nope
+1: Is there a dot medium shade grey dot very close to that large black dot?
+0: yeah
+1: Which did you click?? The black dot?
+0: yeah, sorry I actually didn't know it would submit it automatically like that

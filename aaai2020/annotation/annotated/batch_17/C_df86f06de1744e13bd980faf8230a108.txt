@@ -1,0 +1,4 @@
+0: lonely large medium grey dot?
+1: yes i see that
+0: choose that?
+1: ok

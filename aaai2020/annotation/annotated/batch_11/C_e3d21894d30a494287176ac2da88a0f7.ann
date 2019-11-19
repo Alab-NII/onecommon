@@ -1,0 +1,7 @@
+T1	Markable 28 43	a diagonal pair
+T2	Markable 10 24	two small dots
+T3	Markable 63 72	the other
+T4	Markable 82 96	the bottom one
+T5	Markable 142 156	the darker one
+R1	Predicative Arg1:T1 Arg2:T2	
+T6	Markable 47 57	one darker

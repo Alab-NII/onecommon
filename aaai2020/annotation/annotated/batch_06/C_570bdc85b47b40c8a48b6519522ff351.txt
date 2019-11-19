@@ -1,0 +1,5 @@
+0: One very dark medium sized dot in the center of the rest
+1: no,i don't have that, i have one lone black small dot
+0: K Is there anything near it at all?
+1: not really
+0: K lets pick that small black dot

@@ -1,0 +1,5 @@
+1: I see two black dots
+0: i see 4 bigger dark dots 1 very small dark dot and 2 smaller light dots
+1: I see the 4 larger dots and one small dark dot. One light grey dot
+0: the small dark dot is somewhat in a triangle to two other dark dots
+1: Yes. Lets pick that small dot. I didnt realize i clicked on it.

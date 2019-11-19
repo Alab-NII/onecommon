@@ -1,0 +1,9 @@
+T1	Markable 10 20	three dots
+T2	Markable 24 57	an almost perfect horizontal line
+T3	Markable 59 66	The one
+T4	Markable 106 113	The one
+T5	Markable 155 162	The one
+T6	Markable 213 226	the other two
+T7	Markable 239 243	that
+T8	Markable 250 264	the middle one
+R1	Predicative Arg1:T2 Arg2:T1	

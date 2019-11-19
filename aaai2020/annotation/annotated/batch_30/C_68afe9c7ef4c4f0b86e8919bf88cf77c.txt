@@ -1,0 +1,4 @@
+1: I have three dark dots one big one on the bottom, med dot on the right side and the small dot on the top.
+0: Do you see two dark dots one small?, one medium, both on the upper left , sitting on a horizontal line
+1: which one did you choose.
+0: The smallest one

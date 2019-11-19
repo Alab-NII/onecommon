@@ -1,0 +1,5 @@
+0: three very dark larger dots in a triangle?
+1: one is not very dark
+0: hmm is the one furthest up the smallest and darkest?
+1: yes
+0: k click that one

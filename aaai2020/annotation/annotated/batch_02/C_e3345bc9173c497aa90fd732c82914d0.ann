@@ -1,0 +1,10 @@
+T1	Markable 62 84	a large light gray dot
+T2	Markable 107 118	darker dots
+T3	Markable 197 207	a triangle
+T4	Markable 215 233	the big light gray
+T5	Markable 260 274	the light gray
+T6	Markable 10 24	one light grey
+T7	Markable 120 124	This
+R1	Anaphora Arg1:T7 Arg2:T1	
+T8	Markable 170 186	hose darker dots
+R2	Predicative Arg1:T3 Arg2:T8	

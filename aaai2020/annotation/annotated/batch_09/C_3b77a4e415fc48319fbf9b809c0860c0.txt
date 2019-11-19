@@ -1,0 +1,4 @@
+0: Do you see a small dark dot next to a large medium grey dot?
+1: no, i have a gray dot at 3 o'clock
+0: hmm... how about a light large dot that is down and left of a darker grey dot and up and left from a similar looking dot?
+1: yes i think i have that one
