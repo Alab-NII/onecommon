@@ -224,6 +224,4 @@ If it is not predictable, leave the errors as is and make the best effort to ide
 
 0: I meant dark
 
-Finally, it is always recommended to check each player's view when you find difficulty in annotating markables:
-
-https://www.onecommon-tokyo.com/takuma/annotation
+Finally, it is always recommended to check each player's view when you find difficulty in annotating markables.
