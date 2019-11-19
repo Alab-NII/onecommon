@@ -1,12 +1,10 @@
 # An Annotated Corpus of Reference Resolution for Interpreting Common Grounding
 
-Repository for "An Annotated Corpus of Reference Resolution for Interpreting Common Grounding" (Udagawa and Aizawa, AAAI 2020)
+Repository for [An Annotated Corpus of Reference Resolution for Interpreting Common Grounding](https://arxiv.org/abs/1911.07588) (Udagawa and Aizawa, AAAI 2020)
 
 ## Annotation Collection and Analysis
 
-Annotation scripts are provided in [annotation]((https://github.com/Alab-NII/onecommon/tree/master/aaai2020/annotation) subdirectory.
-
-First, we need to transform raw dialogues into [brat annotatable format]((https://brat.nlplab.org)).
+All materials related to annotation collection and dataset analysis are provided in the [annotation](https://github.com/Alab-NII/onecommon/tree/master/aaai2020/annotation) subdirectory. After you moved to the subdirectory, you can transform the raw dialogues into [brat annotatable format](https://brat.nlplab.org).
 
 In order to automatically detect (minimal) noun phrases, follow <https://github.com/nltk/nltk/wiki/Stanford-CoreNLP-API-in-NLTK> and make sure Stanford CoreNLP can be used from nltk. We only use successful dialogues, and we also preprocess raw dialogues to fix obvious misspellings and grammatical errors. To do this, run
 
@@ -14,7 +12,7 @@ In order to automatically detect (minimal) noun phrases, follow <https://github.
 python reference_annotation.py --output_brat_format --success_only --correct_misspellings --replace_strings
 ```
 
-After detecting markables based on our guidelines (`markable_detection.md`), convert it into json format to annotate referents based on our web interface:
+After detecting markables based on our guidelines (`markable_detection.md`), convert it into json format so that we can annotate the referents based on our web application:
 
 ```
 python reference_annotation.py --output_markable_annotation
@@ -87,7 +85,7 @@ referent_annotation.json
 
 ## Experiments
 
-To generate data for experiments, go to `annotation` directory and run
+To generate the training, validation and test data for experiments, move to [annotation](https://github.com/Alab-NII/onecommon/tree/master/aaai2020/annotation) subdirectory and run
 
 ```
 python transform_referents_to_txt.py --normalize
@@ -96,7 +94,7 @@ python transform_scenarios_to_txt.py --normalize --input_file shared_5.json --ou
 python transform_scenarios_to_txt.py --normalize --input_file shared_6.json --output_file shared_6.txt
 ```
 
-Other experimental scripts are provided in `experiments` directory.
+All other experimental scripts are provided in the [experiments](https://github.com/Alab-NII/onecommon/tree/master/aaai2020/experiments) subdirectory.
 
 To train the models described in the paper, use `train_tsel_model.sh`, `train_ref_model.sh`, `train_tsel_ref_model.sh`, `train_tsel_dial_model.sh` and `train_tsel_ref_dial_model.sh`.
 
@@ -127,9 +125,10 @@ To do this, run
 ```
 python train_markables.py --bsz 1 --nhid_lang 256 --unk_threshold 10 --model_file markable_detector --seed 1
 ```
-Pretrained model is also available (`markable_detector_1.th`)
 
-Then, you should run
+A pretrained model is also available (`markable_detector_1.th`)
+
+Then, you can run
 ```
 python selfplay.py --alice_model_file tsel_ref_dial_model --bob_model_file tsel_ref_dial_model --temperature 0.25 --context_file shared_5 --cuda --seed 1 --record_markables
 ```
