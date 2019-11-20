@@ -4,15 +4,15 @@ Repository for [An Annotated Corpus of Reference Resolution for Interpreting Com
 
 ## Annotation Collection and Analysis
 
-All materials related to annotation collection and dataset analysis are provided in the [annotation](https://github.com/Alab-NII/onecommon/tree/master/aaai2020/annotation) subdirectory. After you moved to the subdirectory, you can transform the raw dialogues into [brat annotatable format](https://brat.nlplab.org).
+All materials related to annotation collection and dataset analysis are provided in the [annotation](https://github.com/Alab-NII/onecommon/tree/master/aaai2020/annotation) subdirectory. 
 
-In order to automatically detect (minimal) noun phrases, follow <https://github.com/nltk/nltk/wiki/Stanford-CoreNLP-API-in-NLTK> and make sure Stanford CoreNLP can be used from nltk. We only use successful dialogues, and we also preprocess raw dialogues to fix obvious misspellings and grammatical errors. To do this, run
+In this subdirectory, you can transform the raw dialogues (`final_transcripts.json`) into [brat annotatable format](https://brat.nlplab.org). In order to automatically detect (minimal) noun phrases, follow <https://github.com/nltk/nltk/wiki/Stanford-CoreNLP-API-in-NLTK> and make sure Stanford CoreNLP can be used from nltk. We only use successful dialogues, and we also preprocess raw dialogues to fix obvious misspellings and grammatical errors. To do this, run
 
 ```
 python reference_annotation.py --output_brat_format --success_only --correct_misspellings --replace_strings
 ```
 
-After detecting markables based on our guidelines (`markable_detection.md`), convert it into json format so that we can annotate the referents based on our web application:
+After manually annotating markables based on brat (see `annotation.conf` for configuration) and our guidelines (`markable_detection.md`), convert it into json format so that we can annotate the referents based on the visual interface of our web application:
 
 ```
 python reference_annotation.py --output_markable_annotation
@@ -24,7 +24,7 @@ Based on the collected referent annotation, you can create gold annotation throu
 python reference_annotation.py --referent_aggregation
 ```
 
-To compute agreement statistics, run 
+To compute agreement statistics for markable detection and referent identification, run 
 
 ```
 python reference_annotation.py --markable_agreement --batch_id batch_33
