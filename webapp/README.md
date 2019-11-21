@@ -1,6 +1,6 @@
 # Web Application for ONECOMMON Corpus
 
-This is the repository of the web application which is convenient for dealing with ONECOMMON corpus.
+This is the repository of the web application which is convenient for dealing with OneCommon corpus.
 
 # Functionalities for AAAI2019
 
