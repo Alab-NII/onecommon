@@ -1,4 +1,4 @@
-# Web Application for ONECOMMON Corpus
+# Web Application for OneCommon Corpus
 
 This is the repository of the web application which is convenient for dealing with OneCommon corpus.
 
