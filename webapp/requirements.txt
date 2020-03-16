@@ -8,7 +8,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.3
 MarkupSafe==1.1.1
 numpy==1.13.3
-psutil==5.6.5
+psutil==5.6.6
 python-engineio==3.10.0
 python-socketio==4.3.1
 six==1.13.0
