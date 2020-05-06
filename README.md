@@ -5,6 +5,8 @@ This is the repository of our OneCommon corpus, which is introduced in the follo
 * (1) [A Natural Language Corpus of Common Grounding under Continuous and Partially-Observable Context](https://aaai.org/ojs/index.php/AAAI/article/view/4694) (Udagawa and Aizawa, AAAI 2019)
 * (2) [An Annotated Corpus of Reference Resolution for Interpreting Common Grounding](https://arxiv.org/abs/1911.07588) (Udagawa and Aizawa, AAAI 2020)
 
+Dataset is also available on Facebook's dialogue platform [ParlAI](https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/onecommon).
+
 # AAAI 2019
 
 All related materials are available in the [aaai2019](https://github.com/Alab-NII/onecommon/tree/master/aaai2019) subdirectory.
