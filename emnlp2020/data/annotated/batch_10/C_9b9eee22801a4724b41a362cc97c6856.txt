@@ -1,0 +1,3 @@
+0: I have six different gray shades of dots scattered on the left of my circle with one large black dot by itself on the right side of my circle.
+1: Nice! Is that black dot kind of isolated?
+0: yes!

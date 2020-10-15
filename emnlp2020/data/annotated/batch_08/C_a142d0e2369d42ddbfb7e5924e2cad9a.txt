@@ -1,0 +1,7 @@
+1: one dark small dot touching the border?
+0: do you see a very small black dot with a slightly larger, smaller dot below and to the left
+1: if this black small dot is touching the border, let us select that
+0: its not touching the border. our views are centered differently.
+1: do you have a grey small dot in line with two larger grey dots not in a vertical line
+0: yes? it it below a larger, slightly darker dot
+1: let us select that small grey

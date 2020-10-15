@@ -1,0 +1,18 @@
+T1	Markable 10 23	two dark dots
+T2	Markable 27 33	a line
+T3	Markable 61 71	each other
+T4	Markable 116 119	one
+T6	Markable 99 115	the lighter dots
+T7	Markable 156 169	a smaller one
+T9	Markable 191 193	it
+T10	Markable 213 229	a dark large dot
+T11	Markable 331 341	a grey dot
+T12	Markable 309 321	the dark one
+T13	Markable 384 397	the other dot
+T15	Markable 351 355	they
+T16	Markable 467 477	the darker
+T17	Markable 481 485	them
+R1	Predicative Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+R3	Anaphora Arg1:T9 Arg2:T4	
+T5	Markable 272 276	Mine

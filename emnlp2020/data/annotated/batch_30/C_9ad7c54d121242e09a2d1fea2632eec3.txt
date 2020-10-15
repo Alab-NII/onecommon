@@ -1,0 +1,4 @@
+0: I see two dark dots
+1: The largest dot i have is one of the blackest
+0: Towards the top right side?
+1: It has a very tiny light one close to the left down

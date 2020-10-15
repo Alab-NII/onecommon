@@ -1,0 +1,10 @@
+T1	Markable 68 72	that
+T2	Markable 74 78	they
+T3	Markable 148 163	that bottom one
+T4	Markable 194 202	that one
+T5	Markable 3 22	two very darks dots
+T6	Markable 23 26	top
+T7	Markable 107 117	the bottom
+T8	Markable 168 170	it
+R1	Anaphora Arg1:T3 Arg2:T7	
+R2	Anaphora Arg1:T4 Arg2:T8	

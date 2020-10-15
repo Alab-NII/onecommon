@@ -1,0 +1,3 @@
+1: Do you have three black dots all close and horizontal.
+0: yes, lets select the middle one
+1: Cool

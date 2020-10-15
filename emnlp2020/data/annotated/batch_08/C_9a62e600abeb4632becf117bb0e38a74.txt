@@ -1,0 +1,4 @@
+0: Do you see one dot that is darker than all the others?
+1: i have 1 large black dot 2 small black one med black one large grey and two small grey
+0: I have 2 small grey. Let's click on the small grey on the right.
+1: ok

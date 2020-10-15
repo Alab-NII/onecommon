@@ -1,0 +1,4 @@
+0: do you have a larger gray dot near the center?
+1: three dots almost in a vertical line, medium small small
+0: Correct, I have that
+1: ok, choose the top one

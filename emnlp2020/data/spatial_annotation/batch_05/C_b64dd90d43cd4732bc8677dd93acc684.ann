@@ -1,0 +1,9 @@
+T1	Markable 10 30	one medium black dot
+T2	Markable 68 72	that
+T3	Markable 84 106	a group of 2 grey dots
+T4	Markable 124 144	The most western dot
+T5	Markable 156 160	They
+T6	Markable 197 201	that
+T7	Markable 217 231	the bigger dot
+A1	No-Referent T2
+R1	Anaphora Arg1:T5 Arg2:T3	

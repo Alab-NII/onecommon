@@ -1,0 +1,2 @@
+1: tiny black dot close to a large dark grey dot?
+0: yes if the larger dot is to the left click that one!

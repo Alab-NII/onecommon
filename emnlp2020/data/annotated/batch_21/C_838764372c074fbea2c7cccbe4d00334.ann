@@ -1,0 +1,29 @@
+T1	Markable 10 33	two very tiny dark dots
+T2	Markable 35 46	One of them
+T4	Markable 57 63	itself
+T5	Markable 105 125	two small black dots
+T6	Markable 165 169	them
+T7	Markable 203 207	that
+T8	Markable 216 249	a very large medium dark gray dot
+T9	Markable 292 295	one
+T10	Markable 362 366	that
+T11	Markable 464 474	each other
+T12	Markable 380 388	two dots
+T13	Markable 500 509	the other
+T14	Markable 524 548	two very small dark ones
+T15	Markable 561 576	a vertical line
+T16	Markable 606 613	the one
+T17	Markable 626 642	a light gray dot
+T18	Markable 668 688	that little dark one
+R1	Anaphora Arg1:T4 Arg2:T2	
+T3	Markable 75 89	all the others
+T19	Markable 131 148	a bigger gray dot
+R2	Anaphora Arg1:T6 Arg2:T5	
+A1	No-Referent T7
+A2	No-Referent T10
+T20	Markable 433 436	the
+#1	AnnotatorNotes T20	they
+R3	Anaphora Arg1:T20 Arg2:T12	
+R4	Anaphora Arg1:T11 Arg2:T12	
+T21	Markable 477 480	one
+R5	Predicative Arg1:T15 Arg2:T14	

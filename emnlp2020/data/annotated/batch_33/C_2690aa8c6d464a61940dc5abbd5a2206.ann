@@ -1,0 +1,11 @@
+T1	Markable 65 70	yours
+T2	Markable 74 80	itself
+T3	Markable 43 60	two of those dots
+T4	Markable 90 105	a tiny dark dot
+T5	Markable 123 129	itself
+T6	Markable 116 119	one
+T7	Markable 163 165	it
+T8	Markable 188 190	it
+T9	Markable 3 17	my largest dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T5 Arg2:T6	

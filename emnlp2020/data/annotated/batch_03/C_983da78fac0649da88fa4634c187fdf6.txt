@@ -1,0 +1,4 @@
+0: I see a very large dark circle
+1: yes almost in the middle but shifter a little to the left
+0: YES
+1: let's lock it

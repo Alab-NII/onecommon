@@ -1,0 +1,8 @@
+0: hi there is a large medium size and shade dot on top of the circle
+1: i have a V that is almost upside down of 5 dots. various colors and most the same size except one
+0: ok i got that two, i'm gonna start describing starting at top and going down right then back up again
+1: I have a medium size medium gray dot at the top 12 o clock position
+1: ok
+0: me too, then darker dot smallish, then larger dot medium gray, then smallish light gray, then smallish light gray
+1: Lets choose the one at the point of the V
+0: got it

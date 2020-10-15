@@ -1,0 +1,21 @@
+T1	Markable 36 51	a big light one
+T2	Markable 14 30	a small dark one
+T3	Markable 117 129	a darker one
+T4	Markable 148 150	it
+T5	Markable 184 199	three large one
+T6	Markable 166 171	yours
+T7	Markable 251 267	the smallest dot
+T8	Markable 287 309	two darkest small dots
+T9	Markable 314 325	one lighter
+T10	Markable 331 338	the two
+T11	Markable 372 382	a dark one
+T12	Markable 399 414	the lighter one
+T13	Markable 55 58	its
+R1	Anaphora Arg1:T13 Arg2:T2	
+T14	Markable 86 108	a lightest largest dot
+A1	No-Referent T4
+A2	No-Referent T6
+T15	Markable 205 223	an upside down "v"
+R2	Predicative Arg1:T15 Arg2:T5	
+R3	Anaphora Arg1:T10 Arg2:T8	
+T16	Markable 343 354	the lighter

@@ -1,0 +1,15 @@
+T1	Markable 35 42	the one
+T2	Markable 10 16	5 dots
+T3	Markable 100 120	the bottom right dot
+T4	Markable 149 160	the top one
+T5	Markable 134 142	the ones
+T6	Markable 186 201	large dark ones
+T7	Markable 215 226	the top one
+T8	Markable 298 314	the smallest one
+T9	Markable 255 265	a triangle
+T10	Markable 24 34	a pentagon
+R1	Predicative Arg1:T10 Arg2:T2	
+A1	No-Referent T3
+T11	Markable 235 248	the small one
+T12	Markable 271 288	2 large dark dots
+R2	Anaphora Arg1:T8 Arg2:T11	

@@ -1,0 +1,8 @@
+1: I have one small gray dot at the top left edge of the circle touching the line
+0: I have one smaller grey, (not the smallest) touching the line at the bottom left 7 oclock ish
+1: no I don't have that one... ok... I have a medium gray dot mid circle with a smaller possibly lighter dot almost directly below it
+0: no, how about a black dot with a smaller medium grey below it?
+1: is the gray dot to the right below it?
+0: yes to the right of it
+1: lets do the black dot
+0: ok

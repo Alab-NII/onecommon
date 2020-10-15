@@ -1,0 +1,11 @@
+T1	Markable 80 99	smaller lighter dot
+T2	Markable 77 79	it
+T3	Markable 121 123	it
+T4	Markable 3 16	Big black dot
+T5	Markable 30 38	not dots
+A1	No-Referent T5
+#1	AnnotatorNotes T5	no dots
+T6	Markable 48 59	Dark medium
+R1	Anaphora Arg1:T2 Arg2:T6	
+T7	Markable 133 152	the big medium gray
+T8	Markable 103 112	Dark grey

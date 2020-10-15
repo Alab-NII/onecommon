@@ -1,0 +1,4 @@
+1: Let us start with one to three o clock quadrant. DO you have the biggest darkest dot
+0: No! Do you have a small dark gray dot all the way to the bottom
+1: No, follow this lead it works. How many dots do you have in twelve to three o clock quadrant
+0: I think I got you! Yes I do see the Biggest Darkest (Black) dot on three o clock! Lets click on that

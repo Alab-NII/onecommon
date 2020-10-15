@@ -1,0 +1,4 @@
+0: do you have a tiny dark dot with a larger one up to it's left right next to it?
+1: ok. medium grey dot with a tiny darker one at it's 5
+0: sounds the same, choose the tiny one?
+1: yup. sounds good to me

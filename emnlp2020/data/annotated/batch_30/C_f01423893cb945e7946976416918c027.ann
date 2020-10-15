@@ -1,0 +1,5 @@
+T1	Markable 9 17	five dot
+T2	Markable 26 32	a line
+T3	Markable 90 92	it
+R1	Predicative Arg1:T2 Arg2:T1	
+T4	Markable 44 54	the middle

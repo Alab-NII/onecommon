@@ -1,0 +1,5 @@
+1: I see 3 dots somewhat forming a triangle
+0: Is one of them tiny light grey?
+1: yes
+0: Ok, I only have one tiny light grey, you too?
+1: yes, let's choose that one

@@ -1,0 +1,40 @@
+T1	Markable 10 38	one lighter gray, medium dot
+T2	Markable 187 202	many other dots
+T3	Markable 150 169	one medium gray dot
+T4	Markable 249 268	a larger darker one
+T7	Markable 220 224	that
+T8	Markable 302 327	a smaller and lighter one
+T9	Markable 359 381	the darker, bigger one
+T10	Markable 66 79	a tiny circle
+T11	Markable 95 110	a larger circle
+T12	Markable 134 139	yours
+A1	No-Referent T12
+A2	No-Referent T7
+T13	Markable 238 247	2 circles
+T5	Spatial-Relation 14 26	lighter gray
+A3	No-Obj T5
+T6	Spatial-Relation 39 49	on an edge
+A4	No-Obj T6
+T14	Modifier 80 88	directly
+T15	Spatial-Relation 89 94	above
+T16	Spatial-Relation 97 103	larger
+R1	Obj Arg1:T16 Arg2:T10	
+T17	Modifier 170 173	all
+T18	Spatial-Relation 174 179	alone
+A5	No-Obj T18
+T19	Spatial-Relation 181 186	below
+T20	Spatial-Relation 251 257	larger
+T21	Spatial-Relation 258 264	darker
+T22	Modifier 272 278	slight
+T23	Spatial-Relation 279 301	to the right and below
+T25	Spatial-Relation 304 311	smaller
+T26	Spatial-Relation 316 323	lighter
+R2	Obj Arg1:T25 Arg2:T4	
+R3	Obj Arg1:T26 Arg2:T4	
+T24	Spatial-Relation 363 369	darker
+T27	Spatial-Relation 371 377	bigger
+R4	Obj Arg1:T24 Arg2:T13	
+R5	Obj Arg1:T27 Arg2:T13	
+#1	AnnotatorNotes T6	outside
+A6	Mod-Certainty-Exactness T17
+A7	Mod-Subtlty T22

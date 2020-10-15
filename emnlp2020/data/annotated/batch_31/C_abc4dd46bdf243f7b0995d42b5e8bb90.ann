@@ -1,0 +1,9 @@
+T1	Markable 9 27	a lonely black dot
+T2	Markable 41 55	any black dots
+T3	Markable 63 84	a small dark grey dot
+T4	Markable 112 133	a tiny light grey dot
+T5	Markable 94 96	it
+T6	Markable 143 148	those
+T7	Markable 163 184	a tiny light gray dot
+A1	No-Referent T2
+R1	Anaphora Arg1:T5 Arg2:T3	

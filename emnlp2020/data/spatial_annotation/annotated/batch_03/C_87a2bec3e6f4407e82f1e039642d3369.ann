@@ -1,0 +1,25 @@
+T3	Markable 174 183	the point
+T6	Markable 51 86	a cluster of three small light dots
+T7	Markable 150 168	the light triangle
+T8	Markable 213 224	the top dot
+T9	Markable 228 240	the triangle
+T10	Markable 3 19	three small dots
+T11	Markable 91 142	another cluster of two same sized medium black dots
+T1	Spatial-Relation 25 40	form a triangle
+A1	No-Obj T1
+T2	Spatial-Relation 53 60	cluster
+A2	No-Obj T2
+T4	Spatial-Relation 99 106	cluster
+A3	No-Obj T4
+T5	Spatial-Relation 114 124	same sized
+A4	No-Obj T5
+T12	Spatial-Relation 160 168	triangle
+A5	No-Obj T12
+T14	Spatial-Relation 184 199	towards the top
+R1	Obj Arg1:T14 Arg2:T7	
+T15	Spatial-Relation 178 183	point
+R2	Obj Arg1:T15 Arg2:T7	
+T16	Spatial-Relation 217 220	top
+T17	Spatial-Relation 225 227	in
+T18	Spatial-Relation 232 240	triangle
+A6	No-Obj T18

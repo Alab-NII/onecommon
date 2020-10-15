@@ -1,0 +1,12 @@
+T1	Markable 71 81	each other
+T2	Markable 128 151	a larger light gray dot
+T3	Markable 122 124	it
+T4	Markable 83 100	Smaller black dot
+T5	Markable 172 193	the smaller black one
+T6	Markable 3 20	A small black dot
+T7	Markable 28 51	a medium very light dot
+T8	Markable 55 61	2 dots
+R1	Anaphora Arg1:T1 Arg2:T8	
+R2	Anaphora Arg1:T3 Arg2:T4	
+T9	None 105 108	the
+#1	AnnotatorNotes T9	to

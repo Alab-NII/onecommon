@@ -1,0 +1,8 @@
+1: to dots about the same size. One is dark on the top to the left of the lighter dot
+0: i'm not sure if i am seeing that
+1: I have a zigzag line
+0: i do not see that. do you have a black dot with a light grey dot that is the same size? the light one is higher and to the right of the black dot.
+1: no do you have a big black dot with a small light dot
+0: i have a black dot with a small lighter dot very close together. the light one is to the right of the black one
+1: yes chose the black dot
+0: ok

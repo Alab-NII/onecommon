@@ -1,0 +1,14 @@
+T1	Markable 25 33	triangle
+T3	Markable 69 81	the triangle
+T4	Markable 172 184	the triangle
+T5	Markable 103 115	a fourth dot
+T6	Markable 135 143	the rest
+T7	Markable 90 92	it
+T8	Markable 206 217	biggest one
+T10	None 227 230	one
+T11	Markable 3 17	three dark dot
+R1	Predicative Arg1:T1 Arg2:T11	
+T12	Markable 35 46	biggest one
+R2	Anaphora Arg1:T7 Arg2:T3	
+T2	Markable 161 168	the top
+#1	AnnotatorNotes T10	on

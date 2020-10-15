@@ -1,0 +1,7 @@
+0: can you see one small grey dot and one dark big dot close to each other
+1: do u have two really light dots the one on the top and over to the left is slightly smaller? theres a medium grey dot above both, kind in between them
+0: no I cant see it.
+1: ok the ones u said, is there a dot way to the right the size, is in between the small and large ones and its darker than both of those two?
+0: yes
+1: ok, lets pick the lightest one of those three
+0: ok

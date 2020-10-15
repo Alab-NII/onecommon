@@ -1,0 +1,5 @@
+1: They are mostly in a vertical line towards the right side. Except for one large one on the right side.
+0: yes i see the vertical line, do you see the light dot with a medium dot slightly below it and to the left
+1: yes
+0: okay, do you want to choose the light dot?
+1: yes

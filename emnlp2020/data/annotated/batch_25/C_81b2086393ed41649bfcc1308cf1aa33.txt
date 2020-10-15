@@ -1,0 +1,3 @@
+1: I have to darker dots at the bottom
+0: i dont see that. i see two dots close together nearly vertical line. bottom is smaller dark dot, top is light grey dot slightly larger
+1: Perfect. Pick the smaller dark dot

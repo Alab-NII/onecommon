@@ -1,0 +1,8 @@
+0: Hi, how many dots do you see?
+1: 7 dots
+0: Is there one at the bottom alone?
+1: No, only one towards the top right alone
+0: Is it a little larger than the others? And darker?
+1: Yes, larger and darker
+0: Maybe that is the one we both have alike. Should we click that one?
+1: Yes

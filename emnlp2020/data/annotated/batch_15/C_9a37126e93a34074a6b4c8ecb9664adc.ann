@@ -1,0 +1,7 @@
+T1	Markable 15 33	a triangle of dots
+T3	Markable 59 75	Cluster of three
+T4	Markable 88 107	One tiny light grey
+T5	Markable 123 141	a bigger black dot
+T6	Markable 202 221	the small light one
+T2	Markable 174 188	the same thing
+A1	Generic T2

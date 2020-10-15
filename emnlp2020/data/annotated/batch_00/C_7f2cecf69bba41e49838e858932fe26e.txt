@@ -1,0 +1,6 @@
+0: i have one lonely gray dot on the bottom of the circle, two dots near the middle the left one is light gray the right one is slightly smaller and dark gray
+1: I think I see the same two dots in the middle
+0: is your dark gray dot pretty much middle of the circle?
+1: yes, and smaller than the light grey dot to the left of it
+0: lets pick that one!
+1: ok

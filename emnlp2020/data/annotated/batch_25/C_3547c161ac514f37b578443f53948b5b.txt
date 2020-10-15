@@ -1,0 +1,6 @@
+1: almost centered large light dot
+0: no
+1: almost centered top large dark dot close to line not touching, its slightly left. To the right of it is a smaller light dot nearly centered close to line not touching
+0: i dont have that do you have any tiny black dots
+1: tiny black dot bottom left with a larger lighter dot to its right
+0: ok select that tiny black dot

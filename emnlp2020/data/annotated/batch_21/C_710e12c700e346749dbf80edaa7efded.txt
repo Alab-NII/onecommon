@@ -1,0 +1,6 @@
+0: Do you see two dark gray dots next to one another, one slightly darker than the other
+1: a large grey dot, with smaller the same color dot under it, to the left
+1: darker is smaller?
+0: Yes
+1: which one should we select?
+0: smaller one

@@ -1,0 +1,49 @@
+T1	Markable 6 22	the smallest one
+T2	Markable 123 125	it
+T3	Markable 57 59	It
+T4	Markable 64 67	one
+T5	Markable 157 170	a lighter dot
+T6	Markable 177 179	it
+T7	Markable 189 191	it
+T8	Markable 245 262	another black one
+T9	Markable 217 239	a very large black one
+T10	Markable 344 351	the one
+T11	Markable 334 342	that one
+R1	Anaphora Arg1:T2 Arg2:T3	
+T12	Markable 130 137	The one
+R2	Anaphora Arg1:T6 Arg2:T12	
+R3	Anaphora Arg1:T10 Arg2:T11	
+T13	Spatial-Relation 10 18	smallest
+A1	No-Obj T13
+T14	Spatial-Attribute 38 44	black/
+T15	Spatial-Relation 60 63	has
+T16	Modifier 68 76	a little
+T17	Spatial-Relation 77 83	darker
+T18	Modifier 88 96	a little
+T19	Spatial-Relation 97 103	bigger
+T20	Modifier 104 110	almost
+T21	Spatial-Relation 111 122	right above
+T22	Spatial-Relation 159 166	lighter
+T23	Spatial-Relation 171 176	above
+T24	Spatial-Relation 240 244	with
+T25	Modifier 271 277	almost
+T26	Spatial-Relation 278 289	just as big
+R4	Obj Arg1:T26 Arg2:T9	
+#1	AnnotatorNotes T26	same size
+T27	Spatial-Relation 290 301	to the left
+T28	Spatial-Relation 306 308	up
+T29	Modifier 309 319	a tiny bit
+R5	Mod Arg1:T29 Arg2:T28	
+R6	Obj Arg1:T27 Arg2:T9	
+R7	Obj Arg1:T28 Arg2:T9	
+T30	Spatial-Relation 359 370	to the left
+T31	Spatial-Relation 375 377	up
+T32	Modifier 378 388	a tiny bit
+R8	Mod Arg1:T32 Arg2:T31	
+R9	Obj Arg1:T30 Arg2:T9	
+R10	Obj Arg1:T31 Arg2:T9	
+A3	Mod-Subtlty T29
+A4	Mod-Subtlty T32
+A2	Mod-Uncertainty-Approximation T20
+#2	AnnotatorNotes T21	near above
+T33	Spatial-Relation 153 156	has

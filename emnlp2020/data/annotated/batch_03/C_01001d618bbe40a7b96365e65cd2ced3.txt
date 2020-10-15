@@ -1,0 +1,6 @@
+1: Do you see four dots that make a rectangle? They have a light and dark grey on each side of the rectangle?
+0: no i see a small light gray dot close to a medium dark dot
+1: is the grey dot the smallest dot you see?
+0: yes
+1: lets click the smallest grey dot
+0: k

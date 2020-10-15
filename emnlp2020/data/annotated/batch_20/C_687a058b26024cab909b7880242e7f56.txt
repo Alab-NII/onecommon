@@ -1,0 +1,4 @@
+1: I have a single large light grey dot? The rest are darker?
+0: 2 medium dots same shade the one highest and left is slightly smaller
+1: I think I see that also. Do you want to choose the top grey dot?
+0: yes

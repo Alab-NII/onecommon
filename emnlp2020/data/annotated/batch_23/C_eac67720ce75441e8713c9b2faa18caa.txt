@@ -1,0 +1,4 @@
+1: do you have a triangle shape of larger dots?
+0: yes is one a large dark dot
+1: yes it is the top most dot
+0: let's pick that one

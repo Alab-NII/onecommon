@@ -1,0 +1,14 @@
+T1	Markable 49 60	broken line
+T3	Markable 9 30	a long line of 5 dots
+T4	Markable 119 137	all the other ones
+T5	Markable 89 105	your darkest dot
+T6	Markable 157 173	the lightest one
+T7	Markable 229 233	that
+T8	Markable 214 222	anything
+T9	Markable 292 307	the darkest dot
+T10	Markable 380 392	the next dot
+T11	Markable 467 491	the darkest smallest dot
+T12	Markable 62 73	darkest dot
+A2	No-Referent T8
+T13	Markable 270 284	the same thing
+T14	Markable 312 328	a light grey one

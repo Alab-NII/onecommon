@@ -1,0 +1,3 @@
+0: Hello! Do you see a tiny dark grey dot?
+1: Two dots very very close together. One is very large and lighter and to the left
+0: Yes! Let's select the tiny one to the right.

@@ -1,0 +1,5 @@
+0: I've got a large black one with another large black on above and to the right of it.
+1: I see a very dark circle, but is medium in size. Maybe even slightly smaller than medium.
+0: Is there a lighter smaller one almost directly above it ?
+1: yes, but it is so slight they are very similar. Take the one on the bottom
+0: got it

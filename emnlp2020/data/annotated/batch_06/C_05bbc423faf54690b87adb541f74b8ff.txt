@@ -1,0 +1,5 @@
+1: Do you have 3 lone dots that make a really big triangle?
+0: are they two medium sized dots and one small dot?
+1: its one really big black dot, a medium black dot and a smaller grey dot
+0: let's choose the smaller grey dot
+1: OK

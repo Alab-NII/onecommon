@@ -1,0 +1,7 @@
+0: Do you have a large dark Dot and above and to the right is another dark but smaller dot
+1: three dark dots pretty close together?
+0: No, do u see a medium shade for that is large that is lonely, above is a small dark Dot and below and to the left is a grey smaller dot
+1: and above the smaller one is a black dot that is slightly larger?
+0: No
+1: i do see the second set you described. choose the lonely middle one?
+0: Yes

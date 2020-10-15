@@ -1,0 +1,18 @@
+T1	Markable 127 142	the smaller one
+T2	Markable 3 11	Two dots
+T3	Spatial-Relation-Markable 33 37	Left
+T4	Spatial-Relation-Markable 54 59	right
+T5	Markable 105 113	the same
+T6	Spatial-Relation 21 31	horizontal
+A1	No-Obj T6
+T7	Spatial-Attribute 41 52	small black
+T8	Spatial-Relation 63 69	bigger
+T9	Modifier 74 81	a shade
+T10	Spatial-Relation 82 89	lighter
+R1	Obj Arg1:T8 Arg2:T3	
+R2	Obj Arg1:T10 Arg2:T3	
+T11	Spatial-Relation 131 138	smaller
+T12	Spatial-Relation 143 154	on the left
+R3	Obj Arg1:T11 Arg2:T5	
+R4	Obj Arg1:T12 Arg2:T5	
+A2	Mod-Subtlty T9

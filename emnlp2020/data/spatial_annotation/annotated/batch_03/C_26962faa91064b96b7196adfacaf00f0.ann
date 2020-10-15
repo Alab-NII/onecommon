@@ -1,0 +1,16 @@
+T1	Markable 17 24	one dot
+T2	Markable 48 56	the rest
+T3	Markable 67 70	two
+T4	Markable 91 96	yours
+T5	Markable 108 133	a much larger lighter dot
+T6	Markable 157 177	that little dark one
+T7	Spatial-Relation 25 47	tinier and darker than
+T8	Spatial-Relation 80 86	darker
+A1	No-Obj T8
+T10	Spatial-Relation 97 107	just below
+T11	Modifier 110 114	much
+T12	Spatial-Relation 115 129	larger lighter
+R1	Obj Arg1:T12 Arg2:T4	
+A2	Ambiguous-Obj T8
+#1	AnnotatorNotes T10	near;below
+A3	Mod-Extremity T11

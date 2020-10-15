@@ -1,0 +1,23 @@
+T1	Markable 37 40	two
+T3	Markable 11 30	a straight-ish line
+T4	Markable 74 78	that
+T5	Markable 119 144	a larger lighter grey one
+T6	Markable 230 252	A larger dark grey one
+T7	Markable 179 182	one
+T8	Markable 282 284	it
+T9	Markable 367 400	a much larger slightly darker dot
+T10	Markable 339 361	a small light grey dot
+T11	Markable 439 443	that
+T12	Markable 457 482	a a very dark dot (small)
+T13	Markable 556 574	the small dark one
+A1	No-Referent T4
+T2	None 3 10	Give in
+#1	AnnotatorNotes T2	Given
+T14	Markable 87 109	a small, dark gray dot
+T15	Markable 263 267	Mine
+R1	Anaphora Arg1:T8 Arg2:T15	
+T16	Markable 313 317	Mine
+#2	AnnotatorNotes T12	a very dark dot (small)
+T17	Markable 509 513	that
+R2	Anaphora Arg1:T17 Arg2:T12	
+T18	Markable 514 540	a medium size regular gray

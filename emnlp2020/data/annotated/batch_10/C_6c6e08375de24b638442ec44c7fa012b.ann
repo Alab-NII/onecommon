@@ -1,0 +1,10 @@
+T1	Markable 53 60	The one
+T2	Markable 168 178	each other
+T3	Markable 197 207	darker one
+T4	Markable 138 146	the pair
+T5	Markable 148 156	two dots
+T6	Markable 10 31	two medium sized dots
+R1	Anaphora Arg1:T5 Arg2:T4	
+R2	Anaphora Arg1:T2 Arg2:T5	
+T7	Markable 241 253	darker lower
+T8	Markable 268 278	the darker

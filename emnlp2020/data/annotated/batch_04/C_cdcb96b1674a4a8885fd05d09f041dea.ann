@@ -1,0 +1,18 @@
+T1	Markable 36 50	All of my dots
+T2	Markable 186 194	dark one
+T3	Markable 81 95	The three dots
+T4	Markable 163 177	a med-gray one
+T5	Markable 213 234	light-medium gray one
+T6	Markable 273 302	the light/med grey bottom one
+T7	Markable 322 334	your top one
+T8	Markable 339 347	that one
+T9	Markable 364 385	the second/darker one
+T10	Markable 443 460	the dark-gray one
+T11	Markable 401 417	the med-gray one
+T12	Markable 481 496	the smaller one
+T13	Markable 507 516	that line
+T14	Markable 3 7	they
+A1	All-Referents T14
+A2	All-Referents T1
+A3	No-Referent T6
+R1	Anaphora Arg1:T8 Arg2:T7	

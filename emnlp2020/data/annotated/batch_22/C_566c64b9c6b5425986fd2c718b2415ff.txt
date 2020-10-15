@@ -1,0 +1,4 @@
+1: 2 black dots same size and color...top one is above and to the right of the bottom one?
+0: Mine are the same color but the top one is smaller
+1: does the one you talked about have a large black dot above and to the right of it? if so click the smaller dot
+0: Okay

@@ -1,0 +1,19 @@
+T1	Markable 14 37	a lonely tiny light dot
+T2	Markable 47 54	one dot
+T3	Markable 58 64	itself
+T4	Markable 107 109	it
+T5	Markable 161 175	the other ones
+R1	Anaphora Arg1:T3 Arg2:T2	
+T6	Markable 134 137	its
+T8	Spatial-Relation 148 160	lighter than
+T9	Spatial-Relation 16 22	lonely
+T10	Spatial-Relation 65 82	on the right side
+T11	Spatial-Relation 83 100	closer to the top
+R2	Subj Arg1:T10 Arg2:T2	
+R3	Subj Arg1:T11 Arg2:T2	
+T12	Spatial-Attribute 110 125	small and light
+T13	Spatial-Attribute 138 143	small
+A1	No-Obj T9
+A2	No-Obj T10
+A3	No-Obj T11
+T7	Spatial-Relation 55 57	by

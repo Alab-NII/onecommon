@@ -1,0 +1,4 @@
+1: I have a large dark gray that is set off to the left of all the other dots
+0: I have a tiny dot on the top by itself
+1: could the tiny dot make a triangle with two large dots...one light gray and the other black?
+0: Okay let's pick the tiny black dot

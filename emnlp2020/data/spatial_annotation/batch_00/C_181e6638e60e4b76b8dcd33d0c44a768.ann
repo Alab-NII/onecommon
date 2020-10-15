@@ -1,0 +1,8 @@
+T1	Markable 10 34	one very small black dot
+T2	Markable 45 51	7 dots
+T4	Markable 138 167	one very small light gray dot
+T5	Markable 179 200	a very light gray dot
+T6	Markable 225 233	that one
+A1	All-Referents T2
+T7	Markable 53 54	3
+T8	Markable 77 78	4

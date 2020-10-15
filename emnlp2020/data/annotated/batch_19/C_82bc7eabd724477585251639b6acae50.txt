@@ -1,0 +1,5 @@
+0: 3 tiny dots forming a triangle, all the same size
+1: Do you see a light shade tiny Dot and to the right of it and slightly higher is a small black dot?
+0: No, I don't have that.
+1: I have two of which you speak of. The ones I see is a grey one and above and to the right a lighter one
+0: Yes, let's choose the lighter One.

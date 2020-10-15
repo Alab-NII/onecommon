@@ -1,0 +1,5 @@
+1: I see a medium gray dot, it's small and right next to a darker slightly bigger dot
+0: is the bigger one to the right of the smaller one
+1: No, the bigger one is on the left. I also have a very large black dot not close to anything else
+0: alright. let's go with the medium size one mentioned first
+1: Okay

@@ -1,0 +1,22 @@
+T1	Markable 9 31	one smallish black dot
+T2	Markable 60 72	lighter dots
+T3	Markable 158 166	triangle
+T4	Markable 83 111	three large medium gray dots
+T5	Markable 171 179	one dark
+T6	Markable 185 197	a light gray
+T7	Markable 133 154	three small gray dots
+T8	Markable 230 257	a very small light grey dot
+T9	Markable 436 438	it
+T10	Markable 464 466	it
+T11	Markable 473 482	two small
+T12	Markable 530 544	your small dot
+T13	Markable 550 564	a med gray dot
+T14	Markable 584 595	any of that
+T15	Markable 609 632	a larger light grey dot
+T16	Markable 778 786	that one
+R1	Predicative Arg1:T3 Arg2:T7	
+T17	Markable 298 321	a very small light gray
+T18	Markable 388 400	a larger dot
+T19	Markable 492 501	one large
+A1	No-Referent T14
+T20	Markable 687 704	a larger gray dot

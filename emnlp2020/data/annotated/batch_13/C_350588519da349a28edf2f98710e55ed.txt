@@ -1,0 +1,2 @@
+1: I have only one black dot. It is small and located above and slightly to the left of a dot that is the same size but medium grey.
+0: yup. i have that. black select

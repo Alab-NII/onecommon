@@ -1,0 +1,4 @@
+0: Do you have a tiny, super dark dot at the very top of the circle?
+1: yes, it is at the top left with a medium size gray to its bottom right
+0: Shall we try that one?
+1: yes let us select the small black

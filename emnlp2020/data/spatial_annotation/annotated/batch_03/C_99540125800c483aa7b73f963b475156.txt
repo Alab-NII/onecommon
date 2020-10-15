@@ -1,0 +1,8 @@
+1: I have one lighter gray, medium dot on an edge.
+0: do you have a tiny circle directly above a larger circle?
+1: no
+0: i don't have yours
+1: I have one medium gray dot all alone, below many other dots.
+0: i don't have that, do you have 2 circles, a larger darker one is slight to the right and below a smaller and lighter one?
+1: yes, do you want to choose the darker, bigger one?
+0: ok

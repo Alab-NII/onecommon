@@ -1,0 +1,4 @@
+0: Hi! I see two big dots - a black one, and then diagonally (down and to the left) a dark grey one. There is also a smaller black dot above and to the left of them both, forming a triangle
+1: I have a triangle of large black dots with a tiny gray one down and to the left
+0: is the tiny one sort of in a straight line with two of the large dots? If so let's click it
+1: Yes

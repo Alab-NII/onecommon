@@ -1,0 +1,5 @@
+0: two large dot close together. left one is a little bit darker
+1: Ok yes I do see that, are they on the left side of the screen?
+0: they are on my right side, but we have different views so that wouldn't need to match up. the one of the right is a little lower than the one on the left?
+1: Ok I do not have those...do you have an extremely light colored large dot?
+0: yes, with a small dark dot below and to the left and an even darker dot below and to the right?

@@ -1,0 +1,6 @@
+T2	Markable 97 107	each other
+T3	Markable 3 31	very very large dark grey do
+#1	AnnotatorNotes T3	very very large dark grey dot
+T4	Markable 41 84	two med sized identical looking darker ones
+R1	Anaphora Arg1:T2 Arg2:T4	
+T1	Markable 122 140	the very large one

@@ -1,0 +1,6 @@
+0: A large black dot to the right
+1: I can make a triangle of dots, left bottom is medium dark, top is large dark, right is medium dark.
+0: I see this area.
+1: pick the top large dot medium toned.
+0: Do you mean the top dark one
+1: yes

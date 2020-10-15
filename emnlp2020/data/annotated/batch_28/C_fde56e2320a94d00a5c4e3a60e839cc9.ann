@@ -1,0 +1,11 @@
+T1	Markable 41 56	a parallel line
+T2	Markable 14 37	two of the darkest dots
+T4	Markable 75 82	the one
+T5	Markable 110 117	the one
+T6	Markable 200 215	the smaller one
+T8	Markable 233 237	they
+T9	Markable 147 161	the larger one
+T10	Markable 270 284	the larger one
+T11	Markable 390 406	the smallest one
+R1	Predicative Arg1:T1 Arg2:T2	
+T3	Markable 318 322	they

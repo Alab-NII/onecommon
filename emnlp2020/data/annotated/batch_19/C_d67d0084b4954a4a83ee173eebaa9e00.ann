@@ -1,0 +1,12 @@
+T1	Markable 12 19	a group
+T2	Markable 23 35	3 large dots
+T3	Markable 131 145	the middle one
+T4	Markable 85 88	two
+T5	Markable 73 83	three dots
+T6	Markable 336 349	your triangle
+T7	Markable 303 305	it
+T8	Markable 39 57	a triangular shape
+R1	Predicative Arg1:T8 Arg2:T1	
+T9	Markable 202 211	the shape
+T10	Markable 246 277	your largest lightest shade dot
+R2	Anaphora Arg1:T7 Arg2:T10	

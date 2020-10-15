@@ -1,0 +1,14 @@
+T1	Markable 10 22	3 black dots
+T3	Markable 119 136	a small black dot
+T4	Markable 296 307	the top one
+T5	Markable 252 273	two of the black dots
+T7	Markable 176 178	it
+T8	Markable 227 229	it
+T9	Markable 325 358	the similar sized medium gray dot
+T10	Markable 389 391	it
+T11	Markable 426 444	the light grey one
+T12	Markable 28 39	4 gray dots
+T13	Markable 41 64	The majority of my dots
+T14	Markable 142 169	a similar sized medium grey
+R1	Anaphora Arg1:T7 Arg2:T3	
+T15	Markable 200 220	a larger lighter one

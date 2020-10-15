@@ -1,0 +1,14 @@
+T1	Markable 10 33	a dark medium sized dot
+T2	Markable 99 107	that one
+T3	Markable 37 41	it's
+R1	Anaphora Arg1:T3 Arg2:T1	
+T4	Spatial-Relation 34 36	on
+T5	Spatial-Relation 42 45	own
+R2	Split Arg1:T5 Arg2:T4	
+T6	Spatial-Relation 46 64	at about 6 o'clock
+A1	No-Obj T6
+A2	No-Obj T4
+#1	AnnotatorNotes T4	alone
+#2	AnnotatorNotes T6	below
+T7	Modifier 49 54	about
+A3	Mod-Uncertainty-Approximation T7

@@ -1,0 +1,4 @@
+1: I have two large black dots diagonal from each other
+0: See a large black Dot and above and slightly to the right is a smaller grey dot
+1: Is there a large grey dot to the left of them?
+0: Take the left black dot you described

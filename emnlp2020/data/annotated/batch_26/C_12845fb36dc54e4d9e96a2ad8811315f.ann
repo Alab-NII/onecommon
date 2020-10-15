@@ -1,0 +1,24 @@
+T1	Markable 48 51	one
+T2	Markable 57 60	its
+T3	Markable 94 99	yours
+T4	Markable 108 116	anything
+T5	Markable 167 181	any small dots
+T6	Markable 190 213	a tiny almost black one
+T7	Markable 299 310	two of them
+T9	Markable 343 351	anything
+T10	Markable 329 333	they
+T11	Markable 379 389	other dots
+T12	Markable 361 365	they
+T13	Markable 400 406	a pair
+T14	Markable 452 461	the other
+T15	Markable 431 434	one
+T16	Markable 482 491	that pair
+T17	Markable 500 513	the black one
+T18	Markable 9 36	a really large mid grey one
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	Generic T4
+T19	Markable 135 139	mine
+A2	Generic T5
+T20	Markable 217 225	This one
+T21	Markable 256 259	any
+A3	Generic T9

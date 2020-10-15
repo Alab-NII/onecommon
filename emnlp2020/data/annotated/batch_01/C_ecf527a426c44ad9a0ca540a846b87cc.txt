@@ -1,0 +1,5 @@
+1: I see a straight line of three dots, going up to the right
+0: is there a dark on on the right end of that line?
+1: Yes, and the biggest one is the lightest, all the way at the left?
+0: ok lets pick the black one on the end on the right
+1: Ok!

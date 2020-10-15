@@ -1,0 +1,18 @@
+T1	Markable 9 21	3 black dots
+T2	Markable 23 41	2 Large black dots
+T3	Markable 46 64	one tiny black dot
+T4	Markable 66 83	One big black dot
+T5	Markable 129 131	it
+T6	Markable 187 197	each other
+T7	Markable 142 163	two medium sized dots
+T8	Markable 199 213	the bottom one
+T9	Markable 251 266	the lighter one
+T10	Markable 225 229	they
+T11	Markable 316 333	those angled dots
+T12	Markable 346 360	the darker dot
+T13	Markable 362 369	the one
+T14	Markable 88 104	a same size grey
+R1	Anaphora Arg1:T5 Arg2:T4	
+R2	Anaphora Arg1:T6 Arg2:T7	
+R3	Anaphora Arg1:T10 Arg2:T7	
+R4	Anaphora Arg1:T13 Arg2:T12	

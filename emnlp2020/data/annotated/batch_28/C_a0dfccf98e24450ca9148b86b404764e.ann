@@ -1,0 +1,6 @@
+T1	Markable 28 34	a line
+T2	Markable 94 97	top
+T3	Markable 133 153	the top lightest one
+T4	Markable 3 19	three small dots
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 67 73	middle

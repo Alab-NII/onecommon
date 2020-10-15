@@ -1,0 +1,5 @@
+T1	Markable 40 50	each other
+T2	Markable 60 64	that
+T3	Markable 73 87	the bottom one
+T4	Markable 3 25	two light colored dots
+R1	Anaphora Arg1:T1 Arg2:T4	

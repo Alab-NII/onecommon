@@ -1,0 +1,23 @@
+T1	Markable 27 33	a line
+T2	Markable 100 103	One
+T3	Markable 158 169	3 sets of 2
+T4	Markable 223 254	a medium sized almost black one
+T6	Markable 261 282	a large dark grey dot
+T7	Markable 203 213	those sets
+T8	Markable 296 310	that black one
+T9	Markable 318 337	the only black ones
+T11	Markable 516 535	the small black one
+T12	Markable 3 18	three dark dots
+R1	Predicative Arg1:T1 Arg2:T12	
+T13	Markable 35 38	one
+T14	Markable 86 98	7 total dots
+A1	All-Referents T14
+T10	Markable 366 377	small black
+T15	Markable 384 406	slightly lighter black
+T5	Markable 416 427	medium grey
+T16	Markable 434 454	smaller lighter grey
+T17	Markable 463 479	medium dark grey
+T18	Markable 486 497	small black
+T19	Markable 355 364	Left pair
+T20	Markable 408 414	Middle
+T21	Markable 456 461	Right

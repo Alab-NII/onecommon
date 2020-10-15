@@ -1,0 +1,23 @@
+T1	Markable 95 104	right one
+T2	Markable 132 141	right one
+T3	Markable 150 164	small dark dot
+T4	Markable 171 187	a very light dot
+T5	Markable 83 93	a triangle
+T7	Markable 218 240	another very light dot
+T8	Markable 54 64	three dots
+T9	Markable 194 196	it
+T10	Markable 247 249	it
+T11	Markable 306 324	the dark small dot
+T12	Markable 379 381	it
+T13	Markable 492 504	the big grey
+T14	Markable 529 537	the line
+T15	Markable 594 606	my first set
+T16	Markable 548 556	that one
+T17	Markable 683 699	the darkest dark
+T18	Markable 667 679	the triangle
+T20	Markable 778 801	that furthest right one
+T21	Markable 3 17	small dark dot
+R1	Predicative Arg1:T5 Arg2:T8	
+T22	Markable 115 125	middle one
+A1	No-Referent T16
+T6	Markable 747 751	that

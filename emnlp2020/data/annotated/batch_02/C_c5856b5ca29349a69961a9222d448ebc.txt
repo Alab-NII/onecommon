@@ -1,0 +1,4 @@
+1: i have two dark medium sized dots, almost in a line
+0: okay, i think i do too. one is only slightly above and right of the center of the circle?
+1: the one i have on the right is slightly higher, they are near horizontal
+0: ok, let's click the right one

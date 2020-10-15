@@ -1,0 +1,6 @@
+1: do u have 3 dots in a diagonal line?
+0: yeah that are angling up
+1: yes up and to the left. the bottom dot is smaller and lighter than the others.
+0: yeah, you wanna pick the first ?
+1: which one? the top largest or bottom lightest and smallest?
+0: lets pick the top biggest

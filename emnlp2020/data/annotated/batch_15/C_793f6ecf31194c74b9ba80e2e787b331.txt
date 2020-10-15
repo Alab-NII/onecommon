@@ -1,0 +1,4 @@
+1: hi do you see a cluster of four at the top middle, all the same size but four different shades
+0: Yes! The upper one is the darkest color
+1: yes so reading it from that one to right then back up it's medium gray, medium gray (kinda smaller) and darker gray, then darkest gray
+0: Let's click on the upper darkest one then

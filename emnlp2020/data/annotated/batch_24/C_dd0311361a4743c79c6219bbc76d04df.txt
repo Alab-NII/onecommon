@@ -1,0 +1,4 @@
+1: I see 7 total dots
+0: Yes, do you have two that are really close together? One medium color and to the left of it is a lighter smaller one?
+1: no, there are two that are close but on the left is darker than the right
+0: Yes that is correct. I was mistaken. Let's choose the darker one.

@@ -1,0 +1,4 @@
+1: I have a large black dot with a smaller dark gray dot directly to the right. they are close together
+0: I have a tiny black dot and beside it is a light bigger dot
+1: I don't have that. What about a large medium gray dot with a slightly smaller black dot to it's right?
+0: Yes, let us select the smaller black dot

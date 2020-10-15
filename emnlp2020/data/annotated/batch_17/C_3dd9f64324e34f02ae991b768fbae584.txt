@@ -1,0 +1,4 @@
+1: Did you see a grey dot ?
+0: i have a lot of grey dots. one very small dark dot with a slightly larger and lighter dot up and to the right.
+1: do you have one in the bottom of the circle close to the doted lines ?
+0: We have different views, so describing where it is in your circle is not helpful. Please describe it in relation to other dots in the circle

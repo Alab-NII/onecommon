@@ -1,0 +1,7 @@
+1: I see two darker dots lined up
+0: i got a smaller real dark dot and a bigger dark gray dot left to right pretty close
+1: I don't see that
+0: i have two bigger dots, same size, upper left is medium gray, bottom right is nearly black
+1: I see that
+0: pick the dark one?
+1: Ok

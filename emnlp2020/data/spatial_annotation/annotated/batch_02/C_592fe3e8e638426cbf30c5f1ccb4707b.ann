@@ -1,0 +1,24 @@
+T1	Markable 111 131	a large mid-grey dot
+T2	Markable 170 179	these two
+T3	Markable 153 158	a dot
+T4	Markable 197 201	that
+T5	Markable 213 229	a large grey one
+T6	Markable 236 250	the other ones
+T7	Spatial-Relation-Markable 33 38	a box
+T8	Markable 69 89	the top right corner
+T9	Markable 93 100	the box
+R1	Anaphora Arg1:T9 Arg2:T7	
+A1	No-Referent T4
+T10	Markable 256 273	large medium grey
+T11	Markable 280 299	small dark grey one
+T12	Modifier 14 32	kind of looks like
+T13	Spatial-Relation 39 60	on the left hand side
+A2	No-Obj T13
+T14	Spatial-Relation 73 89	top right corner
+T15	Spatial-Relation 90 92	of
+T16	Spatial-Relation 159 169	in between
+T17	Spatial-Relation 230 235	above
+T18	Spatial-Relation 274 279	above
+A3	No-Obj T7
+A4	Canonical-Undefined T7
+A5	Mod-Uncertainty-Approximation T12

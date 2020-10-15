@@ -1,0 +1,9 @@
+T1	Markable 12 27	a big dark gray
+T2	Markable 34 50	two lighter ones
+T3	Markable 87 89	it
+T4	Markable 102 106	that
+T5	Markable 115 127	the dark one
+T6	Markable 54 57	its
+R1	Anaphora Arg1:T6 Arg2:T1	
+T7	Markable 67 80	a medium gray
+R2	Anaphora Arg1:T3 Arg2:T1	

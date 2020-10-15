@@ -1,0 +1,3 @@
+1: A very large black dot with a tiny black dot down and to the left
+0: Yes I have that. Choose the large black dot?
+1: Okay

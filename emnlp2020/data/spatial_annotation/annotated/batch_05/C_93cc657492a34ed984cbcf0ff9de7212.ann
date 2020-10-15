@@ -1,0 +1,21 @@
+T1	Markable 14 33	two light gray dots
+T2	Markable 45 57	enough of it
+T4	Markable 115 135	a larger lighter one
+T5	Markable 151 155	that
+T6	Markable 196 213	a small dot light
+T7	Markable 166 180	a very big dot
+T8	Markable 247 251	that
+T9	Markable 267 291	the large light gray dot
+T10	Markable 59 73	The medium dot
+A1	No-Referent T5
+T3	Spatial-Relation 88 95	darkest
+A2	No-Obj T3
+T11	Spatial-Relation 100 111	to the left
+R1	Subj Arg1:T11 Arg2:T4	
+R2	Obj Arg1:T11 Arg2:T10	
+T12	Spatial-Relation 117 131	larger lighter
+R3	Obj Arg1:T12 Arg2:T10	
+T13	Spatial-Attribute 181 191	light gray
+T14	Spatial-Attribute 214 218	gray
+T15	Spatial-Relation 219 231	to the right
+R4	Obj Arg1:T15 Arg2:T7	

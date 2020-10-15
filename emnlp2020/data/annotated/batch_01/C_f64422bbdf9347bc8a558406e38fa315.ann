@@ -1,0 +1,6 @@
+T1	Markable 28 32	mine
+T2	Markable 169 173	that
+T3	Markable 3 26	really big black circle
+R1	Anaphora Arg1:T1 Arg2:T3	
+T4	Markable 73 90	medium light grey
+T5	Markable 111 132	any big black circles

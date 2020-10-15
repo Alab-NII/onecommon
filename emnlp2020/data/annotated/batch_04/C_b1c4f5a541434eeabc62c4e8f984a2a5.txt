@@ -1,0 +1,7 @@
+0: I have the lightest dot right in the middle and its big
+1: nope i have a gray medium dot on twelve o'clock a on top half of the circle
+0: I do not have that. I have a big medium gray dot at 7 oclock
+1: nope tiny light gray dot on 4 o'clock
+0: Nope. Two dots at 11 oclock, one is bigger and more towards the inside
+1: i have a tiny light dot on my 11 o'clock toward the inside
+0: lets go with that one

@@ -1,0 +1,14 @@
+T1	Markable 9 20	1 black dot
+T2	Markable 30 57	a very large light gray dot
+T3	Markable 118 139	a very large gray dot
+T4	Markable 201 214	the black dot
+T5	Markable 69 83	a medium black
+T6	Markable 88 103	small dark gray
+T7	Markable 148 160	medium black
+T8	Markable 165 180	small dark gray
+T9	Spatial-Relation 58 68	in between
+R1	Obj Arg1:T9 Arg2:T5	
+R2	Obj Arg1:T9 Arg2:T6	
+T10	Spatial-Relation 140 147	between
+R3	Obj Arg1:T10 Arg2:T7	
+R4	Obj Arg1:T10 Arg2:T8	

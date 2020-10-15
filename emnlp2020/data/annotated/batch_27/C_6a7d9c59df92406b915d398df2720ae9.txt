@@ -1,0 +1,3 @@
+1: I see three dots in a straight horizontal line biggest on in the center dark grey
+0: I don't have that. I have a cluster of 3 dots that form a triangle, all are medium gray in color. the top dot is the largest with two smaller dots below
+1: yep I see that select the biggest dot

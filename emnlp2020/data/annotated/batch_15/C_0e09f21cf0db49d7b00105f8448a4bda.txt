@@ -1,0 +1,4 @@
+0: I have three dots that form a triangle. The two dots on the left are black, and the dot on the right is dark grey
+1: Is the one on the right larger than the darker ones
+0: Yes. Should we click that one?
+1: Yes. Let's do that one

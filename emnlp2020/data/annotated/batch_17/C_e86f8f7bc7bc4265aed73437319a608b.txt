@@ -1,0 +1,3 @@
+0: 2 medium grey dots close to each other and almost vertical?
+1: two dots close together almost same size with bottom being slightly larger and lighter?
+0: yes, pick the lower one

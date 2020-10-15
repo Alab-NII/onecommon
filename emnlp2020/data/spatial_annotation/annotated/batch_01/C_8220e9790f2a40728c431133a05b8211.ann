@@ -1,0 +1,22 @@
+T1	Markable 15 42	a really tiny dark grey dot
+T2	Markable 55 58	its
+T3	Markable 67 79	a larger one
+T4	Markable 110 113	its
+R1	Anaphora Arg1:T4 Arg2:T2	
+T5	Markable 123 146	another even larger one
+T6	Markable 197 209	the tiny one
+T7	Spatial-Relation 59 63	left
+R2	Subj Arg1:T7 Arg2:T3	
+R3	Obj Arg1:T7 Arg2:T2	
+T8	Spatial-Relation 69 75	larger
+R4	Obj Arg1:T8 Arg2:T2	
+T9	Modifier 80 86	almost
+T10	Spatial-Relation 87 101	the same shade
+R5	Obj Arg1:T10 Arg2:T2	
+T11	Spatial-Relation 114 119	right
+R6	Subj Arg1:T11 Arg2:T5	
+R7	Obj Arg1:T11 Arg2:T4	
+T14	Spatial-Relation 131 142	even larger
+R9	Obj Arg1:T14 Arg2:T4	
+T15	Spatial-Relation 155 162	lighter
+R10	Obj Arg1:T15 Arg2:T4	

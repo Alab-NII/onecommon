@@ -1,0 +1,4 @@
+0: three dark dots in a line sloping up to the right? two tiny?
+1: yes I have that as well. which dot should we select?
+0: the largest one furthest left and at the bottom
+1: ok

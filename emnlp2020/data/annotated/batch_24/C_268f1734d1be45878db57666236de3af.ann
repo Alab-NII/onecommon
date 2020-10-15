@@ -1,0 +1,16 @@
+T1	Markable 35 50	a vertical line
+T2	Markable 71 75	that
+T3	Markable 105 125	a larger lighter dot
+T4	Markable 84 100	a small dark dot
+T5	Markable 171 173	it
+T6	Markable 146 161	the lighter one
+T8	Markable 199 202	one
+T9	Markable 234 237	one
+T10	Markable 273 291	another larger dot
+T11	Markable 298 300	it
+T12	Markable 253 268	the smaller dot
+T13	Markable 3 24	dots large black dots
+#1	AnnotatorNotes T13	large black dots
+R1	Predicative Arg1:T1 Arg2:T13	
+A1	No-Referent T2
+T7	Markable 333 356	the larger med grey dot

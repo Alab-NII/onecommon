@@ -1,0 +1,4 @@
+1: do you see a little gray dot close to 8 o clock on yours
+0: Yes, it is a dark gray dot. There is a larger slightly lighter dot to the right and slightly above it
+1: yes its a dark gray
+0: lets pick the small dark one

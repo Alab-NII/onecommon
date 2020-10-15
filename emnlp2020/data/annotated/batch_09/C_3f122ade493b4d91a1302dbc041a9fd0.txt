@@ -1,0 +1,8 @@
+0: I have two dark dots in a line to the right and down from each other?
+1: No
+0: Okay do you have the lighter dots one is large lighter and to the left is a smaller one that is in line with it
+1: No. Do you have a dark large dot to the right, right next to the border
+0: Mine could be just off your view. Is the dark one close to a grey dot?
+1: Yes, they're aligned horizontally and the other dot is to the left and slightly lighter and smaller
+0: Yes lets click on the darker of them?
+1: yes

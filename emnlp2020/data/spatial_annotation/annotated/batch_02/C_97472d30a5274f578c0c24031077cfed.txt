@@ -1,0 +1,5 @@
+0: I have 3 light gray dots forming a triangle with the smallest at the top point
+1: I have 2 dark dots with the upper one being slightly larger than the lower one
+0: is it the upper one slightly to the right of the lower one?
+1: Yes
+0: Let's pick the top larger one

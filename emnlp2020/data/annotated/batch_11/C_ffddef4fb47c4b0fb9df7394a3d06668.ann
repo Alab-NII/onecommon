@@ -1,0 +1,9 @@
+T1	Markable 72 74	it
+T2	Markable 117 127	Bottom one
+T3	Markable 173 185	those 2 dots
+T4	Markable 214 226	bottom large
+T5	Markable 9 40	a lonely small very dark circle
+T6	Markable 55 62	any dot
+A1	No-Referent T6
+R1	Anaphora Arg1:T1 Arg2:T5	
+T7	Markable 78 95	2 light grey dots

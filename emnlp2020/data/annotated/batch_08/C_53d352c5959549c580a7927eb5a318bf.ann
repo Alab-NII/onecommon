@@ -1,0 +1,9 @@
+T1	Markable 22 26	they
+T2	Markable 10 16	4 dots
+T3	Markable 38 48	a triangle
+T4	Markable 81 100	multiple small dots
+R1	Anaphora Arg1:T1 Arg2:T2	
+R2	Predicative Arg1:T3 Arg2:T1	
+T5	Markable 65 70	small
+T6	Markable 115 125	small dark
+T7	Markable 152 171	the left side small

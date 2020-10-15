@@ -1,0 +1,7 @@
+T1	Markable 40 57	a horizontal line
+T2	Markable 10 36	two medium same sized dots
+T3	Markable 92 99	the one
+T4	Markable 59 66	The one
+T5	Markable 142 146	that
+T6	Markable 165 179	the darker one
+R1	Predicative Arg1:T1 Arg2:T2	

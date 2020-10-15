@@ -1,0 +1,6 @@
+1: I have a tiny black dot, to the left
+0: nope
+1: I have a large black dot, in the middle
+0: i have a large dot all alone
+1: Me too.
+0: pick that one then

@@ -1,0 +1,10 @@
+0: I see 2 dots left one is smaller and darker, right one is larger and lighter, slightly above
+1: Hmm. I don't think I see that. Do you see a very tiny medium shade dot with a very large very dark dot close by to the top and left?
+0: is darker one on the left or right?
+1: The darker one is to the top and left
+0: on the left of the lighter one or right of the lighter one?
+1: THE LEFT
+0: i dont have them
+1: Do you see a medium sized light grey dot that is almost in the center of the rest of the dots?
+0: yes
+1: K let's click that one

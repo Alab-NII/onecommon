@@ -1,0 +1,3 @@
+0: group of five dots, none large
+1: maybe, there is a small light grey dot below a larger dark grey dot? one may be off my screen
+0: yes, pick the small light grey dot

@@ -1,0 +1,5 @@
+0: I have 3 smallish dots all near each other
+1: I have that too with the smallest being light gray on top
+0: yes. And bottom of 3 is black?
+1: Yes let's pick the light gray one
+0: ok

@@ -1,0 +1,6 @@
+0: do you have the darkest/largest at like 1pm? with a tiny dark one right below to it's left?
+1: two large grey dots the lighter one is slightly left and above
+0: is the lighter one also smaller? and a tiny dark grey one to the bottom one's upper right?
+1: no
+0: do you have the tiny one at 1pm?
+1: yes select that

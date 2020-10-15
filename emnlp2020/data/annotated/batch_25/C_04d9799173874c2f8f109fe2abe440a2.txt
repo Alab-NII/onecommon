@@ -1,0 +1,4 @@
+0: i have 4 dots angling up and to the right
+1: I have a line of 4 going up and to the right... Large Med gray, small dark gray, followed by 2 large med gray dots
+0: lets pick the 4th dot on the right
+1: ok

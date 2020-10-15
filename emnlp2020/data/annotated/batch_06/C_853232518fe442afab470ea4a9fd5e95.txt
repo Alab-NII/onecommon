@@ -1,0 +1,6 @@
+0: medium sized light grey dot all by itself?
+1: A lot of my dots are by themselves. Can you describe the position on one near that one?
+0: Hmm I don't think you see the one I'm talking about. Do you see three very dark larger dots that are a little far away from each other? With a smaller dot that is a little lighter being in the triangle that they form?
+1: Yes! those I definitely have
+0: K lets click that smaller dot in the triangle
+1: ok

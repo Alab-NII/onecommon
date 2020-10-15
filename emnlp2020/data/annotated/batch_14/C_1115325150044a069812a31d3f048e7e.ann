@@ -1,0 +1,8 @@
+T1	Markable 9 26	a large black dot
+T2	Markable 41 49	that one
+T3	Markable 62 82	one set of four dots
+T4	Markable 51 55	It's
+T5	Markable 106 114	two dots
+T7	Markable 130 147	a large black dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T1	

@@ -1,0 +1,11 @@
+T1	Markable 79 90	middle grey
+T2	Markable 26 42	a line of 4 dots
+T3	Markable 152 179	a very small light grey dot
+T4	Markable 185 217	slightly larger almost black dot
+T5	Markable 253 262	both dots
+T6	Markable 277 290	the black one
+T7	Markable 92 103	small black
+T8	Markable 105 115	large grey
+T9	Markable 117 128	small black
+T10	Markable 230 233	its
+R1	Anaphora Arg1:T10 Arg2:T3	

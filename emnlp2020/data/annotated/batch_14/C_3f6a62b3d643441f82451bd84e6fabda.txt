@@ -1,0 +1,4 @@
+0: Hello. Do you have two large dark gray dots almost side by side?
+1: I have three medium-large dots in a line going up and to the left. the top one is the lightest and smallest
+0: I also have that line.
+1: Ok, lets choose the bottom one on the line. The large dark grey

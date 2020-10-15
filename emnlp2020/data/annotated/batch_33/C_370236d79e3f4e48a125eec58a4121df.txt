@@ -1,0 +1,4 @@
+0: Tiny black dot, to the left are two large dark dots
+1: Tiny black dot...
+0: Click it or ticket
+1: Hahaha, ok

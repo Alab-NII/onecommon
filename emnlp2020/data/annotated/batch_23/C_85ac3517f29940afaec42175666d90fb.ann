@@ -1,0 +1,17 @@
+T1	Markable 37 70	a slightly smaller light grey dot
+T2	Markable 9 31	a massive mid grey dot
+T3	Markable 77 79	it
+T4	Markable 106 115	that pair
+T5	Markable 192 195	one
+T6	Markable 274 290	a tiny black one
+T7	Markable 368 387	a bigger darker dot
+T8	Markable 337 339	it
+T9	Markable 309 326	a tiny light gray
+T10	Markable 397 406	that pair
+T11	Markable 415 436	the bigger darker dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+T12	Markable 131 136	black
+T13	Markable 160 166	2 dots
+T14	Markable 232 240	no pairs
+A1	No-Referent T14
+R2	Anaphora Arg1:T8 Arg2:T9	

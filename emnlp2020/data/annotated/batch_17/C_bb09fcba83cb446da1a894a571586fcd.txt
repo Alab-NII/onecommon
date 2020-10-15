@@ -1,0 +1,4 @@
+1: I see one large black dot. It has a large gray dot to the upper right of it.
+0: Hmm I think that large grey one is cut out of my view. Is there a small med grey dot up and to its diagonal left?
+1: I'd call it medium, both in size and shape. A second medium light gray is a good distance to the left and a tiny bit below?
+0: Yes! Click the large black one!

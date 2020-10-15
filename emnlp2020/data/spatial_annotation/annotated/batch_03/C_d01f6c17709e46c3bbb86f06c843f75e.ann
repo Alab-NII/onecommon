@@ -1,0 +1,23 @@
+T2	Markable 30 42	the left one
+T3	Markable 146 165	small and black dot
+T4	Markable 10 11	3
+T5	Markable 64 74	the middle
+T6	Markable 98 111	the far right
+T1	Modifier 12 18	almost
+T7	Spatial-Relation 19 28	in a line
+A1	No-Obj T7
+T8	Spatial-Relation 34 38	left
+R1	Obj Arg1:T8 Arg2:T4	
+T9	Spatial-Attribute 46 57	medium grey
+T10	Spatial-Relation 68 74	middle
+R2	Obj Arg1:T10 Arg2:T4	
+T11	Spatial-Attribute 78 93	light and large
+T13	Spatial-Relation 102 111	far right
+R3	Obj Arg1:T13 Arg2:T4	
+T14	Spatial-Attribute 115 130	small and black
+T15	Spatial-Relation 166 178	to far right
+R4	Obj Arg1:T15 Arg2:T4	
+T17	Modifier 46 52	medium
+A2	Mod-Neutral T17
+#1	AnnotatorNotes T13	right
+#2	AnnotatorNotes T15	right

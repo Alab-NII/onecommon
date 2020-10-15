@@ -1,0 +1,7 @@
+T1	Markable 10 31	1 tiny pure black dot
+T2	Markable 47 55	that one
+T3	Markable 100 127	a smaller, lighter gray dot
+T4	Markable 64 86	a large, dark gray dot
+T5	Markable 164 183	the large dark grey
+A1	No-Referent T2
+T6	Markable 142 146	that

@@ -1,0 +1,5 @@
+0: I have one light grey dot. It is in line from a medium grey dot to the left and dark down and to the right
+1: I dont thinK i see that. How big is the light gray dot?
+0: The dark grey one is medium sized and has a light grey medium dot just above it.
+1: is it above it but also to the left?
+0: Yes I see that one. Lets choose the darker one!

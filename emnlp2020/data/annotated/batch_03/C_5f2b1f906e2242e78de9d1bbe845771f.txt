@@ -1,0 +1,4 @@
+1: I have 2 black dots the same size in the upper right part
+0: yes
+1: click the top black dot
+0: ok

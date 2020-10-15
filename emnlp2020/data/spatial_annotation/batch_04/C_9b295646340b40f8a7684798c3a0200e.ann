@@ -1,0 +1,9 @@
+T1	Markable 41 43	it
+T2	Markable 63 74	a black dot
+T3	Markable 80 97	a small black dot
+T4	Markable 118 142	the same horizontal line
+T5	Markable 202 213	the big one
+T6	Markable 3 28	massive big one dark gray
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 101 104	its
+R2	Anaphora Arg1:T7 Arg2:T2	

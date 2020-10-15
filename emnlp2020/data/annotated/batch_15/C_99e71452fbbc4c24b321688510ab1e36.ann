@@ -1,0 +1,4 @@
+T1	Markable 15 23	gray dot
+T2	Markable 27 33	itself
+T3	Markable 51 53	it
+R1	Anaphora Arg1:T2 Arg2:T1	

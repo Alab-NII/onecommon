@@ -1,0 +1,6 @@
+0: i see 2 large grey dots close to each other
+1: light large one with a bit darker, bit smaller right above it?
+0: shall we pick the larger one?
+1: are yours different colors too? the lower one is lighter/larger?
+0: yep
+1: ok yes the larger/lighter one then we'll chose, ty

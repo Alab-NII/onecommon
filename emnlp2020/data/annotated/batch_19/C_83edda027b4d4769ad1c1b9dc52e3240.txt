@@ -1,0 +1,5 @@
+1: one lone black dot tiny
+0: Largest sized dark Dot and below to the right a slightly lighter small Dot and directly right of it a medium sized dark dot
+1: right have that choose middle dot
+0: That one that is lowest of the three I mentioned?
+1: right

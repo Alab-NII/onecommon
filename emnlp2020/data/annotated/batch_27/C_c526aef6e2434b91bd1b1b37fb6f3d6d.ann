@@ -1,0 +1,7 @@
+T1	Markable 18 35	a horizontal line
+T2	Markable 131 149	the large gray dot
+T3	Markable 106 110	that
+T4	Markable 3 9	4 dots
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 41 66	very very large light dot
+T6	Markable 79 90	the other 3

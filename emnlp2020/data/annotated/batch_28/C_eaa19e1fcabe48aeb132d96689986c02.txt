@@ -1,0 +1,4 @@
+1: Small black dot, to the right a above it is a very light medium sized dot
+0: I think so, does the lighter medium dot have a darker slightly bigger dot up and to the right of it?
+1: Yeppers, click black
+0: Okay!

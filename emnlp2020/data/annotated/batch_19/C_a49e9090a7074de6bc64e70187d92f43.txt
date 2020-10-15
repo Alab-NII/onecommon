@@ -1,0 +1,5 @@
+0: I have three large dark gray dots very close together in a line slanted to the right.
+1: Is there a 4th dot that makes it look like a backward L?
+0: Actually two of the dots are medium on second thought. But yes, I have a large dot making an L, kind of to the lower right of the line.
+1: Let's go with the top dot of the line
+0: Sounds good

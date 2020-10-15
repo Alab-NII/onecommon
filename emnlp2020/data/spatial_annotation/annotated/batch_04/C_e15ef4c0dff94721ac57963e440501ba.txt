@@ -1,0 +1,5 @@
+1: two med sized dots top one very dark almost on a vertical line?
+0: i don't have that how about a cluster of three at the bottom one medium size light gray, one small med gray, one small slightly darker gray
+1: hmm i think one of those is cut off for me. are two of them almost on a vertical line?
+0: yes the small ones
+1: k click the med grey one on top

@@ -1,0 +1,7 @@
+T1	Markable 78 115	a slightly larger slightly darker one
+T2	Markable 43 68	a very small med/dark one
+T3	Markable 119 121	it
+T4	Markable 154 156	it
+T5	Markable 250 279	the very small left upper one
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T2	

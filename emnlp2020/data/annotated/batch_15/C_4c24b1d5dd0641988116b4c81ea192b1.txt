@@ -1,0 +1,8 @@
+1: I have one dark black medium sized dot with a tiny light grey dot up and to the right at 1 oclock
+0: Hmm... biggest dot on my screen is also lightest with a darker slightly smaller dot very close, about a centimeter away
+1: My biggest dot is also very light, but I cant see down from it as its at the bottom of my circle. Does it have a small black dot horizontal to the left? The small black is slightly lower?
+0: Lets go back to your first example actually its close to the middle, the small light grey one at 1'oclock
+1: I mean 1 oclock relative to the black dot, not the circle.
+0: Yep, and its the smallest dot I see and nearly the lightest too
+1: Ok, lets go with the smaller lighter dot
+0: Good luck!

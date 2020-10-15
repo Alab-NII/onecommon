@@ -1,0 +1,4 @@
+0: a medium grey large dot on the edge?
+1: Can you see a triangle of three? Dark medium and light
+0: yes i have the triangle, middle one is medium grey? wanna choose that?
+1: Sounds good! Good luck

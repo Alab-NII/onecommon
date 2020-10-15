@@ -1,0 +1,5 @@
+1: do u see a black dot, almost in the middle of 4 other dots around it, the 4 others basically form a box
+0: What color are the dots surrounding it?
+1: dark grey
+0: Yes I have that. I'm selecting the black one
+1: ok

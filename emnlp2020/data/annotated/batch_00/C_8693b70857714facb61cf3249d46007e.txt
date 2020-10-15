@@ -1,0 +1,6 @@
+1: My largest dot is medium gray, far on the right.
+0: I have 2 big dark gray dots near bottom right around 4 o'clock
+1: I think I see those - the one on the left is slightly larger and lower?
+0: Yes.
+1: Yay! Shall we choose the larger of those two?
+0: Ok choose that one

@@ -1,0 +1,15 @@
+T1	Markable 15 31	a small dark dot
+T2	Markable 43 46	one
+T3	Markable 80 114	two medium sized, medium grey dots
+T4	Markable 57 74	a little triangle
+T5	Markable 48 50	It
+T6	Markable 128 141	the small one
+T7	Markable 269 275	3 dots
+T8	Markable 352 359	the dot
+T9	Markable 303 325	two sets of three dots
+T10	Markable 379 388	both sets
+T11	Markable 395 397	it
+T12	Markable 441 449	that one
+R1	Anaphora Arg1:T5 Arg2:T2	
+T13	Markable 162 175	the small one
+T14	Markable 210 230	the two medium sized

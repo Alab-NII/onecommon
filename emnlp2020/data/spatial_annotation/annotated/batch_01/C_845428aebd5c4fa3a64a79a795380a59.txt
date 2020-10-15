@@ -1,0 +1,3 @@
+1: three dark dot making triangle, biggest one to left
+0: yes, i see the triangle... does it also have a fourth dot, much lighter than the rest, to the right of the top of the triangle/
+1: yes, lets select biggest one which is on the left side

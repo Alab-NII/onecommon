@@ -1,0 +1,4 @@
+1: Do you see two large dots very close together?
+0: Yes - I have a large black dot with one the same size but a little lighter just slightly down and to the right.
+1: Yes! I see that too. Want to pick the one that is below, lighter and slightly to the right?
+0: Yes.

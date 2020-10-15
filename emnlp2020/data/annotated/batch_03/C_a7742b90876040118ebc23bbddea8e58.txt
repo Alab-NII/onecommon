@@ -1,0 +1,4 @@
+1: I have a large black by 5 oclock
+0: one small black which is the smallest
+1: in the centerish?
+0: yes. if you have this, let us select this small dark

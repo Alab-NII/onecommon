@@ -1,0 +1,4 @@
+1: i SEE A DARK GRAY DOT
+0: cluster of three, all different shades at a slight curve up to the right. There is a dark grey dot to the left of this cluster
+1: I have that one too. Let's select it
+0: okay

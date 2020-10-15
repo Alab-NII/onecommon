@@ -1,0 +1,26 @@
+T1	Markable 10 16	2 dots
+T2	Markable 41 44	one
+T4	Markable 55 64	the other
+T6	Markable 102 106	that
+T7	Markable 66 80	the bottom one
+T8	Markable 124 128	that
+T9	Markable 200 204	that
+T10	Markable 142 152	a dark dot
+T11	Markable 255 263	two dots
+T12	Markable 313 324	the top one
+T13	Markable 351 364	two dark dots
+T14	Markable 416 431	a group of dots
+T16	Markable 443 459	a tiny black dot
+T17	Markable 497 499	it
+T18	Markable 525 534	the other
+T19	Markable 501 504	one
+T20	Markable 569 582	the black dot
+R1	Anaphora Arg1:T6 Arg2:T1	
+R2	Anaphora Arg1:T7 Arg2:T4	
+A1	No-Referent T8
+R3	Anaphora Arg1:T9 Arg2:T10	
+T3	Markable 300 311	one another
+R4	Anaphora Arg1:T3 Arg2:T11	
+T5	Markable 388 399	one another
+R5	Anaphora Arg1:T5 Arg2:T13	
+T15	Markable 472 490	two dark grey dots

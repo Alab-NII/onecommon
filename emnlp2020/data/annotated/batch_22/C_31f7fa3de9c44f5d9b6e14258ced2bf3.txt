@@ -1,0 +1,6 @@
+1: Single large black dot all alone?
+0: I have a massive dark dot with a tiny dark dot above it to the right
+1: do not have the smaller dot, is the large dot at the top?
+0: yes
+1: ok lets go with the large dot
+0: ok

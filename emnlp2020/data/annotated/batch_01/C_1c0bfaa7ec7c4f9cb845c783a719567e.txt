@@ -1,0 +1,8 @@
+0: I have a dark dot at 12 and another one at 3ish
+1: almost all my dots are the same size... one smaller one is Medium/dark next to a large medium/dark to its left/lower and a large darker to the right almost even with it, slightly above
+0: Do you have 4 dots in a triangular type shape ?
+1: no i think your 3 oclock is missing from mine. as my 11 oclock is missing from yours prolly. do you have a same-size, slightly lighter dot below your 12 oclock dot?
+0: No, do you have dots in a line ?
+1: with the smallest one in the middle?
+0: Yes
+1: i think so... let's try the smallest one

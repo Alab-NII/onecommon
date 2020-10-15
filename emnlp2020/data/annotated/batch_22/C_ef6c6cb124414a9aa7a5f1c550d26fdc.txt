@@ -1,0 +1,5 @@
+0: mine make a y sideways... with a black dot in the center
+1: How big is the center black dot in relation to the others ?
+0: my smallest
+1: Ok I think we can go for that one.
+0: sure

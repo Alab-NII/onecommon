@@ -1,0 +1,4 @@
+1: I have a large black dot near the edge southeast of center
+0: I do as well up and to the left of it there is a smaller grey dot
+1: Let's choose the black dot
+0: Okay!

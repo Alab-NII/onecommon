@@ -1,0 +1,31 @@
+T1	Markable 24 34	each other
+T2	Markable 53 66	a smaller one
+T3	Markable 36 47	A large one
+T5	Markable 134 143	the other
+T7	Markable 145 156	the top one
+T8	Markable 176 181	yours
+T9	Markable 189 200	the lighter
+T10	Markable 3 15	2 black dots
+R1	Anaphora Arg1:T1 Arg2:T10	
+T11	Markable 70 73	its
+R2	Anaphora Arg1:T11 Arg2:T3	
+T6	Markable 123 126	one
+T4	Markable 89 122	a close set of similar sized dots
+T12	Markable 204 209	the 2
+T13	Spatial-Relation 16 23	next to
+T14	Spatial-Relation 48 52	with
+T15	Spatial-Relation 55 62	smaller
+T16	Spatial-Relation 74 78	left
+T17	Spatial-Relation 91 100	close set
+T18	Spatial-Relation 104 117	similar sized
+T19	Spatial-Relation 127 133	on top
+T20	Spatial-Relation 149 152	top
+T21	Spatial-Relation 160 166	darker
+T22	Spatial-Relation 201 203	of
+T23	Spatial-Relation 193 200	lighter
+R3	Subj Arg1:T16 Arg2:T2	
+R4	Obj Arg1:T16 Arg2:T11	
+A1	No-Obj T17
+A2	No-Obj T18
+R5	Obj Arg1:T20 Arg2:T5	
+R6	Obj Arg1:T21 Arg2:T5	

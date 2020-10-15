@@ -1,0 +1,4 @@
+0: Hello. Do you have a large dark dot with a lighter dot just above and to the right of it?
+0: Your answer seems to be blank.
+1: Yes
+0: Okay. Let's select the large dark one.

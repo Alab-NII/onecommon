@@ -1,0 +1,4 @@
+1: do u see a really light grey dot, mostly alone?
+0: no. do you see a medium gray dot with one small light gray and one small dark gray below it
+1: the darker one is a bit to the left, and the smaller light one is barely to the right, both below?
+0: yes!

@@ -1,0 +1,4 @@
+1: i have two very dark dots near each other, one is small and one is medium/large
+0: is the smaller one at 11 o clock from the larger one?
+1: yes. great description. can we pick the smaller one together?
+0: Perfect. will do

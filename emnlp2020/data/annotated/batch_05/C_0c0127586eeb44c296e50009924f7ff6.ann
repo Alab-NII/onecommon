@@ -1,0 +1,26 @@
+T1	Markable 57 71	the middle one
+T2	Markable 44 50	a line
+T3	Markable 126 136	one larger
+T4	Markable 98 110	2 black dots
+T5	Markable 154 158	they
+T6	Markable 167 171	they
+T7	Markable 218 239	3 vertical small grey
+T8	Markable 258 261	one
+T9	Markable 265 279	the black ones
+T10	Markable 366 376	the larger
+T11	Markable 316 318	it
+T12	Markable 422 432	each other
+T13	Markable 399 403	they
+T15	Markable 15 32	3 light/same size
+R1	Predicative Arg1:T2 Arg2:T15	
+R2	Anaphora Arg1:T6 Arg2:T5	
+T16	Markable 178 186	the ones
+T17	Markable 203 207	they
+R3	Anaphora Arg1:T11 Arg2:T8	
+T18	Markable 392 397	the 3
+R4	Anaphora Arg1:T13 Arg2:T18	
+R5	Anaphora Arg1:T12 Arg2:T13	
+T19	Markable 440 450	small grey
+T20	Markable 468 475	the one
+T21	Markable 538 555	middle small grey
+T14	Markable 510 531	the middle small grey

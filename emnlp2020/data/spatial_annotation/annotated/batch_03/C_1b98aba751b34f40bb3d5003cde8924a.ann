@@ -1,0 +1,33 @@
+T1	Markable 88 108	a smaller darker dot
+T2	Spatial-Relation 166 178	the smallest
+T3	Markable 140 157	a small black dot
+T4	Markable 200 220	a larger lighter dot
+T5	Markable 192 194	it
+T6	Markable 266 284	the tiny black dot
+T7	Markable 3 18	My smallest dot
+T8	Markable 31 52	medium light grey dot
+T9	Spatial-Relation 6 14	smallest
+A1	No-Obj T9
+T10	Spatial-Attribute 22 27	black
+T11	Modifier 54 62	slightly
+T12	Spatial-Relation 63 68	below
+T13	Spatial-Relation 73 84	to the left
+T14	Spatial-Relation 90 97	smaller
+T15	Spatial-Relation 98 104	darker
+R2	Obj Arg1:T14 Arg2:T8	
+R3	Obj Arg1:T15 Arg2:T8	
+A2	No-Obj T2
+T16	Spatial-Relation 195 199	have
+T17	Spatial-Relation 202 208	larger
+T18	Spatial-Relation 209 216	lighter
+R1	Obj Arg1:T17 Arg2:T5	
+R4	Obj Arg1:T18 Arg2:T5	
+T19	Spatial-Relation 221 232	to the left
+T20	Spatial-Relation 233 241	downward
+#1	AnnotatorNotes T20	down
+R5	Obj Arg1:T19 Arg2:T5	
+R6	Obj Arg1:T20 Arg2:T5	
+R7	Subj Arg1:T13 Arg2:T1	
+R8	Obj Arg1:T13 Arg2:T8	
+R9	Subj Arg1:T12 Arg2:T1	
+R10	Obj Arg1:T12 Arg2:T8	

@@ -1,0 +1,14 @@
+T1	Markable 109 122	the black one
+T2	Markable 3 11	two dots
+T3	Spatial-Relation-Markable 41 46	right
+T4	Spatial-Relation-Markable 84 88	left
+T5	Modifier 12 18	almost
+T6	Spatial-Relation 19 39	on a horizontal line
+A1	No-Obj T6
+R1	Obj Arg1:T3 Arg2:T2	
+T7	Modifier 47 55	slightly
+T8	Spatial-Relation 56 62	larger
+R2	Obj Arg1:T8 Arg2:T2	
+T9	Spatial-Attribute 67 72	black
+R3	Obj Arg1:T4 Arg2:T2	
+T10	Spatial-Attribute 92 102	light grey

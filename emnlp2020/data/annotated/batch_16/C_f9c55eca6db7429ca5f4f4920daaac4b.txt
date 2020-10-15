@@ -1,0 +1,6 @@
+0: Is your smallest dot black?
+1: small dot at almost 9 o'clock
+0: Does it have a larger dark grey one below it but way to the right?
+1: yes
+0: Okay which one do we select?
+1: we pick the small top to the left edge of circle

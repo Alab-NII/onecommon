@@ -1,0 +1,4 @@
+0: I have a large black dot with a smaller lighter one above it
+1: Yes, I have that.
+0: Lets pick the darker one
+1: Perfect

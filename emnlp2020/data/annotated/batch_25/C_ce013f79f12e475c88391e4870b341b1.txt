@@ -1,0 +1,4 @@
+0: My blackest dot is medium gray
+1: Do you have two big dots that are medium gray?
+0: Yes and slant above each other
+1: I have those too. Pick the one to the upper right?

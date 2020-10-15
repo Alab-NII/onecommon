@@ -1,0 +1,4 @@
+1: do u have a black dot with a light dot above and to the left of it?
+0: 2 dots same size darker on lower and a bit to the right
+1: yeah, lets pick the dark one
+0: ok

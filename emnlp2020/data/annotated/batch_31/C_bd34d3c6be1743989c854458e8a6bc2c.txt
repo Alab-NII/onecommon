@@ -1,0 +1,2 @@
+1: Largest black dot. Above it is a medium grey and it's a little left. Below that black is a medium grey slightly to the right
+0: i have that large black dot too. choose that

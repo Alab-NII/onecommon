@@ -1,0 +1,4 @@
+0: I have a dark medium sized dot on it's own at about 6 o'clock.
+1: I do too
+0: Okay let's select that one.
+1: ok

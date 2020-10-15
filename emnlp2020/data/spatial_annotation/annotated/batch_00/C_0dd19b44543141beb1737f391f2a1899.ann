@@ -1,0 +1,19 @@
+T1	Markable 15 31	a large dark dot
+T2	Markable 37 70	a medium sized medium colored dot
+T3	Markable 93 95	it
+T4	Markable 147 158	another dot
+T5	Markable 111 122	a large dot
+T6	Markable 198 209	the lighter
+R1	Anaphora Arg1:T3 Arg2:T1	
+T7	Markable 213 223	darker one
+T10	Spatial-Relation 78 92	straight above
+T12	Spatial-Relation 123 146	aligned vertically with
+T13	Spatial-Relation 163 182	smaller and lighter
+R10	Obj Arg1:T13 Arg2:T5	
+T15	Spatial-Relation 202 209	lighter
+T16	Spatial-Relation 213 219	darker
+R16	Obj Arg1:T16 Arg2:T6	
+T8	Spatial-Relation-Markable 228 234	darker
+R17	Obj Arg1:T8 Arg2:T6	
+T9	Spatial-Relation 32 36	with
+T11	Modifier 71 77	almost

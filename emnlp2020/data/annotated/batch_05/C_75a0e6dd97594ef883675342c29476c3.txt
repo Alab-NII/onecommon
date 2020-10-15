@@ -1,0 +1,8 @@
+1: i see a long line of 5 dots on the left side, broken line, darkest dot 4th down
+0: Is your darkest dot smaller than all the other ones?
+1: yes, and below the lightest one that is slightly larger
+0: I don't have anything below that! But I think we might be looking at the same thing. Above the darkest dot, is a light grey one, kinda to the left?
+1: yes kind of to the left and the next dot up is about same size and darker grey to the right
+0: Yes!
+1: lets choose the darkest smallest dot then
+0: Okay! Have a good day :)

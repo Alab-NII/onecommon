@@ -1,0 +1,3 @@
+0: largest dot is black and to the top
+1: Yes and there is a dot of the same size that is light grey below and to the right
+0: pick largest black

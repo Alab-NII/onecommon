@@ -1,0 +1,5 @@
+T1	Markable 9 25	2 BIG black dots
+T2	Markable 61 65	them
+T3	Markable 36 52	a tiny black dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T4	Markable 100 116	the blackest dot

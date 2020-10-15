@@ -1,0 +1,4 @@
+0: i have a horizontal line of very dark small dots
+1: I see 5 darker dots in a very wide "M"
+0: yeah! we both have the M. let's pick that big one
+1: ok

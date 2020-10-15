@@ -1,0 +1,12 @@
+T2	Markable 66 74	anything
+T3	Markable 125 140	a tiny grey dot
+T4	Markable 98 119	two medium black dots
+T5	Markable 152 156	them
+T6	Markable 191 201	those dots
+T7	Markable 230 243	the black dot
+T8	Markable 3 34	two large almost identical dots
+T9	Markable 35 38	top
+A1	No-Referent T2
+R1	Anaphora Arg1:T5 Arg2:T4	
+T1	Markable 161 171	small gray
+T10	Markable 210 212	it

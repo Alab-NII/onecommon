@@ -1,0 +1,5 @@
+1: Do you have a large black dot
+0: I do, adjacent from a light gray one
+1: I have that one too! the light gray is to the left of the black
+0: Yes, mine too!
+1: Lets choose the black?

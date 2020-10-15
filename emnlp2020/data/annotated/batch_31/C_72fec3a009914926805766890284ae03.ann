@@ -1,0 +1,9 @@
+T1	Markable 10 37	three medium dark grey dots
+T3	Markable 205 224	the darker grey one
+T4	Markable 155 180	three of the zig zag line
+T5	Markable 266 268	it
+T6	Markable 234 259	two slightly lighter ones
+T7	Markable 90 99	Four dots
+R1	Anaphora Arg1:T5 Arg2:T3	
+T2	Markable 272 282	the zigzag
+R2	Anaphora Arg1:T2 Arg2:T4	

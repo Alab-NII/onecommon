@@ -1,0 +1,3 @@
+1: I just have one big dot. It is a medium gray.
+0: I have two of those. Is there a darker, smaller dot about an inch above it? Or is there a smaller dot of the same color above and to the left of it?
+1: This dot has a smaller dot of the same color to the left. Let's choose that one big dot.

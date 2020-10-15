@@ -1,0 +1,4 @@
+1: three dots in a row, bigger light gray, smaller dark gray, bigger light gray, up and down
+0: I see that
+1: pick the small one?
+0: yea

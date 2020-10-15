@@ -1,0 +1,4 @@
+0: Two dots, extremely close together, one to right is much bigger
+1: Is the one on the right lower than the other one?
+0: yes it is!, lets take the big one!
+1: ok

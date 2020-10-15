@@ -1,0 +1,4 @@
+1: Do you see one light gray with two large black dots to the left above and below?
+0: Yes!
+1: Do you want to try the light gray?
+0: Let's do it!

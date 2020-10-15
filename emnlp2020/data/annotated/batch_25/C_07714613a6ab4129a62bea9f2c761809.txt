@@ -1,0 +1,3 @@
+1: I have a light grey medium dot with a darker small dot lower and left of it
+0: I might have that. Is there a black dot below those two, so that the three form a triangle?
+1: yes select the medium light grey dot

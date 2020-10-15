@@ -1,0 +1,3 @@
+1: I have 3 grey large dots making a triangle, the one on the bottom is the lightest
+0: i see that, let's choose the one on the bottom
+1: sure

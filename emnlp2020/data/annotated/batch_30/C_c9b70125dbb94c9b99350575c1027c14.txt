@@ -1,0 +1,3 @@
+0: I see two dots almost vertical. tiny black one on top and big light gray on the bottom
+1: I see that. let's pick the bottom dot
+0: ok

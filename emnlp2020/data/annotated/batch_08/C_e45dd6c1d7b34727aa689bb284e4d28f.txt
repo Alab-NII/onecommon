@@ -1,0 +1,6 @@
+1: smaller black dot by itself?
+0: smallest dark dot to the right and below a larger lighter dot?
+1: I dont see the other ones. below it to the right is a much larger dark grey dot.
+0: i don't see that
+1: ok what about 2 dots about the same darker grey shade, one dot larger and above the other to the left
+0: Yes. pick the larger one

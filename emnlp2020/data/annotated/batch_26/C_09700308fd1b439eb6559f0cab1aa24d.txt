@@ -1,0 +1,4 @@
+1: do you see a tiny tiny mid grey one? with two larger close by?
+0: i see a smaller triangle of 3 dots top left is darker grey and large, bottom is small lighter grey, and right most is darkest and slightly smaller than large dot
+1: I see the triangle, let's pick the smaller dot of the 3, ok?
+0: yes!

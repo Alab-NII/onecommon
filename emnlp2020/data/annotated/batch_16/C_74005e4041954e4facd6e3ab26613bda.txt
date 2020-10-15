@@ -1,0 +1,7 @@
+0: I see a very dark medium circle by itself at the bottom
+1: I see a dot larger than the rest about medium gray at the bottom
+0: Is there a very light gray small circle to the far right of your medium gray circle?
+1: No, but my medium darker circle is towards the right, so it may be cut off
+0: Is there a smaller circle of the same color of the large medium gray circle?
+1: Yes, towards the top. I say we choose the large medium gray circle
+0: okay

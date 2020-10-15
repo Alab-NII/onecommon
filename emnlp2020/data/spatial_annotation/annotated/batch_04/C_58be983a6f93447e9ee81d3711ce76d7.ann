@@ -1,0 +1,22 @@
+T1	Markable 15 32	a small black dot
+T2	Markable 36 42	itself
+T3	Markable 63 95	a very large very light grey dot
+T4	Markable 117 125	that one
+T5	Markable 144 169	a smaller slightly darker
+T6	Markable 173 190	a horizontal line
+T7	Markable 196 198	it
+T9	Markable 253 272	The large light one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T10	Markable 202 205	its
+T8	Spatial-Relation 33 35	by
+T11	Spatial-Relation 146 153	smaller
+T12	Spatial-Relation 175 185	horizontal
+A1	No-Obj T12
+T13	Modifier 154 162	slightly
+T14	Spatial-Relation 163 169	darker
+T15	Spatial-Relation 191 195	with
+R2	Subj Arg1:T15 Arg2:T5	
+T16	Spatial-Relation 206 210	left
+R3	Subj Arg1:T16 Arg2:T5	
+R4	Obj Arg1:T16 Arg2:T10	
+#1	AnnotatorNotes T8	alone

@@ -1,0 +1,3 @@
+0: smallest dot is black
+1: Is there a very large dark grey dot above it?
+0: yes! pick the small one

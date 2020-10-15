@@ -1,0 +1,6 @@
+T1	Markable 15 37	a medium dark gray dot
+T2	Markable 97 142	two almost identical small lightish grey dots
+T3	Markable 153 170	a horizontal line
+T4	Markable 185 189	them
+T5	Markable 201 208	the one
+R1	Predicative Arg1:T3 Arg2:T2	

@@ -1,0 +1,4 @@
+1: two dark dots different sizes very close together?
+0: yes, choose the bigger one?
+1: yes if the larger one is on the right click the larger one
+0: yes

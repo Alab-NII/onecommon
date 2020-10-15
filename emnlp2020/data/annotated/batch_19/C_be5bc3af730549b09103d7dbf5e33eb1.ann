@@ -1,0 +1,12 @@
+T1	Markable 50 70	two darker grey dots
+T2	Markable 75 94	5 lighter grey dots
+T3	Markable 138 144	a line
+T4	Markable 241 243	it
+T5	Markable 251 253	it
+T6	Markable 264 278	the middle dot
+T7	Markable 3 24	three light grey dots
+T8	Markable 102 120	three lighter grey
+R1	Predicative Arg1:T3 Arg2:T8	
+T9	Markable 190 196	middle
+R2	Anaphora Arg1:T4 Arg2:T9	
+R3	Anaphora Arg1:T6 Arg2:T5	

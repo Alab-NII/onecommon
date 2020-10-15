@@ -1,0 +1,9 @@
+T1	Markable 9 26	a small black dot
+T2	Markable 37 45	two dots
+T3	Markable 64 77	the lower one
+T4	Markable 142 146	them
+T5	Markable 161 172	a black dot
+T6	Markable 200 215	the lighter one
+T7	Markable 240 259	the small black dot
+T8	None 197 199	if
+#1	AnnotatorNotes T8	of

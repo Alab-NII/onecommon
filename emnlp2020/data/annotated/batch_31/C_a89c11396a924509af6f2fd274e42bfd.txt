@@ -1,0 +1,6 @@
+0: hi small grey dot on left a little more than halfway up
+1: No. 3 black dots forming a 7 or an L
+0: i think i see that, how about the dot nearest the edge?
+1: is it smaller than the other 2 ?
+0: yes
+1: click on that one

@@ -1,0 +1,3 @@
+0: do you see 2 dots together? 1 large and 1 medium
+1: yes, the large one is darker and above and to the left of the medium one?
+0: yes, choose the darker one

@@ -1,0 +1,21 @@
+T1	Markable 14 31	a medium dark Dot
+T2	Markable 70 87	a large light dot
+T3	Markable 47 49	it
+T4	Markable 106 126	a light grey med dot
+T5	Markable 132 153	a small dark grey dot
+T6	Markable 160 162	it
+T7	Markable 323 332	the three
+T8	Markable 277 287	lowest one
+T9	Markable 301 308	top one
+T10	Markable 219 229	each other
+T11	Markable 262 272	each other
+T12	Markable 344 355	the largest
+R1	Anaphora Arg1:T3 Arg2:T1	
+R2	Anaphora Arg1:T6 Arg2:T4	
+T13	Markable 194 204	three dots
+R3	Anaphora Arg1:T10 Arg2:T13	
+R4	Anaphora Arg1:T11 Arg2:T13	
+R5	Anaphora Arg1:T7 Arg2:T13	
+T14	Markable 379 384	the 3
+T15	Markable 391 403	that largest
+R6	Anaphora Arg1:T15 Arg2:T12	

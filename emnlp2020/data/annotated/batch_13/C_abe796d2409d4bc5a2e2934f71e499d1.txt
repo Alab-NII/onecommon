@@ -1,0 +1,4 @@
+1: Do you see a light lonely small dot
+0: Nope, dont have that one. Do you have a large medium grey dot with a smaller darker one to the right of it and up a bit? they're fairly close together
+1: Yes I do
+0: Great, click the larger one?

@@ -1,0 +1,4 @@
+0: 5 dots very close together?
+1: yes. 3 black dots - large-small-med sloping down to the right?
+0: yes if the middle one is black and smallest click that one
+1: ok

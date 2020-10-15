@@ -1,0 +1,11 @@
+T1	Markable 10 43	only one larger light grey circle
+T2	Markable 66 83	a small black dot
+T3	Markable 92 94	it
+T4	Markable 135 152	a small black dot
+T5	Markable 235 242	the one
+T6	Markable 363 382	the small black one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T7	Markable 215 225	Any others
+A1	Generic T7
+T8	Markable 247 265	one small dark one
+T9	Markable 295 309	a med grey one

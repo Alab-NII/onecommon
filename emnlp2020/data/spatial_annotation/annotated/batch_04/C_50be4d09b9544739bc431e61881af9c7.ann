@@ -1,0 +1,13 @@
+T1	Markable 38 71	a slightly darker and smaller dot
+T2	Markable 105 130	that large very light one
+T3	Markable 3 28	large very very light dot
+T4	Markable 80 83	its
+T5	Spatial-Relation 33 37	with
+T6	Modifier 40 48	slightly
+T7	Spatial-Relation 49 55	darker
+T8	Spatial-Relation 60 67	smaller
+R1	Subj Arg1:T5 Arg2:T4	
+T9	Spatial-Relation 72 76	down
+T10	Spatial-Relation 84 89	right
+R2	Subj Arg1:T10 Arg2:T1	
+R3	Obj Arg1:T10 Arg2:T4	

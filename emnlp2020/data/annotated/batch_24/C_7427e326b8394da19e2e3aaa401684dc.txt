@@ -1,0 +1,4 @@
+1: I have a large medium gray dot on the upper right perimeter of the circle
+0: I don't have that. I have 2 large same sized dots almost in a horizontal line. The one on the right is darker and slightly above the one on the left.
+1: I see them let's choose the darker right one
+0: ok

@@ -1,0 +1,11 @@
+T1	Markable 47 58	the top dot
+T2	Markable 18 26	two dots
+T3	Markable 91 114	2 large horizontal dots
+T4	Markable 122 126	they
+T5	Markable 155 159	they
+T6	Markable 226 243	another large dot
+T7	Markable 250 257	the two
+T8	Markable 269 276	the dot
+T9	Markable 339 346	the one
+T11	Markable 312 325	the large dot
+R1	Anaphora Arg1:T9 Arg2:T11	

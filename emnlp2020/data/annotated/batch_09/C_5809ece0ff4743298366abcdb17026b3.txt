@@ -1,0 +1,3 @@
+0: I have two dots very close to each other a slightly larger lighter one above a smaller darker one
+1: I have two places where three dots form a triangle, I see what you're describing, a medium grey to the left, then a smaller black on the bottom and a large light grey next. Should we choose the large light grey?
+0: yes

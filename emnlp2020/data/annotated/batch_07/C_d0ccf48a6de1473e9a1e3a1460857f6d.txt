@@ -1,0 +1,6 @@
+0: I have a cluster of 3 small dots that form a triangle. two are black
+1: I see a tiny dark grey dot with a light grey small dot above it and a dark grey below it both on the right side and they are both bigger
+0: yes. I think I see that. Should we choose the tiny dot?
+1: do you see a large dark grey circle also on the right
+0: I do
+1: let's choose the tiny dot

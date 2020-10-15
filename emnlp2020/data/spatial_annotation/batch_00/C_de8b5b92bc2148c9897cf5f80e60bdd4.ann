@@ -1,0 +1,12 @@
+T1	Markable 9 20	a line of 4
+T2	Markable 55 59	that
+T3	Markable 68 94	one medium sized black dot
+T4	Markable 128 151	a smaller dark gray dot
+T5	Markable 190 192	it
+T6	Markable 264 273	Right dot
+T7	Markable 340 344	that
+T8	Markable 357 371	the darker one
+T9	Markable 23 26	top
+A1	No-Referent T2
+R1	Anaphora Arg1:T5 Arg2:T3	
+T10	Markable 217 230	two small dot

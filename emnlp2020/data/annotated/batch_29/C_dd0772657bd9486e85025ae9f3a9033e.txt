@@ -1,0 +1,3 @@
+1: two dots left is light grey and tiny, to the right is a slightly darker grey and slightly larger dot
+0: Yes! Which one should we pick>
+1: lets go with the left one

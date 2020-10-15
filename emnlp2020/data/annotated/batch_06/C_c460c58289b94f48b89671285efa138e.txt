@@ -1,0 +1,6 @@
+1: I have a very large very dark dot kind of off by itself. It have a much lighter, much smaller dot at its 2 oclock
+0: do you see any other dots around it?
+1: No, but the edge of my circle is down and to the right of it, so there could be some that way. It also has a smaller, dark dot over at its 10 oclock. They are both pretty far away from it
+0: the much smaller much lighter one, are there any close to that one?
+1: Yes, there is a medium sized, slightly darker dot up and to the left
+0: ok. i am going to choose the first dark dot that you mentioned.

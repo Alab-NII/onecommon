@@ -1,0 +1,10 @@
+T1	Markable 15 29	any black dots
+T2	Markable 40 52	3 black dots
+T3	Markable 89 92	One
+T4	Markable 113 121	the rest
+T5	Markable 195 215	the black larger one
+T6	Markable 277 289	the same one
+T7	Markable 306 308	it
+T8	Markable 54 55	2
+T9	Markable 219 223	mine
+R1	Anaphora Arg1:T6 Arg2:T9	

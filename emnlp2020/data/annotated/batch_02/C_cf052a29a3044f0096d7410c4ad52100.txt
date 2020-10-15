@@ -1,0 +1,5 @@
+1: Ok so...I have two dots aligned almost horizontally, with the dot on the left being lighter. The dots are about the same size
+0: i see only one tiny light grey dot available, to its right are three darker dots that, if connected would form] a diagonal line
+1: I'm not seeing that. If you look beneath that diagonal line, is there a large dark dot?
+0: no. with your two dots of the same size, is there a slightly smaller medium grey dot slightly below them and to the right?
+1: Maybe? Let's click that one because we're running out of time.

@@ -1,0 +1,8 @@
+0: My blackest dot is medium size, yours?
+1: i have one it is on the top on the right
+0: Does it have a largest lighter dot on top to the left
+1: no it is by itself
+0: Do you have a tiny light dot
+1: yes it in the middle. next to the med grey dot on the right
+0: Let us select the tiny light dot
+1: okay

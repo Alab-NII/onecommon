@@ -1,0 +1,8 @@
+1: Hi!
+0: hi
+1: Do you have a large black dot in the middle but just a little lower?
+0: no
+1: Do you have a really tiny light grey dot to the left touching the edge almost in the middle but down a bit?
+0: no, do you have big mid-grey dot at the top towards the middle of the circle?
+1: Yes but not directly in the middle and up a little.
+0: yes

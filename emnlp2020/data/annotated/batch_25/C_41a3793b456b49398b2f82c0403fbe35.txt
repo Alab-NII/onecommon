@@ -1,0 +1,4 @@
+0: two identical light grey mediums that are on top of each other
+1: I have two dots kind of close together, one very large and lighter and one smaller
+1: Oh i see those dots too
+0: i dont see your dots. lets grab the top one of my dots

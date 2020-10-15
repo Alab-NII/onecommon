@@ -1,0 +1,16 @@
+T1	Markable 49 71	a large light gray dot
+T2	Markable 82 103	a small dark gray dot
+T3	Markable 127 131	that
+T5	Markable 137 145	two dots
+T6	Markable 164 167	One
+T7	Markable 177 186	the other
+T8	Markable 235 251	the aligned dots
+T9	Markable 292 308	a large gray dot
+T10	Markable 279 288	the other
+T11	Markable 262 274	a large dark
+T12	Markable 15 36	a large dark grey dot
+A1	No-Referent T8
+T4	Markable 255 258	One
+R1	Predicative Arg1:T11 Arg2:T4	
+R2	Predicative Arg1:T9 Arg2:T10	
+R3	Anaphora Arg1:T3 Arg2:T2	

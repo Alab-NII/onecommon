@@ -1,0 +1,16 @@
+T1	Markable 8 14	a line
+T2	Markable 34 44	small ones
+T3	Markable 93 103	a triangle
+T4	Markable 191 205	the left black
+T5	Markable 245 249	mine
+T6	Markable 3 4	3
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 15 20	small
+T8	Markable 21 26	large
+T9	Markable 27 32	small
+T10	Markable 59 71	middle large
+T11	Markable 135 139	left
+T12	Markable 147 152	right
+T13	Markable 163 166	top
+T14	Markable 207 220	your triangle
+R2	Predicative Arg1:T5 Arg2:T14	

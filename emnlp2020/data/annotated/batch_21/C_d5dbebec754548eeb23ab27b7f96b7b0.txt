@@ -1,0 +1,3 @@
+1: do you see a tiny black dot on the dotted line?
+0: We have different views. It's like a venn diagram I'm told. but I do have a small black dot. Below it and to the left is a larger dark grey dot and almost right below is a smaller and low dark grey dot.
+1: Yes, that is the one

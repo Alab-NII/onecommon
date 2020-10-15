@@ -1,0 +1,6 @@
+1: i have a x with 6 dots... in the center
+0: I see a lonely medium grey dot at the bottom. a light grey large one on the left, two dark small dots kind of close to each other
+1: hmm ... i don't think so
+0: there are two medium large dots on either side of the dark ones slightly higher and a light one to the left in between the dark ones and the left light one.
+1: i have to small black dots up and to the left is med size and med gray dot
+0: yes! Pick the medium size medium gray dot that is almost horizontal and to the left of the two dark ones

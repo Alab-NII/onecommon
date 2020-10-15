@@ -1,0 +1,4 @@
+0: I have only one black dot
+1: medium sized?
+0: yes
+1: let's click on it

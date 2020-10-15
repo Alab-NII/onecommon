@@ -1,0 +1,10 @@
+T1	Markable 60 75	three gray dots
+T2	Markable 92 101	a diamond
+T3	Markable 52 54	it
+T4	Markable 136 142	itself
+T5	Markable 122 132	a gray dot
+T6	Markable 152 168	a small grey one
+T7	Markable 189 191	it
+T8	Markable 226 228	it
+T9	Markable 12 26	a black medium
+R1	Anaphora Arg1:T4 Arg2:T5	

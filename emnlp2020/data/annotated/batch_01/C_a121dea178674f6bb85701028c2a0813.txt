@@ -1,0 +1,5 @@
+1: Hello! Where's your dot?
+0: I see a cluster of medium darkness dots, they are in a nearly straight line going up and to the right
+1: I see those as well. is the middle one the largest?
+0: Yes
+1: ok lets pick the middle one

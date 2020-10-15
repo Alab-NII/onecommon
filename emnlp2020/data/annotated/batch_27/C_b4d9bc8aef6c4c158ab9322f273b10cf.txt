@@ -1,0 +1,4 @@
+1: i have one small, dark dot, way off on its own.
+0: hmm no. do you see a line of three dots sloping up to the left? middle dot darkest and largest?
+1: yes i do.
+0: k click the middle one

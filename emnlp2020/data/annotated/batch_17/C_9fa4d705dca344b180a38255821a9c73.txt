@@ -1,0 +1,6 @@
+1: do you have 3 dots in a diagonal row. largest dot on top?
+0: I don't see those. I have a large light gray dot above a small darker gray dot.
+1: is the large light gray dot slightly to the left?
+0: Yes
+1: same.
+0: lets pick the large light gray dot

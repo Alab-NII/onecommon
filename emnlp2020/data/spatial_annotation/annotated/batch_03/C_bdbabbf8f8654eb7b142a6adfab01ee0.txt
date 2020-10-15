@@ -1,0 +1,5 @@
+0: I have 3 differently shaded dots that form a triangle the lightest on the top point
+1: i have 2 of about the same color right next to each other, the right one is slightly smaller, with a light one in between and above them both that's a little smaller still, but not tiny
+0: lets pick the slightly smaller one on the right.
+1: maybe we should pick the light one
+0: ok

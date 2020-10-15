@@ -1,0 +1,7 @@
+T1	Markable 45 68	a light medium size dot
+T2	Markable 83 87	that
+T3	Markable 104 123	the large black one
+T4	Markable 3 18	large black dot
+T5	Spatial-Relation 20 41	above and to the left
+R1	Subj Arg1:T5 Arg2:T1	
+R2	Obj Arg1:T5 Arg2:T4	

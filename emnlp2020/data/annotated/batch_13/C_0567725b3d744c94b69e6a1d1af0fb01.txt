@@ -1,0 +1,4 @@
+1: Do you see a large light dot right next to a black one?
+0: I have a light gray and dark gray dot that are next to each other. the light one is on the right. the dark one is to the left and slightly smaller.
+1: I see a light larger dot on the left and a darker smaller one on the right.
+0: sorry, you are right I got my left and right mixed up. Lets choose the dark one on the right that is slightly smaller.

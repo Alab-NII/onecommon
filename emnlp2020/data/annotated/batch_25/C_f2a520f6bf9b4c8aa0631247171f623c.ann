@@ -1,0 +1,15 @@
+T1	Markable 9 35	two larger light grey dots
+T2	Markable 50 60	each other
+T3	Markable 98 102	them
+T4	Markable 143 145	it
+T5	Markable 112 115	one
+T6	Markable 205 228	the 2 larger light grey
+T7	Markable 237 247	each other
+R1	Anaphora Arg1:T2 Arg2:T1	
+T8	Markable 64 74	2 mid size
+R2	Anaphora Arg1:T3 Arg2:T8	
+T9	Markable 129 131	on
+#1	AnnotatorNotes T9	one
+R3	Anaphora Arg1:T4 Arg2:T5	
+R4	Anaphora Arg1:T7 Arg2:T6	
+T10	Markable 274 281	the one

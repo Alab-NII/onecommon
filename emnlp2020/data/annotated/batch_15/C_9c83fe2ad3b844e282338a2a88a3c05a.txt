@@ -1,0 +1,3 @@
+0: Do you have a tiny black dot in the middle
+1: yes, a larger one same color below to the left?
+0: Yep lets pick the tiny one

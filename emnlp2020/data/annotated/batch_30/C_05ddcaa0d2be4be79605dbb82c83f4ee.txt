@@ -1,0 +1,2 @@
+1: Do you have a medium black with a medium gray directly below it and slightly to the left?
+0: yes! good description! click the black one!

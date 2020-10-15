@@ -1,0 +1,4 @@
+0: do you see a large light dot, directly to the left of a very small, slightly darker dot
+1: yes
+0: lets pick the larger one
+1: ok

@@ -1,0 +1,3 @@
+1: very very tiny black dont?
+0: Yes, to confirm is there a larger, lighter dot to the right?
+1: yes! click that tiny black one!

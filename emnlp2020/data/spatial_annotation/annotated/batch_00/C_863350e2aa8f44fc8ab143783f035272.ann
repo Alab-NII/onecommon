@@ -1,0 +1,8 @@
+T1	Markable 50 78	a medium sized dark grey dot
+T2	Markable 44 46	it
+T3	Markable 86 88	it
+T4	Markable 99 113	the large grey
+T5	Markable 3 17	Tiny light dot
+R1	Anaphora Arg1:T2 Arg2:T5	
+T6	Spatial-Relation 19 43	below and to the left of
+R2	Subj Arg1:T6 Arg2:T1	

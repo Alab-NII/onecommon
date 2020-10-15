@@ -1,0 +1,3 @@
+0: large black dot?
+1: yes
+0: small dark grey dot down below to its right side? if so click the large black one

@@ -1,0 +1,14 @@
+T1	Markable 30 37	The one
+T2	Markable 251 268	one tiny dark dot
+T3	Markable 280 301	a small dark gray dot
+T4	Markable 376 388	a larger dot
+T5	Markable 368 370	it
+T6	Markable 425 427	it
+T7	Markable 470 489	the little dark dot
+T8	Markable 9 13	dots
+T9	Markable 109 113	mine
+A1	All-Referents T9
+T10	Markable 143 162	a large dark circle
+T11	Markable 216 238	any large dark circles
+A2	No-Referent T11
+R1	Anaphora Arg1:T6 Arg2:T5	

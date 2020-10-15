@@ -1,0 +1,5 @@
+1: Hello do you see any large light grey dots?
+0: do you see two dark ones... the right is large, the one to it's left is tiny? only one light (med light) semi-large one that's to the far left of the ones i describe
+1: No I don't. Do you see what I asked?
+0: i answered, the only semi-large light one i see is med-light and it's to the far left of the ones i described. do you have two small ones, one above the other - lower one is slightly to left and darker, top one is same size, lighter?
+1: I have the two light ones your talking about, I believe. I'm selecting the lighter top one.

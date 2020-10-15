@@ -1,0 +1,4 @@
+1: all of my dots are of medium size and are either black or dark grey
+0: mine are too
+1: i have two dots close to each other on upper left hand side one is dark grey one is black the black looks a little smaller than the grey dot
+0: yes i see select the dark grey smaller one

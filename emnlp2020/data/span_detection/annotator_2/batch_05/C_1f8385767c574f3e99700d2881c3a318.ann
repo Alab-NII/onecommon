@@ -1,0 +1,26 @@
+T1	Markable 6 22	your largest dot
+T2	Markable 46 72	two large medium gray dots
+T3	Markable 86 90	them
+T4	Markable 96 113	a small black dot
+T5	Markable 79 82	one
+T6	Markable 120 122	it
+T7	Markable 179 186	the one
+T8	Markable 206 226	a smaller light grey
+T9	Markable 193 195	it
+T10	Markable 233 235	it
+T11	Markable 266 268	it
+T12	Markable 313 326	the large one
+R1	Anaphora Arg1:T6 Arg2:T5	
+T13	Markable 156 169	that some dot
+R2	Anaphora Arg1:T9 Arg2:T13	
+R3	Anaphora Arg1:T10 Arg2:T13	
+T14	Markable 292 312	that medium grey dot
+R4	Predicative Arg1:T12 Arg2:T14	
+T15	Spatial-Relation 11 18	largest
+T16	Spatial-Relation 114 119	above
+T17	Spatial-Relation 127 139	to the right
+T18	Spatial-Relation 187 192	above
+T19	Spatial-Relation 208 215	smaller
+T20	Spatial-Relation 227 232	below
+T21	Modifier 236 244	slightly
+T22	Spatial-Relation 245 257	to the right

@@ -1,0 +1,16 @@
+T1	Markable 10 27	one dark gray dot
+T2	Markable 78 92	any large dots
+T3	Markable 98 117	lots of medium dots
+T4	Markable 171 179	the rest
+T5	Markable 133 148	any little ones
+T6	Markable 223 247	one light gray small dot
+T7	Markable 191 217	two medium gray small dots
+T8	Markable 266 281	the medium ones
+T9	Markable 259 262	one
+T10	Markable 283 285	It
+T11	Markable 338 355	a darker gray one
+T13	Markable 422 430	that one
+T14	Markable 49 61	all the rest
+A1	No-Referent T2
+R1	Anaphora Arg1:T10 Arg2:T9	
+T12	Markable 395 399	that

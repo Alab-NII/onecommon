@@ -1,0 +1,8 @@
+T1	Markable 56 70	the other dots
+T2	Markable 19 40	a very pale small dot
+T3	Markable 95 103	that one
+T4	Markable 115 117	it
+T5	Spatial-Relation 41 55	set apart from
+R1	Subj Arg1:T5 Arg2:T2	
+R2	Obj Arg1:T5 Arg2:T1	
+#1	AnnotatorNotes T5	far

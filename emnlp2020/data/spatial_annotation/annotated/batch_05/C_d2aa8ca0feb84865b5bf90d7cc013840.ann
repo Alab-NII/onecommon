@@ -1,0 +1,18 @@
+T1	Markable 10 24	two large dots
+T2	Markable 26 29	one
+T3	Markable 44 47	one
+T4	Markable 84 88	that
+T5	Markable 161 173	the tiny one
+A1	No-Referent T4
+T6	Markable 92 102	my tiniest
+T7	Markable 121 135	a medium color
+T8	Markable 139 143	mine
+T9	Modifier 33 37	very
+T10	Spatial-Attribute 38 42	dark
+T11	Spatial-Attribute 51 62	medium dark
+T12	Spatial-Relation 95 102	tiniest
+A2	No-Obj T12
+T13	Spatial-Attribute 106 111	light
+T14	Spatial-Relation 116 120	near
+T15	Modifier 51 57	medium
+A3	Mod-Neutral T15

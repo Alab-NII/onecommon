@@ -1,0 +1,3 @@
+1: ok so, one tiny black dot, nothing anywhere near it
+0: Do you see any dots farther away from it? I see a tiny black dot alone too.
+1: well yes, there are other dots, but not close by, pick the lone black dot

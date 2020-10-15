@@ -1,0 +1,4 @@
+0: med/large black one, with a smaller med/grey one right next to it's upper right
+1: i have two dots very close, the bottom left one is black, the top right one is light and smaller
+0: yup sounds the same. pick the light/upper one?
+1: yep, let's pick the grey one on the upper right

@@ -1,0 +1,5 @@
+1: big black dot with a medium grey one immediately under to the left slightly
+0: Do you have 2 black dots 1 large 1 medium around the center?
+1: yes click on the bigger of the two
+0: yup
+1: slight to the left right

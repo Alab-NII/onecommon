@@ -1,0 +1,4 @@
+1: Hello! Where's your dot?
+0: I see a medium dark dot with a small light grey dot above and to the left of it
+1: I don't have that in mine. How about a very large medium grey dot by itself?
+0: I see it, lets pick that one

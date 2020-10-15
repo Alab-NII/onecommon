@@ -1,0 +1,16 @@
+T1	Markable 14 34	two small black dots
+T2	Markable 97 109	a light grey
+T3	Markable 126 133	the one
+T4	Markable 172 185	the light one
+T5	Markable 186 197	a large dot
+T6	Markable 223 232	the black
+T7	Markable 291 320	a large medium shade gray dot
+T8	Markable 378 380	it
+T9	Markable 398 403	those
+T10	Markable 420 435	the smaller one
+R1	Predicative Arg1:T5 Arg2:T4	
+T11	Markable 202 205	its
+T12	Markable 264 278	the same thing
+A1	No-Referent T12
+T13	Markable 326 359	a same shade slightly smaller dot
+R2	Anaphora Arg1:T8 Arg2:T7	

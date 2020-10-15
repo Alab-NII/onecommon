@@ -1,0 +1,5 @@
+0: I got a small grey one next to a larger black one. There are almost parallel to each other. Go for small grey.
+1: I do not have that
+0: Do you have a large centrally located darker one with a lighter equivalent sized one above it and to the right ?
+1: yes
+0: Go for dark

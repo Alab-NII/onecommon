@@ -1,0 +1,4 @@
+1: one small grey one medium grey and one small darker grey in line. do you have this
+0: yes
+1: let us select the medium grey
+0: which one

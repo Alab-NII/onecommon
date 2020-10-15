@@ -1,0 +1,12 @@
+T1	Markable 24 38	a smaller dark
+T2	Markable 99 116	a wonky trapezoid
+T3	Markable 72 86	a cluster of 4
+T4	Markable 129 133	that
+T5	Markable 135 155	Part of my trapezoid
+T6	Markable 164 177	the black one
+T7	Markable 3 18	Large black dot
+T8	Markable 46 49	its
+R1	Anaphora Arg1:T8 Arg2:T7	
+R2	Predicative Arg1:T2 Arg2:T3	
+T9	Markable 192 196	that
+T10	Markable 204 218	the whole trap

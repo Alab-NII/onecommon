@@ -1,0 +1,13 @@
+T2	Markable 92 105	a small black
+T3	Markable 153 168	the large black
+T4	Markable 3 12	big black
+T5	Markable 18 31	smaller black
+T6	Markable 62 74	both of them
+R1	Anaphora Arg1:T3 Arg2:T2	
+T1	Spatial-Relation 13 17	with
+T7	Spatial-Relation 18 25	smaller
+T8	Spatial-Relation 32 46	to lower right
+R2	Obj Arg1:T7 Arg2:T4	
+R3	Obj Arg1:T8 Arg2:T4	
+T9	Spatial-Relation 106 124	to the upper right
+R4	Obj Arg1:T9 Arg2:T4	

@@ -1,0 +1,5 @@
+0: do you see two vertical grey dots that are the lightest in the circle
+1: Yes, I do. The one on top is a little to the left? Similar shades and sizes?
+0: yes, i also have a dark grey dot to the top left of the pair and another one on the bottom to the right of the pair
+1: Yes I see what you're talking about. Lets choose the top light dot
+0: okay

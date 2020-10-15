@@ -1,0 +1,36 @@
+T1	Markable 7 21	two small dots
+T2	Markable 110 115	those
+T3	Markable 124 131	one dot
+T4	Markable 169 201	a smaller, slightly lighter gray
+T5	Markable 242 244	it
+T6	Markable 251 266	the darkest one
+T7	Markable 32 40	the left
+T8	Markable 58 67	the right
+A1	No-Referent T2
+T9	Spatial-Relation 22 30	in a row
+A2	No-Obj T9
+T10	Spatial-Relation 36 40	left
+R1	Obj Arg1:T10 Arg2:T1	
+T12	Spatial-Relation 62 67	right
+R2	Obj Arg1:T12 Arg2:T1	
+T13	Spatial-Attribute 80 85	black
+T14	Spatial-Relation 140 163	the biggest and darkest
+A3	No-Obj T14
+T15	Spatial-Relation 171 178	smaller
+R3	Obj Arg1:T15 Arg2:T3	
+T16	Spatial-Relation 189 196	lighter
+R4	Obj Arg1:T16 Arg2:T3	
+T17	Modifier 180 188	slightly
+R5	Mod Arg1:T17 Arg2:T16	
+T18	Spatial-Relation 202 213	to the left
+R6	Obj Arg1:T18 Arg2:T3	
+T19	Spatial-Relation 218 222	down
+T20	Modifier 223 231	a little
+R7	Mod Arg1:T20 Arg2:T19	
+R8	Obj Arg1:T19 Arg2:T3	
+T21	Spatial-Relation 255 262	darkest
+A4	No-Obj T21
+T22	Spatial-Relation 164 168	with
+T11	Spatial-Relation 44 56	lighter gray
+T23	Modifier 71 79	close to
+A5	Mod-Uncertainty-Approximation T23

@@ -1,0 +1,7 @@
+1: Do you see a large black dot?
+0: No, mine are all light or medium. The largest is located at 2 pm.
+1: Is the largest light or medium?
+0: medium
+1: I have a large medium at about 2pm
+0: me too
+1: lets choose it?

@@ -1,0 +1,2 @@
+1: do you have a triangle shape with top being a black medium dot pointing to the left?
+0: yeah lets do it

@@ -1,0 +1,41 @@
+T1	Markable 30 40	MIDDLE DOT
+T2	Markable 137 148	a dark grey
+T3	Markable 88 100	a light grey
+T4	Markable 130 132	it
+T5	Markable 176 180	that
+T6	Markable 244 258	med grey small
+T7	Markable 241 243	it
+T8	Markable 341 355	the middle one
+T9	Markable 3 9	3 DOTS
+T10	Spatial-Relation-Markable 57 64	LARGEST
+T11	Markable 68 82	tiny black dot
+R1	Anaphora Arg1:T4 Arg2:T11	
+A1	No-Referent T5
+T12	Markable 194 211	a tiny grey light
+T13	Markable 217 236	the 3 diagonal ones
+R2	Anaphora Arg1:T7 Arg2:T13	
+T14	Markable 260 275	large dark grey
+T15	Markable 277 293	light grey small
+T16	Spatial-Relation 10 28	ALIGNED DIAGONALLY
+A2	No-Obj T16
+T17	Spatial-Relation 30 36	MIDDLE
+R3	Obj Arg1:T17 Arg2:T9	
+T18	Spatial-Attribute 44 54	LARGE BACK
+R4	Obj Arg1:T10 Arg2:T9	
+T19	Spatial-Relation 83 87	with
+T20	Modifier 101 106	a bit
+T21	Spatial-Relation 107 113	bigger
+T22	Spatial-Relation 114 129	to the right of
+T23	Spatial-Relation 149 160	to the left
+R5	Obj Arg1:T23 Arg2:T11	
+T24	Spatial-Relation 223 231	diagonal
+A3	No-Obj T24
+T25	Spatial-Relation 294 326	going from left to right upwards
+A4	No-Obj T25
+T26	Spatial-Relation 345 351	middle
+R6	Obj Arg1:T26 Arg2:T9	
+T27	Spatial-Attribute 364 374	large dark
+#1	AnnotatorNotes T25	diagonal
+R7	Subj Arg1:T25 Arg2:T6	
+R8	Subj Arg1:T25 Arg2:T14	
+R9	Subj Arg1:T25 Arg2:T15	

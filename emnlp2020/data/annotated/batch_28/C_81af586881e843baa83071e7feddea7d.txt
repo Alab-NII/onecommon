@@ -1,0 +1,3 @@
+0: I have two small dot and black somewhat close
+1: Does the top one have a large black dot to the right of it
+0: The right is most likely cut of but it has a same size light one to the left. let us select the top one

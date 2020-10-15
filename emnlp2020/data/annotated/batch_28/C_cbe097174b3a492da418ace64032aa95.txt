@@ -1,0 +1,3 @@
+0: i see a cluster of dots and there is a big black dot on top
+1: yup! i see it. click black dot?
+0: yes

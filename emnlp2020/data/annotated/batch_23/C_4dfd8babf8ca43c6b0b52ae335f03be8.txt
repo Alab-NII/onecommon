@@ -1,0 +1,8 @@
+1: do you see 2 dark dots with the bigger one above and a bit left of the bottom one?
+0: Black dot with dot same size underneath it to the right?
+1: no...how about 2 dots same light gray color and same size
+0: Is the top one up and to the right
+1: no...when you asked about the black dot with dot same size underneath it to the right...is it only slightly right and is it a lighter gray
+0: Yes
+1: ok. click the lighter dot under the black one
+0: Okay!

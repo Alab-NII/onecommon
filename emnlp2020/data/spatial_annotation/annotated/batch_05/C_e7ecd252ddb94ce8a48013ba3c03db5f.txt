@@ -1,0 +1,8 @@
+0: lone tiny light grey dot?
+1: Maybe...it is up and to the left of a large dot same shade?
+0: i don't think so, but mine is near the edge, so could be missing your dot, do you have a lone tiny black dot?
+1: I have a tiny black dot but it is up and to the left of another small gray dot
+0: again, mine is on the edge, but its my only tiny black dot, should we pick it?
+1: maybe...but first...do you have a triangle with a black dot anywhere?
+0: yes, the black dot is the top left corner, right top corner is smaller and lighter, bottom point is the lightest of the three
+1: k...pick the black dot at top corner

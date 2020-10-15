@@ -1,0 +1,6 @@
+0: the largest dot is light grey
+1: i have a large light gray is in in the middle of two other dots slightly smaller
+0: i don't have that. do you see a medium sized almost black dot, with a darker dot of the same size right above it
+1: yes i do you want to pick the black or the grey
+0: the black one
+1: yep

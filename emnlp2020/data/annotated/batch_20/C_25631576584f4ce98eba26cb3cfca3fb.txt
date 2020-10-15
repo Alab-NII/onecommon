@@ -1,0 +1,3 @@
+1: I have one very large dark colored dot with two small dots almost one on top of the other to the right.
+0: Ah yes I see this one, select the very black very large one!
+1: Got it.

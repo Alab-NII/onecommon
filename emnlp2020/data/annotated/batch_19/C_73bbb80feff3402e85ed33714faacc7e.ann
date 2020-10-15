@@ -1,0 +1,9 @@
+T1	Markable 38 49	all of mine
+T2	Markable 117 136	one kinda small one
+T3	Markable 172 189	a kinda large one
+T4	Markable 85 89	they
+T5	Markable 204 208	that
+T6	Markable 217 219	it
+T7	Markable 3 21	one dark black dot
+A1	All-Referents T1
+R1	Anaphora Arg1:T4 Arg2:T1	

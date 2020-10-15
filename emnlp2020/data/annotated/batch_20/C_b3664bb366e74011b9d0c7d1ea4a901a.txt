@@ -1,0 +1,7 @@
+1: I see one light gray dot much further away from all the others
+0: I have a large black dot
+1: Yes, I only have one larger black dot
+0: Close to the bottom
+1: Mines more towards the middle, but it's the only really dark one I have
+0: Let's pick it
+1: Okay

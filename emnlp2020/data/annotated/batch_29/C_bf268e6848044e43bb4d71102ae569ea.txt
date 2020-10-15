@@ -1,0 +1,5 @@
+0: very large black dot?
+1: Dont have a large black dot on mine, how about 2 small black dots, the left one is slightly lower?
+0: hmm no. do you have two larger dark dots very close together almost on vertical line?
+1: yikes, dont have that either! this ones tough...lets try a medium dark gray dot with a slightly smaller one to its bottom right?
+0: yes!! if so click the smaller one on the bottom right!

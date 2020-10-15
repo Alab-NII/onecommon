@@ -1,0 +1,3 @@
+0: three greys in a line
+1: Yes is the middle one the smallest and lightest?
+0: right that is the one

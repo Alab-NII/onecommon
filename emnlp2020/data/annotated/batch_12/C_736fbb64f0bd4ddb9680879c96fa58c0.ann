@@ -1,0 +1,12 @@
+T1	Markable 15 30	a dark grey dot
+T2	Markable 49 75	2 medium colored grey dots
+T4	Markable 118 135	a horizontal line
+T5	Markable 95 114	a cluster of 3 dots
+T6	Markable 137 154	A large black dot
+T7	Markable 173 198	a smaller medium gray dot
+T8	Markable 299 312	the black one
+T9	Markable 360 373	the other two
+T10	Markable 319 339	the small middle one
+T11	Markable 390 401	the darkest
+R1	Predicative Arg1:T4 Arg2:T5	
+T3	Markable 237 260	another medium gray dot

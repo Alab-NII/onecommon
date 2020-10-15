@@ -1,0 +1,7 @@
+T1	Markable 22 28	a line
+T2	Markable 54 62	two tiny
+T3	Markable 78 82	that
+T4	Markable 3 18	three dark dots
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 92 101	which dot
+T6	Markable 123 138	the largest one

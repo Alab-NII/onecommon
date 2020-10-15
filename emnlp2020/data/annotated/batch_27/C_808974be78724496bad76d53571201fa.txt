@@ -1,0 +1,4 @@
+0: lone larger grey dot, for me its a little above dead center
+1: do you see a small black dot with a medium-large dark grey dot to the left of it?
+0: no to your small black dot, my other dots are a group of five that look like a check you would make in a box, the bottom is a very tiny light grey dot
+1: yes, select tiny light grey

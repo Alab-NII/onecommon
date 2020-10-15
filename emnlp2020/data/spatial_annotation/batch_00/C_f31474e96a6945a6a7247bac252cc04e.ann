@@ -1,0 +1,10 @@
+T1	Markable 10 30	two small black dots
+T2	Markable 95 99	them
+T4	Markable 176 186	a triangle
+T5	Markable 110 142	a group of three light grey dots
+T6	Markable 226 237	a black dot
+T7	Markable 194 206	the triangle
+T8	Markable 253 257	that
+A1	No-Referent T2
+R1	Predicative Arg1:T4 Arg2:T5	
+R2	Anaphora Arg1:T7 Arg2:T4	

@@ -1,0 +1,8 @@
+T1	Markable 56 66	each other
+T2	Markable 15 47	three medium to large sized dots
+T3	Markable 108 138	the one farthest right lighter
+T4	Markable 174 189	the lighter one
+R1	Anaphora Arg1:T1 Arg2:T2	
+T6	Markable 88 100	mickey mouse
+R2	Anaphora Arg1:T6 Arg2:T2	
+T7	Markable 144 155	the other 2

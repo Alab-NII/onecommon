@@ -1,0 +1,10 @@
+0: Medium grey dot with a smaller one of the same color below it?
+1: no i don't see it
+0: How about a small dark grey dot with another small one a little lighter down and to the right of it?
+1: the one below is a lighter grey. Do you have one bigger black dot
+0: yes the one below is a lighter grey. I do not have a bigger black dot in mine
+1: ok
+0: which did u select?
+1: the one we had in common
+0: the lighter grey one?
+1: yes

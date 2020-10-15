@@ -1,0 +1,15 @@
+T1	Markable 56 62	itself
+T2	Markable 9 16	one dot
+T3	Markable 76 84	that one
+T4	Markable 94 120	a few lone light gray dots
+T5	Markable 132 159	a bunch of medium gray ones
+T6	Markable 185 190	those
+T8	Markable 277 290	a smaller one
+T9	Markable 314 316	it
+T10	Markable 327 331	that
+T11	Markable 357 372	the smaller one
+R1	Anaphora Arg1:T1 Arg2:T2	
+A1	No-Referent T3
+T12	Markable 202 220	the dark grey ones
+T7	Markable 250 253	one
+R2	Anaphora Arg1:T9 Arg2:T7	

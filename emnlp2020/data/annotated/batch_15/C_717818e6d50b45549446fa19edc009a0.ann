@@ -1,0 +1,7 @@
+T2	Markable 88 100	the two dark
+T3	Markable 68 73	those
+T4	Markable 77 83	a line
+T5	Markable 144 158	the small grey
+T6	Markable 3 21	one small grey one
+T7	Markable 35 50	one medium dark
+R1	Predicative Arg1:T4 Arg2:T3	

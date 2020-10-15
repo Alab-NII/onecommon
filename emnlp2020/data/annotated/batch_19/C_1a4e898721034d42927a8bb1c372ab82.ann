@@ -1,0 +1,13 @@
+T1	Markable 9 36	three dark gray medium dots
+T2	Markable 47 62	a vertical line
+T4	Markable 132 137	those
+T5	Markable 148 164	a light grey dot
+T6	Markable 221 252	the bottom dark grey medium dot
+T10	Markable 363 393	the middle large dark gray dot
+T11	Markable 310 331	a small dark gray dot
+T12	Markable 405 409	that
+T13	Markable 423 446	the small dark grey dot
+T3	Markable 125 128	one
+A1	No-Referent T3
+T14	Markable 257 270	My bottom dot
+R1	Predicative Arg1:T2 Arg2:T1	

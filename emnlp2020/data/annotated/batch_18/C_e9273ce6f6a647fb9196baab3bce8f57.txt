@@ -1,0 +1,5 @@
+1: 2 similar size dot, the one slightly above and to the left is slightly bigger and lighter
+0: Diagonally down and to the left is a dark dot of similar size?
+1: yes
+0: ok lets pick the top lightest dot
+1: ok

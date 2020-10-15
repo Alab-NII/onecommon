@@ -1,0 +1,3 @@
+0: I have a large light gray dot with a smaller slightly darker dot to the immediate left and slightly below
+1: I see it!
+0: OK. Let's pick the larger lighter one on the right

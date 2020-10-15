@@ -1,0 +1,14 @@
+T1	Markable 33 43	each other
+T2	Markable 10 18	two dots
+T3	Markable 108 111	two
+T4	Markable 126 136	each other
+T5	Markable 138 150	the left one
+T6	Markable 224 248	the slightly smaller one
+T7	Markable 268 275	the one
+T8	Markable 255 259	that
+T9	Markable 293 295	it
+R1	Anaphora Arg1:T1 Arg2:T2	
+T10	Markable 44 47	one
+R2	Anaphora Arg1:T4 Arg2:T3	
+R3	Predicative Arg1:T7 Arg2:T8	
+R4	Anaphora Arg1:T9 Arg2:T8	

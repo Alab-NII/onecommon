@@ -1,0 +1,13 @@
+T1	Markable 75 85	a triangle
+T2	Markable 95 99	they
+T3	Markable 176 183	the one
+T4	Markable 226 228	it
+T5	Markable 212 219	nothing
+T6	Markable 45 67	three medium grey dots
+R1	Predicative Arg1:T1 Arg2:T6	
+A1	No-Referent T5
+T7	Spatial-Relation 77 85	triangle
+T9	Spatial-Attribute 104 132	a little dark, a medium grey
+T10	Spatial-Relation 136 153	the left and down
+T8	Spatial-Relation 184 202	above to the right
+T11	Spatial-Relation 220 225	above

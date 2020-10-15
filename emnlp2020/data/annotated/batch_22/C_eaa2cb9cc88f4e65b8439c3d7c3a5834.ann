@@ -1,0 +1,17 @@
+T1	Markable 106 131	a larger, medium-gray dot
+T2	Markable 87 89	it
+T3	Markable 138 140	it
+T4	Markable 160 162	it
+T5	Markable 193 204	a large one
+T6	Markable 281 303	a small light grey dot
+T7	Markable 238 255	a medium-gray dot
+T8	Markable 335 337	it
+T9	Markable 353 357	that
+T10	Markable 370 394	the small light grey dot
+T11	Markable 15 32	a dark black spot
+T12	Markable 51 66	the other spots
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T2	
+T13	Markable 206 210	What
+A1	Generic T13
+R3	Anaphora Arg1:T8 Arg2:T7	

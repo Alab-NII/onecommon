@@ -1,0 +1,10 @@
+T1	Markable 42 66	two medium darkness dots
+T2	Markable 86 100	The larger one
+T3	Markable 110 125	the smaller one
+T4	Markable 126 130	they
+T5	Markable 171 175	them
+T6	Markable 180 194	the larger one
+T8	Markable 238 252	the larger one
+T9	Markable 74 84	themselves
+R1	Anaphora Arg1:T9 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T1	

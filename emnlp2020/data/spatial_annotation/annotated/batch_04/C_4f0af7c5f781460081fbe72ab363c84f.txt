@@ -1,0 +1,5 @@
+0: two tiny black dots with a larger black dot on their right
+1: i dont see that. i do have 4 dots that form a Y
+0: ok, i think i have the top three dots of the Y, is the top left most dot a small grey and the top right most a slightly smaller and lighter dot?
+1: yes, and the bottom dot of the V is similar size to the left, but much darker
+0: yes, pick the top right most dot

@@ -1,0 +1,6 @@
+1: do u see a really small light grey dot?
+0: Hmm I see a small one that is close to one exactly the same size but much darker
+1: yes, the darker one is above and slightly to the right?
+0: Yes!
+1: pick lighter one
+0: K

@@ -1,0 +1,16 @@
+T1	Markable 9 33	one tiny, light grey dot
+T2	Markable 78 80	it
+T3	Markable 122 128	itself
+T4	Markable 152 160	that one
+T5	Markable 174 190	a large dark dot
+T6	Markable 216 225	two light
+T7	Markable 210 212	it
+T8	Markable 267 283	the largest dark
+T9	Markable 39 61	a very dark medium dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T10	Markable 93 114	Very small very light
+R2	Anaphora Arg1:T3 Arg2:T10	
+A1	No-Referent T4
+R3	Anaphora Arg1:T7 Arg2:T5	
+T11	Markable 227 231	dots
+R4	Anaphora Arg1:T11 Arg2:T6	

@@ -1,0 +1,5 @@
+0: I see a small black dot
+1: I have two dots of the same size. the lower one is just slightly darker and to the slight left
+0: I think I see them too. Is there a black dot just to the upper right if the lighter one?
+1: yes. Should we pick the small black dot to the upper right?
+0: yes

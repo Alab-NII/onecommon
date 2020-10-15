@@ -1,0 +1,7 @@
+1: i see 7 dots forming a diagonal P in my circle
+0: a P? Not sure I see that. Is one of those dots a BIG light grey?
+1: I see two of them big and light to medium grey, the first one has a smaller black dot up and to the right of it, and the other big grey has 3 dots up down and left of it
+0: I see big grey dot with a smaller black dot to its left
+1: is it left and down and somewhat far away from it ?
+0: yeah
+1: ok choose black smaller dot!

@@ -1,0 +1,4 @@
+0: i have 2 black dots on the left directly above one another
+1: do you have 2 light ones above/below each other... top one is slightly darker? slightly to the right? i don't have that, my black ones are kinda by themselves
+0: yes
+1: ok let's choose the top darker light grey one

@@ -1,0 +1,10 @@
+T1	Markable 39 42	one
+T3	Markable 50 59	the other
+T4	Markable 10 32	two similar sized dots
+T5	Markable 61 72	the top one
+T6	Markable 119 129	each other
+T7	Markable 138 149	the top one
+T8	Markable 196 209	the light one
+R1	Anaphora Arg1:T5 Arg2:T1	
+T2	Markable 87 108	two similar size dots
+R2	Anaphora Arg1:T6 Arg2:T2	

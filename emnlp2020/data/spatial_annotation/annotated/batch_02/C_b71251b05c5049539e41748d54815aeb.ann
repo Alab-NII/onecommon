@@ -1,0 +1,32 @@
+T1	Markable 10 32	a very large black dot
+T2	Markable 63 84	a tiny light grey dot
+T3	Markable 40 42	it
+T5	Markable 120 131	the top dot
+T6	Spatial-Relation 105 118	in a triangle
+T7	Markable 210 215	those
+T8	Markable 157 176	the left bottom dot
+T9	Markable 94 104	three dots
+T10	Markable 234 238	it's
+T11	Markable 285 292	the one
+T12	Markable 305 322	the big black dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+T13	Markable 279 284	thats
+R4	Predicative Arg1:T11 Arg2:T13	
+T14	Spatial-Relation 34 39	Above
+R5	Subj Arg1:T14 Arg2:T2	
+T15	Spatial-Relation 47 59	to the right
+R6	Subj Arg1:T15 Arg2:T2	
+R7	Obj Arg1:T15 Arg2:T3	
+A1	No-Obj T6
+T16	Spatial-Relation 124 127	top
+R2	Obj Arg1:T16 Arg2:T9	
+T17	Spatial-Attribute 135 155	small and light grey
+T18	Spatial-Relation 161 172	left bottom
+R8	Obj Arg1:T18 Arg2:T9	
+T19	Spatial-Attribute 180 185	black
+T20	Spatial-Relation 190 196	larger
+R9	Obj Arg1:T20 Arg2:T9	
+T21	Modifier 239 256	just a little bit
+T22	Spatial-Relation 257 269	to the right
+R10	Obj Arg1:T22 Arg2:T8	
+A2	Mod-Subtlty T21

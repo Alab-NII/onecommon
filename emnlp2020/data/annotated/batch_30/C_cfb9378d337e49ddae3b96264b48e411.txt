@@ -1,0 +1,3 @@
+1: Hi, do you have 2 dots very close together? the right one is large and lighter than the left one
+0: I have two dots super close. Right one is larger and lighter? Ah yes! You type faster than me! =) Shall we choose the larger?
+1: Cool! yea lets pick that

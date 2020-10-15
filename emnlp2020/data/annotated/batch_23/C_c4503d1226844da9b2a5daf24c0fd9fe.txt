@@ -1,0 +1,3 @@
+0: massive black one, do you see it?
+1: yes
+0: ok let's pick it

@@ -1,0 +1,7 @@
+0: Do you have two small dots?
+1: I see a large dark dot with a small dark dot below it, and a medium size lighter do above.
+0: I don't see that on mine.
+1: How about a large size, medium-gray dot kind of on it's own? (small dark dot above and to the right, but kind of far away)
+0: I see that my large one is around the 11 o'clock position and smaller one is more near 12
+1: That could be it. Want to try the large gray dot?
+0: Lets do it

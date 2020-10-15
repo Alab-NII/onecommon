@@ -1,0 +1,4 @@
+0: i have two small dots one dark one light very close to each other
+1: are they part of a cluster of 5 dots? If so, select the smaller darker of the two
+0: no they are by themselves but i also have two that are in the cluster as well but these small dots are almost the same shade the one on the right is slightly bigger and lighter
+1: Yes, I think those are the ones I see. Select the smaller darker one on the left

@@ -1,0 +1,8 @@
+0: i have two groups of three dots, and a rogue black dot
+1: I have one group of three dots
+0: ok i have a group with two large and a small, and a group with 3 the same size, about medium
+1: The one group I have has 3 of the same dots but all different colors. They are in the upper right of the circle
+0: yeah, the right most one is darkest, then the left most one is medium and the one in the middle and lowest is lighter?
+1: Yes that is exactly how mine is
+0: pick the darkest one?
+1: They are all the same size? I guess so

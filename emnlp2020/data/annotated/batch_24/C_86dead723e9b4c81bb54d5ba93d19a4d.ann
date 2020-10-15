@@ -1,0 +1,24 @@
+T1	Markable 15 32	a large light dot
+T2	Markable 37 49	a darker dot
+T3	Markable 72 74	it
+T5	Markable 156 192	two slightly darker and smaller dots
+T6	Markable 116 150	a tight group of a large light dot
+T7	Markable 204 206	it
+T8	Markable 208 210	it
+T9	Markable 234 236	it
+T10	Markable 215 227	a darker dot
+T12	Markable 282 298	the only cluster
+T13	Markable 325 339	the darker one
+T15	Markable 355 359	They
+T16	Markable 426 429	one
+T17	Markable 442 448	itself
+T18	Markable 431 434	its
+T19	Markable 477 485	that one
+R1	Anaphora Arg1:T7 Arg2:T6	
+T4	Markable 254 257	its
+R2	Anaphora Arg1:T15 Arg2:T12	
+T11	Markable 403 412	tiny dots
+R3	Anaphora Arg1:T17 Arg2:T18	
+R4	Anaphora Arg1:T18 Arg2:T16	
+T14	Markable 450 453	its
+R5	Anaphora Arg1:T14 Arg2:T16	

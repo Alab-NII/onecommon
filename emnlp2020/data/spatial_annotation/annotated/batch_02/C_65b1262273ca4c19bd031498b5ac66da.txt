@@ -1,0 +1,3 @@
+1: two large dots extremely close together and almost opposite in shade?
+0: yes, the one on the right is dark? shall we pick that one?
+1: Yes click that dark one!

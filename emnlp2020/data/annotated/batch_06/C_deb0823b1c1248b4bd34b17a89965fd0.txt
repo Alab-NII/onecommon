@@ -1,0 +1,4 @@
+1: do you see a large dark gray dot towards 10 o'clock
+0: Yes. Are there two nearby smaller dots? One being slightly larger than the other?
+1: yes, let's choose the large one
+0: Okay

@@ -1,0 +1,16 @@
+T1	Markable 10 28	one tiny black dot
+T3	Markable 140 143	two
+T4	Markable 215 225	group of 3
+T5	Markable 281 285	they
+T6	Markable 326 339	two dark dots
+T7	Markable 434 450	your tiniest dot
+T9	Markable 571 588	your smallest dot
+T10	Markable 59 76	a medium dark top
+T2	Markable 116 138	a grouping of four dot
+T11	Markable 164 176	the grouping
+R1	Anaphora Arg1:T11 Arg2:T2	
+T12	Markable 237 242	light
+T13	Markable 251 255	dark
+T14	Markable 375 387	2 light dots
+T15	Markable 455 467	grey colored
+T8	Markable 519 534	large light dot

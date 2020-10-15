@@ -1,0 +1,7 @@
+0: i see one black dot alone on the right toward the bottom
+1: is it smaller than the others?
+0: no I see a big light gray dot toward the top on the right
+1: OK, I see 2 big light grey dots in a straight line right to left
+0: is the one on the left slightly bigger and darker?
+1: yes, should we select that one?
+0: yes

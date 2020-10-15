@@ -1,0 +1,9 @@
+T1	Markable 10 21	a line of 3
+T2	Markable 82 88	3 dots
+T3	Markable 92 107	a diagonal line
+T4	Markable 150 163	the black dot
+T5	Markable 22 36	med light gray
+T6	Markable 38 49	small black
+T7	Markable 51 66	larger med gray
+R1	Predicative Arg1:T3 Arg2:T2	
+T8	Markable 112 122	middle one

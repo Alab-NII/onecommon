@@ -1,0 +1,9 @@
+T1	Markable 54 57	one
+T2	Markable 10 27	2 pure black dots
+T3	Markable 37 47	each other
+T4	Markable 134 154	the bigger black one
+T5	Markable 91 106	The smaller one
+T6	Markable 182 204	the smaller of the two
+R1	Anaphora Arg1:T3 Arg2:T2	
+T8	Markable 158 161	its
+R2	Anaphora Arg1:T8 Arg2:T5	

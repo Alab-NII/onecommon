@@ -1,0 +1,4 @@
+1: I see one lone dot very far away from the others
+0: i have three in a row vertically, dark one in the middle. all large size
+1: Yes I see that area
+0: choose dark one

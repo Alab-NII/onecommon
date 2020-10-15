@@ -1,0 +1,7 @@
+0: Do you see only two dots on the left side
+1: no, i don't see those, do you see two close, black dots at an angle?
+0: On the right bottom side
+1: our dotted line circles are in different places so all our dots inside may be in different places, above those two angled dots is a medium grey dot directly above the top black dot?
+0: Yes
+1: ok good, let's choose that medium grey dot
+0: Ok

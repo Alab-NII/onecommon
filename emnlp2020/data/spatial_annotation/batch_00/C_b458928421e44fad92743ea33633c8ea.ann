@@ -1,0 +1,12 @@
+T1	Markable 9 17	two dots
+T2	Markable 30 37	top one
+T3	Markable 58 68	bottom one
+T4	Markable 110 115	those
+T5	Markable 117 128	Medium size
+T6	Markable 183 188	those
+T7	Markable 201 208	top one
+T8	Markable 268 280	that top dot
+A1	No-Referent T4
+A2	No-Referent T6
+T9	Markable 190 199	dark grey
+T10	Markable 130 139	upper one

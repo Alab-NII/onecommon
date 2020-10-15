@@ -1,0 +1,13 @@
+T1	Markable 9 32	a square of darker dots
+T3	Markable 38 59	a smaller lighter one
+T4	Markable 182 186	them
+T5	Markable 130 150	a tiny light gray do
+T7	Markable 100 114	2 blackish dot
+T8	Markable 210 231	two larger black dots
+T9	Markable 236 256	one smaller grey one
+T11	Markable 193 195	it
+T12	Markable 299 316	the tiny gray one
+#1	AnnotatorNotes T5	a tiny light gray dot
+T2	None 151 157	the to
+#2	AnnotatorNotes T2	to
+R1	Anaphora Arg1:T4 Arg2:T7	

@@ -1,0 +1,19 @@
+T1	Markable 44 47	one
+T2	Markable 108 131	the biggest darkest one
+T4	Markable 3 19	4 clustered dots
+T5	Markable 64 67	one
+T3	Spatial-Relation 5 14	clustered
+A1	No-Obj T3
+T6	Spatial-Relation 20 43	making an upside down L
+A2	No-Obj T6
+T7	Spatial-Attribute 48 63	large and black
+T8	Spatial-Attribute 68 73	large
+T9	Spatial-Relation 112 119	biggest
+T10	Spatial-Relation 120 127	darkest
+T11	Spatial-Relation 132 143	on the left
+R1	Obj Arg1:T9 Arg2:T4	
+R2	Obj Arg1:T10 Arg2:T4	
+R3	Obj Arg1:T11 Arg2:T4	
+A3	Canonical-Undefined T6
+T12	Spatial-Attribute 78 89	medium grey
+T13	Modifier 78 84	medium

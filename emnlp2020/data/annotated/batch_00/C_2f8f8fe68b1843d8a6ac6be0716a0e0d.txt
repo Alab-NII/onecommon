@@ -1,0 +1,7 @@
+0: Do you have 3 dots in a triangle shape. each one a different size and color?
+1: yes!
+0: Is the top dot medium and darkest. left dot large and medium gray. right dot smallest and lightest?
+1: yes
+0: great! which one would you like to select?
+1: smallest one
+0: okay.

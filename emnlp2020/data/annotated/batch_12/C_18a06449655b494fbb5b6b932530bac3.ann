@@ -1,0 +1,22 @@
+T1	Markable 14 39	the small medium gray dot
+T2	Markable 51 57	itself
+T3	Markable 67 69	It
+T4	Markable 115 130	a dark grey one
+T5	Markable 162 169	the one
+T6	Markable 227 234	the one
+T7	Markable 193 206	the gray dots
+T8	Markable 219 225	a line
+T9	Markable 300 304	that
+T10	Markable 350 360	each other
+T11	Markable 402 414	a darker one
+T12	Markable 319 331	the two dots
+T13	Markable 362 378	a light gray one
+T14	Markable 442 446	that
+T15	Markable 454 468	the darker one
+T16	Markable 102 105	its
+T17	Markable 151 155	That
+A1	No-Referent T17
+R1	Predicative Arg1:T8 Arg2:T7	
+R2	Anaphora Arg1:T2 Arg2:T1	
+A2	No-Referent T9
+R3	Anaphora Arg1:T10 Arg2:T12	

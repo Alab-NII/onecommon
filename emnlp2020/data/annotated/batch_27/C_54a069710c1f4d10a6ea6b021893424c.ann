@@ -1,0 +1,8 @@
+T1	Markable 63 74	each other,
+T2	Markable 9 15	3 dots
+T3	Markable 24 39	a diagonal line
+T4	Markable 121 125	that
+R1	Predicative Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T1 Arg2:T2	
+T5	Markable 75 85	middle dot
+T6	Markable 161 177	middle large dot

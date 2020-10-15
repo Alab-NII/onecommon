@@ -1,0 +1,8 @@
+1: a very tiny very light grey dot?
+0: Where exactly
+1: its would be different for the both of us but there is a very large med grey dot below and to its right
+0: No I don't have it! Do you see mid-size light grey dot near the center center
+1: is there a large med grey dot to its left?
+0: Yes
+1: which one did you click??
+0: The big one on on the mid-left side

@@ -1,0 +1,9 @@
+T1	Markable 3 17	two small dots
+T2	Markable 61 74	diagonal line
+T3	Markable 103 113	a triangle
+T4	Markable 119 141	two smaller light dots
+R1	Predicative Arg1:T2 Arg2:T1	
+T5	Markable 83 99	black larger dot
+T6	Markable 151 159	lightest
+T7	Markable 201 209	that one
+R2	Anaphora Arg1:T7 Arg2:T6	

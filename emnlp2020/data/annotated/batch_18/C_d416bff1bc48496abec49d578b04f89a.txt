@@ -1,0 +1,4 @@
+0: i have one dot all on its own, and then 6 grouped together
+1: Of those six is one of them medium/small and black?
+0: yes, medium small and my darkest dot.
+1: lets take that one

@@ -1,0 +1,11 @@
+T1	Markable 42 51	right dot
+T2	Markable 82 87	those
+T3	Markable 216 220	them
+T4	Markable 176 193	a small dark grey
+T5	Markable 121 132	the top one
+T6	Markable 231 235	that
+T7	Markable 242 265	the top right black dot
+T8	Markable 3 9	2 dots
+A1	No-Referent T2
+T9	Markable 96 115	two black same size
+R1	Anaphora Arg1:T3 Arg2:T9	

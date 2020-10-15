@@ -1,0 +1,4 @@
+1: do you see a really small light grey dot next to a medium sized pretty dark dot
+0: Oh I see one very small light grey dot that is pretty close to a medium sized dark grey dot
+1: the darker one is to the right of the smaller one, maybe slightly up?
+0: Yes! haha let's click the tiny light grey one!

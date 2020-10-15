@@ -1,0 +1,31 @@
+T1	Markable 10 26	a tiny black dot
+T2	Markable 32 62	an equal sized medium grey dot
+T3	Markable 93 101	two dots
+T4	Markable 153 161	the ones
+T5	Markable 217 221	they
+T6	Markable 300 313	the lower one
+T7	Markable 75 78	its
+R1	Anaphora Arg1:T7 Arg2:T1	
+T8	Markable 111 121	each other
+R2	Anaphora Arg1:T8 Arg2:T3	
+A1	No-Referent T4
+T9	Markable 187 194	The one
+T10	Markable 260 264	what
+T11	Spatial-Relation 27 31	with
+T12	Spatial-Relation 35 46	equal sized
+#1	AnnotatorNotes T12	same size
+T13	Spatial-Relation 63 67	down
+T14	Spatial-Relation 79 83	left
+R3	Subj Arg1:T14 Arg2:T2	
+R4	Obj Arg1:T14 Arg2:T7	
+T15	Spatial-Relation 102 110	close to
+T16	Modifier 122 128	almost
+T17	Spatial-Relation 129 139	horizontal
+A2	No-Obj T17
+T18	Spatial-Relation 195 202	on left
+T19	Spatial-Relation 206 211	lower
+T20	Spatial-Relation 226 248	similar size and shade
+#2	AnnotatorNotes T20	similar size; similar shade
+T21	Spatial-Relation 304 309	lower
+R5	Obj Arg1:T21 Arg2:T3	
+A3	No-Obj T20

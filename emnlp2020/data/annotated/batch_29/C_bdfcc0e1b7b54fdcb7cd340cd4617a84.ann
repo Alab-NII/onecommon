@@ -1,0 +1,16 @@
+T1	Markable 72 97	two identical medium dots
+T2	Markable 120 124	they
+T3	Markable 143 154	lighter one
+T4	Markable 272 275	two
+T5	Markable 279 283	them
+T6	Markable 301 305	them
+T7	Markable 244 266	3 very light grey dots
+T8	Markable 349 362	the large one
+T9	Markable 9 15	3 dots
+T10	Markable 39 42	all
+R1	Anaphora Arg1:T10 Arg2:T9	
+T11	Markable 174 180	darker
+T12	Markable 197 201	They
+R2	Anaphora Arg1:T5 Arg2:T7	
+R3	Anaphora Arg1:T6 Arg2:T7	
+T13	Markable 332 345	the down most

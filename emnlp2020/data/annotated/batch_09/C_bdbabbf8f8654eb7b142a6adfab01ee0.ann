@@ -1,0 +1,12 @@
+T1	Markable 10 35	3 differently shaded dots
+T2	Markable 97 122	2 of about the same color
+T3	Markable 46 56	a triangle
+T4	Markable 222 226	them
+T5	Markable 149 162	the right one
+T6	Markable 189 200	a light one
+T7	Markable 137 147	each other
+T8	Markable 289 313	the slightly smaller one
+T9	Markable 352 365	the light one
+R1	Predicative Arg1:T3 Arg2:T1	
+T10	Markable 57 69	the lightest
+R2	Anaphora Arg1:T7 Arg2:T2	

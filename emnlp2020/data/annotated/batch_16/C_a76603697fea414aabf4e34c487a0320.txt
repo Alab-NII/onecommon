@@ -1,0 +1,5 @@
+1: I have a huge dark grey dot. Up and to its right is a tiny dot which is medium grey
+0: Its it kind of off by itself? The dark grey one?
+1: Nope, not really. Do you have a tiny black dot with an equally tiny light grey dot up and to its left?
+0: Yes that I think I have! Want to chose the black one?
+1: Ok, sure!

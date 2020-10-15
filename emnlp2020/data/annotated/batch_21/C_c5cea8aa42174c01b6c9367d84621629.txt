@@ -1,0 +1,6 @@
+1: I see a large dark grey dot to the left, slightly below center. Can you see that?
+0: I see one large dark grey dot.
+1: I have only one large grey dot, all the rest are smaller.
+0: All of mine are smaller too. Do you want to choose this large one once the 1 minute time is up?
+1: Yes, it's the only large dot, so it must be the same one.
+0: Perfect.

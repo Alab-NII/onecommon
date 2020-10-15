@@ -1,0 +1,7 @@
+1: THERE IS A dark dot to the middle left do u have that one
+0: no
+1: there is a small dark dot to the middle bottom do u have it
+0: no
+1: small dark dot to the right middle do u have it
+0: yes
+1: lets click it

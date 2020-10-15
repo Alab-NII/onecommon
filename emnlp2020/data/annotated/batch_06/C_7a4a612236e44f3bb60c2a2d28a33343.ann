@@ -1,0 +1,14 @@
+T2	Markable 25 45	a triangle of 3 dots
+T3	Markable 61 79	one large gray dot
+T4	Markable 124 126	it
+T5	Markable 188 192	that
+T6	Markable 207 225	a lighter gray one
+T7	Markable 369 379	a triangle
+T8	Markable 314 336	a little dark gray one
+T9	Markable 419 427	that one
+T10	Markable 444 452	that one
+T1	Markable 149 154	mines
+A1	No-Referent T5
+T11	Markable 274 292	a lighter gray one
+T12	Markable 362 364	it
+R1	Anaphora Arg1:T12 Arg2:T8	

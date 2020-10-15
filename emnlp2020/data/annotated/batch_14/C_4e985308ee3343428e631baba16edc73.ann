@@ -1,0 +1,12 @@
+T1	Markable 32 50	three smaller dots
+T2	Markable 10 25	one biggest dot
+T3	Markable 101 105	line
+T4	Markable 72 82	three dots
+T5	Markable 202 215	the other two
+T6	Markable 259 273	the middle dot
+R1	Predicative Arg1:T3 Arg2:T4	
+T7	Markable 107 112	large
+T8	Markable 118 124	medium
+T9	Markable 130 144	lighter medium
+T10	Markable 168 181	middle medium
+T11	Markable 228 231	top

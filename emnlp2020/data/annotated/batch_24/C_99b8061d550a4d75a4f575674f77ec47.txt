@@ -1,0 +1,10 @@
+0: Hi! Do you have any gray large dots?
+1: I have a large, medium gray dot towards the middle
+0: Does it have a tiny gray dot to its right?
+1: no
+0: Then it's not the same, do you have any medium size light gray dot?
+1: yes, towards the right, kind of by itself
+0: Mine is towards the right to, but not totally on the right
+1: right, a little towards the center
+0: Yes, exactly
+1: choose it?

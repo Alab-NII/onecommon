@@ -1,0 +1,4 @@
+1: two small dots same light shade about an inch on top of each other?
+0: left side two of the same dots side by side but one is black and one is gray
+1: k...I see that. Pick BLACK one
+0: k

@@ -1,0 +1,3 @@
+0: very dark big dot and medium size dark dot close to each other.
+1: yes and the darker dot is slightly down to the right and the other dot is lighter
+0: yes ,lets select dark one

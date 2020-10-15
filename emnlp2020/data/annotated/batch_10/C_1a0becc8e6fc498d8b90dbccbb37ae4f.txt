@@ -1,0 +1,4 @@
+1: I have three small dots that are making a triangle
+0: i don't see them. do you see a dark grey medium dot with a slightly smaller and lighter dot directly above it
+1: I think I see that
+0: let's go with it/ i'm pretty sure that's it

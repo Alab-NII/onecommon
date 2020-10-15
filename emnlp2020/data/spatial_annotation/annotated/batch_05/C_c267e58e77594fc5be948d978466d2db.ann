@@ -1,0 +1,20 @@
+T1	Markable 10 26	a tiny black dot
+T2	Markable 76 80	that
+T3	Markable 53 69	a large grey dot
+T4	Markable 87 98	a black dot
+T5	Markable 114 127	that grey dot
+T6	Markable 181 203	the top tiny black dot
+T7	Markable 207 223	a tiny light dot
+T8	Markable 143 162	two tiny black dots
+R1	Anaphora Arg1:T2 Arg2:T1	
+T9	Markable 240 261	that top tiny blackie
+T11	Spatial-Relation 27 46	just west of center
+A1	No-Obj T11
+T12	Spatial-Relation 70 75	below
+T13	Spatial-Relation 99 113	to the left of
+T14	Spatial-Relation 163 172	same size
+A2	No-Obj T14
+T15	Spatial-Relation 173 180	left of
+R2	Subj Arg1:T15 Arg2:T7	
+T16	Spatial-Relation 185 188	top
+R3	Obj Arg1:T16 Arg2:T8	

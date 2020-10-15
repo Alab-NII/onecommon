@@ -1,0 +1,4 @@
+1: Do you see a small light grey dot next to a slightly darker medium dot?
+0: Yes
+1: Want to click the little one?
+0: Yes

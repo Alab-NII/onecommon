@@ -1,0 +1,3 @@
+0: i see three darker gray dots in an arch on the top left of my circle
+1: our circle view are different. do you see a tiny dark dot near a very large dot almost on a horizontal line with it?
+0: selected tiny dark one

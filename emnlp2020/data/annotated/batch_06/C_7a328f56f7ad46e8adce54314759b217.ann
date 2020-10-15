@@ -1,0 +1,12 @@
+T1	Markable 14 31	a gray darker one
+T3	Markable 96 120	a lonely large dark gray
+T5	Markable 69 91	a huge cluster of dots
+T6	Markable 153 174	any lighter gray dots
+T7	Markable 193 196	two
+T8	Markable 204 214	each other
+T9	Markable 261 282	this lighter gray dot
+T11	Markable 479 490	another one
+R1	Anaphora Arg1:T8 Arg2:T7	
+T4	Markable 338 340	it
+T10	Markable 463 471	that dot
+T2	Markable 231 254	a strip of four circles

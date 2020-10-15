@@ -1,0 +1,6 @@
+T1	Markable 63 85	a small light grey dot
+T2	Markable 111 125	the bottom one
+T3	Markable 51 57	a line
+T4	Markable 14 47	two medium sized medium grey dots
+T5	Markable 153 166	the small one
+R1	Predicative Arg1:T3 Arg2:T4	

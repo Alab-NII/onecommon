@@ -1,0 +1,4 @@
+1: I see a group of 4 clustered medium sized dots biggest is medium grey and one is nearly black
+0: Yes. Is the black one lowest?
+1: yes
+0: Let's pick the black one

@@ -1,0 +1,5 @@
+0: Do you have a large light dot to the right of a small light dot
+1: yes, and to the left there is a medium dark dot?
+0: Let us select the tiny dot
+1: the light one?
+0: yes

@@ -1,0 +1,9 @@
+T1	Markable 31 37	itself
+T2	Markable 61 69	the rest
+T3	Markable 49 51	it
+T4	Markable 92 112	the rest of the dots
+T6	Markable 151 183	a slight bigger almost black dot
+T7	Markable 223 243	that small light one
+T8	Markable 3 27	very tiny light grey dot
+R1	Anaphora Arg1:T1 Arg2:T8	
+T5	Markable 202 206	what

@@ -1,0 +1,5 @@
+0: do you see a small dot that is below all the others that is darker than all the other dots?
+1: No I do not have this dot, do you have a very light colored small dot?
+0: Is it diagonal below a darker medium dot and another darker medium dot?
+1: Yes, yes it is and it is very light in color
+0: I think I have that one. Let's choose it

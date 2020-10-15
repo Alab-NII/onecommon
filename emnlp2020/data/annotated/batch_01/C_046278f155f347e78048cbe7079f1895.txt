@@ -1,0 +1,5 @@
+1: i see a large grey dot
+0: I see multiple dots that are gray
+0: I see a large grey dot too
+1: it is light gray
+0: My light gray dot is in the top left of the circle

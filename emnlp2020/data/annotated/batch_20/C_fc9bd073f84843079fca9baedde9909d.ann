@@ -1,0 +1,20 @@
+T1	Markable 9 25	a large grey dot
+T2	Markable 42 44	it
+T3	Markable 130 141	a small dot
+T4	Markable 217 221	that
+T5	Markable 197 210	a lighter one
+T6	Markable 114 124	three dots
+T7	Markable 155 167	a darker one
+T8	Markable 292 310	one large grey one
+T9	Markable 260 286	three lighter smaller dots
+T10	Markable 318 326	the ones
+T11	Markable 470 489	the larger dark one
+T12	Markable 494 514	the next largest one
+T13	Markable 429 431	it
+T14	Markable 524 549	your bottom right cluster
+T15	Markable 607 609	it
+R1	Anaphora Arg1:T2 Arg2:T1	
+T16	Markable 95 107	two clusters
+T17	Markable 348 353	which
+A1	Generic T17
+T18	Markable 551 567	the large circle

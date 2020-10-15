@@ -1,0 +1,7 @@
+T1	Markable 3 17	square of dots
+T2	Markable 95 102	the one
+T3	Markable 26 33	top one
+T5	Markable 128 146	the very light one
+T4	Markable 106 109	its
+R1	Anaphora Arg1:T4 Arg2:T3	
+R2	Anaphora Arg1:T5 Arg2:T3	

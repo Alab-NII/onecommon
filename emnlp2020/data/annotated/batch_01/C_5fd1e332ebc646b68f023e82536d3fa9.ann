@@ -1,0 +1,14 @@
+T1	Markable 10 40	a lone small moderate grey dot
+T2	Markable 54 74	any distinctive dots
+T3	Markable 86 105	one dark medium dot
+T4	Markable 139 143	they
+T5	Markable 200 212	the dark one
+T6	Markable 220 232	the dark one
+T8	Markable 282 296	the bottom one
+T9	Markable 322 324	it
+T10	Markable 372 380	that one
+T11	Markable 150 161	one another
+R1	Anaphora Arg1:T11 Arg2:T4	
+A1	Generic T2
+T12	Markable 110 130	one large medium dot
+T13	Markable 171 186	The medium gray

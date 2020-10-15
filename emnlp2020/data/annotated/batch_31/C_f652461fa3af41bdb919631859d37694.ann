@@ -1,0 +1,6 @@
+T1	Markable 10 44	a triangle of very light gray dots
+T3	Markable 61 65	that
+T4	Markable 67 78	2 tiny dots
+T5	Markable 98 105	big dot
+T2	Markable 80 89	1 big dot
+R1	Anaphora Arg1:T5 Arg2:T2	

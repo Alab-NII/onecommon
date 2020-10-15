@@ -1,0 +1,3 @@
+0: I see a very dark, fairly large dot. Up at its 2 o clock there is a smaller, fairly light dot
+1: Hi. Was going to tell you about the same formation. Let's click the large, dark dot?
+0: Ok, sounds good!

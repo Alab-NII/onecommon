@@ -1,0 +1,11 @@
+T2	Markable 15 44	one of the smallest size dots
+T3	Markable 46 48	It
+T4	Markable 151 166	a tiny grey one
+T5	Markable 139 147	them all
+T6	Markable 74 117	a bunch of very light grey medium size dots
+T7	Markable 175 189	a shade darker
+T8	Markable 214 226	the tiny one
+T9	Markable 248 260	the tiny one
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T5 Arg2:T6	
+R3	Predicative Arg1:T7 Arg2:T4	

@@ -1,0 +1,4 @@
+1: I see two lone dots away from the others, one is medium dark and one is very dark
+0: Do you see two dots very close together and similar in size with the one on top being slightly to the left and a little smaller and darker?
+1: yes, exactly how i see it
+0: K cool Let's pick the darker one on top

@@ -1,0 +1,8 @@
+T1	Markable 68 75	two big
+T2	Markable 88 92	they
+T3	Markable 108 118	each other
+T4	Markable 159 174	the circle line
+T5	Markable 134 137	one
+T6	Markable 196 204	that one
+T7	Markable 10 16	4 dots
+R1	Anaphora Arg1:T3 Arg2:T2	

@@ -1,0 +1,6 @@
+0: three dots forming a line sloping up to the right
+1: left dot large light gray, next slightly smaller and darker, next even smaller, but slightly lighter?
+0: No. Do you see two very dark dots close together?
+1: yes, they are on the right most side for me. left is bigger and lower than right
+0: Yes click the bigger one!
+1: nice work

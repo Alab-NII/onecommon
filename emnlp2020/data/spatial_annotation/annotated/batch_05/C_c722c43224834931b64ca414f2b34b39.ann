@@ -1,0 +1,73 @@
+T2	Markable 146 175	a equally black smaller black
+T3	Markable 122 139	a large black dot
+T4	Markable 189 193	They
+T5	Markable 221 236	the smaller dot
+T6	Markable 285 290	those
+T7	Markable 365 382	a light small one
+T8	Markable 322 336	a med/grey dot
+T9	Markable 474 492	your line of three
+T10	Markable 454 470	the smallest dot
+T12	Markable 494 501	The one
+T13	Markable 15 16	3
+T14	Markable 45 55	the middle
+T15	Markable 79 91	the left one
+T16	Markable 179 182	its
+R1	Anaphora Arg1:T16 Arg2:T3	
+R2	Anaphora Arg1:T5 Arg2:T2	
+T1	Markable 297 301	my 3
+T17	Markable 344 349	their
+T18	Markable 391 396	their
+T19	Markable 425 440	the same things
+T11	Spatial-Relation 17 23	across
+A1	No-Obj T11
+T20	Spatial-Attribute 25 38	med/dark grey
+T21	Spatial-Relation 40 44	with
+R3	Obj Arg1:T21 Arg2:T15	
+R4	Obj Arg1:T21 Arg2:T14	
+T22	Spatial-Relation 49 55	middle
+R5	Obj Arg1:T22 Arg2:T13	
+T23	Modifier 62 70	a little
+T24	Spatial-Relation 71 77	higher
+R6	Obj Arg1:T24 Arg2:T13	
+#1	AnnotatorNotes T11	horizontal
+T25	Spatial-Relation 83 87	left
+R7	Obj Arg1:T25 Arg2:T13	
+T26	Spatial-Relation 98 110	the smallest
+R8	Obj Arg1:T26 Arg2:T13	
+T27	Spatial-Relation 141 145	with
+T28	Spatial-Relation 148 161	equally black
+#2	AnnotatorNotes T28	same color
+T29	Spatial-Relation 162 169	smaller
+T30	Spatial-Relation 183 187	left
+R9	Subj Arg1:T30 Arg2:T2	
+R10	Obj Arg1:T30 Arg2:T16	
+T31	Modifier 198 204	almost
+T32	Spatial-Relation 205 215	horizontal
+A2	No-Obj T32
+T33	Spatial-Relation 225 232	smaller
+R11	Obj Arg1:T33 Arg2:T4	
+T34	Spatial-Relation 237 248	on the left
+R12	Obj Arg1:T34 Arg2:T4	
+T35	Modifier 252 260	a little
+T36	Spatial-Relation 261 266	lower
+R13	Obj Arg1:T36 Arg2:T4	
+T37	Spatial-Relation 291 296	below
+T38	Spatial-Relation 337 343	off to
+T39	Spatial-Relation 350 360	upper left
+R14	Split Arg1:T39 Arg2:T38	
+T40	Spatial-Relation 383 390	down to
+T41	Spatial-Relation 397 408	lower right
+R15	Split Arg1:T41 Arg2:T40	
+T42	Spatial-Relation 458 466	smallest
+T43	Spatial-Relation 479 483	line
+A3	No-Obj T43
+T44	Spatial-Relation 471 473	on
+T45	Spatial-Relation 502 513	on the left
+R16	Obj Arg1:T45 Arg2:T9	
+T46	Modifier 25 33	med/dark
+A4	Mod-Neutral T46
+A5	Mod-Subtlty T23
+A6	Mod-Subtlty T35
+A7	Mod-Uncertainty-Approximation T31
+#3	AnnotatorNotes T38	upper left
+#4	AnnotatorNotes T40	down right

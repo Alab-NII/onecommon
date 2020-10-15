@@ -1,0 +1,7 @@
+1: i have 1 very light grey dot
+0: i see the very light gray dot, medium size and theres a black slightly smaller dot to right
+1: does it have a medium sized, slightly lighter one to the right?
+0: no the very light dot is the lightest I have. I also see a small black dot with a large dark gray dot to the right of it
+1: ok, i only have one very light grey. What about a larger dark grey w/ a smaller medium grey down and to the right of it?
+0: yes I have that. lets click the darker larger one
+1: ok

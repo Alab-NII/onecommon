@@ -1,0 +1,4 @@
+1: I see a line of 4...top is darkest?
+0: I don't have that. i have one medium sized black dot (the only black one i have) with a smaller dark gray dot far above and slightly to the left of it
+1: Not me. =/ How about two small dot the same size almost horizontal. Right dot is slightly up and to the right and darker?
+0: yes I think I have that. Let's pick the darker one on the right

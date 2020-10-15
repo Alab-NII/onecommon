@@ -1,0 +1,5 @@
+0: Do you see a large light grey circle very close to a large dark grey circle?
+1: the light one is on top?
+0: yep!
+1: Should we pick the light top one?
+0: let's do it.

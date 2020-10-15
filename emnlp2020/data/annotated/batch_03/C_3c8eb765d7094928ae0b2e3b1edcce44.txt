@@ -1,0 +1,5 @@
+1: Hello! Where's your dot?
+0: Hello! Do you see a large gray dot on the top right edge (touching the circle)?
+1: our circles arent the same, they dont line up. We need to use the dots themselves to find one. How about a medium light gray dot with a black small dot to the right of it?
+0: Yes, I see that. Would you like to select the small black dot?
+1: yes please

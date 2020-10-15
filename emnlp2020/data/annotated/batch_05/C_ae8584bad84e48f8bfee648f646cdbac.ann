@@ -1,0 +1,11 @@
+T1	Markable 10 33	2 small light grey dots
+T2	Markable 84 109	two small light grey dots
+T3	Markable 114 118	they
+T4	Markable 145 152	the one
+T5	Markable 197 204	the one
+T6	Markable 223 256	a medium sized medium colored dot
+T7	Markable 325 348	that medium colored one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T8	Markable 284 289	Which
+A1	Generic T8
+T9	Markable 311 318	the one

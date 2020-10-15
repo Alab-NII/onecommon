@@ -1,0 +1,16 @@
+T1	Markable 29 37	triangle
+T2	Markable 43 63	2 smaller black dots
+T3	Markable 65 81	1 large grey dot
+T4	Markable 114 130	three small dots
+T5	Markable 92 108	a huge black dot
+T6	Markable 180 195	two darker ones
+T7	Markable 142 144	it
+T8	Markable 217 236	your huge black dot
+T9	Markable 242 261	a smaller black dot
+T10	Markable 287 305	the huge black dot
+T11	Markable 3 20	cluster of 3 dots
+R1	Predicative Arg1:T1 Arg2:T11	
+R2	Anaphora Arg1:T7 Arg2:T5	
+T12	Markable 146 149	one
+T13	Markable 265 268	its
+R3	Anaphora Arg1:T13 Arg2:T8	

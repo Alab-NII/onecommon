@@ -1,0 +1,10 @@
+T1	Markable 9 18	four dots
+T2	Markable 182 195	the other two
+T3	Markable 155 164	third one
+T4	Markable 99 103	they
+T5	Markable 139 150	the top one
+T6	Markable 118 133	a vertical line
+T7	Markable 216 227	the top one
+T8	Markable 87 92	those
+R1	Anaphora Arg1:T4 Arg2:T8	
+R2	Predicative Arg1:T6 Arg2:T4	

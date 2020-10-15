@@ -1,0 +1,4 @@
+1: I have one large light grey dot, there is a smaller light gray dot on top right of it
+0: 7 dots; 2 grey in bottom left, cluster of 4 in top right, large one alone in bottom right
+1: which one did you select?
+0: large grey, bottom left

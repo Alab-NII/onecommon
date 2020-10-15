@@ -1,0 +1,4 @@
+0: I have 3 identical gray dots that form a triangle
+1: Me too! Are they light grey?
+0: yes
+1: Let's pick the one on the bottom

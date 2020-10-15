@@ -1,0 +1,4 @@
+1: do u have two darker dots a little different sizes beside each other?
+0: Yes, at the bottom of the circle
+1: select the bigger one
+0: ok

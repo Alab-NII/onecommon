@@ -1,0 +1,5 @@
+0: i have 2 pairs of 2 dots. one pair where upper left is larger and darker.
+1: i have your upper left/darker dot combination. lets go with that. do we have to wait a minute to pick?
+0: we can choose upper left darker dot
+1: yeah. one sec
+0: no problem lol. just click on it

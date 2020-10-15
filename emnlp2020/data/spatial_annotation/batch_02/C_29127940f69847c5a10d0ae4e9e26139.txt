@@ -1,0 +1,3 @@
+0: two very light grey dots very close together?
+1: is the top small and very light and towards the left?
+0: Yes click that small one!

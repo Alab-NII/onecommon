@@ -1,0 +1,5 @@
+1: group of two dots, Almost vertical. Top is large and dark grey, bottom is slightly smaller and lighter grey
+0: I don't have that. I have large light gray dot with a small gray dot below it
+1: I do not have that either, how about two smaller dots, diagonal to each other, same shade of grey, Top is slightly smaller, bottom(left) is slightly larger
+0: Yes, Which one do we click?
+1: Do the top smaller one

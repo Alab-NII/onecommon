@@ -1,0 +1,20 @@
+T1	Markable 45 49	they
+T2	Markable 57 72	a vertical line
+T3	Markable 15 39	three light colored dots
+T4	Markable 104 120	the furthest one
+T5	Markable 166 174	the dots
+T6	Markable 202 211	a big one
+T7	Markable 261 274	the other two
+T8	Markable 294 306	the smallest
+T9	Markable 312 323	the top one
+T10	Markable 276 290	The middle one
+T11	Markable 378 389	the big one
+T12	Markable 484 495	a large one
+T13	Markable 553 560	the dot
+T14	Markable 586 594	the line
+R1	Anaphora Arg1:T1 Arg2:T3	
+R2	Predicative Arg1:T2 Arg2:T1	
+A1	No-Referent T4
+R3	Predicative Arg1:T8 Arg2:T10	
+T15	Markable 394 401	The one
+T16	Markable 432 434	It

@@ -1,0 +1,9 @@
+T1	Markable 9 28	two large dark dots
+T2	Markable 95 106	one another
+T3	Markable 72 76	they
+T4	Markable 133 140	the two
+T5	Markable 40 47	1 lower
+T6	None 36 39	i s
+#1	AnnotatorNotes T6	is
+R1	Anaphora Arg1:T2 Arg2:T3	
+T7	Markable 120 129	the lower

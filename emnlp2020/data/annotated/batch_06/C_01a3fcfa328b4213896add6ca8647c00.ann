@@ -1,0 +1,15 @@
+T1	Markable 37 52	a vertical line
+T2	Markable 10 25	three dark dots
+T3	Markable 59 66	the one
+T4	Markable 91 98	the one
+T5	Markable 204 206	it
+T6	Markable 190 197	the one
+T7	Markable 277 298	a very large dark dot
+T8	Markable 232 253	a very light grey dot
+T9	Markable 363 368	those
+T10	Markable 344 356	no near dots
+T11	Markable 389 408	that light grey dot
+R1	Predicative Arg1:T1 Arg2:T2	
+T12	Markable 139 148	my middle
+R2	Anaphora Arg1:T5 Arg2:T12	
+A1	No-Referent T10

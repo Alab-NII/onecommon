@@ -1,0 +1,8 @@
+1: I see a dark dot to the lower left.
+0: I see a large dark dot on it's own below a cluster of light and dark dots.
+1: I see a gray large dot to the upper right of the black dot.
+0: Is the large gray dot part of the group?
+1: Yes. From right to left they are large, small and large again.
+0: I see that, yes. Click on the large light gray dot?
+0: Which did you click?
+1: The large gray dot.

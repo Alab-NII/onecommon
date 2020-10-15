@@ -1,0 +1,7 @@
+1: Small medium gray dot below a large light one?
+0: Hello. Do you have two medium sized dots very close beside each other with one just slightly higher than the other?
+1: Yes
+0: I don't see the one you mentioned.
+1: Ok the two you mentioned, one is higher on the right?
+0: Yes.
+1: Pick the higher one on the right

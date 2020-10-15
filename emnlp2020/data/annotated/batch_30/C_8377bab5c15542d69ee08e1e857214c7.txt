@@ -1,0 +1,3 @@
+0: Three dark in a line from the left side to the right...
+1: do you have 2 small dots, one on the left is lighter than the one on its right
+0: Yes... pick light one

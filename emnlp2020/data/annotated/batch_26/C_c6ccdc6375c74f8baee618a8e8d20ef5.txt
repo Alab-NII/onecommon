@@ -1,0 +1,3 @@
+0: do you have two medium almost black dots directly above each other?
+1: Yes! The top one has a really tiny light grey dot up and to the left of it.
+0: Yes. Pick the top one next to the tiny dot

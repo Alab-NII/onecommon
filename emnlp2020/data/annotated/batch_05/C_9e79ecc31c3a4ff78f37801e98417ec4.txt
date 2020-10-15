@@ -1,0 +1,4 @@
+1: Ok so...I have three dots that are all dark grey (not black) that form a triangle. The top dot is the biggest.
+0: Is it a small triangle?
+1: Pretty small...I'd say that two of the sides are under an inch long, and one side is about an inch.
+0: Let's try the top dot - the biggest.

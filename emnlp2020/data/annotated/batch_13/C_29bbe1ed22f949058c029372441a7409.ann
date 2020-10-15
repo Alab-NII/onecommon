@@ -1,0 +1,5 @@
+T1	Markable 31 41	each other
+T2	Markable 43 56	the right one
+T3	Markable 109 123	the higher one
+T4	Markable 3 22	two tiny black dots
+R1	Anaphora Arg1:T1 Arg2:T4	

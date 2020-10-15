@@ -1,0 +1,5 @@
+0: Two darker, fairly small dots. The one on top is a little to the right, and a little larger.
+1: Yes I see those. And the bottom is a little smaller?
+0: Yep! The formation has another dark dot down and to the right, about the same size as the top dot, and a light grey medium dot up and to the left
+1: Should we try the dot on the top that is a bit bigger?
+0: Yes, lets do that!

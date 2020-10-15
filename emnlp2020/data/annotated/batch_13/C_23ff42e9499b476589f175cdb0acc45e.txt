@@ -1,0 +1,5 @@
+0: I have two small light grey dots on top of each other, the one on top is a bit to the right and a bit larger
+1: I think I see it. Is there a really large darker one to the north east of that one? a bit far from it?
+0: yep, it is really large and a bit further away than the two dots are to each other
+1: Great. Lets pick the top of the two dots you mentioned?
+0: ok

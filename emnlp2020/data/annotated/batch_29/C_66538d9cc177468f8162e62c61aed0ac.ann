@@ -1,0 +1,8 @@
+T1	Markable 3 58	three almost identical looking med sized dark grey dots
+T3	Markable 132 148	three black dots
+T4	Markable 176 186	a triangle
+T5	Markable 209 238	a very large almost black dot
+T6	Markable 254 286	a not too small not too dark dot
+T7	Markable 247 249	it
+T8	Markable 317 331	that large one
+R1	Predicative Arg1:T4 Arg2:T3	

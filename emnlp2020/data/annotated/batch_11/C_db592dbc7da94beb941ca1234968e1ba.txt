@@ -1,0 +1,3 @@
+0: I see a cluster of 3 dots. 1 of them is larger and black. The two others are very small (the tiny one of the two is darker)
+1: I think i see them. Choose the large black one?
+0: Yeah

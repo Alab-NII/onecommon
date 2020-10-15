@@ -1,0 +1,4 @@
+1: Do you see a group of 4 in a wonky square?
+0: the smallest one is on the top?
+1: Yes! Shall we choose the small one?
+0: yes!

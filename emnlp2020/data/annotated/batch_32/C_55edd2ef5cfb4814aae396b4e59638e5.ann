@@ -1,0 +1,10 @@
+T1	Markable 124 138	any large dots
+T3	Markable 148 164	two smaller dots
+T4	Markable 190 200	each other
+T6	Markable 340 366	two darker gray small dots
+T7	Markable 318 320	It
+T8	Markable 402 431	the two light gray small dots
+T9	Markable 3 15	big grey dot
+A1	No-Referent T1
+R1	Anaphora Arg1:T4 Arg2:T3	
+T2	Markable 389 398	the lower

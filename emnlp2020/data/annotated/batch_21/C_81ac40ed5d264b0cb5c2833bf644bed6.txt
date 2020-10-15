@@ -1,0 +1,3 @@
+0: do you have any large light gray dots lighter than the rest?
+1: 3 dots vertical the largest in the middle
+0: choose that large light gray dot in the middle

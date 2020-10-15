@@ -1,0 +1,10 @@
+T1	Markable 33 51	a large light gray
+T2	Markable 9 26	a large dark gray
+T3	Markable 88 107	a smaller dark gray
+T4	Markable 157 161	that
+T6	Markable 197 200	one
+T7	Markable 211 214	one
+T8	Markable 260 275	the lighter one
+T9	Markable 335 353	The lower gray one
+A1	No-Referent T4
+T10	Markable 174 182	two dots

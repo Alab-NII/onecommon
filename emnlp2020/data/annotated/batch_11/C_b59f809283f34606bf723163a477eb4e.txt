@@ -1,0 +1,4 @@
+1: I have one dot very large, compared to the rest
+0: is it dark gray?
+1: Yes it is
+0: ok. let's pick it.

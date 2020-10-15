@@ -1,0 +1,3 @@
+0: i have all dark dots
+1: I see one large dark dot between two slightly smaller dots
+0: okay. let us try the large dark dot

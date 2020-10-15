@@ -1,0 +1,4 @@
+1: there is a triangle of 3 light gray dots in my circle
+0: smallest on top, medium to the right and largest to the left?
+1: yes. SHould we pick the large one?
+0: yes

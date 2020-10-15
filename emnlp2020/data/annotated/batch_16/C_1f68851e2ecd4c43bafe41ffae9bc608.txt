@@ -1,0 +1,6 @@
+1: Do you have a large black dot with a medium black dot right above and to the right of it?
+0: I HAVE TWO DARK CIRCLES TOGETHER
+1: Do they have a small dark gray circle below them?
+0: YEAH WITH ONE SLIGHTLY ABOVE THE OTHER
+1: Ok, lets choose the large dark circle that is farthest towards the top
+0: OK

@@ -1,0 +1,11 @@
+T1	Markable 41 58	your smallest dot
+T2	Markable 77 83	a line
+T3	Markable 89 119	2 medium gray medium size dots
+T4	Markable 134 137	its
+T5	Markable 147 150	its
+T6	Markable 170 196	two medium size/shade dots
+T7	Markable 210 224	2 lighter dots
+T8	Markable 246 249	One
+T9	Markable 304 332	the original small light dot
+T10	Markable 3 18	my smallest dot
+R1	Anaphora Arg1:T5 Arg2:T4	

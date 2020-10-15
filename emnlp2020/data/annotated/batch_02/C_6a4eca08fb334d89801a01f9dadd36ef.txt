@@ -1,0 +1,4 @@
+0: I have 3 dots in a vertical line small color.
+1: i've got three darker gray dots up and down in a row, top is biggest, bottom is medium, middle is smallest
+0: Same
+1: middle?

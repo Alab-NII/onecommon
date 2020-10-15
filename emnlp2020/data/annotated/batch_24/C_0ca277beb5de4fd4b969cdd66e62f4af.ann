@@ -1,0 +1,12 @@
+T1	Markable 89 99	each other
+T2	Markable 105 123	the smaller darker
+T3	Markable 171 185	the bottom dot
+T4	Markable 218 220	it
+T5	Markable 190 202	a darker dot
+T6	Markable 243 257	the bottom dot
+T7	Markable 3 13	Three dots
+T8	Markable 63 79	2 med sized dots
+R1	Anaphora Arg1:T1 Arg2:T8	
+T9	Markable 127 132	the 2
+R2	Anaphora Arg1:T9 Arg2:T8	
+R3	Anaphora Arg1:T4 Arg2:T3	

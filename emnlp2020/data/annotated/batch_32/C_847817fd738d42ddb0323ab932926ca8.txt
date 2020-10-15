@@ -1,0 +1,4 @@
+0: Tiny black dot with a medium sized medium grey dot to its right and a tad bit higher
+1: I have a small black dot with a larger light one just below it?
+0: Is the light one to the right and down?
+1: Yes! Let's go with the small black dot?

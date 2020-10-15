@@ -1,0 +1,13 @@
+T1	Markable 40 49	4 o clock
+T3	Markable 237 243	a line
+T4	Markable 213 233	two large light gray
+T5	Markable 294 309	a vertical line
+T6	Markable 325 336	the top one
+T7	Markable 350 352	it
+T8	Markable 3 18	Tiny light grey
+T9	Markable 75 101	3 o'clock small light gray
+T10	Markable 125 141	a dark small one
+T11	Markable 157 187	a 12 o clock larger light grey
+R1	Predicative Arg1:T3 Arg2:T4	
+T2	Markable 263 267	both
+R2	Predicative Arg1:T5 Arg2:T2	

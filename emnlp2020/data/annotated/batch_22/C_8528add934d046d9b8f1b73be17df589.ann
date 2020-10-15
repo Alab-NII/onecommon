@@ -1,0 +1,18 @@
+T1	Markable 10 38	a lonely dark grey small dot
+T2	Markable 160 165	the V
+T3	Markable 135 139	that
+T4	Markable 177 181	them
+T5	Markable 170 173	one
+T6	Markable 362 380	the smallest black
+T7	Markable 49 64	a upside down V
+T8	Markable 104 109	the V
+R1	Anaphora Arg1:T8 Arg2:T7	
+R2	Anaphora Arg1:T4 Arg2:T2	
+T9	Markable 204 207	Its
+T10	Markable 234 250	Large Light gray
+T11	Markable 252 270	smaller light gray
+T12	Markable 272 283	small black
+T13	Markable 285 299	smallest black
+T14	Markable 301 318	med gray med size
+T15	Markable 329 340	all those 5
+T16	Markable 70 86	a dot light gray

@@ -1,0 +1,4 @@
+0: HI
+1: i have only one black dot on my circle
+0: I have one large dark dot to the right of center of my circle
+1: do you have and tiny gray dots i have one in the center one towards the left one at 3 o clock and one at 4 o clock

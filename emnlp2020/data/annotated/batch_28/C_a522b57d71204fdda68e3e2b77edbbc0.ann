@@ -1,0 +1,8 @@
+T1	Markable 59 69	each other
+T2	Markable 84 104	two of the same dots
+T3	Markable 122 125	one
+T4	Markable 139 142	one
+T5	Markable 164 168	that
+T6	Markable 175 184	BLACK one
+T7	Markable 3 17	two small dots
+R1	Anaphora Arg1:T1 Arg2:T7	

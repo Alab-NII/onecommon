@@ -1,0 +1,9 @@
+T2	Markable 47 60	one dark grey
+T3	Markable 69 82	the dark grey
+T4	Markable 116 118	it
+T5	Markable 88 93	a dot
+T6	Markable 199 213	the light grey
+T7	Markable 236 253	the dark grey one
+T8	Markable 16 42	a bunch of light grey dots
+R1	Anaphora Arg1:T4 Arg2:T3	
+T1	Markable 258 267	Dark Grey

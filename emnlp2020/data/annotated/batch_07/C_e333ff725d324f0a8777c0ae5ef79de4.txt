@@ -1,0 +1,6 @@
+1: There is a smaller dark dot alone on the left of the circle
+0: i dont think i have that one. i have two dark dots vertically aligned, bottom one is slightly smaller
+1: does the top one touch the edge of the large circle?
+0: its close. pick that one?
+1: I am not sure mine is touching the edge. is there a small gray circle just to the left in between the two?
+0: yes

@@ -1,0 +1,12 @@
+T1	Markable 52 55	one
+T2	Markable 15 26	3 dark dots
+T3	Markable 28 31	two
+T4	Markable 113 123	a dark dot
+T5	Markable 167 169	it
+T6	Markable 211 213	it
+T7	Markable 174 184	a pale dot
+T8	Markable 215 219	mine
+T9	Markable 251 253	it
+T10	Markable 307 315	the dark
+T11	Markable 129 141	a medium dot
+R1	Anaphora Arg1:T5 Arg2:T4	

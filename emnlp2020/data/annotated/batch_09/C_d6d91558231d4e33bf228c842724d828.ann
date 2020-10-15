@@ -1,0 +1,15 @@
+T1	Markable 10 34	a lonely large light dot
+T2	Markable 56 67	a large dot
+T3	Markable 79 92	a smaller dot
+T4	Markable 72 74	it
+T5	Markable 137 141	that
+T6	Markable 197 215	a lonely large one
+T7	Markable 230 241	2 grey dots
+T8	Markable 284 298	the darker one
+T9	Markable 243 246	one
+T11	Markable 334 365	the slightly larger lighter one
+T12	Markable 323 327	that
+R1	Anaphora Arg1:T4 Arg2:T2	
+A1	No-Referent T5
+T14	Markable 154 176	lonely large black dot
+A2	No-Referent T6

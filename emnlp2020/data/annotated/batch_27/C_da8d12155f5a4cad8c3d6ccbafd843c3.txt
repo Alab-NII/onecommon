@@ -1,0 +1,4 @@
+1: 3 dots forming a triangle two dark ones on top?
+0: lets select dark one
+1: there are two dark? do you mean the black one up and furthest to the right?
+0: yes

@@ -1,0 +1,13 @@
+T1	Markable 20 34	a smaller dark
+T2	Markable 50 52	it
+T3	Markable 82 86	that
+T5	Markable 128 142	a cluster of 4
+T6	Markable 195 207	a group of 4
+T7	Markable 228 237	the right
+T8	Markable 3 14	Large black
+R1	Anaphora Arg1:T2 Arg2:T8	
+A1	No-Referent T3
+T9	Markable 90 104	Lone black dot
+T4	Markable 154 157	all
+R2	Anaphora Arg1:T4 Arg2:T5	
+T10	Markable 269 276	darkest

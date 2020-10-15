@@ -1,0 +1,6 @@
+0: I see three similar sized light gray dots in a triangle
+1: my two largest circles are near the bottom, about an inch apart, one medium grey the other dark
+0: My largest one is near the top right, and one that is slightly smaller is in the very bottom. Both are dark grey
+1: small grey dot around 11 oclock
+0: I do have a small grey around 11
+1: pick that one?

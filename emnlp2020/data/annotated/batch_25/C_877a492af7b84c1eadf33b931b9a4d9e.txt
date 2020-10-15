@@ -1,0 +1,4 @@
+0: dark large dot far right centered touching the line
+1: do you see a cluster of 3 dots with the farthest to the right black?
+0: yes click that far right darkest one
+1: k

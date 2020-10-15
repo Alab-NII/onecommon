@@ -1,0 +1,10 @@
+T1	Markable 30 31	1
+T2	Markable 9 28	a cluster of 3 dots
+T3	Markable 35 39	them
+T4	Markable 61 75	The two others
+T5	Markable 108 115	the two
+T6	Markable 144 148	them
+T7	Markable 157 176	the large black one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T8	Markable 92 104	the tiny one
+R2	Anaphora Arg1:T5 Arg2:T4	

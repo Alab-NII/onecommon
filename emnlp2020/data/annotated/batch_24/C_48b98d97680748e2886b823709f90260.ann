@@ -1,0 +1,11 @@
+T1	Markable 27 38	the darkest
+T2	Markable 85 102	a small black one
+T4	Markable 145 148	one
+T5	Markable 176 185	the other
+T6	Markable 118 142	two very dark large ones
+T7	Markable 222 229	the one
+T8	Markable 187 194	The one
+T9	Markable 273 280	the one
+T10	Markable 3 18	The largest dot
+R1	Predicative Arg1:T1 Arg2:T10	
+T11	Markable 42 56	My largest one

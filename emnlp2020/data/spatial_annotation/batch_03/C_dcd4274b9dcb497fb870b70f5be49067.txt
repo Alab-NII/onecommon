@@ -1,0 +1,2 @@
+1: Two dots that are horizontal. Left is small black, right is bigger and a shade lighter.
+0: Yes, I see the same. Lets choose the smaller one on the left

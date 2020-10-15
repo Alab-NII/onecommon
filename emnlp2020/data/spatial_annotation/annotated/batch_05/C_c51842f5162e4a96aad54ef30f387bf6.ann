@@ -1,0 +1,13 @@
+T1	Markable 62 84	a larger dark grey dot
+T2	Markable 121 140	that tiny black dot
+T3	Markable 3 17	tiny black dot
+T4	Markable 23 38	a dark grey dot
+T5	Spatial-Relation 18 22	with
+T6	Spatial-Relation 39 57	up and to the left
+R1	Obj Arg1:T6 Arg2:T3	
+T7	Spatial-Relation 64 70	larger
+R2	Obj Arg1:T7 Arg2:T3	
+T8	Spatial-Relation 85 106	down and to the right
+R3	Obj Arg1:T8 Arg2:T3	
+A1	Ambiguous-Obj T7
+R4	Obj Arg1:T7 Arg2:T4	

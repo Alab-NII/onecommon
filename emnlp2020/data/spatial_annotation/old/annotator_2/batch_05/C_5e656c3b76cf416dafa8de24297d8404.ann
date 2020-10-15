@@ -1,0 +1,12 @@
+T1	Markable 3 13	light grey
+T2	Markable 27 40	no light grey
+A1	No-Referent T2
+T3	Markable 58 73	small black dot
+T4	Markable 79 91	a light grey
+T5	Spatial-Relation 14 22	3 oclock
+T6	Spatial-Relation 41 55	at my 3 oclock
+T7	Spatial-Relation 74 78	with
+T8	Spatial-Relation 92 103	lower right
+A2	No-Obj T5
+A3	No-Obj T6
+R1	Obj Arg1:T8 Arg2:T3	

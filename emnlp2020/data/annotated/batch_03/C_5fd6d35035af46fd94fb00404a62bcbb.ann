@@ -1,0 +1,5 @@
+T1	Markable 57 75	one large dark dot
+T2	Markable 14 44	a cluster of 4 small dark dots
+T3	Markable 79 85	itself
+T4	Markable 189 193	that
+R1	Anaphora Arg1:T3 Arg2:T1	

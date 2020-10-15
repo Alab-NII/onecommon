@@ -1,0 +1,13 @@
+T1	Markable 87 98	the darkest
+T2	Markable 75 85	a triangle
+T3	Markable 54 64	three dots
+T4	Markable 278 288	the medium
+T6	Markable 180 192	part of that
+T7	Markable 206 210	they
+T8	Markable 244 248	they
+T9	Markable 347 369	the south lightest one
+T10	Markable 3 9	5 dots
+R1	Predicative Arg1:T2 Arg2:T3	
+T11	Markable 116 122	medium
+T12	Markable 140 148	lightest
+R2	Anaphora Arg1:T7 Arg2:T6	

@@ -1,0 +1,8 @@
+0: hello
+1: Hi do you see two med-large size dots that are almost the same size vertical from each other. The top one is a darker gray and bottom is lighter
+0: sort of, the top slightly darker dot is a little to the right of the lighter dot
+1: Yes and to the right of the top one is a large black dot?
+0: yes
+1: which did you select... the top darker dot or the black one next to it?
+0: i selected the darker grey on top, not the black one
+1: great thanks

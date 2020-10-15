@@ -1,0 +1,19 @@
+T1	Markable 44 48	that
+T2	Markable 113 115	it
+T3	Markable 131 137	itself
+T4	Markable 228 233	those
+T5	Markable 266 293	a small very light grey dot
+T6	Markable 305 328	3 small light grey dots
+T7	Markable 330 333	One
+T8	Markable 373 391	the dark grey spot
+T9	Markable 417 435	the dark grey spot
+T10	Markable 393 402	the other
+T11	Markable 448 455	the one
+T12	Markable 3 26	very large med grey dot
+A1	No-Referent T1
+T13	Markable 72 101	a small really dark grey spot
+R1	Anaphora Arg1:T3 Arg2:T2	
+T14	Markable 142 144	It
+T15	Markable 178 190	a light grey
+T16	Markable 195 211	medium grey spot
+A2	No-Referent T4

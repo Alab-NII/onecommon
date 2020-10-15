@@ -1,0 +1,15 @@
+T1	Markable 14 32	a large light grey
+T2	Markable 64 89	a line of many small ones
+T4	Markable 46 48	it
+T5	Markable 132 141	that line
+T7	Markable 198 217	a line of dark ones
+T8	Markable 267 279	2 light ones
+T9	Markable 245 253	the line
+T10	Markable 336 355	the lowest dark one
+T11	Markable 101 107	lowest
+T12	Markable 177 179	it
+T13	Markable 222 241	the lowest dark one
+T14	Markable 293 295	it
+R3	Anaphora Arg1:T14 Arg2:T13	
+R1	Anaphora Arg1:T5 Arg2:T2	
+T3	Markable 314 316	it

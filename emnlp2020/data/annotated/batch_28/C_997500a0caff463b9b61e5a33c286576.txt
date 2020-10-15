@@ -1,0 +1,5 @@
+0: a line of diagonal shades of grey DOTS!!!. bottom left is light grey.
+1: Yes I see it, the bottom left is the smallest?
+0: YES
+1: ok click that smallest one
+0: OK

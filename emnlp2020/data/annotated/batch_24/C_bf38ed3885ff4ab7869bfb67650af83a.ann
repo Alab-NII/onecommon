@@ -1,0 +1,30 @@
+T2	Markable 26 37	largest one
+T4	Markable 76 90	any black dots
+T5	Markable 126 141	a diagonal line
+T6	Markable 143 153	the darker
+T7	Markable 218 220	it
+T9	Markable 249 259	seven dots
+T10	Markable 296 306	seven dots
+T11	Markable 318 323	three
+T12	Markable 424 428	that
+T13	Markable 442 459	a medium grey dot
+T14	Markable 481 483	it
+T15	Markable 538 544	itself
+T16	Markable 572 574	it
+T17	Markable 642 645	one
+T18	Markable 673 676	one
+T19	Markable 605 608	two
+T20	Markable 706 714	that dot
+T21	Markable 7 24	lots of grey dots
+T1	Markable 118 122	dots
+R1	Predicative Arg1:T5 Arg2:T1	
+T3	Markable 174 186	the lightest
+A1	All-Referents T9
+A2	All-Referents T10
+T8	Markable 357 372	dark grey large
+T22	Markable 374 385	middle grey
+T23	Markable 387 407	slightly darker grey
+A3	No-Referent T12
+R2	Anaphora Arg1:T14 Arg2:T13	
+T24	Markable 494 509	one medium grey
+R3	Anaphora Arg1:T15 Arg2:T24	

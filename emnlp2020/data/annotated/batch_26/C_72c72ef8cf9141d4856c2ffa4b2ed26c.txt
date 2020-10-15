@@ -1,0 +1,3 @@
+1: I have 2 tiny dots stacked almost in a vertical line. The one on top is very light gray. The bottom one is dark gray
+0: i might see that...the one on the bottom looks black to me and its below the light one and slightly to the left
+1: yes. Lets pick the darker one below the light gray one

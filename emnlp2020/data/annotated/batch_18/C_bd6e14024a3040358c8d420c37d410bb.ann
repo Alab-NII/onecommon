@@ -1,0 +1,9 @@
+T1	Markable 14 36	two vertical grey dots
+T2	Markable 87 94	The one
+T3	Markable 173 188	a dark grey dot
+T4	Markable 208 216	the pair
+T5	Markable 263 271	the pair
+T6	Markable 221 232	another one
+T7	Markable 324 341	the top light dot
+R1	Anaphora Arg1:T5 Arg2:T4	
+T8	Markable 285 289	what

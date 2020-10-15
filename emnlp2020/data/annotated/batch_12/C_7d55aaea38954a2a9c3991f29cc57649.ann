@@ -1,0 +1,24 @@
+T1	Markable 45 59	a med/grey one
+T2	Markable 147 156	those two
+T3	Markable 125 138	a smaller one
+T4	Markable 226 239	the black one
+T5	Markable 196 198	it
+T6	Markable 251 258	the one
+T7	Markable 301 317	a light grey one
+T8	Markable 452 465	the black one
+T9	Markable 425 429	line
+T10	Markable 534 547	the black one
+T11	Markable 563 571	that one
+T13	Markable 15 38	a black kinda large one
+T15	Markable 177 194	tiny and med/grey
+T16	Markable 276 283	those 2
+T17	Markable 336 353	the darker circle
+T18	Markable 360 365	these
+T19	Markable 473 495	the same-size med/grey
+T20	Markable 512 516	that
+R1	Anaphora Arg1:T5 Arg2:T15	
+T12	Markable 87 91	it's
+R2	Anaphora Arg1:T12 Arg2:T13	
+T14	Markable 244 250	that's
+R4	Predicative Arg1:T6 Arg2:T14	
+R3	Anaphora Arg1:T20 Arg2:T19	

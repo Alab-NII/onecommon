@@ -1,0 +1,5 @@
+0: I have three dots in a long triangle. the lightest is the far left point. the darkest is the top point.
+1: i dont think i see your triangle, i have a small lighter grey dot to the left and below a large dark dot
+0: i'm sorry, i don't think i see that either. how about a group of 4 dots, the largest being the lightest
+1: yes and the lightest is also the lowest?
+0: yes. agreed. please click the largest/lowest/lightest. :)

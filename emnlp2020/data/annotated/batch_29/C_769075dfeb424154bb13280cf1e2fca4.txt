@@ -1,0 +1,3 @@
+1: i have three dots of different size making triangle to left side of circle
+0: hmm is one of the dots in that triangle very small and very light?
+1: yes lets select it

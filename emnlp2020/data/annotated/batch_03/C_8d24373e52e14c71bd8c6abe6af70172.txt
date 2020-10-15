@@ -1,0 +1,8 @@
+1: Name a dot
+0: I see two light grey circles that are pretty close together. One is slightly larger than the other
+1: in the center?
+0: I don't know. Your center is different from what my center is.
+1: really small black dot at 12?
+0: No. Is the smaller of the light grey circles close to a large circle that is medium shade?
+1: yes
+0: Let's click that smaller grey one then.

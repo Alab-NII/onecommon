@@ -1,0 +1,6 @@
+1: 2 dots beside each other. left one is smaller than right (same color). Another pair of 2 dots beside each other. top right is darker (same size)
+0: i have the dot where top right is darker. is lower left of that lighter?
+1: yeah it forms a triangle shape
+0: with a tiny dot right?
+1: yeah!
+0: pick the tiny dot of the triangle!

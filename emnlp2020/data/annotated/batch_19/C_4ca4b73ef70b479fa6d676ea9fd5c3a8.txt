@@ -1,0 +1,4 @@
+1: I have two large black dots one near 6:00 and one near 3:00 do u have either
+0: yes is the slightly smaller one up and to the right of the lower one? if so click the top one
+1: ok at the 6:00 or 3:00 position
+0: 3

@@ -1,0 +1,5 @@
+0: I have two large dots near the bottom in a vertical line. The darker one is on top
+1: Does it have some smaller dot off to the left
+0: yes it does.
+1: Do you want to pick the top dark one
+0: yup, let's do it

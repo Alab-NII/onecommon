@@ -1,0 +1,3 @@
+0: ever got three dark dots in a triangle, and one small light one underneath
+1: i have all four of those dots
+0: pick the light one!

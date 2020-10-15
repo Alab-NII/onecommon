@@ -1,0 +1,89 @@
+T1	Markable 95 104	right one
+T2	Markable 132 141	right one
+T3	Markable 150 164	small dark dot
+T4	Markable 171 187	a very light dot
+T7	Markable 218 240	another very light dot
+T8	Markable 54 64	three dots
+T9	Markable 194 196	it
+T10	Markable 247 249	it
+T11	Markable 306 324	the dark small dot
+T12	Markable 379 381	it
+T13	Markable 492 504	the big grey
+T14	Markable 529 537	the line
+T15	Markable 594 606	my first set
+T16	Markable 548 556	that one
+T17	Markable 683 699	the darkest dark
+T18	Markable 667 679	the triangle
+T20	Markable 778 801	that furthest right one
+T21	Markable 3 17	small dark dot
+T22	Markable 115 125	middle one
+A1	No-Referent T16
+T6	Markable 747 751	that
+T19	Modifier 18 24	almost
+T23	Spatial-Relation 25 43	centered in circle
+A2	No-Obj T23
+T5	Spatial-Relation 65 79	close together
+A3	No-Obj T5
+T24	Spatial-Relation 80 93	in a triangle
+A4	No-Obj T24
+T25	Spatial-Relation 95 100	right
+R1	Obj Arg1:T25 Arg2:T8	
+T26	Spatial-Attribute 108 113	black
+T27	Spatial-Relation 115 121	middle
+R2	Obj Arg1:T27 Arg2:T8	
+T28	Spatial-Relation 132 137	right
+R3	Obj Arg1:T28 Arg2:T8	
+T29	Spatial-Attribute 142 149	light--
+T30	Spatial-Relation 166 170	with
+T31	Spatial-Relation 188 193	below
+T32	Spatial-Relation 201 213	to the right
+R4	Subj Arg1:T32 Arg2:T4	
+R5	Obj Arg1:T32 Arg2:T9	
+T33	Spatial-Relation 241 246	below
+T34	Spatial-Relation 254 265	to the left
+R6	Subj Arg1:T34 Arg2:T7	
+R7	Obj Arg1:T34 Arg2:T10	
+T35	Modifier 325 340	almost directly
+T37	Spatial-Relation 341 360	in center of circle
+A6	No-Obj T37
+T38	Modifier 382 387	a bit
+T39	Spatial-Relation 388 400	to the right
+A7	No-Obj T39
+T40	Spatial-Relation 405 424	below of the center
+A8	No-Obj T40
+T41	Spatial-Relation 505 519	at bottom left
+A9	No-Obj T41
+T43	Modifier 621 629	slightly
+T44	Spatial-Relation 630 656	to the left on your circle
+T45	Spatial-Relation 660 666	at top
+R8	Subj Arg1:T45 Arg2:T18	
+A12	No-Obj T45
+T46	Spatial-Relation 671 679	triangle
+A13	No-Obj T46
+T47	Spatial-Relation 687 694	darkest
+R9	Obj Arg1:T47 Arg2:T18	
+T48	Spatial-Relation 700 712	on the right
+R10	Obj Arg1:T48 Arg2:T18	
+T49	Modifier 713 719	almost
+T50	Spatial-Relation 720 728	centered
+A14	No-Obj T50
+T51	Spatial-Relation 729 737	near top
+A15	No-Obj T51
+T52	Spatial-Relation 783 797	furthest right
+R11	Obj Arg1:T52 Arg2:T8	
+T53	Spatial-Attribute 126 130	dark
+A5	Mod-Certainty-Exactness T35
+T36	Spatial-Relation 520 537	touching the line
+A16	No-Obj T36
+T54	Spatial-Relation 560 580	outside of my circle
+A17	No-Obj T54
+T55	Spatial-Relation 603 606	set
+A18	No-Obj T55
+T42	Spatial-Relation 610 620	at the top
+A10	No-Obj T42
+A11	No-Obj T44
+#1	AnnotatorNotes T40	below
+#2	AnnotatorNotes T36	outside
+A19	Canonical-Undefined T54
+A20	Canonical-Undefined T55
+A21	Canonical-Undefined T44

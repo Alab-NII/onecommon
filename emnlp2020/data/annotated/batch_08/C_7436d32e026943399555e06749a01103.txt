@@ -1,0 +1,4 @@
+0: i have two dots the same size and color close to the line on the bottom right
+1: I have a black dot on above a smaller gray one
+0: near the bottom ... makes a line slanted up and to the left?
+1: yes, lets pick the black one

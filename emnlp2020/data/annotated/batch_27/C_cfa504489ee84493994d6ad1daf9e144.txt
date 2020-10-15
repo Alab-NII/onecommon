@@ -1,0 +1,6 @@
+1: Do you have a black dot with another lighter dot up and to the left
+0: two small very dark dots almost identical to each other and on a vertical line?
+1: I have the tiny dot too
+0: both or just one?
+1: Both sorry
+0: k click the top one

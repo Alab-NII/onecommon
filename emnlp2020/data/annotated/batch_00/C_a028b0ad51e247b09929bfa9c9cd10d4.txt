@@ -1,0 +1,6 @@
+1: do you see a large light grey nearly out the circle near the center bottom
+0: yes, there are two small dots beneath it on either side
+1: no. not the same. how about a tiny med grey near the left by itself
+0: its a darker grey but yes, towards the middle of the circle on the far left
+1: yes. should we do it?
+0: okay

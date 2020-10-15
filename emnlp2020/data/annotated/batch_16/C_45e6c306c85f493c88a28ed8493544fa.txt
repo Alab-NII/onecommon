@@ -1,0 +1,6 @@
+0: I have one large light grey dot
+1: I see one large light grey and above it is some dark small dots and below is a tiny medium grey dot
+0: Are they in triangle groups?
+1: the ones above the large light grey dot is in a triangle group yes
+0: Do you want to pick the light grey dot?
+1: yes let's do that one

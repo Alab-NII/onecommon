@@ -1,0 +1,16 @@
+T1	Markable 15 32	a small black one
+T2	Markable 88 98	each other
+T3	Markable 62 64	it
+T4	Markable 179 198	the small black one
+T5	Markable 242 256	the darker one
+T6	Markable 354 366	the left one
+T7	Markable 326 331	those
+T8	Markable 450 463	the other one
+T9	Markable 390 405	the lighter one
+T10	Markable 39 55	two medium sized
+R1	Anaphora Arg1:T3 Arg2:T1	
+R2	Anaphora Arg1:T2 Arg2:T10	
+T11	Markable 154 158	what
+A1	No-Referent T4
+T12	Markable 291 307	a same-sized one
+T13	Markable 100 108	the left

@@ -1,0 +1,23 @@
+T2	Markable 43 56	two dark ones
+T3	Markable 76 83	top one
+T4	Markable 176 178	it
+T5	Markable 190 204	the darker one
+T1	Spatial-Relation 57 74	in the center-ish
+A1	No-Obj T1
+T6	Spatial-Relation 76 79	top
+R1	Obj Arg1:T6 Arg2:T2	
+T7	Modifier 87 95	slightly
+T8	Spatial-Relation 96 102	darker
+T9	Modifier 107 115	slightly
+T10	Spatial-Relation 116 122	larger
+T11	Modifier 127 135	slightly
+T12	Spatial-Relation 136 162	off to the right of center
+A2	No-Obj T12
+R2	Obj Arg1:T8 Arg2:T2	
+R3	Obj Arg1:T10 Arg2:T2	
+T13	Spatial-Relation 194 200	darker
+R4	Obj Arg1:T13 Arg2:T2	
+T14	Modifier 64 74	center-ish
+A3	Mod-Uncertainty-Approximation T14
+R5	Mod Arg1:T14 Arg2:T1	
+#1	AnnotatorNotes T12	right

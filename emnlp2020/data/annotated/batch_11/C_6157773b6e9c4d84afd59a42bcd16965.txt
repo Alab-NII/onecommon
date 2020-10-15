@@ -1,0 +1,3 @@
+0: I see a little black one just down and to the right of a very large black one.
+1: Me too. Let's choose the larger black one
+0: OK

@@ -1,0 +1,24 @@
+T1	Markable 44 51	top one
+T2	Markable 10 42	two close, same sized large dots
+T3	Markable 62 72	bottom one
+T4	Markable 134 136	it
+T5	Markable 154 168	the bottom one
+T6	Markable 90 100	bottom one
+T7	Spatial-Relation 14 19	close
+A1	No-Obj T7
+T8	Spatial-Relation 21 31	same sized
+A2	No-Obj T8
+T9	Spatial-Relation 44 47	top
+R1	Obj Arg1:T9 Arg2:T2	
+T10	Spatial-Attribute 55 60	black
+T11	Spatial-Relation 62 68	bottom
+R2	Obj Arg1:T11 Arg2:T2	
+T12	Spatial-Attribute 76 86	light grey
+T13	Spatial-Relation 90 96	bottom
+R3	Obj Arg1:T13 Arg2:T2	
+T14	Modifier 104 112	slightly
+T15	Spatial-Relation 113 125	to the right
+R4	Obj Arg1:T15 Arg2:T2	
+T16	Spatial-Relation 158 164	bottom
+R5	Obj Arg1:T16 Arg2:T2	
+#1	AnnotatorNotes T7	near

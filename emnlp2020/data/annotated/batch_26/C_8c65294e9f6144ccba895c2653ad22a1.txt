@@ -1,0 +1,4 @@
+0: Hi, do you have any tiny dots?
+1: You got a small black tiny dot away from the other dots ?
+0: Yes
+1: Go for that one

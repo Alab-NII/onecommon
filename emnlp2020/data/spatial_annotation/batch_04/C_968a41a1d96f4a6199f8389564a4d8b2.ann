@@ -1,0 +1,15 @@
+T1	Markable 9 21	a group of 5
+T2	Markable 172 175	one
+T3	Markable 219 222	one
+T4	Markable 127 134	a light
+T5	Markable 303 317	that light one
+T6	Markable 45 56	a fish hook
+R1	Predicative Arg1:T6 Arg2:T1	
+T7	Markable 149 166	darker and bigger
+T8	Markable 201 205	that
+R2	Anaphora Arg1:T8 Arg2:T2	
+T9	Markable 244 248	that
+R3	Anaphora Arg1:T9 Arg2:T3	
+T10	Markable 268 272	that
+T11	Markable 274 290	part of the hook
+R4	Predicative Arg1:T11 Arg2:T10	

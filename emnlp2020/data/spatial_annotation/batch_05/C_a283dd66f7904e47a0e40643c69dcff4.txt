@@ -1,0 +1,4 @@
+0: I have three dots in a slightly diagonal line. Left one is black, middle one is little and is dark gray, and right one is lighter but a touch bigger than the middle one.
+1: i have a dark grey dot with a light grey smaller dot directly to the right of is and very close. directly below the dark grey dot is a black dot of the same size.
+0: I have that too -- let's pick the larger gray one.
+1: ok

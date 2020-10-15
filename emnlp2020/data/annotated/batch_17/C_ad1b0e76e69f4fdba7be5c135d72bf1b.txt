@@ -1,0 +1,5 @@
+1: i have one very smaller lighter dot with a bigger one of the same color up and to the left
+0: cluster of 4 dots close together?
+1: i have a cluster of 5 and then separated the two i just described
+0: Actually I read your message. I have those dots you described. Is the the bottom one very small? if so click it
+1: yes

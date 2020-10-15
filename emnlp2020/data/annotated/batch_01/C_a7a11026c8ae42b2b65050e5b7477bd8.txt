@@ -1,0 +1,5 @@
+1: i see a medium gray dot to the right
+0: i have nothing on the right of mine... so i'm looking in the center. is it kind of large and at the top/right?
+1: Yes medium gray?
+0: yes, with a light, slightly smaller one to it's left/slightly lower?
+1: yes

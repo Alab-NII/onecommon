@@ -1,0 +1,10 @@
+T1	Markable 78 97	two light gray dots
+T2	Markable 106 116	each other
+T3	Markable 46 51	three
+T4	Markable 159 168	the other
+T5	Markable 120 134	the bottom one
+T6	Markable 208 222	the bottom one
+T7	Markable 10 15	three
+A1	No-Referent T3
+R1	Anaphora Arg1:T2 Arg2:T1	
+T8	Markable 178 182	that

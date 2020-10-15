@@ -1,0 +1,9 @@
+1: i have two black, one large on the top and a medium at the bottom.
+0: Is your smallest a light grey?
+1: yes
+0: Is there anything above it to the left slightly?
+1: no, it has a black medium to the right and a large light gray
+0: I have those!
+1: is the large light grey under the black slight left?
+0: Yes! Which one do you want to choose?
+1: big light grey

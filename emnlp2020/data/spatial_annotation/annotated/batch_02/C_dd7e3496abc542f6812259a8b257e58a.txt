@@ -1,0 +1,5 @@
+0: do you see a tiny black dot off by itself?
+1: i do not see, i have a light grey off by itself on the bottom left
+0: Does it have 3 dots to the left and above it?
+1: yes
+0: Ok, select light gray dot

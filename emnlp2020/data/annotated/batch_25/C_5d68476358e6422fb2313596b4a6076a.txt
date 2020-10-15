@@ -1,0 +1,4 @@
+0: I have a small black dot, there is a bigger but lighter dot on bottom right side of it
+1: Yes. The black dot is by itself otherwise
+0: right, half an inch away from the lighter one
+1: Yes click the black one

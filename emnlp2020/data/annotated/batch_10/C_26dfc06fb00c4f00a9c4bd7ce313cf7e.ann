@@ -1,0 +1,12 @@
+T1	Markable 15 32	a small black one
+T2	Markable 49 71	3 med/grey larger ones
+T3	Markable 78 80	it
+T4	Markable 134 144	each other
+T5	Markable 157 161	they
+T6	Markable 219 232	the right one
+T7	Markable 262 274	the left one
+T8	Markable 188 205	a small black one
+T9	Markable 321 334	the right one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T10	Markable 97 105	two dots
+R2	Anaphora Arg1:T4 Arg2:T10	

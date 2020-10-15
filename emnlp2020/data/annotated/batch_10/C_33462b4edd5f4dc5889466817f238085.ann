@@ -1,0 +1,6 @@
+T1	Markable 35 37	it
+T2	Markable 56 72	three other dots
+T3	Markable 125 137	the dark one
+T4	Markable 3 17	my darkest dot
+R1	Anaphora Arg1:T1 Arg2:T4	
+T5	Markable 107 111	that

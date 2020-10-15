@@ -1,0 +1,4 @@
+0: I see a large grey dot on top of a smaller darker dot. you have that?
+1: they are about the same shade? there is an even lighter dot below them to the left
+0: I see that lighter dot too. I think it may be that one
+1: let's choose the lightest one of those three

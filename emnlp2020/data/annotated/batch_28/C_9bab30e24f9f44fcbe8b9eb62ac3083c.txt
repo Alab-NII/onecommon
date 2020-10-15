@@ -1,0 +1,4 @@
+1: tiny dark grey dot, large grey trio to the far right
+0: is the tiny dark dot almost in center? slightly up from the center of circle
+1: yes theres also a large grey directly below it and another to the left and up a bit
+0: lets click the small dark dot

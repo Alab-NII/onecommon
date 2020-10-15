@@ -1,0 +1,12 @@
+T1	Markable 23 38	the lighter one
+T2	Markable 109 127	two opposite sides
+T3	Markable 90 107	a diamond of dots
+T4	Markable 132 142	small dots
+T5	Markable 144 151	the one
+T6	Markable 215 226	the diamond
+T7	Markable 237 241	that
+T8	Markable 292 303	the diamond
+T9	Markable 252 268	the lightest one
+T10	Markable 3 22	two large grey dots
+R1	Predicative Arg1:T4 Arg2:T2	
+R2	Anaphora Arg1:T6 Arg2:T3	

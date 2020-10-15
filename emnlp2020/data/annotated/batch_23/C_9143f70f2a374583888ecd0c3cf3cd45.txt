@@ -1,0 +1,5 @@
+0: I have a large dark dot with a tiny light dot below it and a bit to the left of it
+1: No i do not. My smallest dot is the lightest
+0: Ok, does your small light dot have a dark medium-size dot below it and slightly right of it?
+1: Yes, select that dark one
+0: Ok, great.

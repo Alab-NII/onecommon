@@ -1,0 +1,4 @@
+0: I see two dots very close together, the one to the left is slightly higher and is bigger
+1: do you see one small grey and a big grey close to each other
+0: yes take the bigger one please
+1: okay

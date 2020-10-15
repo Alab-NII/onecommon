@@ -1,0 +1,18 @@
+T1	Markable 10 34	one lonely black med dot
+T2	Markable 63 77	any block dots
+T3	Markable 86 112	one smaller very light dot
+T4	Markable 121 133	3 other dots
+T5	Markable 114 116	it
+T6	Markable 165 181	a triangle group
+T7	Markable 253 265	the triangle
+T8	Markable 284 287	one
+T9	Markable 291 295	mine
+T10	Markable 371 382	the darkest
+T11	Markable 358 370	the triangle
+T12	Markable 400 418	the very light one
+A1	No-Referent T2
+#1	AnnotatorNotes T2	any black dots
+R1	Anaphora Arg1:T5 Arg2:T3	
+T13	Markable 242 249	the top
+T14	Markable 338 354	the bottom right
+R2	Predicative Arg1:T10 Arg2:T14	

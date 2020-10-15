@@ -1,0 +1,8 @@
+1: Do you have one dot darker than all the others?
+0: I have a black dot at the bottom left of the circle.
+1: I don't have that. How about one small light grey dot between two larger, darker dots, one above and one below?
+0: I do not have that, how about a large light grey dot on the left side above a small gray dot.
+1: I have a large dot on the left side, but no dot underneath is.
+0: I have a medium gray dot on the right side by it's self close to the top.
+1: Me too let's pick it
+0: Ok.

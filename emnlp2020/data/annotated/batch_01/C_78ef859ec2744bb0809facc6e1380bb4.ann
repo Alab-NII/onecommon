@@ -1,0 +1,15 @@
+T1	Markable 41 47	a line
+T2	Markable 98 100	it
+T3	Markable 134 141	The two
+T4	Markable 105 117	the left one
+T5	Markable 182 196	the middle one
+T6	Markable 281 301	an equally sized one
+T7	Markable 348 350	it
+T9	Markable 365 367	it
+T10	Markable 9 30	three smaller circles
+R1	Predicative Arg1:T1 Arg2:T10	
+T11	Markable 215 219	that
+A1	No-Referent T11
+T12	Markable 259 275	a large dark dot
+R2	Anaphora Arg1:T7 Arg2:T12	
+T13	Markable 380 404	the darker, top left one

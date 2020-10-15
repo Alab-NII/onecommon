@@ -1,0 +1,23 @@
+T1	Markable 58 77	a cluster of 3 dots
+T3	Markable 222 226	that
+T4	Markable 253 259	3 dots
+T5	Markable 275 285	a triangle
+T6	Markable 354 370	the other 2 dots
+T7	Markable 325 337	the triangle
+T8	Markable 382 403	a very light gray dot
+T9	Markable 446 454	that one
+T10	Markable 462 464	it
+T11	Markable 494 496	it
+T12	Markable 506 508	it
+T13	Markable 521 523	it
+T14	Markable 9 18	which dot
+A1	Generic T14
+T2	Markable 106 114	The left
+T15	Markable 136 146	the middle
+T16	Markable 175 184	the right
+A2	No-Referent T3
+R1	Predicative Arg1:T5 Arg2:T4	
+T17	Markable 314 321	the top
+R2	Anaphora Arg1:T9 Arg2:T8	
+R3	Anaphora Arg1:T12 Arg2:T11	
+R4	Anaphora Arg1:T13 Arg2:T12	

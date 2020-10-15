@@ -1,0 +1,4 @@
+0: A lot of medium and large dots in a cluster? the left one is darkest
+1: I have 5 dots that are close together. One is in the middle. The remaining ones almost form a pentagon, but the lower right corner is missing.
+0: sounds like we have the same thing, is the left most one darkest?
+1: Yes. Let's pick that one.

@@ -1,0 +1,23 @@
+T1	Markable 28 47	a smaller black dot
+T2	Markable 63 65	it
+T3	Markable 71 73	it
+T4	Markable 91 110	a smaller black dot
+T5	Markable 146 160	the darker one
+T6	Markable 3 22	one large dark grey
+R1	Anaphora Arg1:T2 Arg2:T6	
+R2	Anaphora Arg1:T3 Arg2:T6	
+T7	Markable 125 132	those 2
+T8	Spatial-Relation 23 27	with
+T9	Spatial-Relation 30 37	smaller
+T10	Spatial-Relation 48 62	to the left of
+T11	Spatial-Relation 66 70	near
+R3	Subj Arg1:T11 Arg2:T1	
+T12	Spatial-Relation 75 87	further left
+R4	Subj Arg1:T12 Arg2:T4	
+R5	Obj Arg1:T12 Arg2:T3	
+R6	Obj Arg1:T12 Arg2:T1	
+T13	Spatial-Relation 93 100	smaller
+R7	Obj Arg1:T13 Arg2:T3	
+R8	Obj Arg1:T13 Arg2:T1	
+T14	Spatial-Relation 150 156	darker
+R9	Obj Arg1:T14 Arg2:T7	

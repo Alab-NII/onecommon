@@ -1,0 +1,4 @@
+0: Hello, do you see a tiny dark dot on the right of the circle? Toward the middle
+1: is see medium darker dot isolated left side of circle; and 2 cluster of 3 dots top right and bottom right of circle
+0: Okay on the bottom cluster of three dots. Is the first one large and light grey?
+1: yes pick that one!

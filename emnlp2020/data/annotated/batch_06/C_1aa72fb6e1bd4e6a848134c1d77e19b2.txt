@@ -1,0 +1,4 @@
+0: I see a medium size, light gray dot all by itself.
+1: three dots that form almost a vertical line with the top being slightly to the right and darkest and the bottom being tiny and the lightest
+0: Yes, I see those. Want to pick the smallest dot at the bottom of the line?
+1: Yes sounds good!

@@ -1,0 +1,4 @@
+1: I see a medium gray circle. To the right, downwards, is a light smaller dot.
+0: I see 3 dots very close together. The one further towards the top is the largest and darkest
+1: I don't have that, my dots are not too close together.
+0: I think I see what you mean Click the smaller light one

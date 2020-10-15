@@ -1,0 +1,5 @@
+T1	Markable 42 52	a triangle
+T2	Markable 10 31	3 identical gray dots
+T3	Markable 68 72	they
+T4	Markable 106 113	the one
+R1	Predicative Arg1:T1 Arg2:T2	

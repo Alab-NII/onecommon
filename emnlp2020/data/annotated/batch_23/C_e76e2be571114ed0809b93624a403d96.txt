@@ -1,0 +1,5 @@
+1: I see a lonely black medium dot and there are two dots (black and bigger gray dot) far above it
+0: are the two dots above to the left of the lonely dot
+1: yes
+0: the lonely dot?
+1: yes

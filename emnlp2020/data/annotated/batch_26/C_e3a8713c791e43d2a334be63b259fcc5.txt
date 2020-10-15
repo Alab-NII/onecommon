@@ -1,0 +1,4 @@
+0: large dark grey dot all by itself?
+1: i only have a small lack dot by itself, what about a very light med dot. light medium dot there is with a cluster of larger and dark dots around it
+0: Is the light dot to the left of a black dot of same size?
+1: yes!, click the light one

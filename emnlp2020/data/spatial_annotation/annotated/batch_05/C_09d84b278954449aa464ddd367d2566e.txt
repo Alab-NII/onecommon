@@ -1,0 +1,4 @@
+0: I see two small moderately grey dots
+1: I think I see them as well.
+0: pick the right one?
+1: Okay

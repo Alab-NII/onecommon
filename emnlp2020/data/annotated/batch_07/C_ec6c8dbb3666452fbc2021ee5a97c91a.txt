@@ -1,0 +1,5 @@
+1: do you have any black dots?
+0: i have two dark dots, one is just above a light grey, it's on the edge of the circle, the other is to the right of two light dots
+1: is the larger of the two light dots lighter than the smaller one?
+0: yes, let's pick the dark dot in that set?
+1: ok

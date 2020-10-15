@@ -1,0 +1,3 @@
+1: i see a massive dark one with a tiny "moon" do you see it?
+0: I have large black dot with a small light grey right next to it?
+1: yes, that's the one, let's pick the big one, ok?

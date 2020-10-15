@@ -1,0 +1,7 @@
+1: I see a dark medium not with nothing too close to it
+0: to the right top?
+1: Its in the middle for me, there is a small medium shade dot a little ways below it that is slightly to the left
+0: I don't have it. do you have a small black dot to the left above a larger medium gray dot?
+1: I think I see it. Can you see anything above it?
+0: yes but its all the way to the top... this black dont is kinda at the 9 o clock area
+1: yep, lets choose the small black dot

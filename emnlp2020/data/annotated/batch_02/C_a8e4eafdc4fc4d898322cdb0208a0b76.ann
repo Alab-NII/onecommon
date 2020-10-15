@@ -1,0 +1,7 @@
+T1	Markable 10 34	two dark grey large dots
+T2	Markable 43 53	each other
+T3	Markable 68 75	The one
+T4	Markable 150 154	that
+T5	Markable 170 181	the largest
+R1	Anaphora Arg1:T2 Arg2:T1	
+T6	Markable 65 66	3

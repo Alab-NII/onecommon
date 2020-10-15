@@ -1,0 +1,8 @@
+0: I see one large dashed circle
+1: I see a pair of almost vertical grey dots, one dark and one light
+0: Are they inside a larger dashed circle?
+1: I think all dots are. The larger one is the darker. Do you see it?
+0: I see many dots. Are the almost vertical gray dots you referred to at the very top of the large circle?
+1: The positions aren't the same for us. Is the darker on top for you?
+0: There is a darker one at the top, yes? It is also larger than five of the other dots.
+1: lets choose that dark one.

@@ -1,0 +1,5 @@
+0: Is there a small dot towards the top of your circle
+1: I have one small dark circle towards the top. it is to the right of two other circles that are lighter.
+0: I don't have that one. Do you have a small darker dot at the bottom
+1: The bottle half of the circle is completely blank. There is a large dark circle in the center towards the bottom. It was not close to any other dots.
+0: Ok click on that one

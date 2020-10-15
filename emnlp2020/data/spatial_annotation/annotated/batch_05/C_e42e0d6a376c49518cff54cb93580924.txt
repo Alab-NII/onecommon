@@ -1,0 +1,10 @@
+1: alright then
+0: Do you see the two dark dots that are top? One that is almost 12:00?
+1: no, i dont see two dark dots next to each other at all. to the very right around 3 oclock i have a dark dot, mid-size though (maybe small actually). you?
+0: I see that one
+1: should we go for it? whats it surrounded by? for me, it has two other dots of near same size below it, lighter. by below i mean not directly below but a bit further dot
+0: I see a larger grey dot above it...
+1: hm. i dont have that. what i do have is a gray large dot that isn't surrounded by much at all. it's just sitting there alone really
+0: Yes!! Me too, a bit darker and medium to large?
+1: yes! let's go with that?
+0: Great.

@@ -1,0 +1,9 @@
+T2	Markable 38 44	a pair
+T3	Markable 109 113	that
+T4	Markable 46 63	a large dark grey
+T5	Markable 177 186	the other
+T6	Markable 136 140	that
+T7	Markable 145 160	the lighter one
+T8	Markable 217 236	the larger dark one
+T1	Markable 68 87	a med size med grey
+R1	Anaphora Arg1:T3 Arg2:T2	

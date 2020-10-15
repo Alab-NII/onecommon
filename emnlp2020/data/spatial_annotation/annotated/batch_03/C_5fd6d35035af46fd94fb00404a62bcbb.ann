@@ -1,0 +1,13 @@
+T1	Markable 57 75	one large dark dot
+T2	Markable 14 44	a cluster of 4 small dark dots
+T3	Markable 79 85	itself
+T4	Markable 189 193	that
+R1	Anaphora Arg1:T3 Arg2:T1	
+T5	Spatial-Relation 16 23	cluster
+A1	No-Obj T5
+T6	Spatial-Relation 76 78	by
+T7	Spatial-Relation 94 108	near 4 o'clock
+A2	No-Obj T7
+R2	Subj Arg1:T7 Arg2:T1	
+#1	AnnotatorNotes T6	alone
+#2	AnnotatorNotes T7	right; below

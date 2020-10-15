@@ -1,0 +1,4 @@
+0: two tiny very light grey dots?
+1: I see them.
+0: if the upper one is to the right click that one!
+1: Clicked

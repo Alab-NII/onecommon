@@ -1,0 +1,4 @@
+0: Is your smallest dot black?
+1: yes and to the 4-5 oclock side
+0: Mine is more in the middle of the circle, but more on the 4 or 5 o'clock side. Do you want to select this one?
+1: sure!

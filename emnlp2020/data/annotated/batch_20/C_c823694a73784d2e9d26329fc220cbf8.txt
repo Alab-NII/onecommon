@@ -1,0 +1,5 @@
+0: tiny black dot?
+1: I don't have any tiny dots. I see a dark grey medium sized dot bottom left of center.
+0: our centers might be different. is there one very similar in size but slightly darker and larger up to its right?
+1: Yes, I have a larger darker one above to the right. Should we choose that one?
+0: yes

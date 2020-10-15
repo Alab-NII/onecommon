@@ -1,0 +1,10 @@
+T1	Markable 22 37	a dark gray dot
+T2	Markable 82 84	it
+T3	Markable 43 59	a small gray dot
+T4	Markable 113 137	a very light colored one
+T5	Markable 179 192	a smaller one
+T6	Markable 214 227	the small one
+T7	Markable 200 202	it
+T8	Markable 240 242	it
+T9	Markable 249 263	the albino one
+R1	Anaphora Arg1:T2 Arg2:T1	

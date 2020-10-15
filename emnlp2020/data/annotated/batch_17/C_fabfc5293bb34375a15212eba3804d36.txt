@@ -1,0 +1,4 @@
+0: i have one very large black dot. it is kind of alone, but if you go straight down you will see a smaller dark dot
+1: Do you see a large lonely black dot
+0: i think we are talking about the same large dot.
+1: Yeah

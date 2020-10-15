@@ -1,0 +1,4 @@
+0: I have a small black dot alone... to the right is a group that makes a triangle...
+1: ok i see that
+0: choose the dot alone?
+1: ok great

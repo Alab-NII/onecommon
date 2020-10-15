@@ -1,0 +1,16 @@
+T1	Markable 10 17	one dot
+T2	Markable 59 81	a large light gray dot
+T3	Markable 134 136	it
+T4	Markable 189 191	it
+T5	Markable 121 129	that dot
+T6	Spatial-Attribute 18 31	large in size
+T7	Spatial-Attribute 36 40	dark
+T8	Modifier 82 90	a little
+T9	Spatial-Relation 91 106	after 3 o clock
+A1	No-Obj T9
+T10	Spatial-Attribute 137 156	medium colored gray
+T11	Modifier 161 168	kind of
+R1	Mod Arg1:T11 Arg2:T10	
+#1	AnnotatorNotes T9	right below
+T12	Modifier 137 143	medium
+A2	Mod-Neutral T12

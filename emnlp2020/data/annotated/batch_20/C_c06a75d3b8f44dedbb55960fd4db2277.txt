@@ -1,0 +1,3 @@
+0: I see a small, dark grey dot.
+1: is it kinda by itself, but above to it's right is a little larger light one?
+0: I think that's the one.

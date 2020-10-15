@@ -1,0 +1,4 @@
+0: Do you see two dark dots near each other?
+1: I have 3 dots that make a triangle starting from right to left large black dot, medium size and color gray dot and below light gray dot
+0: I don't think I see the same thing. My Triangle has a large dark dot on the right, a medium sized dark dot on the left, and a light one below
+1: yup! I saw your first question and realized it seems we are talking about the same thing, the first dot is larger than the other 2 dots that seem to be about the same size. Lets choose the largest

@@ -1,0 +1,71 @@
+T1	Markable 9 32	the largest darkest dot
+T2	Markable 130 144	a cluster of 5
+T3	Markable 148 161	the top three
+T4	Markable 222 237	largest of them
+T5	Markable 184 194	bottom two
+T6	Markable 263 275	your cluster
+T7	Markable 290 315	the top small darkest one
+T8	Markable 373 384	the cluster
+T10	Markable 420 430	a triangle
+T11	Markable 462 485	that small/dark top one
+T12	Markable 57 75	a much lighter dot
+T13	Markable 321 335	the larger one
+T14	Markable 393 408	the topmost one
+T15	Spatial-Relation 13 20	largest
+A1	No-Obj T15
+T16	Spatial-Relation 21 28	darkest
+A2	No-Obj T16
+T17	Spatial-Relation 34 50	on the left side
+A3	No-Obj T17
+T18	Spatial-Relation 52 56	with
+T19	Modifier 59 63	much
+T20	Spatial-Relation 64 71	lighter
+R2	Obj Arg1:T20 Arg2:T1	
+T21	Spatial-Relation 76 85	same size
+R3	Obj Arg1:T21 Arg2:T1	
+T22	Modifier 86 94	slightly
+T23	Spatial-Relation 95 97	up
+T24	Spatial-Relation 102 114	to the right
+R4	Obj Arg1:T23 Arg2:T1	
+R5	Obj Arg1:T24 Arg2:T1	
+T25	Spatial-Relation 132 139	cluster
+A4	No-Obj T25
+T26	Spatial-Relation 152 155	top
+R6	Obj Arg1:T26 Arg2:T2	
+T27	Spatial-Relation 166 180	same size/tiny
+T28	Spatial-Attribute 171 180	size/tiny
+#1	AnnotatorNotes T27	same size
+A5	No-Obj T27
+T29	Spatial-Relation 184 190	bottom
+R7	Obj Arg1:T29 Arg2:T2	
+T30	Spatial-Attribute 199 204	large
+T31	Spatial-Relation 209 215	larger
+A6	No-Obj T31
+A7	No-Subj-Markable T31
+A8	No-Subj-Markable T30
+T33	Spatial-Relation 222 229	largest
+R8	Obj Arg1:T33 Arg2:T2	
+T34	Spatial-Attribute 244 248	dark
+T35	Spatial-Relation 268 275	cluster
+A9	No-Obj T35
+T36	Spatial-Relation 294 297	top
+R9	Obj Arg1:T36 Arg2:T2	
+T37	Spatial-Relation 304 311	darkest
+R10	Obj Arg1:T37 Arg2:T2	
+T9	Spatial-Relation 336 349	furthest away
+T38	Spatial-Relation 357 372	lightest one of
+T39	Spatial-Relation 377 384	cluster
+A11	No-Obj T39
+T40	Spatial-Relation 397 404	topmost
+#2	AnnotatorNotes T40	top
+R1	Obj Arg1:T40 Arg2:T6	
+T41	Spatial-Relation 412 419	part of
+T42	Spatial-Relation 422 430	triangle
+A12	No-Obj T42
+T43	Spatial-Relation 438 445	darkest
+R11	Obj Arg1:T43 Arg2:T6	
+T44	Spatial-Relation 478 481	top
+R12	Obj Arg1:T44 Arg2:T2	
+R13	Subj Arg1:T43 Arg2:T14	
+T45	Spatial-Relation 325 331	larger
+A10	Canonical-Undefined T9

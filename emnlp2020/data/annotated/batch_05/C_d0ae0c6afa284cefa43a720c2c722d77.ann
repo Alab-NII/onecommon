@@ -1,0 +1,15 @@
+T1	Markable 18 46	one isolated, small dark dot
+T2	Markable 82 84	it
+T3	Markable 48 62	All other dots
+T4	Markable 96 112	a small dark dot
+T6	Markable 150 156	a line
+T7	Markable 162 190	two larger, medium grey dots
+T8	Markable 132 134	it
+T9	Markable 241 249	two dots
+T10	Markable 323 342	the small, dark dot
+T11	Markable 390 404	the darker one
+T12	Markable 472 490	the small dark dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T5	Markable 347 359	all together
+T13	Markable 409 422	a lighter one
+T14	Markable 423 438	everything else

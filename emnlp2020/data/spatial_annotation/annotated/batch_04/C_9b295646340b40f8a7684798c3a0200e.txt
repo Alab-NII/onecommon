@@ -1,0 +1,6 @@
+1: massive big one dark gray, do you see it?
+0: No, but I have a black dot with a small black dot to its right.
+1: in the same horizontal line?
+0: Yes, not perceptibly below or above.
+1: ok, let's pick the big one at the left, ok?
+0: Okay:)

@@ -1,0 +1,20 @@
+T1	Markable 30 44	two light dots
+T2	Markable 45 48	one
+T3	Markable 56 59	one
+T5	Markable 77 99	a cluster of four dots
+T6	Markable 141 156	the other three
+T7	Markable 186 190	that
+T8	Markable 206 223	a light small dot
+T9	Markable 241 245	that
+T10	Markable 284 298	two large dots
+T11	Markable 326 336	each other
+T12	Markable 356 366	bottom one
+T13	Markable 388 404	the top dark one
+T15	Markable 3 23	Larger dark gray dot
+T4	Markable 101 116	the bottom left
+A1	No-Referent T7
+T16	Markable 250 256	no dot
+A2	No-Referent T16
+R1	Anaphora Arg1:T11 Arg2:T10	
+T17	Markable 338 345	top one
+T14	Markable 408 412	that

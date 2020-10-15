@@ -1,0 +1,3 @@
+0: i have a cluster of dot with 1 big black one
+1: Yes! Does the black one have a smaller darker grey down and to the left of it?
+0: yep, lets pick the big one

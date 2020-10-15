@@ -1,0 +1,7 @@
+0: The smallest dot i have is light gray
+1: Large black with a large light grey below to the right
+0: No two very dark dots of similar size are somewhat close in a slant order
+1: My smallest dot is also light gray, let's pick that one?
+0: does it have a large black at the top of it
+1: to the top left yes
+0: okay lets select the tiny light

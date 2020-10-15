@@ -1,0 +1,13 @@
+T1	Markable 50 54	that
+T2	Markable 58 62	mine
+T3	Markable 100 110	a triangle
+T5	Markable 209 228	the big darker ones
+T6	Markable 252 268	that lighter one
+T8	Markable 10 32	a dark gray big circle
+A1	No-Referent T1
+A2	All-Referents T2
+T9	Markable 74 79	three
+R1	Predicative Arg1:T3 Arg2:T9	
+T10	Markable 115 135	3 of different sizes
+T11	Markable 144 147	two
+T4	Markable 170 177	the one

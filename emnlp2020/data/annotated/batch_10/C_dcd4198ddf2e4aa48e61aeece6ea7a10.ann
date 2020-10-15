@@ -1,0 +1,7 @@
+T1	Markable 14 29	three dark ones
+T2	Markable 39 49	each other
+T3	Markable 70 81	the top one
+T4	Markable 94 108	the middle one
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T3
+T5	Markable 155 168	the black one

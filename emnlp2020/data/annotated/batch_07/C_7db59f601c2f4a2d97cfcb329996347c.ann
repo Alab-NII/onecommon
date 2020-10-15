@@ -1,0 +1,13 @@
+T1	Markable 10 33	a cluster of three dots
+T2	Markable 35 38	two
+T4	Markable 53 62	one light
+T5	Markable 72 90	two very dark dots
+T6	Markable 154 159	those
+T7	Markable 164 172	the ones
+T8	Markable 215 233	a small light grey
+T9	Markable 263 281	the light grey one
+T10	Markable 300 302	it
+R1	Predicative Arg1:T7 Arg2:T6	
+T3	Markable 174 185	smaller one
+T11	Markable 285 299	light grey one
+R2	Anaphora Arg1:T10 Arg2:T11	

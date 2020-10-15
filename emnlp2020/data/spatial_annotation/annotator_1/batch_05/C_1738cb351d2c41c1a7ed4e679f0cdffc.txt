@@ -1,0 +1,7 @@
+1: Do you see a large medium shade dot off to the left of all the other dots?
+0: It has 2 dots down and to the right
+1: I don't think we see the same one. How about a triangle of smaller dots? Do you see that?
+0: I have 2 large dot towards the middle
+1: I don't...Do you have a large dark gray dot at the top of a line of smaller dots?
+0: I have the smallest dot being black with another one down and to the left
+1: I have think I may have that one...choose the black small dot

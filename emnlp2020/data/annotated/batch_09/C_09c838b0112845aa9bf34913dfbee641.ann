@@ -1,0 +1,19 @@
+T1	Markable 42 53	a small one
+T2	Markable 69 71	it
+T3	Markable 106 132	either of these black dots
+T4	Markable 10 27	a large black dot
+T5	Markable 152 162	the larger
+T6	Markable 166 180	those two dots
+T7	Markable 245 246	1
+T8	Markable 274 283	other two
+T9	Markable 229 244	four small grey
+T10	Markable 376 394	the two black ones
+T11	Markable 439 441	it
+T13	Markable 621 639	the two black dots
+T14	Markable 607 617	the larger
+R1	Anaphora Arg1:T2 Arg2:T4	
+T15	Markable 72 86	all other dots
+T16	Markable 202 206	they
+T17	Markable 255 258	one
+T18	Markable 320 330	large grey
+T19	Markable 406 432	a smaller, medium grey dot

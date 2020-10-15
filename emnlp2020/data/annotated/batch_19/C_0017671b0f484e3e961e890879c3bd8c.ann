@@ -1,0 +1,8 @@
+T2	Markable 10 25	a med black dot
+T3	Markable 61 63	it
+T4	Markable 70 75	yours
+T5	Markable 169 177	that one
+T6	Markable 192 200	that one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T1	Markable 119 127	anything
+A1	Generic T1

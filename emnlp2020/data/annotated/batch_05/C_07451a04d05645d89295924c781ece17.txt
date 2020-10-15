@@ -1,0 +1,5 @@
+0: I have a darkish dot with a slightly larger, lighter dot to the upper left
+1: and to the left of the first dot is a smaller light dot?
+0: no i dont have that one
+1: of the darkish dot with the lighter dot, is that lighter dot more leftways than upwards?
+0: yes, lets choose the darker dot

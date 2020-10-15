@@ -1,0 +1,8 @@
+T1	Markable 14 32	lighter three dots
+T2	Markable 71 74	one
+T3	Markable 114 126	the smallest
+T4	Markable 100 110	bottom dot
+T5	Markable 142 146	that
+T6	Markable 176 192	the smallest dot
+T8	Markable 57 66	Two light
+R1	Predicative Arg1:T3 Arg2:T4	

@@ -1,0 +1,2 @@
+0: 2 dark gray dots very close to each other, the one on the right is smaller than the left one
+1: Let's select the smaller one on the right

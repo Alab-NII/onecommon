@@ -1,0 +1,4 @@
+1: do you have some black dots? right near each other? i have a very small one right next to a med size one to it's lower right
+0: All of my dots are dark except a medium size and light gray
+1: ok so you have the 3 black dots? right one is largest... lower left to that is med size, and above that one to it's left is the smallest of the 3?
+0: I see that do you want to pick the small one

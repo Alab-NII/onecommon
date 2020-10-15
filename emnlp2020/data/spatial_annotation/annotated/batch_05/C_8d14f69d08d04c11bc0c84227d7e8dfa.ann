@@ -1,0 +1,37 @@
+T1	Markable 10 25	two darker dots
+T2	Markable 61 72	a black dot
+T3	Markable 78 106	a slightly smaller black dot
+T4	Markable 141 147	3 dots
+T5	Markable 214 235	the smaller black dot
+T6	Markable 320 327	the one
+T7	Markable 110 113	its
+R1	Anaphora Arg1:T7 Arg2:T2	
+T9	Markable 243 256	the other dot
+T10	Markable 302 306	that
+T11	Spatial-Relation 14 20	darker
+A1	No-Obj T11
+T12	Spatial-Relation 26 40	close together
+A2	No-Obj T12
+T13	Spatial-Relation 41 51	down lower
+A3	No-Obj T13
+T14	Spatial-Relation 73 77	with
+T15	Modifier 80 88	slightly
+T16	Spatial-Relation 89 96	smaller
+T17	Spatial-Relation 114 125	upper right
+R3	Subj Arg1:T17 Arg2:T3	
+R4	Obj Arg1:T17 Arg2:T7	
+T8	Modifier 168 177	look like
+T18	Spatial-Relation 178 194	an upside down L
+A4	No-Obj T18
+T19	Spatial-Relation 148 162	close together
+A6	No-Obj T19
+T20	Spatial-Relation 218 225	smaller
+T21	Spatial-Relation 259 269	upper left
+R2	Obj Arg1:T21 Arg2:T5	
+T22	Modifier 271 274	not
+T23	Spatial-Relation 275 280	right
+R5	Obj Arg1:T23 Arg2:T5	
+T24	Spatial-Relation 328 345	to the upper left
+R6	Obj Arg1:T24 Arg2:T10	
+A5	Canonical-Undefined T18
+A7	Mod-Uncertainty-Approximation T8

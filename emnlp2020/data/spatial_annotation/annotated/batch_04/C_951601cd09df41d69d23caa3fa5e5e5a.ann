@@ -1,0 +1,39 @@
+T1	Markable 51 69	a smaller dark dot
+T2	Markable 85 89	that
+T3	Markable 91 102	3 dark dots
+T4	Markable 104 107	two
+T5	Markable 111 115	them
+T6	Markable 132 145	the other one
+T7	Markable 182 186	that
+T8	Markable 225 247	2 tiny light grey dots
+T9	Markable 254 258	that
+T10	Markable 200 219	a med dark grey dot
+T11	Markable 314 318	them
+T12	Markable 332 348	the med dark dot
+T13	Markable 3 23	a big light grey dot
+T14	Markable 31 35	that
+R1	Anaphora Arg1:T14 Arg2:T13	
+A1	No-Referent T2
+R2	Anaphora Arg1:T5 Arg2:T3	
+A2	No-Referent T7
+R3	Anaphora Arg1:T9 Arg2:T10	
+T15	Markable 269 273	that
+T16	Markable 287 302	a dark gray dot
+T17	Spatial-Relation 25 30	below
+R4	Subj Arg1:T17 Arg2:T1	
+T18	Spatial-Relation 37 46	far apart
+R5	Subj Arg1:T18 Arg2:T1	
+R6	Obj Arg1:T18 Arg2:T14	
+T19	Spatial-Relation 53 60	smaller
+R7	Obj Arg1:T19 Arg2:T14	
+T20	Spatial-Relation 108 110	of
+T21	Spatial-Relation 116 130	close together
+A3	No-Obj T21
+R8	Subj Arg1:T21 Arg2:T4	
+T22	Spatial-Relation 149 152	far
+R9	Obj Arg1:T22 Arg2:T5	
+T23	Spatial-Relation 157 168	to the left
+R10	Obj Arg1:T23 Arg2:T5	
+T24	Spatial-Relation 220 224	with
+T25	Spatial-Relation 248 253	below
+T26	Spatial-Relation 303 313	in between

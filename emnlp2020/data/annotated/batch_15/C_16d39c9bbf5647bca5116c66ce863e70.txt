@@ -1,0 +1,4 @@
+1: Do you have a lonely tiny black dot
+0: No
+1: Ok then a large dark grey dot and left of it is same sized lighter Dot and is slightly lower
+0: Yes...choose the darker large one

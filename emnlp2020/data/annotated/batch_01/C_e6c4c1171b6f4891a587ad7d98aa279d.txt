@@ -1,0 +1,12 @@
+0: i see a large medium grey dot all on its own
+1: I see three dots in almost a triangle pattern, do you see anything like that?
+0: yeah
+1: The medium gray is on the left of the triangle formation right? A bigger darker dot to its lower right?
+0: no
+1: Is there a similar sized, darker dot almost horizontal to the left?
+0: slightly lower?
+1: yep! and slightly smaller
+0: i think its slightly larger. lol, do u see a really small light grey dot?
+1: Yes, with a larger darker one at its 1 o'clock
+0: maybe 12:15 lets pick that really small light grey
+1: Ok!

@@ -1,0 +1,4 @@
+0: Hello! Do you see three dots in a row, the first two being almost the same size and the last being tiny?
+1: Yes, the top one is dark grey, and they get lighter as the row goes down
+0: Yes! Let's select the top one. Just to confirm the one next to that is a slightly lighter shade?
+1: Yup!

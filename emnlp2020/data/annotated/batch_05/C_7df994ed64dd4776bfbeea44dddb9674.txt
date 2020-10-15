@@ -1,0 +1,4 @@
+1: I have a little black dot just to the right of a medium sized one that is slightly larger.
+0: i see a triangle; top left = dark large dot, top right = light small dot, bottom = large medium grey dot
+1: I see that too -- let's pick the large dark one on the top left.
+0: ok!

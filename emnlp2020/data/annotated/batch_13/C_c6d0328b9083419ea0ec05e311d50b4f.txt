@@ -1,0 +1,9 @@
+0: bottom right, near 6 o clock, medium sized gray dot?
+1: I have a group of 5 dots, two small black ones and three gray ones.
+0: where, the top left, near 10 and 11? right up against the circle line?
+1: Our circles are different, mine aren't in the same places as yours.
+0: okay well that's not really helping at all. do you have a small black dot right up against the edge??
+1: No. Do you see two dots, both dark gray, a smaller one on the left higher and a larger one lower on the right?
+0: i see that, but reversed - larger on the left and lower, higher on the right and smaller.
+1: Pick the smaller one, let's see if that's it.
+0: ok

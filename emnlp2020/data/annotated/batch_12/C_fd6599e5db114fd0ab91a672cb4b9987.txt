@@ -1,0 +1,5 @@
+1: DO you have one large dark grey dot next to a slightly smaller and slightly lighter one?
+0: do you have a large dark grey, and an inch to it's right, slightly lower is a black one that's a bit smaller? there's a tiny dark one directly below the black one
+1: Yes . Lets select that one
+0: which?
+1: The large dark grey

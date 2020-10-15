@@ -1,0 +1,9 @@
+T1	Markable 22 39	two isolated dots
+T2	Markable 128 139	one another
+T4	Markable 145 169	the slightly lighter one
+T5	Markable 210 225	the lighter one
+T6	Markable 92 113	two smaller gray dots
+R1	Anaphora Arg1:T2 Arg2:T6	
+T3	Markable 244 251	the one
+T7	Markable 290 298	the left
+T8	Markable 329 337	the left

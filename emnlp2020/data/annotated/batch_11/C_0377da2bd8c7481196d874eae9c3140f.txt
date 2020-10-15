@@ -1,0 +1,5 @@
+1: One light large dot with a black one just to it's left that's a little smaller
+0: kind of, is the smaller one on an angle of it?
+1: yes slightly lower to it's left, shall we choose the light one?
+0: ok, the larger one right?
+1: yes larger light one. only light one in the mix there

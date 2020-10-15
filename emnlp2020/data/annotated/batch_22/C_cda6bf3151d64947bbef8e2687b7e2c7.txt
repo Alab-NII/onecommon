@@ -1,0 +1,4 @@
+0: small dark dot with a large, light grey dot up and to the left of it
+1: Yes, I have that one. The larger dot is slightly more left than it is up, from the other one?
+0: yes, lets pick the larger one
+1: Great, I will pick the larger one.

@@ -1,0 +1,10 @@
+T1	Markable 10 26	three small dots
+T3	Markable 51 65	the bottom one
+T4	Markable 131 134	one
+T5	Markable 178 182	what
+T6	Markable 151 158	top one
+T7	Markable 119 129	each other
+T8	Markable 103 115	2 large dots
+R1	Anaphora Arg1:T7 Arg2:T8	
+T2	Markable 212 240	the bottom, largest, darkest
+T9	Markable 244 257	the boomerang

@@ -1,0 +1,6 @@
+0: I have a medium grey one on the dotted line on the top right
+1: Our views are different. I have a tiny dark gray dot with a larger medium gray dot above and to the right of it. They are very close together
+0: no, I have a large grey one on the top left
+1: Ok. What about large same sized dots close together. One is almost black with a light gray one to the right and below it
+0: I'm not seeing that... the only black one I have is medium size and has a tiny lighter dot to the top right of it
+1: Yes, let's pick the large black one

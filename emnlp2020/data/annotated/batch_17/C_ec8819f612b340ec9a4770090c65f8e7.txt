@@ -1,0 +1,4 @@
+1: I see a small gray dot inside a triangle of large and medium dark dots.
+0: Is the small grey dot light grey and the triangle dots dark grey?
+1: Yes, the smallest of the dark dots is almost directly above the light gray dot in question?
+0: Yes click the middle light grey dot!

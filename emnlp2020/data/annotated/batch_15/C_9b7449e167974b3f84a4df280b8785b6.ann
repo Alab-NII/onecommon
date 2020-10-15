@@ -1,0 +1,13 @@
+T1	Markable 10 22	2 black dots
+T2	Markable 77 89	2 light ones
+T3	Markable 102 112	each other
+T4	Markable 116 123	top one
+T5	Markable 186 199	my black ones
+T6	Markable 250 279	the top darker light grey one
+T7	Markable 50 61	one another
+R1	Anaphora Arg1:T7 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T2	
+T8	Markable 180 184	that
+A1	No-Referent T8
+T9	Markable 213 223	themselves
+R3	Anaphora Arg1:T9 Arg2:T5	

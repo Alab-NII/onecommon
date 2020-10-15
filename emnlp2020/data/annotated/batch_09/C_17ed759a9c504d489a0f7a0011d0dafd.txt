@@ -1,0 +1,4 @@
+1: i have a large light one kind of on it's own, with a small dark one about an inch away on it's right
+0: Do you see a large dark Dot and lower and to the right a very small light dot?
+1: no nothing is on my lower right. Do you see the large light one I described? with the small dark one across to it's right?
+0: I see the large light one that you saw let's choose it

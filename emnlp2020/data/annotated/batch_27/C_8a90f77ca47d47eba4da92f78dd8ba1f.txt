@@ -1,0 +1,4 @@
+0: i have no black dots. i have a small light grey with a medium grey to its right and a large dark grey to the bottom left of it
+1: a large medium grey dot with a slightly smaller medium grey dot on the diagonal above and left
+0: about an inch apart?
+1: select the large on bottom left

@@ -1,0 +1,6 @@
+T1	Markable 26 39	diagonal line
+T2	Markable 3 22	three med grey dots
+R1	Predicative Arg1:T1 Arg2:T2	
+T3	Markable 72 82	middle one
+T4	Markable 126 134	that one
+R2	Anaphora Arg1:T4 Arg2:T3	

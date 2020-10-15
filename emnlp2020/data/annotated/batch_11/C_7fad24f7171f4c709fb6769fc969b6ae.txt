@@ -1,0 +1,4 @@
+0: I have one large, very light gray dot
+1: do you have a tiny dot towards the edge, below and to the left of it is bigger darker dot?
+0: No. I have two pairs of dots, the darker one's are above and two the left of the smaller, lighter dots.
+1: i have your large light grey one, let's choose that one

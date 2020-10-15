@@ -1,0 +1,11 @@
+T1	Markable 47 56	the point
+T2	Markable 63 84	a large dark gray dot
+T3	Markable 97 104	the one
+T4	Markable 111 120	the point
+T5	Markable 144 146	it
+T6	Markable 172 184	a light gray
+T7	Markable 221 230	the point
+T8	Markable 3 14	all my dots
+R1	Predicative Arg1:T2 Arg2:T1	
+A1	All-Referents T8
+R2	Anaphora Arg1:T5 Arg2:T3	

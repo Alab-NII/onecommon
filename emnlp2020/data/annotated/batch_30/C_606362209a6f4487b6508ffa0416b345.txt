@@ -1,0 +1,4 @@
+0: 3 dots in a row with one being black small and the middle lightest tiny?
+1: Two same shade grey dots. Left one is slightly larger and slightly higher
+0: I see that one. Choose larger of the two
+1: I see yours as well, I'll click larger though

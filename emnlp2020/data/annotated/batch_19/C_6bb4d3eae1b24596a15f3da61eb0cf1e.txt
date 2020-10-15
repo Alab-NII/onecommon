@@ -1,0 +1,6 @@
+1: do you see the smallest darkest dot at about 10 o clock
+0: I think our circles are different but I have two small dark dots almost vertical from each other. The top one is off to the right.
+1: i think i only see one of them, but if i see the bottom one, is there a slightly larger and medium grey dot below to the right of it?
+0: I dont see that... do you have two large dots diagonal from each other with the darker one below and to the right?
+1: yes!
+0: Lets pick the bottom dark one.

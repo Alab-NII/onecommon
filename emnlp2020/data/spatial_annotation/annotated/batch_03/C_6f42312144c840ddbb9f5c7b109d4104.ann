@@ -1,0 +1,55 @@
+T1	Markable 39 56	a medium gray dot
+T2	Markable 68 86	no dark black dots
+T3	Markable 112 133	many medium gray dots
+T4	Markable 158 178	a small med-gray dot
+T5	Markable 187 223	another slightly larger med-gray dot
+T6	Markable 235 252	a medium gray dot
+T7	Markable 277 293	a small gray dot
+T8	Markable 306 315	those two
+T9	Markable 330 338	that one
+T10	Markable 348 350	it
+T11	Markable 455 470	the smaller one
+T12	Markable 431 451	the medium sized one
+T14	Markable 567 582	the smaller one
+T15	Markable 604 618	the larger one
+T17	Markable 687 702	the smaller one
+T18	Markable 14 29	a big black dot
+A1	No-Referent T2
+R1	Anaphora Arg1:T10 Arg2:T9	
+T13	Markable 491 517	the constellation "handle"
+T19	Markable 539 557	two shades of gray
+T16	Markable 623 627	Mine
+T20	Spatial-Relation 30 38	close to
+T22	Spatial-Relation 179 186	next to
+T23	Modifier 195 203	slightly
+T24	Spatial-Relation 204 210	larger
+R2	Obj Arg1:T24 Arg2:T4	
+T25	Modifier 253 261	a little
+T26	Spatial-Relation 262 276	northwest from
+T27	Spatial-Relation 365 407	an upside down little dipper constellation
+A2	No-Obj T27
+T28	Spatial-Relation 459 466	smaller
+T29	Spatial-Relation 471 490	at the very edge of
+T30	Modifier 478 482	very
+T31	Spatial-Relation 495 517	constellation "handle"
+A4	No-Obj T31
+T32	Spatial-Relation 571 578	smaller
+T33	Modifier 586 591	a bit
+T34	Spatial-Relation 592 603	darker than
+T35	Spatial-Relation 608 614	larger
+R3	Obj Arg1:T35 Arg2:T14	
+T36	Modifier 631 639	slightly
+T37	Spatial-Relation 640 646	darker
+T38	Modifier 648 661	Only slightly
+R4	Mod Arg1:T38 Arg2:T37	
+R5	Obj Arg1:T37 Arg2:T9	
+T39	Spatial-Relation 691 698	smaller
+R6	Obj Arg1:T39 Arg2:T15	
+#1	AnnotatorNotes T22	near
+#2	AnnotatorNotes T26	north west
+A3	Canonical-Undefined T27
+A6	Canonical-Undefined T29
+A5	Canonical-Undefined T31
+R7	Obj Arg1:T31 Arg2:T10	
+A7	Mod-Subtlty T33
+A8	Mod-Subtlty T38

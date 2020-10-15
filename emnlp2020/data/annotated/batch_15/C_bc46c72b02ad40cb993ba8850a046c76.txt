@@ -1,0 +1,6 @@
+1: How many dots do you have at twelve to three o clock quadrants?
+0: 3
+1: Do you have medium grey small dot closer to twelve o clock
+0: negative
+1: Do you have the darkest largest dot at one o clock
+0: I do have 1 large black dot. click that

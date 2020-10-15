@@ -1,0 +1,9 @@
+0: Do you have a pair of nearly horizontal small dots? Left is darker.
+1: Yes , what color is the dot?
+0: The left is black and the right is medium grey. I have a larger dot above and to the left of the pair.
+1: I have the same dots. But there is no dot above the pair.
+0: Is the pair near the top left of your screen?
+1: Yes and there is a smaller black dot to the right of it.
+0: The ones to the right are quite far away. Is that true of the smaller black dot your mentioned?
+1: Definitely yes they are smaller. I do have the grey dot that you mentioned earlier
+0: Ok, great. Let's choose the left blackish dot of the original small pair.

@@ -1,0 +1,15 @@
+T1	Markable 42 46	they
+T2	Markable 75 86	smaller one
+T3	Markable 132 134	it
+T4	Markable 3 17	two black dots
+T5	Markable 115 123	that one
+R1	Anaphora Arg1:T5 Arg2:T2	
+T6	Spatial-Relation 18 32	close together
+A1	No-Obj T6
+T8	Spatial-Attribute 51 66	slightly medium
+T9	Spatial-Relation 75 82	smaller
+T10	Spatial-Relation 87 101	up to the left
+R2	Obj Arg1:T9 Arg2:T4	
+R3	Obj Arg1:T10 Arg2:T4	
+T11	Modifier 51 66	slightly medium
+A2	Mod-Neutral T11

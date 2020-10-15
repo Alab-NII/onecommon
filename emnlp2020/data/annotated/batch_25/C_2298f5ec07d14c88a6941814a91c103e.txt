@@ -1,0 +1,7 @@
+0: Do you see any big black dot?
+1: I have two, one is off towards the right around 4 o'clock and the other is more in the center
+0: Mine is like at 12, so nothing. What about a tiny dark?
+1: towards the left?
+0: Yes, does it have a light gray bigger dot above?
+1: yes
+0: Let's select the tiny

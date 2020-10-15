@@ -1,0 +1,4 @@
+1: I have a large dark dot at the top touching the circle and beneath it a lighter medium dot
+0: I see 3 almost horizontal dots. one in the middle is super tiny
+1: I don't see that
+0: I think i see what you're talking about. let's choose the dark one on top

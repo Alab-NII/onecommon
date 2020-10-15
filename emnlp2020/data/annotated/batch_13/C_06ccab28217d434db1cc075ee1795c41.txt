@@ -1,0 +1,4 @@
+0: Do you see a big black dot diagonal to a light dot of the same size?
+1: I see that. do you see any around those two?
+0: No, they're pretty much alone. Pick the black one.
+1: ok

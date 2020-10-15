@@ -1,0 +1,25 @@
+T1	Markable 10 23	two gray dots
+T2	Spatial-Relation 24 43	at the bottom right
+A1	No-Obj T2
+T3	Markable 45 48	One
+T4	Markable 97 106	the other
+T5	Markable 114 118	they
+T6	Markable 122 132	themselves
+R1	Anaphora Arg1:T6 Arg2:T5	
+T7	Markable 138 151	no other dots
+A2	No-Referent T7
+T8	Markable 159 163	them
+R2	Anaphora Arg1:T8 Arg2:T5	
+T9	Markable 188 213	the larger and darker one
+T10	Spatial-Relation 52 57	lower
+T11	Spatial-Relation 58 69	to the left
+T12	Spatial-Relation 74 80	darker
+T13	Spatial-Relation 85 96	larger than
+T14	Spatial-Relation 119 121	by
+T16	Spatial-Relation 152 158	around
+T17	Spatial-Relation 192 198	larger
+T18	Spatial-Relation 203 209	darker
+R3	Obj Arg1:T17 Arg2:T5	
+R4	Obj Arg1:T18 Arg2:T5	
+#1	AnnotatorNotes T14	alone
+#2	AnnotatorNotes T16	near

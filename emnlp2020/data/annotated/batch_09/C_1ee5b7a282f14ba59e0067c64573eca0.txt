@@ -1,0 +1,7 @@
+1: I have a pair of tiny grays
+0: I have 3 pairs of darkish dots, and one little lighter dot at the top
+1: I only have two pairs. In each pair, the dot on the right is slightly smaller
+0: Where are your pairs positioned? One of mine is all the way to the edge at 3 o'clock, one is toward the center at 7 oclock, and one halfway to the edge at about 10 oclock
+1: My layout doesn't look like that. For your pairs, is there a larger pair above a smaller pair
+0: I have the smaller pair, yes. Click on the smaller right-side dot of the smaller pair.
+1: Ok

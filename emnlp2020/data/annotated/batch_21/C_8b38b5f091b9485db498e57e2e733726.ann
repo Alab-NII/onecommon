@@ -1,0 +1,19 @@
+T1	Markable 10 18	two dots
+T2	Markable 31 40	the other
+T3	Markable 21 24	one
+T4	Markable 42 53	the top one
+T5	Markable 64 77	the lower one
+T6	Markable 137 141	that
+T7	Markable 151 171	two light color dots
+T8	Markable 216 226	each other
+T9	Markable 173 177	they
+T10	Markable 228 239	the top one
+T11	Markable 269 289	another pair of dots
+T12	Markable 374 381	the dot
+T13	Markable 424 432	that dot
+T14	Markable 392 417	an upper to the right dot
+A1	No-Referent T6
+R1	Anaphora Arg1:T9 Arg2:T7	
+R2	Anaphora Arg1:T8 Arg2:T7	
+T15	Markable 296 305	the upper
+T16	Markable 338 357	both of those pairs

@@ -1,0 +1,16 @@
+T1	Markable 10 27	a lonely gray dot
+T2	Markable 83 113	my only, large, light grey dot
+T3	Markable 59 65	3 dots
+T4	Markable 67 70	one
+T5	Markable 115 129	other two dots
+T6	Markable 163 181	the light grey one
+T7	Markable 133 135	it
+T8	Markable 198 212	any light gray
+T9	Markable 227 247	2 smaller black dots
+T10	Markable 318 336	a larger black dot
+T11	Markable 255 259	they
+T12	Markable 355 374	the large black one
+R1	Predicative Arg1:T2 Arg2:T4	
+R2	Anaphora Arg1:T7 Arg2:T4	
+R3	Anaphora Arg1:T6 Arg2:T4	
+A1	No-Referent T8

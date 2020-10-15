@@ -1,0 +1,6 @@
+0: Hi i have a cluster of almost black to very dark grey dots with 3 light grey dots to the left and above them. 1 dot is black, then there are 3 closer together that are very dark grey
+1: Is your largest dot black?
+0: yes, there's a dark grey to the right of it which i think is the same size, but they are definitely the largest dots
+1: Does that black large one also have a tiny dark grey dot up above it?
+0: yes straight line up, not close but directly above, should we hit the black/darkest dot?
+1: Yes!

@@ -1,0 +1,14 @@
+T1	Markable 15 47	a pair of almost same sized dots
+T3	Markable 49 57	left one
+T4	Markable 120 152	Left darker slightly smaller one
+T2	Spatial-Relation 17 21	pair
+T5	Modifier 25 31	almost
+T6	Spatial-Relation 32 42	same sized
+T7	Spatial-Relation 49 53	left
+T8	Modifier 61 69	slightly
+T9	Spatial-Relation 70 76	higher
+T10	Spatial-Attribute 81 85	dark
+T11	Spatial-Relation 120 124	Left
+T12	Spatial-Relation 125 131	darker
+T13	Modifier 132 140	slightly
+T14	Spatial-Relation 141 148	smaller

@@ -1,0 +1,20 @@
+T1	Markable 3 18	Five of my dots
+T2	Markable 55 73	The other two dots
+T4	Markable 132 146	the bottom one
+T5	Markable 200 204	They
+T6	Markable 244 262	one large dark dot
+T7	Markable 266 285	Only two of my dots
+T8	Markable 307 315	one pair
+T9	Markable 347 359	a darker one
+T10	Markable 424 429	those
+T11	Markable 399 414	The second pair
+T12	Markable 459 470	The top one
+T13	Markable 547 561	the darker one
+T14	Markable 506 519	both of those
+T15	Markable 577 602	the pair of the same size
+T16	Markable 96 103	the top
+T3	Markable 373 377	both
+R1	Anaphora Arg1:T3 Arg2:T8	
+T17	Markable 435 439	both
+R2	Anaphora Arg1:T17 Arg2:T11	
+T18	Markable 484 494	the bottom

@@ -1,0 +1,5 @@
+0: black med sized dot?
+1: dark gray dot, with a lighter grey dot lower and to the left?
+0: Yes if the dark grey dot is large click the black one!
+1: I do see the medium black dot, so we're clicking that black dot that is above the gray dots?
+0: yes!

@@ -1,0 +1,5 @@
+0: I see one large dot thats darker than all my others, do you?
+1: you have the largest dot which is the darkest too?
+0: Yes
+1: lets select it
+0: Deal!

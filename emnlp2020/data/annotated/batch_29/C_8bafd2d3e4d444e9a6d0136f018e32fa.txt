@@ -1,0 +1,3 @@
+0: i have a larger gray dot and a smaller lighter grey dot up and to the right of it, they are about half inch apart
+1: Yes I see that too
+0: lets pick the larger one

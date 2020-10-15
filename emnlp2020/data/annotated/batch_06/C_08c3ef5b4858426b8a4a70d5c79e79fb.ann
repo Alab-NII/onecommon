@@ -1,0 +1,14 @@
+T1	Markable 10 34	a medium sized black dot
+T3	Markable 41 59	a larger black dot
+T4	Markable 110 131	a small dark grey dot
+T5	Markable 137 160	a smaller light grey do
+T6	Markable 190 194	that
+T7	Markable 203 225	a large light gray dot
+T8	Markable 232 244	a darker one
+T9	Markable 308 322	the darker one
+T2	Markable 97 101	that
+A1	No-Referent T2
+T10	Markable 164 167	its
+R1	Anaphora Arg1:T10 Arg2:T4	
+A2	No-Referent T6
+#1	AnnotatorNotes T5	a smaller light grey dot

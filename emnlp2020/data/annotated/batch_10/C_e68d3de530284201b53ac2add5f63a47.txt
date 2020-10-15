@@ -1,0 +1,3 @@
+0: i have one small black dot in the middle of two grey ones. the lighter grey one is on top
+1: Yes. I have that arrangement as well. Should we select the middle/smallest dot?
+0: yes

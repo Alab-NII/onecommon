@@ -1,0 +1,5 @@
+1: three darks in a row
+0: Is the middle dot smaller and a little bit darker?
+1: yes
+0: Let's click the middle one.
+1: sounds good

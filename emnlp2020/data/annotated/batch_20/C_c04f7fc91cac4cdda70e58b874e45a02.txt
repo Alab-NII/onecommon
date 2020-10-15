@@ -1,0 +1,3 @@
+0: Hi, i have a small medium gray dot with a larger dot of the same shade to its right and slightly lower
+1: Yes, I have that. WOuld you like to pick the small one?
+0: Yes!

@@ -1,0 +1,5 @@
+T1	Markable 45 60	a vertical line
+T2	Markable 108 112	them
+T3	Markable 139 150	the top one
+T4	Markable 3 34	two lighter grey med sized dots
+R1	Predicative Arg1:T1 Arg2:T4	

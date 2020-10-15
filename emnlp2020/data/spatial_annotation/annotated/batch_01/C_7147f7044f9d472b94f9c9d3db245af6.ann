@@ -1,0 +1,15 @@
+T1	Markable 61 63	it
+T2	Markable 124 137	the black one
+T3	Markable 3 22	black med sized dot
+T4	Markable 27 42	The darkest one
+T5	Markable 80 110	a slightly larger med grey dot
+T6	Spatial-Relation 31 38	darkest
+A1	No-Obj T6
+T7	Spatial-Relation 55 60	below
+R1	Subj Arg1:T7 Arg2:T5	
+T8	Spatial-Relation 64 76	to the right
+R2	Subj Arg1:T8 Arg2:T5	
+R3	Obj Arg1:T8 Arg2:T1	
+T9	Modifier 82 90	slightly
+T10	Spatial-Relation 91 97	larger
+R4	Obj Arg1:T10 Arg2:T1	

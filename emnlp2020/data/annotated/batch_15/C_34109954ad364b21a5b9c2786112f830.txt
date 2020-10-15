@@ -1,0 +1,6 @@
+1: do you have a small black dot, darkest one out of all of them?
+0: I have 2 small black dots. One of the black dots is south of a few light grey dots.
+1: i don't have that, i have 1 small black dot, below and to the of it is a medium size medium grey dot, below and to the bottom of it is a light grey, medium size dot
+0: I don't have that. Do you see 2 same-size dots next to each other horizontally. Left is grey, right is dark grey?
+1: yes, i have that, let's choose the right dark grey one?
+0: ok

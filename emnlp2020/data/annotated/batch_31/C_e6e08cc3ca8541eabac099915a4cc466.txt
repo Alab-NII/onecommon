@@ -1,0 +1,5 @@
+1: i have 3 black dots spread out in a triangle. there are two light grey dots between the dark ones on the right side of the "triangle"
+0: i dont have any between my dots on the right, only the bottom has a medium dark grey dot between them
+1: hmm i dont see that. my smallest black dot has a small light grey dot directly to the right of it, they're very close
+0: i have that on the top of my circle
+1: okay so lets do the small darker/black dot

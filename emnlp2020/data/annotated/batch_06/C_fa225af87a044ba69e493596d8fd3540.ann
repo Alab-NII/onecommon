@@ -1,0 +1,22 @@
+T1	Markable 15 29	any small dots
+T2	Markable 81 94	the light one
+T4	Markable 41 57	a small dark dot
+T5	Markable 62 79	a small light dot
+T6	Markable 127 144	a small light dot
+T7	Markable 153 170	a small black dot
+T8	Markable 216 229	the light one
+T9	Markable 172 185	the black dot
+T10	Markable 249 262	my lowest dot
+T11	Markable 288 301	the light one
+T12	Markable 267 269	it
+T13	Markable 376 389	the light one
+T14	Markable 333 346	the black dot
+T15	Markable 398 405	no dots
+T16	Markable 415 417	it
+T17	Markable 450 462	the dark dot
+T18	Markable 440 448	that one
+T3	Markable 234 245	my dark dot
+R1	Predicative Arg1:T10 Arg2:T3	
+R2	Anaphora Arg1:T12 Arg2:T3	
+A1	No-Referent T15
+R3	Anaphora Arg1:T17 Arg2:T18	

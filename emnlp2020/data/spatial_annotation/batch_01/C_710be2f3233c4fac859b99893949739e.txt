@@ -1,0 +1,10 @@
+0: five dots make an X
+1: I see several dots correlating to make that x formation of both similar and variable sizes.
+0: great
+1: Very neat!
+0: small black dot by three others
+1: Large grey prominent ones.
+0: there is one grey that is the largest below the small black
+1: Yes I see that as well.
+0: below and left
+1: That is what I see.

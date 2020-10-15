@@ -1,0 +1,10 @@
+T1	Markable 58 72	the middle one
+T2	Markable 9 19	three dots
+T3	Markable 38 44	a line
+T4	Markable 100 105	those
+T5	Markable 111 118	the one
+T6	Markable 198 202	mine
+T7	Markable 234 248	the middle one
+R1	Predicative Arg1:T3 Arg2:T2	
+T8	Markable 138 152	the bottom one
+T9	Markable 187 193	that's

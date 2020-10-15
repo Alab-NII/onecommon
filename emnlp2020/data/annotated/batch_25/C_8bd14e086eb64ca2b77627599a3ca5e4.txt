@@ -1,0 +1,5 @@
+0: small dark grey dot?
+1: I see a wide triangle of 3 dots... top one is dark medium size, middle is lighter grey same size, and bottom is larger medium to dark grey
+0: no i dont see that do you see a med sized light grey dot?
+1: yes is it below and to the right of a medium size slightly darker dot?
+0: yes! click that light one!

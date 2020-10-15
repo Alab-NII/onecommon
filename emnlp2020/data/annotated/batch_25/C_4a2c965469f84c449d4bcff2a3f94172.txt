@@ -1,0 +1,7 @@
+0: do you see any dots very close together?
+1: yes i see two sets
+0: describe them please
+1: on the right side i have two med ones one is darker then the other then on the left side i have two the same size one is lighter then the other gray
+0: ok. the two that are the same size...is the higher one lighter than the lower one?
+1: yes
+0: lets choose the lower darker of those two dots that are the same size.

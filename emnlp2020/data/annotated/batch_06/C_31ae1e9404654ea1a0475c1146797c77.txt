@@ -1,0 +1,6 @@
+0: do you have a black dot on the right side close to the circle outline?
+1: I have a triangle of three small dots of varying shades... No I don't have the black dot on the right of the circle, my circle has a large gray dot on the right side
+0: is your gray large dot close to the circle outline?
+1: Yes... and the large black dot I have is on the left but there is a slightly smaller black dot just above it to the left
+0: i think we both have the small gray dot on the right side then
+1: lets try it

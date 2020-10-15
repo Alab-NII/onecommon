@@ -1,0 +1,2 @@
+1: I have smaller light dot to the right of a larger dark gray dot
+0: Yes! Let's click the smaller one!

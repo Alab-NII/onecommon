@@ -1,0 +1,5 @@
+1: I have a medium sized black with a smaller light grey above it and slightly right
+0: Is there a med gray one under it
+1: Yes, the medium grey is also slightly to the right
+0: Yes do you want to pick the tiny one
+1: Pick the medium black one

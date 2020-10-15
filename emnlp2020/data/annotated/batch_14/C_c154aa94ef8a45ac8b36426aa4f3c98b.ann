@@ -1,0 +1,9 @@
+T1	Markable 19 29	three dots
+T2	Markable 33 39	a line
+T3	Markable 81 88	the one
+T4	Markable 116 128	the last one
+T5	Markable 41 48	The one
+T6	Markable 163 179	the lightest one
+R1	Predicative Arg1:T2 Arg2:T1	
+T7	Markable 64 79	the medium grey
+R2	Predicative Arg1:T7 Arg2:T5	

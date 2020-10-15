@@ -1,0 +1,8 @@
+1: I have a pair one large and one medium dark dots
+0: I have 2 dots on the left, one in the middle, and 4 on the right
+1: What are the color of your pair?
+0: black and gray- I have 2 large black dots. Two light gray dots, and one medium gray dot (all of those are large)
+1: Do you have a large grey and a medium dark almost black dot next to each other?
+0: Yes I do!
+1: Lets click the larger lighter grey dot
+0: OK

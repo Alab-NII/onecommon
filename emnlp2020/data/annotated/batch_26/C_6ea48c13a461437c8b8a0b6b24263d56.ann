@@ -1,0 +1,13 @@
+T1	Markable 71 105	very very tiny very light grey dot
+T2	Markable 120 128	that one
+T3	Markable 137 151	my large black
+T4	Markable 159 161	it
+T5	Markable 198 203	a set
+T6	Markable 265 280	the lighter one
+T7	Markable 249 259	each other
+T8	Markable 210 224	your tiny grey
+T9	Markable 287 295	a darker
+T10	Markable 311 335	that very tiny light one
+T11	Markable 3 14	Large black
+T12	Markable 20 40	very tiny light grey
+R1	Anaphora Arg1:T7 Arg2:T5	

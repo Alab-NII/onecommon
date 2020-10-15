@@ -1,0 +1,10 @@
+T1	Markable 25 31	4 dots
+T2	Markable 12 21	a cluster
+T3	Markable 76 88	that cluster
+T4	Markable 42 54	a darker one
+T5	Markable 98 110	that cluster
+T6	Markable 128 142	the darker dot
+T7	Markable 157 169	that cluster
+T8	Markable 181 193	the dark one
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T5 Arg2:T2	

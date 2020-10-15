@@ -1,0 +1,4 @@
+0: I see a large dark dot next to a large lighter dot
+1: i see that
+0: Do you think we have the same large dark dot?
+1: yes, lets pick the large black dot

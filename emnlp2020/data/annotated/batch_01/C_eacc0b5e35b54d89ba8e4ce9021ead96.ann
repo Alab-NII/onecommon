@@ -1,0 +1,22 @@
+T1	Markable 21 29	the line
+T2	Markable 84 88	them
+T3	Markable 56 67	a black one
+T4	Markable 90 104	Two black dots
+T5	Markable 134 144	four small
+T6	Markable 206 212	a line
+T7	Markable 296 304	each one
+T8	Markable 345 362	the dark grey one
+T9	Markable 412 424	a larger dot
+T10	Markable 3 17	Four grey dots
+R1	Predicative Arg1:T1 Arg2:T10	
+R2	Anaphora Arg1:T2 Arg2:T10	
+T11	Markable 149 165	three large dots
+T12	Markable 167 170	all
+T13	Markable 223 229	medium
+T14	Markable 231 236	light
+T15	Markable 238 244	medium
+T16	Markable 246 255	dark grey
+T17	Markable 269 277	the left
+T18	Markable 404 408	that
+R3	Predicative Arg1:T9 Arg2:T18	
+T19	Markable 429 431	It

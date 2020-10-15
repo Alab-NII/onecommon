@@ -1,0 +1,3 @@
+0: Do you see two medium sized medium grey dots in a line with a small light grey dot at 4 o clock relative to the bottom one?
+1: yes
+0: Nice, lets pick the small one at 4 o clock

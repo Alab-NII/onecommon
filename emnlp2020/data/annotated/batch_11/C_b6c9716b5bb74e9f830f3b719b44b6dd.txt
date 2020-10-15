@@ -1,0 +1,5 @@
+1: I have a larger med grey dot above and to the right of a slightly smaller lighter one
+0: I don't see that
+1: I have a very small very light one to the right by itself
+0: I have a small medium grey dot on the lower right side
+1: lets pick that one

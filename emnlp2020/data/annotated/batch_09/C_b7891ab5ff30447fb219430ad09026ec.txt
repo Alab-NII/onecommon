@@ -1,0 +1,5 @@
+0: small black dot by itself. Top of circle for me
+1: is it to the top left of two other dark dots, one also small, one large? Making a triangle
+0: Yes, I think so. Although, those two are closer than this small dark one
+1: yes. let's pick the first one you mentioned?
+0: okay, selecting small dark dot

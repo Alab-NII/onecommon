@@ -1,0 +1,5 @@
+1: I have three black dots in a horizontal line. The middle dot is a little bigger than the outer two.
+0: I'm seeing a circle with three dark and three light smaller circles within
+1: How are your dark dots arranged?
+0: The go across the middle of the circle. The largest dot is in the middle of the two smaller ones.
+1: Click the larger dot in the middle.

@@ -1,0 +1,5 @@
+1: very tiny very light grey dot?
+0: i have a huge dark dot with the rest is tiny dots, with a black tiny dot at the huge dot's 11 o'clock
+1: hmm is there a tiny light grey dot to its bottom left?
+0: there is! is that your dot?
+1: yes! click that tiny light grey one!

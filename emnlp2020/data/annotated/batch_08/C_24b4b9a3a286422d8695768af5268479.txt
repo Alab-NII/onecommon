@@ -1,0 +1,4 @@
+1: 4 dots that almost form a square?
+0: Yes! The one to the top right is the lightest and largest
+1: Bingo! Want to click that one?
+0: Okay

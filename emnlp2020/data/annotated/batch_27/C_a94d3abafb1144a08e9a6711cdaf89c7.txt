@@ -1,0 +1,6 @@
+1: 3 large dark dots 2 on the line all about the same size
+0: perfect triangle with all same size same shade medium gray/medium dots?
+1: yup!
+0: pick the one that is last in your linear line?
+1: uh? It isn't a line... can we pick the one that is on the bottom corner?
+0: do you have a light smaller dot next to one of the dots in the triangle? If so, pick the light dot

@@ -1,0 +1,7 @@
+0: I have one small black do
+1: I have one very large dot towards the bottom left
+0: I have three black dots in sorta a v
+1: I don't think I have those how about a large grey dot towards the top?
+0: I have two gray dots one is a little smaller
+1: Want to pick the smaller one? I have both as well. I believe at least.
+0: ok

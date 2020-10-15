@@ -1,0 +1,3 @@
+0: I have three dots clustered very close together. The top one is the largest. The bottom one is the smallest, darkest, and furthest left
+1: If the top one is almost the same color as the middle one click that top large one
+0: Ok! The middle one is a tiny bit darker, but thats it. If that is correct click the top!

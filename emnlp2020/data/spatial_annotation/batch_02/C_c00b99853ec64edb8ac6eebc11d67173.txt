@@ -1,0 +1,2 @@
+0: I see my lightest shaded dot between two small black dots
+1: i think i got it. clicking on the lightest shaded

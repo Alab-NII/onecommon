@@ -1,0 +1,30 @@
+T1	Spatial-Relation 86 101	form a triangle
+T2	Markable 62 74	3 small dots
+T4	Markable 113 127	very light one
+T5	Markable 136 144	dark one
+T6	Markable 214 218	that
+T7	Markable 253 262	the three
+T8	Markable 3 14	all my dots
+A1	All-Referents T8
+T3	Markable 187 191	dark
+T9	Markable 227 249	the top, lightest grey
+T10	Modifier 19 25	pretty
+T11	Spatial-Relation 26 36	spaced out
+A2	No-Obj T11
+T12	Modifier 80 85	could
+A3	No-Obj T1
+T13	Spatial-Relation 128 134	on top
+R1	Obj Arg1:T13 Arg2:T2	
+T14	Spatial-Relation 145 159	at bottom left
+R2	Obj Arg1:T14 Arg2:T2	
+T15	Spatial-Attribute 161 172	medium grey
+T16	Spatial-Relation 174 186	same size as
+T17	Spatial-Relation 192 200	on right
+R3	Obj Arg1:T17 Arg2:T2	
+T18	Spatial-Relation 231 234	top
+T19	Spatial-Relation 236 249	lightest grey
+T20	Spatial-Relation 250 252	of
+A4	Mod-Extremity T10
+A5	Mod-Uncertainty-Approximation T12
+T21	Modifier 161 167	medium
+A6	Canonical-Undefined T11

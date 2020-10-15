@@ -1,0 +1,12 @@
+T1	Markable 45 61	a light gray dot
+T2	Markable 39 41	it
+T3	Markable 86 102	a group of three
+T4	Markable 125 131	itself
+T5	Markable 107 117	a dark one
+T6	Markable 138 148	that group
+T8	Markable 183 197	the group of 3
+T9	Markable 164 176	the dark one
+T10	Markable 3 12	Black dot
+R1	Anaphora Arg1:T2 Arg2:T10	
+R2	Anaphora Arg1:T4 Arg2:T5	
+R3	Anaphora Arg1:T6 Arg2:T3	

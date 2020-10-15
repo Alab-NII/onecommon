@@ -1,0 +1,5 @@
+1: I see a tiny black dot kind of alone on the left
+0: Do not have, it didnt make it on screen for me, what about a tiny grey one sort of to the right?
+1: No...I have three dots almost on a straight line, with the middle one being mid-dark and the other two black
+0: ok I see the mid dark one I think, to the left of a black large one?
+1: yes, select the black large one?

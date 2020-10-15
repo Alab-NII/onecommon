@@ -1,0 +1,20 @@
+T1	Markable 33 57	one small light gray dot
+T2	Markable 10 28	one small black do
+T3	Markable 75 94	the small black dot
+T4	Markable 96 110	All of my dots
+T5	Markable 221 235	the middle one
+T6	Markable 141 167	three dark gray/black dots
+T7	Markable 183 187	they
+T8	Markable 200 215	a vertical line
+T9	Markable 283 309	a med/large light grey dot
+T10	Markable 321 341	a large med-gray dot
+T11	Markable 364 385	a large dark-grey dot
+T12	Markable 413 430	the dark-gray one
+T13	Markable 387 403	The med-gray one
+T14	Markable 447 463	three black dots
+T15	Markable 518 541	the top right black dot
+#1	AnnotatorNotes T2	one small black dot
+A1	No-Referent T3
+R1	Anaphora Arg1:T7 Arg2:T6	
+R2	Predicative Arg1:T8 Arg2:T7	
+T16	Markable 545 555	that shape

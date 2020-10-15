@@ -1,0 +1,29 @@
+T2	Markable 100 112	a larger dot
+T3	Markable 38 44	a line
+T4	Markable 151 156	those
+T6	Markable 254 268	the bottom one
+T7	Markable 288 296	the dots
+T8	Markable 310 324	the bottom one
+T1	Markable 71 95	2 medium size black dots
+A1	No-Referent T4
+T9	Markable 181 187	5 dots
+T5	Spatial-Relation 40 44	line
+T10	Spatial-Relation 45 65	slanted to the right
+T11	Spatial-Relation 66 70	with
+T12	Spatial-Relation 102 108	larger
+T13	Spatial-Relation 113 120	lighter
+T14	Spatial-Relation 124 134	at the end
+T15	Spatial-Relation 193 214	look like a half moon
+T16	Spatial-Relation 219 241	opening faces the left
+T17	Spatial-Relation 258 264	bottom
+T18	Spatial-Relation 272 287	the lightest of
+T19	Spatial-Relation 314 320	bottom
+A2	No-Obj T5
+A3	No-Obj T10
+R1	Obj Arg1:T12 Arg2:T3	
+R2	Obj Arg1:T13 Arg2:T3	
+R3	Obj Arg1:T14 Arg2:T3	
+A4	No-Obj T15
+A5	No-Obj T16
+R4	Obj Arg1:T17 Arg2:T7	
+R5	Obj Arg1:T19 Arg2:T7	

@@ -1,0 +1,9 @@
+0: I have a group of 4 dots on the left making a square
+1: I DO NOT
+0: do you have a small gray dot to the right and down... by its self
+1: I HAVE 2 LARGER DOTS JUST RIGHT OF CENTER ONE OVER THE OTHER
+0: no caps needed. I do have 2 larger dots. one is down and to the left and is lighter than the other?
+1: sorry ok i have the same but to the right not left
+0: on the lighter dot do you have one directly below it?
+1: yes a small gap only. i have one mid sized dot off on its own to the far right just above the center'
+0: ok chose the lighter to in that group we were talking about... that are larger.

@@ -1,0 +1,9 @@
+0: do you see a small black dot with a small light dot directly above it? they are the same size.
+1: No i dont
+0: do you see any black dots?
+1: Yes i have 2 large black dots
+0: what is around them?
+1: 1 is all alone
+0: i have one that is all alone on the left edge of my circle
+1: yes select
+0: ok

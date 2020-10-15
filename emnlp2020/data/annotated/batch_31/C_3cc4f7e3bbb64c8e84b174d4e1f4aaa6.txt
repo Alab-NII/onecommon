@@ -1,0 +1,3 @@
+1: 3 in a diagonal up to the right, bottom one dark, top one biggest
+0: Middle is light grey and smallest yeah? Ok choose big one on top
+1: yep will do

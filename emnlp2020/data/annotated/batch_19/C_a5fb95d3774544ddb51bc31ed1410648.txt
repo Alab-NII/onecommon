@@ -1,0 +1,4 @@
+0: I have two medium same sized dots in a horizontal line. The one on the left is black and the one on the right is medium gray
+1: right have that
+0: Ok. Let's pick the darker one on the left
+1: ok

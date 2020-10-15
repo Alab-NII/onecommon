@@ -1,0 +1,4 @@
+1: I have a triangle that is formed by two black on bottom and a dark gray on top
+0: Hi do you have a small triangle, the bottom 2 dots are very dark
+1: lol yeah lets pick the top dot that is light than the others
+0: great!

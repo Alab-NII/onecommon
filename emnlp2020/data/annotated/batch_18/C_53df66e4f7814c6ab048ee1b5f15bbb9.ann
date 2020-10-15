@@ -1,0 +1,13 @@
+T1	Markable 33 41	left one
+T2	Markable 84 88	that
+T3	Markable 94 98	they
+T5	Markable 224 231	the one
+T6	Markable 268 275	the one
+T7	Markable 309 314	those
+T8	Markable 329 365	an extremely light colored large dot
+T9	Markable 423 441	an even darker dot
+T10	Markable 380 396	a small dark dot
+T11	Markable 3 16	two large dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+T12	Markable 134 138	they
+A1	No-Referent T7

@@ -1,0 +1,6 @@
+0: i have one large very light dot way off on its own
+1: I dont. Do you see three dots that make a triangle? one of the dots is a lighter shade
+0: yes i do. the lightest is on the right?
+1: Yes!
+0: lets select the lightest one?
+1: Let's do it!!

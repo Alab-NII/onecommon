@@ -1,0 +1,13 @@
+T1	Markable 89 102	the right one
+T2	Markable 63 69	3 dots
+T3	Markable 112 124	the left one
+T4	Markable 77 87	a triangle
+T6	Markable 139 153	the bottom one
+T7	Markable 189 199	a triangle
+T9	Markable 275 288	the right one
+T10	Markable 339 364	the larger and darker one
+T11	Markable 9 18	which dot
+A1	Generic T11
+R1	Predicative Arg1:T4 Arg2:T2	
+A2	No-Referent T7
+T5	Markable 219 220	2

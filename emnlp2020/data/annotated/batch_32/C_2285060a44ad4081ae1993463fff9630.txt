@@ -1,0 +1,4 @@
+1: 2 black dots right next to each other, one on the left is lower?
+0: i have 2 dark medium dots next to each other, one is lower to the left
+1: sounds like the same, click the left lower one?
+0: sounds good to me!

@@ -1,0 +1,18 @@
+T1	Markable 10 29	one large black dot
+T2	Markable 47 67	a small med-gray dot
+T3	Markable 126 141	large black dot
+T4	Markable 168 189	a very small dark dot
+T6	Markable 347 378	four medium sized med-gray dots
+T8	Markable 389 395	a kite
+T10	Markable 488 495	the one
+T11	Markable 466 483	the top right dot
+T12	Markable 502 504	it
+T13	Markable 532 554	a very small light dot
+T14	Markable 121 125	that
+A1	No-Referent T14
+T15	Markable 216 245	another small medium grey dot
+T16	Markable 249 253	That
+R1	Predicative Arg1:T8 Arg2:T6	
+T5	Markable 444 464	the top of that kite
+R2	Anaphora Arg1:T12 Arg2:T11	
+T7	Markable 607 632	the large medium dark one

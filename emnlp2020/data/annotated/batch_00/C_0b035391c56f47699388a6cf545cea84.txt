@@ -1,0 +1,10 @@
+1: I have one small very very grey dot next to a larger lighter grey
+0: Two very dark very small dots with medium light grey in the middle?
+1: no two dark dots
+0: okay tell me what you see
+1: I see 3 large light grey dots somewhat apart from each other but they together
+0: they kind of make a triangle but are somewhat distant of each other?
+1: more of a line. I also have 3 close together on the other side of my circle but one is very dark grey
+0: small and very dark?
+1: yes
+0: pick it

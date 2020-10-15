@@ -1,0 +1,9 @@
+T1	Markable 12 29	2 small triangles
+T3	Markable 69 87	one small triangle
+T5	Markable 162 174	both of mine
+T6	Markable 215 240	the darkest of the 3 dots
+T7	Markable 263 275	the triangle
+T8	Markable 302 310	that one
+T2	Markable 99 129	three different shades of gray
+R1	Predicative Arg1:T2 Arg2:T3	
+T9	Markable 131 134	All

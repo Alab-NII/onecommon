@@ -1,0 +1,5 @@
+0: Do you have 5 dots going on a long line?
+1: i've got 4, i may have a part of it...is the bottom one a very light gray
+0: Yes!! It has a larger darker dot across from it up to the left
+1: yes lets click the lightest one on the bottom
+0: Okay!

@@ -1,0 +1,8 @@
+T1	Markable 15 32	one black med dot
+T2	Markable 84 106	a slightly lighter one
+T3	Markable 255 267	the dark one
+T4	Markable 154 158	mind
+#1	AnnotatorNotes T4	mine
+T5	None 162 165	too
+#2	AnnotatorNotes T5	to
+T6	Markable 225 229	what

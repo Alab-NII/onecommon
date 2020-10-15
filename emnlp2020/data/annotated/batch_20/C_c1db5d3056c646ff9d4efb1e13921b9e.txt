@@ -1,0 +1,4 @@
+1: I have a close cluster of 3 medium - 2 light and 1 dark
+0: same
+1: choose the dark?
+0: yep!

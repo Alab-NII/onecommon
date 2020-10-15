@@ -1,0 +1,16 @@
+T1	Markable 36 46	each other
+T2	Markable 58 61	two
+T3	Markable 92 102	each other
+T4	Markable 104 111	The one
+T5	Markable 143 158	the smaller one
+T6	Markable 192 194	it
+T7	Markable 235 238	One
+T8	Markable 285 299	the larger one
+T9	Markable 332 347	the smaller one
+T10	Markable 3 21	two very dark dots
+R1	Anaphora Arg1:T1 Arg2:T10	
+R2	Anaphora Arg1:T3 Arg2:T2	
+R3	Anaphora Arg1:T6 Arg2:T5	
+T11	Markable 212 229	the diagonal dots
+T12	Markable 303 312	which one
+A1	Generic T12

@@ -1,0 +1,28 @@
+T1	Markable 10 30	two small black dots
+T2	Markable 95 99	them
+T5	Markable 110 142	a group of three light grey dots
+T6	Markable 226 237	a black dot
+T7	Markable 194 206	the triangle
+T8	Markable 253 257	that
+A1	No-Referent T2
+T3	Spatial-Relation 31 51	aligned horizontally
+A2	No-Obj T3
+T9	Modifier 61 66	about
+T10	Spatial-Relation 67 80	the same size
+A3	No-Obj T10
+R1	Anaphora Arg1:T7 Arg2:T5	
+T4	Modifier 146 151	about
+T11	Spatial-Relation 152 165	the same size
+A4	No-Obj T11
+T12	Spatial-Relation 171 186	form a triangle
+A5	No-Obj T12
+T13	Spatial-Relation 188 193	Below
+T14	Spatial-Relation 211 222	to the left
+R2	Subj Arg1:T13 Arg2:T6	
+R3	Obj Arg1:T13 Arg2:T7	
+R4	Subj Arg1:T14 Arg2:T6	
+R5	Obj Arg1:T14 Arg2:T7	
+T15	Spatial-Relation 112 117	group
+A6	No-Obj T15
+A7	Mod-Uncertainty-Approximation T9
+A8	Mod-Uncertainty-Approximation T4

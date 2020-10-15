@@ -1,0 +1,5 @@
+1: i have 2 med dark circles
+0: Is the one to the right bigger?
+1: they're both the same size
+0: I dont have that. I have a small light gray dot below a medium dark one
+1: i have that too so lets pick the dark dot ok

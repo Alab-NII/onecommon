@@ -1,0 +1,6 @@
+1: a medium size, black dot, below it is a large gray dot?
+0: I don't have that. I have 2 light gray medium sized dots almost in a vertical line. The one on top is slightly to the right of the one on the bottom
+1: i don't have that, i have a medium size dark grey dot, above and slightly to the left of it is a bigger lighter dot?
+0: I don't have that either. My largest dot is a medium gray with no other dots near by. Do you have that/
+1: i have that
+0: Let's pick the large medium gray dot

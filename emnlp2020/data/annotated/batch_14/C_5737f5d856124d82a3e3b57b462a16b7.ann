@@ -1,0 +1,8 @@
+T1	Markable 15 32	a large black dot
+T2	Markable 74 89	The closest dot
+T3	Markable 93 95	it
+T4	Markable 168 172	mine
+T5	Markable 187 207	that large black dot
+T6	Markable 50 63	anything else
+T7	Markable 124 127	its
+R1	Anaphora Arg1:T7 Arg2:T3	

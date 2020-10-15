@@ -1,0 +1,3 @@
+0: See two very light tiny dots near each other, a small black dot is to the left of those two
+1: Yes! Would you like to pick the black?
+0: Sure

@@ -1,0 +1,10 @@
+T2	Markable 9 43	a cluster of three horizontal dots
+T3	Markable 45 54	black one
+T4	Markable 83 104	the cluster of 4 dots
+T5	Markable 127 130	top
+T6	Markable 106 116	middle one
+T8	Markable 158 171	three of them
+T9	Markable 196 209	the black one
+T10	Markable 249 251	it
+T1	Markable 214 230	Black center one
+R1	Anaphora Arg1:T10 Arg2:T1	

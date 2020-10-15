@@ -1,0 +1,26 @@
+T1	Markable 10 34	one large light grey dot
+T2	Markable 86 88	it
+T3	Markable 45 69	a smaller light gray dot
+T4	Markable 123 135	cluster of 4
+R1	Anaphora Arg1:T2 Arg2:T1	
+T5	Markable 92 98	7 dots
+A1	All-Referents T5
+T6	Markable 100 106	2 grey
+T7	Markable 150 159	large one
+T8	Markable 185 194	which one
+A2	Generic T8
+T9	Markable 214 224	large grey
+T10	Spatial-Relation 47 54	smaller
+T11	Spatial-Relation 70 85	on top right of
+T12	Spatial-Relation 107 121	in bottom left
+A3	No-Obj T12
+T13	Spatial-Relation 123 130	cluster
+A4	No-Obj T13
+T14	Spatial-Relation 136 148	in top right
+A5	No-Obj T14
+T15	Spatial-Relation 160 165	alone
+A6	No-Obj T15
+T16	Spatial-Relation 166 181	in bottom right
+A7	No-Obj T16
+T17	Spatial-Relation 226 237	bottom left
+A8	No-Obj T17

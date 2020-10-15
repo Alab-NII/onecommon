@@ -1,0 +1,5 @@
+1: Small dark gray dot very near top center
+0: i have 2 similar size dot at the edge, 1 of them is slightly darker
+1: Two dots very near very bottom of circle, bottom one slightly larger lighter gray dot and the one above slightly to the right of it is slightly smaller darker gray.
+0: yes, choose the darker one?
+1: Indeed, thank you

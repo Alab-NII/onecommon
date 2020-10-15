@@ -1,0 +1,4 @@
+1: I have 3 medium size dots next to each other. 2 are black, one grey
+0: i have that
+1: click the top black one
+0: ok

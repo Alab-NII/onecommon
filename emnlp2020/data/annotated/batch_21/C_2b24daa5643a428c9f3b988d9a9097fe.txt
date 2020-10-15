@@ -1,0 +1,4 @@
+1: lonely small black dot?
+0: I got a tiny black dot on the edge. You got that one ?
+1: we have different cuts, so mine is not on the edge
+0: Alright, so let's go for the tiny black dot that seems to be lonely

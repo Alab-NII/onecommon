@@ -1,0 +1,12 @@
+T1	Markable 9 21	7 total dots
+T2	Markable 42 45	two
+T3	Markable 120 141	a lighter smaller one
+T4	Markable 114 116	it
+T5	Markable 160 163	two
+T6	Markable 227 231	that
+T7	Markable 273 287	the darker one
+A1	All-Referents T1
+T8	Markable 78 81	One
+R1	Anaphora Arg1:T4 Arg2:T8	
+T9	Markable 183 194	on the left
+T10	Markable 210 219	the right

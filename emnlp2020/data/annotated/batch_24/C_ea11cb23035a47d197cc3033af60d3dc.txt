@@ -1,0 +1,6 @@
+0: do you have a large dark dot with a paler dot above it and a medium dot below it?
+1: i see that. is the light one at the top a little to the right?
+0: yes
+1: and the black dot and medium dot are very close together
+0: yes :)
+1: let's choose the black dot.

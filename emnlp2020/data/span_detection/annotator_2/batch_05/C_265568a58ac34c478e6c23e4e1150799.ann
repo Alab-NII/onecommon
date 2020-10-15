@@ -1,0 +1,19 @@
+T1	Markable 3 16	one large dot
+T2	Markable 39 55	a large gray dot
+T3	Markable 137 151	small gray dot
+T4	Markable 253 266	tiny gray dot
+T5	Markable 289 307	one small gray dot
+T6	Markable 326 339	one small dot
+T7	Markable 192 208	A large gray dot
+T8	Markable 376 386	Light gray
+T9	Spatial-Relation 17 29	at 9 o'clock
+T10	Spatial-Relation 56 89	to the bottom right of the circle
+T11	Spatial-Relation 112 129	right bottom side
+T12	Spatial-Relation 152 164	at 4 o'clock
+T13	Modifier 165 168	not
+T14	Spatial-Relation 169 188	close to the border
+T15	Modifier 209 213	very
+T16	Spatial-Relation 214 243	near the center of the circle
+T17	Spatial-Relation 267 281	near 11 oclock
+T18	Spatial-Relation 308 317	near 1:00
+T19	Spatial-Relation 340 372	on 9 o'clock touching the border

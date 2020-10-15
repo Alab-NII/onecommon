@@ -1,0 +1,14 @@
+T2	Markable 95 99	they
+T3	Markable 176 183	the one
+T4	Markable 226 228	it
+T5	Markable 212 219	nothing
+T6	Markable 45 67	three medium grey dots
+A1	No-Referent T5
+T1	Spatial-Relation 68 85	making a triangle
+T7	Modifier 104 112	a little
+T8	Spatial-Attribute 113 117	dark
+T9	Spatial-Attribute 121 132	medium grey
+T10	Modifier 121 127	medium
+T11	Spatial-Relation 133 153	to the left and down
+T12	Spatial-Relation 184 202	above to the right
+T13	Spatial-Relation 220 225	above

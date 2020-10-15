@@ -1,0 +1,2 @@
+0: hi, i have a cluster of 3 medium sized dots, 2 dark, one light. do you see that?
+1: yes, select the lowest one

@@ -1,0 +1,12 @@
+T1	Markable 15 26	3 or 4 dots
+T2	Markable 37 43	a line
+T3	Markable 85 91	4 dots
+T6	Markable 336 347	the 2nd one
+R1	Predicative Arg1:T2 Arg2:T1	
+T7	Markable 149 158	left most
+T8	Markable 187 190	2nd
+T9	Markable 216 219	3rd
+T10	Markable 246 250	last
+T11	Markable 296 315	3 of the 4 of those
+T4	Markable 363 387	the smallest medium gray
+R2	Anaphora Arg1:T4 Arg2:T6	

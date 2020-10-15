@@ -1,0 +1,4 @@
+1: I have 3 dots that form a triangle the largest one is to the right and black
+0: Hmm no. I have two dark grey small dots that are pretty far apart with the one to the right being only slightly larger
+1: Sorry the large one is on the left. I have two dots of the same size right next to each other. the darker one is on the left
+0: Yes! Let's click that darker one!

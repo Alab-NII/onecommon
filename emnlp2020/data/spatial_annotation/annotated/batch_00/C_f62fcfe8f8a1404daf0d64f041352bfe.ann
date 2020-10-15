@@ -1,0 +1,38 @@
+T1	Markable 23 38	the lighter one
+T2	Markable 109 127	two opposite sides
+T3	Markable 90 107	a diamond of dots
+T5	Markable 144 151	the one
+T6	Markable 215 226	the diamond
+T7	Markable 237 241	that
+T8	Markable 292 303	the diamond
+T9	Markable 252 268	the lightest one
+T10	Markable 3 22	two large grey dots
+R2	Anaphora Arg1:T6 Arg2:T3	
+T11	Spatial-Relation 27 34	lighter
+R3	Obj Arg1:T11 Arg2:T10	
+T12	Modifier 39 47	slightly
+T13	Spatial-Relation 48 53	lower
+T14	Spatial-Relation 58 62	left
+R4	Obj Arg1:T13 Arg2:T10	
+R5	Obj Arg1:T14 Arg2:T10	
+T15	Spatial-Relation 92 99	diamond
+A1	No-Obj T15
+T4	Spatial-Attribute 132 137	small
+T16	Spatial-Relation 113 127	opposite sides
+R1	Obj Arg1:T16 Arg2:T3	
+T17	Spatial-Relation 155 171	the bottom right
+R6	Obj Arg1:T17 Arg2:T2	
+T18	Spatial-Relation 175 182	lighter
+T19	Spatial-Relation 196 202	larger
+T20	Modifier 187 195	slightly
+R7	Obj Arg1:T18 Arg2:T2	
+R8	Obj Arg1:T19 Arg2:T2	
+T21	Spatial-Relation 219 226	diamond
+A3	No-Obj T21
+T22	Spatial-Relation 256 264	lightest
+T23	Spatial-Relation 269 291	on the bottom right of
+A2	Canonical-Undefined T16
+A4	Canonical-Undefined T15
+T24	Spatial-Relation 296 303	diamond
+A5	No-Obj T24
+A6	Canonical-Undefined T24

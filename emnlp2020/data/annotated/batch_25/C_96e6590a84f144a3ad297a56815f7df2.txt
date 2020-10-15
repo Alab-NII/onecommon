@@ -1,0 +1,4 @@
+1: I have one really dark dot and to the left of it is a lighter dot, both about the same size.
+0: do you see a black medium dot to the right of the same size lightest gray dot?
+0: That's it. Choose the darkest one
+1: Perfect

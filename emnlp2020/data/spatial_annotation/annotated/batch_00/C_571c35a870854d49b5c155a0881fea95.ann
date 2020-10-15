@@ -1,0 +1,28 @@
+T1	Spatial-Relation 42 51	same size
+T2	Markable 14 29	a diagonal line
+T3	Markable 102 125	a medium size black dot
+T4	Markable 260 262	it
+T5	Markable 213 225	the dark one
+T6	Markable 132 166	a medium size slightly lighter dot
+R2	Anaphora Arg1:T4 Arg2:T5	
+T7	Spatial-Relation 16 29	diagonal line
+A1	No-Obj T7
+A2	No-Obj T1
+T8	Spatial-Relation 52 62	same color
+A3	No-Obj T8
+T9	Spatial-Attribute 63 74	medium size
+T10	Spatial-Relation 126 131	above
+T11	Spatial-Relation 155 162	lighter
+T12	Modifier 146 154	slightly
+R1	Mod Arg1:T12 Arg2:T11	
+R3	Obj Arg1:T11 Arg2:T3	
+T13	Spatial-Relation 175 190	off to the left
+T14	Modifier 191 199	a little
+R4	Mod Arg1:T14 Arg2:T13	
+R5	Obj Arg1:T13 Arg2:T3	
+T15	Spatial-Attribute 40 41	3
+T16	Spatial-Attribute 75 86	medium gray
+T17	Modifier 63 69	medium
+A4	Mod-Neutral T17
+T18	Modifier 75 81	medium
+A5	Mod-Neutral T18

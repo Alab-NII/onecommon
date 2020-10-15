@@ -1,0 +1,15 @@
+T1	Markable 10 22	one tiny dot
+T2	Markable 76 91	two larger dots
+T3	Markable 213 225	the tiny dot
+T4	Markable 127 140	one small dot
+T5	Markable 60 62	It
+T6	Markable 184 195	bigger ones
+T7	Spatial-Relation 65 75	in between
+T8	Spatial-Relation 80 86	larger
+R1	Obj Arg1:T8 Arg2:T5	
+T9	Modifier 93 101	slightly
+T10	Spatial-Attribute 102 106	dark
+R2	Subj Arg1:T10 Arg2:T5	
+T11	Spatial-Relation 153 174	to the left and right
+T12	Spatial-Relation 184 190	bigger
+#1	AnnotatorNotes T11	middle

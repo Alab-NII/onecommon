@@ -1,0 +1,6 @@
+1: very large dark grey dot?
+0: i think so. what do you see around it?
+1: to its right almost horizontal is a smaller dot of almost the same shade
+0: i see one to the right that is smaller and slightly darker. to the right of that one and lower is a small light dot.
+1: yes click that very large one!
+0: ok

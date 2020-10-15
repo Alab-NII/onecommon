@@ -1,0 +1,4 @@
+1: do you have a tiny black dot on top of two light gray same size dots?
+0: I got three in a line with the smallest being a black dot in the middle
+1: Ok...I see that. Choose the tiny black dot in middle
+0: Ok

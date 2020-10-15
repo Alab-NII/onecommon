@@ -1,0 +1,9 @@
+T1	Markable 29 37	triangle
+T2	Markable 3 20	cluster of 3 dots
+T3	Markable 69 74	1 dot
+T4	Markable 93 96	all
+R1	Predicative Arg1:T1 Arg2:T2	
+T5	Markable 43 49	2 dots
+R2	Anaphora Arg1:T4 Arg2:T2	
+T6	Markable 114 134	light light grey dot
+T7	Markable 166 174	that dot

@@ -1,0 +1,4 @@
+1: i see a gray dot touching the dotted line at 1 o'clock
+0: do you see a huge black dot to the left of and slightly above a smaller lighter dot
+1: yes, i have that one too
+0: lets click on the large black dot

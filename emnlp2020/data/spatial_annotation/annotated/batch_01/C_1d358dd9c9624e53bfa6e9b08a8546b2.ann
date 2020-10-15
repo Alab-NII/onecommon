@@ -1,0 +1,51 @@
+T1	Markable 59 84	same sized light grey dot
+T2	Markable 101 105	that
+T3	Markable 114 131	no dark gray dots
+T4	Markable 153 159	3 dots
+T6	Markable 266 270	that
+T7	Markable 355 359	that
+T8	Markable 373 400	lonely large light grey dot
+T9	Markable 466 474	that one
+T10	Markable 10 44	LARGE dark grey (almost black) dot
+A1	No-Referent T2
+A2	No-Referent T3
+T11	Markable 211 219	Bottom 2
+T12	Spatial-Relation-Markable 231 234	top
+A3	No-Referent T6
+T13	Markable 275 290	My smallest dot
+A4	No-Referent T7
+T14	Markable 412 415	one
+T15	Spatial-Relation 45 58	right next to
+T17	Spatial-Relation 59 69	same sized
+R2	Obj Arg1:T17 Arg2:T10	
+T18	Modifier 132 138	almost
+T19	Spatial-Attribute 139 144	black
+T5	Spatial-Relation 160 178	in a diagonal line
+A5	No-Obj T5
+T20	Spatial-Relation 179 209	lower right towards upper left
+A6	No-Obj T20
+T21	Spatial-Relation 211 217	Bottom
+R1	Obj Arg1:T21 Arg2:T4	
+T22	Spatial-Attribute 220 230	light gray
+R3	Obj Arg1:T12 Arg2:T4	
+T23	Spatial-Relation 238 249	darker gray
+R4	Obj Arg1:T23 Arg2:T4	
+T24	Spatial-Relation 278 286	smallest
+A8	No-Obj T24
+T25	Spatial-Attribute 294 305	medium gray
+T26	Spatial-Relation 306 323	towards top right
+A9	No-Obj T26
+T27	Modifier 324 329	about
+T28	Spatial-Relation 330 339	2 o clock
+A10	No-Obj T28
+T29	Spatial-Relation 373 379	lonely
+A11	No-Obj T29
+T31	Spatial-Relation 421 436	above 6 o clock
+A12	No-Obj T31
+T32	Spatial-Relation 437 453	towards the left
+A13	No-Obj T32
+A7	Canonical-Undefined T20
+T33	Modifier 294 300	medium
+#1	AnnotatorNotes T15	near
+#2	AnnotatorNotes T28	right above
+#3	AnnotatorNotes T31	below

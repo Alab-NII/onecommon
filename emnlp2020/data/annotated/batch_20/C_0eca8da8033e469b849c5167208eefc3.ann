@@ -1,0 +1,18 @@
+T1	Markable 40 43	one
+T2	Markable 73 82	the other
+T3	Markable 9 23	two small dots
+T4	Markable 170 175	those
+T5	Markable 236 242	itself
+T6	Markable 287 299	another pair
+T7	Markable 328 354	a similar sized light grey
+T8	Markable 250 271	a large dark grey dot
+T9	Markable 275 281	itself
+T10	Markable 361 370	that pair
+T11	Markable 410 416	itself
+T12	Markable 153 156	any
+A1	Generic T12
+T13	Markable 202 224	a tiny medium-grey dot
+R1	Anaphora Arg1:T5 Arg2:T13	
+R2	Anaphora Arg1:T9 Arg2:T8	
+T14	Markable 386 406	tiny medium grey one
+R3	Anaphora Arg1:T11 Arg2:T14	

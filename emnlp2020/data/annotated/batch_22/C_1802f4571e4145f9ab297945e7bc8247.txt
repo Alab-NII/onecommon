@@ -1,0 +1,4 @@
+0: two gray dots same size and color med gray? the top one is above and to left of the bottom one
+1: Yes
+0: does the bottom dot have a smaller black dot to the left...if so click the bottom gray dot
+1: The bottom dot has a black dot below to the left

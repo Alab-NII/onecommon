@@ -1,0 +1,5 @@
+0: lone tiny light grey near center
+1: The one by itself with a big dark dot above it?
+0: yes, think so
+1: Okay, only smallest light one I see.
+0: ok

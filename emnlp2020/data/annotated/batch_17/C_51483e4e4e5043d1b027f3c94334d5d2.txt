@@ -1,0 +1,5 @@
+1: do you have 3 dark dots in a diagonal line?
+0: I have three light colored dots. One on the far left edge, one in the center, and one on the upper right
+1: My light dots don't match that. Do 3 of your lighter dots have a dark dot in the center of them? sort of making a 'c' shape?
+0: Let's go back to the diagonal dark line. I have that. Smaller one on the far left, mid sized in the center, and the biggest one on the right. You pick which one we should choose
+1: lets choose smallest one on the left.

@@ -1,0 +1,6 @@
+1: Do you have 2 large grey dots?
+0: yeah, the higher one is to the left slightly from the lower one?
+1: yes
+0: to the left of the higher one is a black dot?
+1: should we pick the higher one?
+0: ok

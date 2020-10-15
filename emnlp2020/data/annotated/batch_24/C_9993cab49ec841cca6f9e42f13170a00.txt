@@ -1,0 +1,5 @@
+1: Hello I see 2 clusters of dots
+0: hiya, i have one close cluster of dots, medium sized medium grey with three dots around it in a triangle
+1: I also have a close cluster with 4 dots. The furthest up is dark grey, same with bottom left one in cluster is dark, middle 2 are med grey
+0: yes, that's the cluster, which one did you pick?
+1: I did the middle grey one

@@ -1,0 +1,5 @@
+0: I have a large grey dot alone touching the edge of the circle south of center
+1: Do you have three dots clumped together, lower right one is a medium sized black dot, top one is large grey, and the right one is tiny
+0: Yes I have that
+1: I meant lower left for the black one lol, click that black one
+0: Got you.

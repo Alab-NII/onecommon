@@ -1,0 +1,5 @@
+T1	Markable 31 46	a vertical line
+T2	Markable 146 154	that one
+T3	Markable 3 20	two med grey dots
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 71 78	the one

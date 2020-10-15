@@ -1,0 +1,5 @@
+1: my dots make a question mark lol
+0: Is one of them very small and very dark?
+1: up black! Below is a large med gray dot... above and to the right is a small light gray dot
+0: Yes! Lets pick the black one!
+1: ok

@@ -1,0 +1,7 @@
+T1	Markable 37 64	a larger lightest shade dot
+T2	Markable 14 30	a tiny black dot
+T3	Markable 75 95	a pair of small dots
+T4	Markable 148 160	that top one
+T5	Markable 110 121	one another
+R1	Anaphora Arg1:T5 Arg2:T3	
+T6	Markable 123 130	the top

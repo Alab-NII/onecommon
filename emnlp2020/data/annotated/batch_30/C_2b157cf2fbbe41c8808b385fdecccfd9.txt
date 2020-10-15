@@ -1,0 +1,3 @@
+0: i see 2 grey dots that are aligned diagonally. sorta far apart. same size dots
+1: i see that. is there a big same size dot at the top middle of those?
+0: yes. let's pick the black top dot

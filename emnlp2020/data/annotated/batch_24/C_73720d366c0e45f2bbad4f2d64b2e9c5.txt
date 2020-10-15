@@ -1,0 +1,2 @@
+0: I have 1 dot larger than all the rest. It is medium gray. there is a same color but smaller dot far above and to the left of it
+1: I think I have that one. lets pick the larger one

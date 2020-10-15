@@ -1,0 +1,4 @@
+1: black med sized dot?
+0: I have two tiny dots very close to each other. The bottom one is very light grey and slightly left of the top one.
+1: yes! click the light one on the bottom!
+0: Ok!

@@ -1,0 +1,6 @@
+T1	Markable 15 21	3 dots
+T2	Markable 25 40	a diagonal line
+T3	Markable 52 76	a lonely small light dot
+T4	Markable 92 116	a lonely small light dot
+T5	Markable 166 168	it
+R1	Predicative Arg1:T2 Arg2:T1	

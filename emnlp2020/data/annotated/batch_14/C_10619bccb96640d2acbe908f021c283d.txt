@@ -1,0 +1,6 @@
+1: do you see a light gray super small dot off by itself?
+0: Do you have a tiny light gray?
+1: Is it off by itself?
+0: yep! near the bottom?
+1: Yes. let's choose that one
+0: done

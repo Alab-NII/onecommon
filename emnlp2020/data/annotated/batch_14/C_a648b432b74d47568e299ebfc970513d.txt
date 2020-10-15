@@ -1,0 +1,3 @@
+1: I have a diagonal line of three similar sized dots close together. The center one is darker
+0: Yes, me too. Let's select the middle one
+1: ok

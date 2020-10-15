@@ -1,0 +1,5 @@
+1: Do you see any black dots?
+0: one big dark and one small dark in line
+1: Do you see a medium gray dot sort of in line with that black dot?
+0: yes let us select this medium grey dot
+1: Ok.

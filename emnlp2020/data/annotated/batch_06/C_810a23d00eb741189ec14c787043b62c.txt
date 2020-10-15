@@ -1,0 +1,4 @@
+0: I see two dots aligned and diagonal. The top one is a smaller dark one. But not too small. The one that is below it is a bit larger, same color.
+1: i see two dark grey dots very close to each other. they are both dark grey and the top one looks slightly smaller
+0: Let's choose the small one on top.
+1: that sounds right

@@ -1,0 +1,6 @@
+1: Do you have a large medium grey circle at the bottom?
+0: DO you have 3 dots in a row leaning toward the left? dots get lighter as they descend? My medium gray circle is in the NE center
+1: I have that but I don't think they are positioned the same. Do you have a large grey dot above and to the right of the center?
+0: I do have a large dark dot above and to the right of center. I also have 3 dots in a U shape where the darkest dot is at the bottom of the U
+1: I do not have the U shape. Should we choose the large dark dot above and to the right of the center?
+0: sure.

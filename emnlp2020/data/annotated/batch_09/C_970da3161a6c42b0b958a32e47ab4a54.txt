@@ -1,0 +1,6 @@
+0: i have six slightly lighter and one darker dot
+1: is your darker dot to the right, with a med/light-grey larger one about an inch to it's left?
+0: yes and the one to the left is slightly bigger
+1: and it's lighter? and then even further to the left of that is an even lighter one, about the same size and the dark one on the right?
+0: yes let's pick the dark one
+1: ok you said pick the dark one, i did, will you?

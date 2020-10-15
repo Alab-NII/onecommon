@@ -1,0 +1,45 @@
+T1	Markable 10 21	a black dot
+T2	Markable 25 31	itself
+T3	Markable 99 113	two large dots
+T4	Markable 115 129	the bottom one
+T5	Markable 178 182	that
+T6	Markable 191 207	large black dots
+T7	Markable 227 250	a larger light gray dot
+T8	Markable 257 259	it
+T9	Markable 297 304	the dot
+T10	Markable 340 342	it
+T11	Markable 377 385	that one
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T5
+R2	Anaphora Arg1:T8 Arg2:T7	
+T12	Markable 260 279	a smaller dark gray
+T13	Spatial-Relation 22 24	by
+T14	Spatial-Relation 35 47	to the right
+A2	No-Obj T14
+T15	Modifier 48 53	maybe
+T16	Spatial-Relation 54 71	2 oclock position
+A3	No-Obj T16
+T17	Spatial-Relation 72 89	close to the edge
+A4	No-Obj T17
+T18	Spatial-Relation 119 125	bottom
+R3	Obj Arg1:T18 Arg2:T3	
+T19	Modifier 130 138	slightly
+T20	Spatial-Relation 139 146	lighter
+T21	Spatial-Relation 151 162	to the left
+R4	Obj Arg1:T20 Arg2:T3	
+R5	Obj Arg1:T21 Arg2:T3	
+T22	Spatial-Relation 208 219	to the left
+R6	Obj Arg1:T22 Arg2:T6	
+R7	Subj Arg1:T22 Arg2:T7	
+T23	Spatial-Relation 229 235	larger
+R8	Obj Arg1:T23 Arg2:T12	
+T24	Spatial-Relation 251 256	below
+R9	Subj Arg1:T24 Arg2:T12	
+T25	Spatial-Relation 262 269	smaller
+R10	Obj Arg1:T25 Arg2:T7	
+T26	Spatial-Attribute 343 355	medium sized
+#1	AnnotatorNotes T13	alone
+#2	AnnotatorNotes T16	right above
+#3	AnnotatorNotes T17	outside
+T27	Modifier 343 349	medium
+A5	Mod-Neutral T27

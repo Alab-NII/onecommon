@@ -1,0 +1,6 @@
+0: I have one very small black dot
+1: I have 7 dots, 3 grouped near the top, 4 in a group on the bottom half of the circle
+0: do you have one very small light gray dot?
+1: I have a very light gray dot
+0: okay, let's click on that one
+1: ok

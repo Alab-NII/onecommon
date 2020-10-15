@@ -1,0 +1,7 @@
+T1	Markable 10 32	a large light gray dot
+T2	Spatial-Relation 33 45	at 6 o clock
+A1	No-Obj T2
+T3	Spatial-Relation 46 71	on the edge of the circle
+A2	No-Obj T3
+#1	AnnotatorNotes T2	below
+#2	AnnotatorNotes T3	outside

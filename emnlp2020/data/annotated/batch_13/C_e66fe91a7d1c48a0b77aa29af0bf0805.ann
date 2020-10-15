@@ -1,0 +1,11 @@
+T1	Markable 9 20	a black dot
+T3	Markable 28 30	It
+T4	Markable 108 122	the bottom one
+T5	Markable 160 164	they
+T6	Markable 226 239	the lower one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T2	Markable 34 52	the only black dot
+R2	Predicative Arg1:T2 Arg2:T3	
+T7	Markable 68 78	Black dots
+A1	No-Referent T7
+T8	Markable 87 93	3 gray

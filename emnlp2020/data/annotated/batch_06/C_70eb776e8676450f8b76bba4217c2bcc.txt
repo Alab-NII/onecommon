@@ -1,0 +1,4 @@
+1: I see three dots very similar in size that almost form a perfect triangle. They are very similar in shade as well
+0: I have that same pattern as well
+1: Want to pick the one that is the smallest and to the right?
+0: Yes

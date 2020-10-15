@@ -1,0 +1,4 @@
+0: do you have a line of large dots all the same size... varying from left to right lightest to darkest
+1: yes
+0: the darkest is also the lowest?
+1: yes. let's pick that one

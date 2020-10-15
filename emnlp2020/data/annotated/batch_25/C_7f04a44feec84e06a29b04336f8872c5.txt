@@ -1,0 +1,4 @@
+1: Do you have a large dark dot with a tiny medium gray dot to its immediate upper right? they're close to each other
+0: I have a large black dot with a smaller one up and to the right
+1: Sounds like the same one, click the black dot?
+0: Okay

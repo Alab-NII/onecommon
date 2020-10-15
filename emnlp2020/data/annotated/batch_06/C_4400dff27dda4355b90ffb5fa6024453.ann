@@ -1,0 +1,27 @@
+T1	Markable 15 29	any black dots
+T2	Markable 41 60	one small black dot
+T3	Markable 66 73	no dots
+T4	Markable 79 81	it
+T5	Markable 97 110	one black dot
+T6	Markable 147 155	the rest
+T7	Markable 159 167	the dots
+T8	Markable 169 189	the rest of the dots
+T10	Markable 263 275	my black dot
+T11	Markable 279 291	the smallest
+T12	Markable 465 479	the two larger
+T13	Markable 591 624	a slightly smaller light grey dot
+T14	Markable 533 541	anything
+T15	Markable 661 663	it
+A1	Generic T1
+A2	No-Referent T3
+R1	Anaphora Arg1:T4 Arg2:T2	
+R2	Anaphora Arg1:T8 Arg2:T6	
+T16	Markable 225 233	all mine
+A3	All-Referents T16
+T17	Markable 316 346	two largish sized medium greys
+T18	Markable 376 410	2 larger size medium colored greys
+T19	Markable 422 449	a smaller medium color grey
+T20	Markable 483 488	those
+A4	No-Referent T14
+T21	Markable 646 653	the one
+R3	Anaphora Arg1:T15 Arg2:T21	

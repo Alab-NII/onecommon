@@ -1,0 +1,6 @@
+1: I have a very small dark dot, with a larger lighter dot a ways above it, but almost directly above it
+0: 3 light dots all clustered together, i don't have that
+1: I do have the cluster of three. The lowest one is the largest, right?
+0: yes and its on the left lower than all the others
+1: yes
+0: Pick that one?

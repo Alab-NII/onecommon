@@ -1,0 +1,6 @@
+T1	Markable 9 17	two dots
+T2	Markable 19 23	They
+T3	Markable 60 74	The bottom dot
+T4	Markable 92 96	they
+T6	Markable 161 182	the bottom, small dot
+R1	Anaphora Arg1:T2 Arg2:T1	

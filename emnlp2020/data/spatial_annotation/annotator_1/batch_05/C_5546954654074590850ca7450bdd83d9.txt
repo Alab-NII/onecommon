@@ -1,0 +1,4 @@
+1: I have two black dots right next to each other the left one being larger
+0: Hmm Is the left one obviously black but the right one a dark grey?
+1: probably yes.
+0: Okay click on the larger black one

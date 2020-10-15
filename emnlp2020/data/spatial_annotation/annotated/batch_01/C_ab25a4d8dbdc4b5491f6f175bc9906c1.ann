@@ -1,0 +1,16 @@
+T1	Markable 10 27	a large black dot
+T2	Markable 86 104	a smaller grey one
+T3	Markable 136 138	it
+T4	Markable 186 199	the small one
+T5	Markable 171 182	the big one
+T6	Markable 207 219	the grey one
+T7	Markable 258 279	the light colored one
+T8	Spatial-Relation 28 73	between where a 4 and a 5 would be on a clock
+A1	No-Obj T8
+T9	Spatial-Relation 88 95	smaller
+T10	Modifier 105 113	slightly
+T11	Spatial-Relation 105 135	slightly up and to the left of
+T12	Modifier 220 226	almost
+T13	Spatial-Attribute 227 232	white
+#1	AnnotatorNotes T8	right;below
+A2	Mod-Uncertainty-Approximation T12

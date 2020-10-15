@@ -1,0 +1,5 @@
+1: Do you see two medium grey dots close together?
+0: i see a smaller dot close to a medium light gray dot
+1: do you see a very black dot with four light grey dots around it in a rectangle?
+0: yes
+1: lets click the black dot!

@@ -1,0 +1,10 @@
+T1	Markable 18 24	a line
+T2	Markable 9 14	three
+T4	Markable 52 66	The middle one
+T5	Markable 109 113	that
+T6	Markable 162 186	a small, darker gray dot
+T7	Markable 122 148	one large, medium gray dot
+T8	Markable 193 207	the larger dot
+T9	Markable 260 274	the larger one
+R1	Predicative Arg1:T1 Arg2:T2	
+A1	No-Referent T5

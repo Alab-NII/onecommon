@@ -1,0 +1,3 @@
+1: I have one small black dot by itself.
+0: I don't see that. Do you have two gray dots, the one on top is smaller and lighter?
+1: Yes, choose the one on top that is smaller & lighter.

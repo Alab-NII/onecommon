@@ -1,0 +1,8 @@
+0: is your smallest darkest dot alone?
+1: I have 2 dots by each other. one slightly larger and darker
+0: I have 2 sets of dots like the one you described. is the darker dot to the right and slightly above the lighter dot?
+1: I have a couple like that. one set is of small dots. the other set is medium sized, both same size but one dark and other light grey
+0: ah gotcha. is the light and darker pair the same size? the darker one up and to the left of the lighter dot?
+1: yes the medium sized ones. The dark grey to the left and higher and lighter one lower and light grey
+0: same here. do you want to choose the darker one that is up higher on the left?
+1: ok

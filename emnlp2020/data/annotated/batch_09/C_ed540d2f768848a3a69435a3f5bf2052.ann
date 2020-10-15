@@ -1,0 +1,7 @@
+T1	Markable 10 31	a group of three dots
+T2	Markable 57 65	The nose
+T3	Markable 141 153	the left eye
+T4	Markable 70 79	right eye
+T5	Markable 107 115	the nose
+R1	Anaphora Arg1:T5 Arg2:T2	
+T6	Markable 192 200	the nose

@@ -1,0 +1,4 @@
+1: I have one large black dot, all the rest of mine are lighter in color
+0: is your black one in the middle? with 3 clustered directly below it, including one exactly the same size as the black one?
+1: yes and two smaller ones to the left
+0: ok let's click the black one. last one for this morning i'm sure :) good luck!!!

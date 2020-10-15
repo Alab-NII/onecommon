@@ -1,0 +1,9 @@
+T2	Markable 72 94	a cluster of five dots
+T4	Markable 96 115	One large black dot
+T5	Markable 133 172	a light gray and medium gray small dots
+T7	Markable 246 272	even smaller dark grey dot
+T8	Markable 205 229	a smaller light grey dot
+T9	Markable 179 199	the middle black dot
+T10	Markable 308 328	the middle black dot
+T11	Markable 12 51	a vaguely little dipper shape of 7 dots
+A1	All-Referents T11

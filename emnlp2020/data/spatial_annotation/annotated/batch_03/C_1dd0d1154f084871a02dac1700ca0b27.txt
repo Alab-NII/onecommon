@@ -1,0 +1,4 @@
+0: The lowest dot is large and dark grey. Do you see that?
+1: I do see a large dark grey circle and to the left is medium size light grey dot
+0: Yes. Shall we choose the large dark grey?
+1: yes let's choose that one

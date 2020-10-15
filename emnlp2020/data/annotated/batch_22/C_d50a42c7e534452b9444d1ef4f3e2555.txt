@@ -1,0 +1,5 @@
+1: Cluster of 4 dots... near the line
+0: yes!
+1: is one of the small and the darkest?
+0: Yes and off to the left? if so click that one!
+1: yup!

@@ -1,0 +1,4 @@
+1: group of three, small dark grey on top, tiny grey down to the right, small black at the bottom
+0: i dont have a black one at my bottom
+1: ok is there a small dark grey dot to the far right of the tiny light grey dot then?
+0: i have 3 dots forming a triangle do you have that? If you do lets pick the tiny grey dot

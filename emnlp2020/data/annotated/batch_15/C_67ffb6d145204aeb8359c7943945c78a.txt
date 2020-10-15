@@ -1,0 +1,4 @@
+0: Hello. Do you have a dark gray dot with a small gray dot up and to the left of it>
+1: No I do not. Do you see a very light colored one that is medium in sized? To the right of a smaller one?
+0: Is it lower than the small one?
+1: You got it, take the albino one!

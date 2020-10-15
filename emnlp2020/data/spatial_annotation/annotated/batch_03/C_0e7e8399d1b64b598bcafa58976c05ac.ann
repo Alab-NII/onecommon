@@ -1,0 +1,18 @@
+T2	Markable 98 103	small
+T3	Markable 42 67	three different size dots
+T4	Markable 170 175	the 3
+T5	Markable 137 151	the middle one
+T6	Markable 130 135	those
+T7	Markable 191 199	that one
+T1	Markable 104 110	medium
+T8	Markable 111 116	large
+T9	Spatial-Relation 48 62	different size
+A1	No-Obj T9
+T10	Spatial-Relation 68 81	along the top
+A2	No-Obj T10
+T11	Spatial-Relation 82 91	in a line
+A3	No-Obj T11
+T12	Spatial-Relation 92 97	going
+A4	Unannotatable T12
+T13	Spatial-Relation 141 147	middle
+T14	Spatial-Relation 155 169	the darkest of

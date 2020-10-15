@@ -1,0 +1,9 @@
+T1	Markable 23 38	a diagonal line
+T2	Markable 13 19	3 dots
+T3	Markable 138 148	the others
+T4	Markable 95 109	the bottom dot
+T5	Markable 200 215	the top largest
+T6	Markable 262 277	the top biggest
+R1	Predicative Arg1:T1 Arg2:T2	
+T7	Markable 174 183	the first
+T8	Markable 219 247	bottom lightest and smallest

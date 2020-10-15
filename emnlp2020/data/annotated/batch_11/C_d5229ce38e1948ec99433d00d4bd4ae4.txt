@@ -1,0 +1,7 @@
+1: do you have 3 sets of 2 dots that are together
+0: no, but i do have one set thats at the 7 ish o clock position, grey, slightly larger one closer to the circle border
+1: so they are both the same light color of gray?
+0: yes
+1: okay and the one that is on the top is smaller?
+0: very slightly. which one to click?
+1: click the top slightly smaller light gray one

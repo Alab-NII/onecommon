@@ -1,0 +1,4 @@
+1: I only have one black small dot?
+0: Do you have two very tiny dots that are exactly the same side but almost opposite in color?
+1: Yes, one of them are black or almost black?
+0: Yes click that one!

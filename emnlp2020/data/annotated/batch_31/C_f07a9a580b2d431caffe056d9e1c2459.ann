@@ -1,0 +1,30 @@
+T1	Markable 10 37	a large very light gray dot
+T2	Markable 43 66	a smaller dark gray dot
+T3	Markable 92 94	it
+T4	Markable 154 174	the large light grey
+T5	Markable 263 267	them
+T6	Markable 111 115	that
+T7	Markable 237 256	a large medium grey
+T8	Markable 123 147	a medium sized dark grey
+T9	Markable 283 299	1 light gray dot
+T10	Markable 312 336	2 medium same sized dots
+T11	Markable 347 364	a horizontal line
+T12	Markable 366 373	the one
+T13	Markable 411 418	the one
+T14	Markable 504 528	a single small black dot
+T15	Markable 545 569	the same small black dot
+T16	Markable 580 609	a much larger medium gray dot
+T17	Markable 635 637	it
+T18	Markable 660 679	the small black dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+A1	No-Referent T6
+T20	Markable 183 209	2 medium sized light greys
+R2	Predicative Arg1:T11 Arg2:T10	
+T21	None 406 410	that
+#1	AnnotatorNotes T21	than
+T22	Markable 434 438	mine
+T23	Markable 460 467	nothing
+A2	No-Referent T23
+R3	Anaphora Arg1:T5 Arg2:T20	
+A3	All-Referents T22
+R4	Anaphora Arg1:T17 Arg2:T15	

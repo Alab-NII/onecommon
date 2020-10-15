@@ -1,0 +1,3 @@
+0: Do you see a pair close to each other, a lighter tiny bit bigger one is left and slightly lower than an almost black one
+1: yes. and there is a third one further to the right that is smaller and medium toned
+0: Yes take left one that is largest

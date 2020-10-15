@@ -1,0 +1,5 @@
+0: I see only one dark gray dot towards the top and to the left a little.
+1: I don't have that. I have 2 smaller dots horizontal . The left one is slightly larger and a lighter color
+0: Do you see three that could make a triangle? Two medium color gray and one lighter gray?
+1: Yes, there is one bigger than the other 2
+0: Yes, let's choose the larger one.

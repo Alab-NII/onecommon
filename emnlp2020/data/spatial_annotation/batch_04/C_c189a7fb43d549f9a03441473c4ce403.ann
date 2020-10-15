@@ -1,0 +1,15 @@
+T1	Markable 36 46	each other
+T2	Markable 48 51	One
+T3	Markable 115 127	a curvy line
+T4	Markable 155 167	your top one
+T5	Markable 202 211	the other
+T6	Markable 260 262	It
+T7	Markable 309 322	a lighter one
+T9	Markable 448 467	the lowest dark dot
+T10	Markable 379 397	the lower dark dot
+T11	Markable 3 21	Two very dark ones
+R1	Anaphora Arg1:T1 Arg2:T11	
+T12	Markable 98 111	three darkest
+R2	Predicative Arg1:T3 Arg2:T12	
+T13	Markable 182 187	the 3
+R3	Anaphora Arg1:T13 Arg2:T12	

@@ -1,0 +1,13 @@
+T1	Markable 3 19	Largest dark one
+T2	Markable 81 91	each other
+T3	Markable 27 53	two med/light smaller ones
+T4	Markable 111 127	smaller dark dot
+T5	Markable 103 105	it
+T6	Markable 134 136	it
+T7	Markable 200 216	the big dark one
+T8	Markable 61 65	it's
+R1	Anaphora Arg1:T8 Arg2:T1	
+R2	Anaphora Arg1:T2 Arg2:T3	
+R3	Anaphora Arg1:T6 Arg2:T5	
+T9	Markable 145 147	it
+T10	Markable 156 184	same dark color, but smaller

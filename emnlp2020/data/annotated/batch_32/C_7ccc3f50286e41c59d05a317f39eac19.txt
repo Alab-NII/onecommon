@@ -1,0 +1,10 @@
+0: tiny gray dot right side
+1: are they very dark and close together on diagonal line?
+0: i have only one tiny dot on the right side nothing around it
+1: no. do you have a very very light large dot
+0: yes
+1: is there another very light smaller one down to its right?
+0: no just the one you said about
+1: what is near the light one you're talking about then?
+0: to the left of the tiny left one i said in the middle was a light gray med dot
+1: k click the larger light one

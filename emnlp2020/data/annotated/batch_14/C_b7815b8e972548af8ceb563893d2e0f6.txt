@@ -1,0 +1,4 @@
+0: I have 2 pure black dots close to each other, with one on right being bigger
+1: Me too. The smaller one is also a little bit above the bigger black one on its right
+0: yep. Click the smaller of the two
+1: ok

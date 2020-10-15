@@ -1,0 +1,13 @@
+T1	Markable 10 35	a tight cluster of 3 dots
+T2	Markable 57 73	Large light grey
+T3	Markable 157 172	any unique dots
+T4	Markable 251 255	them
+T5	Markable 244 247	one
+T7	Markable 273 283	a tiny one
+T8	Markable 183 191	two dots
+T9	Markable 326 339	the same dots
+T10	Markable 356 380	the darkest smallest dot
+T11	Markable 75 92	large darker grey
+T12	Markable 114 129	small dark grey
+A1	Generic T3
+R1	Anaphora Arg1:T4 Arg2:T8	

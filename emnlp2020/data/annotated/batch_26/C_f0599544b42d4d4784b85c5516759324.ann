@@ -1,0 +1,14 @@
+T1	Markable 25 36	the darkest
+T2	Markable 42 61	smaller lighter dot
+T3	Markable 93 95	it
+T4	Markable 99 113	a cluster of 3
+T5	Markable 132 146	a cluster of 3
+T6	Markable 283 299	a group of three
+T8	Markable 264 279	the largest dot
+T9	Markable 352 371	the large black dot
+T10	Markable 10 21	largest dot
+R1	Predicative Arg1:T1 Arg2:T10	
+T11	Markable 155 178	an upside down triangle
+R2	Predicative Arg1:T11 Arg2:T5	
+T12	Markable 182 203	My largesthoughts dot
+T13	Markable 217 231	My largest dot

@@ -1,0 +1,8 @@
+T1	Markable 42 60	a medium black dot
+T2	Markable 10 27	a large black dot
+T3	Markable 144 163	a smaller black dot
+T4	Markable 182 186	that
+T5	Markable 194 208	the larger one
+T6	Markable 90 107	a large black dot
+T7	Markable 77 81	that
+A1	No-Referent T7

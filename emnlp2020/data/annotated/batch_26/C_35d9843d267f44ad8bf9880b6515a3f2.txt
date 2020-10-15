@@ -1,0 +1,3 @@
+0: I got a large black dot with a dot below it to the right and the same size and another further to the right and not as far down. You got that black dot ?
+1: i have 3 dots left to right dark grey, lighter grey then darker again
+0: Go for the one furthest left.

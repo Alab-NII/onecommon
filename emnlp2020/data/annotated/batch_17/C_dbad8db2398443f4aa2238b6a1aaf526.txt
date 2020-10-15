@@ -1,0 +1,4 @@
+0: DO you see 3 dots in a triangle shape?
+1: Do you see a large grey Dot and to the right is the same sized but lighter dot? Below both is a tiny grey dot
+0: yes. that is the triangle shape i see as well. Would you like to select the lower smallest dot?
+1: Surely

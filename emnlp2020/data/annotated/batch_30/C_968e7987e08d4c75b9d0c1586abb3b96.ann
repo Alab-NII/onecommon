@@ -1,0 +1,34 @@
+T1	Markable 14 31	a small black dot
+T2	Markable 37 69	a much larger grey/dark grey dot
+T3	Markable 91 93	it
+T4	Markable 117 121	that
+T8	Markable 155 174	two small dark ones
+T9	Markable 130 148	a triangle of dots
+T10	Markable 179 199	one larger light one
+T11	Markable 222 236	two black dots
+T12	Markable 288 301	med dark grey
+T13	Markable 342 347	those
+T14	Markable 351 369	a small light grey
+T16	Markable 415 418	two
+T17	Markable 461 470	one light
+T18	Markable 522 532	each other
+T19	Markable 500 504	they
+T20	Markable 577 597	that horizontal line
+T21	Markable 599 613	all of my dots
+T22	Markable 710 726	the leftmost two
+T23	Markable 744 763	the light small one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T5	Markable 248 256	all that
+R2	Anaphora Arg1:T5 Arg2:T11	
+T6	Markable 264 265	3
+T7	Markable 303 313	small dark
+T24	Markable 315 326	small light
+R3	Anaphora Arg1:T13 Arg2:T6	
+T25	Markable 390 401	any of that
+A1	No-Referent T25
+T15	Markable 442 446	both
+R4	Anaphora Arg1:T15 Arg2:T16	
+T26	Markable 475 491	the other medium
+R5	Anaphora Arg1:T18 Arg2:T19	
+T27	Markable 534 547	the only ones
+T28	Markable 648 667	one larger med grey

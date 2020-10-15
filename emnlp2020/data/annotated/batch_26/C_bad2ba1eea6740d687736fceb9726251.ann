@@ -1,0 +1,11 @@
+T1	Markable 33 50	a horizontal line
+T2	Markable 55 79	smaller one almost black
+T3	Markable 171 191	larger very dark dot
+T4	Markable 150 165	a vertical line
+T5	Markable 205 220	the smaller one
+T6	Markable 265 273	that one
+T7	Markable 3 22	two small dark dots
+R1	Predicative Arg1:T1 Arg2:T7	
+T8	Markable 132 139	to dots
+#1	AnnotatorNotes T8	two dots
+R2	Predicative Arg1:T4 Arg2:T8	

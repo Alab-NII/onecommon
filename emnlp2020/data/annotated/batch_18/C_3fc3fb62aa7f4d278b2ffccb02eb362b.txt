@@ -1,0 +1,7 @@
+0: i have one back dot close to the bottom
+1: What is the size of this dot because I have 3 lol...
+0: sorry i thought i typed it was a med size
+1: Do you have a large grey dot?
+0: yes at my bottom as well
+1: yep me as well, take that one
+0: okay

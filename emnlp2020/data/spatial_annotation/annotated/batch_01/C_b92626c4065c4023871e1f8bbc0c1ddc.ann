@@ -1,0 +1,35 @@
+T2	Markable 139 142	two
+T3	Markable 93 109	the rest of mine
+T4	Markable 165 168	one
+T5	Markable 218 231	tiny gray dot
+T6	Markable 275 283	that one
+T7	Markable 3 18	lonely grey dot
+T8	Markable 41 50	tiny gray
+T1	Spatial-Relation 3 9	lonely
+A1	No-Obj T1
+T9	Spatial-Relation 19 36	off the the right
+A2	No-Obj T9
+T11	Modifier 63 71	slightly
+T12	Spatial-Relation 51 62	to the left
+A4	No-Obj T12
+T13	Spatial-Relation 118 134	on the left side
+A3	No-Obj T13
+T14	Spatial-Relation 143 156	on the bottom
+A5	No-Obj T14
+T15	Spatial-Relation 169 184	above 3 o clock
+A6	No-Obj T15
+T16	Spatial-Relation 202 217	right hand side
+A7	No-Obj T16
+R1	Subj Arg1:T16 Arg2:T5	
+T17	Spatial-Relation 232 247	above 3 o clock
+A9	No-Obj T17
+T18	Modifier 248 256	slightly
+R2	Mod Arg1:T18 Arg2:T17	
+A8	Canonical-Undefined T12
+T19	Spatial-Relation 63 87	slightly above 3 o clock
+#2	AnnotatorNotes T15	right;above
+R3	Subj Arg1:T17 Arg2:T5	
+A10	Mod-Subtlty T11
+A11	Mod-Subtlty T18
+#1	AnnotatorNotes T19	right;above
+#3	AnnotatorNotes T17	above;right

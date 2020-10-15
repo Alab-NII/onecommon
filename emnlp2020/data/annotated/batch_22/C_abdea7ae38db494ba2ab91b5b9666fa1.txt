@@ -1,0 +1,3 @@
+0: Hi, do you have a medium black dot with a larger dark dot right next to it on its lower right?
+1: yes the larger one is slightly lighter
+0: Yep! Click the larger one?

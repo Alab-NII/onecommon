@@ -1,0 +1,10 @@
+T1	Markable 70 84	two black ones
+T2	Markable 86 100	lower left one
+T3	Markable 133 144	a light one
+T4	Markable 156 163	the two
+T6	Markable 181 205	that one large black one
+T7	Markable 3 18	large black dot
+T8	Markable 44 54	all others
+R1	Anaphora Arg1:T4 Arg2:T1	
+A1	No-Referent T6
+T5	Markable 229 243	lower left one

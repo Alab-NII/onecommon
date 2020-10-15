@@ -1,0 +1,9 @@
+T1	Markable 78 80	It
+T2	Markable 92 102	a triangle
+T4	Markable 107 111	that
+T5	Markable 140 150	a triangle
+T6	Markable 169 185	the smallest one
+T7	Markable 15 37	a tiny darker gray dot
+T8	Markable 52 54	It
+R1	Anaphora Arg1:T1 Arg2:T8	
+R2	Anaphora Arg1:T4 Arg2:T8	

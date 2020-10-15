@@ -1,0 +1,6 @@
+T1	Markable 63 90	an extremely tiny black dot
+T2	Markable 104 116	the tiny dot
+T3	Markable 254 266	the tiny dot
+T4	Markable 279 282	its
+T5	Markable 170 181	my tiny dot
+R1	Anaphora Arg1:T3 Arg2:T5	

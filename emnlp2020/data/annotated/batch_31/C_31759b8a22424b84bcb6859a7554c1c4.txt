@@ -1,0 +1,4 @@
+1: med size black dot on the left side top
+0: I see a black dot with a grey dot above towards the bottom right.
+1: i see that which one do you want to pick
+0: grey dot

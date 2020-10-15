@@ -1,0 +1,4 @@
+0: I have a small black dot, there is a larger but lighter dot, slightly on left and under it
+1: Lonely dark grey dot and a cluster of 6 dots far to the left of it. Within the cluster is a small black dot with a large, slightly lighter dot lower to the left
+0: yes we are talking about the same, wanna select the black small dot?
+1: yea, let's do it

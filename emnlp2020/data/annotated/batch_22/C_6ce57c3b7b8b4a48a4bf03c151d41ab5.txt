@@ -1,0 +1,8 @@
+0: very large med grey dot?
+1: I don't have that in my view. What about a small really dark grey spot?
+0: yes is it kind of off by itself?
+1: It is just below and to the left of a light grey and medium grey spot.
+0: hmm i think those are cut off for me? do you have a small very light grey dot?
+1: I have 3 small light grey dots. One is to the left and slightly lower than the dark grey spot, the other is well below the dark grey spot.
+0: k click the one well below!
+1: Sounds good!

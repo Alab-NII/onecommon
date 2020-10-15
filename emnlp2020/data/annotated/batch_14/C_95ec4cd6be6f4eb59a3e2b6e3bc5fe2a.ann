@@ -1,0 +1,11 @@
+T1	Markable 37 47	a triangle
+T2	Markable 10 33	three similar size dots
+T3	Markable 55 59	they
+T4	Markable 98 113	The darkest one
+T5	Markable 117 132	the biggest one
+T6	Markable 140 144	they
+T7	Markable 195 206	the darkest
+R1	Predicative Arg1:T1 Arg2:T2	
+R2	Predicative Arg1:T5 Arg2:T4	
+T8	Markable 145 153	the dots
+R3	Anaphora Arg1:T8 Arg2:T6	

@@ -1,0 +1,3 @@
+0: I have only one black dot. There is a much lighter and slightly larger dot above and to the right of it
+1: Lets select that one. The black one
+0: ok

@@ -1,0 +1,4 @@
+0: i see 2 large grey dots beside each other
+1: big medium gray dot with a close lighter smaller dot at it's 7 o'clock
+0: I see that. Is the one at the top (over the lighter dot) the medium gray
+1: yes - clicking on that one

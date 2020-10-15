@@ -1,0 +1,8 @@
+0: tiny dark grey dot? quite isolated?
+1: I have 2 large dots one is bigger on top of circle, one is smaller and on bottom
+0: any large black dot?
+1: yes i do have
+0: with a smaller grey dot to right?
+1: exactly
+0: should we pick the big black dot
+1: yes

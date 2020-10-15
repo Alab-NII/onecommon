@@ -1,0 +1,8 @@
+1: dark grey dot
+0: larger or smaller?
+1: smaller, with two larger, light grey dots to the north east and south east.
+0: Small light gray in NorthWest, Central light grey center with two larger dots south and west
+1: Is that the lightest dot on your screen?
+0: Central is yes. Darkest is very small south east of it.
+1: It seems like the small, lightest grey dot it one that we have in common
+0: Going for it.

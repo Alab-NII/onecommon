@@ -1,0 +1,5 @@
+1: Do you have 2 pale dots one larger than the other close together?
+0: Yes, is the smaller one down and to the right?
+1: Yes! mine are the same.
+0: Great! Shall we pick the larger one?
+1: Sure!

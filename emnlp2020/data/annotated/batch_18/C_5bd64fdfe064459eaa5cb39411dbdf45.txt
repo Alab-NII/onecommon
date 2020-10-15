@@ -1,0 +1,4 @@
+0: I see a large dark dot in the middle Top and to the right of a small dark dot
+1: I see two circles very close together. Both small, but the black one is even smaller (the one on top)
+0: Yes and the bottom one is medium grey Shall we pick the dark one?
+1: Yes lets go with that

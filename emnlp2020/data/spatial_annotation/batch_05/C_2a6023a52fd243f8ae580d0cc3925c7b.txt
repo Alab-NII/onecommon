@@ -1,0 +1,4 @@
+1: I have two very large light gray dots that are kind of in a horizontal line.
+0: i dont see that. do you see a small dark dot to the left and below a lighter, slightly larger dot
+1: Yes. Do you want to click on the small dark one?
+0: yes

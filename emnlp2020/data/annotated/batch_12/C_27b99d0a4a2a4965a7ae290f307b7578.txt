@@ -1,0 +1,4 @@
+1: I have two dark dots very close to each other, almost perfectly vertical. The one on top is larger and ever so slightly to the left.
+0: i have darker shaded dots the larger just above the smaller
+1: Yes, I see that as well. Lets click the one on top.
+0: ok

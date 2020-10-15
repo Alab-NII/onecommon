@@ -1,0 +1,9 @@
+1: not much on the bottom
+0: Big dark dot slightly above and left of other dot
+1: In the center?
+0: It's on the left for me
+1: I mean vertically
+0: Hmm... not really
+1: Are they alone?
+0: yes!
+1: Alright looks good ... hope this guy doesn't reject

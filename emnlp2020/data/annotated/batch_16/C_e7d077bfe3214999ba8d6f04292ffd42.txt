@@ -1,0 +1,5 @@
+1: 3 dots different sizes and shades clustered very closely together?
+0: yes i have that down left of the center
+1: smallest dot black and largest dark grey?
+0: smallest is black, largest is darker gray and medium is light gray
+1: Yes click the black one!

@@ -1,0 +1,5 @@
+1: I have a large big one high and to the right
+0: do you have 4 dots just below the middle and 3 are medium grey and one dark
+1: yes, tightly bunched
+0: should we choose the darkest one
+1: done

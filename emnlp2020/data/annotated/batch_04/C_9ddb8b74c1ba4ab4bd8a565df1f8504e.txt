@@ -1,0 +1,6 @@
+1: I see one medium black dot
+0: I see two medium black dots
+1: mine is upper left quadrant
+0: Mine too, close to the upper center.
+1: shall we give it a try?
+0: I think so:)

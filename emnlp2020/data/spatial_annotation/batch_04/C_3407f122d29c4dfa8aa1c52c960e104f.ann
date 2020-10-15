@@ -1,0 +1,13 @@
+T1	Markable 99 112	both of those
+T2	Markable 117 132	some black dots
+T3	Markable 57 75	a light bigger dot
+T4	Markable 159 176	one dark grey dot
+T5	Markable 201 217	a light grey dot
+T6	Markable 231 235	that
+T7	Markable 252 266	any black dots
+T8	Markable 268 272	They
+T9	Markable 305 331	your smallest lightest dot
+T10	Markable 3 26	Tiny lightest shade dot
+A1	No-Referent T6
+A2	No-Referent T7
+A3	All-Referents T8

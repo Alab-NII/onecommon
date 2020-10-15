@@ -1,0 +1,7 @@
+T1	Markable 78 81	one
+T2	Markable 124 150	a very dark very small dot
+T3	Markable 198 218	one little black dot
+T4	Markable 222 228	itself
+T5	Markable 288 296	that one
+T6	Markable 22 46	a large very dark circle
+R1	Anaphora Arg1:T4 Arg2:T3	

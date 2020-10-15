@@ -1,0 +1,16 @@
+T1	Markable 51 66	large black dot
+T2	Markable 9 26	a small light dot
+T3	Markable 107 111	that
+T4	Markable 135 142	the one
+T5	Markable 161 186	The small, light gray dot
+T6	Modifier 27 32	right
+T7	Spatial-Relation 33 46	in the center
+A1	No-Obj T7
+T8	Spatial-Relation 67 78	on the edge
+A2	No-Obj T8
+T9	Spatial-Relation 79 96	in the lower left
+A3	No-Obj T9
+T10	Spatial-Relation 143 156	in the center
+A4	No-Obj T10
+A5	Mod-Certainty-Exactness T6
+#1	AnnotatorNotes T8	outside

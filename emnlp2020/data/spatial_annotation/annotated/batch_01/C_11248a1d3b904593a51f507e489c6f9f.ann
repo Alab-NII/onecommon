@@ -1,0 +1,19 @@
+T3	Markable 10 35	a cluster of 3 small dots
+T4	Markable 125 138	a smaller dot
+T5	Markable 58 69	A black one
+T6	Markable 83 106	a larger light gray dot
+T7	Markable 169 182	the black one
+T2	Spatial-Relation 12 19	cluster
+A1	No-Obj T2
+T1	Spatial-Relation 41 56	form a triangle
+A2	No-Obj T1
+T8	Spatial-Relation 70 81	on the left
+R1	Obj Arg1:T8 Arg2:T3	
+T9	Spatial-Relation 85 91	larger
+R2	Obj Arg1:T9 Arg2:T3	
+T10	Spatial-Relation 107 120	on the bottom
+R3	Obj Arg1:T10 Arg2:T3	
+T11	Spatial-Relation 127 134	smaller
+R4	Obj Arg1:T11 Arg2:T3	
+T12	Spatial-Relation 139 151	to the right
+R5	Obj Arg1:T12 Arg2:T3	

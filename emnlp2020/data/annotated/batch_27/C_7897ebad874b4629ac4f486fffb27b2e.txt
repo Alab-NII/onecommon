@@ -1,0 +1,5 @@
+1: Small light grey dot far away from all others
+0: my lone dot isn't the smallest, and it isn't the lightest
+1: Ok
+0: my darkest dot is small to medium size, it is below and between two lighter and larger dots
+1: I have that. lets select the darkest dot below the larger lighter dots

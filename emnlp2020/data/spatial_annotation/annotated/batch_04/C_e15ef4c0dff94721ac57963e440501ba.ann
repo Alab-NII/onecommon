@@ -1,0 +1,45 @@
+T1	Markable 22 29	top one
+T3	Markable 98 116	a cluster of three
+T4	Markable 83 87	that
+T7	Markable 225 237	one of those
+T8	Markable 261 272	two of them
+T11	Markable 307 321	the small ones
+T12	Markable 333 349	the med grey one
+T13	Markable 3 21	two med sized dots
+A1	No-Referent T4
+T5	Markable 131 134	one
+T14	Markable 159 162	one
+T15	Markable 179 182	one
+A2	No-Referent T7
+T6	Spatial-Relation 22 25	top
+R1	Obj Arg1:T6 Arg2:T13	
+T2	Modifier 30 34	very
+T9	Spatial-Attribute 35 39	dark
+T16	Modifier 40 46	almost
+T17	Spatial-Relation 47 65	on a vertical line
+A3	No-Obj T17
+R3	Obj Arg1:T17 Arg2:T13	
+T18	Spatial-Relation 100 107	cluster
+A4	No-Obj T18
+T19	Spatial-Relation 117 130	at the bottom
+A5	No-Obj T19
+T20	Spatial-Attribute 135 146	medium size
+T21	Spatial-Attribute 147 157	light gray
+T22	Spatial-Attribute 163 168	small
+T23	Spatial-Attribute 169 177	med gray
+T24	Spatial-Attribute 183 188	small
+T25	Modifier 189 197	slightly
+T26	Spatial-Relation 198 209	darker gray
+R4	Obj Arg1:T26 Arg2:T3	
+T10	Modifier 273 279	almost
+T27	Spatial-Relation 280 298	on a vertical line
+A6	No-Obj T27
+T28	Spatial-Relation 350 356	on top
+R2	Obj Arg1:T28 Arg2:T8	
+T29	Modifier 135 141	medium
+A7	Mod-Neutral T29
+T30	Modifier 169 172	med
+A8	Mod-Neutral T30
+T31	Spatial-Relation 241 255	cut off for me
+A9	No-Obj T31
+A10	Canonical-Undefined T31

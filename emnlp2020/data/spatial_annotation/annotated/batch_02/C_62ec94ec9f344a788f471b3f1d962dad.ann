@@ -1,0 +1,48 @@
+T1	Markable 3 37	cluster of 3 large light grey dots
+T2	Markable 79 83	that
+T3	Markable 69 72	two
+T4	Markable 51 63	cluster of 4
+T5	Markable 223 240	a small dark grey
+T6	Markable 143 151	a darker
+T7	Markable 266 279	the first one
+T8	Markable 283 295	your cluster
+R1	Anaphora Arg1:T2 Arg2:T4	
+T9	Markable 114 123	4 cluster
+T10	Markable 166 194	a lighter smaller light grey
+T11	Spatial-Relation-Markable 200 213	bigger darker
+T12	Spatial-Relation-Markable 313 320	darkest
+T13	Spatial-Relation 3 10	cluster
+A1	No-Obj T13
+T14	Spatial-Relation 51 58	cluster
+A2	No-Obj T14
+T15	Spatial-Relation 73 78	below
+T16	Spatial-Relation 116 123	cluster
+A3	No-Obj T16
+T17	Spatial-Relation 124 142	start on left with
+T18	Spatial-Relation 152 165	then to right
+T19	Spatial-Relation 195 199	then
+T20	Spatial-Relation 218 222	last
+T21	Spatial-Relation 280 282	in
+T22	Spatial-Relation 288 295	cluster
+A5	No-Obj T22
+T23	Spatial-Relation 296 303	on left
+R5	Subj Arg1:T23 Arg2:T7	
+R6	Obj Arg1:T23 Arg2:T8	
+R7	Obj Arg1:T12 Arg2:T4	
+R2	Subj Arg1:T17 Arg2:T6	
+R3	Obj Arg1:T17 Arg2:T9	
+T24	Spatial-Relation 145 151	darker
+R4	Obj Arg1:T24 Arg2:T9	
+R8	Subj Arg1:T18 Arg2:T10	
+R9	Obj Arg1:T18 Arg2:T6	
+T25	Spatial-Relation 168 183	lighter smaller
+R10	Obj Arg1:T25 Arg2:T9	
+A4	Ambiguous-Obj T25
+R11	Obj Arg1:T11 Arg2:T9	
+A8	Ambiguous-Obj T11
+R12	Subj Arg1:T19 Arg2:T11	
+R13	Obj Arg1:T19 Arg2:T10	
+#1	AnnotatorNotes T19	right
+R14	Subj Arg1:T20 Arg2:T5	
+#2	AnnotatorNotes T20	right
+R15	Obj Arg1:T20 Arg2:T9	

@@ -1,0 +1,3 @@
+0: i have a very large dark dot
+1: I have a small dark dot
+0: lets do that small dark one

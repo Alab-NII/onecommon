@@ -1,0 +1,19 @@
+T1	Markable 14 36	the darkest medium dot
+T2	Markable 70 73	one
+T3	Markable 95 104	the other
+T4	Markable 84 90	itself
+T5	Markable 109 130	a small dark gray dot
+T6	Markable 144 163	two small gray dots
+T7	Markable 137 139	it
+T8	Markable 170 172	it
+T9	Markable 219 246	two largest medium gray dot
+T10	Markable 252 277	a small lightest gray dot
+T11	Markable 286 288	it
+T12	Markable 342 346	them
+T13	Markable 310 333	the small lightest gray
+T14	Markable 48 63	two dark medium
+R1	Anaphora Arg1:T4 Arg2:T2	
+R2	Anaphora Arg1:T7 Arg2:T3	
+R3	Anaphora Arg1:T8 Arg2:T3	
+T15	Markable 183 206	only one darkest medium
+R4	Anaphora Arg1:T11 Arg2:T9	

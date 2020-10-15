@@ -1,0 +1,5 @@
+0: to large grey dots same size and shade on diagonal
+1: I see 2 same color size dots. They are almost beside each other in slanted way
+0: right pick the lower dot
+1: Wait, i have two of those. is the one on the lower on the right or left?
+0: pick the lower dot to the left

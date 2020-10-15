@@ -1,0 +1,24 @@
+T1	Markable 41 68	a same sized light gray one
+T2	Markable 9 35	one medium sized black dot
+T3	Markable 75 77	it
+T4	Markable 87 91	five
+T5	Markable 206 236	one large lonely dark gray dot
+T6	Markable 330 340	each other
+T7	Markable 246 253	a light
+T8	Markable 371 384	the black one
+T9	Markable 350 369	only two small ones
+T10	Markable 401 409	the rest
+T11	Markable 453 463	each other
+T12	Markable 414 439	large two light gray ones
+T13	Markable 483 497	two small ones
+T14	Markable 551 554	one
+T15	Markable 618 637	the small light one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T16	Markable 102 109	a cross
+R2	Predicative Arg1:T16 Arg2:T4	
+T17	Markable 116 126	small gray
+T18	Markable 157 161	what
+A1	No-Referent T18
+T19	Markable 191 198	a cross
+A2	No-Referent T19
+T20	Markable 559 563	Mine

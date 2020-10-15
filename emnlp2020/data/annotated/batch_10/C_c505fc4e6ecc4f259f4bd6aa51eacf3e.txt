@@ -1,0 +1,7 @@
+0: Two dots in the middle. The one on the right is darker and smaller than the other
+1: I see a big dark grey dot
+0: Haha gotta let me know where and what it's next to
+1: i dont have any dots in the middle. the big grey dot is the biggest and has a darker one close to it.
+0: Ok is this your first one? So this is setup to where the dots stay the same but are circles are different. So the locations of the dots will be different for both of us. Also if you can't tell only one of us can talk at a time. So the two dots that are right next to each other. Is the darker one a little bit smaller and to the right?
+1: this isn't my first one. its a tad smaller and on the right side, but almost right next to it.
+0: Ok select the smaller darker dot

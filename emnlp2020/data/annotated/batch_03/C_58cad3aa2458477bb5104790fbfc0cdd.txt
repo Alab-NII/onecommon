@@ -1,0 +1,11 @@
+0: Three dots of varying sizes and colors to the left?
+1: Do you see a small medium grey dot off by itself
+1: Yes!
+0: Is it black?
+1: Not the one I asked about. I see the three you were talking about two are the same size, one is a bit smaller.
+0: Yes, dark gray, light gray then medium
+1: Yes.
+0: Is the middle one light gray?
+1: It is!
+0: Shall we try it?
+1: Let's do it!

@@ -1,0 +1,4 @@
+1: I have two larger medium grey dots right next to each other. The bottom left one is darker shade, they're about the same size
+0: dots large dots very close together?
+1: Yes, I see two big dots close to each other. The one on the right is higher and lighter. You see them?
+0: Yes click the higher lighter one

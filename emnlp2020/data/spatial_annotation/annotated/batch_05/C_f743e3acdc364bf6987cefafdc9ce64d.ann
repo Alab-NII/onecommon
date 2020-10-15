@@ -1,0 +1,25 @@
+T1	Markable 41 52	4 small one
+T2	Markable 9 36	3 very dark grey large dots
+T3	Markable 129 131	it
+T4	Markable 194 196	it
+T5	Markable 200 216	a small grey dot
+T6	Markable 226 249	the smaller dot lighter
+T7	Markable 284 299	the smaller dot
+T8	Markable 83 101	the only large dot
+T9	Markable 141 143	it
+R1	Anaphora Arg1:T4 Arg2:T9	
+T11	Spatial-Attribute 62 79	light-medium grey
+T12	Spatial-Attribute 112 117	black
+T14	Spatial-Relation 147 176	on the left side of my circle
+A3	No-Obj T14
+T15	Spatial-Relation 178 193	to the right of
+R2	Subj Arg1:T15 Arg2:T5	
+T16	Spatial-Relation 230 237	smaller
+T17	Spatial-Relation 242 249	lighter
+R3	Obj Arg1:T16 Arg2:T3	
+R4	Obj Arg1:T17 Arg2:T3	
+T18	Spatial-Relation 288 295	smaller
+R5	Obj Arg1:T18 Arg2:T3	
+T19	Modifier 62 74	light-medium
+A4	Mod-Neutral T19
+#1	AnnotatorNotes T14	left

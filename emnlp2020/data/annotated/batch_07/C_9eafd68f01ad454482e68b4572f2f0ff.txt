@@ -1,0 +1,4 @@
+0: i see shades of gray circles
+1: Do you see the grouping of four dots, two sloping up and to the left on both pairs?
+0: yup
+1: Pick the left most one of the four which is also the darkest

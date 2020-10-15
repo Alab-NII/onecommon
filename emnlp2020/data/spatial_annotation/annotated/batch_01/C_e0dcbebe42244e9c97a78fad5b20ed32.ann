@@ -1,0 +1,18 @@
+T2	Markable 63 76	2 bottom dots
+T3	Markable 88 91	one
+T4	Markable 3 9	3 dots
+T5	Markable 116 123	the top
+T6	Modifier 10 19	very very
+T7	Spatial-Relation 20 34	close together
+A1	No-Obj T7
+T1	Spatial-Relation 35 53	forming a triangle
+A2	No-Obj T1
+T8	Spatial-Relation 65 71	bottom
+T9	Spatial-Attribute 81 86	large
+T10	Spatial-Relation 92 98	on top
+R1	Obj Arg1:T10 Arg2:T2	
+T11	Spatial-Relation 102 109	smaller
+R2	Obj Arg1:T11 Arg2:T2	
+T12	Spatial-Relation 120 123	top
+R3	Obj Arg1:T12 Arg2:T2	
+A3	Mod-Extremity T6

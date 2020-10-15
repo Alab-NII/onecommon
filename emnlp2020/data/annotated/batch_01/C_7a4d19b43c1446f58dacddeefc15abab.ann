@@ -1,0 +1,8 @@
+T1	Markable 15 21	3 dots
+T2	Markable 92 95	one
+T3	Markable 22 25	all
+R1	Anaphora Arg1:T3 Arg2:T1	
+T4	Markable 45 48	med
+T5	Markable 49 54	small
+T6	Markable 55 58	med
+T7	Markable 69 83	the same thing

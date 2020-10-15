@@ -1,0 +1,5 @@
+1: I have very light small dot, with a black the same size dot on the right side of it
+0: 3 forming a triangle, lightes grey at point
+1: yes i see them, the one on the right is the darkest, the one on the left is med color
+0: yes click the light at the point??
+1: sure

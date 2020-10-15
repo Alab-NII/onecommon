@@ -1,0 +1,5 @@
+0: there are 2 smaller dark grey dots very close to each other
+1: I don't see that. I have a very small grey dot with a medium sized one to the right diagonally
+0: dark gray and the medium one is diagonally to the right upper side?
+1: yes. and the one to the right is slightly bigger
+0: ok let's pick the small one

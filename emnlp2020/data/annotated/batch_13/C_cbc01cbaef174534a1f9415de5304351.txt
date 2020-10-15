@@ -1,0 +1,4 @@
+0: Do you have a small dot that is lighter than all the others?
+1: Not really, no. I do have a very dark one at the top of my circle
+0: Is there a smaller, lighter one below it to the left?
+1: There is! Pick the smaller/lighter one

@@ -1,0 +1,6 @@
+1: have a tiny black and below it is a bit bigger black one
+0: Hi, I have a large medium gray dot with another smaller dot of the same color below it and to the lefT?
+0: I see a tiny black dot, is the bigger one below it to the south west?
+1: yes
+0: Ok. Click the tiny black one?
+1: sounds good

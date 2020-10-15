@@ -1,0 +1,9 @@
+0: Do you have a Large Dark Grey Dot?
+1: i see two large dots, one light grey and one medium grey, horizontal from each other
+0: Wow Yes! I have that to
+1: above them is a light small grey dot?
+0: Yes it is Smaller than the others. Below I have a small darker dot as well. do you?
+1: yeah
+0: Do you have a black dot at the top of our circle?
+1: lets pick the light grey larger dot thats next to the medium grey dot
+0: That sounds good.

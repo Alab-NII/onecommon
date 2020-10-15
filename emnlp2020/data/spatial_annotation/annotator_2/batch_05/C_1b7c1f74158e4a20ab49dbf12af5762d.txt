@@ -1,0 +1,4 @@
+0: Do you see two medium gray dots that are across from each other
+1: how far across, and horizontally? right in line? i have a med/grey smaller one that is an inch to the left of a slightly larger black one. and below them i have two of same size, about 3 or more inches away, directly in line... the right one is slightly lighter
+0: Yes I have the one that is an inch to the left of a bigger dot both darker in color
+1: ok let's choose the slightly larger, slightly darker right one?

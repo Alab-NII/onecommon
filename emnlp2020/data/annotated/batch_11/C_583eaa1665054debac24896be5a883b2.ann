@@ -1,0 +1,10 @@
+T1	Markable 30 40	The larger
+T2	Markable 9 28	a pair of dark dots
+T3	Markable 64 77	the small one
+T4	Markable 166 174	left one
+T5	Markable 92 110	a horizontal group
+T6	Markable 225 245	the left largest one
+T7	Markable 133 143	each other
+R1	Anaphora Arg1:T7 Arg2:T5	
+T8	Markable 184 193	right one
+T9	Markable 254 275	that larger black dot

@@ -1,0 +1,7 @@
+1: Can you see three mid gray dots making a triangle
+0: Is the dot farthest to the right the largest?
+1: The largest is at the left
+0: Hmm No. Do you see a very light grey dot with a small dark grey dot up and to its right?
+1: I have only one light gray dot
+0: I only have one light as well. If its med sized click it!
+1: Is it of medium size

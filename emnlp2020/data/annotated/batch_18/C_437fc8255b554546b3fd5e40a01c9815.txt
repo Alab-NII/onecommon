@@ -1,0 +1,3 @@
+0: I have 2 medium size dark dots close together.
+1: Let us select the darker one below
+0: That's the one I selected.

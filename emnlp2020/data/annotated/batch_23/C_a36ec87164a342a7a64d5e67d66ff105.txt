@@ -1,0 +1,4 @@
+0: 4 dark dots. top one the largest?
+1: Yes, I have that too. Should we choose that large one at the top?
+0: yes! :)
+1: Ok!

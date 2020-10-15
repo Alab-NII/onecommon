@@ -1,0 +1,8 @@
+T2	Markable 15 34	a cluster of 4 dots
+T3	Markable 40 43	one
+T4	Markable 76 84	a square
+T5	Markable 135 159	a medium sized black one
+T6	Markable 102 118	a light grey one
+T7	Markable 167 174	the one
+T8	Markable 217 225	tiny dot
+R1	Anaphora Arg1:T4 Arg2:T2	

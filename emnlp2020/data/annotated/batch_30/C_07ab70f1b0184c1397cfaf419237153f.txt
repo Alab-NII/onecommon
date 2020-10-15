@@ -1,0 +1,3 @@
+0: two dots very close together on diagonal line? lower one black?
+1: medium black dot with a dark grey dot above it to the left?
+0: yes! click the black one

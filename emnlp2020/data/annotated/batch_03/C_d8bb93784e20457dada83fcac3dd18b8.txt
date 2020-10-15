@@ -1,0 +1,7 @@
+1: hello
+1: hello
+1: you have one dark circle in the middle
+0: I have three circles in a line diagonally lower left to upper right
+1: do you have one dark circle in bot middle
+0: i have a darker circle towards the middle.
+1: light gray circle slightly bigger then all other circles

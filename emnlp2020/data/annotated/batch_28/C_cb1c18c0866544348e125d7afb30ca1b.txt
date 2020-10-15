@@ -1,0 +1,6 @@
+1: I have two larger light gray dots vertical from each other...they are kind of far apart
+0: Does the one below also have a dark smaller one to the right below
+1: I don't have that but it may cut off on my screen... off to the far right of the bottom one there is a small darker gray dot
+0: Forget that. do you have two black dot and same size beside each other
+1: yup the right has a lighter colored dot of equal size under it
+0: yes select the right black one

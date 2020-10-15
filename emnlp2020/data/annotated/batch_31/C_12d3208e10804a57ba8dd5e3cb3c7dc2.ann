@@ -1,0 +1,20 @@
+T1	Markable 123 136	both of those
+T2	Markable 99 116	a large black dot
+T3	Markable 179 191	the same one
+T4	Markable 200 222	a dark large black dot
+T5	Markable 241 251	a triangle
+T6	Markable 227 229	it
+T8	Markable 257 261	that
+T9	Markable 286 298	the triangle
+T10	Markable 317 336	the large black dot
+T11	Markable 385 404	two light gray dots
+T12	Markable 409 420	1 black dot
+T13	Markable 464 479	the large black
+T14	Markable 3 22	large dark gray dot
+T15	Markable 28 48	tiny medium gray dot
+A1	No-Referent T3
+R1	Anaphora Arg1:T6 Arg2:T4	
+R2	Anaphora Arg1:T8 Arg2:T4	
+T7	Markable 360 364	mine
+T16	Markable 371 374	its
+T17	Markable 435 449	the same thing

@@ -1,0 +1,5 @@
+1: I see three dots in a row, the smallest is dark
+0: Lonely gray dot large bottom left lonely light gray dot bottom right
+1: Does your lonely gray dot have two darker dots a bit off from it?
+0: I have a lonely light gray dot at the middle top with two small farm gray dots to the left, should I click the bottom small dark gray
+1: Yeah lets give that a try

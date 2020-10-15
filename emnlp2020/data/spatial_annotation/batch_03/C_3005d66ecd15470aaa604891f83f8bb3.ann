@@ -1,0 +1,9 @@
+T1	Markable 10 13	two
+T2	Markable 35 42	The one
+T3	Markable 96 103	The one
+T5	Markable 221 224	its
+T6	Markable 183 194	a light one
+T7	Markable 200 217	a larger dark one
+T8	Markable 256 274	the dark small one
+T9	Markable 155 160	their
+R1	Anaphora Arg1:T5 Arg2:T6	

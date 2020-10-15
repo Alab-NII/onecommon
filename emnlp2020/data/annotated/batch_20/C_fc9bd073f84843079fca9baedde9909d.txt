@@ -1,0 +1,7 @@
+0: i see a large grey dot that looks like it is about to jump out of the right side.
+1: I have two clusters. Top: three dots with a small dot to the left, a darker one below and to the right, then a lighter one above that and to the right. Then, bottom right, three lighter smaller dots, and one large grey one.
+0: of the ones on the bottom right, which is closest to the center?
+1: Well, our centers will be different. However, it is diagonally nearly centered between the larger dark one and the next largest one
+0: so on your bottom right cluster, the large circle is dark grey.
+1: Yes.
+0: i think i see it then

@@ -1,0 +1,7 @@
+1: I have a triangle of dots in which the top of the triangle is a larger darker dot, the left corner is the lightest and slightly smaller dot and the right and lowest point on the dot is a color in between the other two and smallest of the three corners. Do you see that?
+0: I have a cluster of dots with a medium gray dot furthest to the right
+1: I'm not sure if I see what you're talking about
+0: Does the triangle slope down and to the right?
+1: yes. the longest side is the right side of it between the darkest and second darkest dots
+0: Yes! should we pick the top black dot?
+1: yes

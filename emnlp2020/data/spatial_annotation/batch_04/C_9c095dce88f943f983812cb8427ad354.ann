@@ -1,0 +1,8 @@
+T1	Markable 40 51	each other,
+T2	Markable 83 97	very small one
+T3	Markable 143 172	the slightly left smaller one
+T4	Markable 134 141	the two
+T5	Markable 3 20	two med/grey dots
+R1	Anaphora Arg1:T1 Arg2:T5	
+T6	Markable 52 67	lower right one
+T7	Markable 123 130	the top

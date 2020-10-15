@@ -1,0 +1,14 @@
+T1	Markable 72 95	a really light grey dot
+T2	Markable 154 163	the black
+T3	Markable 8 19	1 black dot
+T4	Markable 41 44	its
+T5	Markable 122 135	the same size
+T6	Spatial-Relation 45 66	close to the top edge
+A1	No-Obj T6
+T7	Spatial-Relation 67 71	with
+T8	Spatial-Relation 96 121	lower and to the right of
+T9	Spatial-Relation 126 135	same size
+R1	Subj Arg1:T9 Arg2:T4	
+R2	Subj Arg1:T9 Arg2:T1	
+A2	No-Obj T9
+#1	AnnotatorNotes T6	top; outside

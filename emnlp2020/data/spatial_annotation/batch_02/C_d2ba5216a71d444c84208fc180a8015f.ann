@@ -1,0 +1,13 @@
+T1	Markable 10 26	three black dots
+T2	Markable 30 47	a horizontal line
+T3	Markable 49 63	The middle dot
+T4	Markable 88 101	the outer two
+T5	Markable 146 173	three light smaller circles
+T6	Markable 192 206	your dark dots
+T7	Markable 260 275	The largest dot
+T8	Markable 296 316	the two smaller ones
+T9	Markable 327 341	the larger dot
+R1	Predicative Arg1:T2 Arg2:T1	
+T10	Markable 131 141	three dark
+T11	Markable 220 223	The
+#1	AnnotatorNotes T11	They

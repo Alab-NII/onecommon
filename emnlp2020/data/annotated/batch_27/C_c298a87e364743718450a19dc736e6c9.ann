@@ -1,0 +1,9 @@
+T1	Markable 54 65	a black one
+T2	Markable 114 133	a light smaller one
+T7	Markable 288 299	1 black dot
+T8	Markable 333 350	one dark grey dot
+T9	Markable 399 412	the black one
+T10	Markable 3 17	All seven dots
+A1	All-Referents T10
+T11	Markable 137 141	it's
+R1	Anaphora Arg1:T11 Arg2:T1	

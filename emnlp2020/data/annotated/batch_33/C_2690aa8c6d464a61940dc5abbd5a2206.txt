@@ -1,0 +1,5 @@
+0: my largest dot is medium gray
+1: i have two of those dots, is yours by itself or above a tiny dark dot
+0: i have one by itself down
+1: same. wanna try clicking it then?
+0: yes, we pick it

@@ -1,0 +1,6 @@
+0: I have one black dot to the right of my screen, two medium grey dots below it, almost vertical, slanting left going down.
+1: I have two small dots with the top dot being darker than the bottom one and they are vertical
+0: Good, dark one on top has another one almost perfectly below it, about an inch right? Wanna select it?
+1: The darker one or the one below it
+0: The darker one.
+1: alright

@@ -1,0 +1,10 @@
+0: i see a medium grey dot on the border
+1: i see a string of 4 dots of various brightnesses, but increasing size from left to right, near the border. do you have those? they're all in a slightly curved line
+0: i do not,
+1: damn. i have a lone grey dot, light to medium gray, on the right side near my border. maybe we have that in common. is it surrounded by anything?
+0: i have a dot sounding very similar, does it have a smaller lighter dot to the lower left of it? and and even smaller lighter dot beneath it slight to the right?
+1: no, mine isn't surrounded by anything. what else do you have?
+0: i have a very dark large dot about a third of the way in at the upper left, I also have a large dark dot on the left side, kind of near where 9 would be on a clock
+1: i have a very large dark dot, not surrounded by anything . are either of yours surrounded by anything?
+0: i have a large dark dot not surrounded by anything
+1: lets pick that

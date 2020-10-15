@@ -1,0 +1,6 @@
+0: i have a black dot left to a gray slightly bigger dot
+1: Do you have two very small very dark grey dots?
+0: is one of the almost center and the other one to the right>
+1: No your center is not my center. Do they form a face with them being the eyes and a larger also dark dot being the nose?
+0: yes
+1: Pick the nose!

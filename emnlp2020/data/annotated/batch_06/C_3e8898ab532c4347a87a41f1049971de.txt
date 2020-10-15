@@ -1,0 +1,3 @@
+1: I have four clustered together. They are all fairly large. The one on the left is smallest and medium darkness. The top one is darkest and pretty big.
+0: Yes! Want to pick the one that is furthest to the top and darkest?
+1: Yes, lets click that one :)

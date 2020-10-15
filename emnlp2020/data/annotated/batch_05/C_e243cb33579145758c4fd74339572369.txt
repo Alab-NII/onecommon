@@ -1,0 +1,4 @@
+1: Do you see two dots next to each other? One is slight above, larger and darker.
+0: Yes!
+1: Yay! Okay, let's select the larger, darker one.
+0: Okay!

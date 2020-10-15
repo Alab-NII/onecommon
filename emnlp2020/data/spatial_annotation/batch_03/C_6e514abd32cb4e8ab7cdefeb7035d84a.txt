@@ -1,0 +1,5 @@
+0: Do you have a lonely gray dot at the very bottom sitting on the dotted line?
+1: no there is a dark gray dot on the top right on the dotted line
+0: Nope, Do you have one dark gray large dot? It is larger than any other dots?
+1: no there is a large light gray dot
+0: Ok. I have that one. Lets pick it then.

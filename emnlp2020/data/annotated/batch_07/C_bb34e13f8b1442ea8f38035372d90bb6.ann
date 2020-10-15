@@ -1,0 +1,14 @@
+T1	Markable 63 66	one
+T3	Markable 72 76	that
+T4	Markable 39 49	each other
+T5	Markable 135 142	the one
+T6	Markable 88 108	a pair of small dots
+T7	Markable 205 218	the right one
+T9	Markable 123 133	each other
+T10	Markable 233 243	darker one
+T2	Markable 9 20	there pairs
+#1	AnnotatorNotes T2	three pairs
+R1	Anaphora Arg1:T4 Arg2:T2	
+R2	Anaphora Arg1:T3 Arg2:T2	
+R3	Anaphora Arg1:T9 Arg2:T6	
+T8	Markable 286 290	that

@@ -1,0 +1,13 @@
+T1	Markable 96 102	3 dots
+T2	Markable 141 153	the left one
+T3	Markable 106 112	a line
+T4	Markable 194 195	2
+T6	Markable 200 212	the left one
+T7	Markable 247 266	No large black dots
+T9	Markable 289 298	that line
+T10	Markable 359 382	the smaller lighter one
+T11	Markable 401 405	that
+T12	Markable 3 25	one large blackish dot
+T13	Markable 31 49	a small light grey
+R1	Predicative Arg1:T3 Arg2:T1	
+A1	No-Referent T7

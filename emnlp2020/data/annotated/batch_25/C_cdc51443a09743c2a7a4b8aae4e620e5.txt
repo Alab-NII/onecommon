@@ -1,0 +1,3 @@
+1: I have a medium sized black dot with a same sized much lighter gray dot above and to the right of it
+0: is there also a slightly larger med/grey one right below the black one slightly to it's left?
+1: yes. lets pick the black one

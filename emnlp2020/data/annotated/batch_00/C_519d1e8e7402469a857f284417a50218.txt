@@ -1,0 +1,4 @@
+0: Do you have a dark dot in the middle of 3 other dots?
+1: Yes the middle one is the darkest and 2 are same size but light grey and one other is a bit darker than the light grey ones and smaller in size
+0: I see the exact same dots you described. shall we choose the darkest middle one?
+1: ok

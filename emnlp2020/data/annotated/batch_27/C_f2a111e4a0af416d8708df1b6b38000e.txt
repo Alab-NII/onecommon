@@ -1,0 +1,4 @@
+0: very large black dot?
+1: Large black dot with another large slightly lighter dot just a shade lower and to the right
+0: yes! click the black one!
+1: ok

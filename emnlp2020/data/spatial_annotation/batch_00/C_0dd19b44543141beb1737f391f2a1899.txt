@@ -1,0 +1,6 @@
+0: Do you have a large dark dot with a medium sized medium colored dot almost straight above it?
+1: Do you see a large dot aligned vertically with another dot but smaller and lighter?
+0: yes!
+1: ok the lighter or darker one?
+0: darker.
+1: ok

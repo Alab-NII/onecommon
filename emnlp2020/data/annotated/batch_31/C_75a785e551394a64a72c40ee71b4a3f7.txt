@@ -1,0 +1,5 @@
+0: my darkest dot is at the top of a triangle of dots
+1: small dot top left edge - between 10 and 11 oclock
+0: our circles are different, so the edges won't matter. is there a large med gray dot at 5 oclock from the small one?
+1: yes
+0: let's choose the small dot

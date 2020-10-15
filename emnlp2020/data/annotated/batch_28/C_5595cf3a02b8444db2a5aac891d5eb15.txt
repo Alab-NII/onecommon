@@ -1,0 +1,5 @@
+1: Have a bunch of medium sized dots together, they make a letter M, the left bottom one is dark grey
+0: I have a bunch of 5 dots fairly close together, left most one is darkest, right most one is smallest and lightest
+1: sounds like the same as me...do they sort of look like a letter M?
+0: Yes click left dark one
+1: ok

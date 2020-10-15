@@ -1,0 +1,8 @@
+1: You have a black medium at the middle left
+0: Is it near three gray dots in the shape of a diamond
+1: No
+0: Do you see a gray dot by itself
+1: I see a small grey one in the middle
+0: Is it very light
+1: Yes
+0: Let's choose it

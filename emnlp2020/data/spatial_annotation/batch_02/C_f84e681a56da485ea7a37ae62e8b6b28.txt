@@ -1,0 +1,3 @@
+1: Do you have one dot that's darker than all the others?
+0: yes and it is med-size, and at least 2 inches away from other dots
+1: Let's choose that one

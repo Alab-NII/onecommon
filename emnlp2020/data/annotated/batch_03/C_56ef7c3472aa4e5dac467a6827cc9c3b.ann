@@ -1,0 +1,7 @@
+T1	Markable 40 46	itself
+T2	Markable 10 36	one large, medium gray dot
+T4	Markable 102 106	that
+T5	Markable 141 150	the three
+T6	Markable 115 137	the biggest light grey
+R1	Anaphora Arg1:T1 Arg2:T2	
+T7	Markable 50 66	three light grey

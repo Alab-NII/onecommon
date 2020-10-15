@@ -1,0 +1,4 @@
+0: I have a line of 3 dots... black smaller gray black
+1: i kind of do too in the right had side. the first darkest grey dot is medium then small light grey dot then biggest black dot
+0: choose the black one?
+1: okay sounds good

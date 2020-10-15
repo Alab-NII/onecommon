@@ -1,0 +1,4 @@
+1: I have a dot that is smaller than the rest of them
+0: Is it light grey? And is it at the top of a diagonal line where the middle dot is big and light grey?
+1: It is a light grey and yes!
+0: Let's click that one!

@@ -1,0 +1,4 @@
+0: a light grey medium dot below and to the right of a smaller darker dot?
+1: hmmm i might have the smaller dark dot, but not the light one to it's lower right... do you have a larger same-color as the smaller dark dot, that's above it to it's left?
+0: yes, i have those two and above those to the right is another smaller darker dot
+1: ok let's choose the first one you described, the small dark dot?

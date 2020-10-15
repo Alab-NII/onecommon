@@ -1,0 +1,8 @@
+T1	Markable 64 74	a dark dot
+T2	Markable 78 84	itself
+T3	Markable 104 129	a kind of small black dot
+T4	Markable 140 142	it
+T5	Markable 185 198	the black one
+T6	Markable 3 11	two dots
+R1	Anaphora Arg1:T2 Arg2:T1	
+T7	Markable 150 170	a med color grey dot

@@ -1,0 +1,4 @@
+1: I have one large light gray dot
+0: I have a little black dot just up and to the left of another black dot that is a touch larger.
+1: I have that combination as well.
+0: Let's pick the smaller one

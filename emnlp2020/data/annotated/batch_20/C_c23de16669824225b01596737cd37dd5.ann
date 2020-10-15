@@ -1,0 +1,8 @@
+T1	Markable 65 80	a big black one
+T2	Markable 87 95	that one
+T3	Markable 3 9	4 dots
+T4	Markable 26 38	the number 7
+R1	Predicative Arg1:T4 Arg2:T3	
+T5	Markable 47 58	bottom most
+R2	Predicative Arg1:T1 Arg2:T5	
+R3	Anaphora Arg1:T2 Arg2:T5	

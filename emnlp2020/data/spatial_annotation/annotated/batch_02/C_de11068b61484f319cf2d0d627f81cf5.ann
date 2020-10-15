@@ -1,0 +1,5 @@
+T1	Markable 54 56	it
+T3	Markable 65 69	that
+T5	Markable 3 29	large very dark lonely dot
+T2	Spatial-Relation 19 25	lonely
+A1	No-Obj T2

@@ -1,0 +1,9 @@
+T1	Markable 10 26	1 pure black dot
+T2	Markable 28 30	It
+T3	Markable 52 70	almost all my dots
+T4	Markable 82 94	smallest one
+T5	Markable 128 130	it
+T6	Markable 138 144	itself
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T6 Arg2:T5	
+T7	Markable 153 157	it's

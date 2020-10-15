@@ -1,0 +1,8 @@
+1: I see two black dots close to each other and about the same size
+0: large dark to top left
+0: i see same one top left one lower right
+1: I see two large dark about an inch apart not far from two back dots
+0: i see large gray bottom left on circle edge
+1: i see large gray and the two black dots are above and to the right
+0: yes, we pick the large gray
+1: the large gray below black

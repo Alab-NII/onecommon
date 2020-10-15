@@ -1,0 +1,19 @@
+T1	Markable 38 44	itself
+T2	Markable 133 148	a line of three
+T4	Markable 150 162	The smallest
+T5	Markable 182 195	The other two
+T6	Markable 222 226	They
+T8	Markable 296 308	one of those
+T9	Markable 327 342	one medium gray
+T10	Markable 347 363	one lighter gray
+T11	Markable 388 403	the lighter one
+T13	Markable 10 26	a large grey dot
+R1	Anaphora Arg1:T1 Arg2:T13	
+T14	Markable 48 66	No large gray dots
+A1	No-Referent T14
+T15	Markable 70 80	themselves
+R2	Anaphora Arg1:T15 Arg2:T14	
+T16	Markable 101 116	any small grays
+R3	Anaphora Arg1:T6 Arg2:T5	
+T3	Markable 262 263	2
+A2	Generic T8

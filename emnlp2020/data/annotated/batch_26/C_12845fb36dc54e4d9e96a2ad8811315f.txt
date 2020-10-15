@@ -1,0 +1,12 @@
+1: I got a really large mid grey one.
+0: i have one too. its alone on my bottom left side. is yours next to anything?
+1: Nope
+0: sorry mine is light gray. do you have any small dots? i have a tiny almost black one
+1: This one is light grey.
+0: do you have any that are medium size mid-grey?
+1: yeah two of them
+0: ok me too. are they close to anything?
+1: Yeah they are close to other dots
+0: i have a pair, pretty close together, one is almost black, the other is mid
+1: Ok go for that pair. go for the black one.
+0: gotcha

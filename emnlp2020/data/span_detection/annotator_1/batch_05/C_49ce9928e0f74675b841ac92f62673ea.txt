@@ -1,0 +1,7 @@
+0: This Hit is like a blast from the past
+1: three medium grey dots making a triangle?
+0: Yes, they are a little dark, a medium grey to the left and down
+1: yes, want to click the one above to the right?
+0: yes, nothing above it?
+1: yes
+0: alright

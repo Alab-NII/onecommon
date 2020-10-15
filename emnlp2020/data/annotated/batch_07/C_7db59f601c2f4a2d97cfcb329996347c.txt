@@ -1,0 +1,5 @@
+0: i have a cluster of three dots, two very dark and one light
+1: I see two very dark dots that are similar in shade and pretty close together
+0: i think those are the ones, smaller one on the left?
+1: Yes with the a small light grey to the top? If so let's pick the light grey one
+0: light grey one it is

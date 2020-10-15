@@ -1,0 +1,5 @@
+1: do you have a large light gray dots?
+0: yes
+1: with a dot above and below it?
+0: yes smaller and different shades
+1: choose that light gray dot

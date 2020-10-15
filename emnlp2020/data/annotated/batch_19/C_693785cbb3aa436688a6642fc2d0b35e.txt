@@ -1,0 +1,9 @@
+0: lonely darker gray tiny dot on the right side
+1: How lonely? I have one that is about an inch away from a slightly bigger, slightly lighter dot.
+0: i have nothing around this one at all
+1: Then I don't have it. I have only one light grey dot. It is medium sized and is located below and to the right of a large black dot.
+0: i have one black dot maybe they are the same where is your placement of the black dot
+1: It's near the center of the circle, a little higher.
+0: maybe i'm not sure now on it mine is a bit closer to the top =( okay do you have anything on your left side
+1: I have a medium sized black dot that is horizontally aligned with a light grey dot about 1-2 inches to the right.
+0: hit the black dot we talked about before

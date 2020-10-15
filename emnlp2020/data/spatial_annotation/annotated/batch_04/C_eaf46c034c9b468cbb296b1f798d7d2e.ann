@@ -1,0 +1,24 @@
+T1	Markable 9 14	three
+T2	Markable 38 41	Two
+T3	Markable 82 96	The bottom one
+T4	Markable 128 132	that
+T6	Markable 194 210	the big dark one
+R1	Anaphora Arg1:T4 Arg2:T1	
+T7	Markable 143 155	a Very shape
+T8	Spatial-Relation 15 36	in a triangle pattern
+A1	No-Obj T8
+T9	Spatial-Relation 42 52	on the top
+R3	Obj Arg1:T9 Arg2:T1	
+T10	Spatial-Relation 57 80	similar shades and size
+A2	No-Obj T10
+#1	AnnotatorNotes T10	similar shades and similar size
+T11	Spatial-Relation 86 92	bottom
+R4	Obj Arg1:T11 Arg2:T1	
+T12	Modifier 100 104	much
+T13	Spatial-Relation 105 122	larger and darker
+T14	Spatial-Relation 145 155	Very shape
+A3	No-Obj T14
+T5	Spatial-Attribute 156 167	with 5 dots
+T15	Spatial-Relation 211 224	at the bottom
+R2	Obj Arg1:T15 Arg2:T7	
+A4	Canonical-Undefined T14

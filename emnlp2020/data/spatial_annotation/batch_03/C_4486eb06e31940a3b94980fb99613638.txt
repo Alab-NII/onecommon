@@ -1,0 +1,4 @@
+0: do you have a large black dot, above to the right of it is a small black dot?
+1: Tiniest black dot on bottom
+0: choose the tiny black dot?
+1: Okay

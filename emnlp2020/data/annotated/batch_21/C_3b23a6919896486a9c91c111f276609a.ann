@@ -1,0 +1,8 @@
+T1	Markable 36 43	the one
+T2	Markable 58 70	the triangle
+T4	Markable 74 97	the largest and darkest
+T5	Markable 9 34	a triangle of larger dots
+T6	Markable 115 128	a smaller one
+T7	Markable 182 202	the largest dark one
+R1	Anaphora Arg1:T2 Arg2:T5	
+R2	Predicative Arg1:T4 Arg2:T1	

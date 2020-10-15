@@ -1,0 +1,7 @@
+0: Do you see a dark dot touching the rim of the circle
+1: which side
+0: to the right
+1: yes i have two tho so can you say a little more where it is located at
+0: the little to the left
+1: okay
+0: pick the small dot touching the rim of the circle to the left

@@ -1,0 +1,11 @@
+T1	Markable 37 52	the biggest dot
+T2	Markable 27 30	one
+T3	Markable 91 106	the biggest dot
+T4	Markable 3 21	Four lightest dots
+T5	Spatial-Relation 8 16	lightest
+A1	No-Obj T5
+T7	Spatial-Relation 41 48	biggest
+R1	Obj Arg1:T7 Arg2:T4	
+T8	Spatial-Relation 95 102	biggest
+R2	Obj Arg1:T8 Arg2:T4	
+T9	Spatial-Attribute 107 125	of the light color

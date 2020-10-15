@@ -1,0 +1,3 @@
+0: The smallest dot is black
+1: yes i see that
+0: Let us go for it

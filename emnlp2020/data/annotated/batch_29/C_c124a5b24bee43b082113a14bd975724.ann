@@ -1,0 +1,13 @@
+T1	Markable 19 25	2 dark
+T2	Markable 163 170	the one
+T3	Markable 119 143	same sized dark grey dot
+T4	Markable 113 115	it
+T5	Markable 235 242	the one
+T6	Markable 215 226	my triangle
+T7	Markable 3 4	3
+T8	Markable 26 48	one slightly less dark
+T9	Markable 49 52	all
+R1	Anaphora Arg1:T9 Arg2:T7	
+T10	Markable 69 74	Black
+R2	Anaphora Arg1:T4 Arg2:T10	
+T11	Markable 195 202	those 2

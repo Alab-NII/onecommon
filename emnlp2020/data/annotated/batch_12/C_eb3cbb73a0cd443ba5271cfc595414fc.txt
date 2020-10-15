@@ -1,0 +1,6 @@
+1: Hello. I have 3 dots that make a triangle, and 4 dots that make a backwards L. Do u see either?
+0: I guess i see those 4 dots making the backward L, is the one on the top almost black?
+1: Yes! Click the top one?
+0: yes it is also large
+1: Yes mine too
+0: good, lets select it

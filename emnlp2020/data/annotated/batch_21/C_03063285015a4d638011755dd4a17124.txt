@@ -1,0 +1,3 @@
+0: i have two tiny dots that are same color at an angle
+1: Small grey dot, up and to the right of it is a large grey dot same color, below is a dark dot that is bigger
+0: I think i have that dark dot that is bigger. lower left. Let's choose that

@@ -1,0 +1,10 @@
+T1	Markable 51 61	each other
+T2	Markable 63 72	right one
+T3	Markable 195 202	top one
+T4	Markable 263 267	that
+T5	Markable 285 307	the middle darkest one
+T6	Markable 15 26	2 dark grey
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 112 113	3
+T8	Markable 139 145	bottom
+T9	Markable 160 166	middle

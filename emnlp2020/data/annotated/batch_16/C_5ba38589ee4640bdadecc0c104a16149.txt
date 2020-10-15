@@ -1,0 +1,3 @@
+0: I got a small triangle the left dot is dark black
+1: one small dark big dark and a big grey. if yes let us select the dark black left dot
+0: Select bottom left small dark dot

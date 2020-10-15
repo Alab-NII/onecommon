@@ -1,0 +1,18 @@
+T1	Markable 14 32	a black medium dot
+T2	Markable 38 53	a dark gray dot
+T3	Markable 69 71	it
+T4	Markable 118 134	three large dots
+T5	Markable 143 153	a triangle
+T6	Markable 155 166	Darkest one
+T7	Markable 206 227	your three large dots
+T8	Markable 245 263	a medium black dot
+T9	Markable 277 325	a slightly curved line of three medium grey dots
+T10	Markable 380 397	a medium lightest
+T11	Markable 361 369	the dots
+R1	Anaphora Arg1:T3 Arg2:T1	
+R2	Predicative Arg1:T5 Arg2:T4	
+A1	No-Referent T7
+A2	No-Referent T8
+T12	Markable 401 406	the 3
+T13	Markable 440 452	the lightest
+T14	Markable 484 499	middle lightest

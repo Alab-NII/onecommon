@@ -1,0 +1,12 @@
+T1	Markable 9 44	1 tiny dark grey (almost black) dot
+T2	Markable 52 58	itself
+T3	Markable 75 79	that
+T4	Markable 88 119	a cluster of 2 medium gray dots
+T6	Markable 205 207	it
+T7	Markable 121 146	One large medium gray dot
+T8	Markable 217 219	it
+T9	Markable 227 242	the smaller one
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T3
+T5	Markable 151 179	a much smaller same size dot
+R2	Anaphora Arg1:T6 Arg2:T7	

@@ -1,0 +1,4 @@
+1: Do you have one small light gray dot?
+0: two very large med grey dots on diagonal line?
+1: Correct. Do you want to select the larger dot on the top of the diagonal line?
+0: yes!

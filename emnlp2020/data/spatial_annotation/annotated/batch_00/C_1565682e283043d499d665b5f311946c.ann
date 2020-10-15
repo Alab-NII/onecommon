@@ -1,0 +1,24 @@
+T1	Markable 38 54	two smaller ones
+T2	Markable 61 63	it
+T3	Markable 15 32	a large black dot
+T5	Markable 100 102	it
+T6	Markable 161 168	the one
+T7	Markable 227 240	the large one
+R1	Anaphora Arg1:T2 Arg2:T3	
+T4	Markable 127 138	the darkest
+T8	Markable 143 156	the large one
+T9	Markable 192 202	both black
+T10	Spatial-Relation 55 60	below
+T11	Spatial-Relation 103 114	the largest
+T12	Spatial-Relation 119 126	amongst
+T14	Spatial-Relation 169 187	to the lower right
+T15	Spatial-Relation 33 37	with
+A3	No-Obj T11
+R2	Obj Arg1:T14 Arg2:T8	
+T16	Spatial-Relation 42 49	smaller
+T17	Spatial-Relation 131 138	darkest
+A2	No-Obj T17
+T13	Spatial-Relation 65 86	on the right and left
+A1	Canonical-Undefined T13
+R3	Subj Arg1:T13 Arg2:T1	
+R4	Obj Arg1:T13 Arg2:T2	

@@ -1,0 +1,4 @@
+1: Can you see a triangle, bottom middle dot is darkest?
+0: i think so. i see in my cluster three dots. top dot is medium grey. the one to the bottom is dark grey and the one on the right is the lightest. the dark grey dot is in the bottom middle of the triangle.
+1: Lets go for the bottom darkest one
+0: all right

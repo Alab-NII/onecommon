@@ -1,0 +1,5 @@
+1: do you see a very small grey dot down & to the right of a small black dot
+0: I have a large black dot with another smaller, black dot up and to its right. They're pretty close
+1: is there a medium grey dot above them? & do you see two light dots, one medium & one larger (up & to the right of the medium dot)
+0: Nope. But I see what you originally described. Lets click the very small dark grey dot you described ok?
+1: ok

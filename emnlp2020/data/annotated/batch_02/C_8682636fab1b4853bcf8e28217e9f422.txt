@@ -1,0 +1,3 @@
+0: Hi I have only one full black medium large dot. Do you?
+1: yes, one larger and lighter to the right and below. you?
+0: Correct ! lets choose the only black dot!

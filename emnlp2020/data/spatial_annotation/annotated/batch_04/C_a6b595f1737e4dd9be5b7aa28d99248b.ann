@@ -1,0 +1,42 @@
+T2	Markable 9 28	a cluster of 4 dots
+T3	Markable 53 72	two lighter smaller
+T4	Markable 30 44	A big dark one
+T5	Markable 91 103	a darker one
+T6	Markable 155 168	the black dot
+T7	Markable 174 193	smaller lighter dot
+T8	Markable 309 322	the black dot
+T1	Markable 117 130	ONE BLACK DOT
+T9	Markable 218 221	Its
+T10	Markable 272 275	its
+T11	Spatial-Relation 11 18	cluster
+A1	No-Obj T11
+T12	Spatial-Relation 45 51	on top
+R1	Obj Arg1:T12 Arg2:T2	
+T13	Spatial-Relation 57 72	lighter smaller
+R2	Obj Arg1:T13 Arg2:T2	
+T14	Spatial-Relation 73 86	in the middle
+R3	Obj Arg1:T14 Arg2:T2	
+T15	Spatial-Relation 93 99	darker
+R4	Obj Arg1:T15 Arg2:T2	
+T16	Spatial-Relation 104 113	on bottom
+R5	Obj Arg1:T16 Arg2:T2	
+T17	Spatial-Relation 134 146	ON 3 O CLOCK
+A2	No-Obj T17
+T18	Spatial-Relation 169 173	have
+T19	Spatial-Relation 174 189	smaller lighter
+R6	Obj Arg1:T19 Arg2:T6	
+T20	Spatial-Relation 194 206	to the right
+R7	Obj Arg1:T20 Arg2:T6	
+T21	Modifier 222 228	almost
+T22	Spatial-Relation 229 239	horizontal
+A3	No-Obj T22
+T23	Modifier 245 253	a little
+T24	Spatial-Relation 254 260	higher
+R8	Obj Arg1:T22 Arg2:T6	
+R9	Obj Arg1:T24 Arg2:T6	
+T25	Modifier 276 280	like
+T26	Spatial-Relation 281 290	3'o clock
+A4	No-Obj T26
+#1	AnnotatorNotes T17	right
+#2	AnnotatorNotes T26	right
+A5	Mod-Uncertainty-Approximation T25

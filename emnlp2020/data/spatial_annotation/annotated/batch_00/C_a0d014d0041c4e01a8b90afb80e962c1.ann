@@ -1,0 +1,35 @@
+T1	Markable 13 29	1 pure black dot
+T2	Markable 40 43	one
+T3	Markable 55 80	two small light gray dots
+T4	Markable 140 158	a large light grey
+T5	Markable 106 124	a small light grey
+T6	Markable 176 178	it
+T7	Markable 270 279	the other
+T8	Markable 206 219	two gray dots
+T9	Markable 241 254	the upper one
+T10	Markable 291 295	that
+T11	Markable 297 301	They
+T12	Markable 84 87	its
+R1	Anaphora Arg1:T12 Arg2:T2	
+T13	Markable 128 131	its
+T14	Markable 162 165	its
+T15	Spatial-Relation-Markable 361 368	lighter
+T16	Spatial-Relation 88 92	left
+R2	Subj Arg1:T16 Arg2:T3	
+R3	Obj Arg1:T16 Arg2:T12	
+T17	Spatial-Relation 132 134	SW
+R4	Subj Arg1:T17 Arg2:T5	
+R5	Obj Arg1:T17 Arg2:T13	
+T18	Spatial-Relation 166 168	NW
+R6	Subj Arg1:T18 Arg2:T4	
+R7	Obj Arg1:T18 Arg2:T14	
+T19	Modifier 220 225	about
+T20	Spatial-Relation 226 239	the same size
+A1	No-Obj T20
+T21	Spatial-Relation 245 250	upper
+T22	Spatial-Relation 258 269	darker than
+T23	Spatial-Relation 306 321	diagonal in a \
+A2	No-Obj T23
+R8	Obj Arg1:T15 Arg2:T11	
+#1	AnnotatorNotes T17	south west
+#2	AnnotatorNotes T18	north west

@@ -1,0 +1,7 @@
+1: I see a very light grey dot in the bottom left of the only circle
+0: hi there is a cluster triangle to the left where the circle is darker and larger than top two. And I don't see that one
+1: I don't see that. At the very top of the circle is a darker, slightly large dot
+0: don't see that either, how about another three dots off center right that has one on top and two on bottom to make a triangle
+1: Is one of those circles a dark grey? I have a dark grey one on the right side. Like if you split it into four even quadrants It'd be on a center line to the right.
+0: yes medium size dark right?
+1: yes I'm going to click it

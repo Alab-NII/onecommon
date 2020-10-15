@@ -1,0 +1,4 @@
+1: small medium next to smaller light
+0: Big lightest shade dot. Directly below is a small black dot
+1: choose big light dot
+0: Got it

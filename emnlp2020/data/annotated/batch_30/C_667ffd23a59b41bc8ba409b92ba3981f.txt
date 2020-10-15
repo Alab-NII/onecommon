@@ -1,0 +1,4 @@
+0: I have a line of three dark dots angling to the right
+1: Huge black dot, to the left are two smaller dots, the one above and to the left is a small dark dot
+0: I have a huge black dot, but it's at the far left of my circle. I think it might be yours, but I can't see any dots that are to the left of it.
+1: That's it, cause I see yours. But to be sure let's click the black dot that has a small grey dot left of it. The ones you spoke of

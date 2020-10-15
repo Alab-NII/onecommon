@@ -1,0 +1,4 @@
+1: 3 in a line small large small? small ones are light and middle large is dark?
+0: no I got a triangle in the bottom left corner tho, left black, right dark grey top small light grey
+1: Try the left black? your triangle lines up perfectly with mine
+0: gotcha

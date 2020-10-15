@@ -1,0 +1,7 @@
+T1	Markable 10 34	a medium/large black dot
+T2	Markable 40 70	2 smaller lighter colored dots
+T3	Markable 89 91	it
+T4	Markable 98 112	the lowest one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T5	Markable 151 159	that one
+R2	Anaphora Arg1:T5 Arg2:T4	

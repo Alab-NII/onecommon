@@ -1,0 +1,3 @@
+0: do you see a tiny dark one with 2 big grey ones at its bottom?
+1: yes, let's choose that tiny dark dot
+0: ok

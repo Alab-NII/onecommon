@@ -1,0 +1,20 @@
+T1	Markable 32 44	a larger one
+T2	Markable 135 149	the larger one
+T3	Markable 91 95	they
+T4	Markable 3 17	my highest dot
+T5	Spatial-Relation 6 13	highest
+A1	No-Obj T5
+T6	Spatial-Attribute 21 26	light
+T7	Spatial-Relation 27 31	with
+T8	Spatial-Relation 34 40	larger
+R1	Obj Arg1:T8 Arg2:T4	
+T9	Spatial-Relation 45 62	of the same color
+R2	Obj Arg1:T9 Arg2:T4	
+T10	Spatial-Relation 63 79	down to the left
+R3	Obj Arg1:T10 Arg2:T4	
+T11	Modifier 99 113	almost exactly
+T12	Spatial-Relation 114 128	the same shade
+A2	No-Obj T12
+T13	Spatial-Relation 139 145	larger
+R4	Obj Arg1:T13 Arg2:T3	
+A3	Mod-Certainty-Exactness T11

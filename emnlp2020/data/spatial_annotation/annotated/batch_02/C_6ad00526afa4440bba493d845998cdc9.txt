@@ -1,0 +1,4 @@
+0: well my circles are a huge cluster@#$%, but I have an extremely large extremely light grey circle
+1: is the large light one above a cluster of 4 dark ones, with the right one darkest/largest of them?
+0: yes, select the grey one
+1: the light one?

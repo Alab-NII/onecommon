@@ -1,0 +1,6 @@
+0: I have a Y shape...
+1: there is a cluster of dots but one is kind of by itself. It's to the right and above them all. It's the biggest and the darkest
+0: I don't have that... do u have a lone one at the bottom
+1: none. in the Y shape dots cluster do you have two big gray dots really close to each other? the one on top is a little darker
+0: Yes...
+1: let's go with the bottom one, the lighter

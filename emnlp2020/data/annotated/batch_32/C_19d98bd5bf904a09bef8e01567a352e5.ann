@@ -1,0 +1,8 @@
+T1	Markable 9 24	2 vertical dots
+T2	Markable 109 124	the smaller one
+T3	Markable 157 170	the lower one
+T4	Markable 76 90	the bottom one
+T5	Markable 195 208	the same ones
+T6	Markable 223 237	the bottom one
+T7	Markable 26 29	one
+R1	Anaphora Arg1:T3 Arg2:T4	

@@ -1,0 +1,5 @@
+1: i have a black dot with a smaller one below it to the left that is light grey.
+0: i think so. below the light dot is a smaller dot that is slightly darker?
+1: i also see that
+0: lets go with the original black dot
+1: ok

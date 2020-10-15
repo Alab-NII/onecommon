@@ -1,0 +1,7 @@
+T1	Markable 50 53	one
+T3	Markable 78 96	a dark smaller dot
+T4	Markable 70 72	it
+T5	Markable 100 102	it
+T6	Markable 3 18	The largest dot
+R2	Anaphora Arg1:T5 Arg2:T4	
+T2	Markable 126 139	the big light

@@ -1,0 +1,3 @@
+0: I have a tiny dark grey dot with a larger light grey dot to its right and a little higher
+1: Is there a larger, medium grey dot located to the right and a little higher than the light grey dot?
+0: Yep! Lets choose the small dark grey. Sounds Good!

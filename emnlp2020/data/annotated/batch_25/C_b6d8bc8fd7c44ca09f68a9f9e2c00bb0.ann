@@ -1,0 +1,9 @@
+T2	Markable 140 144	them
+T3	Markable 171 177	itself
+T4	Markable 208 228	the rest of the dots
+T6	Markable 188 190	it
+T7	Markable 15 18	any
+T8	Markable 76 124	two almost identical looking large med grey dots
+A1	No-Referent T2
+T1	Markable 155 167	a solo black
+R1	Anaphora Arg1:T3 Arg2:T1	

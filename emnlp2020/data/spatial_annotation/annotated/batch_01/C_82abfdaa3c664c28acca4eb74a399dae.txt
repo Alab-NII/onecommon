@@ -1,0 +1,6 @@
+1: Do you have one very small medium grey dot?
+0: Yes is there a large light one to its left?
+1: If there is, it would be outside of my picture range. Is there anything to it's right?
+0: large dark grey up to the right diagonal
+1: That would also be out of the range of my picture, as it's at the top of my circle. Still, I believe that we have that dot in common. We should select that one
+0: is there one above it almost identical in size

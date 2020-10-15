@@ -1,0 +1,4 @@
+1: I have 1 tiny black dot near a medium black dot that is down and to the right of it.
+0: yes, on the right side?
+1: yes
+0: ok let's choose the tiny black one

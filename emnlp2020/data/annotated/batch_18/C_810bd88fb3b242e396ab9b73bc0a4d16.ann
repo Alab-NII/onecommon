@@ -1,0 +1,11 @@
+T1	Markable 26 36	a triangle
+T2	Markable 9 22	a close group
+T3	Markable 57 67	a tiny one
+T4	Markable 38 55	A larger dark one
+T5	Markable 121 128	a group
+T6	Markable 145 166	a very close triangle
+T7	Markable 254 265	the largest
+R1	Predicative Arg1:T1 Arg2:T2	
+T8	Markable 87 109	one medium and lighter
+R2	Predicative Arg1:T6 Arg2:T5	
+T9	Markable 187 190	One

@@ -1,0 +1,10 @@
+T1	Markable 102 106	that
+T2	Markable 216 219	One
+T3	Markable 234 237	one
+T4	Markable 267 282	the lighter one
+T5	Markable 10 15	a dot
+A1	No-Referent T1
+T6	Markable 110 126	2 darker circles
+T7	Markable 142 152	themselves
+R1	Anaphora Arg1:T7 Arg2:T6	
+T8	Markable 168 188	two vertical circles

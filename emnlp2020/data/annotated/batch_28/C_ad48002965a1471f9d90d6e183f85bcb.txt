@@ -1,0 +1,4 @@
+0: Medium black dot with a smaller dark grey one close to it, to its upper left.
+1: is there a nearby very light med sized dot up to the right?
+0: yes!
+1: k click that very light one!

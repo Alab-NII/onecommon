@@ -1,0 +1,11 @@
+T1	Markable 48 54	itself
+T2	Markable 108 114	a line
+T3	Markable 76 82	4 dots
+T5	Markable 156 170	three of those
+T6	Markable 175 188	the first one
+T7	Markable 206 208	it
+T8	Markable 217 220	its
+T9	Markable 247 255	that one
+T10	Markable 3 25	a large light grey dot
+R1	Anaphora Arg1:T1 Arg2:T10	
+R2	Predicative Arg1:T2 Arg2:T3	

@@ -1,0 +1,6 @@
+1: I have one pale gray dot that is large and lighter than all the rest
+0: is it off to the right of the rest of the dots by itself?
+1: Yes. I guess I shouldn't say large because all of mine are the same size. Below it and to the right slightly is a darker dot
+0: hmm what is above it to the left?
+1: A black dot the same size
+0: k yes lets pick that light lonely one

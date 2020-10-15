@@ -1,0 +1,11 @@
+T1	Markable 9 42	a trio of three decent sized dots
+T2	Markable 100 130	an extremely light colored dot
+T3	Markable 254 279	small lighter colored one
+T4	Markable 214 237	a dark medium sized dot
+T5	Markable 338 350	the dark one
+T6	Markable 61 73	this shape /
+R1	Predicative Arg1:T6 Arg2:T1	
+T7	Markable 88 92	that
+A1	No-Referent T7
+T8	Markable 171 174	any
+A2	No-Referent T8

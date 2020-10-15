@@ -1,0 +1,10 @@
+0: Do you have a small dark dot?
+1: I have one. It forms a little triangle with two medium sized, medium grey dots.
+0: Yes! and the small one is the top?
+1: No...the small one is the bottom left for me.
+0: are the two medium sized the same shade?
+1: Yes
+0: Do you have 3 dots that are linear?
+1: I have two sets of three dots that are linear.
+0: Okay, the dot that connects with both sets... is it medium sized and grey?
+1: Yes, let's click that one.

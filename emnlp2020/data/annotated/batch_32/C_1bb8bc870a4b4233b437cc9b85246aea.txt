@@ -1,0 +1,4 @@
+1: Two tiny dots are close and the left one is lighter
+0: i might have that. i also see a line of four in the center. two light two dark.
+1: let us select the left light one
+0: ok.

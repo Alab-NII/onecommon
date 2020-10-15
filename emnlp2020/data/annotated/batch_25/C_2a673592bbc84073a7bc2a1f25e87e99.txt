@@ -1,0 +1,4 @@
+0: I have just 1 pure black dot. It is medium large in size
+1: Is there a same sized but lighter dot far to the left and slightly above it?
+0: yes
+1: ok. Let's pick the black one

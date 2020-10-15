@@ -1,0 +1,3 @@
+1: i have a very small light grey dot surrounded by 4 other dots
+0: Two dots very similar in size and medium grey that form the eyes with a nose being a tiny light grey dot?
+1: yes, i know what you have, pick the nose!

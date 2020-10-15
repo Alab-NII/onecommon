@@ -1,0 +1,6 @@
+0: i have one large dark circle top right at 2 o clock
+1: I see a large black dot with a smaller gray dot down and to the left
+0: i have a black dot to the left small, is yours black as well or just gray
+1: Is the large black dot the only large dot on the page
+0: yes
+1: Let's pick that dot

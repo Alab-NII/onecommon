@@ -1,0 +1,12 @@
+T1	Markable 44 47	one
+T2	Markable 110 119	something
+T3	Markable 172 176	that
+T4	Markable 152 166	any other dots
+T5	Markable 256 268	the left one
+T6	Markable 225 229	that
+T7	Markable 199 218	two light gray dots
+T8	Markable 294 298	that
+T9	Markable 312 329	the big light one
+T10	Markable 12 25	two dark dots
+T11	Markable 63 66	one
+R1	Anaphora Arg1:T3 Arg2:T2	

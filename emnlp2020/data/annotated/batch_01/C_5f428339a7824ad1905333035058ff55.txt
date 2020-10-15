@@ -1,0 +1,11 @@
+1: I see a very light gray dot next to a medium dark gray dot
+0: i see a dark and light grey dot near each other, the lighter one is below and to the right of the darker one
+1: The light one is very light?
+0: i see a lighter dot on my screen than it
+1: Is the first set you were talking about closer than the lighter one is to the next one?
+0: umm i think i understand that question, if i do, the answer is yes. lol. they are pretty close to each other, theres a large really dark dot above the pair
+1: Yes. I see that
+0: do u want to pick the large dark one?
+1: The one above the set?
+0: yeah its above and slightly to the right.
+1: ok

@@ -1,0 +1,5 @@
+1: Right in the center of mine I got a mid sized mid grey dot. Above and below it are light grey dots. You got that dot ?
+0: None in the center... I have a medium dark grey one at the too on the dotted lines
+1: Do you have a big mid-grey dot and a black dot next to each other ?
+0: Yes, towards the too, the black dot is below to the right of it
+1: Go for the large mid grey

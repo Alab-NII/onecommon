@@ -1,0 +1,3 @@
+0: 3 clustered in a triangle all medium small one black
+1: yes is the black one the largest and furthest down? if so click that one!
+0: yep

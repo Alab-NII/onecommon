@@ -1,0 +1,9 @@
+T1	Markable 31 37	a line
+T2	Markable 15 27	3 large dots
+T3	Markable 65 79	The middle one
+T4	Markable 94 115	Two medium sized dots
+T5	Markable 176 181	those
+T6	Markable 199 210	the top one
+T7	Markable 241 252	the top one
+R1	Predicative Arg1:T1 Arg2:T2	
+T8	Markable 137 140	Top

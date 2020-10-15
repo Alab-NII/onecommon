@@ -1,0 +1,51 @@
+T1	Markable 14 34	two medium gray dots
+T2	Markable 56 66	each other
+T4	Markable 126 148	a med/grey smaller one
+T5	Markable 180 207	a slightly larger black one
+T6	Markable 219 223	them
+T7	Markable 231 234	two
+T9	Markable 298 311	the right one
+T10	Markable 346 353	the one
+T11	Markable 385 397	a bigger dot
+T12	Markable 438 484	the slightly larger, slightly darker right one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T8	Markable 398 402	both
+T13	Spatial-Relation 44 55	across from
+T14	Spatial-Relation 137 144	smaller
+T15	Spatial-Relation 157 179	an inch to the left of
+T16	Modifier 182 190	slightly
+T17	Spatial-Relation 191 197	larger
+T18	Spatial-Relation 213 218	below
+T19	Spatial-Relation 235 247	of same size
+T3	Spatial-Relation 255 276	3 or more inches away
+T20	Modifier 249 254	about
+T21	Modifier 278 286	directly
+T22	Spatial-Relation 287 294	in line
+T23	Spatial-Relation 302 307	right
+T24	Modifier 315 323	slightly
+T25	Spatial-Relation 324 331	lighter
+T26	Spatial-Relation 362 384	an inch to the left of
+T27	Spatial-Relation 387 393	bigger
+T28	Spatial-Relation 403 418	darker in color
+T29	Modifier 442 450	slightly
+T30	Spatial-Relation 451 457	larger
+T31	Modifier 459 467	slightly
+T32	Spatial-Relation 468 474	darker
+T33	Spatial-Relation 475 480	right
+T34	Spatial-Relation 90 102	horizontally
+T35	Modifier 104 109	right
+T36	Spatial-Relation 110 117	in line
+A1	No-Obj T34
+A2	No-Obj T36
+R2	Obj Arg1:T14 Arg2:T5	
+R3	Obj Arg1:T17 Arg2:T4	
+R4	Subj Arg1:T18 Arg2:T7	
+A3	No-Obj T19
+A4	No-Obj T3
+A5	No-Obj T22
+R5	Obj Arg1:T23 Arg2:T7	
+R6	Obj Arg1:T27 Arg2:T10	
+A6	No-Obj T28
+R7	Obj Arg1:T30 Arg2:T4	
+R8	Obj Arg1:T32 Arg2:T4	
+R9	Obj Arg1:T33 Arg2:T4	

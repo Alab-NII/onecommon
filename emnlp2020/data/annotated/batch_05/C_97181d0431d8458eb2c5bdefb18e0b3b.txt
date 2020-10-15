@@ -1,0 +1,6 @@
+0: I see a lonely small gray dot.
+1: ok, is there another dot same size and color above it, but not close?
+0: Not above it, but there is another dot that is below that one. Bigger too but same color.
+1: do you have a very tiny grey dot, with a small lighter grey down to the right of it
+0: I think I know what you are referring to? Is that dot to the bottom right a bit bigger than it? Still small but bigger than the tiny one?
+1: yes, pick the tiny dot

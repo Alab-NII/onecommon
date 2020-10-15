@@ -1,0 +1,4 @@
+1: I have a very large black dot with a very small med gray dot at 4 Oclock
+0: 2 dark dots
+1: I also see two very small dark dots far away from each other with a large light gray dot between them
+0: lets pick the big dark dot

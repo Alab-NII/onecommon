@@ -1,0 +1,3 @@
+0: I have a diamond of 4 dots. The right corner is large black dot
+1: I see that. Let's click on the large black dot
+0: ok

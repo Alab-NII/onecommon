@@ -1,0 +1,7 @@
+1: I have two black dots close together. They are similar size, and smallish. the one on the right is a little higher
+0: mine is near the edge
+1: Do you see the two black dots?
+0: I se several dots
+1: Ok... can you describe any of them? Do you see a large light gray dot, with a smaller, much darker dot down and to the left?
+0: yes, I see it
+1: Ok, lets click the large lighter dot ok?

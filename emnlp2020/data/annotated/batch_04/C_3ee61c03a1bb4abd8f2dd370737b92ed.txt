@@ -1,0 +1,5 @@
+0: i've got a big black dot slightly off center
+1: There are different color dots of grey
+0: do you have the biggest on that is darker?
+1: there is 2 that is dark close together on top of each other, top one is medium size bottom is large
+0: Hmmm, I don't see that. Do you have a large lighter gray one that is near the edge?

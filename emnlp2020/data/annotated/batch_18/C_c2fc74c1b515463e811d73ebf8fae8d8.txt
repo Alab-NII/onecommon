@@ -1,0 +1,4 @@
+1: I see a big gray Circle with a slightly smaller and lighter one on the left
+0: is the smaller one to the bottom left? about medium shade, rather small?
+1: Yes
+0: select the larger darker dot?

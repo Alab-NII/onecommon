@@ -1,0 +1,22 @@
+T1	Markable 42 71	a smaller very light gray dot
+T2	Markable 10 36	a large very dark gray dot
+T3	Markable 97 99	it
+T4	Markable 198 213	a diagonal line
+T6	Markable 278 292	same color two
+T7	Markable 355 366	two of them
+T9	Markable 372 376	they
+T10	Markable 426 440	the lowest one
+T11	Markable 449 468	a light smaller one
+T12	Markable 442 444	it
+T13	Markable 520 535	the highest one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T14	Markable 103 118	The darkest dot
+T15	Markable 150 194	2 same sized (fairly large) medium gray dots
+R2	Predicative Arg1:T4 Arg2:T15	
+T16	Markable 258 277	three same size dot
+R3	Anaphora Arg1:T9 Arg2:T7	
+T5	Markable 472 475	its
+R4	Anaphora Arg1:T12 Arg2:T10	
+R5	Anaphora Arg1:T5 Arg2:T10	
+T8	Markable 497 507	the lowest
+A1	No-Referent T8

@@ -1,0 +1,4 @@
+0: Hello
+1: I have a tiny medium gray dot towards the bottom left
+0: I have a tiny medium gray dot toward the bottom, only slightly left
+1: me too, choose it?

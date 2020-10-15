@@ -1,0 +1,7 @@
+0: The tiniest dot i have is the blackest
+1: I don't see that one. I see 3 dots in a line. The left is the biggest.
+0: Is the biggest also the darkest. and is it having a small dot above it
+1: No There's nothing above it
+0: Is is same size with the one to the right
+1: There is a darker dot to the left.
+0: Let us select the darker one

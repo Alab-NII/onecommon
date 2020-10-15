@@ -1,0 +1,17 @@
+T1	Markable 54 56	it
+T2	Markable 94 96	it
+T3	Markable 103 122	a cluster of 3 dots
+T4	Markable 166 184	the large gray one
+T5	Markable 191 193	it
+T6	Markable 249 251	it
+T7	Markable 305 314	those two
+T8	Markable 333 343	each other
+T9	Markable 411 435	the large light grey one
+T10	Markable 3 22	one small dark grey
+T11	Markable 28 38	a med grey
+R1	Anaphora Arg1:T1 Arg2:T10	
+T12	Markable 61 78	a larger med grey
+T13	Markable 257 275	another light grey
+T14	Markable 276 286	a med grey
+R2	Anaphora Arg1:T8 Arg2:T7	
+T15	Markable 352 355	one

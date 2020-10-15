@@ -1,0 +1,5 @@
+1: Big black dot bottom right not dots under
+0: Dark medium at top, right to it smaller lighter dot
+0: Dark grey?
+1: I c it click on the big medium gray
+0: Ok

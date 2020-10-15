@@ -1,0 +1,7 @@
+0: do you see a large gray circle with a smaller darker one above it to the right?
+1: no, i don't see that... do you see a dark dot with a lighter dot below it and to the right?
+0: yes but the one below to the right is a little far away, right? And a lighter gray?
+1: yes and is the light dot a little smaller than the dark dot?
+0: yes I see that! I see both the large dark and the smaller gray below to the right.
+1: should we choose the smaller gray one?
+0: yes lets pick the smaller gray

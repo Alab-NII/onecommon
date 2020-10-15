@@ -1,0 +1,6 @@
+1: Massive black, under and left of it is a small dark dot
+0: hmm are they kind of below the rest of the dots?
+1: Wrong. Just click your smallest grey light dot
+0: if the smallest one far off by itself to the right? it doesnt count if we just guess
+1: I know where your circle is, it is no guess and yes that is the one
+0: k

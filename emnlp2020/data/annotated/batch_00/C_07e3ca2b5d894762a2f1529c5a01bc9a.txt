@@ -1,0 +1,4 @@
+0: Smallest dark next to med light grey?
+1: I see a small dark dot with a larger grey one to it's right.
+0: Pick smallest
+1: Got it!

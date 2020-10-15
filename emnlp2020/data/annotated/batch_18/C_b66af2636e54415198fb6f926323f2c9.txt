@@ -1,0 +1,2 @@
+1: I see a tiny darker grey dot in between two larger lighter grey dots
+0: i see it as well. shall we click the small darker circle?

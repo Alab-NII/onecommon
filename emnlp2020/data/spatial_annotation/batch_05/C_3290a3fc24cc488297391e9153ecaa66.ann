@@ -1,0 +1,14 @@
+T1	Markable 24 34	each other
+T2	Markable 53 66	a smaller one
+T3	Markable 36 47	A large one
+T5	Markable 134 143	the other
+T7	Markable 145 156	the top one
+T8	Markable 176 181	yours
+T9	Markable 189 200	the lighter
+T10	Markable 3 15	2 black dots
+R1	Anaphora Arg1:T1 Arg2:T10	
+T11	Markable 70 73	its
+R2	Anaphora Arg1:T11 Arg2:T3	
+T6	Markable 123 126	one
+T4	Markable 89 122	a close set of similar sized dots
+T12	Markable 204 209	the 2

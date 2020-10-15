@@ -1,0 +1,11 @@
+T1	Markable 46 52	itself
+T2	Markable 78 100	almost a vertical line
+T5	Markable 211 216	those
+T6	Markable 231 247	the smallest dot
+T7	Markable 265 273	the line
+T8	Markable 9 38	a medium size, light gray dot
+R1	Anaphora Arg1:T1 Arg2:T8	
+T9	Markable 57 67	three dots
+R2	Predicative Arg1:T2 Arg2:T9	
+T3	Markable 106 113	the top
+T4	Markable 158 168	the bottom

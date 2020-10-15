@@ -1,0 +1,12 @@
+T1	Markable 105 117	a small grey
+T2	Markable 69 75	a line
+T3	Markable 144 164	a smaller light grey
+T4	Markable 179 188	the black
+T5	Markable 3 18	medium dark dot
+T6	Markable 19 34	large dark grey
+T7	Markable 60 64	Four
+T8	None 65 68	I'm
+#1	AnnotatorNotes T8	in
+R1	Predicative Arg1:T2 Arg2:T7	
+T9	Markable 77 82	black
+T10	Markable 119 137	larger darker grey

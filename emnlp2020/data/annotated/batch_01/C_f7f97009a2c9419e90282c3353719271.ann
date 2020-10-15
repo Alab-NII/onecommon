@@ -1,0 +1,14 @@
+T1	Markable 10 29	one large black dot
+T2	Markable 86 89	its
+T3	Markable 43 57	my darkest one
+T4	Markable 102 104	it
+T5	Markable 152 165	the black one
+T6	Markable 170 196	two smaller dark grey ones
+T7	Markable 225 237	the triangle
+T8	Markable 336 343	the one
+T9	Markable 318 320	it
+T10	Markable 397 401	that
+T11	Markable 418 437	the large black one
+R1	Anaphora Arg1:T2 Arg2:T3	
+T12	Markable 110 128	a triangular shape
+T13	Markable 271 286	the bottom dots

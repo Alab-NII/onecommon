@@ -1,0 +1,11 @@
+T1	Markable 10 28	one small black do
+T2	Markable 39 57	one very large dot
+T3	Markable 92 108	three black dots
+T4	Markable 146 151	those
+T5	Markable 206 219	two gray dots
+T6	Markable 220 223	one
+T7	Markable 260 275	the smaller one
+#1	AnnotatorNotes T1	one small black dot
+A1	No-Referent T4
+T8	Markable 162 178	a large grey dot
+T9	Markable 284 288	both

@@ -1,0 +1,4 @@
+0: i see two dark gray dots at the bottom
+1: I have a medium light gray on its own
+0: i have a medium light gray on its own on the right and under two smaller and darker gray dots
+1: I think those match

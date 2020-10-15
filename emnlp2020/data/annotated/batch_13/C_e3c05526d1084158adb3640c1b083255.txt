@@ -1,0 +1,4 @@
+1: lone black dot
+0: Is there a light gray dot off to the right of it in the distance?
+1: for me its against the right wall but it might have something to the right for you
+0: Ok. Let's try picking the black dot.

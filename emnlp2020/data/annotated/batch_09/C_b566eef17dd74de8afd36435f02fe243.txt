@@ -1,0 +1,2 @@
+1: I have two dots of the same size the top one is darker than the bottom one
+0: Ok. Let's click the darker dot at the top

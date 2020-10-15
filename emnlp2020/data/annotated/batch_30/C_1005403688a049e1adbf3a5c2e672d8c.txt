@@ -1,0 +1,5 @@
+0: i have 2 dots that are nearly beside each other. right dot is large darker grey dot. left is small small light grey dot
+1: I don't think I have it. I have a couple light grey dots with darker ones to their right(s)
+0: dont have that. do you have 3 dots that form a triangle. they are in a cluster . bottom right dot is black and large
+1: Upper left is lighter than that others?
+0: yes it is. pick that dark black large one

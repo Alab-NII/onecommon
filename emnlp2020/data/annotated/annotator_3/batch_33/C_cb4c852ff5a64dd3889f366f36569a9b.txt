@@ -1,0 +1,5 @@
+0: l shape in the center?
+1: is your smallest dot grey?
+0: my smallest is the 2nd from the top in the shape of the l
+1: yes i have the I shape with small grey in the middle. we select the grey in the middle
+0: okay

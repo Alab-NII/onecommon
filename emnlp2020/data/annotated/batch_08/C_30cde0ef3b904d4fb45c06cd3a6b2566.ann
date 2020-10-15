@@ -1,0 +1,9 @@
+T1	Markable 47 69	a larger dark grey dot
+T2	Markable 10 31	a small dark grey dot
+T3	Markable 98 119	another dark grey dot
+T4	Markable 86 92	a line
+T5	Markable 76 80	they
+T6	Markable 129 141	the smallest
+T7	Markable 162 171	that line
+T8	Markable 185 197	the smallest
+R1	Predicative Arg1:T4 Arg2:T5	

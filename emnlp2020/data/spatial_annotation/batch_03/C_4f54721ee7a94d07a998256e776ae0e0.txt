@@ -1,0 +1,5 @@
+1: I have a lonely black dot at the bottom
+0: larger dot same shade above and slightly to the right?
+1: no I have a group of 3 larger dots. 2 are darker and one is slight lighter and above them
+0: i have those, pick the lighter one?
+1: yes

@@ -1,0 +1,16 @@
+T1	Markable 14 31	a small black dot
+T2	Markable 37 68	a slightly larger dark grey dot
+T3	Markable 85 87	it
+T4	Markable 107 109	it
+T5	Markable 232 234	it
+T6	Markable 250 270	the top lightest one
+T7	Markable 292 300	your two
+T8	Markable 332 349	the top light one
+T9	Markable 353 364	my triangle
+R1	Anaphora Arg1:T3 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T1	
+T10	Markable 113 125	cluster of 3
+T11	Markable 127 130	top
+T12	Markable 144 155	lower right
+T13	Markable 179 189	lower left
+T14	Markable 304 309	their

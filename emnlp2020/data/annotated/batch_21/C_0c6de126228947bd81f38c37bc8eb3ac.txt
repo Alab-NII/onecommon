@@ -1,0 +1,6 @@
+1: I have a cluster of 2 same sized (medium) dots. One is very dark gray with a lighter medium gray dot above and to the left of it
+0: towards the bottom left I have a medium light grey one by itself, towards the bottom right I have a large medium dark one with a medium lighter grey above it
+1: Our views are different. Are the two dots you talked about last the same size?
+0: yes... darker one is on bottom and the lighter grey is to the top left of it
+1: Yes! Let's pick the darker one on the bottom
+0: ok

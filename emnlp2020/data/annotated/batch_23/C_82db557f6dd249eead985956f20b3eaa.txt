@@ -1,0 +1,5 @@
+1: lone dark dot
+0: I don't have that . I have a tiny black dot, below it and to the right is a bigger light gray dot
+1: I dont think i have that. two dark dots with a slightly smaller one slightly up an right
+0: No, I have 2 identical light gray medium sized dots
+1: ok choose the top one

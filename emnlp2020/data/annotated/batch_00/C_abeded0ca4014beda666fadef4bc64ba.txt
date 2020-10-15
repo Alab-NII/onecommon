@@ -1,0 +1,4 @@
+0: I three dots in a triangle shape near the center, with each point of the triangle a different color
+1: I have that as well, the two bottom are larger and lighter than the one on top
+0: Yes, that is what I have. Let's pick the smallest one that is also darkest
+1: alright

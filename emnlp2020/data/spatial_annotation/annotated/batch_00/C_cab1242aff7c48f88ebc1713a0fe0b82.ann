@@ -1,0 +1,10 @@
+T1	Markable 33 62	a very light gray smaller dot
+T2	Markable 78 80	it
+T3	Markable 10 27	a large black dot
+T4	Markable 94 96	it
+T5	Markable 105 124	the large black dot
+R1	Anaphora Arg1:T2 Arg2:T3	
+T6	Spatial-Relation 28 32	with
+T7	Spatial-Relation 51 58	smaller
+T8	Spatial-Relation 72 77	above
+T9	Modifier 63 71	directly

@@ -1,0 +1,23 @@
+T1	Markable 10 24	two black dots
+T2	Markable 50 62	the left one
+T3	Markable 86 98	the left one
+T4	Markable 119 132	the right one
+T5	Markable 180 200	the larger black one
+T6	Markable 39 49	each other
+R1	Anaphora Arg1:T6 Arg2:T1	
+T7	Spatial-Relation 25 38	right next to
+T8	Spatial-Relation 54 58	left
+T9	Spatial-Relation 69 75	larger
+T10	Spatial-Relation 90 94	left
+T11	Modifier 99 108	obviously
+T12	Spatial-Attribute 109 114	black
+T13	Spatial-Relation 123 128	right
+T14	Spatial-Attribute 133 144	a dark grey
+T15	Spatial-Relation 184 190	larger
+R2	Obj Arg1:T8 Arg2:T1	
+R3	Obj Arg1:T9 Arg2:T1	
+R4	Obj Arg1:T10 Arg2:T4	
+R5	Obj Arg1:T13 Arg2:T3	
+R6	Obj Arg1:T15 Arg2:T4	
+#1	AnnotatorNotes T7	near
+A1	Mod-Extremity T11

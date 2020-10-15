@@ -1,0 +1,11 @@
+T1	Markable 92 115	a small medium grey dot
+T2	Markable 130 149	the large light one
+T3	Markable 3 28	very large light grey dot
+T4	Markable 33 55	a large light grey dot
+T5	Modifier 57 65	slightly
+T6	Spatial-Relation 66 71	below
+T7	Spatial-Relation 76 88	to the right
+R1	Subj Arg1:T6 Arg2:T1	
+R2	Subj Arg1:T7 Arg2:T1	
+R3	Obj Arg1:T6 Arg2:T4	
+R4	Obj Arg1:T7 Arg2:T4	

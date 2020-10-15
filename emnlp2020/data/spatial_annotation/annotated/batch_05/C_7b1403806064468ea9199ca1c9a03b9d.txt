@@ -1,0 +1,5 @@
+1: I have a large, dark gray dot.
+0: I see three dots. They make a triangle. The two on the bottom are small, equal size, light gray. The top is much larger, and dark gray.
+1: I don't see this.
+0: I see a dark gray dot. To the left, kind of close but not really, is a smaller darker dot.
+1: I see the gray dot with the smaller darker dot near it. let's choose that one.

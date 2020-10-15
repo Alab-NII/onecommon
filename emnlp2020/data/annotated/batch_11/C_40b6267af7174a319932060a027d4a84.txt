@@ -1,0 +1,6 @@
+0: Hello, I have one dot larger and darker than the rest
+1: my largest dot is dark gray and almost in the center
+0: Mine is by 5 o clock, it's next to a medium lighter gray dot
+1: i have none around 5 oclock. i have a small light grey about 8 o clock
+0: I also have the small light gray, should we try it?
+1: ok

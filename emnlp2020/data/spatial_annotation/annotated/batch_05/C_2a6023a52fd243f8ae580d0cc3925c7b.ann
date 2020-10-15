@@ -1,0 +1,16 @@
+T2	Markable 10 40	two very large light gray dots
+T3	Markable 94 98	that
+T4	Markable 150 180	a lighter, slightly larger dot
+T5	Markable 111 127	a small dark dot
+T6	Markable 213 231	the small dark one
+A1	No-Referent T3
+T1	Modifier 50 57	kind of
+T7	Spatial-Relation 58 78	in a horizontal line
+T8	Spatial-Relation 128 149	to the left and below
+T9	Spatial-Relation 152 159	lighter
+T10	Modifier 161 169	slightly
+T11	Spatial-Relation 170 176	larger
+A2	No-Obj T7
+R1	Obj Arg1:T9 Arg2:T5	
+R2	Obj Arg1:T11 Arg2:T5	
+A3	Mod-Uncertainty-Approximation T1

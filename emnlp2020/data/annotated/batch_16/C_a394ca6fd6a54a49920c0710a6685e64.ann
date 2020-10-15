@@ -1,0 +1,8 @@
+T1	Markable 61 74	a smaller dot
+T2	Markable 57 59	it
+T3	Markable 93 110	2 small gray dots
+T4	Markable 139 143	them
+T5	Markable 149 153	they
+T6	Markable 3 13	large gray
+R1	Anaphora Arg1:T5 Arg2:T4	
+T7	Markable 195 209	the right most

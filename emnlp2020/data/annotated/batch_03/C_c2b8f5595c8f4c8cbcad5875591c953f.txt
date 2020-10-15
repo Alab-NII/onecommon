@@ -1,0 +1,7 @@
+1: I have a cluster of dots almost in a triangle 2 large dark and one large medium dark
+0: dark medium dot on 6 oclock and below two larger dots one light gray and the other gray very close to 6 o'clock
+1: yes I think I have that same cluster. Which should we select?
+0: do you a have a medium gray a little past 6 oclock very near the bottom
+1: I have a medium grey and a lighter grey just above and to the right? My oclocks would be skewed somewhat but the patterns would be the same
+0: are they the same size
+1: yes same size. Lets click on the bottom of the darker one?

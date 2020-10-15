@@ -1,0 +1,5 @@
+0: 2 large dots next to each other. one darker than the other
+1: I have a pair of medium dots close together
+0: do you also see a light gray above them and/or a smaller black to the right of them?
+1: Yes. lets choose the right darker one in the pair
+0: ok

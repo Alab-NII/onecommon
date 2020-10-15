@@ -1,0 +1,7 @@
+T1	Markable 3 15	6 of my dots
+T2	Markable 76 106	a larger almost same color one
+T3	Markable 51 69	a smaller gray dot
+T4	Markable 146 164	a lighter gray dot
+T5	Markable 207 222	the smaller one
+T6	Markable 21 39	almost a rectangle
+R1	Predicative Arg1:T6 Arg2:T1	

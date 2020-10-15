@@ -1,0 +1,18 @@
+T1	Markable 9 25	a two black dots
+T2	Markable 121 133	2 black dots
+T3	Markable 197 208	a black dot
+T4	Markable 157 170	two gray dots
+T5	Markable 285 295	the others
+T6	Markable 253 264	a black one
+T7	Markable 342 372	a medium sized medium gray dot
+T8	Markable 297 299	It
+T9	Markable 418 420	it
+T10	Markable 575 608	a single medium colored small dot
+T11	Markable 539 541	It
+T12	Markable 654 664	the others
+T14	Markable 620 633	the black dot
+T15	Markable 708 710	it
+A1	No-Referent T2
+T16	Markable 229 243	all the others
+T17	Markable 376 380	That
+R1	Anaphora Arg1:T15 Arg2:T14	

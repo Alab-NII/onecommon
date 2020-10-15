@@ -1,0 +1,58 @@
+T1	Markable 62 71	two black
+T2	Markable 76 80	they
+T3	Markable 113 133	two medium gray dots
+T4	Markable 145 161	those small dots
+T5	Markable 204 224	a dark grey tiny dot
+T6	Markable 172 199	my left most tiny black dot
+T7	Markable 247 249	it
+T8	Markable 339 341	it
+T9	Markable 304 321	a light gray dots
+T10	Markable 277 298	any of your tiny dots
+T11	Markable 365 375	those dots
+T12	Markable 351 358	nothing
+T13	Markable 474 483	the point
+T15	Markable 406 416	a triangle
+T16	Markable 442 455	the 'top" two
+T17	Markable 502 506	they
+T18	Markable 537 539	it
+T19	Markable 547 560	the light one
+T20	Markable 3 14	three black
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T7 Arg2:T6	
+R3	Anaphora Arg1:T8 Arg2:T10	
+A1	No-Referent T12
+T14	Spatial-Relation 15 46	ascending in size left to right
+A2	No-Obj T14
+T21	Modifier 89 93	very
+T22	Spatial-Attribute 94 99	small
+T23	Spatial-Relation 134 144	in between
+T24	Spatial-Relation 175 184	left most
+R4	Obj Arg1:T24 Arg2:T1	
+T25	Spatial-Relation 200 203	has
+T26	Modifier 225 240	almost directly
+T27	Spatial-Relation 241 246	above
+T28	Spatial-Relation 250 263	an inch or so
+T29	Spatial-Relation 299 303	have
+T30	Spatial-Relation 322 338	vertically below
+T31	Spatial-Relation 359 364	below
+T32	Spatial-Relation 417 430	pointing down
+A3	No-Obj T32
+T33	Spatial-Attribute 431 440	of 3 dots
+T34	Spatial-Relation 446 451	'top"
+R6	Obj Arg1:T34 Arg2:T15	
+T35	Spatial-Attribute 460 469	dark grey
+T36	Spatial-Relation 484 489	below
+R7	Obj Arg1:T36 Arg2:T16	
+T37	Spatial-Relation 493 500	lighter
+R8	Obj Arg1:T37 Arg2:T16	
+T38	Modifier 510 515	about
+T39	Spatial-Relation 516 529	the same size
+A4	No-Obj T39
+A5	Canonical-Undefined T14
+R5	Split Arg1:T28 Arg2:T27	
+A7	Mod-Certainty-Exactness T26
+A6	Canonical-Undefined T32
+T40	Spatial-Relation 478 483	point
+A8	Canonical-Undefined T40
+R9	Obj Arg1:T40 Arg2:T15	
+A9	Mod-Uncertainty-Approximation T38

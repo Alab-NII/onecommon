@@ -1,0 +1,5 @@
+1: Do you see a lighter gray dot towards the edge of the circle
+0: I have a large black dot that sits diagonally to a light grey, small dot. the large black dot sits at the bottom right end of the diagonal line. I also have a large light grey dot that drifts alone
+1: Let's click on the large dot that is diagonally
+0: the black one?
+1: Yes.

@@ -1,0 +1,8 @@
+T1	Markable 15 31	a large dark dot
+T2	Markable 71 73	it
+T3	Markable 37 54	a small light dot
+T4	Markable 142 149	the big
+T5	Markable 207 218	the big dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T6	Markable 106 120	the small grey
+T7	Markable 153 179	exactly the same placement

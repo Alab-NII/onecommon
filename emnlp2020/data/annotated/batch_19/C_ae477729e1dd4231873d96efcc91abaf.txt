@@ -1,0 +1,3 @@
+0: Hello
+1: a dark gray medium size dot, below and slightly to the right of it is a smaller lighter color dot?
+0: yes i see it

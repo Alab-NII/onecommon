@@ -1,0 +1,9 @@
+T1	Markable 10 23	two dark dots
+T2	Markable 76 105	2 relatively large, dark dots
+T3	Markable 114 124	each other
+T4	Markable 138 145	The one
+T5	Markable 205 207	it
+T6	Markable 229 244	the smaller one
+T7	Markable 271 273	it
+T8	Markable 25 38	one light one
+R1	Anaphora Arg1:T3 Arg2:T2	

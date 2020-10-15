@@ -1,0 +1,2 @@
+1: Hi, i see two diagonal dots. the one on top left is grey and the one on the bottom to the right is black
+0: yup. i got those. clicking on black

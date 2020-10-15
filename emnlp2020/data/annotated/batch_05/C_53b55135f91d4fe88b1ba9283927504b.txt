@@ -1,0 +1,3 @@
+1: I have a little black dot just up and to the right of a large light gray dot.
+0: yup, pick the little black dot
+1: ok

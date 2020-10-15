@@ -1,0 +1,6 @@
+0: Hi!
+1: HI
+0: Do you have a larger light grey dot to the right and down of the middle of the circle
+1: no, mine is light grey, down, towards the left side of the circle
+0: Okay, what about a small grey dot the shade of grey between the darkest and lightest near the top to the right?
+1: yes

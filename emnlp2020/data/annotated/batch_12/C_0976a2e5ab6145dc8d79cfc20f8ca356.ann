@@ -1,0 +1,8 @@
+T2	Markable 28 30	It
+T3	Markable 58 91	a slightly smaller very light dot
+T1	Markable 15 26	1 black dot
+T4	Markable 102 105	its
+R2	Anaphora Arg1:T2 Arg2:T1	
+T5	Markable 156 161	black
+T6	Markable 127 136	which one
+A1	Generic T6

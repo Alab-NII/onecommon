@@ -1,0 +1,13 @@
+T1	Markable 10 31	one lone med gray dot
+T2	Markable 65 76	4 dark ones
+T3	Markable 91 95	line
+T4	Markable 173 181	the line
+T5	Markable 116 130	a med/grey one
+T6	Markable 250 263	the third one
+T7	Markable 304 327	the med grey lonely one
+T8	Markable 348 359	the 3rd one
+T9	Markable 368 381	the third one
+T10	Markable 387 395	the line
+R1	Predicative Arg1:T3 Arg2:T2	
+T11	Markable 200 203	the
+#1	AnnotatorNotes T11	they

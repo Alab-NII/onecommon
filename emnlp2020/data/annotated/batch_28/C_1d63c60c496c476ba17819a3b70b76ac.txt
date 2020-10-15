@@ -1,0 +1,4 @@
+0: do you have a dark grey with a really small same color directly next to it's upper right?
+1: Yes
+0: awesome shall we pick the small upper right one?
+1: Yes

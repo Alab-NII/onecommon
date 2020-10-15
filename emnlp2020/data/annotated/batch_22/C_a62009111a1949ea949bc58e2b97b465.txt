@@ -1,0 +1,3 @@
+0: 4 cluster of dots. farthest left is largest and black
+1: i have a group of four as well, is one a light grey and the rest darker
+0: let's pick the lightest color. bottom middle

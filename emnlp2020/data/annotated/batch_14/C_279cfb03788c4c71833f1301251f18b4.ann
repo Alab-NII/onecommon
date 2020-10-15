@@ -1,0 +1,21 @@
+T1	Markable 9 30	a very light grey dot
+T2	Markable 158 165	top two
+T3	Markable 84 102	a cluster triangle
+T4	Markable 183 191	that one
+T5	Markable 207 211	that
+T6	Markable 246 274	a darker, slightly large dot
+T7	Markable 356 359	one
+T8	Markable 393 403	a triangle
+T9	Markable 371 374	two
+T10	Markable 311 329	another three dots
+T11	Markable 410 430	one of those circles
+T13	Markable 451 466	a dark grey one
+T15	Markable 532 534	It
+T18	Markable 628 630	it
+T19	Markable 121 131	the circle
+A1	No-Referent T4
+A2	No-Referent T5
+T20	Markable 288 292	that
+A3	No-Referent T20
+R1	Predicative Arg1:T8 Arg2:T10	
+T12	Markable 578 594	medium size dark

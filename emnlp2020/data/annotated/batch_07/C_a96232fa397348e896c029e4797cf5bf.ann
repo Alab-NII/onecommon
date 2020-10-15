@@ -1,0 +1,11 @@
+T1	Markable 36 42	a line
+T2	Markable 10 32	three medium grey dots
+T3	Markable 104 111	the dot
+T4	Markable 70 77	The dot
+T5	Markable 156 162	a line
+T6	Markable 217 231	the middle dot
+T8	Markable 302 316	the middle dot
+R1	Anaphora Arg1:T1 Arg2:T2	
+T9	Markable 201 210	all light
+R2	Predicative Arg1:T9 Arg2:T5	
+T10	Markable 271 285	the same thing

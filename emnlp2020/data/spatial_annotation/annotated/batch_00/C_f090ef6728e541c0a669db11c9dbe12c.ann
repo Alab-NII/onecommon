@@ -1,0 +1,17 @@
+T1	Markable 32 52	a larger lighter dot
+T2	Markable 67 69	it
+T3	Markable 10 26	a small dark dot
+R1	Anaphora Arg1:T2 Arg2:T3	
+T4	Markable 91 100	Which one
+A1	Generic T4
+T5	Markable 117 131	the darker one
+T6	Spatial-Relation 27 31	with
+T7	Spatial-Relation 34 48	larger lighter
+T9	Spatial-Relation 53 66	right next to
+T10	Spatial-Relation 70 77	up high
+A2	No-Obj T10
+R2	Subj Arg1:T10 Arg2:T1	
+R3	Subj Arg1:T10 Arg2:T2	
+T11	Spatial-Relation 121 127	darker
+R4	Obj Arg1:T11 Arg2:T1	
+#1	AnnotatorNotes T9	near

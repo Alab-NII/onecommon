@@ -1,0 +1,9 @@
+1: do you have a large dark gray dot with a smaller lighter gray dot to the right of it?
+0: I have 7 circles inside a large circle
+0: I have a large dark grey circle but not a smaller one close to it
+1: do you see any small black dots?
+0: I have one small black dot near middle
+1: is there a small gray dot above and to the right of it?
+0: yes i do. there is it is a lighter grey but not the lightest grey on the board
+1: OK, I have the same. Let's pick the small black dot
+0: Okay sounds good

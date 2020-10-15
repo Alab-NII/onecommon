@@ -1,0 +1,5 @@
+1: A string of 4 gray dots...see it buddy?
+0: do you see 1 lonely dark grey spot upper right of the circle
+1: I don't see that
+0: i see a string of grey dots on the right of the circle
+1: Perfect. Click the smallest in the string!

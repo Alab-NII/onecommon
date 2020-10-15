@@ -1,0 +1,6 @@
+0: i have one dark dot. its to the right and slightly below a smaller lighter dot
+1: I don't see it. Do you have two tiny grey dots?
+0: i do. the form an L with a larger darker dot?
+1: Yes! Is the larger dot slightly down from the bottom one and to the right?
+0: yes it is. can we select the larger darker dot?
+1: Let's do that!

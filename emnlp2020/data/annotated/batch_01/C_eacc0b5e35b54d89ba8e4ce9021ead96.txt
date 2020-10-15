@@ -1,0 +1,7 @@
+1: Four grey dots in the line, top left for me. There's a black one to the right of them. Two black dots on my lower right.
+0: i have four small and three large dots, all in my upper half
+1: Left to right, a line that goes medium, light, medium, dark grey?
+0: yes, and the left is the lowest and each one gets a little higher?
+1: Yep! Let's hit the dark grey one on top. Ok?
+0: ok, just to double check ,that is a larger dot?
+1: It is.

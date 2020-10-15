@@ -1,0 +1,6 @@
+0: I see two very dark dots, one to the left and a slightly smaller one to the right
+1: are there any light gray dots near those?
+0: there's a light grey one, kinda medium size, below the right one
+1: is the dark dot to the left a little darker than the one to the right?
+0: honestly can't tell. they look the same color on my screen. the left one is a little bigger; and they are in the mid-bottom of my circle
+1: let's select the larger of the dark dots

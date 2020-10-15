@@ -1,0 +1,4 @@
+0: smaller medium in color grey with two larger light grey above to the left and right
+1: Do you see a really tiny darker grey dot with a slightly larger grey dot up and to the left of it?
+0: yes! slight tiny darker grey
+1: Okay!

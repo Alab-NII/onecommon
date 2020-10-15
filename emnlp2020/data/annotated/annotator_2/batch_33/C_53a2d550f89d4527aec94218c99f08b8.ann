@@ -1,0 +1,10 @@
+T1	Markable 22 40	a perfect triangle
+T2	Markable 121 128	the one
+T3	Markable 42 48	Bottom
+T4	Markable 81 84	two
+T5	Markable 110 120	each other
+T6	Markable 3 13	Three dots
+R1	Predicative Arg1:T1 Arg2:T6	
+R2	Anaphora Arg1:T5 Arg2:T4	
+T7	Markable 160 169	Which one
+T8	Markable 186 192	Bottom

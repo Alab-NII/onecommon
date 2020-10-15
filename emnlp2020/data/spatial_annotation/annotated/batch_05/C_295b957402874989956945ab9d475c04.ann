@@ -1,0 +1,52 @@
+T1	Markable 55 73	the lower left one
+T2	Markable 15 28	two tiny dots
+T3	Markable 43 53	each other
+T4	Markable 84 103	the upper right one
+T5	Markable 187 197	a lone one
+T6	Markable 217 245	a medium size light grey one
+T7	Markable 251 272	a darker, smaller one
+T8	Markable 299 301	it
+T9	Markable 305 307	it
+T10	Markable 329 342	two tiny ones
+T11	Markable 349 366	the two tiny ones
+T12	Markable 375 389	the bottom one
+T13	Markable 407 425	the black tiny one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T14	Markable 126 148	lone medium light gray
+R2	Anaphora Arg1:T8 Arg2:T6	
+R3	Anaphora Arg1:T9 Arg2:T6	
+A1	No-Referent T5
+T15	Markable 455 469	the black tiny
+T16	Spatial-Relation 29 42	right next to
+T17	Spatial-Relation 59 69	lower left
+T18	Spatial-Attribute 77 82	black
+T19	Spatial-Relation 88 99	upper right
+T20	Spatial-Attribute 107 121	light-ish grey
+T21	Modifier 107 116	light-ish
+T22	Spatial-Relation 126 130	lone
+T23	Spatial-Relation 149 162	near 6 oclock
+T24	Spatial-Relation 163 170	on edge
+T25	Spatial-Relation 189 193	lone
+T26	Spatial-Relation 198 208	down there
+T27	Spatial-Relation 246 250	with
+T28	Spatial-Relation 253 268	darker, smaller
+T29	Spatial-Relation 273 298	just over half inch above
+T30	Spatial-Relation 310 315	right
+T31	Spatial-Relation 367 373	up top
+T32	Spatial-Relation 379 385	bottom
+T33	Spatial-Attribute 393 398	black
+R4	Obj Arg1:T17 Arg2:T2	
+R5	Obj Arg1:T19 Arg2:T2	
+A2	No-Obj T22
+A3	No-Obj T23
+A4	No-Obj T24
+A5	No-Obj T25
+A6	No-Obj T26
+R6	Subj Arg1:T30 Arg2:T7	
+R7	Obj Arg1:T30 Arg2:T9	
+A7	No-Obj T31
+R8	Obj Arg1:T32 Arg2:T11	
+#1	AnnotatorNotes T16	near
+#2	AnnotatorNotes T23	below
+#3	AnnotatorNotes T24	outside
+#4	AnnotatorNotes T29	above

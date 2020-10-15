@@ -1,0 +1,8 @@
+0: do you see a tiny light gray dot on the right side
+1: no - I see 3 dots in an arc from left to right growing bigger, last dot on right is largest darkest
+0: is the darkest one closer to the bottom of the circle
+1: the darkest one is slightly down and to the right of the middle dot, the middle dot is medium size and lightest of the 3
+0: i'm not sure if mine is the same then Do you see a big med gray dot on the left side at the top its on the outline of the circle?
+1: no our circles will be different - I see thea different largest black dot near center on my circle with same size lighter dot to its immediate right and another same size farther away to the left
+0: lets try the larger darkest one at the top
+1: ok will click largest darkest one

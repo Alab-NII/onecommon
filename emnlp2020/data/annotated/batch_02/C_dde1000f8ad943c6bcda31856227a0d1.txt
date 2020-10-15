@@ -1,0 +1,7 @@
+0: med size med grey dot approx 2 oclock
+1: The largest darkest black dot is located on the left line at 9 pm. My medium grey dot is located at 7 pm.
+0: no large grey dot toward right at 11
+1: close towards the center a bit. Or I have 3 (one of each shade) located around 5 pm.
+0: yes, one is medium grey - the lowest one
+1: lets go with the medium grey at the line at 5 pm then...?
+0: ok

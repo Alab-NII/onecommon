@@ -1,0 +1,5 @@
+1: two dark and one grey slightly below
+0: Do you have two large lighter grey dots near the top? One is directly in the middle of the top and the other is to the right
+1: let us select the one large grey on left
+0: I don't have a large grey on on the left. I have a dark grey one in the middle of the circle. it's large
+1: select that

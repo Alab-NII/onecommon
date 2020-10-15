@@ -1,0 +1,7 @@
+0: Ok so...I have one isolated, small dark dot. All other dots are to the left of it.
+1: i have a small dark dot on the right
+0: Is it pretty much in a line with two larger, medium grey dots, that slopes down and to the left?
+1: i only have two dots on the right side
+0: On the right side of the circle? Or to the right of the small, dark dot?
+1: all together on the right side i just have the darker one and a lighter one everything else is center or left
+0: Let's click the small dark dot on the right.

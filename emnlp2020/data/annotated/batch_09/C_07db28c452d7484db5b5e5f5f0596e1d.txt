@@ -1,0 +1,4 @@
+0: i see one darker medium dot
+1: I have three dots that almost form a vertical line. Bottom two are light grey, one more up is very dark
+0: yes
+1: K! Click on the darkest one!

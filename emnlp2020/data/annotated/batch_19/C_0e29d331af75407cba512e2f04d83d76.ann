@@ -1,0 +1,8 @@
+T1	Markable 3 25	The largest three dots
+T2	Markable 52 71	a lopsided triangle
+T3	Markable 84 98	the bottom two
+T4	Markable 119 134	right lower one
+T5	Markable 166 185	the right lower one
+T6	Markable 204 212	that one
+R1	Predicative Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T5 Arg2:T4	

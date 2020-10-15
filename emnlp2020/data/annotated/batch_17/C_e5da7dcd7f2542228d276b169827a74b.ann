@@ -1,0 +1,26 @@
+T1	Markable 84 101	the dark grey dot
+T2	Markable 130 149	the large black dot
+T3	Markable 155 175	a small med grey dot
+T4	Markable 223 241	the large grey one
+T5	Markable 364 375	the big one
+T6	Markable 258 280	another tiny light dot
+T7	Markable 397 409	the tiny one
+T8	Markable 286 288	it
+T9	Markable 292 294	it
+T10	Markable 472 474	it
+T11	Markable 478 480	it
+T12	Markable 418 432	your small one
+T13	Markable 501 519	that dark grey one
+T14	Markable 542 561	the large black one
+T15	Markable 3 23	Very large black one
+T16	Markable 29 48	same size dark grey
+T17	Markable 52 56	it's
+R1	Anaphora Arg1:T17 Arg2:T15	
+A1	No-Referent T1
+T18	Markable 186 189	its
+R2	Anaphora Arg1:T18 Arg2:T2	
+T19	Markable 311 315	both
+T20	Markable 454 465	a same-size
+R3	Anaphora Arg1:T10 Arg2:T12	
+R4	Anaphora Arg1:T11 Arg2:T12	
+A2	No-Referent T13

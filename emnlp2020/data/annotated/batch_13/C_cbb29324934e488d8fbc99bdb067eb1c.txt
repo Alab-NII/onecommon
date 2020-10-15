@@ -1,0 +1,4 @@
+1: I see 4 dots They form a trapezoid on its side.
+0: Do you see one very dark dot in a cluster of lighter ones? I do not think I see what you're describing
+1: I see a dark one, but is part of the trapezoid. To the right is a lighter and bigger dot.
+0: Yes. We should select the black one with the lighter and bigger one to the right. Good luck

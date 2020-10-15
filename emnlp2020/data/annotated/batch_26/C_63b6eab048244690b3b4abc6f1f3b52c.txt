@@ -1,0 +1,4 @@
+1: single one dark big dot upper right side of circle
+0: have large dark dot with two smaller below to the left
+1: yes
+0: take the large black dot

@@ -1,0 +1,6 @@
+1: a large dark dot, with smaller lighter dot to the left of it
+0: is the smaller one below it to the left and light grey?
+1: actually i have 2 sets of dots looking like that, is their distance like half an inch, or very little?
+0: very little
+1: yes, wanna select the dark one?
+0: yes!

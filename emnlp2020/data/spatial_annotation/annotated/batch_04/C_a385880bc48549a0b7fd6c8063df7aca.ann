@@ -1,0 +1,31 @@
+T1	Markable 9 30	a tiny light grey dot
+T2	Markable 56 75	a larger darker dot
+T3	Markable 87 92	those
+T4	Markable 96 112	a large dark dot
+T5	Markable 123 127	that
+T6	Markable 129 133	they
+T7	Markable 205 222	the top large dot
+R1	Anaphora Arg1:T6 Arg2:T5	
+T8	Markable 174 184	a triangle
+T9	Spatial-Relation 32 52	right and down right
+T10	Spatial-Relation 58 64	larger
+T11	Spatial-Relation 65 71	darker
+R2	Obj Arg1:T10 Arg2:T1	
+R3	Obj Arg1:T11 Arg2:T1	
+T12	Spatial-Relation 77 86	on top of
+R4	Subj Arg1:T12 Arg2:T4	
+R5	Obj Arg1:T12 Arg2:T3	
+T13	Spatial-Relation 138 152	close together
+A1	No-Obj T13
+T14	Spatial-Relation 176 184	triangle
+A2	No-Obj T14
+T15	Modifier 169 173	like
+T16	Modifier 185 190	sorta
+R7	Mod Arg1:T16 Arg2:T14	
+T17	Spatial-Relation 209 212	top
+R8	Obj Arg1:T17 Arg2:T5	
+R9	Subj Arg1:T9 Arg2:T2	
+R10	Obj Arg1:T9 Arg2:T1	
+R6	Mod Arg1:T15 Arg2:T14	
+A3	Mod-Uncertainty-Approximation T15
+A4	Mod-Uncertainty-Approximation T16

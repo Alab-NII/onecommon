@@ -1,0 +1,18 @@
+T1	Markable 66 83	a group of 5 dots
+T2	Markable 110 125	three gray ones
+T4	Markable 85 105	two small black ones
+T8	Markable 331 348	a small black dot
+T9	Markable 421 434	a smaller one
+T10	Markable 458 470	a larger one
+T11	Markable 395 403	two dots
+T12	Markable 500 504	that
+T13	Markable 592 607	the smaller one
+T14	Markable 629 631	it
+T15	Markable 622 626	that
+T16	Markable 33 54	medium sized gray dot
+T3	Markable 137 149	the top left
+T5	Markable 521 527	larger
+T6	Markable 551 557	higher
+R1	Predicative Arg1:T14 Arg2:T15	
+T7	Markable 405 409	both
+R2	Anaphora Arg1:T7 Arg2:T11	

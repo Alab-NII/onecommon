@@ -1,0 +1,5 @@
+1: I have a cluster of three all different sizes and shades. Do you
+0: No, I do not see that but I have two large light gray dots, one to the left and slightly lower than the other.
+1: No, I have something similar, but my lower one is to the right. Um. Does you see a large light grey with a smaller slightly darker one almost directly above it?
+0: Yes, I do have that! Lets go with the larger one
+1: *Do you see. Wow. Lol. OK!!

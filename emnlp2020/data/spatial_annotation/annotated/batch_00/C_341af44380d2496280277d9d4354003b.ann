@@ -1,0 +1,33 @@
+T1	Markable 10 24	two large dots
+T2	Markable 47 63	a same sized one
+T3	Markable 78 80	it
+T4	Markable 162 166	they
+T5	Markable 184 198	the darker one
+T6	Markable 26 29	one
+R1	Anaphora Arg1:T3 Arg2:T6	
+T7	Markable 125 144	the darker grey one
+T8	Spatial-Attribute 30 41	medium grey
+T9	Spatial-Relation 42 46	with
+T10	Spatial-Relation 70 77	next to
+T11	Modifier 64 69	right
+R2	Mod Arg1:T11 Arg2:T10	
+T12	Spatial-Relation 81 93	on the right
+R3	Subj Arg1:T12 Arg2:T2	
+R4	Obj Arg1:T12 Arg2:T3	
+T13	Spatial-Relation 113 117	down
+T14	Modifier 99 112	very slightly
+R5	Mod Arg1:T14 Arg2:T13	
+R6	Subj Arg1:T13 Arg2:T2	
+R7	Obj Arg1:T13 Arg2:T3	
+T15	Spatial-Relation 145 157	on the right
+R8	Obj Arg1:T15 Arg2:T6	
+T16	Spatial-Attribute 170 174	huge
+T17	Spatial-Relation 129 135	darker
+T18	Spatial-Relation 188 194	darker
+R9	Obj Arg1:T17 Arg2:T6	
+T19	Spatial-Relation 49 59	same sized
+A1	Mod-Certainty-Exactness T11
+A2	Mod-Subtlty T14
+R10	Obj Arg1:T18 Arg2:T6	
+T20	Modifier 30 36	medium
+A3	Mod-Neutral T20

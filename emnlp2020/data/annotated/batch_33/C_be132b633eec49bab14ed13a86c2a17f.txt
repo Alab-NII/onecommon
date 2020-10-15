@@ -1,0 +1,4 @@
+0: Do you see three light gray dots very close to each other in a triangle
+1: Yes, the top one is slightly bigger than other two
+0: Yeah! Lets click on the bigger one?
+1: Ok

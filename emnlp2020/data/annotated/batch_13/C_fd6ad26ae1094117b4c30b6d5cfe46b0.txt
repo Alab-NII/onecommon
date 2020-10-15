@@ -1,0 +1,2 @@
+1: do you see a tiny black dot? there's a larger one just under an inch above it slightly offset to it's right
+0: Yes. Let's pick the small black dot.

@@ -1,0 +1,13 @@
+T1	Markable 14 35	the grouping of three
+T2	Markable 37 48	darkest one
+T3	Markable 105 119	a cluster of 3
+T4	Markable 123 138	the top/big one
+T5	Markable 153 177	a really light small one
+T6	Markable 184 186	it
+T7	Markable 221 233	same cluster
+T8	Markable 243 262	that black dark one
+T9	Markable 69 77	lightest
+R1	Anaphora Arg1:T6 Arg2:T4	
+T10	Markable 194 199	their
+T11	Markable 205 215	a med/size
+R2	Anaphora Arg1:T7 Arg2:T3	

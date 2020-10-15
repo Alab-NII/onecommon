@@ -1,0 +1,7 @@
+0: hi!
+1: I have two dots of the same close to each other. The one on the left is slightly lower and darker than the one on the right that is lighter and slightly higher.
+0: I don't see them. I have one dot that overlaps the border. Do you see that one?
+1: We do not have the same circles none of mine touch the boarder. I have a very light grey dot in the middle and slightly lower than two dot above it to the left and right
+0: I don't have any that appear like that. Do you have 2 identical grey dots slightly northeast of the middle?
+1: We do not have the same circles. The dots on our screens are in different places. do you have a very small black dot with a lighter one under it?
+0: Yes, lets select that one.

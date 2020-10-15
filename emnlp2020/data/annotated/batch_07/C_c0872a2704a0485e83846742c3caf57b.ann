@@ -1,0 +1,9 @@
+T1	Markable 22 38	the lightest dot
+T2	Markable 87 101	this light dot
+T3	Markable 231 247	a light gray dot
+T4	Markable 317 321	that
+T5	Markable 53 68	everything else
+T6	Markable 130 145	Large dark gray
+T7	Markable 179 187	anything
+A1	No-Referent T7
+T8	Markable 272 287	everything else

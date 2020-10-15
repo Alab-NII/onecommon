@@ -1,0 +1,4 @@
+1: i have a dark gray dot touching the dotted line 4 oclock
+0: I don't think I could narrow that one down. Do you see a large light dot directly before a medium gray dot?
+1: yeah
+0: Okay let's do that one

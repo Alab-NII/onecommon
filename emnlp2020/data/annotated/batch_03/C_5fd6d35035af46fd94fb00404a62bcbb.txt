@@ -1,0 +1,5 @@
+1: do you see a cluster of 4 small dark dots ?
+0: No.
+1: one large dark dot by itself?
+0: Yes near 4 o'clock.
+1: they look like different times on each person's circle. but yes. let's pick that

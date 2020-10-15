@@ -1,0 +1,26 @@
+T1	Markable 65 72	nothing
+T2	Markable 10 27	a large black dot
+T3	Markable 80 82	it
+T4	Markable 133 135	it
+T5	Markable 122 127	a dot
+T8	Markable 260 298	a cluster of 2 roughly same-sized dots
+T9	Markable 325 328	one
+T10	Markable 353 362	the other
+T11	Markable 379 383	that
+T12	Markable 411 421	a triangle
+T13	Markable 462 469	the one
+T14	Markable 503 512	the other
+T16	Markable 476 478	it
+T17	Markable 592 605	the black one
+A1	No-Referent T1
+R1	Anaphora Arg1:T3 Arg2:T2	
+T6	Markable 309 313	both
+R2	Anaphora Arg1:T6 Arg2:T8	
+T18	Markable 397 400	any
+R3	Predicative Arg1:T12 Arg2:T18	
+T19	Markable 433 440	the one
+R4	Anaphora Arg1:T16 Arg2:T19	
+T15	Markable 557 571	the bottom one
+R5	Anaphora Arg1:T15 Arg2:T13	
+A3	No-Referent T11
+A2	Generic T18

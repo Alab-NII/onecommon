@@ -1,0 +1,42 @@
+T1	Markable 50 57	the one
+T2	Markable 88 97	the other
+T3	Markable 10 18	two dots
+T4	Markable 144 154	each other
+T5	Markable 265 269	mine
+T6	Spatial-Attribute 270 284	has three dots
+T7	Markable 293 317	the smallest darkest dot
+T8	Spatial-Relation-Markable 125 134	two pairs
+R1	Anaphora Arg1:T4 Arg2:T8	
+T9	Spatial-Relation-Markable 210 220	both pairs
+R2	Anaphora Arg1:T9 Arg2:T8	
+T10	Spatial-Relation-Markable 235 246	those pairs
+T11	Markable 248 261	the top slope
+T12	Spatial-Relation 19 44	at a near-medium distance
+A1	No-Obj T12
+T13	Modifier 24 35	near-medium
+T14	Spatial-Relation 58 74	on the top right
+T15	Spatial-Attribute 78 83	black
+T16	Spatial-Attribute 101 110	dark grey
+T17	Spatial-Relation 135 143	close to
+T18	Spatial-Relation 155 204	with the same slope that goes up and to the right
+A2	No-Obj T18
+A6	No-Obj T8
+A8	No-Obj T10
+T20	Spatial-Relation 252 255	top
+T21	Spatial-Relation 256 261	slope
+A9	No-Obj T21
+#1	AnnotatorNotes T21	diagonal
+R3	Subj Arg1:T6 Arg2:T11	
+T23	Spatial-Relation 297 313	smallest darkest
+R5	Obj Arg1:T23 Arg2:T8	
+T24	Spatial-Relation 333 343	most right
+R6	Obj Arg1:T24 Arg2:T10	
+A10	Mod-Neutral T13
+A11	Canonical-Undefined T12
+A7	Canonical-Undefined T8
+A4	Unannotatable T17
+A3	Unannotatable T18
+A5	No-Obj T9
+A12	Canonical-Undefined T9
+A13	Canonical-Undefined T10
+T19	Spatial-Relation 262 264	of

@@ -1,0 +1,14 @@
+T1	Markable 51 71	a larger lighter dot
+T2	Markable 126 152	a medium sized lighter dot
+T3	Markable 81 97	a tiny black dot
+T4	Markable 170 174	that
+T5	Markable 3 28	very small very black dot
+T6	Spatial-Relation 29 50	to the left and above
+T7	Spatial-Relation 53 59	larger
+R1	Obj Arg1:T7 Arg2:T5	
+T8	Spatial-Relation 60 67	lighter
+R2	Obj Arg1:T8 Arg2:T5	
+T9	Spatial-Relation 98 125	at 11 o clock position from
+T10	Spatial-Relation 141 148	lighter
+R3	Obj Arg1:T10 Arg2:T3	
+#1	AnnotatorNotes T9	left;above

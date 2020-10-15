@@ -1,0 +1,8 @@
+T2	Markable 10 34	only one large black dot
+T3	Markable 52 54	it
+T4	Markable 137 156	the large black dot
+T1	Markable 77 85	The rest
+T5	Spatial-Relation 57 72	near the center
+A1	No-Obj T5
+T6	Spatial-Attribute 90 104	all dark greys
+#1	AnnotatorNotes T5	center

@@ -1,0 +1,6 @@
+1: I see 5 dots almost forming like a house with top of house medium size light grey dot?
+0: how many small black dots
+1: I see one and it is down and to the left of a larger darker grey dot
+0: okay grey dot is on the left
+1: i dont see that, lets choose that black dot we were mentioning
+0: i have a black dot on the bottom

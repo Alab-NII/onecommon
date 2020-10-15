@@ -1,0 +1,9 @@
+1: hello
+0: hi do you have 2 dots together, similar size, top one is slightly darker
+1: on the upper left of the circle?
+0: yes
+1: Do you have one on the lower right that is darker than all the rest of the circles?
+0: yes
+1: lets pick that one
+0: ok
+1: awesome, thanks :)

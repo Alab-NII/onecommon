@@ -1,0 +1,7 @@
+1: do you have any dots close together?
+0: yes just 2 close to each other, do you?
+1: i have a few different ones that are close.
+0: these 2 are one large at the top right and one mid size darker at the bottom left, do you see them?
+1: is the bottom one black?
+0: yes, let's pick this one, the black one, that is smaller, ok?
+1: ok

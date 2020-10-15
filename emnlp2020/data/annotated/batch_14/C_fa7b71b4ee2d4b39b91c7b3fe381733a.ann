@@ -1,0 +1,5 @@
+T2	Markable 15 39	one really dark gray dot
+T3	Markable 101 109	that one
+T1	Markable 50 76	A VERY LARGE DARK GREY DOT
+T4	Markable 80 86	ITSELF
+R1	Anaphora Arg1:T4 Arg2:T1	

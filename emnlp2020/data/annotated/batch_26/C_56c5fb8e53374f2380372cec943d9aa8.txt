@@ -1,0 +1,6 @@
+0: Hi, do you have any light grey dots?
+1: I got a large light grey with a smaller darker one above it and slightly to the right.
+0: I have a medium sized light grey dot, and and some tiny grey dots
+1: What do you have for black dots. I got three. One of them is really big.
+0: The darkest one I have is just slightly larger than the really tiny ones.
+1: Your biggest black dot go for that one.

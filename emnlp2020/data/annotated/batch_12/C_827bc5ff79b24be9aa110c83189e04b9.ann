@@ -1,0 +1,16 @@
+T1	Markable 21 27	itself
+T2	Markable 39 42	one
+T3	Markable 46 52	itself
+T4	Markable 57 60	its
+T6	Markable 144 146	it
+T8	Markable 155 178	a large darker grey one
+T9	Markable 208 210	it
+T11	Markable 270 280	a triangle
+T13	Markable 286 299	one black dot
+T14	Markable 335 348	that triangle
+T15	Markable 397 411	that black one
+T16	Markable 3 17	tiny black dot
+R1	Anaphora Arg1:T1 Arg2:T16	
+R2	Anaphora Arg1:T3 Arg2:T2	
+R3	Anaphora Arg1:T4 Arg2:T2	
+T5	Markable 222 225	its

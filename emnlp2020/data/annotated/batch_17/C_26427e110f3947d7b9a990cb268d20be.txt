@@ -1,0 +1,4 @@
+0: I have a line of dots making a zigzag...
+1: yes, sort of... in the middle of the zigzag is a large lighter gray dot, with a smaller darker dot at 2 o clock?
+0: yes!
+1: click the larger lighter dot, nice work!

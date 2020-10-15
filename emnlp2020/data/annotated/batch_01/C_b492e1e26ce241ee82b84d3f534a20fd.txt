@@ -1,0 +1,6 @@
+1: Hello, I have a small gray dot.
+0: umm dark bug black dot is like 2'o clock
+1: My dark dot is at 3 oclock. I have 2 small dots at 11
+0: no i do not have that. lighter black dot at 8'o clock
+1: I don't have that. I have a medium black dot at 7
+0: almost same lets choose that one

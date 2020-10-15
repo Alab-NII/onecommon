@@ -1,0 +1,3 @@
+0: 2 large black dots
+1: i see those. let's pick the one on top?
+0: sure

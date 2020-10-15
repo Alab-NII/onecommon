@@ -1,0 +1,6 @@
+T1	Markable 10 27	one dark grey dot
+T2	Markable 74 82	that one
+T3	Spatial-Attribute 39 51	medium sized
+R1	Subj Arg1:T3 Arg2:T1	
+T4	Modifier 39 45	medium
+A1	Mod-Neutral T4

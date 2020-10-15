@@ -1,0 +1,9 @@
+1: I have a larger very dark dot northeast on the circle
+0: I have a larger dark dot in the bottom SW of my circle with a medium smaller dot to the left of it.
+1: I do not have either of those
+0: Do you have 2 larger dots forming a triangle with a smaller dot on the right of the triangle?
+1: Yes!
+0: would you like to select the smaller right dot?
+1: sure, is yours light grey?
+0: yes.
+1: okay!

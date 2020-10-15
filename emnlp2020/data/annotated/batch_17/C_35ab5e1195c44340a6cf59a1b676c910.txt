@@ -1,0 +1,4 @@
+0: I have mostly dark dots. However my lightest dot is a small-medium sized.
+1: No. Do you have two small very dark dots diagonal to each other?
+0: I do. They form a triangle with a large dark dot.
+1: Yes click the smallest dot on the right

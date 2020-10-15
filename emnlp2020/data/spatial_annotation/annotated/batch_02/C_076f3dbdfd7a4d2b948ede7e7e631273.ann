@@ -1,0 +1,39 @@
+T1	Markable 38 62	a larger but lighter dot
+T2	Markable 10 27	a small black dot
+T3	Markable 91 93	it
+T4	Markable 122 141	a cluster of 6 dots
+T5	Markable 161 163	it
+T6	Markable 172 183	the cluster
+T7	Markable 187 204	a small black dot
+T8	Markable 210 239	a large, slightly lighter dot
+T9	Markable 309 328	the black small dot
+T10	Markable 347 349	it
+R1	Anaphora Arg1:T3 Arg2:T2	
+T11	Markable 97 117	Lonely dark grey dot
+R2	Anaphora Arg1:T5 Arg2:T11	
+R3	Anaphora Arg1:T6 Arg2:T4	
+T12	Markable 286 294	the same
+T13	Spatial-Relation 40 46	larger
+T14	Spatial-Relation 51 58	lighter
+T15	Modifier 64 72	slightly
+T16	Spatial-Relation 73 80	on left
+T17	Spatial-Relation 85 90	under
+T18	Spatial-Relation 97 103	Lonely
+A1	No-Obj T18
+T19	Spatial-Relation 124 131	cluster
+A2	No-Obj T19
+T20	Spatial-Relation 142 145	far
+T21	Spatial-Relation 146 160	to the left of
+T22	Spatial-Relation 165 171	Within
+T23	Spatial-Relation 176 183	cluster
+A3	No-Obj T23
+R4	Subj Arg1:T22 Arg2:T7	
+R5	Subj Arg1:T22 Arg2:T8	
+T24	Spatial-Relation 205 209	with
+T25	Modifier 219 227	slightly
+T26	Spatial-Relation 228 235	lighter
+R6	Obj Arg1:T26 Arg2:T7	
+T27	Spatial-Relation 240 245	lower
+T28	Spatial-Relation 246 257	to the left
+R7	Obj Arg1:T27 Arg2:T7	
+R8	Obj Arg1:T28 Arg2:T7	

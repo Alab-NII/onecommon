@@ -1,0 +1,13 @@
+T1	Markable 76 99	a larger light grey dot
+T2	Markable 123 125	it
+T3	Markable 179 198	two very light ones
+T4	Markable 151 158	nothing
+T6	Markable 226 229	one
+T7	Markable 333 348	the darkest one
+T8	Markable 283 286	two
+T9	Markable 386 405	the dark medium one
+T10	Markable 420 431	the darkest
+T11	Markable 407 409	It
+T12	Markable 3 18	The darkest dot
+A1	No-Referent T4
+R1	Anaphora Arg1:T11 Arg2:T9	

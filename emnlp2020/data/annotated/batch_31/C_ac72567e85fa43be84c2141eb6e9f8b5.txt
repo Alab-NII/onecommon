@@ -1,0 +1,4 @@
+0: Small dark dot with another small light dot to its lower right?
+1: I see that. do you see a larger dark grey dot below those two?
+0: yes also further down and slightly to the right
+1: yes. let's choose the small dark/black dot

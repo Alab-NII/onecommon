@@ -1,0 +1,6 @@
+1: cluster of 3 large light grey dots
+0: no i have cluster of 4 then two below that
+1: no... dont see . does your 4 cluster start on left with a darker then to right a lighter smaller light grey then bigger darker and last a small dark grey?
+0: yes
+1: ok lets click the first one in your cluster on left
+0: ok so darkest

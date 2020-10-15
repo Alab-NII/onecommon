@@ -1,0 +1,4 @@
+1: i see a tiny light grey dot. right and down right is a larger darker dot. on top of those is a large dark dot
+0: i have that. they are close together right?
+1: yeah. like a triangle sorta
+0: let's pick the top large dot then

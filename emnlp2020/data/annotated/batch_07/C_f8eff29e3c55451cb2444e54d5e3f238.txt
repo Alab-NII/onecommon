@@ -1,0 +1,2 @@
+1: I have one small dot darker than the rest
+0: ok click it

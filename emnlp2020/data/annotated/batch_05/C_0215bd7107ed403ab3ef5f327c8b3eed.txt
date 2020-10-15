@@ -1,0 +1,8 @@
+0: Ok so...I have two dots aligned vertically, the top dot is smaller and darker
+1: i have 2 large horizontal dots
+0: Are they perfectly horizontal, or do they slop down to the right?
+1: down to the right a little
+0: Is there another large dot above the two? Closer to the dot on the left?
+1: yes
+0: Let's click the large dot on the left, the one that is in the line.
+1: ok

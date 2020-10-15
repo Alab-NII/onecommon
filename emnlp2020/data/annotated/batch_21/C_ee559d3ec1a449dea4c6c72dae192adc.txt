@@ -1,0 +1,4 @@
+0: two dots very close together?
+1: Yeah, smaller one is on the lower right of the larger, lighter one?
+0: yes@ click the smaller one!
+1: ok.

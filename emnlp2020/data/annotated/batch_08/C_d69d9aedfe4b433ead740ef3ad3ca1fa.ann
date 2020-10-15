@@ -1,0 +1,15 @@
+T1	Markable 15 32	l large black dot
+T2	Markable 116 136	two grey bigger dots
+T4	Markable 163 166	one
+T5	Markable 175 178	one
+T6	Markable 192 195	one
+T8	Markable 214 226	any of those
+T9	Markable 265 273	that one
+T10	Markable 286 288	it
+#1	AnnotatorNotes T1	1 large black dot
+T11	Markable 54 65	a med black
+T12	Markable 84 90	either
+T13	Markable 94 107	tiny dark dot
+T14	Markable 147 162	3 med grey dots
+T3	Markable 230 249	one large black dot
+R1	Anaphora Arg1:T9 Arg2:T3	

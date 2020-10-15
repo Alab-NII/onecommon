@@ -1,0 +1,7 @@
+0: do you have a light small grey dot, down of center
+1: I have one very tiny, very light shaded dot. its a bit on its own.
+0: where is it located?
+1: it is in the middle of two similar sized/color dots.
+0: i have a line of dots, let's start from right to left, they are all dark black, and ascend in size, from smallest to largest
+1: yes. select the middle one?
+0: done

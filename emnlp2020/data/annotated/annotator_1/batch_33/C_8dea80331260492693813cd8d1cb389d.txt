@@ -1,0 +1,3 @@
+0: large black dot with a smaller black dot down and to the right
+1: Do you have a Large dark dot with a slightly darker smaller dot just diagonally to the right of it?
+0: Haha yes. Choose the large one\

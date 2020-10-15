@@ -1,0 +1,16 @@
+T1	Markable 18 31	one dark gray
+T2	Markable 59 72	a lighter dot
+T3	Markable 119 145	the bottom left darker one
+T4	Markable 3 17	two small dots
+T5	Markable 101 105	this
+T6	Spatial-Relation 36 58	to the right and above
+T7	Spatial-Relation 61 68	lighter
+R1	Obj Arg1:T7 Arg2:T1	
+T8	Spatial-Relation 73 82	same size
+R2	Obj Arg1:T8 Arg2:T1	
+T9	Spatial-Relation 123 134	bottom left
+T10	Spatial-Relation 135 141	darker
+R3	Obj Arg1:T9 Arg2:T5	
+R4	Obj Arg1:T10 Arg2:T5	
+R5	Subj Arg1:T6 Arg2:T2	
+R6	Obj Arg1:T6 Arg2:T1	

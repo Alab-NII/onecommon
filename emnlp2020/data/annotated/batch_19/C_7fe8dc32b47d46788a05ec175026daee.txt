@@ -1,0 +1,7 @@
+0: I have a very dark dot with two dots off to the left of it.
+1: are they curved like a smile, with the middle dot lighter than the other two dots?
+0: They are towards the top for me so I can only see a partial curve. One is directly above and slightly to the left of the other.
+1: are the two dots to the left lighter than the dark dot?
+0: Yes.
+1: lets choose the dark dot.
+0: Okay

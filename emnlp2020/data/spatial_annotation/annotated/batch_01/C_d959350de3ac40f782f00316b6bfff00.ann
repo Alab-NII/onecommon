@@ -1,0 +1,25 @@
+T1	Markable 45 51	itself
+T2	Markable 15 37	a small light gray dot
+T3	Markable 92 109	a small black dot
+T4	Markable 152 154	it
+T5	Markable 201 203	it
+T6	Markable 234 253	the small black dot
+R1	Anaphora Arg1:T1 Arg2:T2	
+T7	Markable 59 63	mine
+T8	Markable 115 128	a medium gray
+R2	Anaphora Arg1:T4 Arg2:T3	
+T9	Markable 159 178	another medium gray
+T10	Markable 257 270	that grouping
+T11	Modifier 38 41	all
+T12	Spatial-Relation 42 44	by
+T13	Spatial-Attribute 67 72	black
+T14	Spatial-Relation 110 114	with
+T15	Spatial-Relation 129 151	to the bottom right of
+T16	Spatial-Relation 179 200	to the bottom left of
+T17	Spatial-Relation 254 256	in
+T18	Spatial-Relation 262 270	grouping
+A1	No-Obj T18
+#1	AnnotatorNotes T12	alone
+A2	Mod-Certainty-Exactness T11
+R3	Obj Arg1:T14 Arg2:T8	
+R4	Obj Arg1:T14 Arg2:T9	

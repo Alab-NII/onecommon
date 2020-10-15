@@ -1,0 +1,73 @@
+T1	Markable 30 47	the two dark dots
+T2	Markable 62 65	One
+T3	Markable 106 119	two dark dots
+T4	Markable 128 138	each other
+T5	Markable 188 198	a dark dot
+T6	Markable 254 262	that one
+T7	Markable 283 285	it
+T8	Markable 293 295	it
+T9	Markable 326 340	two other dots
+T10	Markable 319 321	it
+T11	Markable 365 367	it
+T12	Markable 468 470	it
+T13	Markable 444 461	a larger grey dot
+T14	Markable 493 497	that
+T15	Markable 517 533	a gray large dot
+T16	Markable 572 574	it
+T17	Markable 682 686	that
+A1	No-Referent T3
+R1	Anaphora Arg1:T4 Arg2:T3	
+R2	Anaphora Arg1:T8 Arg2:T7	
+R3	Anaphora Arg1:T11 Arg2:T10	
+T18	Markable 394 434	not directly below but a bit further dot
+A2	No-Referent T14
+R4	Anaphora Arg1:T16 Arg2:T15	
+T20	Markable 626 658	a bit darker and medium to large
+T21	Spatial-Relation 57 60	top
+A4	No-Obj T21
+T22	Modifier 74 80	almost
+T23	Spatial-Relation 81 86	12:00
+A5	No-Obj T23
+T24	Spatial-Relation 120 127	next to
+T25	Spatial-Relation 147 180	to the very right around 3 oclock
+T26	Modifier 154 158	very
+R5	Subj Arg1:T25 Arg2:T5	
+A6	No-Obj T25
+T27	Spatial-Attribute 200 208	mid-size
+T28	Spatial-Attribute 223 228	small
+T29	Modifier 217 222	maybe
+T31	Spatial-Relation 322 325	has
+T32	Spatial-Relation 341 358	of near same size
+T33	Modifier 344 348	near
+T34	Spatial-Relation 359 364	below
+T35	Spatial-Relation 369 376	lighter
+R6	Subj Arg1:T35 Arg2:T9	
+R7	Obj Arg1:T35 Arg2:T11	
+T36	Modifier 394 406	not directly
+T37	Spatial-Relation 407 412	below
+T38	Modifier 417 422	a bit
+T39	Spatial-Relation 423 430	further
+R9	Obj Arg1:T37 Arg2:T11	
+R10	Obj Arg1:T39 Arg2:T11	
+T41	Spatial-Relation 446 452	larger
+T42	Spatial-Relation 462 467	above
+T43	Spatial-Relation 545 570	surrounded by much at all
+T44	Modifier 541 544	n't
+T45	Spatial-Relation 582 601	sitting there alone
+A8	No-Obj T45
+T48	Modifier 626 631	a bit
+T49	Spatial-Relation 632 638	darker
+A9	No-Obj T49
+A10	Ambiguous-Obj T49
+#2	AnnotatorNotes T23	above
+#3	AnnotatorNotes T25	right
+T50	Modifier 200 208	mid-size
+A11	Mod-Neutral T50
+R11	Mod Arg1:T50 Arg2:T27	
+A12	Mod-Uncertainty-Approximation T29
+A7	Mod-Uncertainty-Approximation T33
+A13	Mod-Uncertainty-Approximation T36
+A14	Mod-Negation T44
+A3	No-Obj T43
+A15	Canonical-Undefined T43
+#1	AnnotatorNotes T45	alone

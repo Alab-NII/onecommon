@@ -1,0 +1,7 @@
+0: i have a lot of dots on the northeast side of my circle
+1: do you see a small very light dot right above a slightly larger black dot
+0: no. i see a small darker dot on the right of a larger lighter dot
+1: no i dont see that. how about a large grey dot to the right of and above a slightly smaller darker dot
+0: i think i know what you're talking about but it seems like the darker dot is the same size
+1: its only very slightly smaller. lets pick the darker one anyway
+0: ok

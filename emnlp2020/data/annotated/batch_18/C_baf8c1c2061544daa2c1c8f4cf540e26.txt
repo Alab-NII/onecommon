@@ -1,0 +1,4 @@
+1: large dark dot all alone
+0: Do you see two tiny dots horizontal from each other? Left one is slightly higher and darker
+1: yes i do
+0: Take left one, and always try and relate at least one dot with another.

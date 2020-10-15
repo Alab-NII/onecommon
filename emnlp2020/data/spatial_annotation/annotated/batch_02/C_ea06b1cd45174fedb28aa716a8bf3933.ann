@@ -1,0 +1,39 @@
+T1	Markable 38 54	a tiny black one
+T2	Markable 61 63	it
+T3	Markable 15 32	a large dark grey
+T4	Markable 112 118	itself
+T5	Markable 153 159	itself
+T6	Markable 175 181	itself
+T7	Markable 164 171	a small
+T8	Markable 189 202	the small one
+T9	Markable 240 267	a slightly larger light one
+T10	Markable 219 234	a tiny grey one
+T11	Markable 283 285	it
+T12	Markable 317 335	the light gray one
+R1	Anaphora Arg1:T2 Arg2:T3	
+T13	Markable 84 108	a little medium gray one
+R2	Anaphora Arg1:T4 Arg2:T13	
+T14	Markable 130 149	a tiny med grey one
+R3	Anaphora Arg1:T5 Arg2:T14	
+R4	Anaphora Arg1:T6 Arg2:T7	
+T15	Markable 296 300	that
+T16	Spatial-Relation 33 37	with
+T17	Spatial-Relation 55 60	below
+T18	Spatial-Relation 109 111	by
+T19	Spatial-Relation 150 152	by
+T20	Spatial-Relation 172 174	by
+T21	Spatial-Relation 183 188	above
+T22	Spatial-Relation 203 215	to the right
+R5	Subj Arg1:T21 Arg2:T10	
+R6	Subj Arg1:T22 Arg2:T10	
+R7	Obj Arg1:T22 Arg2:T8	
+T23	Spatial-Relation 235 239	with
+T24	Modifier 242 250	slightly
+T25	Spatial-Relation 251 257	larger
+T26	Modifier 268 276	directly
+T27	Spatial-Relation 277 282	above
+T28	Spatial-Relation 336 342	on top
+R8	Obj Arg1:T28 Arg2:T15	
+#1	AnnotatorNotes T18	alone
+#2	AnnotatorNotes T19	alone
+#3	AnnotatorNotes T20	alone

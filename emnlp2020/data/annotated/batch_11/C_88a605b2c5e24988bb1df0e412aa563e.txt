@@ -1,0 +1,4 @@
+0: Do you see a small black dot?
+1: I have two very large, very dark dots. In between them is a smaller, also very dark dot. The large dot on the right is lower than the other two.
+0: Let's choose the dot in the middle of the two big black dots
+1: Ok, sounds good

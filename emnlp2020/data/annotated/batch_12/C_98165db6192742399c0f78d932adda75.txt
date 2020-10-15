@@ -1,0 +1,8 @@
+0: I have 2 very light dots. A medium sized one with a much smaller one to the left and slightly above
+1: I have a large medium grey dot with a slightly smaller and lighter grey dot above it
+0: Is there a darker smaller dot below and to the right of your medium gray dot?
+1: i have what you have
+0: The 2 light dots?
+1: yes
+0: ok. Let's pick the smaller one to the left
+1: ok

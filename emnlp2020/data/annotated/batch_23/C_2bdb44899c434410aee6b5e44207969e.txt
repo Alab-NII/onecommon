@@ -1,0 +1,7 @@
+0: Very large dark dot with a smaller black dot just above it to the left
+1: Nope.
+0: do you have a black dot all by itself
+1: Yes one that has a small light grey dot down and to the right of it and one that has a tiny dark grey dot down and to the left of it
+0: click on the black dot
+1: which one?
+0: the lonely black dot.

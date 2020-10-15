@@ -1,0 +1,6 @@
+T1	Markable 10 33	the largest darkest dot
+T2	Markable 51 53	it
+T3	Markable 61 67	itself
+T4	Markable 122 139	largest black dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+T5	Markable 76 87	others dots

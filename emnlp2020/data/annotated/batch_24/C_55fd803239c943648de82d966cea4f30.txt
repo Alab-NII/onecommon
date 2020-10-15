@@ -1,0 +1,4 @@
+0: I have one really dark dot.
+1: medium sized?
+0: Yes
+1: choose it?

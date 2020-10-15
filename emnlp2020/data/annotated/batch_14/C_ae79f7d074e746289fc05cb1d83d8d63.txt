@@ -1,0 +1,4 @@
+1: do you have a large black dot in between 2 lighter dot? the one on top is lighter and smaller, the one on the bottom to the right is medium grey
+0: I have one big dot with smaller one under about 6 oclock
+1: choose the big one?
+0: Okay

@@ -1,0 +1,4 @@
+0: Large black dot on the line
+1: I have a large black dot, is it all alone?
+0: None of mine are alone. I have 2 large black dots... one is on the line... the other is in a large triangle. with a black small dot left and up and a gray dot directly above it about a couple inches
+1: I have that triangle, click the large black dot in the triangle?

@@ -1,0 +1,4 @@
+0: lone light grey dot
+1: dont see it. do you see a very small black dot
+0: almost in a line with other black dots?
+1: yeah, pick the smallest

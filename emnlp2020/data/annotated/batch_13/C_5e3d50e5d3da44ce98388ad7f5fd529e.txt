@@ -1,0 +1,4 @@
+0: I have a line of 3 dots, a smaller one in the middle
+1: Do you see one medium sized very dark dot?
+0: Yes I do
+1: If that's what you meant by the line of dots, I say we click that darker one

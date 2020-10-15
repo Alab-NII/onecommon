@@ -1,0 +1,4 @@
+1: big black dot next to a slightly smaller grey dot near the bottom edge
+0: is the smaller one slight up to the left of the black one?
+1: yes it is
+0: k click the larger black one

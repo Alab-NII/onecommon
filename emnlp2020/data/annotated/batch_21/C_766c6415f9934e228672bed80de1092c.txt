@@ -1,0 +1,12 @@
+0: Do you see 3 smaller dots in a line with the two on the left being darker than the one on the right?
+1: no, there i a dark grey mid sized dot at 8 o'clock
+0: we have different views so that won't work...do you see a triangle of dots with one being a lighter grade and slightly bigger than the others?
+1: no, most of my dots are around the edge of the circle
+0: do you have a small almost black dot anywhere on yours?
+1: yes on the left side of the circle
+0: Is it next to other dots?
+1: no
+0: hmmm...do you have a large medium dot to the right of a medium dot the same color?
+1: yes on the right side
+0: Ok, select the large light dot on the right
+1: ok

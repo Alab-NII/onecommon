@@ -1,0 +1,8 @@
+T1	Markable 42 52	each other
+T2	Markable 147 161	the middle one
+T3	Markable 197 212	that darker one
+T4	Markable 3 29	2 med sized dark grey dots
+R1	Anaphora Arg1:T1 Arg2:T4	
+T5	Markable 97 127	a another almost identical one
+T6	None 88 90	if
+#1	AnnotatorNotes T6	is

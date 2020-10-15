@@ -1,0 +1,6 @@
+1: i have two medium dots close to each other, the dark one is below and to the left of the light one
+0: i see that too. to make sure, are there any other dots around those two?
+1: there are not, to the left there is a larger dark one and below and to the right there is a small grey one
+0: i see the same thing. which one do you think we should choose?
+1: let's go for the light grey one the top of the two
+0: ok

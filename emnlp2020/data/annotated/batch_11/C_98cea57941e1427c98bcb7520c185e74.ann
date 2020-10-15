@@ -1,0 +1,10 @@
+T1	Markable 52 70	3 small light dots
+T2	Markable 88 98	a triangle
+T3	Markable 126 133	the one
+T4	Markable 159 166	the one
+T5	Markable 182 184	it
+T6	Markable 236 238	It
+T7	Markable 201 215	the lowest one
+T8	Markable 258 271	the small one
+T9	Markable 14 22	any dots
+R1	Predicative Arg1:T2 Arg2:T1	

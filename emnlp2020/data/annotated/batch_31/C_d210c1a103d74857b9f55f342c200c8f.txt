@@ -1,0 +1,4 @@
+0: I have a single large light grey dot. Rest are dark grey
+1: i have a large light dot, and above to the right is a small slightly darker grey
+0: yep, that's the large dot I see. Let's select the large light dot
+1: sounds good!

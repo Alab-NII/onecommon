@@ -1,0 +1,6 @@
+0: Hello
+1: i have one small black around 5 o'clock
+0: my darkest dot is at 10 o'clock
+1: what about a dark big grey real close to the center?
+0: I have a big dark gray circle to the right of the center, halfway to the circle's edge.
+1: ok lets go with that

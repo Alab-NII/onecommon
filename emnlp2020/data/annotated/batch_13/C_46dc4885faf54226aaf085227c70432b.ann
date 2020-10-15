@@ -1,0 +1,16 @@
+T1	Markable 56 79	1 single light grey dot
+T2	Markable 96 112	a light gray dot
+T3	Markable 114 118	Mine
+T4	Markable 153 165	one tiny dot
+T5	Markable 212 233	2 tiny black-ish ones
+T6	Markable 242 252	each other
+T7	Markable 254 274	slightly smaller one
+T8	Markable 293 306	the other one
+T9	Markable 3 14	All my dots
+A1	All-Referents T9
+A2	All-Referents T3
+A3	No-Referent T2
+R1	Anaphora Arg1:T6 Arg2:T5	
+T10	Markable 311 315	They
+T11	Markable 365 379	the upper left
+T12	Markable 388 392	they

@@ -1,0 +1,4 @@
+1: I have one very large dark dot, do you have this one?
+0: Is it almost black and up and to the left of a smaller also very dark dot?
+1: Yes it is black, but it is not in the upper left, mine is in the lower left side with two other dots. One medium gray that is slightly smaller than the dark one and one small dot that is very light grey
+0: okay click that large black one!

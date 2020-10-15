@@ -1,0 +1,6 @@
+1: Do you see a face of dots with the nose being very light and smaller than the eyes?
+0: I see 5 dots forming a deformed sideways Z shape and two dots far below it almost forming vertically
+1: Okay the first triangle in that Z is it what I just described?
+0: yeah I presume so, I don't see a mouth to it though
+1: Haha no mouth! Click the nose!
+0: I'm down for a gamble

@@ -1,0 +1,6 @@
+0: i have a med size and med grey dot on the left side with a small med grey dot on the bottom a on the left.
+1: Is your smallest dot dark grey?
+0: it is a med grey color
+1: Yes.
+0: okay let choose the med grey color dot.
+1: Okay!

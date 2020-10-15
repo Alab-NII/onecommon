@@ -1,0 +1,8 @@
+0: I have one large black dot by itself
+1: closest one to it is a medium grey dot, pretty small, up and to the right?
+0: No. I have a very light grey dot with a small black one below it and slightly to the right
+1: that doesnt look black to me, its medium dark
+0: does the medium light gray have a same sized black one above and slightly to the right ?
+1: my circle cuts off, its really close to the edge. but i see a dark dot up and to the left of the light grey one.
+0: should we try the gray one?
+1: the light grey one.

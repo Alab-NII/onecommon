@@ -1,0 +1,4 @@
+1: I have a large black dot?
+0: Me too. It's towards the top with a smaller dark one above it
+1: Yes! Let's click the bigger one?
+0: Ok

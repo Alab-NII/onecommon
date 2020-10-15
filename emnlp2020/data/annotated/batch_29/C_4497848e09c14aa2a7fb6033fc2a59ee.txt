@@ -1,0 +1,3 @@
+0: Darkest circle, on the very edge
+1: Our circles will be centered different but I have two large darkgray/ black dots close and vertical from each other
+0: choose the darkest one

@@ -1,0 +1,4 @@
+0: I have a really large and dark dot, it has a small light dot on the right, and a grey small dot under
+1: I do too. Is that large dot almost black?
+0: yes it is, wanna select it?
+1: Yes!

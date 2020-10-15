@@ -1,0 +1,8 @@
+T1	Markable 53 64	a line of 3
+T3	Markable 170 186	the line of dots
+T4	Markable 195 206	the largest
+T5	Markable 3 19	large grey doubt
+#1	AnnotatorNotes T5	large grey dot
+T6	Markable 101 120	Smallest Light gray
+T7	Markable 122 131	med gray,
+T8	Markable 132 151	largest medium gray

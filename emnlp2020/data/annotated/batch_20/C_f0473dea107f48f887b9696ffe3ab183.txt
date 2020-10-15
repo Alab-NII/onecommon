@@ -1,0 +1,4 @@
+0: tiny black dot?
+1: yes
+0: s large light grey dot down to its right? if so click the tiny black dot
+1: i clicked the tiny dot

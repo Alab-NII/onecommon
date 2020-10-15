@@ -1,0 +1,9 @@
+T1	Markable 10 22	1 dot larger
+T2	Markable 42 44	It
+T3	Markable 128 130	it
+T4	Markable 149 157	that one
+T5	Markable 169 183	the larger one
+T6	Markable 28 40	all the rest
+T7	Markable 70 98	a same color but smaller dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	

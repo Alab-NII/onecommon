@@ -1,0 +1,4 @@
+1: One of the smallest dot i have is the lightest
+0: have that, above it is a bigger dot?
+1: Bigger and slightly lighter? let us select the small light dot
+0: ok

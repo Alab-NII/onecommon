@@ -1,0 +1,8 @@
+1: do you see a gray darker one on the line of the circle?
+0: I have a huge cluster of dots and a lonely large dark gray off to the right
+1: do you have any lighter gray dots?
+0: Yes there are two beside each other, vertically, in a strip of four circles
+1: is this lighter gray dot close to the outline of the circle? to the left
+0: yes it is kind of close but I think my circle will be a little different than yours
+1: yes that could be true do you want to try that dot or try another one
+0: lets try

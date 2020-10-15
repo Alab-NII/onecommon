@@ -1,0 +1,4 @@
+0: Do you have one medium color gray dot?
+1: yes, its bigger than almost all my other dots
+0: Yes, it should be the largest dot. Do you want to select that one?
+1: yes

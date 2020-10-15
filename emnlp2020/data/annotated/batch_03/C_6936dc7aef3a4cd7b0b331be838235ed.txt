@@ -1,0 +1,4 @@
+0: i see 3 large darkest dots
+1: are the largest darkest almost in the shape of a v
+0: a very flat V, sure
+1: lets pick the one at the bottom point of the v

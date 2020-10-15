@@ -1,0 +1,4 @@
+1: I have a large black dot with a very small one to the right that is light grey
+0: yes i have a dark large black dot between two smaller dots horizonal
+1: yes. should we pick the black dot?
+0: yes

@@ -1,0 +1,4 @@
+1: I have a very large dark grey dot. To its right and a tiny bit lower there is a slightly smaller much lighter dot.
+0: Small grey dot, to the left of it is a large lightest shade dot
+1: Does the small grey also have a medium black dot down and to the right?
+0: Yes, let's choose that dot that is lightest shade and right of your black Dot and left of my small grey dot

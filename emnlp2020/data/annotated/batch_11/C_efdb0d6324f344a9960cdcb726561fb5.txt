@@ -1,0 +1,3 @@
+1: Do you see the cluster of three dots bottom one is large and black. Choose large black one if you see it.
+0: yes i see it, will choose large black one
+1: Just an FYI, if you are the guy that simply says do you see a black tiny dot, advice, always describe dots in relation to other dots.

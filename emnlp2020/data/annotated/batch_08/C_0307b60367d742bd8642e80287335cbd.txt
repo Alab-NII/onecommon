@@ -1,0 +1,8 @@
+0: I have one very light grey dot to the left of all the other dots by itself
+1: Two of the largest dots almost the exact same shade and size
+0: I do not have two that look like that. most of mine are small
+1: K do you have two that are very very close to each other and medium and light grey?
+0: yes. the darker one is to the left and slightly lower?
+1: Yes is it larger?
+0: the one on the right is
+1: Yep Okay lets click that larger one on the right

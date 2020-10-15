@@ -1,0 +1,5 @@
+0: 3 in a line, largest on the left smallest on the right?
+1: Largest second darkest and smallest lightest and below the others?
+0: yep!
+1: click the smallest?
+0: sounds good

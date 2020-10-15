@@ -1,0 +1,6 @@
+1: I have a very large black dot with an even larger lighter one just up to the right of it
+0: I see a large light grey dot to the extreme left
+1: Is there a smaller medium gray dot way down and a touch to the right of it?
+0: mine is slightly larger grey dot
+1: I think I have that too. Let's do the large light gray one you mentioned before.
+0: yes please

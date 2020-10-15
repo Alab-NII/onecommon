@@ -1,0 +1,50 @@
+T1	Markable 30 37	The one
+T2	Markable 251 268	one tiny dark dot
+T3	Markable 280 301	a small dark gray dot
+T4	Markable 376 388	a larger dot
+T5	Markable 368 370	it
+T6	Markable 425 427	it
+T7	Markable 470 489	the little dark dot
+T8	Markable 9 13	dots
+T9	Markable 109 113	mine
+A1	All-Referents T9
+T10	Markable 143 162	a large dark circle
+T11	Markable 216 238	any large dark circles
+A2	No-Referent T11
+R1	Anaphora Arg1:T6 Arg2:T5	
+T12	Spatial-Relation 14 28	close together
+A3	No-Obj T12
+T13	Spatial-Relation 38 44	on top
+R2	Obj Arg1:T13 Arg2:T8	
+T14	Spatial-Relation 48 54	larger
+R3	Obj Arg1:T14 Arg2:T8	
+T15	Modifier 56 63	roughly
+T16	Spatial-Relation 64 78	the same shade
+R4	Obj Arg1:T16 Arg2:T8	
+T17	Modifier 84 92	slightly
+T18	Spatial-Relation 93 105	to the right
+R5	Obj Arg1:T18 Arg2:T8	
+T19	Spatial-Relation 118 134	different shades
+A4	No-Obj T19
+T20	Spatial-Relation 163 192	at the top right of the image
+A5	No-Obj T20
+T21	Spatial-Relation 302 333	in the upper left of the circle
+A6	No-Obj T21
+T22	Spatial-Relation 338 359	not touching the edge
+A7	No-Obj T22
+T23	Spatial-Relation 371 375	have
+T24	Spatial-Relation 389 409	with a lighter shade
+#1	AnnotatorNotes T24	lighter than
+T25	Modifier 410 418	a little
+T26	Spatial-Relation 419 424	below
+T27	Spatial-Relation 432 443	to the left
+R6	Subj Arg1:T27 Arg2:T4	
+R7	Obj Arg1:T27 Arg2:T6	
+A8	Mod-Uncertainty-Approximation T15
+#2	AnnotatorNotes T19	different color
+#3	AnnotatorNotes T22	on the edge
+T28	Modifier 338 341	not
+A9	Mod-Negation T28
+A10	Mod-Subtlty T25
+T29	Spatial-Relation 378 384	larger
+A11	Ambiguous-Obj T29

@@ -1,0 +1,3 @@
+1: do you have a medium grey touching the border
+0: you see two dark ones, about 2 inches apart in line with each other, with a small med/grey one below them?
+1: let us select this small medium grey one

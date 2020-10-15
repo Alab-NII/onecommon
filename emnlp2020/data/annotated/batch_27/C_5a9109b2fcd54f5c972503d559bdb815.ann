@@ -1,0 +1,9 @@
+T1	Markable 27 46	a sea of light dots
+T2	Markable 133 137	them
+T3	Markable 62 83	a group of small dots
+T4	Markable 105 115	a triangle
+T6	Markable 85 99	the light ones
+T7	Markable 141 157	a small dark dot
+T8	Markable 172 185	that dark dot
+T9	Markable 3 23	lone small black dot
+R1	Predicative Arg1:T4 Arg2:T6	

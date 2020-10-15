@@ -1,0 +1,7 @@
+T1	Markable 29 39	a triangle
+T2	Markable 15 25	three dots
+T3	Markable 54 76	a large light grey dot
+T4	Markable 128 145	a medium grey dot
+T5	Markable 89 110	a small dark grey dot
+T6	Markable 182 204	the top light grey dot
+R1	Predicative Arg1:T1 Arg2:T2	

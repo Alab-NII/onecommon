@@ -1,0 +1,37 @@
+T1	Markable 29 42	a small black
+T2	Markable 78 82	that
+T3	Markable 49 51	it
+T4	Markable 113 125	one dark dot
+T7	Markable 215 218	one
+T8	Markable 196 199	one
+T9	Markable 206 210	that
+T10	Markable 231 242	any of that
+T11	Markable 167 187	three large grey one
+T12	Markable 249 263	your grey dots
+T13	Markable 10 23	one med black
+R1	Anaphora Arg1:T3 Arg2:T13	
+T14	Markable 86 107	2 big light grey dots
+T15	Markable 148 155	those 2
+R2	Anaphora Arg1:T15 Arg2:T14	
+R3	Anaphora Arg1:T9 Arg2:T11	
+A1	Generic T12
+T5	Markable 281 302	the bottom large grey
+T6	Spatial-Relation 24 28	with
+T16	Spatial-Relation 43 48	under
+T17	Spatial-Relation 52 67	near the middle
+A2	No-Obj T17
+R4	Subj Arg1:T17 Arg2:T1	
+R5	Subj Arg1:T17 Arg2:T13	
+T18	Spatial-Relation 126 147	to the bottom left of
+T19	Spatial-Relation 188 195	at 9:00
+A3	No-Obj T19
+T20	Spatial-Relation 200 205	under
+T21	Spatial-Relation 219 225	near 5
+A4	No-Obj T21
+T22	Spatial-Relation 285 291	bottom
+R6	Obj Arg1:T22 Arg2:T14	
+T23	Spatial-Relation 303 314	on the left
+A5	No-Obj T23
+#1	AnnotatorNotes T19	left
+#2	AnnotatorNotes T21	bottom right
+#3	AnnotatorNotes T17	center

@@ -1,0 +1,11 @@
+T1	Markable 105 107	it
+T2	Markable 123 130	a match
+T3	Markable 152 167	a med black dot
+T4	Markable 187 204	a darker gray dot
+T5	Markable 221 231	the darker
+T6	Markable 286 296	darker one
+T7	Markable 10 27	a tiny light gray
+T8	Markable 67 87	a med size gray dont
+#1	AnnotatorNotes T8	a med size gray dot
+A1	No-Referent T2
+T9	Markable 249 259	the medium

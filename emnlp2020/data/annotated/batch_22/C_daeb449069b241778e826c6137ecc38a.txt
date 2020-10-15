@@ -1,0 +1,4 @@
+1: I see 3 larger grey dots
+0: are they kind of far from each other and form a triangle?
+1: yes
+0: okay click the one further up!

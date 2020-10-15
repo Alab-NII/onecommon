@@ -1,0 +1,4 @@
+0: I have the blackest dot and have a lighter one and smaller one close
+1: ok, the lighter one is above and the other one is to the right is still grey and almost the same size?
+0: No. do you see a lonely small dot of medium gray
+1: i think so, lets try it

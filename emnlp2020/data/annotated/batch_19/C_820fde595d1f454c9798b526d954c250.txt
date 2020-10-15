@@ -1,0 +1,5 @@
+0: my smallest dot is medium gray. to its left is a very dark dot, medium sized. do you see this grouping?
+1: do you see a large medium grey dot very close to the bottom left of a lighter grey dot
+0: i do see that grouping. the darker on the bottom left is larger. the lighter on the top right is smaller. very close to each other.
+1: okay great should we pick the darker one?
+0: yes please. thanks.

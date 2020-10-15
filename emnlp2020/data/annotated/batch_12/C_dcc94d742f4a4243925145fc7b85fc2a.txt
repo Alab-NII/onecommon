@@ -1,0 +1,7 @@
+0: i have a large medium-grey dot with a darker dot above it and just a tad to the right
+1: i see a small black dot with a slightly larger darker grey dot directly to the right of it.
+0: i don't have that, i have a medium black dot with a similar maybe smaller sized lighter grey dot directly to the right
+1: i do not see that. do you have any others that are close together?
+0: i have one set that is close, there are two medium grey dots on top of each other, the bottom one is a bit to the right
+1: i see that. lets choose the bottom one
+0: yep

@@ -1,0 +1,5 @@
+T1	Markable 13 33	almost vertical line
+T2	Markable 63 73	Middle dot
+T3	Markable 102 117	that middle one
+T4	Markable 3 9	3 dots
+R1	Predicative Arg1:T1 Arg2:T4	

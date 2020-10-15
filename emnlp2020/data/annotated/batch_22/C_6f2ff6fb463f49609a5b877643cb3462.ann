@@ -1,0 +1,11 @@
+T1	Markable 34 37	two
+T2	Markable 100 120	any large light dots
+T3	Markable 76 80	they
+T4	Markable 137 166	one large very light gray dot
+T5	Markable 168 170	it
+T6	Markable 182 188	itself
+T7	Markable 199 207	that one
+T8	Markable 27 28	3
+R2	Anaphora Arg1:T3 Arg2:T1	
+R3	Anaphora Arg1:T5 Arg2:T4	
+R1	Anaphora Arg1:T6 Arg2:T5	

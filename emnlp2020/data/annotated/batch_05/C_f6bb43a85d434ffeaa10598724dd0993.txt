@@ -1,0 +1,9 @@
+1: 3 medium size dots one black one med gray one light grey
+0: I have a black dot in the middle of two larger dots
+1: yes mine is to right
+0: Same, is the top dot the lightest ?
+1: yes
+0: which one do you want to select ?
+1: don't care
+0: the darkest one
+1: ok the black in middle

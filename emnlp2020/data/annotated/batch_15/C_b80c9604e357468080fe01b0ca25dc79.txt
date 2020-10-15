@@ -1,0 +1,7 @@
+1: Do you have a pair of black dots close together with a light very small dot above and to the left?
+0: I see two black dots, very close, near bottom, one on right is slightly smaller and lower
+1: The one on the right of mine is higher. What else do you see?
+0: I do see a light gray dot, small and above the two black dots. Also see large black dot with gray dot below and another gray dot to right
+1: Hmm... I don't see those. Do you have a large light grey dot that is far apart from everything (at least above, it's on the bottom of my view)?
+0: sorry black dots near bottom I was wrong the one on right is slightly above, i think it is same as you saw, can we pick light gray small dot above the two black dots
+1: Yes, let's choose that small one.

@@ -1,0 +1,4 @@
+1: I have a very dark dot that is almost large
+0: by the edge of your circle?
+1: It a smaller one below to the right that is dark too
+0: I have that then. pick the dark dot large

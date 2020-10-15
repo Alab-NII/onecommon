@@ -1,0 +1,5 @@
+1: i have only 1 small medium grey dot the rest of my dots are large
+0: I have a cluster of 4 with a large black dot
+1: is there a large light grey dot above and left?
+0: Yes
+1: ok select the large dark one

@@ -1,0 +1,4 @@
+1: I have a medium, black dot alone
+0: Do you have two, larger, medium gray dots almost in parallel?
+1: no. I have one large, dark grey dot above a smaller one of the same shade, but the large one is slightly to the right
+0: Let's select that large one slightly to the right. I have the same

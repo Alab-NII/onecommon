@@ -1,0 +1,4 @@
+1: two dots very close together almost on horizontal line?
+0: I have two close dots, a black and a dark grey, side by side, the one on the right is larger
+1: yes those are my dots too! click the larger one on the right!
+0: yeppers

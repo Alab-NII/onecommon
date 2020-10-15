@@ -1,0 +1,3 @@
+0: two large very light dots close together?
+1: yes. left dot higher than the right dot?
+0: yes! click that higher left one

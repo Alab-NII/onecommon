@@ -1,0 +1,15 @@
+T1	Markable 18 47	a lone medium sized black dot
+T2	Markable 129 147	all the other dots
+T3	Markable 80 102	three medium gray dots
+T4	Markable 58 74	a small triangle
+T5	Markable 159 169	a triangle
+T6	Markable 192 200	the dots
+T7	Markable 240 258	the lone black dot
+T8	Markable 308 323	most other dots
+T9	Markable 270 286	a lone black dot
+T10	Markable 352 364	the same one
+T11	Markable 340 344	that
+R1	Predicative Arg1:T3 Arg2:T4	
+R2	Predicative Arg1:T10 Arg2:T11	
+T12	Markable 174 177	its
+R3	Anaphora Arg1:T12 Arg2:T5	

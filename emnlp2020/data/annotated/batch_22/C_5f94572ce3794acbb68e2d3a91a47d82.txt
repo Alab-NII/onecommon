@@ -1,0 +1,4 @@
+1: I got two darker dots sitting next to each other. The right one is slightly higher than the left one.
+0: same size?
+1: yep
+0: Choose the darkest?

@@ -1,0 +1,10 @@
+T1	Markable 14 20	3 dots
+T2	Markable 44 54	a triangle
+T3	Markable 56 59	one
+T4	Markable 100 116	a tight triangle
+T5	Markable 169 179	lowest one
+T6	Markable 118 126	Left one
+T7	Markable 207 220	the large one
+R1	Predicative Arg1:T2 Arg2:T1	
+T8	Markable 71 72	2
+T9	Markable 146 154	smallest

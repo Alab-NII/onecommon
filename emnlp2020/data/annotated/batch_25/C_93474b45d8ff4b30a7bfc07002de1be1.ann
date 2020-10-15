@@ -1,0 +1,8 @@
+T1	Markable 84 98	the light gray
+T2	Markable 13 20	The two
+T3	Markable 127 129	it
+T4	Markable 154 166	the triangle
+T5	Markable 3 11	Triangle
+T6	Markable 138 145	the top
+T7	Markable 169 187	The small dark dot
+R1	Predicative Arg1:T7 Arg2:T6	

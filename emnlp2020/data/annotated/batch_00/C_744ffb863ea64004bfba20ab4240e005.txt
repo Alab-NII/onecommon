@@ -1,0 +1,6 @@
+1: I have a small dark gray dot right about in the middle of the circle
+0: Do you have 3 dots close together a dark medium, a light large and then a dark large in kind of a diagonal?
+1: Yes I do, in the lower left of the circle?
+0: In my lower left hand side as well. I also have one small lonely gray dot in my upper left hand circle. which dot would you like to select? I'm thinking the middle large medium dot?
+1: So the lowest dot in my diagonal is the small dark gray dot, then above is the large medium. Lets do the larger medium
+0: okay.

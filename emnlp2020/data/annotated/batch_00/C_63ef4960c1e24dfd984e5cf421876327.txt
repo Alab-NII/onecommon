@@ -1,0 +1,5 @@
+0: I see one large light gray dot
+1: Do you have one tiny, light grey dot? I do not see the large, light gray dot
+0: Yes - one tiny one all by itself.
+1: Yes. I think it's safe to select
+0: Yep!

@@ -1,0 +1,14 @@
+T1	Markable 85 87	it
+T2	Markable 106 112	itself
+T3	Markable 130 139	something
+T4	Markable 145 147	it
+T5	Markable 182 184	it
+T6	Markable 3 33	very small very light grey dot
+T7	Markable 41 56	the largest dot
+T8	Markable 67 78	medium gray
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T8 Arg2:T7	
+A1	Generic T3
+R3	Anaphora Arg1:T4 Arg2:T1	
+T9	Markable 151 154	Its
+R4	Anaphora Arg1:T5 Arg2:T9	

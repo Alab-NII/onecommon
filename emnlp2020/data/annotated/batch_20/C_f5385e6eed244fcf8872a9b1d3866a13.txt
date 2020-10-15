@@ -1,0 +1,4 @@
+1: One dark gray dot off to the left by itself.
+0: Medium to large black dot. Above it and to the left is a smaller grey dot
+1: Yes, I see it.
+0: They are very close to each other choose black big dot

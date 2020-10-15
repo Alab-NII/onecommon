@@ -1,0 +1,4 @@
+1: Dark dot top right edge of circle
+0: I have that. pick that. is it black?
+1: yes
+0: pick it

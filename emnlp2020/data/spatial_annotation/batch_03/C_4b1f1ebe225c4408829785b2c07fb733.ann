@@ -1,0 +1,7 @@
+T1	Markable 80 95	a diagonal line
+T2	Markable 65 76	3 pale dots
+T4	Markable 141 151	middle dot
+T5	Markable 196 210	the middle one
+T6	Markable 3 22	diagonal light of 3
+R1	Predicative Arg1:T1 Arg2:T2	
+T7	Markable 104 110	bottom

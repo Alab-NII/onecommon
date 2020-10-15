@@ -1,0 +1,25 @@
+T1	Markable 10 33	a single light grey dot
+T2	Markable 70 84	two large dots
+T3	Markable 126 136	each other
+T4	Markable 138 146	The dark
+T5	Markable 175 192	a single grey dot
+T6	Markable 263 282	the large black dot
+T7	Markable 236 254	the light grey dot
+T8	Markable 86 89	one
+T9	Markable 101 104	one
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T8	
+T10	Spatial-Attribute 55 60	large
+T11	Spatial-Attribute 95 99	dark
+T12	Spatial-Attribute 105 110	light
+T13	Spatial-Relation 112 125	right next to
+T15	Spatial-Relation 150 161	on the left
+R3	Obj Arg1:T15 Arg2:T2	
+T16	Spatial-Attribute 201 206	large
+T17	Spatial-Relation 218 223	alone
+A1	No-Obj T17
+T18	Modifier 211 217	fairly
+T19	Spatial-Relation 255 262	next to
+T20	Modifier 90 94	very
+A3	Mod-Neutral T18
+#1	AnnotatorNotes T13	near

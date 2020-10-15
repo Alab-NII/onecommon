@@ -1,0 +1,20 @@
+T1	Markable 10 45	a tight cluster of three large dots
+T3	Markable 47 61	The middle one
+T4	Markable 89 96	The one
+T5	Markable 154 169	the middle dark
+T2	Spatial-Relation 18 25	cluster
+T6	Modifier 12 17	tight
+R1	Mod Arg1:T6 Arg2:T2	
+A1	No-Obj T2
+T7	Spatial-Relation 51 57	middle
+R2	Obj Arg1:T7 Arg2:T1	
+T8	Spatial-Relation 80 87	highest
+R3	Obj Arg1:T8 Arg2:T1	
+T9	Spatial-Relation 97 109	on the right
+R4	Obj Arg1:T9 Arg2:T1	
+T10	Spatial-Relation 113 132	lightest and lowest
+R5	Obj Arg1:T10 Arg2:T1	
+T11	Spatial-Relation 158 164	middle
+T12	Spatial-Attribute 65 75	dark black
+R6	Obj Arg1:T11 Arg2:T1	
+A2	Mod-Extremity T6

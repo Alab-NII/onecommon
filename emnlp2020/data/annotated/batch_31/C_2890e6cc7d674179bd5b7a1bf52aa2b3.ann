@@ -1,0 +1,9 @@
+T1	Markable 42 50	Gray dot
+T2	Markable 105 112	the one
+T3	Markable 90 92	it
+T4	Markable 191 212	the leftie check mark
+T5	Markable 214 221	the one
+T6	Markable 279 287	that one
+T7	Markable 3 9	5 dots
+T8	Markable 168 173	thats
+R1	Anaphora Arg1:T6 Arg2:T5	

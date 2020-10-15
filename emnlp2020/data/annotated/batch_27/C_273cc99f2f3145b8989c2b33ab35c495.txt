@@ -1,0 +1,5 @@
+1: Large black with a smaller dark to the left of it
+0: no, i'm sorry, i dont see that
+1: Lone black dot on dotted line; I have a cluster of 4 as well... all different shapes and sizes
+0: I have a group of 4 in a diamond shape. the right is the darkest...
+1: Yes, pick darkest

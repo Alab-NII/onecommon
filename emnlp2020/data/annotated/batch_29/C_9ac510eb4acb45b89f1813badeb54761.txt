@@ -1,0 +1,4 @@
+0: do small dots close together and diagonal to each other?
+1: Are they the same size? Is the highest one on the right?
+0: highest light one on the right and larger black one on the bottom
+1: Click black one

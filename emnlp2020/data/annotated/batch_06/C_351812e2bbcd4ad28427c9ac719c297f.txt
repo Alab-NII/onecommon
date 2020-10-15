@@ -1,0 +1,6 @@
+0: i see a group of 3 dots, all different sizes, about the same color, largest one is top right, medium one is left, and smallest one is almost between those and lower than both
+1: I have a group of the different sized at my 4 oclock, one loner at my 6 and a group of 3 lined up between my 9 and 12.
+0: the group of 3 is at my 1 oclock, so i possibly wont see your others
+1: i think the group is going to be our common
+0: ok, the largest of the group?
+1: great

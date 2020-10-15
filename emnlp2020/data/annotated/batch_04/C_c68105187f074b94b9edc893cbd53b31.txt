@@ -1,0 +1,4 @@
+0: I have one small black dot
+1: yes
+0: go for it?
+1: yes

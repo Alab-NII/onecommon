@@ -1,0 +1,4 @@
+0: I have a black and grey dot the same size. the grey dot is slightly to the left and down.
+1: I see them
+0: lets choose the black one
+1: Okay!

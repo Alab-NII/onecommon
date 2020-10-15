@@ -1,0 +1,5 @@
+0: all my dots are pretty spaced out fyi
+1: same, do you have 3 small dots that could form a triangle?
+0: maybe, very light one on top, dark one at bottom left, medium grey, same size as dark on right
+1: yes I see that
+0: Pick the top, lightest grey of the three

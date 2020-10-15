@@ -1,0 +1,7 @@
+1: I see two dots of similar size fairly close together. They are pretty large. The one on top is darker, maybe a tad bigger and slightly to the left
+0: and the one below those two is a small dark dot?
+1: Yes, it is almost directly below the lighter dot
+0: yes, let's pick the dark dot
+1: The large one on top or small on bottom?
+0: the small one on bottom
+1: ok

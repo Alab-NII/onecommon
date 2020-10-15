@@ -1,0 +1,4 @@
+0: dark, medium size dot with lighter, smaller dot just to the right and down
+1: medium dark grey dot, very close to it is a smaller lighter dot?
+0: do you think we are describing the same? if so, pick the lighter one
+1: yes

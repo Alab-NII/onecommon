@@ -1,0 +1,5 @@
+0: Do you see a large dark dot with a small gray dot right next to it?
+1: Small black dot. Left of it and slightly lower is medium sized lightest shade dot
+1: No
+0: I think I see the small black dot
+1: Click it

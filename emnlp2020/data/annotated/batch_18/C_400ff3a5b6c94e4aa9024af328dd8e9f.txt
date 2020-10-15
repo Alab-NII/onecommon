@@ -1,0 +1,4 @@
+1: two large dots vertical from each other with the bottom being light gray and the top black
+0: I see a tiny dark circle with a light grey circle on its left
+1: I see that... the gray circle is slightly larger and lower?
+0: Yes. Lets pick the tiny circle

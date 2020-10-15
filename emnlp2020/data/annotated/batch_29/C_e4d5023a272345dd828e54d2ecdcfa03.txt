@@ -1,0 +1,4 @@
+1: i see a a light grey dot and it's tiny. Up and to the right is a large darker dot
+0: i see that. is there a smaller dark dot below that light grey dot
+1: yes i see that. let's pick the light grey dot in the middle?
+0: yeah. will do

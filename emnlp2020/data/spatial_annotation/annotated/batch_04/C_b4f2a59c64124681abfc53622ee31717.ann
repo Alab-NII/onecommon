@@ -1,0 +1,22 @@
+T1	Markable 26 32	itself
+T2	Markable 82 99	one dark gray dot
+T3	Markable 104 122	one light gray dot
+T4	Markable 54 66	big dark dot
+T5	Markable 157 169	the dark dot
+T6	Markable 3 22	Tiny light gray dot
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 192 196	that
+R2	Anaphora Arg1:T7 Arg2:T5	
+T8	Spatial-Relation 23 25	by
+T9	Spatial-Relation 33 45	on the right
+A1	No-Obj T9
+T10	Spatial-Relation 67 80	in the center
+A2	No-Obj T10
+T11	Spatial-Relation 123 142	at the bottom right
+A3	No-Obj T11
+A4	Ambiguous-Obj T11
+R3	Subj Arg1:T11 Arg2:T2	
+R4	Subj Arg1:T11 Arg2:T3	
+T12	Spatial-Relation 170 183	on the center
+A5	No-Obj T12
+#1	AnnotatorNotes T8	alone

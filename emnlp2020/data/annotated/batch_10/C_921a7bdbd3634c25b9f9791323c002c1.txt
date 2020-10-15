@@ -1,0 +1,5 @@
+1: I see a lonely grey dot with no others around it.
+0: Is it very large?
+1: yes
+0: Ok, let's pick that one
+1: great

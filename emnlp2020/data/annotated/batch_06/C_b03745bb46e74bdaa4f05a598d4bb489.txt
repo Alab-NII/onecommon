@@ -1,0 +1,6 @@
+0: largest, darkest to the right... with a small light one directly across to the far left?
+1: no - i see a string of 4 dots pretty close arcing down and to the left, darkest dot is 3rd down
+0: ok i have three like that, maybe your bottom one is cut off for me... is there a small dark one across from your top/med-grey one, that's almost in line with it but far away?
+1: yes it is far away almost in line and of the three you see , the lightest dot is in the middle
+0: ok let's choose the darkest dot, third one down?
+1: yes third one down

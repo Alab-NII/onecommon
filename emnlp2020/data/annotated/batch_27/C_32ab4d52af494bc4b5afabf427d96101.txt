@@ -1,0 +1,6 @@
+1: very large dark grey dot?
+0: Nope. Tiny light grey dot?
+1: hmm is there an almost black dot of the same size slight up to its right?
+0: Yes!!
+1: k click that black one!
+0: Okay!

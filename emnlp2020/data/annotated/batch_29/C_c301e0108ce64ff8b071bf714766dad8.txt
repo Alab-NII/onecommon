@@ -1,0 +1,3 @@
+1: Two dot close together in size and color
+0: are they small and light gray?
+1: Yes, and let us select the topmost

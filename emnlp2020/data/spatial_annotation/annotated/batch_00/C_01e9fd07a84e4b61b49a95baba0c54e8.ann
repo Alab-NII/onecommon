@@ -1,0 +1,30 @@
+T1	Markable 44 58	All of my dots
+T2	Markable 110 122	a small gray
+T3	Markable 184 196	a large gray
+T4	Markable 352 366	the large gray
+T5	Markable 3 19	Large might gray
+T6	Markable 136 147	larger gray
+T7	Markable 258 283	a medium size medium gray
+T8	Markable 299 309	everything
+T9	Markable 323 336	a medium gray
+T10	Markable 392 396	that
+T11	Spatial-Relation 284 298	to the left of
+T12	Spatial-Relation 337 351	to the left of
+T13	Spatial-Relation 20 39	to the right bottom
+T15	Spatial-Relation 63 94	nearer to the top of the circle
+T16	Spatial-Relation 123 134	on the left
+T17	Spatial-Relation 148 169	on the right and down
+T18	Spatial-Relation 204 217	in the center
+T19	Spatial-Relation 222 237	towards the top
+T20	Spatial-Relation 367 380	in the circle
+T21	Modifier 197 203	almost
+R1	Mod Arg1:T21 Arg2:T18	
+A1	No-Obj T13
+A2	No-Obj T15
+A3	No-Obj T16
+A4	No-Obj T17
+A5	No-Obj T18
+A6	No-Obj T19
+A7	No-Obj T20
+T14	Spatial-Relation 136 142	larger
+R2	Obj Arg1:T14 Arg2:T2	

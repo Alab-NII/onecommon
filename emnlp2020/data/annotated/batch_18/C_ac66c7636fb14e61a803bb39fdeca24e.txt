@@ -1,0 +1,5 @@
+0: i see 4 dots making a sort of crooked diamond
+1: I have that too and the top one and the one to the right are darker?
+0: yes, bottom two are grey with the bottom larger
+1: yup, let's click on the bottom larger one?
+0: agreed

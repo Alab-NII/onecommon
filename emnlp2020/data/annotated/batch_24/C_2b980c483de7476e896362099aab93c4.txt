@@ -1,0 +1,5 @@
+1: Two dots. Left is bigger and gray. The right is smaller and about the same color.
+0: yes! Does the smaller one have an even smaller black dot up and to the right of it?
+1: It is far away... is that the one?
+0: Yes!
+1: Lets choose the right dot we talked about earlier.

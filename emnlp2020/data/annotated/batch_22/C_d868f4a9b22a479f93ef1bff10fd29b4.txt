@@ -1,0 +1,5 @@
+1: I got a larger mid grey dot on my right side. It's bigger than all the other dots. Above and to the left is a smaller but still quite big light grey dot. You got that one ?
+0: Do you see two dark dots with the bottom one smaller and to the right of the top one?
+1: I don't have your pair.
+0: i'm not seeing yours either...how about two dots look to be same size...bottom one is black
+1: I think i got that pair. Go for the bottom one!

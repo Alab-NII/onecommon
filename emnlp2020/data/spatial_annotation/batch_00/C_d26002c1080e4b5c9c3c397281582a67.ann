@@ -1,0 +1,13 @@
+T1	Markable 10 18	two dots
+T2	Markable 60 73	the lower one
+T3	Markable 110 138	a very large medium tone dot
+T4	Markable 149 153	mine
+T5	Markable 186 188	it
+T6	Markable 224 241	a black small dot
+T7	Markable 265 272	the dot
+T8	Markable 345 352	two dot
+T9	Markable 413 426	the upper one
+R1	Anaphora Arg1:T5 Arg2:T4	
+A1	No-Referent T7
+T10	Markable 304 311	the two
+T11	Markable 358 367	the upper

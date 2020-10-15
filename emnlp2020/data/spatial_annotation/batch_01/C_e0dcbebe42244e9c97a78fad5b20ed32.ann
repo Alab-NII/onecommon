@@ -1,0 +1,6 @@
+T1	Markable 43 53	a triangle
+T2	Markable 63 76	2 bottom dots
+T3	Markable 88 91	one
+T4	Markable 3 9	3 dots
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 116 123	the top

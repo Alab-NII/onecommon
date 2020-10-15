@@ -1,0 +1,4 @@
+0: hi which dot do u wanna try?
+1: I have a group of two dots, one is medium and black, the other is small and light grey
+0: Is the light gray one up and to the left of the black one?
+1: yes, pick the larger black dot

@@ -1,0 +1,5 @@
+1: I see a light grey dot above the rest of the dots.
+0: are there two darker gray dots to the right of it and a little below it?
+1: Yes.
+0: okay, lets click the light gray one
+1: okay

@@ -1,0 +1,28 @@
+T1	Markable 116 126	the others
+T2	Markable 3 17	All of my dots
+T3	Markable 137 147	seven dots
+T4	Markable 291 303	all of those
+T5	Markable 313 333	a tiny dark grey dot
+T6	Markable 344 356	a medium one
+T7	Markable 445 447	it
+T8	Markable 467 469	it
+T9	Markable 548 556	that one
+T10	Markable 53 81	medium size almost black dot
+A1	All-Referents T3
+T11	Markable 201 216	small dark gray
+T12	Markable 218 226	med grey
+T13	Markable 227 237	light gray
+T14	Markable 238 247	dark gray
+T15	Markable 248 258	light gray
+T16	Markable 260 269	dark gray
+T17	Markable 275 284	dark gray
+T18	None 193 196	the
+#1	AnnotatorNotes T18	there
+A2	Generic T4
+T19	Markable 373 380	nothing
+A3	No-Referent T19
+T20	Markable 398 420	The smallest dark gray
+T21	Markable 425 438	a medium gray
+R1	Anaphora Arg1:T7 Arg2:T20	
+R2	Anaphora Arg1:T8 Arg2:T20	
+T22	Markable 518 524	that's

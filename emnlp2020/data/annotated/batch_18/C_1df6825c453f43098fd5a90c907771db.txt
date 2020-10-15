@@ -1,0 +1,5 @@
+0: I have a small light gray dot next to two large dark dots
+1: Ok, I have several large black dots. The largest one has a tiny very light grey dot directly horizontal to its right
+1: Its the same thing right?
+0: yup pick the light colored one
+1: Ok, good job!

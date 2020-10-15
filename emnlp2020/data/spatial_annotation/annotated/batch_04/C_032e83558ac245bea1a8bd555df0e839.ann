@@ -1,0 +1,22 @@
+T1	Markable 35 52	a small dark gray
+T2	Markable 10 20	a triangle
+T3	Markable 74 92	a large light gray
+T4	Markable 127 139	the triangle
+T5	Markable 154 173	a medium light gray
+T6	Markable 217 240	the small dark grey dot
+T7	Markable 54 68	a medium black
+T8	Markable 97 112	small dark gray
+T9	Spatial-Relation 12 20	triangle
+A1	No-Obj T9
+T10	Spatial-Relation 21 34	consisting of
+R1	Obj Arg1:T10 Arg2:T1	
+R2	Obj Arg1:T10 Arg2:T7	
+R3	Obj Arg1:T10 Arg2:T3	
+T11	Spatial-Relation 113 126	at the top of
+T12	Spatial-Relation 131 139	triangle
+A2	No-Obj T12
+T13	Spatial-Relation 149 153	with
+R4	Subj Arg1:T13 Arg2:T1	
+T14	Spatial-Relation 174 195	above and to the left
+R5	Obj Arg1:T14 Arg2:T1	
+A3	Ambiguous-Obj T14

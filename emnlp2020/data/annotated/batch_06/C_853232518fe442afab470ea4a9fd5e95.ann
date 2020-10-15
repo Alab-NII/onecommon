@@ -1,0 +1,19 @@
+T1	Markable 3 30	medium sized light grey dot
+T2	Markable 38 44	itself
+T3	Markable 49 65	A lot of my dots
+T4	Markable 127 135	that one
+T5	Markable 118 121	one
+T7	Markable 166 173	the one
+T9	Markable 264 274	each other
+T10	Markable 204 231	three very dark larger dots
+T11	Markable 329 341	the triangle
+T12	Markable 281 294	a smaller dot
+T15	Markable 347 351	they
+T16	Markable 366 371	those
+T17	Markable 426 438	the triangle
+T18	Markable 406 422	that smaller dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T19	Markable 73 83	themselves
+R2	Anaphora Arg1:T19 Arg2:T3	
+R3	Anaphora Arg1:T9 Arg2:T10	
+R4	Anaphora Arg1:T15 Arg2:T10	

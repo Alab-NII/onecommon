@@ -1,0 +1,4 @@
+1: large black dont alone
+0: No, I have a medium sized and colored gray dot, above it and very slightly to the right is a tiny dark dot
+1: I think the tiny dot is what i have
+0: Okay, let's select it

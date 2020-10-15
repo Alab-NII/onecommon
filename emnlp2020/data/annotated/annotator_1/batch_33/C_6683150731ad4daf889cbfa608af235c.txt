@@ -1,0 +1,4 @@
+0: Do you have one large black dot?
+1: Yes, with a small dark grey dot down and to the right, very close
+0: Lets select the large black dot
+1: Sounds Good!

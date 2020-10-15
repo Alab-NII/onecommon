@@ -1,0 +1,10 @@
+1: 1 lonely dot almost in the center of the circle \
+0: i have three black dots in a down slope
+1: left upper side
+0: the smallest is in the middle
+1: how about top left small dark circle touching line
+0: the dots aren't in the same places in my circle as in yours
+1: do you have two medium circles left side that side by side
+0: I have three grey circles in an upslope largest at top
+1: yes click the middle one
+0: ok

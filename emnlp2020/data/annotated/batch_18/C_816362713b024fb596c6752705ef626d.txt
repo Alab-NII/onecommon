@@ -1,0 +1,7 @@
+1: I have a single very large black dot. Close by, up and to its left is a slightly smaller but still fairly large, dark grey dot.
+0: three large dark dots in a row going down left to right?
+1: Do you see what I describe?
+0: i think so. further up to the right is a smaller lighter dot?
+1: Yes, almost directly vertical to the large dark grey. The light one is a tad to the right of vertical.
+1: Which one did you pick?
+0: yes! lets pick that top light one.

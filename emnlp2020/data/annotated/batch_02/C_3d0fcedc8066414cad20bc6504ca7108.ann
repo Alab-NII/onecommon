@@ -1,0 +1,32 @@
+T1	Markable 30 43	two same size
+T2	Markable 65 68	two
+T3	Markable 96 98	it
+T4	Markable 115 117	it
+T5	Markable 160 165	those
+T6	Markable 185 186	2
+T7	Markable 203 214	one another
+T8	Markable 216 225	light one
+T10	Markable 230 248	a smaller dark one
+T11	Markable 270 272	it
+T12	Markable 286 308	a small light grey one
+T13	Markable 327 336	the group
+T14	Markable 274 276	It
+T15	Markable 350 372	your two smallest ones
+T17	Markable 411 433	a larger dark grey dot
+T18	Markable 457 459	it
+T19	Markable 492 497	those
+T20	Markable 506 521	the darkest one
+T21	Markable 55 61	darker
+R1	Anaphora Arg1:T2 Arg2:T1	
+T22	Markable 79 86	lighter
+R2	Anaphora Arg1:T3 Arg2:T21	
+R3	Anaphora Arg1:T4 Arg2:T21	
+T23	Markable 119 124	these
+R4	Anaphora Arg1:T23 Arg2:T1	
+A1	No-Referent T5
+R5	Anaphora Arg1:T7 Arg2:T6	
+R6	Anaphora Arg1:T11 Arg2:T8	
+R7	Anaphora Arg1:T14 Arg2:T6	
+R8	Anaphora Arg1:T13 Arg2:T6	
+T9	Markable 387 405	a black medium dot
+R9	Anaphora Arg1:T18 Arg2:T9	

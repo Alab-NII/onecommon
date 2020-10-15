@@ -1,0 +1,35 @@
+T1	Markable 14 22	two dots
+T2	Markable 44 51	The one
+T3	Markable 161 164	one
+T5	Markable 226 233	the dot
+T6	Markable 119 128	a u-shape
+T7	Markable 206 217	your U shap
+T8	Markable 269 273	what
+R2	Anaphora Arg1:T8 Arg2:T7	
+T9	Modifier 23 27	very
+T10	Spatial-Relation 28 42	close together
+A1	No-Obj T10
+T11	Spatial-Relation 52 58	on top
+R3	Obj Arg1:T11 Arg2:T1	
+T12	Modifier 62 70	slightly
+T13	Spatial-Relation 71 78	smaller
+R4	Obj Arg1:T13 Arg2:T1	
+T14	Spatial-Relation 80 86	darker
+T15	Spatial-Relation 92 104	to the right
+R5	Obj Arg1:T15 Arg2:T1	
+R6	Obj Arg1:T14 Arg2:T1	
+T16	Spatial-Relation 121 128	u-shape
+A2	No-Obj T16
+T4	Spatial-Relation 129 147	with 4 darker dots
+A4	No-Obj T4
+T17	Spatial-Relation 149 160	surrounding
+T18	Spatial-Relation 173 186	the same size
+R1	Obj Arg1:T18 Arg2:T6	
+T19	Spatial-Attribute 191 195	grey
+T20	Spatial-Relation 211 218	U shape
+A5	No-Obj T20
+T21	Spatial-Relation 242 261	on the bottom right
+R7	Obj Arg1:T21 Arg2:T7	
+A3	Canonical-Undefined T16
+#1	AnnotatorNotes T17	outside
+A6	Canonical-Undefined T20

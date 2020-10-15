@@ -1,0 +1,10 @@
+0: Do you see three black dots that make up a triangle, with a really large grey dot to its left?
+1: Do you see two same sized black dots that are nearly horizontal from each other?
+0: maybe the bottom of the triangle i am mentioning above
+1: Only if at the top it is far away as I do not see the top part
+0: the top of the triangle is about an inch from the other two, do u see the large medium grey slightly above and to the left of those two equal sized black dots? i also see another black dot same size and color below and to the right of the two in a line
+1: Take that lonely one that is to the left then
+0: the lonely large medium grey dot?
+1: No I meant to the right and lower as you explained
+0: oh ok , the black one, small
+1: Yes small black

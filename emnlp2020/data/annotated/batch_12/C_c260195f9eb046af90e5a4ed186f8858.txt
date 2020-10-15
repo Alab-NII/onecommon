@@ -1,0 +1,11 @@
+1: I have a cluster of 2 dots next to each other. do you have that?
+0: DO YOU HAVE TWO BIG GREY DOT?
+1: I do. But they are different colors
+0: I HAVE 3 BIG DARK DOTS AND 2 BIG LIGHT GREY DOTS
+1: Are there any large/small of those dark dots that are next to they light ones?
+0: ONE PAIR IS
+1: Are they larger or smaller dots?
+0: THEY ARE BOTH BIG
+1: Is the one on the left a dark spot or light spot?
+0: LEFT IS DARK AND RIGHT ONE IS LIGHT
+1: let's choose the darker larger spot

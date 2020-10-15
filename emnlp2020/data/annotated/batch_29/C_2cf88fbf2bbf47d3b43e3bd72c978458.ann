@@ -1,0 +1,8 @@
+T1	Markable 31 41	each other
+T2	Markable 78 87	the other
+T3	Markable 50 53	one
+T4	Markable 109 118	small one
+T5	Markable 3 21	two small dark dot
+R1	Anaphora Arg1:T1 Arg2:T5	
+T6	None 73 77	that
+#1	AnnotatorNotes T6	than

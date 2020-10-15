@@ -1,0 +1,34 @@
+T1	Markable 10 28	a larger black dot
+T2	Markable 35 59	a smaller also black dot
+T3	Markable 146 155	the other
+T4	Markable 97 114	a darker grey dot
+T5	Markable 200 206	itself
+T6	Markable 177 196	any darker gray dot
+T7	Markable 219 237	the two black dots
+T8	Markable 367 375	your set
+T9	Markable 377 397	The lower of the two
+T10	Markable 70 73	its
+R1	Anaphora Arg1:T10 Arg2:T1	
+A1	No-Referent T6
+R2	Anaphora Arg1:T5 Arg2:T6	
+A2	No-Referent T5
+T11	Markable 307 316	which one
+T12	Markable 336 345	which one
+T13	Spatial-Relation 12 18	larger
+A3	No-Obj T13
+T14	Spatial-Relation 30 34	with
+T15	Spatial-Relation 37 44	smaller
+T16	Spatial-Relation 60 62	up
+T17	Spatial-Relation 74 78	left
+R3	Subj Arg1:T17 Arg2:T2	
+R4	Obj Arg1:T17 Arg2:T10	
+T18	Spatial-Relation 99 110	darker grey
+A4	No-Obj T18
+T19	Spatial-Relation 115 127	on the right
+T20	Spatial-Relation 128 137	away from
+T21	Spatial-Relation 181 192	darker gray
+A5	No-Obj T21
+T22	Spatial-Relation 197 199	by
+T23	Spatial-Relation 381 386	lower
+R5	Obj Arg1:T23 Arg2:T8	
+#1	AnnotatorNotes T22	alone

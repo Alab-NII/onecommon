@@ -1,0 +1,5 @@
+1: do you have one large, light dot to the right?
+0: no i can't see it, but do you have 2 small ones close to each other, one black at the bottom left?
+1: are they both dark? if you don't see the large light one do you see on the lower right a dark med/small one with a lighter one right next to it on the left of it but slightly higher?
+0: yes I see it, let's pick it
+1: which? the darker one on the lower right?

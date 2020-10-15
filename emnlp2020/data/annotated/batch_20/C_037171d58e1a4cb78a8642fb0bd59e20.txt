@@ -1,0 +1,9 @@
+0: i have two dark grey circles, the rest are light grey
+1: I have two dark grey circles also, they are not close to each other.
+0: i agree -- the two dark grey circles are not close to each other. one is slightly larger than the other.
+1: The slightly larger one... is there a very light grey dot above it?
+0: no, i don't see the very light grey dot above the slightly larger one.
+1: Hmmm... Do you have two light grey dots really close to each other, the one above might be slightly darker, but they are the same size?
+0: yes, i see those two light grey dots close to each other -- they are both quite small
+1: Ok, let's click the lighter one!
+0: cool

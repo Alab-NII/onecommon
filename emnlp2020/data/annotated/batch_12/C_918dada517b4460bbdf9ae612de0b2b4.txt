@@ -1,0 +1,5 @@
+1: I have a LARGE black dot all by itself
+0: I don't see that. I see a dark gray dot, but not black. I see 3 dots. They form a triangle. Different shades.
+1: Don't have it.
+0: I also see a lonely small gray dot. It is not light gray, but a lighter gray.
+1: Ok. I have one of those

@@ -1,0 +1,5 @@
+1: two large light grey dots that look almost identical?
+0: No. 3 dots top to bottom: large gray, medium light gray, med dark gray
+1: I think the top one is cut out of my view. Is the bottom one almost vertical but just a tiny bit to the right of the light grey above it?
+0: Yes
+1: k click that bottom dark one

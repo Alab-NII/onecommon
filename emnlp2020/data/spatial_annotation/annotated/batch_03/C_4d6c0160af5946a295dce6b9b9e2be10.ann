@@ -1,0 +1,38 @@
+T1	Markable 67 70	two
+T2	Markable 135 161	the large almost black one
+T3	Markable 94 97	one
+T6	Markable 168 182	the bigger one
+T7	Markable 308 320	a bigger one
+T8	Markable 9 17	7 things
+A1	All-Referents T8
+T9	Markable 44 45	3
+T4	Markable 237 250	my bigger one
+T5	Markable 272 281	which one
+A2	Generic T5
+T10	Markable 349 358	WHICH ONE
+A3	Generic T10
+T11	Spatial-Relation 50 56	darker
+A4	No-Obj T11
+T12	Modifier 80 86	almost
+T13	Spatial-Attribute 87 92	black
+T14	Modifier 101 105	very
+T15	Spatial-Attribute 106 111	small
+T16	Spatial-Relation 116 134	up to the right of
+T17	Spatial-Relation 172 178	bigger
+R1	Obj Arg1:T17 Arg2:T9	
+T18	Modifier 191 197	almost
+T19	Spatial-Attribute 198 203	black
+T20	Spatial-Relation 204 216	to the right
+A5	Ambiguous-Obj T17
+R2	Obj Arg1:T20 Arg2:T9	
+T21	Spatial-Relation 240 246	bigger
+R3	Obj Arg1:T21 Arg2:T1	
+T22	Spatial-Relation 254 270	down to the left
+A6	Ambiguous-Obj T22
+R4	Obj Arg1:T22 Arg2:T1	
+T23	Spatial-Relation 310 316	bigger
+R5	Obj Arg1:T23 Arg2:T9	
+T24	Spatial-Relation 321 337	down to the left
+R6	Obj Arg1:T24 Arg2:T9	
+A7	Ambiguous-Obj T23
+A8	Ambiguous-Obj T24

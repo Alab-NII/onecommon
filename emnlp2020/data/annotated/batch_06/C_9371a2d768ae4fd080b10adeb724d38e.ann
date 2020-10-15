@@ -1,0 +1,14 @@
+T1	Markable 24 30	a line
+T2	Markable 10 16	5 dots
+T3	Markable 67 71	four
+T4	Markable 138 146	a darker
+T5	Markable 167 169	it
+T6	Markable 269 271	it
+T7	Markable 284 301	the dark grey one
+R1	Predicative Arg1:T1 Arg2:T2	
+T8	Markable 113 118	the 4
+R2	Anaphora Arg1:T5 Arg2:T8	
+T9	Markable 174 184	light grey
+T10	Markable 185 194	dark grey
+T11	Markable 195 209	big light grey
+T12	Markable 214 236	medium side light grey

@@ -1,0 +1,3 @@
+0: do you see a tiny grey dot all alone?
+1: do you see a tiny grey closer to the center. if you do, let us select this tiny grey
+0: yes

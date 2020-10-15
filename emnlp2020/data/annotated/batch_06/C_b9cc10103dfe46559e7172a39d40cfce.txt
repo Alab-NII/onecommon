@@ -1,0 +1,4 @@
+1: really dark dot, with a really light dot above and to the left?
+0: I don't see that.
+1: umm, a really light large dot, with a darker dot slightly smaller below it and slightly to the left?
+0: I see that. Let's click the darker one!

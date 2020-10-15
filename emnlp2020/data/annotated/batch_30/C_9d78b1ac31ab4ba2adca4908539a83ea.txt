@@ -1,0 +1,5 @@
+1: Do you see a small triangle of light grey dots?
+0: i have a triangle dots top light on the bottom and a med grey color on top.
+1: Yes! Which one should we choose?
+0: the med color
+1: Okay!!

@@ -1,0 +1,7 @@
+1: I have two big black dots at 10 o'clock
+0: is there a slightly smaller one just above the left one?
+1: Yes
+0: and an even smaller darker one to the right of that, slightly higher?
+1: Yes
+0: ok which one should we choose... i think we see them all the same of those four - the smallest darkest to the right, top?
+1: We can selected the smallest darkest one

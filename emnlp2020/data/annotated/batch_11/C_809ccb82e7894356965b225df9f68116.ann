@@ -1,0 +1,7 @@
+T1	Markable 14 20	3 dots
+T2	Markable 24 46	almost a straight line
+T3	Markable 100 119	a small lighter dot
+T4	Markable 151 155	that
+T5	Markable 181 195	the larger dot
+R1	Predicative Arg1:T2 Arg2:T1	
+T6	Markable 64 78	My largest dot

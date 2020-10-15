@@ -1,0 +1,3 @@
+0: I see you have one large black dot at the top
+1: Oh yeah see it too, hard to miss!
+0: select it

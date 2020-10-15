@@ -1,0 +1,3 @@
+0: Horizontal line of 3 med gray, dark gray, light gray
+1: yes lightest grey is to the right ?
+0: yes choose that one

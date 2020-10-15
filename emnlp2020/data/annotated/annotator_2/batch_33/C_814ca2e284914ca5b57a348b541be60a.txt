@@ -1,0 +1,2 @@
+0: tiny dark/black dot with a tiny grey dot below and slightly to the left. it also has a large grey dot above and to the left
+1: got it, pick the lowest tiny dot

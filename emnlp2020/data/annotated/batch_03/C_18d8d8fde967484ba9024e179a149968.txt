@@ -1,0 +1,5 @@
+0: Hello
+1: I have four small grey dots on one side
+0: Me too. A dark black one on top, a light gray one on the left and two darker gray ones on the right and bottom
+1: I have that, all four of them. So which one do we choose out of the four?
+0: The darkest one

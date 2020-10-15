@@ -1,0 +1,5 @@
+T1	Markable 50 64	the middle one
+T2	Markable 65 76	the darkest
+T3	Markable 100 104	that
+T4	Markable 3 9	4 dots
+R1	Predicative Arg1:T2 Arg2:T1	

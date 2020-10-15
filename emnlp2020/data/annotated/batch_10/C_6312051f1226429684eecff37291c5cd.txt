@@ -1,0 +1,5 @@
+0: I have a large black dot
+1: I see one too. Is there a smaller dot to the left and above it
+0: Yes, the smaller dot is a medium grey
+1: I see that one too. We could select the big one
+0: Okay

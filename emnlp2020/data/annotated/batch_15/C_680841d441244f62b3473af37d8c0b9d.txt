@@ -1,0 +1,9 @@
+0: do you have 2 dots, similar in size, the right one is slight below the other and darker in color?
+1: Have two smallest dot of the seven one being the top of a big one.
+0: don't have yours
+1: Do you have one biggest and darkest dot?
+0: no
+1: One big dot above a very small dot?
+0: similar color? grey? big one is above and to the left?
+1: Yes, select the smallest dot.
+0: ok

@@ -1,0 +1,21 @@
+T1	Markable 42 59	a larger grey dot
+T2	Markable 142 144	it
+T3	Markable 91 114	a larger very light one
+T4	Markable 160 181	a larger med/grey one
+T5	Markable 200 209	same ones
+T6	Markable 231 235	that
+T7	Markable 285 306	a small dark grey dot
+T8	Markable 314 324	a triangle
+T9	Markable 333 343	other dots
+T10	Markable 396 414	the right-most one
+T11	Markable 418 430	the triangle
+T12	Markable 483 499	that largest one
+T13	Markable 3 14	a black dot
+T14	Markable 64 84	very small black one
+R1	Anaphora Arg1:T2 Arg2:T14	
+T15	Markable 185 190	their
+R2	Anaphora Arg1:T5 Arg2:T15	
+A1	No-Referent T6
+T16	Markable 239 243	they
+R3	Predicative Arg1:T9 Arg2:T8	
+T17	Markable 503 515	the triangle

@@ -1,0 +1,60 @@
+T1	Markable 3 20	one tiny dark one
+T2	Spatial-Relation-Markable 24 28	line
+T3	Markable 34 47	a medium grey
+T4	Markable 54 66	the med grey
+T5	Markable 81 84	its
+T6	Markable 123 138	a tiny dark dot
+T7	Markable 166 183	the tiny dark one
+T8	Markable 204 234	a slightly larger med/grey one
+T9	Markable 241 244	its
+R1	Anaphora Arg1:T9 Arg2:T7	
+T10	Markable 277 301	the much larger med/grey
+T11	Markable 305 308	its
+R2	Anaphora Arg1:T11 Arg2:T7	
+T12	Markable 355 372	the tiny dark dot
+T13	Spatial-Relation 21 23	in
+T14	Spatial-Relation 29 33	with
+R3	Subj Arg1:T14 Arg2:T1	
+T15	Spatial-Relation 67 73	larger
+T16	Spatial-Relation 85 90	right
+R4	Subj Arg1:T16 Arg2:T4	
+R5	Obj Arg1:T16 Arg2:T5	
+T17	Modifier 92 100	slightly
+T18	Spatial-Relation 101 106	lower
+R6	Subj Arg1:T18 Arg2:T4	
+R7	Obj Arg1:T18 Arg2:T5	
+T19	Spatial-Relation 139 158	close to the border
+A1	No-Obj T19
+T20	Spatial-Relation 187 200	in the middle
+A2	No-Obj T20
+T21	Modifier 206 214	slightly
+T22	Spatial-Relation 215 221	larger
+T23	Spatial-Relation 245 249	left
+T24	Spatial-Relation 250 255	lower
+R8	Subj Arg1:T23 Arg2:T8	
+R9	Obj Arg1:T23 Arg2:T9	
+R10	Subj Arg1:T24 Arg2:T8	
+R11	Obj Arg1:T24 Arg2:T9	
+T26	Spatial-Relation 256 275	about 2 inches away
+R12	Subj Arg1:T26 Arg2:T8	
+R13	Obj Arg1:T26 Arg2:T9	
+T27	Modifier 281 285	much
+T28	Spatial-Relation 286 292	larger
+T29	Spatial-Relation 309 314	right
+T30	Spatial-Relation 315 320	lower
+T31	Modifier 324 329	about
+T32	Spatial-Relation 330 344	half inch away
+R14	Subj Arg1:T29 Arg2:T10	
+R15	Obj Arg1:T29 Arg2:T11	
+R16	Subj Arg1:T30 Arg2:T10	
+R17	Obj Arg1:T30 Arg2:T11	
+R18	Subj Arg1:T32 Arg2:T10	
+R19	Obj Arg1:T32 Arg2:T11	
+T25	Modifier 256 261	about
+A3	Mod-Uncertainty-Approximation T25
+#1	AnnotatorNotes T26	far
+A4	Mod-Extremity T27
+A5	No-Obj T2
+A6	Canonical-Undefined T2
+#2	AnnotatorNotes T19	outside
+#3	AnnotatorNotes T32	near

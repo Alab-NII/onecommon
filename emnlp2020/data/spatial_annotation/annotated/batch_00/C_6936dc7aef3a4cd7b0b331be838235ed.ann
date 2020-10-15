@@ -1,0 +1,18 @@
+T1	Markable 9 29	3 large darkest dots
+T2	Markable 120 127	the one
+T3	Markable 151 156	the v
+T4	Markable 37 56	the largest darkest
+T5	Markable 67 83	the shape of a v
+T6	Markable 87 100	a very flat V
+T7	Spatial-Relation 17 24	darkest
+A1	No-Obj T7
+T8	Spatial-Relation 41 56	largest darkest
+A2	No-Obj T8
+T9	Modifier 57 63	almost
+T10	Spatial-Relation 71 83	shape of a v
+R1	Mod Arg1:T9 Arg2:T10	
+T11	Spatial-Relation 94 100	flat V
+T12	Modifier 89 93	very
+A3	No-Obj T11
+T13	Spatial-Relation 128 150	at the bottom point of
+A4	No-Obj T10

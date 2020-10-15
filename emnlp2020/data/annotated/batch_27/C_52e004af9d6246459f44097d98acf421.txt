@@ -1,0 +1,4 @@
+1: Do you have 2 small dot that is vertical with a large gray dot of the right
+0: very large very light dot?
+1: I have a large light gray dot with a darker one up and to the right
+0: yes click that large light one!

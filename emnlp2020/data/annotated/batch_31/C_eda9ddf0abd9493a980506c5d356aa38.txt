@@ -1,0 +1,5 @@
+0: I see a medium dark dot with a smaller dark grey below to the right
+1: i think i see it; it's kind of in the bottom right of my view
+0: It can be in different places for us due to the orientation, select the larger black dot?
+1: yup let's do
+0: k

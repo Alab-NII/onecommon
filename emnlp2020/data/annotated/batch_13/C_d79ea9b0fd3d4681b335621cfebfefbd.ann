@@ -1,0 +1,6 @@
+T1	Markable 15 45	2 medium sized light gray dots
+T2	Markable 60 70	each other
+T3	Markable 72 86	the bottom one
+T4	Markable 159 170	the top one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T5	Markable 135 143	the same

@@ -1,0 +1,12 @@
+T1	Markable 9 17	two dots
+T2	Markable 87 96	the other
+T3	Markable 73 76	one
+T4	Markable 119 137	a Dark colored one
+T5	Markable 154 179	the medium light grey one
+T6	Markable 206 229	a set of two other dots
+T7	Markable 230 234	both
+T8	Markable 288 307	the light grey dots
+T9	Markable 268 272	they
+T10	Markable 358 381	the smallest light gray
+R1	Anaphora Arg1:T7 Arg2:T6	
+T11	Markable 386 390	That

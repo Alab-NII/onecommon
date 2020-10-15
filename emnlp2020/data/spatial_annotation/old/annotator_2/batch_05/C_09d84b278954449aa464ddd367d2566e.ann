@@ -1,0 +1,5 @@
+T1	Markable 9 39	two small moderately grey dots
+T2	Markable 57 61	them
+T3	Markable 79 92	the right one
+T4	Spatial-Relation 83 88	right
+R1	Obj Arg1:T4 Arg2:T1	

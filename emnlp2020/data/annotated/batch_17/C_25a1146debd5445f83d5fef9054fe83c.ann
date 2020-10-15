@@ -1,0 +1,9 @@
+T1	Markable 15 31	a small dark dot
+T2	Markable 71 73	it
+T3	Markable 108 141	a medium sized medium colored dot
+T4	Markable 147 169	a slightly smaller dot
+T5	Markable 212 214	it
+T6	Markable 238 259	the bottom larger dot
+T7	Markable 37 55	a large medium dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T5 Arg2:T3	

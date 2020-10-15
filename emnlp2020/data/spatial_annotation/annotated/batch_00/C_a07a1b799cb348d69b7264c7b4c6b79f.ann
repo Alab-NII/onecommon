@@ -1,0 +1,28 @@
+T2	Markable 124 131	the one
+T3	Markable 85 92	a black
+T4	Markable 69 83	two close dots
+T6	Markable 191 205	the larger one
+T7	Markable 3 11	two dots
+T8	Markable 97 108	a dark grey
+T9	Markable 162 167	those
+T5	Modifier 12 16	very
+T10	Spatial-Relation 17 31	close together
+A1	No-Obj T10
+T1	Modifier 32 38	almost
+T11	Spatial-Relation 39 57	on horizontal line
+A2	No-Obj T11
+T12	Spatial-Relation 73 78	close
+A3	No-Obj T12
+T13	Spatial-Relation 110 122	side by side
+A4	No-Obj T13
+R1	Subj Arg1:T13 Arg2:T4	
+T14	Spatial-Relation 132 144	on the right
+T15	Spatial-Relation 148 154	larger
+R2	Obj Arg1:T14 Arg2:T4	
+R3	Obj Arg1:T15 Arg2:T4	
+T16	Spatial-Relation 195 201	larger
+T17	Spatial-Relation 206 219	on the right!
+R6	Obj Arg1:T17 Arg2:T4	
+R7	Obj Arg1:T16 Arg2:T4	
+#1	AnnotatorNotes T12	near
+#2	AnnotatorNotes T13	horizontal

@@ -1,0 +1,26 @@
+T1	Markable 14 27	two dark ones
+T2	Markable 80 84	They
+T3	Markable 117 131	The higher dot
+T4	Markable 197 210	the large one
+T5	Markable 50 58	two dots
+R1	Anaphora Arg1:T2 Arg2:T5	
+T6	Markable 170 176	that's
+T7	Modifier 28 32	very
+T8	Spatial-Relation 33 38	close
+A1	No-Obj T8
+T9	Modifier 59 63	VERY
+T10	Spatial-Relation 64 78	close together
+A2	No-Obj T10
+T11	Spatial-Relation 94 101	smaller
+A3	No-Obj T11
+T12	Spatial-Attribute 106 115	dark grey
+T13	Spatial-Relation 121 127	higher
+R2	Obj Arg1:T13 Arg2:T2	
+T14	Modifier 135 143	slightly
+T15	Spatial-Relation 144 150	larger
+T16	Spatial-Relation 155 166	to the left
+R3	Obj Arg1:T15 Arg2:T2	
+R4	Obj Arg1:T16 Arg2:T2	
+T17	Spatial-Relation 211 216	above
+R5	Subj Arg1:T17 Arg2:T1	
+#1	AnnotatorNotes T8	near

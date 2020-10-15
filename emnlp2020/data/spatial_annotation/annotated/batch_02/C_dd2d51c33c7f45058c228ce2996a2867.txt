@@ -1,0 +1,5 @@
+1: one tiny dark one in line with a medium grey
+0: is the med grey larger and to its right, slightly lower?
+1: do you have a tiny dark dot close to the border
+0: no. the tiny dark one is in the middle... a slightly larger med/grey one is to its left lower about 2 inches away, the much larger med/grey to its right lower is about half inch away
+1: select the tiny dark dot

@@ -1,0 +1,23 @@
+T1	Markable 15 22	one dot
+T2	Markable 61 72	a black dot
+T3	Markable 123 127	that
+T4	Markable 172 195	two larger, darker dots
+T5	Markable 139 163	one small light grey dot
+T6	Markable 197 200	one
+T7	Markable 211 214	one
+T8	Markable 239 243	that
+T9	Markable 301 317	a small gray dot
+T10	Markable 329 340	a large dot
+T11	Markable 395 412	a medium gray dot
+T12	Markable 483 485	it
+T13	Markable 35 49	all the others
+A1	No-Referent T3
+A2	No-Referent T8
+T14	Markable 255 277	a large light grey dot
+T15	Markable 363 369	no dot
+A3	No-Referent T15
+T16	None 381 383	is
+#1	AnnotatorNotes T16	it
+T17	Markable 434 443	it's self
+#2	AnnotatorNotes T17	itself
+R1	Anaphora Arg1:T17 Arg2:T11	

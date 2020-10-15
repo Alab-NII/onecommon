@@ -1,0 +1,5 @@
+0: I have one medium sized very dark dot
+1: I think I see it too. There is a medium gray almost directly below and a large gray down and to the left?
+0: yes. Shall we click the medium dark dot?
+1: If it also has a small black dot to the right, then yes.
+0: yes it does

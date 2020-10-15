@@ -1,0 +1,4 @@
+0: i have 2 dark dots above each other
+1: I don't see that, I see a large black dot close and above and to the left of a smaller medium size dark dot
+0: i have that to lets pick the the smaller dark dot
+1: ok!

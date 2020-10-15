@@ -1,0 +1,5 @@
+1: hello which dot would you like to try for?
+0: I have 5 dots close together, 2 are darker, 2 are lighter
+1: i think i see that. is the smallest one medium gray and to the left of a larger darker one?
+0: yes exactly
+1: ok lets click the smallest one

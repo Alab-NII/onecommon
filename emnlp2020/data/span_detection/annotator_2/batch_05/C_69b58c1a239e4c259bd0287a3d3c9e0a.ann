@@ -1,0 +1,11 @@
+T1	Markable 20 35	three dark dots
+T2	Markable 46 50	They
+T4	Markable 80 93	the first one
+T5	Markable 132 153	the bigger middle one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T6	Spatial-Relation 36 44	together
+T3	Spatial-Relation 54 72	in a vertical line
+T7	Spatial-Relation 94 109	off to the left
+T8	Modifier 110 115	a bit
+T9	Spatial-Relation 136 142	bigger
+T10	Spatial-Relation 143 149	middle

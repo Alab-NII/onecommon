@@ -1,0 +1,11 @@
+T1	Markable 14 25	a black dot
+T2	Markable 31 36	a dot
+T3	Markable 132 146	the other dots
+T4	Markable 100 104	they
+T5	Markable 196 203	the one
+T6	Markable 219 232	the black one
+T7	Markable 249 262	the black dot
+T8	Markable 166 171	a dot
+T9	Markable 282 295	the black dot
+T10	Markable 56 59	its
+R1	Anaphora Arg1:T10 Arg2:T1	

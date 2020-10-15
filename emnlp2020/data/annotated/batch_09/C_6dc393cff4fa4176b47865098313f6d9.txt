@@ -1,0 +1,5 @@
+0: My tiniest dot is very light grey
+1: I see two large dots almost horizontal to each other. The one on the right is larger and very dark
+0: I don't have that
+1: Ok, do you see two dots, close together with a larger darker one to the lower right. The one on the left is light grey and small
+0: Yes! Let's click the light grey small one

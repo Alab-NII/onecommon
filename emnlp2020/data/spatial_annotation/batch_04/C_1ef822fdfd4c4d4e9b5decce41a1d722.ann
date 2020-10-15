@@ -1,0 +1,7 @@
+T1	Markable 92 100	that one
+T2	Markable 215 223	that one
+T3	Markable 233 237	that
+T4	Markable 3 22	one large black dot
+A1	No-Referent T1
+T5	Markable 159 175	medium size gray
+R1	Anaphora Arg1:T3 Arg2:T2	

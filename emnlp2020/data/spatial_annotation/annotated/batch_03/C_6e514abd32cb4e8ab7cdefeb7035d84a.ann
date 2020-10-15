@@ -1,0 +1,23 @@
+T1	Markable 15 32	a lonely gray dot
+T3	Markable 95 110	a dark gray dot
+T5	Markable 168 191	one dark gray large dot
+T6	Markable 193 195	It
+T7	Markable 211 225	any other dots
+T8	Markable 242 264	a large light gray dot
+T9	Markable 279 287	that one
+T10	Markable 299 301	it
+R1	Anaphora Arg1:T6 Arg2:T5	
+T2	Spatial-Relation 17 23	lonely
+A1	No-Obj T2
+T4	Spatial-Relation 33 51	at the very bottom
+T11	Modifier 40 44	very
+A2	No-Obj T4
+T12	Spatial-Relation 52 78	sitting on the dotted line
+A3	No-Obj T12
+#1	AnnotatorNotes T12	outside
+T13	Spatial-Relation 111 127	on the top right
+A4	No-Obj T13
+T14	Spatial-Relation 128 146	on the dotted line
+A5	No-Obj T14
+#2	AnnotatorNotes T14	outside
+T15	Spatial-Relation 199 210	larger than

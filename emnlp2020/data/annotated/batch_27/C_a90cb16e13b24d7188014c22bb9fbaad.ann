@@ -1,0 +1,16 @@
+T1	Markable 14 20	a pair
+T3	Markable 46 65	a very dark dot dot
+T6	Markable 113 146	a slightly larger and lighter dot
+T7	Markable 188 204	a tiny black dot
+T8	Markable 171 175	that
+T9	Markable 217 231	my tiniest dot
+T10	Markable 279 306	a slightly larger dark grey
+T11	Markable 313 315	it
+T12	Markable 361 384	a grouping of four dots
+T13	Markable 352 354	it
+T14	Markable 396 400	that
+#1	AnnotatorNotes T3	a very dark dot
+A1	No-Referent T8
+T2	Markable 262 273	the tiniest
+R1	Anaphora Arg1:T11 Arg2:T2	
+T4	Markable 428 440	the smallest

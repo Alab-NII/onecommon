@@ -1,0 +1,3 @@
+0: Hi, do you have a very pale small dot set apart from the other dots?
+1: yes, let's click on that one
+0: clicked it.

@@ -1,0 +1,26 @@
+T1	Markable 9 18	which dot
+A1	Generic T1
+T2	Markable 56 72	a line of 3 dots
+T3	Spatial-Relation-Markable 73 76	top
+T4	Spatial-Relation-Markable 91 97	middle
+T5	Markable 122 136	the bottom one
+T6	Markable 161 171	the middle
+T7	Markable 189 193	that
+T8	Markable 201 219	the light gray one
+T9	Markable 224 235	the top one
+T10	Spatial-Relation 58 62	line
+A2	No-Obj T10
+R1	Obj Arg1:T3 Arg2:T2	
+T11	Spatial-Attribute 80 90	light gray
+R2	Obj Arg1:T4 Arg2:T2	
+T12	Spatial-Attribute 101 105	dark
+T13	Spatial-Relation 110 117	smaller
+R3	Obj Arg1:T13 Arg2:T2	
+T14	Spatial-Relation 126 132	bottom
+R4	Obj Arg1:T14 Arg2:T2	
+T15	Spatial-Attribute 140 144	dark
+T16	Spatial-Relation 149 160	larger than
+T17	Spatial-Relation 165 171	middle
+R5	Obj Arg1:T17 Arg2:T2	
+T18	Spatial-Relation 228 231	top
+R6	Obj Arg1:T18 Arg2:T2	

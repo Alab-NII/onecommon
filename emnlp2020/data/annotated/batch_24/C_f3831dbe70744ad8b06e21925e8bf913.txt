@@ -1,0 +1,6 @@
+0: Two lone dots, bottom right... one medium dark grey, one smaller lighter grey
+1: I dont see it. I have one lonely large dark dot on the top left side.
+0: No, have a small tiny black at the top
+1: are there 3 dots about the same size that form a triangle below that tiny black dot?
+0: Yes!
+1: Pick the small black dot

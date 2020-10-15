@@ -1,0 +1,6 @@
+1: I got a large size medium gray dot above a small black dot
+0: No small black dot on my screen. I have 1 large grey dot next to a large black dot which is also next to a medium grey dot.
+1: I got a medium size lightish gray dot with medium size slightly darker gray dot above it to left a bit
+0: Are they about an inch apart?
+1: I believe so yes. Which one do we click?
+0: lets choose the dark grey one

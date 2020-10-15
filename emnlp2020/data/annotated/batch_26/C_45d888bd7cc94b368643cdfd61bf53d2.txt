@@ -1,0 +1,4 @@
+1: Top slightly left a large dark dot is on the border of the circle
+0: 2 dots aligned at an angle. lower right dot is black and larger. upper left lighter and smaller. dont have that
+1: I have the 2 dots you described
+0: pick the lower right black

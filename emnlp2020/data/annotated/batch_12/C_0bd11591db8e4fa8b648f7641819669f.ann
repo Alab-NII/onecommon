@@ -1,0 +1,18 @@
+T1	Markable 40 62	the lighter larger dot
+T2	Markable 15 33	a smaller dark dot
+T4	Markable 136 143	The one
+T7	Markable 266 269	one
+T9	Markable 326 350	a medium size darker dot
+T10	Markable 312 321	the other
+T11	Markable 379 399	the darkest gray dot
+T14	Markable 305 307	it
+T15	Markable 357 359	it
+T16	Markable 454 470	A SMALL DARK DOT
+T18	Markable 117 124	several
+T19	Markable 224 249	TWO LARGE LIGHT GREY DOTS
+T5	Markable 276 298	very small darker gray
+R1	Anaphora Arg1:T14 Arg2:T7	
+R2	Anaphora Arg1:T15 Arg2:T10	
+T6	Markable 364 375	the 2nd one
+T8	Markable 426 448	THE BIG LIGHT GREY DOT
+R3	Predicative Arg1:T11 Arg2:T6	

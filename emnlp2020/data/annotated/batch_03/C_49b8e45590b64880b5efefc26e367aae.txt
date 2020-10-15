@@ -1,0 +1,7 @@
+1: I see one medium size dot that is obviously the darkest
+0: Yes me too.
+1: Wait! Let's make sure. Does it form an almost perfect triangle with two similar sized dots that are slightly larger and a lighter grey but both the same color?
+0: No
+1: Okay, do you see three large dots that are almost the same size and almost form a line?
+0: Yes
+1: Yeah so I meant the dark medium dot forms a triangle with two of those dots

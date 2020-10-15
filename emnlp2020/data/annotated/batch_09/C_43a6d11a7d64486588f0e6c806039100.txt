@@ -1,0 +1,6 @@
+0: I have three dots in the lower left that are almost in a line. medium to lighter gray
+1: i've got three dots together, one bigger gray dot in between a smaller lighter dot above to the left and a dark smaller one under
+0: I think its different my bigger dot is at 6 o clock and on the line
+1: with the three you have, is the middle one lighter than the other two, and the third one larger?
+0: the middle one is lighter.
+1: ok pick that one

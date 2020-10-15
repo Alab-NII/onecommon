@@ -1,0 +1,11 @@
+T1	Markable 9 15	5 dots
+T2	Markable 76 80	that
+T3	Markable 123 130	the one
+T4	Markable 160 167	the one
+T5	Markable 94 102	two dots
+T6	Markable 241 248	the one
+T7	Markable 301 309	that one
+T8	Markable 39 49	a pentagon
+R1	Predicative Arg1:T8 Arg2:T1	
+A1	Generic T2
+T9	Markable 197 201	they

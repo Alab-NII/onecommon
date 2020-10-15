@@ -1,0 +1,26 @@
+T1	Markable 42 63	a tiny light gray dot
+T2	Markable 18 35	a large black dot
+T3	Markable 93 96	two
+T4	Markable 179 194	the lighter dot
+T5	Markable 239 254	the lighter dot
+T7	Markable 279 281	it
+T8	Markable 295 310	the lighter dot
+T9	Markable 67 70	its
+R1	Anaphora Arg1:T9 Arg2:T2	
+T10	Markable 138 149	another dot
+T11	Markable 217 229	nothing else
+A1	No-Referent T11
+T6	Spatial-Relation 37 41	with
+T12	Spatial-Relation 71 81	lower left
+R2	Subj Arg1:T12 Arg2:T1	
+R3	Obj Arg1:T12 Arg2:T9	
+T13	Spatial-Relation 150 158	close by
+T14	Spatial-Relation 163 178	to the right of
+T15	Spatial-Relation 183 190	lighter
+R4	Obj Arg1:T15 Arg2:T2	
+T16	Spatial-Relation 230 238	close to
+T17	Spatial-Relation 243 250	lighter
+R5	Obj Arg1:T17 Arg2:T2	
+T18	Spatial-Relation 299 306	lighter
+R6	Obj Arg1:T18 Arg2:T2	
+#1	AnnotatorNotes T13	near

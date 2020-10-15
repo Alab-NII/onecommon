@@ -1,0 +1,9 @@
+T1	Markable 3 33	very large very light grey dot
+T2	Markable 139 144	those
+T3	Markable 98 125	a medium medium colored dot
+T4	Markable 194 202	that one
+T5	Markable 157 171	the larger one
+T6	Markable 45 51	2 dots
+T7	Markable 67 93	a very large very pale dot
+R1	Anaphora Arg1:T2 Arg2:T6	
+R2	Anaphora Arg1:T4 Arg2:T5	

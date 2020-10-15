@@ -1,0 +1,5 @@
+0: do you have a medium dark gray dot towards the 6 o'clock position
+1: clocks dont always work. two almost identical small lightish grey dots almost on a horizontal line?
+0: yes I see them
+1: k click the one on the right and slightly upward
+0: done

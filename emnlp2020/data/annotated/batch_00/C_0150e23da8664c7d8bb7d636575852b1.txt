@@ -1,0 +1,7 @@
+0: big black with smaller grey to upper left
+1: is there a small grey directly to the left of it?
+0: the small light grey is upper left of the big black
+1: Ok, is there a slightly larger black above the small light grey, but not as large as the big black?
+0: ok i think your circle is more to the left. do you see the big dark grey with a lighter grey to the left . barely lower
+1: yes I do.
+0: ok we can click the large dark grey that is to the right of the smaller lighter grey

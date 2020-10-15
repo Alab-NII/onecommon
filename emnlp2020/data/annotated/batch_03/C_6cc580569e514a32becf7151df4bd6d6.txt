@@ -1,0 +1,4 @@
+0: do you have the smallest of all a grey
+1: I have a small grey dot on upper portion of circle on right
+0: if that is the smallest please select that one
+1: okay. it is equal in size to some others

@@ -1,0 +1,4 @@
+1: two large dots close together both dark gray
+0: Is the lower one smaller
+1: it looks just a little bit smaller
+0: Select the lower smaller one

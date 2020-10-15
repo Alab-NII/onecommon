@@ -1,0 +1,6 @@
+0: I see a lonely medium black dot
+1: I have a LARGE black dot by itself on the top right side
+0: I do not see that. I have a black dot with the same sized light gray dot to its left and slightly higher
+1: I have that too
+0: lets pick the black one
+1: Okay

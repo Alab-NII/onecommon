@@ -1,0 +1,23 @@
+T1	Spatial-Relation 77 95	in a diagonal line
+T2	Markable 65 76	3 pale dots
+T4	Markable 141 151	middle dot
+T5	Markable 196 210	the middle one
+T6	Markable 3 22	diagonal light of 3
+T7	Spatial-Relation-Markable 104 110	bottom
+T3	Spatial-Relation 3 11	diagonal
+A1	No-Obj T3
+T8	Spatial-Relation 23 49	going down and to the left
+A2	No-Obj T8
+A4	No-Obj T1
+R1	Obj Arg1:T7 Arg2:T6	
+T9	Modifier 117 125	a little
+T10	Spatial-Relation 126 132	darker
+R2	Obj Arg1:T10 Arg2:T6	
+T11	Spatial-Relation 141 147	middle
+R3	Obj Arg1:T11 Arg2:T2	
+T12	Modifier 155 163	slightly
+T13	Spatial-Relation 164 171	smaller
+R4	Obj Arg1:T13 Arg2:T2	
+T14	Spatial-Relation 200 206	middle
+R5	Obj Arg1:T14 Arg2:T2	
+#1	AnnotatorNotes T8	diagonal

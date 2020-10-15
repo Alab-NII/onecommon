@@ -1,0 +1,18 @@
+T1	Markable 59 69	each other
+T2	Markable 36 42	a line
+T3	Markable 10 32	dark medium sized dots
+T4	Markable 86 100	a cluster of 3
+T5	Markable 135 142	the one
+T6	Markable 190 197	the one
+T7	Markable 102 116	the lowest one
+T8	Markable 213 217	that
+T9	Markable 252 266	the darker one
+T10	Markable 308 321	the lower one
+T11	Markable 336 348	that cluster
+T12	Markable 380 401	the small darkest one
+T13	Markable 418 435	that cluster of 3
+R1	Predicative Arg1:T2 Arg2:T3	
+R2	Anaphora Arg1:T1 Arg2:T3	
+R3	Anaphora Arg1:T8 Arg2:T5	
+T14	Markable 285 289	both
+R4	Anaphora Arg1:T10 Arg2:T7	

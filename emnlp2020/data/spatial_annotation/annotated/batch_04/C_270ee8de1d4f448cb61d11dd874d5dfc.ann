@@ -1,0 +1,20 @@
+T1	Markable 9 32	a large medium grey dot
+T2	Markable 52 70	a smaller dark dot
+T3	Markable 77 79	it
+T4	Markable 103 113	a triangle
+T5	Markable 86 88	it
+T6	Markable 118 120	it
+T7	Markable 141 143	it
+T8	Markable 164 177	the black dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+R2	Anaphora Arg1:T7 Arg2:T6	
+T9	Spatial-Relation 33 46	in the middle
+A1	No-Obj T9
+T10	Spatial-Relation 47 51	with
+T11	Spatial-Relation 54 61	smaller
+T12	Spatial-Relation 71 76	above
+T13	Spatial-Attribute 89 94	black
+T14	Spatial-Relation 95 102	forming
+T15	Spatial-Relation 105 113	triangle
+A2	No-Obj T15
+T16	Spatial-Attribute 123 134	a black dot

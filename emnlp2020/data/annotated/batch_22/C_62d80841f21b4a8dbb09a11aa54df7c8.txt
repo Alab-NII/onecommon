@@ -1,0 +1,5 @@
+0: two dots aligned at an angle and beside each other. right lower is darker. both similar sizes
+1: two dots same larger size very close together
+0: is one darker than the other?
+1: yes and down to the right. if so click that darker one!
+0: ok

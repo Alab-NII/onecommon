@@ -1,0 +1,4 @@
+1: i have two large black dots all others are small and medium size grey
+0: Hmm I have one dot that is obviously the largest and pretty dark but I also have a medium sized dot that is almost black
+1: is your large black dot on the top portion to the right near 2:00 setting
+0: I think so. Lets click it!

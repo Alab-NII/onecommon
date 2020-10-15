@@ -1,0 +1,10 @@
+1: I see a dark dark grey large circle nearly touching a lighter grey smaller one
+0: I see 2 dots very close. One lighter and one darker.
+1: let's choose the lighter grey one!
+0: Ok
+1: dark dark grey?
+0: Dark dark gray
+1: okay, and the smaller circle is significantly smaller but not tiny?
+0: Yes
+1: did you pick the light grey circle?
+0: I chose the dark grey

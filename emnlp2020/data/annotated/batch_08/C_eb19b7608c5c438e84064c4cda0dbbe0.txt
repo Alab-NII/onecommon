@@ -1,0 +1,4 @@
+0: i have a small black circle with a larger lighter one right below it
+1: i have 2 small dot, and a large one in between, the small top dot is almost black
+0: yes. Lets pick the top black one
+1: ok

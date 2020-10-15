@@ -1,0 +1,4 @@
+1: Cluster!!! darkest black is medium size in middle... with light smaller one above to the right
+0: I have a group of 6, with one dark black in middle
+1: is the one below it larger and med/dark grey? with the one above it to the right lightest and smallest?
+0: Yes. Let's click on dark middle black

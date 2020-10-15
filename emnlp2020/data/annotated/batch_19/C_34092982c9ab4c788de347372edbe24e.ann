@@ -1,0 +1,11 @@
+T1	Markable 10 31	1 tiny light grey dot
+T2	Markable 74 76	it
+T3	Markable 95 109	a med grey dot
+T4	Markable 122 124	it
+T5	Markable 133 135	it
+T6	Markable 169 171	it
+T7	Markable 42 45	two
+A1	Generic T2
+T8	Markable 81 85	mine
+R1	Anaphora Arg1:T5 Arg2:T4	
+R2	Anaphora Arg1:T6 Arg2:T4	

@@ -1,0 +1,3 @@
+1: Is your smallest dot black, below it and to the left is a large light dot
+0: yes! do you want to pick the small black one?
+1: Yes

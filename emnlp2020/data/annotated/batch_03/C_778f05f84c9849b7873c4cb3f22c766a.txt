@@ -1,0 +1,7 @@
+1: two same color right next to each other, left one slightly larger
+0: Towards the top, medium gray?
+1: well there are others above, not at the top for me, but yes med grey. there is a darker grey/smaller one off to the lower left of them
+0: Oh yes my darker, smaller one is at the bottom. Do you have a small black dot?
+1: there are two lighter ones of same size as each other above the 2 med grey ones...they are a bit further apart from each other than the two med/dark grey ones
+0: Yes I have those
+1: ok let's choose the lighter one, furthest to the right

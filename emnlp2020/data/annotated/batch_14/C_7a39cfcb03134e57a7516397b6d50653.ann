@@ -1,0 +1,20 @@
+T1	Markable 10 33	a cluster of three dots
+T2	Markable 45 66	a wide based triangle
+T4	Markable 108 119	the top one
+T5	Markable 136 140	that
+T6	Markable 184 200	a light grey dot
+T7	Markable 162 178	a dark black dot
+T8	Markable 226 228	it
+T9	Markable 234 242	that one
+T11	Markable 260 268	that one
+T12	Markable 295 319	a smallish dark grey dot
+T13	Markable 326 330	them
+T14	Markable 273 289	the initial dots
+T15	Markable 339 387	a column of three nearly vertical dark grey dots
+T16	Markable 444 456	that top one
+R1	Predicative Arg1:T2 Arg2:T1	
+A1	No-Referent T5
+R2	Anaphora Arg1:T8 Arg2:T7	
+A2	No-Referent T11
+R3	Anaphora Arg1:T13 Arg2:T14	
+T3	Markable 406 417	your column

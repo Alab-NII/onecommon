@@ -1,0 +1,4 @@
+0: Do you see a lonely tiny light dot
+1: I see one dot by itself on the right side closer to the top
+0: Is it small and light
+1: Yeah its small and lighter than the other ones

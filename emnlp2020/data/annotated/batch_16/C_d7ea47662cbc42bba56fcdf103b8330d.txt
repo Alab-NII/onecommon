@@ -1,0 +1,9 @@
+1: My largest dot is also the very lowest and black.
+0: i have 2 black dots but they're not that large
+1: Is one slightly smaller and up and to the left?
+0: they look the same size but one is up to the left and might be a bit smaller, yes
+1: How about one medium sized very light grey. The only one of that color
+0: i have only 1 light grey one but it's pretty big so i don't think it's the same one
+1: About 1 inch away down and to left of it, there is a small black dot?
+0: yes. want to pick the light grey one or the black one?
+1: Let's do the lighter one.

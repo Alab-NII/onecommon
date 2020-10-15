@@ -1,0 +1,10 @@
+T1	Markable 59 66	the one
+T3	Markable 48 57	the other
+T4	Markable 9 36	two very similar sized dots
+T5	Markable 125 129	that
+T6	Markable 186 200	no nearby dots
+T7	Markable 241 258	the top black dot
+T2	Markable 37 40	one
+R1	Anaphora Arg1:T1 Arg2:T2	
+T8	Markable 131 139	The dots
+A1	No-Referent T6

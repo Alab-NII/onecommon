@@ -1,0 +1,5 @@
+1: i have a large light dot all alone
+0: Is there a small medium gray dot far above and to the left of it?
+1: i don't see it what about a large dark dot, and below to the right is a large light dot
+0: Yes - are they the same size?
+1: yeah, click the dark one!

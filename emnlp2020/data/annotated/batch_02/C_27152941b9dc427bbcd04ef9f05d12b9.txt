@@ -1,0 +1,4 @@
+1: one smaller light gray dot to the left of 6 all same shade dark dots
+0: i think we have it. how many of those smaller gray dots do you have? one?
+1: just one, very light gray
+0: got it

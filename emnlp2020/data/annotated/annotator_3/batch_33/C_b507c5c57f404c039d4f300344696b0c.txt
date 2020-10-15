@@ -1,0 +1,2 @@
+1: A triangle of a big black dot , a little dark grey and a medium regular grey
+0: Yes. Choose the black.

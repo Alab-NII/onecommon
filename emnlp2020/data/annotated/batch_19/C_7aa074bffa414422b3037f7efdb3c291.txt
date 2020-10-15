@@ -1,0 +1,4 @@
+0: hi
+1: Do you have two black dots vertical from each other, top one is small and slightly to the left
+0: I have a black dot that is slightly larger than the smallest that is to the left of the center
+1: Click that black dot

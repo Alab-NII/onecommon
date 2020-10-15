@@ -1,0 +1,3 @@
+1: I see two dots VERY close together. The one on the left is smaller, darker and a little higher.
+0: yes. Lets pick the smaller one
+1: Ok, sounds good!

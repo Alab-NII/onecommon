@@ -1,0 +1,4 @@
+0: I see three large gray dots that almost look like the Steam logo.
+1: yes
+0: One to pick the one to the right which is the lightest in color?
+1: ok

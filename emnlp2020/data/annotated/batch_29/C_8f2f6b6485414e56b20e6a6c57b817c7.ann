@@ -1,0 +1,13 @@
+T1	Markable 9 43	a cluster of similarly shaded dots
+T3	Markable 82 86	they
+T4	Markable 114 128	All of my dots
+T5	Markable 265 267	it
+T6	Markable 246 261	the closest dot
+T7	Markable 323 325	it
+R1	Anaphora Arg1:T3 Arg2:T1	
+T2	Markable 149 170	one medium gray large
+A1	All-Referents T4
+T8	Markable 209 234	the large medium grey one
+R2	Anaphora Arg1:T5 Arg2:T8	
+T9	Markable 282 300	A small light gray
+T10	Markable 354 379	the large medium grey one

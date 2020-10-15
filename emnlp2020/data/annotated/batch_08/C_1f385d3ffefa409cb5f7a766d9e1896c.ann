@@ -1,0 +1,11 @@
+T1	Markable 13 22	four dots
+T2	Markable 33 39	a line
+T3	Markable 63 67	They
+T4	Markable 213 221	the rest
+T5	Markable 149 167	one very large dot
+T6	Markable 270 272	it
+T7	Markable 295 303	that one
+R1	Predicative Arg1:T2 Arg2:T1	
+T8	Markable 114 122	the last
+T9	Markable 238 258	smaller and gray dot
+R2	Anaphora Arg1:T3 Arg2:T1	

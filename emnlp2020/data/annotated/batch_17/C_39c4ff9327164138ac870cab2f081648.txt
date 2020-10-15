@@ -1,0 +1,4 @@
+0: two med grey dots very close to each other?
+1: YEAH AND ONE IS BIGGER?
+0: yes if the bigger one is below and to the left click that bigger one
+1: YES OK

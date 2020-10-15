@@ -1,0 +1,14 @@
+T1	Markable 22 46	a really small light one
+T2	Markable 3 15	Dark big one
+T3	Markable 56 60	it's
+T4	Markable 114 122	that one
+T5	Markable 75 92	a dark medium one
+T6	Markable 133 149	the dark big one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T7	Spatial-Relation 47 52	above
+T8	Spatial-Relation 17 21	with
+T9	Spatial-Relation 61 66	right
+R2	Subj Arg1:T9 Arg2:T1	
+R3	Obj Arg1:T9 Arg2:T3	
+T10	Spatial-Relation 93 113	down to the right of
+#1	AnnotatorNotes T8	near

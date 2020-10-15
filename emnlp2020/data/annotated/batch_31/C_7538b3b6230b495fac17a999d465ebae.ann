@@ -1,0 +1,10 @@
+T1	Markable 34 52	the two lower ones
+T2	Markable 87 104	the top light one
+T4	Markable 198 200	it
+T5	Markable 256 264	that one
+T6	Markable 208 221	the dot below
+T7	Markable 280 302	the large med gray dot
+T8	Markable 3 9	3 dots
+T3	Markable 128 153	a very large med grey dot
+T9	Markable 170 191	a lighter smaller dot
+R1	Anaphora Arg1:T5 Arg2:T6	

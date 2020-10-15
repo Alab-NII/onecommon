@@ -1,0 +1,5 @@
+0: medium sized light gray dot with a darker one directly under it and to the right?
+1: can you see two dark ball close to each other on upper left side
+0: No i dont have those on mine
+1: yes ,I can see
+0: ok click the lighter one

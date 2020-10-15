@@ -1,0 +1,13 @@
+T1	Markable 10 40	one very dark medium sized dot
+T2	Markable 205 215	a grey dot
+T3	Markable 140 163	a larger light gray dot
+T4	Markable 173 175	it
+T5	Markable 240 242	it
+T6	Markable 257 271	the three dots
+T7	Markable 306 321	the tiniest one
+T8	Markable 44 47	its
+R1	Anaphora Arg1:T8 Arg2:T1	
+T9	Markable 53 64	the nearest
+T10	Markable 116 134	tiny dark grey dot
+R2	Anaphora Arg1:T4 Arg2:T10	
+R3	Anaphora Arg1:T5 Arg2:T10	

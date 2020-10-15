@@ -1,0 +1,4 @@
+1: I see a lonely small very dark circle, there is not any dot close to it
+0: 2 light grey dots very close together? Bottom one is larger and slightly lighter?
+1: yes i see those 2 dots, which one wanna select?
+0: bottom large

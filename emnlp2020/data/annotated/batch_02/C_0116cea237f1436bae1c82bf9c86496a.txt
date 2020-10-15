@@ -1,0 +1,5 @@
+0: large dark gray dot at the bottom?
+1: no my largest gray dot is in near the middle
+0: is it light gray or dark gray
+1: light gray
+0: okay pick the light gray

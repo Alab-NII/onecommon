@@ -1,0 +1,4 @@
+1: Is the smallest dot you see also the darkest?
+0: yes, kind of center but a little to the right and higher than actual center
+1: yes, is there a large light dot lower and to the left of it as a medium grey dot to the right of it?
+0: yes, pick that small dark spot you mentioned first

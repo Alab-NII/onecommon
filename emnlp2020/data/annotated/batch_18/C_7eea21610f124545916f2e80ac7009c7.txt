@@ -1,0 +1,5 @@
+1: I see two dots grouped by themselves, one lighter shade above one darker shade, very close together, same size
+0: my two darkest grey dots - first one is larger that the second one that runs in a line diagonally to the right. the first one is near the bottom
+1: okay they are to the right of a group with a big one above a very small one right
+0: yes
+1: let's take that very small one, fairly light shade

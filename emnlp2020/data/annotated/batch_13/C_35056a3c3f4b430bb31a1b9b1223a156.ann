@@ -1,0 +1,15 @@
+T1	Markable 10 32	a large light gray dot
+T2	Markable 40 46	itself
+T3	Markable 90 98	that one
+T4	Markable 61 71	a tiny dot
+T5	Markable 257 269	the tiny dot
+T6	Markable 212 224	a darker dot
+T7	Markable 333 348	the largest one
+T8	Markable 292 302	a triangle
+T9	Markable 400 424	the large light grey dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T10	Markable 277 284	those 3
+R2	Predicative Arg1:T8 Arg2:T10	
+T11	Markable 304 310	the on
+#1	AnnotatorNotes T11	the one
+R3	Predicative Arg1:T7 Arg2:T11	

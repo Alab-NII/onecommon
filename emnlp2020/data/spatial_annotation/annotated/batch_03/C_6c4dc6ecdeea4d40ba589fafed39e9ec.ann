@@ -1,0 +1,8 @@
+T1	Markable 30 35	those
+T2	Markable 98 105	the one
+T3	Markable 3 14	2 dark dots
+T4	Spatial-Attribute 37 42	Small
+T5	Spatial-Relation 47 77	towards the left of the circle
+A1	No-Obj T5
+T6	Spatial-Relation 106 117	on the left
+R1	Obj Arg1:T6 Arg2:T3	

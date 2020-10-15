@@ -1,0 +1,6 @@
+1: i have a small dark dot all the way to the right top hand side with no other dots near it.
+0: I do not have that, I have a very light dot and big
+1: more toward the middle? it is my biggest and lightest dot.
+0: Does it have a smaller one on the right down
+1: yes it has a dark dot to the left and a light one to the right
+0: LEt us select the big light one

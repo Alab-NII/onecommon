@@ -1,0 +1,7 @@
+T1	Markable 100 109	the black
+T2	Markable 141 155	that black one
+T3	Markable 3 18	large black dot
+T4	Markable 30 35	2 dot
+T5	Markable 51 54	top
+T6	Markable 68 74	bottom
+R1	Anaphora Arg1:T2 Arg2:T1	

@@ -1,0 +1,2 @@
+1: I have a cluster of 3 small dots that form a triangle. A black one on the left, a larger light gray dot on the bottom and a smaller dot to the right
+0: Let us select the black one

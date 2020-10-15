@@ -1,0 +1,14 @@
+T1	Markable 26 49	two med-large size dots
+T2	Markable 94 104	each other
+T3	Markable 106 117	The top one
+T4	Markable 225 240	the lighter dot
+T5	Markable 169 196	the top slightly darker dot
+T6	Markable 283 300	a large black dot
+T7	Markable 336 354	the top darker dot
+T8	Markable 358 371	the black one
+T9	Markable 380 382	it
+T10	Markable 426 439	the black one
+T11	Markable 398 413	the darker grey
+R1	Anaphora Arg1:T2 Arg2:T1	
+T12	Markable 139 145	bottom
+T13	Markable 268 279	the top one

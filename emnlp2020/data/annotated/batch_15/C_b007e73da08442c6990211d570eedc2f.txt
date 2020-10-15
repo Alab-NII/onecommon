@@ -1,0 +1,5 @@
+0: do you have a tiny black dot toward the right of the circle right above 3 oclock?
+1: Our positions differ. I have a tiny black dot in a cluster of a lot of other dots.
+0: that's the one!
+1: Lovely. Is there a light dot above and to the left of your tiny black one?
+0: exactly :) ready?

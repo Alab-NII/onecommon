@@ -1,0 +1,6 @@
+0: I have two very large and black dots
+1: only 1 large black dot here
+0: Does is have two smaller lighter ones close or is it alone
+1: yes, 1 small gray & 1 medium gray
+0: select the big black one
+1: will do

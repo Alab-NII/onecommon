@@ -1,0 +1,13 @@
+T1	Markable 48 56	the rest
+T2	Markable 17 24	one dot
+T3	Markable 151 176	a medium lighter gray dot
+T4	Markable 187 191	none
+T5	Markable 266 286	the small light gray
+T6	Markable 302 304	it
+T7	Markable 60 74	my largest dot
+T8	Markable 116 120	Mine
+T9	Markable 138 142	it's
+R1	Anaphora Arg1:T9 Arg2:T8	
+A1	No-Referent T4
+T10	Markable 216 234	a small light grey
+R2	Anaphora Arg1:T6 Arg2:T5	

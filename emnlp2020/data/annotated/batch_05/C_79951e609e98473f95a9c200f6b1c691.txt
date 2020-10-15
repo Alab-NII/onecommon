@@ -1,0 +1,4 @@
+1: I have a large darker dot toward the left of my circle
+0: Is there a smaller, lighter dot above it and to the right, about an inch away?
+1: Yes.
+0: Let's click the large dark dot on the left.

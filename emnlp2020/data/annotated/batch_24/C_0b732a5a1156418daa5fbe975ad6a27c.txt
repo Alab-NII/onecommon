@@ -1,0 +1,6 @@
+0: The smallest dot here is very black
+1: 4 dots making a line from left to right going up Dark Gray large, small dark gray (has a small black dot up and to the left of it) light gray - smallest, and largest darker gray
+0: I cant see. The smallest dot here is black
+1: its not my smallest. do you have a light gray all alone med size
+0: Yes, i do, let us select that
+1: ok

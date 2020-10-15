@@ -1,0 +1,3 @@
+1: do you see a lone light small gray dot at the bottom left?
+0: do you see a large light grey dot, with a small dot of the same color to its left and another small one same color not far and below it
+1: yes, I'll choose the large gray dot

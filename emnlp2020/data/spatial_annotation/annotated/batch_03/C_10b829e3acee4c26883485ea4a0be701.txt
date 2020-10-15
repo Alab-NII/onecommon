@@ -1,0 +1,4 @@
+1: Hi do you have a large black dot, with a tiny light gray dot to its lower left?
+0: I have two that fit that description. Is there also another dot close by and to the right of the lighter dot?
+1: On mine, there is nothing else close to the lighter dot
+0: Ok. I think I've got it. Let's click the lighter dot.

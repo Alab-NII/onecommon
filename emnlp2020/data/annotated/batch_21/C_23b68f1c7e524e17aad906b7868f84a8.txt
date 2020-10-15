@@ -1,0 +1,4 @@
+1: do you have a large black dot, above and to the left of it is a small dark grey dot?
+0: I have a large black dot and a small black do up and to the left
+1: yes, choose the big black dot?
+0: Okay

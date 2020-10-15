@@ -1,0 +1,6 @@
+0: i have a big dark dot with a tiny dark dot to the right of it
+1: I see one large grey dot almost in the center, but slightly to the left.
+0: i dont have that
+1: I do have a tiny dark dot to the right of the large dot.
+0: lets pick the tiny dot
+1: Okay

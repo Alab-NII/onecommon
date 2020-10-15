@@ -1,0 +1,13 @@
+T1	Markable 22 29	top one
+T2	Markable 88 101	one black dot
+T3	Markable 139 152	a smaller dot
+T4	Markable 106 119	the black dot
+T5	Markable 159 161	it
+T6	Markable 201 203	it
+T7	Markable 258 260	it
+T8	Markable 3 11	Two dots
+T9	Markable 49 59	bottom one
+R1	Anaphora Arg1:T5 Arg2:T4	
+T10	Markable 182 194	a medium dot
+T11	Markable 236 244	that dot
+R2	Anaphora Arg1:T7 Arg2:T11	

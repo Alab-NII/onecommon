@@ -1,0 +1,4 @@
+1: i have a light grey dot all on its own
+0: i see a dot at 2 oclock
+1: do u see the light grey dot all on its own?
+0: yes lets pick it

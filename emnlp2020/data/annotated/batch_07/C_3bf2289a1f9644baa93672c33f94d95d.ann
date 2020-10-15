@@ -1,0 +1,13 @@
+T1	Markable 22 28	itself
+T2	Markable 15 18	one
+T3	Markable 54 56	it
+T4	Markable 100 119	a triangle of three
+T6	Markable 132 144	the left one
+T7	Markable 206 213	the one
+T8	Markable 173 195	the lone dark grey one
+T9	Markable 238 257	the bottom lone one
+R1	Anaphora Arg1:T1 Arg2:T2	
+T10	Markable 57 76	small and dark grey
+R2	Predicative Arg1:T10 Arg2:T3	
+R3	Anaphora Arg1:T7 Arg2:T8	
+T5	Markable 268 280	the dark one

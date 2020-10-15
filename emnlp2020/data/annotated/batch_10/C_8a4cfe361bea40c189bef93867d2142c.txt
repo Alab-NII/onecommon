@@ -1,0 +1,12 @@
+0: i have a light grey and a black thats slightly larger side by side and theres a tiny grey under the black
+1: I have three large dots and only one of them is lighter than two of them
+0: are they together?
+1: the two darker dots are above one another
+0: no i dont have those.
+1: okay, the small grey dot, is it slightly under a darker dot that is a little bigger than it?
+0: yes and theres a medium colored grey dot the same size as the black one to the left of the black one
+1: okay, should we both select the tiny light grey dot then cause i see that on my end too or shall we confirm more?
+0: do you see a light grey to the left of the cluster?
+0: which did you pick?
+1: i am selecting the tiny dot cause i have a feeling it matches yours
+0: ok

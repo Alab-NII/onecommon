@@ -1,0 +1,3 @@
+0: Four dots - diagonal line left to right. Two outer are dark grey and larger, two inner are light grey and smaller. With the third over the smallest
+1: Yes! Would you like to pick the top one- dark grey large, top of the diagonal
+0: Yes, let's do that one

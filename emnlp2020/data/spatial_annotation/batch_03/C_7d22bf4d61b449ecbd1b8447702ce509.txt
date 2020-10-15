@@ -1,0 +1,4 @@
+0: I see a square of dots that are similar in size off to the right
+1: Hmm mine isn't to the right but is there a large light grey dot to the left of them
+0: Yes!! There is! Click that one
+1: k

@@ -1,0 +1,4 @@
+1: very large light grey dot?
+0: No. Do you have two small dots one light grey one black?
+1: yes! if the black one is below and to the right of the light one click that black one!
+0: Okay, Lets do it!

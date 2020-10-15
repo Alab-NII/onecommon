@@ -1,0 +1,4 @@
+0: What do you see, dear?
+1: I see a large black dot with a tiny black dot to the left of it
+0: Click the tiny black dot!
+1: Thank you

@@ -1,0 +1,5 @@
+T1	Markable 16 21	a dot
+T2	Markable 69 81	any low dots
+T3	Markable 104 121	a small black dot
+A1	No-Referent T2
+T4	Markable 83 98	Medium grey dot

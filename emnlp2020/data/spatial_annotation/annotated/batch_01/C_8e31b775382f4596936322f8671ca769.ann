@@ -1,0 +1,15 @@
+T1	Markable 12 27	a big dark gray
+T2	Markable 34 50	two lighter ones
+T3	Markable 87 89	it
+T4	Markable 102 106	that
+T5	Markable 115 127	the dark one
+T6	Markable 54 57	its
+R1	Anaphora Arg1:T6 Arg2:T1	
+T7	Markable 67 80	a medium gray
+R2	Anaphora Arg1:T3 Arg2:T1	
+T8	Spatial-Relation 29 33	with
+T9	Spatial-Relation 38 45	lighter
+T10	Spatial-Relation 58 62	left
+R3	Subj Arg1:T10 Arg2:T2	
+R4	Obj Arg1:T10 Arg2:T6	
+T11	Spatial-Relation 81 86	above

@@ -1,0 +1,8 @@
+T1	Markable 36 46	a triangle
+T2	Markable 17 27	three dots
+T4	Markable 80 95	your middle one
+T5	Markable 115 122	the one
+T6	Markable 138 142	that
+T7	Markable 184 197	the black one
+R1	Predicative Arg1:T1 Arg2:T2	
+T3	Markable 69 73	that

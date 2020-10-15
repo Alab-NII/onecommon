@@ -1,0 +1,4 @@
+1: I see two darker gray dots at a southeast angle
+0: Hmm. Do they have a small light grey dot almost in between them?
+1: Yea
+0: Click on that very small dot

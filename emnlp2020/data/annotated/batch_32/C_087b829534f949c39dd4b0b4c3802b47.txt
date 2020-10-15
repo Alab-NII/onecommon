@@ -1,0 +1,2 @@
+0: Two dots dark grey large in center tiny black off right
+1: select the tiny one.

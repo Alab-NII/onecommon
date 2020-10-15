@@ -1,0 +1,4 @@
+1: do you have gray smaller dots cluster near each other with the darker on in the middle?
+0: do you see a very dark medium sized dot with a lighter grey dot above it?
+1: I do...are they of similar size? and is there a dark or black dot to the right of the top one?
+0: I have the grey smaller dots cluster you talked about first, lets go with the darker dot in the middle

@@ -1,0 +1,6 @@
+0: I have a lonely very large dark dot
+1: I see dots forming almost 2 up-down lines. The left line has 4 dots, the right line has 3 dots. the Left line has 2 black dots at top, dark grey, and light grey at bottom. The right line has 2 light grey at top, and BIG black at bottom
+0: I see the line with 4 dots, but 3 of them, i mean the 4th dot must be cut because of angles, wanna select the dot on the top of the line? which is also the darkest?
+1: I think your very large dark dot is part of my 3-dot right line. Is there a light small dot above your big black a distance away?
+0: yes, there is a lighter smaller dot above the dot i was talking about at first
+1: let;s click the big dark one

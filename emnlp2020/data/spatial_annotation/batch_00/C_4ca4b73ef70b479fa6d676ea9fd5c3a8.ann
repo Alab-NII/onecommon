@@ -1,0 +1,9 @@
+T1	Markable 31 34	one
+T2	Markable 49 52	one
+T3	Markable 10 30	two large black dots
+T5	Markable 90 114	the slightly smaller one
+T6	Markable 138 151	the lower one
+T7	Markable 165 176	the top one
+T4	Markable 73 79	either
+R1	Anaphora Arg1:T4 Arg2:T3	
+R2	Anaphora Arg1:T7 Arg2:T5	

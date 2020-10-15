@@ -1,0 +1,2 @@
+1: I have one dark gray dot larger than the rest and not near the other dots
+0: Click it boy!

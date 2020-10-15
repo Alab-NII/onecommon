@@ -1,0 +1,5 @@
+0: i've got three in a near line, left one is higher, smaller, and lightest of the three. other two are large
+1: a diagonal line going from light to dark
+0: yep, pick that first one
+1: the small lightest one
+0: yep

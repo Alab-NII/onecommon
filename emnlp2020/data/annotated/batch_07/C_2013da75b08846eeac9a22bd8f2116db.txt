@@ -1,0 +1,5 @@
+1: I see 4 dots on the right side.
+0: Do you see a pair where a larger medium grey dot is up and to the right of a very small and lightest bit?
+1: I do not.
+0: Do you see two dots one the is very light and small which is above a dark slightly larger dot under?
+1: I see those. Let's click the larger one.

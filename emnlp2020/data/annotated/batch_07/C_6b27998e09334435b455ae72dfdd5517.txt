@@ -1,0 +1,6 @@
+0: do u have a medium grey dot, with a light grey dot below it and to the right?
+1: No
+0: how about a really dark dot with two dots slightly below it one to the left, thats a lot lighter and one to the right thats a little lighter and a little larger?
+1: Darn no! Do you see the smallest and lightest grey dot?
+0: i have a really light one, medium sized, with a medium grey below it and to the left slightly.
+1: Okay let's pick that light medium sized dot!

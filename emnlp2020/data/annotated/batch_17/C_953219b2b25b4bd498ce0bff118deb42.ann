@@ -1,0 +1,6 @@
+T1	Markable 31 44	vertical line
+T2	Markable 96 110	the bottom dot
+T3	Markable 125 144	that light grey dot
+T4	Markable 3 30	2 identical small dark dots
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 49 61	a light gray

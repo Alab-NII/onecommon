@@ -1,0 +1,6 @@
+1: I got a large grey dot near the top, which is bigger than all the others.
+0: Hmmmm tricky one, do you see a triangle in which the top is largest and dark, the bottom left is as dark as the top and slightly smaller and the bottom right is smallest and lightest of all?
+1: No my only triangle doesn't look like that.
+0: Is the largest dot on your screen medium grey compared to the rest?
+1: yep
+0: Unless you have a better idea I say we go for that

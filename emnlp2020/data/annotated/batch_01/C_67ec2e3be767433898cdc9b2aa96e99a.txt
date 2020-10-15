@@ -1,0 +1,9 @@
+1: I see two large medium grey dots.
+0: I see a dark grey dot about 1 cm to the right of a large gray dot
+1: I don't see that.
+0: are your large/medium dots on a diagonal?
+1: yes
+0: the smaller dot is below to the left?
+1: no
+0: I don't have two large dots close together then. Can we aim for another? I have a very small dark dark dot
+1: Okay. I have a small dark dot.

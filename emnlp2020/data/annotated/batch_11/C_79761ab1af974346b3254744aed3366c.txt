@@ -1,0 +1,4 @@
+0: i have a large grey dot with a small dark dot directly above it
+1: is there a small dot almost the same size to the left of them?
+0: no i have a small dark dot to the right
+1: K me too! Click the small dark one above the light grey big one

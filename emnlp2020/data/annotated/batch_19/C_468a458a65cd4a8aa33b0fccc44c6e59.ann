@@ -1,0 +1,4 @@
+T1	Markable 55 68	the upper one
+T2	Markable 121 134	the upper one
+T3	Markable 3 27	two very large dark dots
+R1	Anaphora Arg1:T2 Arg2:T1	

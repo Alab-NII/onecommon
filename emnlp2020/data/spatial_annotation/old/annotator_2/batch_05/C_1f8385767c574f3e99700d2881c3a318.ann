@@ -1,0 +1,37 @@
+T1	Markable 6 22	your largest dot
+T2	Markable 46 72	two large medium gray dots
+T3	Markable 86 90	them
+T4	Markable 96 113	a small black dot
+T5	Markable 79 82	one
+T6	Markable 120 122	it
+T7	Markable 179 186	the one
+T8	Markable 206 226	a smaller light grey
+T9	Markable 193 195	it
+T10	Markable 233 235	it
+T11	Markable 266 268	it
+R1	Anaphora Arg1:T6 Arg2:T5	
+T13	Markable 156 169	that some dot
+R2	Anaphora Arg1:T9 Arg2:T13	
+R3	Anaphora Arg1:T10 Arg2:T13	
+T14	Markable 292 312	that medium grey dot
+T15	Spatial-Relation 11 18	largest
+T16	Modifier 23 29	medium
+T17	Spatial-Attribute 23 34	medium grey
+T18	Spatial-Relation 83 85	of
+T19	Spatial-Relation 91 95	have
+T20	Spatial-Relation 114 119	above
+T21	Spatial-Relation 127 139	to the right
+T22	Spatial-Relation 175 178	has
+T23	Spatial-Relation 187 192	above
+T24	Spatial-Relation 201 205	have
+T25	Spatial-Relation 208 215	smaller
+T26	Spatial-Relation 227 232	below
+T27	Modifier 236 244	slightly
+T28	Spatial-Relation 245 257	to the right
+T12	Spatial-Attribute 313 326	the large one
+A1	No-Obj T15
+R4	Subj Arg1:T21 Arg2:T4	
+R5	Obj Arg1:T21 Arg2:T6	
+R6	Obj Arg1:T25 Arg2:T13	
+R7	Obj Arg1:T28 Arg2:T10	
+R8	Subj Arg1:T12 Arg2:T14	

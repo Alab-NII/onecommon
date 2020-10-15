@@ -1,0 +1,5 @@
+1: do u see a really small really dark dot? the closest dot to it, is to its left, and its really light grey and a little larger
+0: I see a very small very light grey dot kind of off by itself
+1: i dont see any very small very light dots by itself, do u see what i described?
+0: Yes! Sorry didn't see your message. Let's click that small dark grey dot!
+1: ok

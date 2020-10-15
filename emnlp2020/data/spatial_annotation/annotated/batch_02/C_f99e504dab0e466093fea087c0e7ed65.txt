@@ -1,0 +1,6 @@
+0: do u have a small black dot with a medium grey dot to its left, slightly smaller
+1: do you see a small dark grey dot
+0: the same were talking about?
+1: no, i dont see what you're seeing. do you see a med black dot closely between two med dark grey dots?
+0: yeah, and a larger lighter grey dot below it to the right?
+1: yes, select the black between the two

@@ -1,0 +1,6 @@
+0: Hello! Wheres your dot?
+1: do you see two large dots, one is really dark, the other is slightly larger, they are really close to each other
+0: I dont see that in my circle. How about the smaller ones in a line going up from left to right
+1: yeah i see that, its light grey?
+0: yes the left one is light gray and the right one is dark. Lets pick the light gray one on the left?
+1: ok

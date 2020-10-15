@@ -1,0 +1,9 @@
+0: I only have one black dot. It's closest to my 12 o-clock.
+1: I do too but its somewhat left
+0: Yes, more like 11:30ish.
+1: I don't know if we have the same view, but it sounds the same. Do you have any medium grey dots that are large
+0: Yes. Below the black dot, left and right.
+1: Same, is the one to the left somewhat larger ?
+0: Yeah. Lets do the black one.
+1: Okay, the one at 11:30ish
+0: Right.

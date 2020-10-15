@@ -1,0 +1,8 @@
+T1	Markable 47 62	a tiny grey dot
+T2	Markable 41 43	it
+T3	Markable 78 91	the small one
+T4	Markable 70 72	it
+T5	Markable 3 23	one big med grey dot
+R1	Anaphora Arg1:T2 Arg2:T5	
+T6	Spatial-Relation 25 40	up and right of
+R2	Subj Arg1:T6 Arg2:T1	

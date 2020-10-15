@@ -1,0 +1,4 @@
+0: very large very dark dot?
+1: No. Very dark medium size dot
+0: is there a small med grey dot up to its right?
+1: Yes let us select the dark medium size dot

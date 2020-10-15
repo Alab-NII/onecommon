@@ -1,0 +1,14 @@
+T1	Markable 65 75	middle one
+T2	Markable 115 130	that middle one
+T3	Markable 3 9	3 dots
+T4	Spatial-Relation 10 24	close together
+A1	No-Obj T4
+T5	Spatial-Relation 25 56	in line sloping up to the right
+A2	No-Obj T5
+#1	AnnotatorNotes T5	in line diagonal
+T6	Spatial-Relation 65 71	middle
+R1	Obj Arg1:T6 Arg2:T3	
+T7	Spatial-Relation 79 99	biggest and lightest
+R2	Obj Arg1:T7 Arg2:T3	
+T8	Spatial-Relation 120 126	middle
+R3	Obj Arg1:T8 Arg2:T3	

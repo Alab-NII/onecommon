@@ -1,0 +1,3 @@
+0: do you see one dark grey dot below the rest of the dots near it
+1: I have a tiny dot darker than the rest, across from a light gray dot
+0: ok choose the tiny dark dot

@@ -1,0 +1,7 @@
+1: I have three very light gray dots, sort of in a line, tilting upwards to the right.
+0: Are they very spread out? I only have two light grey dots. Is there a small, dark dot below one of them?
+1: I don't see a dark dot, but it could be cut off. The two you see - is the lefthand one a bit smaller?
+0: I don't think so, they seem to be the same size. With the three you see--is there a darker dot directly to the left of one of them?
+1: Yes, but quite far from it. The dark dot is larger, and is to the left of the smaller light gray dot.
+0: About an inch away?
+1: Oh! I see the one you're talking about! Let's choose that dark, inch away dot!

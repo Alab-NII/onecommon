@@ -1,0 +1,3 @@
+0: I have a large black dot with a much smaller and light dot directly above and slightly to the right of it
+1: I have that as well. Shall we try the large dot
+0: ok

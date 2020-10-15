@@ -1,0 +1,6 @@
+1: Very large light grey dot?
+0: no,I have one tiny light grey alone
+1: Is it up and above to the right of another tiny grey dot identical in size but its very dark?
+0: no, I have one large black dot with tiny just above it
+1: Is the tiny dot up and to the right of the large one?
+0: yes...lets choose the large black dot

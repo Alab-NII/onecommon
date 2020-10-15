@@ -1,0 +1,3 @@
+0: do you have a small darkish dot?
+1: yes
+0: Lets pick that one

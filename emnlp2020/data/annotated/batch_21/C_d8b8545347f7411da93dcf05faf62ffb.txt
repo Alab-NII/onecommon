@@ -1,0 +1,2 @@
+1: I have only one black dot. There is a same sized lighter dot far below and to the right of it
+0: Me too! Lets pick that black dot that is above

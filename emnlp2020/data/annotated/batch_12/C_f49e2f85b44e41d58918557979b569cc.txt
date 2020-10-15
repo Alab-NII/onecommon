@@ -1,0 +1,5 @@
+1: three very light dots forming a triangle?
+0: I see a large dark dot to the top right. left of it is a large light grey dot
+1: Hmm I dont see that dark one but is there a small light grey dot close to it?
+0: yes to the left
+1: k click that large light grey one

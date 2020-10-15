@@ -1,0 +1,13 @@
+T1	Markable 10 40	a vertical pair of medium dots
+T2	Markable 42 48	Larger
+T3	Markable 85 104	one small light dot
+T4	Markable 109 117	the rest
+T5	Markable 66 84	one large dark dot
+T6	Markable 153 178	a smaller medium grey dot
+T7	Markable 135 147	your dark do
+T8	Markable 213 229	a large grey dot
+T9	Markable 265 267	it
+T10	Markable 283 294	those three
+#1	AnnotatorNotes T7	your dark dot
+T11	Markable 236 244	that dot
+T12	Markable 309 335	the dark bottom larger dot

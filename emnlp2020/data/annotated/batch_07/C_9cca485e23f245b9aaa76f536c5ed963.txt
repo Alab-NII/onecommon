@@ -1,0 +1,5 @@
+1: large black dot to the left of small grey dot?
+0: I have a black dot, darker than the rest by a gray dot
+1: is it to the left ? or more above to the left?
+0: It's diagonal
+1: ok click the black one

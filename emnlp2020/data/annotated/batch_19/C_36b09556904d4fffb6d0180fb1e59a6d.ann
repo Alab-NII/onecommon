@@ -1,0 +1,11 @@
+T1	Markable 99 127	a medium sized dark grey dot
+T2	Markable 48 79	a medium sized darkish grey dot
+T5	Markable 323 333	each other
+T6	Markable 260 268	two dots
+T7	Markable 450 459	those two
+T8	Markable 430 434	that
+T12	Markable 550 561	the top one
+T13	Markable 3 11	two dots
+R1	Anaphora Arg1:T5 Arg2:T6	
+T3	Markable 339 342	top
+R2	Anaphora Arg1:T7 Arg2:T8	

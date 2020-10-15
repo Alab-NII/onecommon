@@ -1,0 +1,6 @@
+0: Do you have a dark black spot that is away from the other spots?
+1: I think so - is it small, and with a larger, medium-gray dot above it and to the left of it, but far away?
+0: No, this is a large one. What else do you see?
+1: I have a medium-gray dot, medium/large size, with a small light grey dot to the left and slightly below it.
+0: Yes, i see that. Let's pick the small light grey dot.
+1: Perfect!

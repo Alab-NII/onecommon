@@ -1,0 +1,27 @@
+T1	Markable 64 81	your smallest dot
+T3	Markable 107 109	it
+T4	Markable 218 225	the two
+T5	Markable 270 274	they
+T6	Markable 3 7	mine
+A1	All-Referents T6
+T2	Markable 82 94	a light grey
+R1	Predicative Arg1:T2 Arg2:T1	
+T7	Markable 114 134	a lighter bigger one
+T8	Markable 138 141	its
+R2	Anaphora Arg1:T8 Arg2:T3	
+T9	Markable 152 169	bigger darker one
+T10	Markable 173 176	its
+R3	Anaphora Arg1:T10 Arg2:T3	
+T11	Markable 185 189	Mine
+A2	All-Referents T11
+T12	Markable 239 255	the middle teeth
+R4	Anaphora Arg1:T5 Arg2:T4	
+T13	Markable 290 300	Both black
+T14	Markable 321 326	which
+A3	Generic T14
+T15	Markable 347 354	the one
+T16	Markable 19 32	a smiley face
+R5	Predicative Arg1:T16 Arg2:T6	
+T17	Markable 41 44	its
+R6	Anaphora Arg1:T17 Arg2:T6	
+R7	Anaphora Arg1:T13 Arg2:T5	

@@ -1,0 +1,14 @@
+T1	Markable 38 48	a triangle
+T2	Markable 54 75	2 bigger lighter dots
+T3	Markable 10 29	a smaller black dot
+T4	Markable 86 94	two dots
+T5	Markable 207 218	the top dot
+T6	Markable 232 249	a small black dot
+T7	Markable 254 268	the other dots
+T8	Markable 298 311	the black dot
+T9	Markable 328 330	it
+T10	Markable 318 327	black one
+T11	Markable 117 120	top
+T12	Markable 153 163	the bottom
+R1	Anaphora Arg1:T5 Arg2:T11	
+R2	Anaphora Arg1:T9 Arg2:T10	

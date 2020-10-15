@@ -1,0 +1,5 @@
+0: Do see one darker than the rest...?
+1: My smallest dot is almost the obviously darkest one. Do you see that?
+0: Yes!
+1: Click that one
+0: Ok

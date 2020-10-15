@@ -1,0 +1,4 @@
+1: Do you see a large black dot with a slightly smaller lighter dot immediately to the right of it?
+0: I have a larger sized black dot to the left and slightly higher of a medium grey dot
+1: Did you choose black or grey?
+0: black

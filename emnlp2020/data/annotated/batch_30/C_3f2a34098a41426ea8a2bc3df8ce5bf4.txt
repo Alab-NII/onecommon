@@ -1,0 +1,7 @@
+1: have a big dark dot and a light grey dot that is med size in the middle,
+0: Does the light grey one have a slightly smaller slightly darker dot down and to the right of it?
+1: the dark dot is on the left and the light grey is on the right.
+0: Does the light grey have a smaller really light grey up and to the right of it?
+1: yes
+0: Which should we choose?
+1: the light dot

@@ -1,0 +1,14 @@
+T1	Markable 9 26	one very dark dot
+T2	Markable 28 30	It
+T3	Markable 84 86	it
+T4	Markable 114 126	a larger dot
+T5	Markable 156 174	one very large dot
+T6	Markable 96 108	one dark dot
+T7	Markable 210 217	one dot
+T8	Markable 310 325	the darkest one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T9	Markable 35 68	a lighter and a little bigger dot
+R2	Anaphora Arg1:T3 Arg2:T1	
+T10	Markable 250 261	the first 3
+T11	Markable 288 295	the 4th
+A1	No-Referent T11

@@ -1,0 +1,15 @@
+T1	Markable 31 43	4 light ones
+T2	Markable 109 131	a large dark black one
+T3	Markable 153 180	a very small dark black one
+T4	Markable 97 101	that
+T5	Markable 202 206	that
+T6	Markable 240 242	it
+T8	Markable 303 319	all 4 light ones
+T9	Markable 3 17	large dark dot
+T10	Markable 51 59	a semi-c
+R1	Predicative Arg1:T10 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T1	
+T11	Markable 217 233	lowest light one
+T12	Markable 261 265	it's
+R3	Anaphora Arg1:T12 Arg2:T6	
+T7	Markable 280 292	a larger one

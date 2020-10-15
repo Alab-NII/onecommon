@@ -1,0 +1,5 @@
+1: I see a single black tiny dot.
+0: all by itself?
+1: pretty much. above it to the right are two other dots close together. one is dark grey. above that dark grey one and to the right is a light grey dot that is smaller than the dark one.
+0: OK. Click the black dot
+1: ok

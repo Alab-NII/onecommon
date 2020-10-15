@@ -1,0 +1,8 @@
+1: i have 2 Largest darkest dots one above the other
+0: I do not. I see a tiny dark dot far away from all the others. I also see a large, dark dot with a slightly smaller, very light dot to the left of it.
+1: i think the very light dot to the left is yours alone, as is the top darkest one i spoke of. so let's choose the tiniest dark dot?
+0: Is yours far away from any others?
+1: the tiny one? has a large medium-dark grey one above it
+0: Mine does not but it could be out of my circle. I also see a large dark dot with two medium gray dots above it. at about ten and two o'clock
+1: let's choose the tiny black dot. none of the others sound similar enough to depict
+0: Okay, sounds good

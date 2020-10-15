@@ -1,0 +1,13 @@
+T1	Markable 12 27	a big black dot
+T2	Markable 61 89	different color dots of grey
+T3	Markable 105 119	the biggest on
+T4	Markable 188 198	each other
+T5	Markable 260 264	that
+T6	Markable 278 302	a large lighter gray one
+A1	All-Referents T2
+#1	AnnotatorNotes T3	the biggest one
+T7	Markable 148 149	2
+R1	Anaphora Arg1:T4 Arg2:T7	
+T8	Markable 200 207	top one
+T9	Markable 223 229	bottom
+A2	No-Referent T5

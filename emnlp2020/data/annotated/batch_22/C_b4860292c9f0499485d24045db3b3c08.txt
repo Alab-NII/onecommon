@@ -1,0 +1,5 @@
+0: small black dot?
+1: The biggest dot is dark and to the right
+0: is there a small black dot down to its left? if so click that black dot
+1: Yes do you want to pick the small one
+0: yes

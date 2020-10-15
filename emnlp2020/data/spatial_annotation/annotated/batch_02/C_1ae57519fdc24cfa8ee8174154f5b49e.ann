@@ -1,0 +1,10 @@
+T1	Markable 41 56	a tiny dark dot
+T2	Markable 94 106	the tiny one
+T3	Markable 81 85	that
+T4	Markable 3 24	Black medium size Dot
+T5	Spatial-Relation 29 40	to the left
+R1	Subj Arg1:T5 Arg2:T1	
+R2	Obj Arg1:T5 Arg2:T4	
+T6	Modifier 57 65	slightly
+T7	Spatial-Relation 66 71	lower
+R3	Obj Arg1:T7 Arg2:T4	

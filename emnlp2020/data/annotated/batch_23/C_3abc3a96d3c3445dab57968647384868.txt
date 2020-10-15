@@ -1,0 +1,3 @@
+1: I got a mid grey dot sitting out by its lonesome.
+0: yeah, is there a small black dot a ways to the right or a similar size and color dot a ways below it?
+1: Yeah there is a smaller black dot a way away to the right. Go for the mid grey dot on its lonesome.

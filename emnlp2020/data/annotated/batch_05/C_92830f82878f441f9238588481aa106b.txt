@@ -1,0 +1,7 @@
+1: do you see a tiny black dot at the top
+0: do u have a really small black dot, with a larger medium grey up and to the left to it, pretty close
+1: yes i think i do
+0: to the right you see a medium grey dot thats darker than the one previously mentioned but lighter than the black one.
+1: i have one light one at the top of the tiny black one i see i only have one black dot at the top
+0: lets try that really tiny black dot
+1: okay

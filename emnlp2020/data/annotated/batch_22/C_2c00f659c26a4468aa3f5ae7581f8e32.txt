@@ -1,0 +1,3 @@
+1: Hi do you have 3 that make a triangle, with the black dot being the top of the triangle?
+0: yes i have
+1: GReat! click the black dot!

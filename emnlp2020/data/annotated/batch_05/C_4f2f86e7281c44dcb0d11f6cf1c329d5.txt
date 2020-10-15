@@ -1,0 +1,7 @@
+0: Do you see two large dark dots the darker one above and to the right of the lighter?
+1: i have no dark dots, but two medium colored large grey ones right next to each other
+0: The grey ones I see are three small ones togetherish and then two more far away up top
+1: are the three small light ones almost in a line?
+0: Yes!
+1: lets pick the center one in the line
+0: Got it

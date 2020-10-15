@@ -1,0 +1,3 @@
+0: Do you see the small tiny, light grey dot below?
+1: yes. are there two huge dots (grey and black ) above it?
+0: Yes, lets pick the tiny little dot

@@ -1,0 +1,4 @@
+1: I have a tiny black dot with an equal sized medium grey dot down and to its left
+0: I see two dots close to each other almost horizontal. I don't see the ones you are talking about
+1: The one on left is lower, and they are similar size and shade, right? On what you described
+0: Yes! Let's choose the lower one

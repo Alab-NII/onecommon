@@ -1,0 +1,14 @@
+T1	Markable 97 99	it
+T2	Markable 14 30	a large pale dot
+T3	Markable 36 74	a slightly smaller slightly darker dot
+T4	Markable 123 134	3 dark dots
+T5	Markable 184 187	one
+T6	Markable 166 179	two dark dots
+T7	Markable 200 210	a triangle
+T8	Markable 253 275	the lighter bottom dot
+T9	Markable 311 315	that
+T10	Markable 375 387	the triangle
+T11	Markable 343 371	the lighter bottom right dot
+R1	Anaphora Arg1:T1 Arg2:T2	
+T12	Markable 138 154	a triangle shape
+R2	Predicative Arg1:T12 Arg2:T4	

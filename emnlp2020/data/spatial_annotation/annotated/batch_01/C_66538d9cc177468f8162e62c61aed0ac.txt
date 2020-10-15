@@ -1,0 +1,5 @@
+1: three almost identical looking med sized dark grey dots a little far apart but forming a line sloping up to the right?
+0: I have three black dots of different sizes forming a triangle
+1: i dont do you have a very large almost black dot?
+0: Yes it has a not too small not too dark dot to the top left
+1: yes! click that large one!

@@ -1,0 +1,4 @@
+0: i have two med grey dots together
+1: I do not see that, do you have two tiny dots, one black a very small and one grey which is sort of small
+0: i have a tiny black dot
+1: take that one, hard to miss

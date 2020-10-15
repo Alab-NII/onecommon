@@ -1,0 +1,11 @@
+T1	Markable 14 25	a black dot
+T2	Markable 32 57	a medium lighter gray dot
+T3	Markable 68 71	two
+T4	Markable 93 97	They
+T5	Markable 120 127	The one
+T6	Markable 171 182	The top one
+T7	Markable 238 246	that one
+T8	Markable 298 320	the smaller, black dot
+R1	Anaphora Arg1:T4 Arg2:T3	
+T9	Markable 253 262	Which one
+A1	Generic T9

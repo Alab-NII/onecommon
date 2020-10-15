@@ -1,0 +1,4 @@
+1: 3 dots close together in line sloping up to the right?
+0: yes middle one is biggest and lightest?
+1: yes! click that middle one!
+0: Will do.

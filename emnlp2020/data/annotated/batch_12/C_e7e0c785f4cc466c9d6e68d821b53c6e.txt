@@ -1,0 +1,7 @@
+1: small gray dot at far left
+0: do you see two black dots in a line, the one on the right is slightly larger?
+1: yes
+0: do you see anything above those two?
+1: yes large gray, smaller black to right and slightly down
+0: i have that too. i am going to choose the black dot that is larger.
+1: ok, me too

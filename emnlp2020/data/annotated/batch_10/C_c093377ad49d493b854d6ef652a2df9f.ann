@@ -1,0 +1,13 @@
+T1	Markable 10 36	a very large dark gray dot
+T2	Markable 43 71	a slightly smaller black dot
+T3	Markable 88 90	it
+T4	Markable 185 195	bottom one
+T6	Markable 281 305	a medium sized black one
+T7	Markable 244 263	a smaller black one
+T8	Markable 325 338	the small one
+T9	Markable 373 385	that big one
+T10	Markable 415 426	the big one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T11	Markable 94 113	My two largest dots
+T12	Markable 166 169	top
+T13	Markable 211 221	My largest

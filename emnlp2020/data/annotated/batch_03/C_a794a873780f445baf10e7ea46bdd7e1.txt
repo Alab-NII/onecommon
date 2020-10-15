@@ -1,0 +1,6 @@
+1: I see a very dark dot
+0: I have one large black dot close to the edge of the circle on the top left that is all by itself.
+1: Mine is in the top center, but a lighter dot is slightly underneath and to the side of it.
+0: I do have another dot that is black. It is close to two lighter dots that are on the edge. In my view, this dark black dot is on the bottom right.
+1: I think that is the one we should choose.
+0: Let's do it.

@@ -1,0 +1,46 @@
+T1	Markable 108 114	itself
+T2	Markable 141 144	one
+T3	Markable 238 248	the others
+T5	Markable 195 211	a very small dot
+T7	Markable 3 13	Light grey
+T8	Markable 39 42	any
+T9	Markable 99 100	1
+R1	Anaphora Arg1:T1 Arg2:T9	
+T10	Markable 167 175	3 larger
+T11	Markable 252 253	4
+T12	Markable 275 284	one small
+T13	Markable 310 322	the smallest
+T14	Spatial-Relation 14 23	in center
+A1	No-Obj T14
+T15	Spatial-Relation 43 63	touching the boarder
+A2	No-Obj T15
+T16	Modifier 75 78	Not
+T17	Spatial-Relation 79 87	touching
+A3	No-Obj T17
+R4	Subj Arg1:T17 Arg2:T8	
+T18	Spatial-Relation 101 107	off by
+T19	Spatial-Relation 116 129	at 10 o clock
+A4	No-Obj T19
+T4	Spatial-Relation 176 189	in a triangle
+A5	No-Obj T4
+T20	Spatial-Relation 190 194	with
+R2	Obj Arg1:T20 Arg2:T3	
+R5	Obj Arg1:T20 Arg2:T5	
+T21	Spatial-Relation 212 237	closer to the center then
+T6	Spatial-Relation 254 269	make a triangle
+A6	No-Obj T6
+T22	Spatial-Relation 270 274	with
+T23	Spatial-Relation 285 299	towards center
+A7	No-Obj T23
+T24	Spatial-Relation 314 322	smallest
+T25	Spatial-Relation 323 340	closest to center
+A8	No-Obj T25
+R3	Obj Arg1:T24 Arg2:T11	
+#1	AnnotatorNotes T15	outside
+#2	AnnotatorNotes T19	left above
+A9	Canonical-Undefined T21
+A10	Canonical-Undefined T23
+A11	Canonical-Undefined T25
+#3	AnnotatorNotes T18	alone
+T26	Spatial-Relation 169 175	larger
+A12	No-Obj T26

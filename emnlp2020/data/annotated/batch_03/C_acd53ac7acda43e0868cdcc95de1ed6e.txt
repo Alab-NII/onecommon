@@ -1,0 +1,6 @@
+0: I have one tiny dark gray dot beside a large gray dot
+1: I have that as well. In the bottom right or left middle?
+0: It's in the middle right for me.
+1: I dont see that. I have one lonesome medium dot in bottom left
+0: I have one very light medium dot by itself
+1: That must be it. I'm clicking it.

@@ -1,0 +1,9 @@
+T1	Markable 51 55	they
+T2	Markable 3 10	Two dot
+T3	Markable 104 115	the topmost
+T4	Spatial-Relation 11 43	close together in size and color
+A1	No-Obj T4
+T5	Spatial-Attribute 56 76	small and light gray
+T6	Spatial-Relation 108 115	topmost
+R1	Obj Arg1:T6 Arg2:T2	
+#1	AnnotatorNotes T4	same size;same color

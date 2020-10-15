@@ -1,0 +1,2 @@
+0: I have a small black dot to the left of a larger light gray dot
+1: I see a small dark dot but, to its right is a bigger grey dot and to its left is also a bigger dark dot, is that what you see?

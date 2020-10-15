@@ -1,0 +1,6 @@
+0: I have two small dots at the bottom, one light gray and one dark...
+1: off to the right, i have two dark smaller dots with a larger light one in the middle
+0: I have this larger light one in the middle
+1: the two small ones you describe, is the lighter one on top, the darker one below? with a larger med/grey one to the top one's left?
+0: Yes that's correct, should we try the lighter smaller one?
+1: ok

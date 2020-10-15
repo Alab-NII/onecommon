@@ -1,0 +1,4 @@
+0: hELLO, i HAVE TWO BIG CIRCLES NEAR THE TOP. ONE DARKER GREY TOWARD LEFT SIDE AND A LIGHT GREY TO THE RIGHT OF IT
+1: Do you have another grey dot on the left of the dark grey dot?
+0: NOT REALLY, I HAVE A LIGHT GREY SPOT THATS SMALLER THAN THAT ONE, SLIGHTLY TO THE LEFT OF IT BUT MOSTLY UNDERNEATH
+1: So do I. I'm going to select the dark grey spot in the middle

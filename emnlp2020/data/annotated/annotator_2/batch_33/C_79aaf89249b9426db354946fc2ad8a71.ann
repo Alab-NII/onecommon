@@ -1,0 +1,12 @@
+T1	Markable 9 23	two black dots
+T3	Markable 67 85	a medium sized one
+T4	Markable 45 61	a very small one
+T5	Markable 92 94	it
+T6	Markable 161 163	it
+T7	Markable 231 245	the bottom one
+T8	Markable 294 308	the larger one
+R1	Anaphora Arg1:T5 Arg2:T4	
+T2	Markable 150 153	any
+T9	Markable 168 184	Closest next one
+T10	Markable 210 213	its
+R2	Anaphora Arg1:T10 Arg2:T9	

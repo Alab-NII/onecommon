@@ -1,0 +1,8 @@
+1: I see a dark grey dot very close to a slightly larger black dot
+0: most of my dots are mid-grey, all small to tiny except 2 medium ones. what size?
+1: do you see a light grey small dot with a slightly darker small dot below it and a little to the right
+0: yes i do, is the one on top slightly darker?
+1: no, mine is darker on the bottom
+0: i'm sorry i totally meant the other way around. my bad. are they semi far from each other? i have the tiny light one on top
+1: yes! Let's choose the lighter one
+0: gotcha

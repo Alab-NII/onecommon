@@ -1,0 +1,16 @@
+T2	Markable 91 95	that
+T3	Markable 165 168	one
+T4	Markable 209 218	the other
+T5	Markable 108 116	two dots
+T6	Markable 233 254	the 2nd most dark dot
+T8	Markable 332 349	previous said dot
+T11	Markable 294 318	a darker grey larger dot
+T12	Markable 407 425	original black dot
+T13	Markable 449 473	the large light grey dot
+T14	Markable 511 523	the same one
+T15	Markable 9 42	a darker medium to large size dot
+A1	No-Referent T2
+T16	Markable 145 149	both
+R1	Anaphora Arg1:T16 Arg2:T5	
+R2	Anaphora Arg1:T8 Arg2:T6	
+T7	Markable 355 394	a lighter grey slightly larger size dot

@@ -1,0 +1,12 @@
+T1	Markable 15 36	a three grey dot line
+T2	Markable 97 129	a slightly smaller dark grey dot
+T3	Markable 71 91	a med light grey dot
+T4	Markable 183 191	triangle
+T5	Markable 165 179	a med grey dot
+T6	Markable 237 254	a darker grey dot
+T7	Markable 198 205	the dot
+T8	Markable 223 236	that triangle
+T9	Markable 290 298	that one
+T10	Markable 143 146	its
+R1	Anaphora Arg1:T10 Arg2:T3	
+R2	Predicative Arg1:T6 Arg2:T7	

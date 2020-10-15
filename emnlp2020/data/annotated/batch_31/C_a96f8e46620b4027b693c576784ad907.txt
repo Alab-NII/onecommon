@@ -1,0 +1,5 @@
+0: two big dots one dark grey equal slightly smaller lighter grey to the immediate left
+1: Cluster of 3 dots very close together - small black is left and slightly higher
+0: what are the other two dots I see that one as well
+1: It's the same cluster we're seeing. Select the small black?
+0: yes

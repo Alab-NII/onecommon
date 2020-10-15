@@ -1,0 +1,20 @@
+T2	Markable 10 38	a cluster of four small dots
+T3	Markable 52 56	that
+T4	Markable 68 81	one large dot
+T5	Markable 190 192	it
+T6	Markable 218 232	the other dots
+T7	Markable 253 261	that one
+T1	Markable 102 114	all the rest
+T8	Markable 174 178	that
+R1	Anaphora Arg1:T5 Arg2:T8	
+T9	Spatial-Relation 12 19	cluster
+A1	No-Obj T9
+T10	Spatial-Relation 90 101	darker than
+T11	Spatial-Attribute 116 128	almost black
+T12	Modifier 116 122	almost
+T13	Spatial-Relation 130 155	in the 7 o'clock position
+A2	No-Obj T13
+T14	Modifier 195 202	kind of
+T15	Spatial-Relation 203 217	separated from
+#1	AnnotatorNotes T13	below;left
+#2	AnnotatorNotes T15	far

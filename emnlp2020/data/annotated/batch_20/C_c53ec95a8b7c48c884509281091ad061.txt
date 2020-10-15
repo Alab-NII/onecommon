@@ -1,0 +1,4 @@
+0: 3 dots forming a triangle top dot very tiny?
+1: I have a larger black dot and smaller dark gray between the 2 and 3 oclock position
+0: is the smaller dark grey dot below to the left of the black one. if so click the black one!
+1: Ok!

@@ -1,0 +1,41 @@
+T1	Markable 41 58	your smallest dot
+T2	Markable 77 83	a line
+T3	Markable 89 119	2 medium gray medium size dots
+T4	Markable 134 137	its
+T5	Markable 147 150	its
+T6	Markable 170 196	two medium size/shade dots
+T7	Markable 210 224	2 lighter dots
+T8	Markable 246 249	One
+T9	Markable 304 332	the original small light dot
+T10	Markable 3 18	my smallest dot
+R1	Anaphora Arg1:T5 Arg2:T4	
+T11	Spatial-Relation 6 14	smallest
+A1	No-Obj T11
+T12	Spatial-Relation 22 34	the lightest
+A2	No-Obj T12
+T13	Spatial-Relation 41 54	your smallest
+A3	No-Obj T13
+T14	Spatial-Relation 59 76	the right side of
+T15	Spatial-Relation 79 83	line
+A5	No-Obj T15
+T16	Spatial-Relation 84 88	with
+T17	Modifier 138 143	a bit
+T18	Spatial-Relation 144 146	on
+T19	Spatial-Relation 151 154	own
+A6	No-Obj T18
+T20	Spatial-Relation 162 169	between
+T21	Spatial-Relation 212 219	lighter
+R3	Obj Arg1:T21 Arg2:T1	
+T22	Spatial-Relation 225 244	above the left side
+R4	Obj Arg1:T22 Arg2:T1	
+A7	No-Obj T21
+A8	Ambiguous-Obj T21
+T23	Spatial-Attribute 250 253	big
+#1	AnnotatorNotes T18	alone
+A4	Canonical-Undefined T13
+R2	Split Arg1:T19 Arg2:T18	
+A9	Mod-Subtlty T17
+T24	Spatial-Attribute 257 268	medium size
+A10	No-Subj-Markable T24
+T25	Modifier 257 263	medium
+A11	Mod-Neutral T25

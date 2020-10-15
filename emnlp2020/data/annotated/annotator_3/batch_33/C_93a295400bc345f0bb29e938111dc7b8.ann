@@ -1,0 +1,13 @@
+T1	Markable 10 30	three very dark dots
+T2	Markable 32 36	they
+T3	Markable 54 72	the smallest black
+T4	Markable 127 129	it
+T5	Markable 165 172	the dot
+T6	Markable 218 222	that
+R1	Anaphora Arg1:T2 Arg2:T1	
+T7	Markable 78 101	a slightly larger black
+R2	Anaphora Arg1:T4 Arg2:T3	
+T8	Markable 134 136	it
+T9	Markable 240 249	which one
+A1	Generic T9
+T10	Markable 272 291	The small black dot

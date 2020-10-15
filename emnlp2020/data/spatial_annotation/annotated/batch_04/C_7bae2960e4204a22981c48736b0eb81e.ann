@@ -1,0 +1,32 @@
+T1	Markable 47 53	itself
+T2	Markable 10 21	a large dot
+T3	Markable 69 80	a black dot
+T4	Markable 188 199	a black dot
+T5	Markable 222 228	2 dots
+T7	Markable 292 307	the largest one
+R1	Anaphora Arg1:T1 Arg2:T2	
+T9	Markable 119 136	a medium Gray dot
+T6	Spatial-Relation 22 43	at the 11 oclock spot
+A1	No-Obj T6
+T8	Spatial-Relation 44 46	by
+T10	Spatial-Relation 81 94	in the middle
+A2	No-Obj T10
+T11	Spatial-Relation 137 155	to the left middle
+A3	No-Obj T11
+T12	Spatial-Relation 166 184	below to the right
+R2	Subj Arg1:T12 Arg2:T4	
+R3	Obj Arg1:T12 Arg2:T9	
+T13	Spatial-Relation 205 217	further down
+R4	Subj Arg1:T13 Arg2:T5	
+R5	Obj Arg1:T13 Arg2:T9	
+T14	Spatial-Relation 229 240	on the line
+A4	No-Obj T14
+#1	AnnotatorNotes T14	on the edge
+T15	Spatial-Relation 296 303	largest
+R6	Obj Arg1:T15 Arg2:T5	
+T16	Spatial-Relation 308 319	on the line
+A5	No-Obj T16
+#2	AnnotatorNotes T16	on the edge
+#3	AnnotatorNotes T8	alone
+#4	AnnotatorNotes T6	left above
+#5	AnnotatorNotes T11	left

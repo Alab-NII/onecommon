@@ -1,0 +1,8 @@
+0: I have a large very light gray dot with a smaller dark gray dot below and to the left of it
+1: i don't have that, mines a medium sized dark grey below the large light grey, i have 2 medium sized light greys going down in a line, with a large medium grey below them
+0: I only have 1 light gray dot. What about 2 medium same sized dots almost in a horizontal line. the one on the right is slightly darker that the one on the left
+1: mine are mostly vertical, nothing lining up with those colors, 1 have a single small black dot
+0: I might have the same small black dot. Is there a much larger medium gray dot above and to the left of it?
+1: yeah
+0: lets pick the small black dot
+1: doing it!

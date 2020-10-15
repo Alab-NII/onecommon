@@ -1,0 +1,7 @@
+T1	Markable 31 42	the top two
+T2	Markable 57 71	the bottom two
+T3	Markable 10 19	four dots
+T4	Markable 23 29	a line
+T5	Markable 136 159	the top small black one
+R1	Predicative Arg1:T4 Arg2:T3	
+T6	Markable 110 124	the same thing

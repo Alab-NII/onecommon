@@ -1,0 +1,3 @@
+1: Do you have one large black dot and there is a medium color right below it?
+0: yes i do
+1: Perfect. let's choose the large black dot.

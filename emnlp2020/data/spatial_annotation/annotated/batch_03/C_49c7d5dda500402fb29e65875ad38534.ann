@@ -1,0 +1,18 @@
+T2	Markable 103 138	a very tiny, very light colored one
+T3	Spatial-Attribute 80 85	three
+T4	Markable 149 156	the one
+T5	Markable 146 148	it
+T6	Markable 9 21	four circles
+T7	Markable 74 76	It
+R3	Predicative Arg1:T4 Arg2:T5	
+T8	Markable 172 175	its
+T1	Spatial-Relation 22 31	in a line
+A1	No-Obj T1
+T9	Spatial-Relation 32 46	going vertical
+A2	No-Obj T9
+T10	Spatial-Relation 47 70	on right side of circle
+A3	No-Obj T10
+T11	Spatial-Relation 157 170	at the bottom
+R1	Obj Arg1:T11 Arg2:T6	
+T12	Spatial-Attribute 176 181	small
+T13	Spatial-Attribute 186 196	light gray

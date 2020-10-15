@@ -1,0 +1,13 @@
+T1	Markable 15 32	a group of 5 dots
+T2	Markable 66 90	two large very dark ones
+T3	Markable 121 133	that cluster
+T4	Markable 144 151	the two
+T5	Markable 164 174	each other
+T6	Markable 225 241	a very light one
+T7	Markable 279 297	the large dark one
+T8	Markable 315 323	the pair
+T9	Markable 346 364	the large dark one
+T10	Markable 103 113	each other
+R1	Anaphora Arg1:T10 Arg2:T2	
+R2	Anaphora Arg1:T5 Arg2:T4	
+T11	Markable 245 250	their

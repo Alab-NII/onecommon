@@ -1,0 +1,24 @@
+T1	Markable 47 61	two light grey
+T2	Markable 30 45	three dark dots
+T3	Markable 10 29	one really dark dot
+T4	Markable 66 85	one very light grey
+T5	Markable 205 213	the rest
+T6	Markable 181 183	it
+T7	Markable 226 230	it's
+T8	Markable 317 325	the rest
+T9	Markable 267 287	a tiny dark grey dot
+T10	Markable 342 350	that one
+T11	Markable 363 374	a dark grey
+T13	Markable 380 401	a dark and super dark
+T14	Markable 408 410	it
+T15	Markable 454 459	those
+T16	Markable 431 446	the darkest one
+T18	Markable 102 125	the very light grey dot
+T19	Markable 130 132	it
+T20	Markable 149 157	all mine
+A1	All-Referents T20
+T21	Markable 218 220	it
+#1	AnnotatorNotes T7	its
+R1	Anaphora Arg1:T7 Arg2:T21	
+A2	No-Referent T10
+R2	Anaphora Arg1:T14 Arg2:T11	

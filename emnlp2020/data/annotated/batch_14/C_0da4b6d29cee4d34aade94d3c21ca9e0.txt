@@ -1,0 +1,6 @@
+1: I have 2 dark grey dots close to each other horizontal to each other
+0: Are they the same size? For me the one on top is larger
+1: For me, the one to the right is slightly bigger
+0: Hmmmm. Do you see two small dark grey dots next to each other?
+1: yes
+0: Okay, select the smaller of the two.

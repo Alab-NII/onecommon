@@ -1,0 +1,3 @@
+0: 1 have 1 tiny light grey dot
+1: dont have it. medium black dot with a smaller black dot right above it
+0: Have it. click the bigger of the two

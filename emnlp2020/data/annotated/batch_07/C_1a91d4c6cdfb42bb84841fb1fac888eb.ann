@@ -1,0 +1,12 @@
+T1	Markable 55 71	a line of 3 dots
+T2	Markable 121 135	the bottom one
+T3	Markable 200 218	the light gray one
+T4	Markable 188 192	that
+T5	Markable 9 17	which do
+#1	AnnotatorNotes T5	which dot
+A1	Generic T5
+T6	Markable 72 75	top
+T7	Markable 90 96	middle
+T8	Markable 160 170	the middle
+R1	Anaphora Arg1:T8 Arg2:T7	
+T9	Markable 223 234	the top one

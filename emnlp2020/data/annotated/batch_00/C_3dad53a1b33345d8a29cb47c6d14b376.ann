@@ -1,0 +1,8 @@
+T1	Markable 20 35	three gray dots
+T4	Markable 61 65	they
+T5	Markable 87 91	they
+T6	Markable 146 160	the middle one
+T7	Markable 168 182	the middle one
+T8	Markable 199 208	the three
+R1	Anaphora Arg1:T4 Arg2:T1	
+R2	Anaphora Arg1:T5 Arg2:T1	

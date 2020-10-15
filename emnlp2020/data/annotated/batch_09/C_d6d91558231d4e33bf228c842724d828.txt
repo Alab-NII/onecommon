@@ -1,0 +1,7 @@
+1: I have a lonely large light dot on the top
+0: i have a large dot but it has a smaller dot to the right and up slightly
+1: I dont have that, what about lonely large black dot?
+0: no i don't have a lonely large one
+1: what about 2 grey dots? one is slightly larger and lighter above the darker one
+0: yes i believe i have that, pick the slightly larger lighter one
+1: sure

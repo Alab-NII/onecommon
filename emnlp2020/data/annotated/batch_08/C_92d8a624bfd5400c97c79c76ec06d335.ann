@@ -1,0 +1,10 @@
+T1	Markable 47 65	a darker black dot
+T2	Markable 111 135	3 small medium grey dots
+T3	Markable 146 156	a triangle
+T4	Markable 221 223	it
+T5	Markable 200 214	that black one
+T6	Markable 256 269	the black one
+T7	Markable 3 14	medium grey
+R1	Predicative Arg1:T3 Arg2:T2	
+T8	Markable 158 161	all
+R2	Anaphora Arg1:T8 Arg2:T2	

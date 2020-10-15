@@ -1,0 +1,27 @@
+T2	Markable 18 35	a large light dot
+T3	Markable 173 175	it
+T4	Markable 147 161	the bottom one
+T5	Markable 228 242	that large one
+T6	Markable 41 69	a medium slightly darker one
+T1	Markable 73 76	its
+R1	Anaphora Arg1:T1 Arg2:T2	
+T7	Markable 108 111	one
+T8	Spatial-Relation 36 40	with
+T9	Modifier 50 58	slightly
+T10	Spatial-Relation 59 65	darker
+T11	Spatial-Relation 77 83	bottom
+R2	Subj Arg1:T11 Arg2:T6	
+R3	Obj Arg1:T11 Arg2:T1	
+T12	Modifier 112 120	a little
+T13	Spatial-Relation 121 128	smaller
+T14	Spatial-Relation 133 143	same color
+T15	Spatial-Relation 151 157	bottom
+T16	Spatial-Relation 84 89	right
+R4	Subj Arg1:T16 Arg2:T6	
+R5	Obj Arg1:T16 Arg2:T1	
+T17	Spatial-Relation 162 172	underneath
+T18	Spatial-Relation 176 187	to the left
+R7	Subj Arg1:T18 Arg2:T7	
+R8	Obj Arg1:T18 Arg2:T3	
+R9	Obj Arg1:T15 Arg2:T1	
+#1	AnnotatorNotes T17	under

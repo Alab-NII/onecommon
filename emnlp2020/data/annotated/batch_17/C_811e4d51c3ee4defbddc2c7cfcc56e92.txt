@@ -1,0 +1,5 @@
+0: i have one smaller darker grey dot forming the bottom of a triangle
+1: medium back dot with a tiny grey dot just above it and a medium grey dot below it
+0: i dont see what you're describing, do you see what i described?
+1: no. no triangles here. how about a big black dot all by itself
+0: yes. I will choose that

@@ -1,0 +1,13 @@
+T1	Markable 119 133	that small one
+T2	Markable 3 27	two very light grey dots
+T3	Markable 55 62	the top
+T4	Modifier 28 32	very
+T5	Spatial-Relation 33 47	close together
+A1	No-Obj T5
+T6	Spatial-Relation 59 62	top
+R1	Obj Arg1:T6 Arg2:T2	
+T7	Spatial-Attribute 63 68	small
+T8	Modifier 73 77	very
+T9	Spatial-Attribute 78 83	light
+T10	Spatial-Relation 88 104	towards the left
+R2	Obj Arg1:T10 Arg2:T2	

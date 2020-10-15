@@ -1,0 +1,3 @@
+1: 3 dots forming a triangle. 2 at the bottom are black. top is big grey
+0: is one of the black dots larger than the other?
+1: yeah. pick that one. black larger

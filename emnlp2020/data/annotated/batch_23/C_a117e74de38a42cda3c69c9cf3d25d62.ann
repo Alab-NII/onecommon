@@ -1,0 +1,22 @@
+T1	Markable 24 42	a smaller dark one
+T2	Markable 166 190	a tight perfect triangle
+T3	Markable 274 282	left one
+T4	Markable 231 247	a wider triangle
+T5	Markable 325 343	the wider triangle
+T6	Markable 434 449	one of the ones
+T8	Markable 3 18	Large black dot
+T9	Markable 46 49	its
+R1	Anaphora Arg1:T9 Arg2:T8	
+T10	Markable 67 88	a smaller medium gray
+T11	Markable 96 99	its
+T12	Markable 120 143	3 of 3 different colors
+R2	Anaphora Arg1:T11 Arg2:T8	
+R3	Predicative Arg1:T2 Arg2:T12	
+T13	Markable 226 227	3
+R4	Predicative Arg1:T4 Arg2:T13	
+T14	Markable 286 290	that
+R5	Anaphora Arg1:T14 Arg2:T13	
+T15	Markable 349 357	the left
+T16	Markable 404 424	the largest/lightest
+A1	No-Referent T6
+T7	Markable 494 527	Largest/left of triangle/lightest

@@ -1,0 +1,10 @@
+T1	Markable 10 39	a single very large black dot
+T2	Markable 73 129	a slightly smaller but still fairly large, dark grey dot
+T3	Markable 264 285	a smaller lighter dot
+T4	Markable 323 342	the large dark grey
+T5	Markable 344 357	The light one
+T6	Markable 438 456	that top light one
+T7	Markable 61 64	its
+R1	Anaphora Arg1:T7 Arg2:T1	
+T8	Markable 134 155	three large dark dots
+T9	Markable 205 209	what

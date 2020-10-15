@@ -1,0 +1,4 @@
+1: I have a tight cluster of 3 dots. from left to right: Large light grey, large darker grey and slightly up, and small dark grey slightly down. Do you have any unique dots?
+0: I see two dots that are almost exactly the same size and shade and one of them is very close to a tiny one that is dark
+1: I think we are describing the same dots? Should we pick the darkest smallest dot on the right?
+0: Yes!

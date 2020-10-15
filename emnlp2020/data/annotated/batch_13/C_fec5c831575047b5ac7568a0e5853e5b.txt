@@ -1,0 +1,4 @@
+1: Do you see a black dot above a medium lighter gray dot
+0: I have two very close together. They are both medium size. The one on the bottom is smaller, and much darker. The top one is lighter, a little larger and slightly left
+1: I see that one also. Which one do you want to click
+0: Lets click the smaller, black dot

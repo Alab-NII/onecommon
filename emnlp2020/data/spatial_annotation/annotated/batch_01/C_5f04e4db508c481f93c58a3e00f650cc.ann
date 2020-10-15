@@ -1,0 +1,16 @@
+T1	Markable 33 36	one
+T2	Markable 71 75	them
+T3	Markable 82 95	the black one
+T4	Markable 127 135	that one
+T5	Markable 3 11	two dots
+T6	Modifier 12 16	very
+T7	Spatial-Relation 17 31	close together
+A1	No-Obj T7
+T8	Spatial-Relation 37 43	on top
+R1	Obj Arg1:T8 Arg2:T5	
+T9	Spatial-Relation 44 50	larger
+R2	Obj Arg1:T9 Arg2:T5	
+T10	Spatial-Attribute 55 60	black
+T11	Modifier 99 107	slightly
+T12	Spatial-Relation 108 120	to the right
+R3	Obj Arg1:T12 Arg2:T5	

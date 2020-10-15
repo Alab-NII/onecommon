@@ -1,0 +1,4 @@
+0: I see only lonely small dark dot
+1: i see two dots close together. the darker one is slightly larger, down, and to the right
+0: one is medium gray and the other one is dark gray ?
+1: yes. let's choose the darker dot, down and to the right

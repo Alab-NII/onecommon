@@ -1,0 +1,14 @@
+T1	Markable 14 43	just one absolutely black dot
+T2	Markable 72 74	it
+T3	Markable 106 138	a slightly larger light grey dot
+T5	Markable 176 189	the black dot
+T7	Markable 45 48	its
+R1	Anaphora Arg1:T7 Arg2:T1	
+T8	Markable 147 151	that
+T4	Spatial-Attribute 49 62	small in size
+T6	Spatial-Relation 78 83	above
+T9	Modifier 88 96	slightly
+T10	Spatial-Relation 97 105	right of
+T11	Modifier 108 116	slightly
+T12	Spatial-Relation 117 123	larger
+R2	Obj Arg1:T12 Arg2:T2	

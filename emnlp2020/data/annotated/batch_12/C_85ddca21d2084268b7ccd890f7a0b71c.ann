@@ -1,0 +1,8 @@
+T1	Markable 106 121	a diagonal line
+T2	Markable 127 130	one
+T3	Markable 201 203	it
+T4	Markable 3 32	triangle of 3 large grey dots
+T5	Markable 67 80	two med sized
+R1	Predicative Arg1:T1 Arg2:T5	
+T6	Markable 171 174	its
+R2	Anaphora Arg1:T3 Arg2:T6	

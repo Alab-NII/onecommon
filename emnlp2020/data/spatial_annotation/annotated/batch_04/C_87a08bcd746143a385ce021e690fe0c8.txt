@@ -1,0 +1,5 @@
+0: I have one lonely, medium, light gray dot
+1: I do not. mine are mostly clustered together. My lightest dot has a larger medium-gray dot up and to the left of it. pretty close together
+0: no. i have 2 dots really close together. same size. one is dark grey and the lighter one is a bit lower and to the right of it
+1: Sounds like the same. lets pick the lighter dot
+0: ok

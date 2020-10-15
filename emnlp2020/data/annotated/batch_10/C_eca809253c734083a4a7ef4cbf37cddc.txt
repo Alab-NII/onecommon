@@ -1,0 +1,4 @@
+1: I see two light grey med dots that are almost identical in size
+0: Do you see two grey dots, same size and nearly horizontal from each other? The one on the right is slightly lighter
+1: yes I think we're talking about the same exact ones. if the one on the right is slightly lower than the left click the one on the right!
+0: Faster

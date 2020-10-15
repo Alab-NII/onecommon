@@ -1,0 +1,8 @@
+T1	Markable 42 52	a triangle
+T4	Markable 59 75	the bottom point
+T5	Markable 125 135	The bottom
+T7	Markable 156 166	My darkest
+T8	Markable 203 218	the darkest one
+T9	Markable 3 33	The almost same size tiny dots
+R1	Predicative Arg1:T1 Arg2:T9	
+T3	Markable 92 107	the upper right

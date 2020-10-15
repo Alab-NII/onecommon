@@ -1,0 +1,15 @@
+T1	Markable 9 25	a large gray dot
+T3	Markable 31 54	a medium sized gray dot
+T4	Markable 86 88	it
+T5	Markable 90 104	The larger one
+T6	Markable 197 207	a triangle
+T7	Markable 159 169	three dots
+T8	Markable 224 236	the triangle
+T9	Markable 209 220	The top dot
+T10	Markable 270 278	the dots
+R1	Anaphora Arg1:T4 Arg2:T1	
+R2	Predicative Arg1:T6 Arg2:T7	
+R3	Anaphora Arg1:T8 Arg2:T7	
+T2	Markable 301 310	Which one
+A1	Generic T2
+T11	Markable 349 377	the top, lighter colored dot

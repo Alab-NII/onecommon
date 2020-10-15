@@ -1,0 +1,4 @@
+0: black dot with a medium grey dot, same size above it to the left?
+1: yes I see that, select the black dot?
+0: ok
+1: ok.

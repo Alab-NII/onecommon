@@ -1,0 +1,26 @@
+T1	Markable 9 15	2 dots
+T2	Markable 17 21	they
+T3	Markable 75 85	higher one
+T4	Markable 148 152	they
+T5	Markable 204 213	the other
+T6	Markable 245 269	the smaller, lighter dot
+T7	Markable 215 217	It
+T8	Markable 286 290	that
+T9	Markable 314 324	the larger
+T10	Markable 299 307	one pair
+T11	Markable 361 368	the dot
+T12	Markable 425 437	another pair
+T13	Markable 529 536	the one
+T15	Markable 507 523	that middle pair
+T16	Markable 597 599	it
+T17	Markable 725 729	that
+R1	Anaphora Arg1:T2 Arg2:T1	
+T18	Markable 112 120	the dots
+R2	Anaphora Arg1:T4 Arg2:T18	
+A1	Generic T18
+T19	Markable 168 182	The darker one
+A2	No-Referent T8
+T20	Markable 347 354	Another
+T21	Markable 460 466	darker
+T14	Markable 614 623	the upper
+T22	Markable 695 708	big the lower

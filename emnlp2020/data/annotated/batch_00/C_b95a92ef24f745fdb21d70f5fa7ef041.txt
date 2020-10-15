@@ -1,0 +1,9 @@
+1: do you see a black dot
+0: I see two
+1: I have one black dot, rest are grey
+0: I have a large black top left and a small black center right side
+1: I have 7 dots. one black. 1 large one medium and rest small. black is small
+0: Is the black dot on the right side? small and kind of centered?
+1: small black is right side, about midway from center and edge at 2 o clock
+0: yes I have that also, so choose it?
+1: yes let's do that

@@ -1,0 +1,3 @@
+0: I have 2 same-size dots near each other, Medium size, upper right is black, Lower left is light grey
+1: Yes, pick Black?
+0: I think so

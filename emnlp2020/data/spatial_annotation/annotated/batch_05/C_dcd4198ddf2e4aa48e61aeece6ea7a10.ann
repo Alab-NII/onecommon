@@ -1,0 +1,14 @@
+T1	Markable 14 29	three dark ones
+T2	Markable 39 49	each other
+T3	Markable 70 81	the top one
+T4	Markable 94 108	the middle one
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T3
+T5	Markable 155 168	the black one
+T6	Spatial-Relation 34 38	near
+T7	Spatial-Relation 74 77	top
+R2	Obj Arg1:T7 Arg2:T1	
+T8	Spatial-Relation 98 104	middle
+R3	Obj Arg1:T8 Arg2:T1	
+T9	Modifier 109 115	almost
+T10	Spatial-Attribute 116 121	black

@@ -1,0 +1,17 @@
+T1	Markable 14 36	a medium dark grey dot
+T2	Markable 42 55	a smaller dot
+T3	Markable 80 82	it
+T4	Markable 131 146	the smaller one
+T5	Markable 111 115	they
+R1	Anaphora Arg1:T3 Arg2:T1	
+T6	Spatial-Relation 37 41	with
+T7	Spatial-Relation 44 51	smaller
+T8	Spatial-Relation 56 73	of the same color
+R2	Obj Arg1:T8 Arg2:T1	
+T9	Spatial-Relation 74 79	below
+T10	Spatial-Relation 87 99	to the right
+R3	Subj Arg1:T10 Arg2:T2	
+R4	Obj Arg1:T10 Arg2:T3	
+T11	Spatial-Attribute 120 124	dark
+T12	Spatial-Relation 135 142	smaller
+R5	Obj Arg1:T12 Arg2:T5	

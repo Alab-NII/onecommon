@@ -1,0 +1,5 @@
+0: Do you see the wo medium sized medium grey dot very very close?
+1: i have large black dot alone
+0: Is there a tiny one down and right of it?
+1: i see the two grey dots choose the lower ok
+0: Ok

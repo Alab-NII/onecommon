@@ -1,0 +1,7 @@
+0: medium dark up high alone
+1: No, I see a light dark one near the top alone
+0: dark small one under and to the right?
+1: No, a smaller darker lower and to the left. Do you see a large black near 6:30, under a smaller light gray dot?
+0: yes, the only dark black
+1: Pick that one
+0: alright

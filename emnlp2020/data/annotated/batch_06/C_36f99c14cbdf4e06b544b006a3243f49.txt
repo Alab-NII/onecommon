@@ -1,0 +1,4 @@
+0: hi which dot do u want to try?
+1: hey,I have 3 dots close to each other making a triangle, the largest one is also the lightest
+0: got it! lets click the largest one
+1: sure

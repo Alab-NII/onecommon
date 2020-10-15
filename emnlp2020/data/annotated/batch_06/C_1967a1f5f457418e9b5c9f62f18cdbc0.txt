@@ -1,0 +1,5 @@
+0: I see 3 dots nearly vertical, widely spaced, light grey top and bottom dots are biggest
+1: i dont have any vertical. i have 3 that form what looks to be an equilateral triangle, all 3 different sizes, smallest on bottom right, biggest bottom left, same color as bottom right, and medium sized top center, and almost black
+0: I see your triangle, the bottom right dot is smallest
+1: yeah, lets pick the black one
+0: ok

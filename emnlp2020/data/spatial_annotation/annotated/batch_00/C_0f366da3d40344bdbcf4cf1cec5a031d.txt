@@ -1,0 +1,5 @@
+0: Do you see two tiny black dots, they are sloping upwards and to the left, if so pick the top one
+1: I got small black dot with medium size gray dot next to it
+0: I don't see that
+1: I got a large black dot with medium size light gray dot to the right
+0: Pick that large black dot

@@ -1,0 +1,4 @@
+0: I have a medium sized black dot that is above and to the right of a dark grey the same size
+1: is it in the lower left area
+0: They will be in different areas, but yes. Mine are the the lower left
+1: then i think that is the one

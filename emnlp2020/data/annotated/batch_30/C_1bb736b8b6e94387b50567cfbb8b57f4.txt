@@ -1,0 +1,4 @@
+0: do you see two dark grey dots very close to each other, one medium one very small?
+1: I have a large black dot by itself
+0: Me too try that one?
+1: Okay

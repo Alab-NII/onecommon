@@ -1,0 +1,6 @@
+1: I've got three dots in a triangle, two side by side, left is gray, right is darker gray, bottom point is smaller and light gray
+0: do you have a darkish greys
+1: I have two really dark ones on a diagonal, bottom left going to top right, close together
+0: wait, i have the triangle
+1: pick the darkest one?
+0: yes

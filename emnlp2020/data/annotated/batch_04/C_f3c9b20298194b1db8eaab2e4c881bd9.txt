@@ -1,0 +1,5 @@
+1: I see a dark grey dot away from the rest
+0: Is it a large dot?
+1: yes it is the biggest size amongst 3 others
+0: let's chose that one
+1: do you see a tiny gray dot?

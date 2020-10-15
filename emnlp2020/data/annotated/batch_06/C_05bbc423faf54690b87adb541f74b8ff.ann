@@ -1,0 +1,11 @@
+T1	Markable 37 58	a really big triangle
+T2	Markable 15 26	3 lone dots
+T3	Markable 67 71	they
+T4	Markable 146 164	a medium black dot
+T5	Markable 120 144	one really big black dot
+T6	Markable 169 187	a smaller grey dot
+T7	Markable 204 224	the smaller grey dot
+R1	Predicative Arg1:T1 Arg2:T2	
+T8	Markable 72 93	two medium sized dots
+T9	Markable 98 111	one small dot
+T10	Markable 116 119	its

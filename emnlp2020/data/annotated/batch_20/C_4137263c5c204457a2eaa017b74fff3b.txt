@@ -1,0 +1,4 @@
+1: do you have two dark, and 3 light making an arrow pointing to the right?
+0: yes!!
+1: awesome... pick the bottom dark one?
+0: ok

@@ -1,0 +1,5 @@
+0: I have three dark dots clustered together with the largest one in the middle
+1: do you have the largest medium colored grey dot almost in the center?
+0: yes
+1: shall we try the largest one in middle?
+0: sure

@@ -1,0 +1,4 @@
+0: med grey with a black one directly above slightly to it's right... a light tiny one to their right/in between?
+1: Yes, which one should we select?
+0: it's a triangle? with the lightest to the right? the med/grey one on bottom? choose the light one if so
+1: Okay, yes.

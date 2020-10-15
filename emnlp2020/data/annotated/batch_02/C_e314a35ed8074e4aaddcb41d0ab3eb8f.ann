@@ -1,0 +1,5 @@
+T1	Markable 3 28	group of three large dots
+T2	Markable 83 94	the darkest
+T3	Markable 42 45	all
+R1	Anaphora Arg1:T3 Arg2:T1	
+T4	Markable 98 103	the 3

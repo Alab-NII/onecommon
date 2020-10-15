@@ -1,0 +1,8 @@
+0: Hello
+1: hello do you see a big dark gray dot at the top of the circle
+0: I have two grey dots at the top of the circle. One is slighter lighter and closer to the top, while there is one to its immediate right, slightly lower, but very dark.
+1: The slighter larger one is very dark on my end
+0: Is it more of a black than grey? Sorry
+1: yes it is. I also have a lighter gray one at the top to
+0: I think we have the large black dot in common then.
+1: ok lets click it

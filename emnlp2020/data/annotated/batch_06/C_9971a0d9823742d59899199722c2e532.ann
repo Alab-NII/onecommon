@@ -1,0 +1,12 @@
+T1	Markable 30 44	one darker dot
+T2	Markable 58 73	a tiny gray dot
+T3	Markable 89 93	that
+T4	Markable 105 127	a series of three dots
+T5	Markable 131 137	a line
+T6	Markable 167 178	the top two
+T7	Markable 249 268	the dark bottom one
+A1	No-Referent T3
+R1	Predicative Arg1:T5 Arg2:T4	
+T8	Markable 144 154	the bottom
+T9	Markable 180 190	The middle
+T10	Markable 214 221	the top

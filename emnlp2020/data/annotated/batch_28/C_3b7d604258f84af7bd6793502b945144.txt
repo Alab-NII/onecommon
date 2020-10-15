@@ -1,0 +1,4 @@
+0: two dots very close together on vertical line?
+1: same size with one being light and one being black?
+0: yes! black on top. click that black one
+1: k

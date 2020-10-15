@@ -1,0 +1,5 @@
+1: One black bottom left, with black smaller one an inch to the right top
+0: hmm no. do you see a very large very dark dot?
+1: No large ones... have a small grey up top with a darker larger below it
+0: is the darker one larger and to the right? if so click that larger one
+1: Clicking it

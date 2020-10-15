@@ -1,0 +1,5 @@
+0: very large light grey dot?
+1: my dots make a lower case t
+1: almost centered?
+0: yes! in between two smaller dots! click the large light one!
+1: ok

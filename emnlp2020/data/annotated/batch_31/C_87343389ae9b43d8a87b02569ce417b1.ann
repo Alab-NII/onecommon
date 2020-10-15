@@ -1,0 +1,13 @@
+T1	Markable 10 27	one pale gray dot
+T2	Markable 125 131	itself
+T3	Markable 101 121	the rest of the dots
+T5	Markable 78 80	it
+T6	Markable 179 190	all of mine
+T7	Markable 216 218	it
+T8	Markable 248 260	a darker dot
+T9	Markable 282 284	it
+T10	Markable 346 367	that light lonely one
+T11	Markable 59 71	all the rest
+R1	Anaphora Arg1:T2 Arg2:T5	
+A1	All-Referents T6
+T4	Markable 301 312	A black dot

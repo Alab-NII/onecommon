@@ -1,0 +1,7 @@
+1: hello which dot would you like to try for?
+0: Hello, I have 3 dots making a triangle, the right one is dark, the left one is light, and the bottom one is the smallest
+1: hmm I dont have a triangle on mine. How about 2 close together that slope down and to the lefT?
+0: is the right one darker and slightly larger?
+1: yes
+0: lets select the larger and darker one
+1: ok!

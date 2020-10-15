@@ -1,0 +1,3 @@
+0: is your biggest dot a light grey and towards the bottom
+1: No... but I have a line of three dark gray, small light gray larger med gray in the center
+0: click the large medium grey dot

@@ -1,0 +1,10 @@
+T1	Markable 9 30	a large very dark dot
+T2	Markable 48 62	any other dots
+T3	Markable 132 153	two lighter grey dots
+T4	Markable 211 217	itself
+T5	Markable 193 207	that large dot
+A1	No-Referent T2
+T6	Markable 96 116	a dark gray med. dot
+#1	AnnotatorNotes T6	a dark gray med dot
+T7	Markable 157 160	its
+R1	Anaphora Arg1:T4 Arg2:T5	

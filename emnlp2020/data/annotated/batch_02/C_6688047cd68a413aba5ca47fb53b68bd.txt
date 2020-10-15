@@ -1,0 +1,7 @@
+1: Hi, do you have a large black dot by 12?
+0: no, I don't
+1: Small black dot by 3?
+0: I have one but its closer to 2.
+1: Is it dark?
+0: Yes!
+1: Let's see if it's the same?

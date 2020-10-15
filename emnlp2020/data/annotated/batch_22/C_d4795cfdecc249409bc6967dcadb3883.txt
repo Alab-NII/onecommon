@@ -1,0 +1,2 @@
+0: My smallest dot is medium gray
+1: Yes

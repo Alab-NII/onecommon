@@ -1,0 +1,4 @@
+0: Tiny light grey dot alone, large black dot with a larger dark grey above and to the left
+1: are you sure the dark grey one isn't up to the right?
+0: Haha, yes to the right
+1: k click that one!

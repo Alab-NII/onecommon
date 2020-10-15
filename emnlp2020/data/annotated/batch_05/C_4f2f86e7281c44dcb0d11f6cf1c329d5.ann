@@ -1,0 +1,16 @@
+T1	Markable 34 48	the darker one
+T3	Markable 75 86	the lighter
+T4	Markable 98 110	no dark dots
+T5	Markable 165 175	each other
+T7	Markable 241 244	two
+T8	Markable 203 219	three small ones
+T10	Markable 310 316	a line
+T11	Markable 339 353	the center one
+T12	Markable 357 365	the line
+T2	Markable 14 33	two large dark dots
+T6	Markable 116 150	two medium colored large grey ones
+R1	Anaphora Arg1:T5 Arg2:T6	
+T14	Markable 179 192	The grey ones
+T9	Markable 273 299	the three small light ones
+R2	Predicative Arg1:T10 Arg2:T9	
+A1	No-Referent T4

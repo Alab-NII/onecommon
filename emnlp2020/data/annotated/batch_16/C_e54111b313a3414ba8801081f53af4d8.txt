@@ -1,0 +1,6 @@
+0: Hey! i have a group of 3 dots on the right to the top!
+1: The largest dot I see is a light grey dot with a slightly smaller light grey on near the top of it
+0: I don't think I have that. I have a line of 2 dots bottom right... one small light gray and a larger black one... makes almost a vertical line
+1: I dont see that. On my bottom right I have a small light grey dot to the left of a larger dark grey dot almost perfectly horizontal
+0: opps maybe is is horizontal lol! Yes Lets choose the bigger dot
+1: okay

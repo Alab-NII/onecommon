@@ -1,0 +1,27 @@
+T1	Markable 9 38	a single light grey small dot
+T2	Markable 59 61	it
+T3	Markable 44 51	nothing
+T5	Markable 117 139	3 tiny light grey dots
+T6	Markable 147 163	a large triangle
+T7	Markable 176 211	two large very dark grey/black dots
+T8	Markable 228 241	said triangle
+T9	Markable 257 275	one light grey dot
+T10	Markable 289 303	tiny black dot
+T11	Markable 320 333	my black dots
+T12	Markable 433 456	a med grey med size one
+T13	Markable 384 402	2 black large ones
+T14	Markable 463 465	it
+T15	Markable 505 525	one bigger black dot
+T16	Markable 543 545	it
+T17	Markable 675 678	one
+T18	Markable 722 725	one
+T19	Markable 697 711	that black dot
+T21	Markable 649 673	two of my tiny grey dots
+T22	Markable 748 750	it
+T23	Markable 769 782	the black one
+A1	No-Referent T3
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T6 Arg2:T5	
+T4	Markable 358 377	3 light grey smalls
+T24	Markable 407 427	1 dark grey med size
+T25	Markable 580 610	a smaller medium/dark grey dot

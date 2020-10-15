@@ -1,0 +1,49 @@
+T1	Markable 28 46	a larger black dot
+T2	Markable 76 80	that
+T3	Markable 92 98	4 dots
+T5	Markable 206 224	the top right most
+T6	Markable 135 162	the top three dots of the Y
+T7	Markable 316 324	the left
+T8	Markable 273 287	the bottom dot
+T9	Markable 3 22	two tiny black dots
+T10	Markable 50 55	their
+R1	Anaphora Arg1:T10 Arg2:T9	
+A1	No-Referent T2
+T11	Markable 167 188	the top left most dot
+T4	Spatial-Relation-Markable 291 296	the V
+T12	Markable 355 377	the top right most dot
+T13	Spatial-Relation 23 27	with
+T14	Spatial-Relation 30 36	larger
+T15	Spatial-Relation 56 61	right
+R2	Subj Arg1:T15 Arg2:T1	
+R3	Obj Arg1:T15 Arg2:T10	
+T16	Spatial-Relation 99 112	that form a Y
+A2	No-Obj T16
+T17	Spatial-Relation 139 142	top
+R4	Obj Arg1:T17 Arg2:T3	
+T18	Spatial-Relation 157 162	the Y
+A3	No-Obj T18
+T19	Spatial-Relation 171 184	top left most
+R5	Obj Arg1:T19 Arg2:T6	
+T20	Spatial-Attribute 189 201	a small grey
+T21	Spatial-Relation 210 224	top right most
+R6	Obj Arg1:T21 Arg2:T6	
+T22	Modifier 227 235	slightly
+T23	Spatial-Relation 236 255	smaller and lighter
+R7	Obj Arg1:T23 Arg2:T11	
+T24	Spatial-Relation 277 283	bottom
+T25	Spatial-Relation 288 290	of
+A5	No-Obj T4
+T26	Spatial-Relation 300 315	similar size to
+T27	Modifier 330 334	much
+T28	Spatial-Relation 335 341	darker
+R8	Subj Arg1:T28 Arg2:T8	
+R9	Obj Arg1:T28 Arg2:T7	
+T29	Spatial-Relation 359 373	top right most
+R10	Obj Arg1:T29 Arg2:T6	
+A6	Canonical-Undefined T16
+A4	Canonical-Undefined T18
+A7	Canonical-Undefined T4
+T30	Spatial-Relation 320 324	left
+R11	Obj Arg1:T30 Arg2:T4	
+A8	Ambiguous-Obj T30

@@ -1,0 +1,5 @@
+0: i have 2 med light grey, 3 large med gray, one small med grey and one black small
+1: I have a black small one. Are the large med grey one all in a line going diagonal?
+0: yes
+1: How do we decide which to pick?
+0: any of them that we both see. lets go for the middle of the gray 3

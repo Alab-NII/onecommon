@@ -1,0 +1,6 @@
+0: I have two dark twins, very close to each other, and large.
+1: I don't see those. I have one light grey one, small darker grey below it to the right?
+0: I see those, I think. There is another small dark one to the lower left of the big light one?
+1: Yes, further away.
+0: Yes! Let's go with the large light colored one!
+1: Good.

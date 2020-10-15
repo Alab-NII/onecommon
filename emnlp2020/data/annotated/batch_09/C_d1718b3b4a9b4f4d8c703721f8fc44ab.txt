@@ -1,0 +1,8 @@
+0: two medium Greys in the middle
+1: Your middle might be different from my middle
+0: how
+1: Because of we have different views. Do you see a cluster of four dots together? 3 of them a larger and very similar in size?
+0: Small black under?
+1: Yes. Is the smallest one very small and very dark?
+0: Yes, the only small
+1: K click the small dark one

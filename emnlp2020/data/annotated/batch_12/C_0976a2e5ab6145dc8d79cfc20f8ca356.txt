@@ -1,0 +1,5 @@
+0: I have just 1 black dot. It is medium size
+1: Is there a slightly smaller very light dot up and to its right?
+0: exactly
+1: which one did you click??
+0: black

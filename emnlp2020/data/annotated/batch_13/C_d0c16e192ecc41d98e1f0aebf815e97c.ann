@@ -1,0 +1,12 @@
+T1	Markable 3 30	two med grey med sized dots
+T2	Markable 60 70	each other
+T3	Markable 91 97	a line
+T4	Markable 82 87	three
+T5	Markable 202 211	the three
+T6	Markable 124 138	The bottom one
+T7	Markable 142 164	a very large black dot
+T8	Markable 223 234	the top one
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T3 Arg2:T4	
+R3	Predicative Arg1:T7 Arg2:T6	
+T9	Markable 166 173	the top

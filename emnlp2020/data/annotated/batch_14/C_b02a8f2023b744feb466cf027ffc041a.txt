@@ -1,0 +1,7 @@
+1: do you have a small light grey dot at the very top by itself?
+0: yes on right side somewhat
+1: no mine is more to the left somewhat so not that one. do you have a even lighter grey dot all the way to the right more so towards the top
+0: no
+1: ok. what a large very dark grey to the right of a cluster of 4 dots
+0: right have that one large black lets choose it
+1: ok

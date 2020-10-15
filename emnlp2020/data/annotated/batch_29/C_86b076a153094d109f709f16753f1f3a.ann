@@ -1,0 +1,16 @@
+T1	Markable 10 28	a cluster of three
+T2	Markable 131 134	one
+T3	Markable 104 129	two large light gray dots
+T4	Markable 171 180	the other
+T5	Markable 88 92	that
+T6	Markable 219 231	my lower one
+T7	Markable 266 284	a large light grey
+T8	Markable 290 319	a smaller slightly darker one
+T9	Markable 342 344	it
+T10	Markable 364 368	that
+T11	Markable 383 397	the larger one
+T12	Markable 29 32	all
+R1	Anaphora Arg1:T12 Arg2:T1	
+A1	No-Referent T5
+T13	Markable 196 213	something similar
+R2	Anaphora Arg1:T9 Arg2:T7	

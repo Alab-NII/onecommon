@@ -1,0 +1,52 @@
+T1	Markable 58 71	one black dot
+T2	Markable 82 98	a large gray dot
+T3	Markable 140 142	it
+T4	Markable 104 133	a smaller slightly darker dot
+T5	Markable 159 163	that
+T6	Markable 196 209	any other dot
+T7	Markable 168 181	the black dot
+T8	Markable 218 220	it
+T10	Markable 266 268	it
+T12	Markable 300 315	a tiny gray dot
+T13	Markable 453 465	the left one
+T14	Markable 427 440	the right one
+T16	Markable 476 480	that
+T17	Markable 495 519	the top right higher one
+T18	Markable 3 15	3 black dots
+T19	Markable 28 31	All
+R1	Anaphora Arg1:T19 Arg2:T18	
+R2	Anaphora Arg1:T3 Arg2:T2	
+A1	Generic T6
+T11	Markable 320 350	2 large (same size/color) dots
+T20	Markable 365 369	that
+A2	No-Referent T20
+T21	Markable 388 420	2 small same size and color dots
+A3	Generic T10
+A4	No-Referent T5
+T15	Spatial-Relation 32 47	similar in size
+A5	No-Obj T15
+T22	Spatial-Relation 99 103	with
+T23	Spatial-Relation 106 113	smaller
+T24	Modifier 114 122	slightly
+T25	Spatial-Relation 123 129	darker
+T26	Spatial-Relation 134 139	above
+T27	Spatial-Relation 191 195	near
+A6	No-Obj-Markable T27
+T28	Spatial-Relation 223 234	on the edge
+A7	No-Obj T28
+T29	Spatial-Relation 235 250	at my 5 o'clock
+A8	No-Obj T29
+T30	Spatial-Relation 328 345	(same size/color)
+A9	No-Obj T30
+#1	AnnotatorNotes T30	same size same color
+T31	Spatial-Relation 396 415	same size and color
+A10	No-Obj T31
+#2	AnnotatorNotes T31	same size and same color
+T32	Spatial-Relation 431 436	right
+T33	Spatial-Relation 441 452	higher than
+T34	Spatial-Relation 457 461	left
+R4	Obj Arg1:T34 Arg2:T14	
+T35	Spatial-Relation 499 515	top right higher
+R5	Obj Arg1:T35 Arg2:T16	
+#3	AnnotatorNotes T29	right below
+T9	Spatial-Attribute 271 291	one of the gray dots

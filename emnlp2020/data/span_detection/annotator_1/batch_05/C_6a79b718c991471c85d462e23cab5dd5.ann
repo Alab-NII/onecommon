@@ -1,0 +1,26 @@
+T1	Markable 89 102	the right one
+T2	Markable 63 69	3 dots
+T3	Markable 112 124	the left one
+T6	Markable 139 153	the bottom one
+T7	Markable 189 199	a triangle
+T9	Markable 275 288	the right one
+T10	Markable 339 364	the larger and darker one
+T11	Markable 9 18	which dot
+A1	Generic T11
+A2	No-Referent T7
+T5	Markable 219 220	2
+T4	Spatial-Relation 70 87	making a triangle
+T8	Spatial-Relation 93 98	right
+T12	Spatial-Attribute 106 110	dark
+T13	Spatial-Relation 116 120	left
+T14	Spatial-Attribute 128 133	light
+T15	Spatial-Relation 143 149	bottom
+T16	Spatial-Relation 157 169	the smallest
+T17	Spatial-Relation 191 199	triangle
+T18	Spatial-Relation 221 235	close together
+T19	Spatial-Relation 241 267	slope down and to the lefT
+T20	Spatial-Relation 279 284	right
+T21	Spatial-Relation 289 295	darker
+T22	Modifier 300 308	slightly
+T23	Spatial-Relation 309 315	larger
+T24	Spatial-Relation 343 360	larger and darker

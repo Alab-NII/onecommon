@@ -1,0 +1,45 @@
+T1	Markable 15 21	2 dots
+T2	Markable 40 53	the right one
+T3	Markable 70 79	the other
+T4	Markable 129 142	the seven one
+T5	Markable 109 125	two smallest dot
+T6	Markable 160 169	a big one
+T7	Markable 206 233	one biggest and darkest dot
+T8	Markable 262 278	a very small dot
+T9	Markable 304 311	big one
+T10	Markable 353 369	the smallest dot
+A1	All-Referents T4
+T11	Markable 185 190	yours
+A2	No-Referent T11
+T12	Markable 244 255	One big dot
+T13	Spatial-Relation 23 38	similar in size
+A3	No-Obj T13
+T14	Spatial-Relation 44 49	right
+R1	Obj Arg1:T14 Arg2:T1	
+T15	Modifier 57 63	slight
+T16	Spatial-Relation 64 69	below
+T17	Spatial-Relation 84 99	darker in color
+R2	Subj Arg1:T17 Arg2:T2	
+R3	Obj Arg1:T17 Arg2:T3	
+T18	Spatial-Relation 113 121	smallest
+R4	Obj Arg1:T18 Arg2:T4	
+T19	Spatial-Relation 126 128	of
+T20	Spatial-Relation 143 159	being the top of
+R5	Obj Arg1:T20 Arg2:T6	
+A4	No-Subj-Markable T20
+T21	Spatial-Relation 210 217	biggest
+A5	No-Obj T21
+T22	Spatial-Relation 222 229	darkest
+A6	No-Obj T22
+T23	Spatial-Relation 256 261	above
+T24	Spatial-Relation 283 296	similar color
+A7	No-Obj T24
+R6	Subj Arg1:T24 Arg2:T12	
+R7	Subj Arg1:T24 Arg2:T8	
+T25	Spatial-Attribute 298 302	grey
+R8	Subj Arg1:T25 Arg2:T12	
+R9	Subj Arg1:T25 Arg2:T8	
+T26	Spatial-Relation 315 336	above and to the left
+R10	Obj Arg1:T26 Arg2:T8	
+T27	Spatial-Relation 357 365	smallest
+A8	Ambiguous-Obj T27

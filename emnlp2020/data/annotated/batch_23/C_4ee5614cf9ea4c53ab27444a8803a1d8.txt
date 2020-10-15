@@ -1,0 +1,4 @@
+1: I have a very light dot on the southwest edge
+0: I have 3 black dots making a triangle 2 medium and one small I have light dots alone so not sure which matches yours
+1: Pick the lower medium dot in the triangle
+0: Okay

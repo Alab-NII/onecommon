@@ -1,0 +1,6 @@
+T1	Markable 94 100	a line
+T2	Markable 113 126	the lower one
+T3	Markable 3 18	small black dot
+T4	Markable 71 87	light shaded dot
+T5	Markable 89 90	2
+R1	Predicative Arg1:T1 Arg2:T5	

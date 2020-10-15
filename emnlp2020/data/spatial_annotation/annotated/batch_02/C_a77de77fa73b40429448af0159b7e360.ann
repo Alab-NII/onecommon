@@ -1,0 +1,47 @@
+T1	Markable 15 31	a large dark dot
+T2	Markable 64 66	it
+T3	Markable 37 57	a smaller medium dot
+T4	Markable 102 115	a smaller one
+T5	Markable 122 136	the darker one
+T6	Markable 225 240	the darkest dot
+T7	Markable 202 209	the dot
+T8	Markable 244 254	a pale dot
+T9	Markable 279 283	that
+T12	Markable 360 362	it
+T13	Markable 391 395	that
+T14	Markable 415 440	the large medium gray dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T15	Markable 149 163	my darkest dot
+A1	No-Referent T9
+T16	Markable 305 323	a large medium dot
+T10	Markable 329 353	a paler medium sized dot
+R2	Anaphora Arg1:T7 Arg2:T15	
+R3	Anaphora Arg1:T12 Arg2:T16	
+T11	Spatial-Relation 32 36	with
+T17	Spatial-Relation 39 46	smaller
+T18	Spatial-Relation 58 63	below
+T19	Spatial-Relation 71 83	to the right
+R4	Subj Arg1:T19 Arg2:T3	
+R5	Obj Arg1:T19 Arg2:T2	
+T20	Spatial-Relation 104 111	smaller
+T21	Spatial-Relation 116 121	above
+T22	Spatial-Relation 126 132	darker
+A2	Ambiguous-Obj T22
+R6	Obj Arg1:T22 Arg2:T3	
+T23	Spatial-Relation 152 159	darkest
+A3	No-Obj T23
+T24	Spatial-Relation 167 190	at the top of my circle
+A4	No-Obj T24
+T25	Spatial-Relation 192 201	far below
+R7	Subj Arg1:T25 Arg2:T8	
+T26	Spatial-Relation 210 224	to the left of
+R8	Subj Arg1:T26 Arg2:T8	
+T27	Spatial-Relation 324 328	with
+T28	Spatial-Relation 331 336	paler
+#1	AnnotatorNotes T28	lighter
+T29	Spatial-Relation 354 359	above
+T30	Spatial-Relation 363 374	to the left
+R9	Subj Arg1:T30 Arg2:T10	
+R10	Obj Arg1:T30 Arg2:T12	
+T31	Spatial-Relation 229 236	darkest
+A5	No-Obj T31

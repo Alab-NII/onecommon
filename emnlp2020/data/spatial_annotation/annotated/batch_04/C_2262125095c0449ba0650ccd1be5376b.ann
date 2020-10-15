@@ -1,0 +1,13 @@
+T2	Markable 52 85	a slightly darker but smaller one
+T3	Markable 113 115	it
+T4	Markable 131 153	the smaller darker one
+T6	Markable 10 45	a mediums sized very light gray dot
+R1	Anaphora Arg1:T3 Arg2:T6	
+T1	Spatial-Relation 47 51	with
+T5	Modifier 54 62	slightly
+T7	Spatial-Relation 63 69	darker
+T8	Spatial-Relation 74 81	smaller
+T10	Spatial-Relation 86 112	just up and to the left of
+T11	Spatial-Relation 135 149	smaller darker
+R2	Obj Arg1:T11 Arg2:T3	
+#1	AnnotatorNotes T10	near up left

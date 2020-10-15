@@ -1,0 +1,3 @@
+0: do you see a tiny black dot under (and slightly right) or a small light grey dot?
+1: Yes - do you want to pick the tiny black one?
+0: yes

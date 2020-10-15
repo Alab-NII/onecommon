@@ -1,0 +1,5 @@
+1: I have two large black dots horizontal...one is a little higher and to the right?
+0: the darker is slightly bigger too?
+1: Yes.
+0: lets select the darker one
+1: Ok

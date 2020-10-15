@@ -1,0 +1,4 @@
+1: I see a large light grey dot with a small black dot just below and to the right
+0: I see that as well along with a dark dot the same color to the left of the large grey dot but further than the one to the right
+1: Exactly! Let's select the large light grey dot
+0: Sounds good!

@@ -1,0 +1,17 @@
+T1	Markable 3 20	group of two dots
+T2	Markable 127 131	that
+T3	Markable 166 182	a small gray dot
+T4	Markable 189 191	it
+T5	Markable 140 160	large light gray dot
+T6	Markable 232 248	two smaller dots
+T7	Markable 388 407	the top smaller one
+T9	Markable 39 42	Top
+T10	Markable 67 73	bottom
+A1	No-Referent T2
+R1	Anaphora Arg1:T4 Arg2:T5	
+T11	Markable 209 213	that
+A2	No-Referent T11
+T12	Markable 262 272	each other
+R2	Anaphora Arg1:T12 Arg2:T6	
+T13	Markable 294 297	Top
+T14	Markable 319 331	bottom(left)

@@ -1,0 +1,12 @@
+T1	Markable 9 24	three dark dots
+T3	Markable 136 158	a lighter gray med dot
+T4	Markable 65 71	a face
+R1	Predicative Arg1:T4 Arg2:T1	
+T5	Markable 73 81	The nose
+T6	Markable 85 93	the face
+R2	Anaphora Arg1:T6 Arg2:T4	
+T2	Markable 118 126	the nose
+T7	Markable 174 182	the nose
+R3	Anaphora Arg1:T7 Arg2:T2	
+T8	Markable 195 216	that lighter grey one
+A1	No-Referent T8

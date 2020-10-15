@@ -1,0 +1,3 @@
+0: Can you see a triangle of dots, top middle is very light?
+1: yes I can
+0: Lets go for the top / middle / light one! Good luck

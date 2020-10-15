@@ -1,0 +1,5 @@
+1: do you have a cluster of 3 one larger light gray to the left. on top a darker smaller gray one and below a even darker and smaller gray one
+0: yes
+1: choose the bottom one?
+0: okay the darkest one in the cluster
+1: yes

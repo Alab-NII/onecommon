@@ -1,0 +1,3 @@
+1: three in vertical line. top is biggest/darkest, going down slightly to the left, middle is med/grey, lowest is lightest
+0: yes
+1: ok pick the top big black one?

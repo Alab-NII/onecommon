@@ -1,0 +1,5 @@
+0: 2 very tiny dots very light grey super close together compared to the other dots?
+1: Small light gray bottom 7 oclock
+0: Is it close to another light grey dot?
+1: No LARGE black on top a little to the left of it
+0: K click that light grey small dot

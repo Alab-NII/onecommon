@@ -1,0 +1,3 @@
+0: three dots close together on vertical line?
+1: yes! smallest and lightest being in the middle? largest and slightly darker one below and slightly to the right?
+0: yes click that tiny middle one!

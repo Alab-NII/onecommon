@@ -1,0 +1,20 @@
+T1	Markable 53 61	the line
+T2	Markable 15 21	a line
+T4	Markable 113 121	the line
+T5	Markable 96 109	four of those
+T6	Markable 123 125	It
+T7	Markable 190 202	the next one
+T8	Markable 150 161	the top one
+T9	Markable 244 256	the next one
+T10	Markable 383 394	the top one
+T11	Markable 10 11	4
+R1	Predicative Arg1:T2 Arg2:T11	
+T12	Markable 28 33	a 5th
+R2	Anaphora Arg1:T1 Arg2:T2	
+R3	Predicative Arg1:T4 Arg2:T5	
+R4	Anaphora Arg1:T6 Arg2:T5	
+T3	Markable 134 144	a diagonal
+T13	Markable 304 311	the 4th
+T14	Markable 355 363	the same
+T15	Markable 399 411	top left one
+R5	Anaphora Arg1:T3 Arg2:T5	

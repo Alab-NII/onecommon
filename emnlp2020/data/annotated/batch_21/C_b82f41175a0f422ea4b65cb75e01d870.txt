@@ -1,0 +1,7 @@
+1: How many dark dots do you see?
+0: I have two almost black dots one smallest and one a little bit bigger. Do you see a tiny lightest gray dot midway between two different shades of medium dots?
+1: No I don't have the tiny lightest gray dot. Is the bigger black dot below and to the left of the smaller dark dot?
+0: No. Do you see a tiny black dot to the left of a medium shade same size dot?
+1: No, the lighter one is a little bigger than the small black dot.
+0: I think mine may be but not too much bigger. If you see that the same way, choose the tiny black dot
+1: Okay I'm choosing the small black dot now.

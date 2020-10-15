@@ -1,0 +1,25 @@
+T1	Markable 68 72	that
+T2	Markable 74 78	they
+T3	Markable 148 163	that bottom one
+T4	Markable 194 202	that one
+T5	Markable 3 22	two very darks dots
+T6	Spatial-Relation-Markable 23 26	top
+T7	Markable 107 117	the bottom
+T8	Markable 168 170	it
+R1	Anaphora Arg1:T3 Arg2:T7	
+R2	Anaphora Arg1:T4 Arg2:T8	
+R3	Obj Arg1:T6 Arg2:T5	
+T9	Modifier 27 35	slightly
+T10	Spatial-Relation 36 42	larger
+R4	Obj Arg1:T10 Arg2:T5	
+T11	Spatial-Relation 43 57	close together
+A1	No-Obj T11
+R5	Subj Arg1:T11 Arg2:T5	
+T12	Spatial-Attribute 84 89	black
+T13	Spatial-Relation 111 117	bottom
+R6	Obj Arg1:T13 Arg2:T5	
+T14	Modifier 121 129	slightly
+T15	Spatial-Relation 130 141	to the left
+R7	Obj Arg1:T15 Arg2:T5	
+T16	Spatial-Relation 153 159	bottom
+R9	Obj Arg1:T16 Arg2:T5	

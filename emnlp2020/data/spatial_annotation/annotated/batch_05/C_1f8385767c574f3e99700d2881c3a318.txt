@@ -1,0 +1,8 @@
+1: Is your largest dot medium grey?
+0: I have two large medium gray dots
+1: Do one of them have a small black dot above it and to the right?
+0: Yes
+1: Does that some dot that has the one above it also have a smaller light grey below it slightly to the right?
+0: Yes it does
+1: Want to choose that medium grey dot the large one?
+0: Sure that sounds good

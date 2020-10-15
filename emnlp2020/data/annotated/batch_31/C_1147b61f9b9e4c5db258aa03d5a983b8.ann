@@ -1,0 +1,5 @@
+T1	Markable 44 53	lower one
+T2	Markable 96 104	that one
+T3	Markable 3 20	to med sized dots
+#1	AnnotatorNotes T3	two med sized dots
+R1	Anaphora Arg1:T2 Arg2:T1	

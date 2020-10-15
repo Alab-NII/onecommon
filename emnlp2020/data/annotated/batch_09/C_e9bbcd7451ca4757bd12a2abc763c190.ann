@@ -1,0 +1,10 @@
+T2	Markable 9 19	a triangle
+T3	Markable 84 92	the rest
+T4	Markable 126 130	that
+T5	Markable 148 161	the right eye
+T6	Markable 43 55	the left eye
+T1	Markable 200 208	the nose
+T7	Markable 213 221	left eye
+T8	Markable 251 259	the nose
+R1	Anaphora Arg1:T8 Arg2:T1	
+T9	Markable 293 301	the nose

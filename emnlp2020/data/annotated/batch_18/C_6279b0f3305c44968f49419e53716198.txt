@@ -1,0 +1,6 @@
+1: I see 2 large dots close together one, top one is dark grey & bottom one is black
+0: I only have a tiny black dot. Do you see two dots very close together? top one is up and to the right and larger?
+1: don't have those
+0: Okay. is your largest dot light grey? if not describe something else
+1: No, it's not. I have 2 medium dots: top is light grey & to the right & below that is a medium grey
+0: Yes@ click the light grey one!

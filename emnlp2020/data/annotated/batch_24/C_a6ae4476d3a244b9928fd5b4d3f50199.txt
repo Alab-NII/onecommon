@@ -1,0 +1,5 @@
+1: I have two very black dots of same size
+0: large black dot?
+1: Yes, how many do you have
+0: one! with a med sized dark grey dot up to its left
+1: Yes, let us select the big black

@@ -1,0 +1,10 @@
+T2	Markable 9 35	a really big dark grey one
+T3	Markable 77 81	that
+T4	Markable 120 130	each other
+T5	Markable 192 199	the one
+T6	Markable 153 160	The one
+T7	Markable 237 242	those
+A1	No-Referent T3
+T1	Markable 97 111	two black ones
+R1	Anaphora Arg1:T4 Arg2:T1	
+T8	Markable 253 258	lefty

@@ -1,0 +1,7 @@
+1: Large might gray to the right bottom?
+0: All of my dots are nearer to the top of the circle
+1: So you have a small gray on the left, larger gray on the right and down?
+0: No I have a large gray almost in the center but towards the top
+1: Hmm, do you have a medium size medium gray to the left of everything?
+0: There is a medium gray to the left of the large gray in the circle
+1: Ok pick that I'v

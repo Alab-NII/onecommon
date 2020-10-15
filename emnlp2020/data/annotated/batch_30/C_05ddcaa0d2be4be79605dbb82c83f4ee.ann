@@ -1,0 +1,5 @@
+T1	Markable 64 66	it
+T2	Markable 125 138	the black one
+T3	Markable 15 29	a medium black
+T4	Markable 35 48	a medium gray
+R1	Anaphora Arg1:T1 Arg2:T3	

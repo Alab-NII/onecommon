@@ -1,0 +1,6 @@
+0: I see a tiny, light grey dot with a medium, dark dot to the far left, and a really dark, large dot to the far right
+1: The light grey dot you see, is it below and slight left of a medium grey dot
+0: No, but I think I see the ones you're talking about. The light grey dot is slightly bigger than the medium grey dot?
+1: yes
+0: Lets select the light grey dot
+1: ok

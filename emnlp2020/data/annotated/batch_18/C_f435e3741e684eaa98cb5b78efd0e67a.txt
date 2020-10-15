@@ -1,0 +1,5 @@
+1: Tiny grey dot, below and to the right is large dark dot
+0: i dont see that
+1: Tiny lightest shade dot, and to the right and slightly higher is a dark medium sized dot
+0: i see that
+1: Take tiny lighty

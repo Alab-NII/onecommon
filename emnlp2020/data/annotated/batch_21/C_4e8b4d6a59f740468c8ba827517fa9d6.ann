@@ -1,0 +1,8 @@
+T1	Markable 10 34	one very large black dot
+T2	Markable 44 61	a large black dot
+T3	Markable 89 107	a smaller grey dot
+T4	Markable 118 129	a black dot
+T5	Markable 177 190	that same dot
+T6	Markable 221 223	it
+T7	Markable 269 287	your big black dot
+R1	Anaphora Arg1:T6 Arg2:T5	

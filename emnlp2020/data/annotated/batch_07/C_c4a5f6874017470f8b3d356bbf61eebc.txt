@@ -1,0 +1,4 @@
+1: hello which dot would you like to try for?
+0: i've got one giant black dot, with a smaller dark gray dot under it, and another one same size and color down and to the right, all three close to each other
+1: got it! which one do you want to click?
+0: large one!

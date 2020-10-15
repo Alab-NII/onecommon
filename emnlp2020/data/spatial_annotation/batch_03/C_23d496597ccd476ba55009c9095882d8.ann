@@ -1,0 +1,17 @@
+T1	Markable 15 41	one medium sized black dot
+T2	Markable 223 229	itself
+T3	Markable 180 197	a large black dot
+T4	Markable 360 373	that triangle
+T6	Markable 420 428	that one
+T7	Markable 43 55	all the rest
+T8	Markable 113 141	a bunch of medium sized dots
+T9	Markable 206 209	its
+R1	Anaphora Arg1:T9 Arg2:T3	
+R2	Anaphora Arg1:T2 Arg2:T3	
+T10	Markable 249 267	an almost triangle
+T11	Markable 273 280	the top
+T12	Markable 305 316	both bottom
+T13	Markable 340 356	the bottom right
+T5	Markable 389 394	the 3
+R3	Anaphora Arg1:T5 Arg2:T4	
+T14	Markable 432 448	the bottom right

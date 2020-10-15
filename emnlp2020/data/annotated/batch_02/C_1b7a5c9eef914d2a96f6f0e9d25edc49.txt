@@ -1,0 +1,9 @@
+1: medium large, but darkest spot?
+0: I have a medium gray dot, escaping the side
+1: do you have one dot that is darkest?
+0: No, I have 3 dark dots
+1: you could only have 2 that are this dark. look closely please... is one darker than the others?
+0: The largest may be darker
+1: and there's a really light, smaller one higher above it to the left?
+0: Yes
+1: ok let's choose the really light smaller one

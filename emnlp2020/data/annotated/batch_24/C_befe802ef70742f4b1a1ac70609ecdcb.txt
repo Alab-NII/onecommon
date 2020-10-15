@@ -1,0 +1,5 @@
+1: two almost identical dark medium dots right next to each other
+0: i do not have any right next to each other. but i do have two similar shade and size lined up vertically in the middle
+1: not here. how about two small dark dots that are level with each other. they are a little distance apart
+0: yes, one on the left is slightly larger. but, level
+1: yes. lets go with that one

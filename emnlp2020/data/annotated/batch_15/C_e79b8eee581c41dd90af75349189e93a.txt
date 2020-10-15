@@ -1,0 +1,5 @@
+1: I have a large black dot and a smaller medium gray dot to the left
+0: do you have a very small one bottom middle with a very large dark grey to the right
+1: yes
+0: lets pick the big dot
+1: great

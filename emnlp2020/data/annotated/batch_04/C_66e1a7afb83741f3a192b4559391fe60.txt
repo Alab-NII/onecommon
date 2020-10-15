@@ -1,0 +1,5 @@
+0: Two small black dots?
+1: yes around 4 and 5 oclock?
+0: they are in different positions on our circles. Do the two small black dots slope down from right to left?
+1: yes
+0: ok lets choose the bottom one

@@ -1,0 +1,33 @@
+T1	Markable 14 24	three dots
+T2	Spatial-Relation-Markable 75 95	three sets of 2 dots
+T4	Markable 110 120	each other
+T5	Markable 175 198	a smaller dark grey dot
+T6	Markable 146 169	a small medium grey dot
+T7	Markable 230 245	The smaller one
+T8	Markable 295 310	the smaller one
+T9	Spatial-Relation-Markable 42 48	middle
+R1	Anaphora Arg1:T4 Arg2:T2	
+T3	Spatial-Relation 25 41	in diagonal line
+T10	Spatial-Relation 52 60	smallest
+T12	Spatial-Relation 96 109	right next to
+T13	Spatial-Relation 170 174	with
+T14	Spatial-Relation 177 184	smaller
+T15	Spatial-Relation 199 211	to the right
+T16	Spatial-Relation 234 241	smaller
+T17	Modifier 249 255	pretty
+T18	Spatial-Attribute 256 260	dark
+T19	Modifier 266 275	not quite
+T20	Spatial-Attribute 276 281	black
+T21	Spatial-Relation 299 306	smaller
+A1	No-Obj T3
+R2	Obj Arg1:T10 Arg2:T1	
+R3	Obj Arg1:T9 Arg2:T1	
+R4	Obj Arg1:T14 Arg2:T6	
+R5	Obj Arg1:T15 Arg2:T6	
+R6	Obj Arg1:T16 Arg2:T6	
+R7	Obj Arg1:T21 Arg2:T6	
+A2	Canonical-Undefined T3
+A3	Canonical-Undefined T2
+A4	Canonical-Undefined T13
+A5	Mod-Extremity T17
+A6	Mod-Subtlty T19

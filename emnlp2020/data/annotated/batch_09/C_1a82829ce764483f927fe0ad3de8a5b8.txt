@@ -1,0 +1,9 @@
+0: do you see a large black dot with two smaller dots above it?
+1: large black dot at 2 o clock?
+0: yes that is the one i am describing
+1: ok but i don't have two smaller dots above it
+0: do you have a large light gray dot below it?
+1: yes vertically below it
+0: looks like we have both of those dots which one do you want to choose?
+1: large light gray below the dark one sounds good
+0: ok clicking that one now

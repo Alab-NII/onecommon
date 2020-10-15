@@ -1,0 +1,22 @@
+T2	Markable 98 113	large black dot
+T3	Markable 219 243	a medium light large dot
+T4	Markable 169 177	that dot
+T5	Markable 189 210	a large dark gray dot
+T6	Markable 296 306	those dots
+T7	Markable 318 337	one large black dot
+T8	Markable 369 387	a smaller dark dot
+T9	Markable 534 542	that one
+T10	Markable 490 527	a slightly smaller but same color dot
+T11	Markable 442 466	the medium size gray dot
+T12	Markable 590 608	a smaller gray one
+T13	Markable 615 617	it
+T14	Markable 629 634	those
+T16	Markable 687 709	a larger dark gray dot
+T17	Markable 753 756	one
+T18	Markable 3 16	The first dot
+A1	No-Referent T4
+T1	Markable 395 398	its
+T19	Markable 414 430	medium size gray
+T20	Markable 554 564	light gray
+R1	Anaphora Arg1:T13 Arg2:T20	
+T21	Markable 661 667	that's

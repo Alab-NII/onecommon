@@ -1,0 +1,8 @@
+T1	Markable 10 30	two small black dots
+T2	Markable 45 55	each other
+T3	Markable 57 64	The one
+T4	Markable 181 185	them
+T5	Markable 203 214	the top one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T6	Markable 97 110	The bottom on
+#1	AnnotatorNotes T6	The bottom one

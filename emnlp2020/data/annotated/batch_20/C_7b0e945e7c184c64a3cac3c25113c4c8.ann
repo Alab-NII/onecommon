@@ -1,0 +1,9 @@
+T1	Markable 33 36	one
+T2	Markable 68 70	it
+T3	Markable 122 130	that one
+T4	Markable 78 97	the small light one
+T5	Markable 154 156	it
+T6	Markable 3 19	triangle of dots
+T7	Markable 20 23	two
+R1	Anaphora Arg1:T3 Arg2:T4	
+T8	Markable 134 136	It

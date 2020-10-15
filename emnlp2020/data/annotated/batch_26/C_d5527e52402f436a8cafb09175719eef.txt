@@ -1,0 +1,5 @@
+0: I have one very light gray dot above all the others
+1: I found one large black solid circle
+0: I don't think I have the large black circle. I have one very small black dot
+1: I have one small black dot too.
+0: okay let's click on that one

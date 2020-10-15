@@ -1,0 +1,8 @@
+T1	Markable 9 32	a very black medium dot
+T2	Markable 123 125	it
+T3	Markable 136 154	a smaller dark dot
+T4	Markable 56 82	two medium grey large dots
+T5	Markable 93 101	the eyes
+R1	Predicative Arg1:T5 Arg2:T4	
+T6	Markable 178 186	the nose
+T7	Markable 214 222	the nose

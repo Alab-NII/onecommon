@@ -1,0 +1,6 @@
+T1	Markable 15 39	one small light gray dot
+T2	Markable 76 89	diagonal line
+T3	Markable 44 72	two very large med grey dots
+T4	Markable 125 139	the larger dot
+T5	Markable 154 171	the diagonal line
+R1	Predicative Arg1:T2 Arg2:T3	

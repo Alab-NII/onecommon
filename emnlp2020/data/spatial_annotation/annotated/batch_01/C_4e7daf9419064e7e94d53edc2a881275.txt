@@ -1,0 +1,5 @@
+0: I have two very close. The bottom one is a medium sized black dot. Above it and to the left is a slightly larger dark grey dot
+1: I have a black and a grey same size right next to it. That has to be the same ones. The grey is bigger
+0: The grey is above it and a little left right?
+1: Yes! Not far above it. Should be choose the grey?
+0: Yeah, lets choose the slightly larger grey

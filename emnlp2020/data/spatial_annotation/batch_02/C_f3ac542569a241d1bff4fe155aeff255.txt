@@ -1,0 +1,5 @@
+0: i have one little dark dot at 2 oclock
+1: I see that is it above a medium light gray dot
+0: yes the grey would be at about 230
+1: lets pick the little dark dot
+0: i think that is right as to me the other dot is more large

@@ -1,0 +1,5 @@
+1: I have one large black dot
+0: I have 1 black dot, but it looks more medium rather than large.
+1: is it to the right of a light colored dot that's a little bigger?
+0: yes
+1: okay, let's click on the black one.

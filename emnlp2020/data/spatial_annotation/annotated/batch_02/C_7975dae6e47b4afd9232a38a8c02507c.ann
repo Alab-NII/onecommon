@@ -1,0 +1,34 @@
+T1	Markable 15 36	a three grey dot line
+T2	Markable 97 129	a slightly smaller dark grey dot
+T3	Markable 71 91	a med light grey dot
+T4	Spatial-Relation-Markable 183 191	triangle
+T5	Markable 165 179	a med grey dot
+T7	Markable 198 205	the dot
+T8	Markable 223 236	that triangle
+T9	Markable 290 298	that one
+T10	Markable 143 146	its
+R1	Anaphora Arg1:T10 Arg2:T3	
+T11	Spatial-Relation 32 36	line
+A1	No-Obj T11
+T12	Spatial-Relation 37 55	from top to bottom
+A2	No-Obj T12
+#1	AnnotatorNotes T12	vertical
+T13	Spatial-Relation 92 96	with
+T14	Modifier 99 107	slightly
+T15	Spatial-Relation 108 115	smaller
+T16	Spatial-Relation 130 135	above
+T17	Spatial-Relation 147 151	left
+R3	Subj Arg1:T17 Arg2:T2	
+R4	Obj Arg1:T17 Arg2:T10	
+T18	Spatial-Relation 180 182	in
+T6	Spatial-Relation 206 222	at the bottom of
+A3	No-Obj T4
+T19	Spatial-Relation 239 250	darker grey
+R2	Subj Arg1:T19 Arg2:T7	
+R5	Obj Arg1:T19 Arg2:T8	
+A4	Ambiguous-Obj T19
+T20	Spatial-Relation 258 270	on the right
+R6	Subj Arg1:T20 Arg2:T7	
+R7	Obj Arg1:T20 Arg2:T8	
+T21	Spatial-Relation 228 236	triangle
+A5	No-Obj T21

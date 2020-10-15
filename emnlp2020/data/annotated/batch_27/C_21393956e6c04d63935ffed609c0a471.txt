@@ -1,0 +1,4 @@
+1: I have two large black dots north-northeast of center near the edge
+0: Large or medium size and they are very close
+1: yes
+0: Let us select the right most

@@ -1,0 +1,6 @@
+0: I have a small grey dot on the far right
+1: Is there a slightly smaller and lighter one to the left and down a little bit?
+0: No, Do you see a dark dot on the upper left?
+1: Nope. Do you have two dots the exact same size and directly vertical, the bottom one is a light grey and the top is darker medium?
+0: yes, let's click the bottom one ok?
+1: Ok.

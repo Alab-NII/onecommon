@@ -1,0 +1,18 @@
+T3	Markable 234 257	a loose cluster of dots
+T4	Markable 291 298	a small
+T5	Markable 334 348	the medium one
+T6	Markable 473 485	the med dark
+T7	Markable 499 515	the lightest one
+T8	Markable 3 17	two light dots
+T9	Markable 40 55	Large black dot
+T10	Markable 61 86	a very large med grey dot
+T11	Markable 93 96	its
+R1	Anaphora Arg1:T11 Arg2:T9	
+T1	Markable 276 286	two medium
+T2	Markable 311 320	two small
+T12	Markable 325 333	a medium
+R2	Anaphora Arg1:T5 Arg2:T12	
+T13	Markable 370 375	thats
+T14	Markable 404 414	small dark
+T15	Markable 426 437	medium dark
+T16	Markable 442 453	light small

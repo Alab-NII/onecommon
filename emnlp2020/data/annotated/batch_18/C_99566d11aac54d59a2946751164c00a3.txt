@@ -1,0 +1,6 @@
+1: large black dot, above and to the left of it is a small grey dot?
+0: I see two dots, one black and one very close up and to the right that is smaller and grey
+1: i don't have yours, small black dot, above and to the left dot is same size but lighter?
+0: i see the one you first mentioned. want to click on the small dot or the bit one?
+1: the big one?
+0: okay can do

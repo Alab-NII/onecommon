@@ -1,0 +1,9 @@
+1: 2 dots close together. one dot is black on the right
+0: i don't see that. i do see two darker dots, nearly vertical. the lower dot is bigger than the one above it.
+1: i dont see that. do you see a large light grey dot?
+0: very large medium grey dot...isolated from the other dots. it has a much smaller dark grey dot to its left about 2 inches away
+1: dont have that. do you have tiny black dot? or small grey dots?
+0: no tiny black dots. some smaller grey dots
+1: do you have a small grey dot. where there is a tiny grey dot below and right of that?
+0: i think so, yes
+1: pick the top grey dot

@@ -1,0 +1,3 @@
+0: i see a cluster of 3 dots. one dot is larger and darker at the top
+1: i definitely see that.
+0: ok. pick the larger darker dot

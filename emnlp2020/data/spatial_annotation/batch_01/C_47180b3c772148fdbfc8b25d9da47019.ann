@@ -1,0 +1,14 @@
+T1	Markable 3 17	All of my dots
+T2	Markable 44 62	one large dark dot
+T3	Markable 209 229	the smaller dark dot
+T5	Markable 184 202	a lighter grey dot
+T6	Markable 94 96	It
+T7	Markable 269 279	each other
+T8	Markable 286 293	the one
+T9	Markable 318 325	the one
+T10	Markable 362 376	the larger one
+T11	Markable 394 414	the lighter grey one
+R1	Anaphora Arg1:T6 Arg2:T2	
+T12	Markable 108 147	a smaller version of the same color dot
+T4	Markable 241 254	two dark dots
+R2	Anaphora Arg1:T7 Arg2:T4	

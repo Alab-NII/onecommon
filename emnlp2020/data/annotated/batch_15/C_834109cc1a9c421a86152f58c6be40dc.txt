@@ -1,0 +1,6 @@
+1: I have two small black dots in a diagonal line
+0: I see a screen full of light colored dots.
+1: Are they all very light? Or are some medium?
+0: A few sort of medium I guess I would call them
+1: Do you have a wide diamond where the top dot is lighter than the rest?
+0: Yes and fairly small for the light one, lets take the light one.

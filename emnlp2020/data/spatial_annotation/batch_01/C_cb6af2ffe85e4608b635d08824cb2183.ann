@@ -1,0 +1,6 @@
+T1	Markable 20 27	the two
+T2	Markable 74 86	lightest one
+T3	Markable 133 141	that one
+T4	Markable 225 246	left most lighter one
+T5	Markable 3 16	Three bunched
+R1	Anaphora Arg1:T3 Arg2:T2	

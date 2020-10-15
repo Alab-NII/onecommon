@@ -1,0 +1,3 @@
+1: largest darkest spot?
+0: Ya I have a dot that is larger and darker than the rest that is also vertical with a slightly smaller and lighter one.
+1: yep let's choose the big/dark

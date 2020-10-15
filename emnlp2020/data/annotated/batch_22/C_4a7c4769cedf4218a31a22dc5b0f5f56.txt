@@ -1,0 +1,4 @@
+1: large grey dot, slightly above and to the right is a darker smaller dot?
+0: smaller darker dot?
+1: yes
+0: pick the larger one

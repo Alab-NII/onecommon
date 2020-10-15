@@ -1,0 +1,2 @@
+1: I have one dark small one in the center of light grey ones
+0: let us select that dark small

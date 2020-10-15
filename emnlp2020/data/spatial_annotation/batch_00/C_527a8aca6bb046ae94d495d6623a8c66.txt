@@ -1,0 +1,5 @@
+1: Do you have a medium size black dot that is the only black on in the circle?
+0: do you see a big big medium gray one that is alone?
+1: On the right side?
+0: yes
+1: perfect!

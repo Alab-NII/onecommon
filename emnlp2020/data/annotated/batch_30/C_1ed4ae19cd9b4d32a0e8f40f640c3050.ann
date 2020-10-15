@@ -1,0 +1,18 @@
+T1	Markable 22 28	itself
+T2	Markable 43 45	it
+T3	Markable 51 69	a medium black dot
+T4	Markable 97 126	a medium sized light grey dot
+T5	Markable 133 135	it
+T6	Markable 181 192	the 2nd dot
+T7	Markable 208 226	My large black dot
+T8	Markable 356 380	a smaller light grey dot
+T9	Markable 492 494	it
+T10	Markable 522 535	the black one
+T11	Markable 564 568	that
+T12	Markable 3 18	Large black dot
+R1	Anaphora Arg1:T1 Arg2:T12	
+A1	No-Referent T6
+T13	Markable 392 418	a medium light grey circle
+T14	Markable 438 475	a slightly smaller darker grey circle
+T15	Markable 548 559	large black
+R2	Anaphora Arg1:T11 Arg2:T15	

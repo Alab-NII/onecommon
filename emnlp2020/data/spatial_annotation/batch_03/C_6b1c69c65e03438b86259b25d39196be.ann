@@ -1,0 +1,4 @@
+T1	Markable 10 26	a group of three
+T2	Markable 49 52	all
+T3	Markable 108 122	the bottom one
+R1	Anaphora Arg1:T2 Arg2:T1	

@@ -1,0 +1,4 @@
+1: medium grey dot with a smaller darker one below it
+0: yes they are half an inch away from each other?
+1: Yes. pick the smaller one
+0: sure

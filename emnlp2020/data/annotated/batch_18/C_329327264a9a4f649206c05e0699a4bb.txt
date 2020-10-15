@@ -1,0 +1,6 @@
+1: do you have three dots in a triangle with a large black dot on the bottom?
+0: two dots very close one dark grey and the other just up and right but close also grey?
+1: is the dot on top much smaller?
+0: no. do you see a black dot and up and right is a much smaller dark grey dot and above that a larger gray dot up and right?
+1: Yes, I have that
+0: okay click on large black dot

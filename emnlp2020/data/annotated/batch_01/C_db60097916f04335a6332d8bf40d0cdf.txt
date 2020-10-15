@@ -1,0 +1,6 @@
+0: I have two dark dots, three medium grey dots, and two light grey dots.
+1: I see four dots that are almost in a line. The two one the outside are dark gray and the darkest gray, and the two in the middle are small and a lighter colored gray
+0: I see that too!
+1: Do you see that one of the inner ones is slightly darker than the other?
+0: Yes, it's close to the middle of the circle. Shall we click that one?
+1: Yes, let's pick that one

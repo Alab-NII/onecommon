@@ -1,0 +1,16 @@
+T2	Markable 13 17	four
+T3	Markable 96 114	a triangle of dots
+T4	Markable 131 148	the top right one
+T5	Markable 220 232	the triangle
+T7	Markable 178 196	a triangle of dots
+T8	Markable 353 368	the large black
+T9	Markable 323 337	a lighter gray
+T10	Markable 378 395	the same triangle
+T11	Markable 412 430	the tiny black one
+T1	Markable 52 55	two
+R1	Anaphora Arg1:T5 Arg2:T7	
+T6	Markable 271 286	large black dot
+T12	Markable 304 312	tiny one
+R2	Anaphora Arg1:T8 Arg2:T6	
+T13	Markable 372 377	thats
+R3	Predicative Arg1:T10 Arg2:T13	

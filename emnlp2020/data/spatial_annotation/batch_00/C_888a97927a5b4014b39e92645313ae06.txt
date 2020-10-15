@@ -1,0 +1,6 @@
+1: i have 7 dots, with the largest one being on the middle right and it's a medium gray
+0: Yes, I see that one.
+1: do you also see the two smaller and lighter gray dot's to the left of it?
+0: Yes
+1: okay, let's pick the larger gray one
+0: Perfect

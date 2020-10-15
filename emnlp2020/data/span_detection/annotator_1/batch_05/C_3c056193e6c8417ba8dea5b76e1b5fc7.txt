@@ -1,0 +1,5 @@
+0: Do you see three dots in diagonal line middle is smallest?
+1: No. I see three sets of 2 dots right next to each other.
+0: I do too! Do you see a small medium grey dot with a smaller dark grey dot to the right?
+1: I think I do. The smaller one is pretty dark, but not quite black. Let's click the smaller one!
+0: Okay!

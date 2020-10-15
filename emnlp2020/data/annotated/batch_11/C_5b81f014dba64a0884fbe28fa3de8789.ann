@@ -1,0 +1,8 @@
+T1	Markable 14 30	a tiny black dot
+T2	Markable 53 79	a large lightest shade dot
+T3	Markable 47 49	it
+T4	Markable 96 113	another large dot
+T5	Markable 130 132	it
+T6	Markable 143 156	that tiny one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T7	Markable 187 193	smally

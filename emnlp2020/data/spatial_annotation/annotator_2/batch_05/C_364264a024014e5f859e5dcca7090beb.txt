@@ -1,0 +1,8 @@
+1: I have one very large light grey dot the rest are dark to black
+0: I see three very small dots that are very dark equidistant from each other
+1: I do not have 3 in a row. I have one very large dark grey dot the largest I have seen so far away from the rest.
+0: Equidistant does not mean in a row. It just means that they're the same distance as one another. I meant they are equidistant but in a triangle
+1: I do not have 3 like that I have 2 close together but they are not on an edge. NOw I do have one in my far corner it could be the top of the ones you are talking about.
+0: Hmm your right may not be the same as mine. So you have a dot that is very light and at the edge of the dots?
+1: yes I have a very light at the edge. It appears at the top about 2 oclock on my view. It has a darker grey dot that is a bit smaller up and to the left slightly
+0: Okay, let's pick that lightest grey one

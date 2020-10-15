@@ -1,0 +1,8 @@
+1: I see one medium dark gray dot all the way to the left touching the border of the circle
+0: hi if you divide this into four quadrants i have three on the top right, one bottom right, two bottom left, and one top right
+0: don't have that one
+1: I also have one on the bottom right, is it a medium dark gray?
+0: yes i would say so but seems just a tiny bit smaller than medium
+1: is it maybe about a half inch away from the border of the circle?
+0: yes lets go ahead and choose that one
+1: ok I agree

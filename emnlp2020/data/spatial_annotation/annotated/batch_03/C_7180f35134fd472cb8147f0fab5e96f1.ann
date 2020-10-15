@@ -1,0 +1,18 @@
+T1	Markable 117 124	the one
+T2	Markable 74 81	the dot
+T3	Markable 3 29	Three small lightish greys
+T4	Markable 155 165	the middle
+T5	Spatial-Relation 30 48	stacked verrically
+A1	No-Obj T5
+T6	Modifier 51 62	not perfect
+R1	Mod Arg1:T6 Arg2:T5	
+#1	AnnotatorNotes T5	stacked vertically
+T7	Spatial-Relation 82 95	in the middle
+R2	Obj Arg1:T7 Arg2:T3	
+T8	Modifier 96 104	slightly
+T9	Spatial-Relation 105 116	darker than
+T10	Spatial-Relation 125 138	on the bottom
+R3	Obj Arg1:T10 Arg2:T3	
+T11	Spatial-Relation 159 165	middle
+R4	Obj Arg1:T11 Arg2:T3	
+A2	Mod-Uncertainty-Approximation T6

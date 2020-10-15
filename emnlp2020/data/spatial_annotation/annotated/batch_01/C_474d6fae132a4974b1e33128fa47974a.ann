@@ -1,0 +1,19 @@
+T2	Markable 10 20	three dots
+T3	Markable 43 54	The top dot
+T4	Markable 145 160	the darkest one
+T5	Markable 65 80	the bottom left
+T6	Markable 101 117	the bottom right
+T1	Spatial-Relation 26 41	form a triangle
+A1	No-Obj T1
+T7	Spatial-Relation 47 50	top
+R1	Obj Arg1:T7 Arg2:T2	
+T8	Spatial-Attribute 58 63	black
+T9	Spatial-Relation 69 80	bottom left
+R2	Obj Arg1:T9 Arg2:T2	
+T10	Spatial-Attribute 84 95	medium grey
+T11	Spatial-Relation 105 117	bottom right
+R3	Obj Arg1:T11 Arg2:T2	
+T12	Spatial-Attribute 121 131	light grey
+T13	Spatial-Relation 149 156	darkest
+R4	Obj Arg1:T13 Arg2:T2	
+T14	Modifier 84 90	medium

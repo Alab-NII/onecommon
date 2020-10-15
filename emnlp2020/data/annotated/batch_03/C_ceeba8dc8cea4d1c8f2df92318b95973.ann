@@ -1,0 +1,19 @@
+T1	Markable 41 57	a light grey one
+T3	Markable 84 86	it
+T4	Markable 103 125	a light small gray dot
+T5	Markable 232 236	they
+T6	Markable 251 257	a line
+T7	Markable 408 412	that
+T8	Markable 450 464	the bottom one
+T9	Markable 10 35	one medium sized dark dot
+R1	Anaphora Arg1:T3 Arg2:T9	
+T2	None 79 83	form
+#1	AnnotatorNotes T2	from
+T10	Markable 144 190	another slightly bigger and slightly more gray
+T11	Markable 227 231	that
+R2	Anaphora Arg1:T5 Arg2:T11	
+R3	Predicative Arg1:T6 Arg2:T11	
+T12	Markable 267 280	the 9 o'clock
+T13	Markable 356 366	bottom one
+T14	Markable 371 381	bottom one
+R4	Anaphora Arg1:T7 Arg2:T14	

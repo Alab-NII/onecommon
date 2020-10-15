@@ -1,0 +1,5 @@
+T1	Markable 37 56	a black smaller one
+T2	Markable 60 62	it
+T3	Markable 104 131	the right/black smaller one
+T4	Markable 12 31	dark grey med/large
+R1	Anaphora Arg1:T2 Arg2:T4	

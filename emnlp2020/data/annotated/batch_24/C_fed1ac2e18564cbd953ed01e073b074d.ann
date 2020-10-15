@@ -1,0 +1,13 @@
+T2	Markable 87 89	it
+T3	Markable 10 31	1 larger mid grey dot
+T4	Markable 99 105	3 dots
+T5	Markable 116 131	horizontal line
+T6	Markable 133 145	leftmost one
+T7	Markable 318 329	the largest
+T1	Markable 37 70	a slightly smaller same shade dot
+R1	Anaphora Arg1:T2 Arg2:T3	
+R2	Predicative Arg1:T5 Arg2:T4	
+T8	Markable 183 189	middle
+T9	Markable 226 236	right most
+T10	Markable 275 281	middle
+T11	Markable 292 300	the same

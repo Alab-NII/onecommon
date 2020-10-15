@@ -1,0 +1,5 @@
+1: my highest dot is light and small
+0: i have a line of 3 top to bottom... I have a small med gray, and med size lighter gray and the largest is dark gray
+1: I see the same the same line
+0: pick the largest?
+1: ok

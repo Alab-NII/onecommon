@@ -1,0 +1,8 @@
+1: Hi. do you have any large dots?
+0: Yes below a smaller dot
+1: I have one that is medium in color.
+0: Is that above a larger light gray dot
+1: No, but I think that the order of our dots might be different.
+0: Hmm what about a tiny dark almost black dot
+1: I have one, near the left edge.
+0: That's the one I have

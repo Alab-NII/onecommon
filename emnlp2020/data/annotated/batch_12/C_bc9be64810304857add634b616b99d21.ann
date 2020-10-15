@@ -1,0 +1,21 @@
+T1	Markable 65 71	a line
+T2	Markable 79 94	one of the dots
+T4	Markable 209 217	the line
+T5	Markable 168 185	that smallest one
+T6	Markable 243 251	the line
+T7	Markable 307 322	two medium dots
+T8	Markable 413 423	each other
+T9	Markable 436 446	each other
+T10	Markable 461 466	those
+T11	Markable 476 483	the one
+T12	Markable 3 13	three dots
+R1	Predicative Arg1:T1 Arg2:T12	
+A1	Generic T4
+A2	Generic T6
+T3	Markable 256 258	Is
+#1	AnnotatorNotes T3	It
+T13	Markable 368 382	two small dots
+R2	Anaphora Arg1:T8 Arg2:T13	
+R3	Anaphora Arg1:T9 Arg2:T13	
+T14	Markable 137 146	something
+A3	Generic T14

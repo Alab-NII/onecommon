@@ -1,0 +1,3 @@
+1: 1 big black dot. upper right of that is a small grey dot
+0: i believe i have that, let's pick the big one
+1: alrighty

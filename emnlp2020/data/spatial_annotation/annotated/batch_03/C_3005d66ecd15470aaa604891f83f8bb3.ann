@@ -1,0 +1,40 @@
+T1	Markable 10 13	two
+T2	Markable 35 42	The one
+T3	Markable 96 103	The one
+T5	Markable 221 224	its
+T6	Markable 183 194	a light one
+T7	Markable 200 217	a larger dark one
+T8	Markable 256 274	the dark small one
+T9	Markable 155 160	their
+R1	Anaphora Arg1:T5 Arg2:T6	
+T4	Modifier 14 18	very
+T10	Spatial-Relation 19 33	close together
+A1	No-Obj T10
+T11	Spatial-Relation 43 49	on top
+R2	Obj Arg1:T11 Arg2:T1	
+T12	Spatial-Relation 53 60	smaller
+T13	Spatial-Relation 62 68	darker
+T14	Modifier 73 81	slightly
+T15	Spatial-Relation 82 94	to the right
+R3	Obj Arg1:T12 Arg2:T1	
+R4	Obj Arg1:T13 Arg2:T1	
+R5	Obj Arg1:T15 Arg2:T1	
+T16	Spatial-Relation 104 113	on bottom
+R6	Obj Arg1:T16 Arg2:T1	
+T17	Modifier 117 121	very
+T18	Spatial-Attribute 122 127	large
+T19	Spatial-Relation 161 166	right
+T20	Spatial-Relation 167 172	below
+R7	Subj Arg1:T19 Arg2:T6	
+R8	Subj Arg1:T19 Arg2:T7	
+R9	Obj Arg1:T19 Arg2:T9	
+R10	Subj Arg1:T20 Arg2:T6	
+R11	Subj Arg1:T20 Arg2:T7	
+R12	Obj Arg1:T20 Arg2:T9	
+T21	Spatial-Relation 195 199	with
+T22	Spatial-Relation 202 208	larger
+T23	Spatial-Relation 225 235	lower left
+R13	Subj Arg1:T23 Arg2:T7	
+R14	Obj Arg1:T23 Arg2:T5	
+T24	Spatial-Relation 275 281	on top
+R15	Obj Arg1:T24 Arg2:T1	

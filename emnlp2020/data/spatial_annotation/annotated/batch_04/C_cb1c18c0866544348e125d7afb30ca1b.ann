@@ -1,0 +1,58 @@
+T1	Markable 51 61	each other
+T2	Markable 10 36	two larger light gray dots
+T3	Markable 99 106	the one
+T5	Markable 123 141	a dark smaller one
+T6	Markable 186 188	it
+T7	Markable 177 181	that
+T8	Markable 241 255	the bottom one
+T9	Markable 265 288	a small darker gray dot
+T10	Markable 299 303	that
+T11	Markable 317 330	two black dot
+T12	Markable 352 362	each other
+T13	Markable 384 405	a lighter colored dot
+T14	Markable 426 428	it
+T15	Markable 443 462	the right black one
+R1	Anaphora Arg1:T1 Arg2:T2	
+T16	Markable 64 68	they
+R2	Anaphora Arg1:T16 Arg2:T2	
+A1	No-Referent T7
+A2	No-Referent T6
+R3	Anaphora Arg1:T12 Arg2:T11	
+T4	Markable 370 379	the right
+R4	Anaphora Arg1:T14 Arg2:T4	
+T17	Spatial-Relation 37 50	vertical from
+T18	Modifier 73 80	kind of
+T19	Spatial-Relation 81 90	far apart
+A3	No-Obj T19
+T20	Spatial-Relation 107 112	below
+R5	Obj Arg1:T20 Arg2:T2	
+T21	Spatial-Relation 118 122	have
+T22	Spatial-Relation 130 137	smaller
+R6	Obj Arg1:T22 Arg2:T3	
+T23	Spatial-Relation 142 160	to the right below
+R7	Obj Arg1:T23 Arg2:T3	
+T24	Spatial-Relation 217 240	off to the far right of
+T25	Spatial-Relation 245 251	bottom
+R8	Obj Arg1:T25 Arg2:T2	
+R9	Subj Arg1:T24 Arg2:T9	
+T26	Spatial-Relation 273 284	darker gray
+R10	Obj Arg1:T26 Arg2:T8	
+T27	Spatial-Relation 335 344	same size
+A4	No-Obj T27
+T28	Spatial-Relation 345 351	beside
+T29	Spatial-Relation 374 379	right
+R11	Obj Arg1:T29 Arg2:T11	
+T30	Spatial-Relation 387 401	ighter colored
+T31	Spatial-Relation 409 419	equal size
+#1	AnnotatorNotes T31	same size
+T32	Spatial-Relation 420 425	under
+T33	Spatial-Relation 447 452	right
+R12	Obj Arg1:T33 Arg2:T11	
+A5	Mod-Uncertainty-Approximation T18
+T34	Modifier 189 192	may
+A6	Mod-Uncertainty-Approximation T34
+T35	Spatial-Relation 193 213	cut off on my screen
+A7	No-Obj T35
+A8	Canonical-Undefined T35
+#2	AnnotatorNotes T28	near
+T36	Spatial-Relation 380 383	has

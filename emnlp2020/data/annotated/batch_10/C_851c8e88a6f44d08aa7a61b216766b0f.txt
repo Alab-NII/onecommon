@@ -1,0 +1,2 @@
+1: I have two dots very close to each other. A smaller lighter one with a slightly larger and slightly darker one to the lower right
+0: I see that, let's select the lighter dot

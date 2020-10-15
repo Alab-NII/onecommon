@@ -1,0 +1,2 @@
+1: large black dot towards the bottom
+0: standing away from the other dots. if it is so, let us select that large black dot

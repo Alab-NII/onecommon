@@ -1,0 +1,18 @@
+T1	Spatial-Relation-Markable 33 45	furthest top
+T2	Markable 96 128	a slightly smaller dark grey dot
+T3	Markable 135 137	it
+T4	Markable 73 90	a large black dot
+T5	Markable 147 151	that
+T6	Markable 158 175	the top black dot
+T7	Markable 3 31	cluster of 3 dark shade dots
+R1	Anaphora Arg1:T3 Arg2:T4	
+T8	Spatial-Relation 3 10	cluster
+A1	No-Obj T8
+R2	Obj Arg1:T1 Arg2:T7	
+T9	Spatial-Attribute 49 62	big dark grey
+T10	Spatial-Relation 91 95	with
+T11	Modifier 98 106	slightly
+T12	Spatial-Relation 107 114	smaller
+T13	Spatial-Relation 129 134	under
+T14	Spatial-Relation 162 165	top
+R3	Obj Arg1:T14 Arg2:T5	

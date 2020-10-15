@@ -1,0 +1,7 @@
+1: i have 3 dark grey dots, one medium and 3 light grey
+0: a small black dot by itself towards the bottom of the circle?
+1: nope
+0: how about a small light grey dot towards the top, directly below it is a large medium grey dot?
+1: with a medium sized medium grey to the right of the darker one?
+0: yes, choose the small one above?
+1: yep

@@ -1,0 +1,10 @@
+T1	Markable 3 26	two med/light grey ones
+T2	Markable 41 51	each other
+T3	Markable 53 66	the right one
+T4	Markable 95 102	the one
+T5	Markable 181 183	it
+T6	Markable 315 342	the highest medium grey dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T7	Markable 219 235	a tiny black dot
+T8	Markable 248 253	their
+T9	Markable 287 301	the same thing

@@ -1,0 +1,8 @@
+T1	Markable 15 39	two large dark grey dots
+T2	Markable 54 64	each other
+T3	Markable 66 74	Left one
+T4	Markable 125 132	the one
+T5	Markable 167 171	they
+T6	Markable 190 200	bottom one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T7	Markable 91 124	two similar shade light grey dots

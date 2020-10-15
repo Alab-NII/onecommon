@@ -1,0 +1,3 @@
+0: two large dots almost identical in size diagonal to one another?
+1: bottom one is darker than they top?
+0: yes and off to the left. if so click that bottom one

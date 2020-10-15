@@ -1,0 +1,8 @@
+1: Do you see the small medium gray dot that is by itself?
+0: yes. It is light grey?
+1: Kind of
+0: To its south is a dark grey one of similar size?
+1: That's not the one I'm seeing. Do you see the gray dots that are in a line, the one on the left is slightly bigger and darker?
+0: don't think I have that
+1: What about the two dots that are close to each other, a light gray one higher on the left and a darker one lower on the right
+0: have that. click the darker one

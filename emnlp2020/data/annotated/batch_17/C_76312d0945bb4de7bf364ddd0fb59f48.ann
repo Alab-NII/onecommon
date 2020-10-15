@@ -1,0 +1,8 @@
+T1	Markable 49 51	it
+T2	Markable 33 43	a triangle
+T3	Markable 110 121	the top one
+T4	Markable 163 177	that large dot
+T5	Markable 3 9	3 dots
+R1	Predicative Arg1:T2 Arg2:T5	
+R2	Anaphora Arg1:T1 Arg2:T5	
+T6	Markable 83 89	3 dots

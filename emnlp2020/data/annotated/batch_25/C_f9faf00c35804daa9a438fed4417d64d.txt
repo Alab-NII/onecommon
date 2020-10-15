@@ -1,0 +1,5 @@
+1: do you see 2 big ones? one black and the other dark gray? very close?
+0: i have a triangle in the middle of the circle
+1: ok i can see that triangle, the three dots are about the same size, like medium?
+0: yes
+1: ok. let's pick the dot at the left, ok?

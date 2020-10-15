@@ -1,0 +1,15 @@
+T1	Markable 17 23	3 dots
+T2	Markable 50 56	4 dots
+T3	Markable 34 44	a triangle
+T4	Markable 155 162	the one
+T5	Markable 116 128	those 4 dots
+T6	Markable 202 213	the top one
+T7	Markable 276 278	it
+R1	Predicative Arg1:T3 Arg2:T1	
+T8	Markable 67 80	a backwards L
+R2	Predicative Arg1:T8 Arg2:T2	
+T9	Markable 136 150	the backward L
+R3	Predicative Arg1:T9 Arg2:T5	
+T10	Markable 222 224	it
+T11	Markable 246 250	mine
+T12	Markable 91 97	either

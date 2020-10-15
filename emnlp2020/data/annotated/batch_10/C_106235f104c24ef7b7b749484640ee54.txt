@@ -1,0 +1,5 @@
+0: two jump out at me. dark right above/below each other, lower one is slightly to left and slightly larger
+1: Do you see two pairs of dots with the darker one below and to the right of a lighter smaller dot in both cases? Even one of those pairs?
+0: I have a really light one with a larger very dark one RIght below it and slightly on right
+1: Take dark one , also to be clear higher up and to the left is a medium dot that is an in-between shade of the pair we should be looking at, if so pick dark one of the pair
+0: i have only One pair where the top is very light and smaller than the very dark and larger one below it and very slightly to it's right... so i'm picking the big dark one of that pair

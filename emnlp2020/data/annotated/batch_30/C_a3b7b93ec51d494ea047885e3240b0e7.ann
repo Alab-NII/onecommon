@@ -1,0 +1,6 @@
+T1	Markable 46 53	the one
+T2	Markable 83 95	the left one
+T3	Markable 34 44	each other
+T4	Markable 112 127	the smaller one
+T5	Markable 3 19	2 dark gray dots
+R1	Anaphora Arg1:T3 Arg2:T5	

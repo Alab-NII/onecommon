@@ -1,0 +1,4 @@
+0: i have two large dark/black dots far from each other, the leftmost one is also higher up.
+1: does the highest to the left have a lighter dot to its left/lower?
+0: yep! shall we choose that high dark dot?
+1: ok, selecting now

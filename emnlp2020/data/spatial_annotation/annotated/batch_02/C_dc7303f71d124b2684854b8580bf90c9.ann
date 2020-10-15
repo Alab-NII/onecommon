@@ -1,0 +1,11 @@
+T1	Markable 3 33	very large very light grey dot
+T3	Markable 77 79	it
+T4	Markable 98 124	a smaller pretty black dot
+T5	Markable 139 141	it
+T6	Markable 44 54	a med grey
+R1	Anaphora Arg1:T3 Arg2:T6	
+T2	Spatial-Relation 55 66	on the line
+A1	No-Obj T2
+#1	AnnotatorNotes T2	outside
+T7	Spatial-Relation 100 107	smaller
+A2	No-Obj T7

@@ -1,0 +1,4 @@
+0: I have a large dark dot on the left with another slightly smaller dark dark across from it way on the right
+1: I have the large dot, but not the smaller one, so maybe my view is shifted to the right... Is it towards the bottom?
+0: yes
+1: Let's click the large dot.

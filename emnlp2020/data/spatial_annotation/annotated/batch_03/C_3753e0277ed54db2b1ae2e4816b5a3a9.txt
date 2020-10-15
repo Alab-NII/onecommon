@@ -1,0 +1,4 @@
+1: i have one small black dot
+0: I have a large gray dot coming out of the bottom circle.
+0: I have the small dot too, next to a large gray dot
+1: yup, pick the small dot

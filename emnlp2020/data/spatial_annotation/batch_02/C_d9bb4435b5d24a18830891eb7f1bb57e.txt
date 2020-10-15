@@ -1,0 +1,4 @@
+0: I have a mediums sized black dot with a smaller, very light dot just to the right of it.
+1: yes i see those two
+0: Let's pick the black one
+1: okay

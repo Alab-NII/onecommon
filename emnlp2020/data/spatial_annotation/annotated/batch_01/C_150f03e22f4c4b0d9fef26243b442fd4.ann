@@ -1,0 +1,50 @@
+T1	Markable 9 16	one dot
+T2	Markable 109 127	a larger light dot
+T3	Markable 82 103	Medium sized dark dot
+T4	Markable 156 175	the medium dark dot
+T5	Markable 202 228	the other larger light dot
+T7	Markable 293 296	its
+T8	Markable 337 340	its
+T9	Markable 271 289	a smaller dark one
+T10	Markable 322 333	another one
+T11	Markable 444 461	a small black dot
+T12	Markable 376 394	a medium black dot
+T13	Markable 489 496	nothing
+T14	Markable 544 563	the large light one
+T16	Markable 66 78	all the rest
+T17	Markable 131 134	its
+R1	Anaphora Arg1:T17 Arg2:T3	
+T18	Markable 179 182	its
+A1	No-Referent T5
+T19	Markable 232 260	your large light colored one
+R2	Anaphora Arg1:T7 Arg2:T19	
+R3	Anaphora Arg1:T8 Arg2:T19	
+A2	No-Referent T13
+T6	Markable 513 518	thats
+T15	Spatial-Relation 25 39	larger in size
+T20	Spatial-Relation 44 65	lighter in color than
+T21	Spatial-Relation 104 108	with
+T22	Spatial-Relation 111 117	larger
+T23	Spatial-Relation 135 145	upper left
+R4	Subj Arg1:T23 Arg2:T2	
+R5	Obj Arg1:T23 Arg2:T17	
+T24	Spatial-Relation 183 193	upper left
+R6	Subj Arg1:T24 Arg2:T4	
+R7	Obj Arg1:T24 Arg2:T18	
+T25	Spatial-Relation 212 218	larger
+A3	No-Subj-Markable T25
+T26	Spatial-Relation 273 280	smaller
+T27	Spatial-Relation 297 308	lower right
+R8	Subj Arg1:T27 Arg2:T9	
+R9	Obj Arg1:T27 Arg2:T7	
+T28	Spatial-Relation 341 364	lower left further away
+R10	Subj Arg1:T28 Arg2:T10	
+R11	Obj Arg1:T28 Arg2:T8	
+T30	Spatial-Relation 395 412	to the lower left
+T31	Spatial-Relation 417 434	to the upper left
+R14	Subj Arg1:T31 Arg2:T11	
+R16	Obj Arg1:T30 Arg2:T1	
+R15	Obj Arg1:T31 Arg2:T1	
+T32	Spatial-Relation 497 509	to the right
+R17	Obj Arg1:T32 Arg2:T1	
+#1	AnnotatorNotes T28	lower left

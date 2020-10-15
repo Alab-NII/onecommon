@@ -1,0 +1,20 @@
+T1	Markable 14 35	a group of three dots
+T2	Markable 41 44	two
+T4	Markable 126 137	a black one
+T5	Markable 139 141	it
+T6	Markable 213 215	it
+T8	Markable 177 200	the same size light one
+T9	Markable 217 219	it
+T10	Markable 252 267	your lowest one
+T11	Markable 271 283	the smallest
+T12	Markable 346 353	the one
+T13	Markable 319 329	that group
+T14	Markable 335 337	it
+T15	Markable 406 415	the three
+T16	Markable 387 402	the darkest one
+T3	Markable 76 85	the third
+R1	Anaphora Arg1:T5 Arg2:T4	
+R2	Anaphora Arg1:T6 Arg2:T4	
+T7	Markable 227 232	the 3
+R3	Predicative Arg1:T11 Arg2:T10	
+R4	Anaphora Arg1:T14 Arg2:T13	

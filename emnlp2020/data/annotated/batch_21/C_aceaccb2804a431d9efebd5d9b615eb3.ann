@@ -1,0 +1,7 @@
+T1	Markable 46 48	it
+T2	Markable 73 75	it
+T3	Markable 86 99	the large dot
+T4	Markable 3 17	small grey dot
+T5	Markable 23 39	large darker dot
+R1	Anaphora Arg1:T1 Arg2:T4	
+T6	Markable 116 126	small grey

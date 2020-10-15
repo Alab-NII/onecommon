@@ -1,0 +1,13 @@
+T1	Markable 67 70	two
+T2	Markable 135 161	the large almost black one
+T3	Markable 94 97	one
+T6	Markable 168 182	the bigger one
+T7	Markable 308 320	a bigger one
+T8	Markable 9 17	7 things
+A1	All-Referents T8
+T9	Markable 44 45	3
+T4	Markable 237 250	my bigger one
+T5	Markable 272 281	which one
+A2	Generic T5
+T10	Markable 349 358	WHICH ONE
+A3	Generic T10

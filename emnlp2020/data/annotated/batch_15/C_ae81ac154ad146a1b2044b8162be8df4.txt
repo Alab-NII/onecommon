@@ -1,0 +1,4 @@
+1: Do you see a lone medium colored and sized dot to the right?
+0: Do you have a tiny black dot, above and to the right is a slightly larger dark grey Dot and above and to the left is also a larger and grey dot
+1: Yes I have that small dark dot?
+0: Click tiny black

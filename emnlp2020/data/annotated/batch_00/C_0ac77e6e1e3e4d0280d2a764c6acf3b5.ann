@@ -1,0 +1,15 @@
+T1	Markable 26 32	itself
+T2	Markable 76 93	a cluster of four
+T3	Markable 178 182	that
+T4	Markable 109 119	small grey
+T5	Markable 296 311	the smaller one
+T6	Markable 315 333	my dead center one
+T7	Markable 362 364	it
+T8	Markable 3 22	one small black dot
+R1	Anaphora Arg1:T1 Arg2:T8	
+T9	Markable 133 144	larger grey
+T10	Markable 152 171	another medium grey
+T11	Markable 200 213	a medium grey
+T12	Markable 230 244	the center dot
+R2	Anaphora Arg1:T12 Arg2:T4	
+T13	Markable 263 267	that

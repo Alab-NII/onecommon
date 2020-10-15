@@ -1,0 +1,6 @@
+T1	Markable 121 124	one
+T3	Markable 53 71	a perfect triangle
+T4	Markable 155 164	black one
+T5	Markable 3 4	3
+T2	Markable 95 98	all
+R1	Anaphora Arg1:T2 Arg2:T3	

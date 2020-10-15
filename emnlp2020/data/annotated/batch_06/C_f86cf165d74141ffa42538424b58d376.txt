@@ -1,0 +1,8 @@
+1: I see three sizes and shades of dots that form a line separate from the other dots
+0: Is the top one slightly to the right of the middle and smaller and darker?
+1: for me its to the left, but yes, darker
+0: Oh I think I see what you mean
+1: want to choose the darkest one in that line?
+0: Is the darkest one the one on top?
+1: yes
+0: Cool!

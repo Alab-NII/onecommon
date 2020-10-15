@@ -1,0 +1,19 @@
+T1	Markable 39 46	the one
+T3	Markable 10 16	5 dots
+T4	Markable 95 109	two black dots
+T5	Markable 111 118	the one
+T6	Markable 167 174	the one
+T7	Markable 200 212	those 2 dots
+T9	Markable 240 262	a large light grey dot
+T10	Markable 269 271	it
+T11	Markable 284 288	that
+T12	Markable 303 323	the large light gray
+T13	Markable 342 352	any others
+T14	Markable 360 364	that
+T15	Markable 387 411	the smallest darkest one
+T16	Markable 17 18	4
+T17	Markable 26 37	a trapezius
+R1	Predicative Arg1:T17 Arg2:T16	
+T2	Markable 216 223	the one
+R2	Anaphora Arg1:T10 Arg2:T2	
+A1	Generic T13

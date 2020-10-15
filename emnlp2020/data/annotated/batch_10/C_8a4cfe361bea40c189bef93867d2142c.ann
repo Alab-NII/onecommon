@@ -1,0 +1,35 @@
+T1	Markable 81 92	a tiny grey
+T2	Markable 99 108	the black
+T3	Markable 152 156	them
+T4	Markable 180 184	them
+T5	Markable 173 176	two
+T6	Markable 119 135	three large dots
+T7	Markable 140 148	only one
+T8	Markable 192 196	they
+T9	Markable 270 275	those
+T10	Markable 327 339	a darker dot
+T11	Markable 286 304	the small grey dot
+T12	Markable 309 311	it
+T13	Markable 369 371	it
+T14	Markable 434 447	the black one
+T15	Markable 463 476	the black one
+T16	Markable 391 416	a medium colored grey dot
+T17	Markable 549 553	that
+T18	Markable 508 531	the tiny light grey dot
+T19	Markable 608 620	a light grey
+T20	Markable 636 647	the cluster
+T21	Markable 726 728	it
+T22	Markable 10 22	a light grey
+T23	Markable 27 34	a black
+R1	Anaphora Arg1:T2 Arg2:T23	
+R2	Anaphora Arg1:T3 Arg2:T6	
+R3	Anaphora Arg1:T4 Arg2:T6	
+T24	Markable 210 229	the two darker dots
+T25	Markable 240 251	one another
+R4	Anaphora Arg1:T25 Arg2:T24	
+A1	No-Referent T9
+R5	Anaphora Arg1:T12 Arg2:T11	
+R6	Anaphora Arg1:T13 Arg2:T11	
+R7	Anaphora Arg1:T17 Arg2:T18	
+T26	Markable 690 702	the tiny dot
+R8	Anaphora Arg1:T21 Arg2:T26	

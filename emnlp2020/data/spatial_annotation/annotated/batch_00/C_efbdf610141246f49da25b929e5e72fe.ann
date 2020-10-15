@@ -1,0 +1,22 @@
+T1	Markable 9 23	two small dots
+T2	Markable 25 28	one
+T3	Markable 39 42	one
+T4	Markable 167 186	the medium gray one
+T5	Markable 125 142	a large black dot
+T6	Markable 230 248	the small gray dot
+T7	Markable 81 94	two tiny dots
+T8	Markable 191 193	it
+T9	Spatial-Attribute 29 34	black
+T10	Spatial-Attribute 43 54	medium gray
+T11	Spatial-Relation 62 76	close together
+T12	Modifier 56 61	super
+R1	Subj Arg1:T11 Arg2:T1	
+T13	Spatial-Relation 99 107	together
+A1	No-Obj T13
+A2	No-Obj T11
+T14	Spatial-Relation 143 166	about an inch away from
+T15	Modifier 143 148	about
+A3	Mod-Extremity T12
+A4	Canonical-Undefined T14
+T16	Modifier 43 49	medium
+A5	Mod-Neutral T16

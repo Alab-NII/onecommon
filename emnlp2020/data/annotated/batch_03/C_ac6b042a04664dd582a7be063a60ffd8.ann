@@ -1,0 +1,15 @@
+T1	Markable 15 43	one really light grey circle
+T2	Markable 69 81	a darker one
+T3	Markable 45 47	It
+T4	Markable 190 192	it
+T5	Markable 266 276	a triangle
+T6	Markable 298 309	a small one
+T7	Markable 282 296	two other dots
+R1	Anaphora Arg1:T3 Arg2:T1	
+T8	Markable 93 115	two light grey circles
+T9	Markable 126 146	a small black circle
+T10	Markable 152 173	a larger black circle
+R2	Anaphora Arg1:T4 Arg2:T9	
+T11	Markable 226 248	the large black circle
+T12	Markable 327 347	a larger lighter one
+T13	Markable 390 413	that large black circle

@@ -1,0 +1,11 @@
+T1	Markable 29 44	the smaller one
+T2	Markable 10 23	two dark dots
+T3	Markable 60 74	the larger one
+T4	Markable 90 104	the larger one
+T5	Spatial-Relation 24 28	with
+T6	Spatial-Relation 33 40	smaller
+T7	Spatial-Relation 45 59	to the left of
+T8	Spatial-Relation 64 70	larger
+R1	Obj Arg1:T8 Arg2:T1	
+T9	Spatial-Relation 94 100	larger
+R2	Obj Arg1:T9 Arg2:T2	

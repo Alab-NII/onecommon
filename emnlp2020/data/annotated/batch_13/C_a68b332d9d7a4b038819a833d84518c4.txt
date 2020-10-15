@@ -1,0 +1,4 @@
+0: I have one large pure black one. the other black ones (3) are small. Do you have the large black one?
+1: I have two black dots that are almost vertical from each other. They are similar size, and both black. The one on the bottom is a tad to the left.
+0: Yes, i have those two also. Lets choose the one that is down and a tad to the left.
+1: Ok!

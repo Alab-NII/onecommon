@@ -1,0 +1,83 @@
+T2	Markable 26 37	largest one
+T4	Markable 76 90	any black dots
+T6	Markable 143 153	the darker
+T7	Markable 218 220	it
+T9	Markable 249 259	seven dots
+T10	Markable 296 306	seven dots
+T11	Markable 318 323	three
+T12	Markable 424 428	that
+T13	Markable 442 459	a medium grey dot
+T14	Markable 481 483	it
+T15	Markable 538 544	itself
+T16	Markable 572 574	it
+T17	Markable 642 645	one
+T18	Markable 673 676	one
+T19	Markable 605 608	two
+T20	Markable 706 714	that dot
+T21	Markable 7 24	lots of grey dots
+T1	Markable 118 122	dots
+T3	Markable 174 186	the lightest
+A1	All-Referents T9
+A2	All-Referents T10
+T8	Markable 357 372	dark grey large
+T22	Markable 374 385	middle grey
+T23	Markable 387 407	slightly darker grey
+A3	No-Referent T12
+R2	Anaphora Arg1:T14 Arg2:T13	
+T24	Markable 494 509	one medium grey
+R3	Anaphora Arg1:T15 Arg2:T24	
+T25	Spatial-Relation 26 33	largest
+A4	No-Obj T25
+T26	Spatial-Relation 45 57	darkest grey
+A5	No-Obj T26
+T5	Spatial-Relation 123 141	in a diagonal line
+A6	No-Obj T5
+T27	Spatial-Relation 147 153	darker
+R1	Obj Arg1:T27 Arg2:T1	
+T28	Spatial-Relation 154 169	at the top left
+R4	Obj Arg1:T28 Arg2:T1	
+T29	Spatial-Relation 178 186	lightest
+R5	Obj Arg1:T29 Arg2:T1	
+T30	Spatial-Relation 187 206	on the bottom right
+R6	Obj Arg1:T30 Arg2:T1	
+T31	Modifier 223 235	not an exact
+T33	Spatial-Relation 223 240	not an exact line
+A7	No-Obj T33
+T34	Spatial-Relation 324 340	going diagonally
+A8	No-Obj T34
+T35	Spatial-Relation 341 356	up to the right
+A10	Unannotatable T35
+T36	Modifier 387 395	slightly
+T37	Spatial-Relation 396 402	darker
+R7	Obj Arg1:T37 Arg2:T22	
+T38	Spatial-Relation 460 480	with not much around
+T40	Spatial-Attribute 510 522	middle sized
+T41	Modifier 523 534	pretty much
+T42	Spatial-Relation 535 537	by
+T43	Spatial-Relation 557 571	to the left of
+A11	No-Subj-Markable T43
+T45	Modifier 579 591	Not directly
+T46	Spatial-Relation 592 603	to the left
+R8	Subj Arg1:T46 Arg2:T19	
+R9	Obj Arg1:T46 Arg2:T24	
+T47	Spatial-Relation 609 640	in the southwest area immediate
+R10	Obj Arg1:T47 Arg2:T24	
+T49	Spatial-Relation 646 671	more south than southwest
+T50	Spatial-Relation 677 695	very much south/SE
+R12	Obj Arg1:T49 Arg2:T24	
+T51	Modifier 677 686	very much
+R13	Obj Arg1:T50 Arg2:T24	
+#1	AnnotatorNotes T42	alone
+A13	Mod-Uncertainty-Approximation T31
+T32	Modifier 510 516	middle
+A9	Mod-Neutral T32
+A14	Mod-Extremity T41
+#2	AnnotatorNotes T34	diagonal
+A15	Mod-Uncertainty-Approximation T45
+#4	AnnotatorNotes T47	left below near
+#5	AnnotatorNotes T49	south
+#6	AnnotatorNotes T50	below right
+A12	Mod-Certainty-Exactness T51
+T39	Modifier 465 473	not much
+A16	Mod-Uncertainty-Approximation T39
+A17	Canonical-Undefined T38

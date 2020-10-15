@@ -1,0 +1,8 @@
+T1	Markable 3 33	a lonely medium size black dot
+T2	Markable 76 86	other dots
+T3	Markable 109 111	it
+T4	Markable 42 44	it
+T5	Spatial-Relation 5 11	lonely
+A1	No-Obj T5
+T7	Spatial-Relation 48 75	at least one inch away from
+A2	Canonical-Undefined T7

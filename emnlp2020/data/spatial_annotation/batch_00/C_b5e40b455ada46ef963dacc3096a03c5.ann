@@ -1,0 +1,23 @@
+T1	Markable 14 37	a lonely light gray dot
+T2	Markable 111 144	a smaller medium sized darker one
+T3	Markable 84 105	a large dark grey one
+T4	Markable 188 205	a really dark one
+T5	Markable 308 325	a really dark one
+T6	Markable 417 423	a line
+T7	Markable 408 413	three
+T8	Markable 501 513	the last one
+T9	Markable 495 499	that
+T10	Markable 530 541	the largest
+T11	Markable 567 575	that one
+T12	Markable 148 151	its
+R1	Anaphora Arg1:T12 Arg2:T3	
+T13	Markable 327 330	its
+R2	Anaphora Arg1:T13 Arg2:T5	
+T14	Markable 345 366	a smaller lighter one
+T15	Markable 370 373	its
+R3	Anaphora Arg1:T15 Arg2:T5	
+R4	Predicative Arg1:T6 Arg2:T7	
+T16	Markable 459 463	dark
+T17	Markable 465 470	light
+T18	Markable 480 484	dark
+R5	Predicative Arg1:T10 Arg2:T8	

@@ -1,0 +1,7 @@
+0: Two large dots (same size) next to each other. One is lighter
+1: which one is lighter?
+0: the left one. It's very light grey
+1: is the right one black and lower?
+0: Yes it is. Let's choose that. They are same size?
+1: yes. which one did you choose? the light one or black one?
+0: Choose the black one where the top left one is light light grey

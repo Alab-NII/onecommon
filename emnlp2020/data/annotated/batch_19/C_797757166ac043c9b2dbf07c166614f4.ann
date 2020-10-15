@@ -1,0 +1,8 @@
+T1	Markable 10 23	a small light
+T2	Markable 40 46	itself
+T4	Markable 107 114	the one
+T5	Markable 147 165	a very tiny darker
+T6	Markable 179 181	it
+T7	Markable 195 207	the tiny dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T8	Markable 50 99	two almost identical looking large dark grey dots

@@ -1,0 +1,15 @@
+T1	Markable 15 35	a black med size dot
+T2	Markable 95 113	smallest black dot
+T3	Markable 74 93	cluster of six dots
+T5	Markable 229 250	the cluster of 6 dots
+T7	Markable 252 273	the largest black one
+T8	Markable 321 330	a cluster
+T9	Markable 331 335	they
+T10	Markable 400 414	all other dots
+T11	Markable 367 389	a small light grey dot
+T12	Markable 419 425	itself
+T13	Markable 465 467	it
+T4	Markable 152 167	a med size gray
+T6	Markable 302 309	my dots
+R1	Anaphora Arg1:T9 Arg2:T6	
+R2	Anaphora Arg1:T12 Arg2:T11	

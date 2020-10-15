@@ -1,0 +1,3 @@
+0: do you see 2 very very close?
+1: Not really , i see two but one is darker and to the upper right?
+0: that's correct. let's pick the darker one, ok?

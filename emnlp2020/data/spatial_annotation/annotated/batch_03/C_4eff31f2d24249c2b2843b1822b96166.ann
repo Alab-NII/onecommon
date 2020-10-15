@@ -1,0 +1,10 @@
+T2	Markable 43 62	one large black dot
+T3	Markable 75 98	a smaller dark grey one
+T4	Markable 112 136	a smaller light gray one
+T5	Markable 105 107	it
+T6	Markable 153 155	it
+T7	Markable 172 180	that one
+T1	Spatial-Relation 77 84	smaller
+T8	Spatial-Relation 99 104	above
+T9	Spatial-Relation 114 121	smaller
+T10	Spatial-Relation 137 152	to the right of

@@ -1,0 +1,28 @@
+T1	Markable 9 22	one black dot
+T2	Markable 66 68	it
+T3	Markable 82 92	the others
+T4	Markable 106 126	a big light gray dot
+T5	Markable 168 189	2 big light grey dots
+T6	Markable 229 236	the one
+T7	Markable 302 310	that one
+T8	Spatial-Relation 23 28	alone
+A1	No-Obj T8
+T9	Spatial-Relation 29 41	on the right
+A2	No-Obj T9
+T10	Spatial-Relation 42 59	toward the bottom
+A3	No-Obj T10
+T11	Spatial-Relation 69 81	smaller than
+T12	Spatial-Relation 127 141	toward the top
+A4	No-Obj T12
+T13	Spatial-Relation 142 154	on the right
+A5	No-Obj T13
+T14	Spatial-Relation 190 208	in a straight line
+A6	No-Obj T14
+T15	Spatial-Relation 209 222	right to left
+A7	No-Obj T15
+#1	AnnotatorNotes T15	horizontal
+T16	Spatial-Relation 237 248	on the left
+R1	Obj Arg1:T16 Arg2:T5	
+T17	Modifier 249 257	slightly
+T18	Spatial-Relation 258 275	bigger and darker
+R2	Obj Arg1:T18 Arg2:T5	

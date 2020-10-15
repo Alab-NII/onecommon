@@ -1,0 +1,7 @@
+1: i have three dark grey dots in a triangle , the bottom dot is the largest
+0: Is that largest one the medium shade between the light and dark gray other two?
+1: no, it's maybe a bit darker than the other two and it's above a similar sized light grey dot
+0: I don't see it.
+1: ok, how about a very light grey small dot that doesn't have anything close on at least all sides but the right?
+0: I see that one...Let's choose that one
+1: yep yep

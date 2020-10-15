@@ -1,0 +1,6 @@
+0: Do you see one light grey dot larger than all the rest?
+1: I see 3 dots the far a triangle. They are all light gray in color, 1 of them is larger and darker. (to your answer, no)
+0: Are they all about the same color?
+1: Almost. There is actually 2 triangles I see. In one triangle there is an obvious darker and smaller gray dot. The other has a obvious larger and bit darker gray dot. which one you see?
+0: I am seeing the one with an obviously larger dot
+1: let's pick that dot

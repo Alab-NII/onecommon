@@ -1,0 +1,12 @@
+T1	Markable 42 48	2 dots
+T2	Markable 63 76	that triangle
+T3	Markable 10 16	3 dots
+T4	Markable 25 35	a triangle
+T5	Markable 90 114	a really small black dot
+T6	Markable 144 147	one
+T7	Markable 162 165	one
+T8	Markable 192 196	that
+R1	Predicative Arg1:T4 Arg2:T3	
+R2	Anaphora Arg1:T2 Arg2:T3	
+T9	Markable 120 132	2 other dots
+T10	Markable 211 220	black dot

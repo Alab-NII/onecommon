@@ -1,0 +1,24 @@
+T1	Markable 3 33	a really dark medium sized one
+T3	Markable 40 58	a light, small one
+T4	Markable 146 158	the dark one
+T5	Markable 110 134	a medium grey larger one
+T7	Markable 257 261	that
+T8	Markable 169 183	a med gray one
+T9	Markable 238 250	a darker one
+T11	Markable 269 288	no tiny lighter one
+T12	Markable 305 317	the dark one
+T13	Markable 374 378	that
+T14	Markable 324 343	larger, lighter one
+T15	Markable 390 400	a tiny one
+T16	Markable 417 431	the darker one
+T17	Markable 438 442	that
+T18	Markable 514 528	the darker one
+T19	Markable 492 505	the small one
+T2	Markable 62 66	it's
+#1	AnnotatorNotes T2	its
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T7 Arg2:T8	
+A1	No-Referent T11
+R3	Anaphora Arg1:T13 Arg2:T8	
+T6	None 229 234	their
+#2	AnnotatorNotes T6	there

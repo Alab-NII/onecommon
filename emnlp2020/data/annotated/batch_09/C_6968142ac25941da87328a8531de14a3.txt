@@ -1,0 +1,3 @@
+0: Do you see two tiny dots that are almost the exact same size? The lower one is slightly to the right and very dark?
+1: yes, with a med/grey slightly larger one to their left, almost exactly in line with the dark lower one?
+0: Yes click the lower tiny darker dot

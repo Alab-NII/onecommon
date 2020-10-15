@@ -1,0 +1,3 @@
+1: one large black dot with a smaller dark dot above and to the slight left?
+0: i have four dots that make a diamond
+1: okay, pick the lowest one

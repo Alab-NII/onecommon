@@ -1,0 +1,10 @@
+0: Do you have one large black dot?
+1: I have two of them in different places. Where's yours?
+0: at the bottom near 6 o'clock
+1: Nope. Don't have it.
+0: Do you have a large grey dot?
+1: Yes, near the bottom at about eight o'clock.
+0: Yes! Is there smaller darker grey dot up above it to the left?
+1: Yes. Want to select the larger dot?
+0: Yep!
+1: OK!

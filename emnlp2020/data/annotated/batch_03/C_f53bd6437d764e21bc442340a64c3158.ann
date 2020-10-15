@@ -1,0 +1,5 @@
+T1	Markable 155 159	them
+T2	Markable 15 29	two light ones
+T3	Markable 91 112	a larger med/grey one
+R1	Anaphora Arg1:T1 Arg2:T2	
+T4	Markable 195 203	the nose

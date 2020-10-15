@@ -1,0 +1,7 @@
+0: Darker gray dot, medium sized. Lonely towards the center
+1: Do you have any dark grey large dot
+0: No
+1: Do you have any black dot largest size
+0: Nope.
+1: Do you have any lightest grey largest dot
+0: Yes

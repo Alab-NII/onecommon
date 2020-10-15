@@ -1,0 +1,5 @@
+1: Small black dot all by itself?
+0: i only have 2 black dots one is med size which is on the left side then a tiny one at the top
+1: Is the tiny one all by itself
+0: yes it is
+1: Ok let's pick it

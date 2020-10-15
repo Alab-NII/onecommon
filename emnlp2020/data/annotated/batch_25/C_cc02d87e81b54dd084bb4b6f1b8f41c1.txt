@@ -1,0 +1,5 @@
+1: The blackest dot i have is the largest
+0: hmm no. do you have a large very light dot?
+1: Yes it is medium size
+0: yes sorry my mistake! w a smaller dark grey dot down to its left?
+1: Yes let us select the smaller dark gray

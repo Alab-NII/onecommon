@@ -1,0 +1,12 @@
+T1	Markable 37 61	a larger medium grey dot
+T2	Markable 88 90	it
+T3	Markable 104 106	it
+T4	Markable 10 31	small medium grey dot
+R1	Anaphora Arg1:T2 Arg2:T4	
+T5	Markable 108 118	Bigger one
+T6	Spatial-Relation 32 36	with
+T7	Spatial-Relation 39 45	larger
+T8	Spatial-Relation 62 74	to the right
+T9	Spatial-Relation 79 87	south of
+T10	Spatial-Relation 108 114	Bigger
+R3	Obj Arg1:T10 Arg2:T2	

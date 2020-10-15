@@ -1,0 +1,19 @@
+T3	Markable 30 41	one of them
+T4	Markable 62 70	The rest
+T5	Markable 84 94	the others
+T6	Markable 143 152	the black
+T7	Markable 3 4	4
+T1	Spatial-Relation 10 18	make a l
+A1	No-Obj T1
+T2	Spatial-Attribute 51 56	black
+T8	Spatial-Attribute 71 75	grey
+T9	Spatial-Relation 99 113	the same color
+A2	No-Obj T9
+T10	Spatial-Relation 119 134	different sizes
+A3	No-Obj T10
+A4	Canonical-Undefined T1
+T11	Spatial-Relation 34 36	of
+A5	No-Obj T11
+R1	Obj Arg1:T11 Arg2:T7	
+T12	Spatial-Relation 44 50	larger
+A6	No-Obj T12

@@ -1,0 +1,38 @@
+T1	Markable 33 50	a deformed square
+T2	Markable 9 28	a deformed triangle
+T3	Markable 135 138	one
+T4	Markable 221 233	that top one
+T5	Markable 51 55	both
+T6	Markable 79 85	2 dots
+T7	Markable 116 120	both
+T9	Spatial-Relation 11 28	deformed triangle
+A1	No-Obj T9
+T11	Spatial-Relation 35 50	deformed square
+A2	No-Obj T11
+T12	Spatial-Relation 56 75	leaning to the left
+A3	No-Obj T12
+T13	Modifier 86 90	very
+T14	Spatial-Relation 91 105	close together
+A5	No-Obj T14
+T15	Spatial-Attribute 121 133	medium sized
+T16	Spatial-Relation 139 144	above
+T17	Modifier 149 157	slightly
+T18	Spatial-Relation 158 170	to the right
+R1	Obj Arg1:T18 Arg2:T7	
+R2	Obj Arg1:T16 Arg2:T7	
+T19	Modifier 174 180	barely
+T20	Spatial-Relation 181 187	darker
+T21	Modifier 192 198	barely
+T22	Spatial-Relation 199 206	smaller
+R3	Obj Arg1:T20 Arg2:T7	
+R4	Obj Arg1:T22 Arg2:T7	
+T23	Spatial-Relation 226 229	top
+T24	Spatial-Relation 234 246	to the right
+R5	Obj Arg1:T23 Arg2:T6	
+R6	Obj Arg1:T24 Arg2:T6	
+A6	Canonical-Undefined T9
+A4	Canonical-Undefined T12
+T8	Modifier 121 127	medium
+A7	Mod-Neutral T8
+A8	Mod-Subtlty T19
+A9	Mod-Subtlty T21

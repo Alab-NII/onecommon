@@ -1,0 +1,5 @@
+0: black dot left side below it is a tiny light gray dot
+1: i see a medium sized black dot with a much lighter grey dot down and to the left. the grey dot is smaller
+0: is this on the left side
+1: yes
+0: lets do the black dot then =)

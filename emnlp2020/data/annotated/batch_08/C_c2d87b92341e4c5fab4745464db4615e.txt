@@ -1,0 +1,5 @@
+1: Medium sized medium gray dot to top left of circle
+0: Possibly, if it is around 10:00 but not close to the edge
+1: Mines touching, okay, lighter gray medium sized dot approximately. 2 inches under the 12:00 line toward center mass
+0: Nope. Largest light grey dot near 5:00?
+1: Affirmative, Please click

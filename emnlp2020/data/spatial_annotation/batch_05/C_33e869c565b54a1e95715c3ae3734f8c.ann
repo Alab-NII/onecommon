@@ -1,0 +1,20 @@
+T2	Markable 63 69	7 dots
+T3	Markable 71 82	my smallest
+T4	Markable 109 119	two others
+T5	Markable 99 101	It
+T6	Markable 216 220	grey
+T7	Markable 254 257	two
+T8	Markable 285 288	one
+T9	Markable 362 372	the larger
+T10	Markable 383 387	they
+T11	Markable 3 13	my largest
+T12	Markable 18 26	smallest
+A1	All-Referents T2
+R1	Anaphora Arg1:T5 Arg2:T3	
+T1	Markable 142 155	my small dark
+T13	Markable 165 166	1
+T14	Markable 187 188	3
+T15	Markable 221 226	black
+T16	Markable 227 231	grey
+T17	Markable 306 317	the largest
+T18	Markable 339 341	it

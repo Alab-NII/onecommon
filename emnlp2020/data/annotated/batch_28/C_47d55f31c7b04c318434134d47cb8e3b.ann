@@ -1,0 +1,11 @@
+T1	Markable 42 45	one
+T2	Markable 53 56	one
+T3	Markable 165 176	smaller dot
+T5	Markable 231 246	the smaller dot
+T6	Markable 17 25	two dots
+T7	Markable 68 82	small dark dot
+T8	Markable 102 117	large light dot
+T9	Markable 121 124	its
+R1	Anaphora Arg1:T9 Arg2:T7	
+T10	Markable 139 145	2 dots
+T4	Markable 251 262	smaller dot

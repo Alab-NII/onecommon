@@ -1,0 +1,13 @@
+T1	Markable 9 32	a very dark colored dot
+T2	Markable 76 104	a smaller, but also dark one
+T3	Markable 145 167	a slightly smaller one
+T4	Markable 208 212	that
+T5	Markable 188 201	a smaller one
+T6	Markable 224 230	a line
+T7	Markable 114 135	a large dark gray dot
+T8	Markable 176 178	it
+T9	Markable 244 253	this line
+T10	Markable 292 308	the big dark one
+T11	Markable 56 58	It
+R1	Anaphora Arg1:T11 Arg2:T1	
+R2	Anaphora Arg1:T8 Arg2:T7	

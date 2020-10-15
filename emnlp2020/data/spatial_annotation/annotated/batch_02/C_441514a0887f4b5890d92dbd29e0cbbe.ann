@@ -1,0 +1,16 @@
+T2	Markable 142 155	the black one
+T3	Markable 3 22	med sized black dot
+T1	Markable 34 37	one
+T4	Markable 89 110	a larger med grey one
+T5	Markable 119 122	its
+T6	Spatial-Relation 50 72	towards the upper left
+A1	No-Obj T6
+T7	Spatial-Relation 91 97	larger
+T8	Spatial-Relation 111 115	down
+T9	Spatial-Relation 123 128	right
+R1	Subj Arg1:T9 Arg2:T4	
+R2	Obj Arg1:T9 Arg2:T5	
+T11	Spatial-Relation 164 181	a few inches down
+R4	Subj Arg1:T11 Arg2:T4	
+R5	Obj Arg1:T11 Arg2:T5	
+A2	Canonical-Undefined T11

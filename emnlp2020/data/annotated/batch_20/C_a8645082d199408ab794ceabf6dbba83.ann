@@ -1,0 +1,9 @@
+T2	Markable 42 53	one of them
+T4	Markable 152 174	a small light gray dot
+T5	Markable 193 206	the black one
+T6	Markable 16 31	a question mark
+T7	Markable 3 10	my dots
+R1	Predicative Arg1:T6 Arg2:T7	
+A1	All-Referents T7
+T1	Markable 83 85	up
+T3	Markable 102 122	a large med gray dot

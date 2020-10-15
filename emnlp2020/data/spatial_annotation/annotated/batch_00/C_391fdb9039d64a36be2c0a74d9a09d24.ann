@@ -1,0 +1,31 @@
+T1	Markable 9 42	a trio of three decent sized dots
+T2	Markable 100 130	an extremely light colored dot
+T3	Markable 254 279	small lighter colored one
+T4	Markable 214 237	a dark medium sized dot
+T5	Markable 338 350	the dark one
+T6	Spatial-Relation 56 73	form this shape /
+T7	Markable 88 92	that
+A1	No-Referent T7
+T8	Markable 171 174	any
+A2	No-Referent T8
+T9	Modifier 48 55	kind of
+R1	Mod Arg1:T9 Arg2:T6	
+T10	Spatial-Relation 131 155	towards bottom of screen
+T11	Spatial-Relation 238 253	to the right of
+T12	Spatial-Relation 301 306	above
+T13	Modifier 292 300	slightly
+R2	Subj Arg1:T12 Arg2:T4	
+R3	Obj Arg1:T12 Arg2:T3	
+R4	Mod Arg1:T13 Arg2:T12	
+T14	Modifier 320 331	not by much
+R5	Mod Arg1:T14 Arg2:T12	
+A3	No-Obj T6
+A4	No-Obj T10
+T15	Spatial-Relation 260 275	lighter colored
+R6	Obj Arg1:T15 Arg2:T4	
+T16	Spatial-Attribute 194 199	light
+T17	Modifier 184 193	extremely
+T18	Spatial-Relation 11 15	trio
+A5	No-Obj T18
+#1	AnnotatorNotes T6	diagonal
+A6	Mod-Subtlty T14

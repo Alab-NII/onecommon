@@ -1,0 +1,21 @@
+T3	Markable 68 88	a very dark gray dot
+T4	Markable 150 158	the dots
+T5	Markable 164 166	it
+T8	Markable 200 202	it
+T9	Markable 269 284	a dark gray dot
+T11	Markable 315 320	yours
+T12	Markable 352 360	that one
+T14	Markable 443 456	a smaller one
+T15	Markable 414 437	a large medium grey one
+T2	Markable 15 48	one very small very dark grey dot
+A1	Generic T4
+A2	Generic T5
+T1	Markable 208 238	a smaller slightly lighter one
+T6	Markable 246 248	it
+T7	Markable 365 367	It
+T10	Markable 498 506	that one
+T16	Markable 296 302	itself
+R1	Anaphora Arg1:T16 Arg2:T9	
+T17	Markable 386 390	That
+T13	Markable 398 400	it
+R2	Predicative Arg1:T13 Arg2:T17	

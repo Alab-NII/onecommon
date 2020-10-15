@@ -1,0 +1,4 @@
+0: do you have 1 small blackest dot
+1: Very small black (it's the darkest) dot, lower
+0: yes, choose that one
+1: k

@@ -1,0 +1,3 @@
+0: i have a smaller black dot forming a triangle with 2 bigger lighter dots
+1: i have two dots on the upper right... top is smaller and slightly lighter the bottom is darker and bigger and down and right of the top dot... I do have a small black dot but the other dots are not light. we can choose the black dot
+0: ok black one it is

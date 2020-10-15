@@ -1,0 +1,31 @@
+T1	Markable 241 254	the black one
+T2	Markable 3 9	3 dots
+T3	Markable 84 88	that
+T4	Markable 116 128	smallest dot
+T5	Spatial-Relation-Markable 139 146	largest
+T6	Spatial-Relation 161 169	smallest
+T7	Spatial-Relation-Markable 180 187	largest
+T8	Spatial-Relation-Markable 207 213	medium
+T9	Spatial-Relation 10 36	different sizes and shades
+T10	Spatial-Relation 37 68	clustered very closely together
+T11	Modifier 47 51	very
+T12	Spatial-Relation 89 112	down left of the center
+A1	No-Obj T12
+T13	Spatial-Attribute 129 134	black
+T14	Spatial-Relation 116 124	smallest
+R1	Obj Arg1:T14 Arg2:T2	
+R2	Obj Arg1:T5 Arg2:T2	
+T15	Spatial-Attribute 147 156	dark grey
+T16	Spatial-Attribute 173 178	black
+A2	No-Obj T9
+A3	No-Obj T10
+T17	Spatial-Relation 191 202	darker gray
+T18	Spatial-Attribute 217 227	light gray
+R5	Obj Arg1:T8 Arg2:T2	
+#1	AnnotatorNotes T9	different size;different color
+A4	Canonical-Undefined T8
+R6	Obj Arg1:T6 Arg2:T2	
+R7	Obj Arg1:T7 Arg2:T2	
+#2	AnnotatorNotes T12	down left
+A5	No-Obj T17
+A6	Ambiguous-Obj T17

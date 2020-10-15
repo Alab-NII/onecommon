@@ -1,0 +1,7 @@
+1: I see a medium sized light grey dot right on the edge at the bottom and sort of to the right.
+0: I have a medium sized medium gray at the bottom with a darker gray same size above it. I do not see the light grey dot you described
+1: Hm, I don't have anything else at the bottom. Do you have a small medium grey dot very close to a larger and darker one?
+0: yes i do think i see that one
+1: The smaller one is above and to the right, is it like that on yours?
+0: yes it is light that
+1: Okay! I'm going to choose the darker one on the bottom.

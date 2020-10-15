@@ -1,0 +1,27 @@
+T1	Markable 9 31	a large light grey dot
+T3	Markable 71 79	two dots
+T4	Markable 112 122	each other
+T5	Markable 164 182	the large gray dot
+T6	Markable 200 214	those two dots
+T7	Markable 227 238	a black dot
+T8	Markable 255 270	the smaller one
+T9	Markable 296 314	the small gray dot
+R1	Anaphora Arg1:T4 Arg2:T3	
+T10	Markable 123 137	the bigger one
+A1	No-Referent T5
+T2	Spatial-Relation 32 56	at the top of the circle
+A2	No-Obj T2
+T11	Spatial-Relation 80 106	the same medium gray color
+#1	AnnotatorNotes T11	same color
+T12	Spatial-Attribute 89 106	medium gray color
+T13	Spatial-Relation 107 111	near
+T14	Spatial-Relation 127 133	bigger
+R2	Obj Arg1:T14 Arg2:T4	
+T15	Spatial-Relation 138 149	on the left
+R3	Obj Arg1:T15 Arg2:T4	
+T16	Spatial-Relation 239 254	to the right of
+T17	Spatial-Relation 259 266	smaller
+R4	Obj Arg1:T17 Arg2:T7	
+T18	Modifier 89 95	medium
+A3	Mod-Neutral T18
+R5	Mod Arg1:T18 Arg2:T12	

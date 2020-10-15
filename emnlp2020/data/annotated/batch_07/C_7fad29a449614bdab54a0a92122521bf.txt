@@ -1,0 +1,4 @@
+0: i have three light medium dots in a large triangle
+1: Do you see two black dots vertical from each other? Bottom one slightly smaller?
+0: very slightly smaller and a bit to the left, yes
+1: Take the top one exactly

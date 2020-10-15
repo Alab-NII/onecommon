@@ -1,0 +1,4 @@
+1: Hi! I have 2 large dots almost centered at the top. one is medium gray one is black and down to the right of the dark gray dot
+0: Do you have two dots that are close together and almost vertical and almost exactly the same size with the one on the top being light grey?
+1: I do have that my black one is below the light gray and slightly to the left
+0: Yes click the black dot!

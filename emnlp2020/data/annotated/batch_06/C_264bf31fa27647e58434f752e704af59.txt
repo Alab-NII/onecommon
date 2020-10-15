@@ -1,0 +1,5 @@
+1: Do you have any black dots?
+0: 2
+1: Do you have a large black dot with a light grey dot directly under it?
+0: yes and the light grey dot is slightly smaller than the black
+1: Yes! Let's select the black one

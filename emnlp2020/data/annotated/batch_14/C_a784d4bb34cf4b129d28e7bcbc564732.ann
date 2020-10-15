@@ -1,0 +1,12 @@
+T1	Markable 22 41	one medium gray dot
+T2	Markable 45 51	itself
+T3	Markable 72 87	two darker ones
+T6	Markable 157 189	one medium colored and sized one
+T8	Markable 114 134	one dark smaller one
+T9	Markable 150 152	it
+T10	Markable 227 235	that one
+T11	Markable 305 313	that one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T12	Markable 92 96	It's
+R2	Anaphora Arg1:T9 Arg2:T12	
+T4	Markable 239 264	The large medium gray one

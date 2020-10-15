@@ -1,0 +1,9 @@
+T1	Markable 89 92	All
+T2	Markable 12 41	an obvious group of four dots
+T3	Markable 117 121	that
+T4	Markable 140 150	3 of those
+T5	Markable 197 218	a very large dark dot
+R1	Anaphora Arg1:T1 Arg2:T2	
+R2	Anaphora Arg1:T3 Arg2:T2	
+T6	Markable 160 167	the one
+T7	Markable 234 253	that large dark dot

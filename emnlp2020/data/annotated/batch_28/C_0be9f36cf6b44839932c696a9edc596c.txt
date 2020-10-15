@@ -1,0 +1,5 @@
+1: do you see a large black dot with a slightly smaller black dot above it and to the left
+0: I have two dark dots and a med color dot in the middle
+1: is the med color dot dark grey?
+0: yes
+1: let's select that one

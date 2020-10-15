@@ -1,0 +1,6 @@
+0: Hi
+1: Hi, I have one very tiny light gray dot
+0: right tiny little or left tiny little ?
+1: I only have one. It is SW of a slightly bigger, darker gray dot
+0: Ok let's choose it.
+1: ok

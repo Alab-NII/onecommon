@@ -1,0 +1,4 @@
+0: Light grey dot with, slightly smaller, medium-grey just above it
+1: Yes and a medium grey dot up and to the right of both of those?
+0: yup, lets pick the lower, lightest grey one
+1: Okay

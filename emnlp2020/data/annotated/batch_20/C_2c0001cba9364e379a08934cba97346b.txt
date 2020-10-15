@@ -1,0 +1,4 @@
+1: three in a row vertically, dark on bottom
+0: I see them! It's slightly smaller than the other two?
+1: yes, choose the bottom dark one
+0: Ayy good luck

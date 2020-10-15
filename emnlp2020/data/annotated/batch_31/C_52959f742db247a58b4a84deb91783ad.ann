@@ -1,0 +1,13 @@
+T1	Markable 34 44	each other
+T2	Markable 104 121	a medium size dot
+T3	Markable 146 149	one
+T4	Markable 88 98	a triangle
+T5	Markable 126 140	2 smaller dots
+T6	Markable 190 192	it
+T7	Markable 253 271	the light gray one
+T8	Markable 3 17	two small dots
+R1	Anaphora Arg1:T1 Arg2:T8	
+T9	Markable 47 51	left
+T10	Markable 76 80	that
+A1	No-Referent T10
+T11	Markable 195 203	two dots

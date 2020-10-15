@@ -1,0 +1,4 @@
+1: Large black dot with a smaller light dot to the left and slightly lower
+0: tiny black dot with a slightly larger lighter grey dot to the left
+1: I see your dot, take small black
+0: ok

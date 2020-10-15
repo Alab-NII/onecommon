@@ -1,0 +1,23 @@
+T1	Markable 32 35	One
+T2	Markable 70 85	the lighter dot
+T3	Markable 117 121	that
+T4	Markable 132 145	a zigzag line
+T5	Markable 162 166	that
+T6	Markable 180 191	a black dot
+T7	Markable 197 213	a light grey dot
+T8	Markable 237 250	the light one
+T9	Markable 281 294	the black dot
+T10	Markable 335 352	a small light dot
+T11	Markable 314 329	a big black dot
+T12	Markable 363 374	a black dot
+T13	Markable 380 399	a small lighter dot
+T14	Markable 454 467	the black one
+T15	Markable 421 434	the light one
+T16	Markable 481 494	the black dot
+T17	Markable 3 10	to dots
+#1	AnnotatorNotes T17	two dots
+A2	No-Referent T5
+R1	Anaphora Arg1:T15 Arg2:T13	
+R2	Anaphora Arg1:T14 Arg2:T12	
+R3	Anaphora Arg1:T8 Arg2:T7	
+R4	Anaphora Arg1:T9 Arg2:T6	

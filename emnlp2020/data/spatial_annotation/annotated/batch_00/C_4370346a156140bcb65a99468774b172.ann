@@ -1,0 +1,72 @@
+T1	Markable 6 31	your smallest darkest dot
+T3	Markable 49 55	2 dots
+T4	Markable 59 69	each other
+T5	Markable 71 74	one
+T7	Markable 112 126	2 sets of dots
+T8	Markable 158 172	the darker dot
+T11	Markable 205 220	the lighter dot
+T12	Markable 232 240	a couple
+T15	Markable 252 259	one set
+T16	Markable 328 331	one
+T17	Markable 278 291	the other set
+T18	Markable 375 400	the light and darker pair
+T19	Spatial-Attribute 563 573	light grey
+T20	Markable 416 430	the darker one
+T21	Markable 500 513	The dark grey
+T22	Markable 610 624	the darker one
+R1	Anaphora Arg1:T4 Arg2:T3	
+T2	Markable 309 313	both
+R2	Anaphora Arg1:T2 Arg2:T17	
+T6	Markable 341 346	other
+T9	Markable 477 498	the medium sized ones
+T10	Markable 541 552	lighter one
+T13	Spatial-Relation 11 19	smallest
+A1	No-Obj T13
+T14	Spatial-Relation 20 27	darkest
+A2	No-Obj T14
+T23	Spatial-Relation 32 37	alone
+A3	No-Obj T23
+T24	Spatial-Relation 56 58	by
+T25	Spatial-Relation 75 101	slightly larger and darker
+T26	Modifier 75 83	slightly
+R3	Obj Arg1:T25 Arg2:T3	
+T27	Spatial-Relation 162 168	darker
+T28	Spatial-Relation 173 204	to the right and slightly above
+T29	Modifier 190 198	slightly
+T30	Spatial-Relation 209 216	lighter
+R4	Obj Arg1:T30 Arg2:T8	
+T31	Spatial-Attribute 263 276	of small dots
+T32	Spatial-Attribute 295 307	medium sized
+T33	Spatial-Relation 314 323	same size
+A4	No-Obj T33
+T34	Spatial-Attribute 332 336	dark
+T35	Spatial-Attribute 347 357	light grey
+T36	Spatial-Relation 389 395	darker
+T37	Spatial-Relation 401 414	the same size
+A6	No-Obj T37
+T38	Spatial-Relation 420 426	darker
+T39	Spatial-Relation 431 452	up and to the left of
+T40	Spatial-Relation 457 464	lighter
+T41	Spatial-Relation 514 536	to the left and higher
+T42	Spatial-Relation 541 548	lighter
+T43	Spatial-Relation 553 558	lower
+R6	Obj Arg1:T42 Arg2:T21	
+R7	Obj Arg1:T43 Arg2:T21	
+T44	Spatial-Relation 614 620	darker
+T45	Spatial-Relation 633 654	up higher on the left
+R8	Obj Arg1:T44 Arg2:T10	
+R10	Subj Arg1:T36 Arg2:T16	
+R11	Obj Arg1:T36 Arg2:T6	
+R5	Obj Arg1:T40 Arg2:T18	
+R12	Obj Arg1:T39 Arg2:T18	
+T46	Modifier 295 301	medium
+T47	Spatial-Relation 114 118	sets
+A7	No-Obj T47
+T48	Spatial-Relation 256 259	set
+A8	No-Obj T48
+T49	Spatial-Relation 288 291	set
+A9	No-Obj T49
+T50	Spatial-Relation 396 400	pair
+A10	No-Obj T50
+R13	Obj Arg1:T45 Arg2:T10	
+#1	AnnotatorNotes T24	near

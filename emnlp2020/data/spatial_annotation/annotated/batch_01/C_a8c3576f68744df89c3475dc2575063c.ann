@@ -1,0 +1,47 @@
+T2	Markable 10 47	a pair of close horizontal light dots
+T3	Markable 58 95	a pair of close horizontal light dots
+T5	Markable 134 138	they
+T6	Markable 157 169	the left one
+T7	Markable 200 204	they
+T8	Markable 224 236	The left one
+T9	Markable 280 308	the left slightly darker one
+T1	Spatial-Relation 12 16	pair
+A1	No-Obj T1
+T4	Spatial-Relation 20 25	close
+A2	No-Obj T4
+T10	Spatial-Relation 26 36	horizontal
+A3	No-Obj T10
+T11	Spatial-Relation 60 64	pair
+A4	No-Obj T11
+T12	Spatial-Relation 68 73	close
+A5	No-Obj T12
+T13	Spatial-Relation 74 84	horizontal
+A6	No-Obj T13
+T14	Spatial-Relation 96 126	on the right side of my circle
+A7	No-Obj T14
+T15	Spatial-Relation 139 152	of equal size
+A8	No-Obj T15
+T16	Spatial-Relation 161 165	left
+R1	Obj Arg1:T16 Arg2:T5	
+T17	Modifier 170 178	slightly
+T18	Spatial-Relation 179 185	darker
+R2	Obj Arg1:T18 Arg2:T5	
+T19	Spatial-Relation 209 222	of equal size
+A9	No-Obj T19
+T20	Spatial-Relation 228 232	left
+R3	Obj Arg1:T20 Arg2:T7	
+T21	Modifier 240 248	slightly
+T22	Spatial-Relation 249 255	darker
+R4	Obj Arg1:T22 Arg2:T7	
+T23	Spatial-Relation 284 288	left
+T24	Modifier 289 297	slightly
+T25	Spatial-Relation 298 304	darker
+R5	Obj Arg1:T23 Arg2:T5	
+R6	Obj Arg1:T25 Arg2:T5	
+#1	AnnotatorNotes T4	near
+#2	AnnotatorNotes T12	near
+#3	AnnotatorNotes T15	same size
+#4	AnnotatorNotes T19	same size
+T26	Modifier 194 199	seems
+R7	Mod Arg1:T26 Arg2:T19	
+A10	Mod-Uncertainty-Approximation T26

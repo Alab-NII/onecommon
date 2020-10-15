@@ -1,0 +1,6 @@
+1: i've got two dark dots diagonal in line, one lower left and one higher right, same size and color
+0: i see something like that. can you tell me what any other dots near that look like?
+1: there's two light gray dots below that, real close together, and the left one is a lot bigger
+0: i see that too.
+1: pick the big light one?
+0: ok

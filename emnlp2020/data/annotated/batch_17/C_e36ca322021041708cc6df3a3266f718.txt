@@ -1,0 +1,5 @@
+1: I only have 3 dark dots, two near the bottom and one a little higher and to the left of center
+0: Do you have a dark dot with a medium dot lower and to the left of it and a pale dot lower and to the right of it? mine is close to center?
+1: Yes, is it slightly below center?
+0: yes
+1: Okay, let's go with the dark

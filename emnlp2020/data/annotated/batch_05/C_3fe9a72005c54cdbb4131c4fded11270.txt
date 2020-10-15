@@ -1,0 +1,6 @@
+0: What do you see?
+1: I have a group of three dots lined up vertically on my left side, one lonely dark dot bottom, and two dots to the right
+0: I have a dark dot pretty centered
+1: Is it your smallest dot?
+0: It appears to be
+1: Pick that one

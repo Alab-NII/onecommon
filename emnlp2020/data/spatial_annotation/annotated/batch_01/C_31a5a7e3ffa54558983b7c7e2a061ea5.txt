@@ -1,0 +1,5 @@
+1: i have two dots REALLy close together from the left... medium dark and smaller than the black one that id down and to the right
+0: i don't have that, i have 1 smallest dot by itself towards the edge
+1: down and to the right? medium gray?
+0: yes
+1: lets choose that one

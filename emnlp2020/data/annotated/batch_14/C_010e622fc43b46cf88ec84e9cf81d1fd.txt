@@ -1,0 +1,6 @@
+0: Do you see one tiny very light grey dot with a larger darker one a little down and to the right?
+1: I have almost all my dots in a left to right bottom to top diagonal line except one gray dot alone to the right of it
+0: I have the diagonal, but the others are to the left
+1: do you have a small medium dark on at the top right of the diagonal?
+0: Yes.
+1: lets do it

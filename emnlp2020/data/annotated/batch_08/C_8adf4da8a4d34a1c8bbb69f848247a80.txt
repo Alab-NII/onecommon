@@ -1,0 +1,4 @@
+1: I see a triangle of dots one big two small
+0: yes larger dot bottom left darker shade?
+1: yes
+0: click it

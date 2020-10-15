@@ -1,0 +1,4 @@
+0: I see a large medium-grey dot next to a smaller light grey dot. they are extremely close to each other
+1: I have the same
+0: choose the bigger dot
+1: okay

@@ -1,0 +1,6 @@
+0: Do you have 2 dark dots one slightly smaller above and to the right of larger one near right side of circle
+1: Yes I do! On the right of the smaller black dot is a lighter grey dot?
+0: no I see the small black dot near the top of the circle is above and to the right of the lighter colored medium dot
+1: Okay, let's go back to the two dark dots you were talking about before. I think we have the same ones. Are they really close together?
+0: yes near right side of circle and the slightly larger one is just barely to lower left of smaller one
+1: Yes! Let's select the larger one on the left.

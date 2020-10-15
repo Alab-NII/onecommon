@@ -1,0 +1,23 @@
+T1	Markable 23 26	one
+T3	Markable 9 22	two dark dots
+T4	Markable 45 54	the other
+T5	Markable 81 85	they
+T6	Markable 124 128	they
+T7	Markable 235 240	those
+T8	Markable 305 321	the 3 other dots
+T9	Markable 249 255	3 dots
+T10	Markable 396 399	one
+T11	Markable 436 440	they
+T12	Markable 510 517	Biggest
+T14	Markable 554 562	that one
+T2	Markable 56 63	top one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T15	Markable 97 111	The bottom one
+T16	Markable 185 189	They
+T17	Markable 272 286	a lighter gray
+T18	Markable 294 299	a box
+R2	Anaphora Arg1:T8 Arg2:T9	
+T19	Markable 338 342	that
+A1	No-Referent T19
+T20	Markable 356 357	3
+T21	Markable 467 478	Biggest dot

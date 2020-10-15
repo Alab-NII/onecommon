@@ -1,0 +1,3 @@
+0: I have a large light grey dot with a medium light grey dot above it and below it are two dots next to each other that are tiny and slightly darker grey
+1: yes! is the darker one in that tiny pair lower and to the left? if so click it
+0: yup i have that one. gonna click the one you said to

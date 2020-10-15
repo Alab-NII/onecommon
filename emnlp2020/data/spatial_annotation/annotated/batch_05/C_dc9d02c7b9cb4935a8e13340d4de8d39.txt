@@ -1,0 +1,4 @@
+0: I have a large dark gray dot with a much smaller medium gray dot above and to the right of it
+1: Above to the right?
+0: Yes, the smaller lighter dot is above and to the right of that larger darker dot
+1: Let us select the smaller lighter dot

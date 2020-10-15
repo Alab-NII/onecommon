@@ -1,0 +1,7 @@
+T1	Markable 10 38	one small to medium grey dot
+T2	Markable 87 101	any other dots
+T3	Markable 121 123	it
+T4	Spatial-Relation 39 65	in the center of my circle
+A1	No-Obj T4
+T5	Modifier 74 77	not
+T6	Spatial-Relation 78 86	close to

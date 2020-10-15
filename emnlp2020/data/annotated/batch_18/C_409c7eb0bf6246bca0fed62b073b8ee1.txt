@@ -1,0 +1,8 @@
+1: I see two dark dots near the very top, the left one is larger
+0: Do you see 4 in kind of a wonky square?
+1: I see 5 together near the bottom...one of them is very dark and the rest are pretty light except for the one on bottom right
+0: I see 5 in a group (nine are more centered) I think the darkest is the topmost on the left.
+1: but you don't see 2 dark ones near the top by themselves?
+0: No
+1: Ok then it seems we should pick the darkest one near the top of the group of 5
+0: Ok.

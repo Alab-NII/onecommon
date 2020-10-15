@@ -1,0 +1,11 @@
+T1	Markable 38 41	its
+T2	Markable 72 88	a large dark dot
+T3	Markable 123 141	all the other dots
+T4	Markable 177 190	no other dots
+T5	Markable 198 200	it
+T6	Markable 223 231	that one
+T7	Markable 3 17	My largest dot
+T8	Markable 49 52	its
+R1	Anaphora Arg1:T1 Arg2:T7	
+R2	Anaphora Arg1:T8 Arg2:T7	
+A1	No-Referent T4

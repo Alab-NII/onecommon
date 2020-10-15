@@ -1,0 +1,14 @@
+T1	Markable 9 26	a medium dark dot
+T2	Markable 74 76	it
+T3	Markable 115 145	the slightly darker medium dot
+T4	Markable 85 90	a few
+T5	Markable 94 96	It
+T6	Spatial-Relation 27 44	on the upper left
+A1	No-Obj T6
+T7	Spatial-Relation 69 73	near
+A2	No-Subj-Markable T7
+T8	Modifier 100 108	directly
+T9	Spatial-Relation 109 114	above
+T10	Modifier 119 127	slightly
+T11	Spatial-Relation 128 134	darker
+R1	Obj Arg1:T11 Arg2:T5	

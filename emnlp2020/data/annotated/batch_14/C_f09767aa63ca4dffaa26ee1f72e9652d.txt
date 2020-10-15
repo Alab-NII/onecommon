@@ -1,0 +1,7 @@
+0: I have a black-ish big dot all by itself
+1: On top at 12 oclock
+0: Remember that we have different views of the same map, so what is at your 12 oclock might not be at my 12 oclock
+1: On top more to the left
+0: Do you see a cluster of 5 dots forming a Z ?
+1: Yes with a big dot in middle
+0: yes! Click the middle one

@@ -1,0 +1,12 @@
+T1	Markable 15 30	a group of dots
+T2	Markable 61 65	Mine
+T3	Markable 50 57	a black
+T4	Markable 172 207	the slightly larger darker gray dot
+T5	Markable 124 146	a small light gray dot
+T6	Markable 218 222	that
+T7	Markable 238 242	that
+T8	Markable 257 277	the lighter gray one
+A1	No-Referent T3
+T9	Markable 106 116	each other
+A2	All-Referents T2
+R1	Anaphora Arg1:T7 Arg2:T6	

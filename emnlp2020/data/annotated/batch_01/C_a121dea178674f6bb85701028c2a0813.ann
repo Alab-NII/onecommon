@@ -1,0 +1,8 @@
+T2	Markable 37 70	a cluster of medium darkness dots
+T3	Markable 84 106	a nearly straight line
+T4	Markable 72 76	they
+T5	Markable 142 147	those
+T6	Markable 160 174	the middle one
+T7	Markable 211 225	the middle one
+R1	Anaphora Arg1:T4 Arg2:T2	
+R2	Predicative Arg1:T3 Arg2:T4	

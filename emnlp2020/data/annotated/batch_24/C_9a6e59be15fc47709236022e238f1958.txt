@@ -1,0 +1,5 @@
+0: I have a tiny light gray dot on its own towards the bottom
+1: i don't see that
+0: 2 larger dots right next to each other, one dark, one light?
+1: I see them
+0: choose the lighter one?

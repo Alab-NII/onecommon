@@ -1,0 +1,4 @@
+1: I see a very small light grey dot
+0: I do not have a very small light grey dot. I see a small dark grey dot on the left edge of the circle and a small to medium med-grey dot on the top right edge of the circle. Both are far from each other and not close to other dots.
+1: Is the small dark one very dark? Like blackish? We should go for that one.
+0: Yes. It is.

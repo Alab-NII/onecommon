@@ -1,0 +1,22 @@
+T1	Markable 9 25	a large grey dot
+T2	Markable 50 52	it
+T3	Markable 54 68	my largest dot
+T4	Markable 97 99	it
+T5	Markable 152 154	it
+T8	Markable 178 180	it
+T9	Markable 252 254	it
+T10	Markable 373 388	the smaller one
+T11	Markable 434 436	it
+T12	Markable 33 36	its
+R1	Anaphora Arg1:T12 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T3	
+T13	Markable 104 140	a similar shade but much smaller dot
+R3	Anaphora Arg1:T5 Arg2:T3	
+T6	Markable 269 291	same shade but smaller
+T7	Markable 196 211	the largest dot
+T14	Markable 221 242	lighter shade of gray
+R4	Anaphora Arg1:T14 Arg2:T7	
+R5	Anaphora Arg1:T9 Arg2:T7	
+T15	Markable 304 308	that
+T16	Markable 330 350	about the same shade
+T17	Markable 410 421	the big guy

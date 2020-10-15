@@ -1,0 +1,5 @@
+1: 2 dots angled and beside each other. upper to left is darker and larger
+0: do you see a black dot and a gray dot with the black dot bigger and below and to the right of the gray one?...yes i see the two you're asked about
+1: I dont see those you talked about. the ones you also have that i have have... is the right lower light grey and smaller?
+0: yes. I also see a gray dot to the left of the black one and another black dot above and to the left of the black dot.
+1: I have that too. let's pick the light dot (right lower) of the two dots we were talking about

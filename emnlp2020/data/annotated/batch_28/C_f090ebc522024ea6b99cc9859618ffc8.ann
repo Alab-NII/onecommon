@@ -1,0 +1,11 @@
+T1	Markable 49 61	top of house
+T2	Markable 9 15	5 dots
+T3	Markable 299 310	a black dot
+T4	Markable 128 131	one
+T5	Markable 136 138	it
+R1	Anaphora Arg1:T5 Arg2:T4	
+T6	Markable 166 190	a larger darker grey dot
+T7	Markable 199 207	grey dot
+T8	Markable 237 241	that
+A1	No-Referent T8
+T9	Markable 255 269	that black dot

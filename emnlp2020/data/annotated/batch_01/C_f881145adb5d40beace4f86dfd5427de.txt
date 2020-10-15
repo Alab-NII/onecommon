@@ -1,0 +1,8 @@
+0: i see a light and dark grey dot next to each other
+1: I have some like that but the shade is very similar. its only slightly lighter.
+0: is the darker one larger?
+1: no. I have another set but of 2 close together but same color but one large and top one small
+0: i see two light grey ones but the one thats below it and slightly to the left is smaller
+1: yes. large one on top and on the right and small one to bottom left
+0: thats prolly the same, do you want to pick the larger one?
+1: ok

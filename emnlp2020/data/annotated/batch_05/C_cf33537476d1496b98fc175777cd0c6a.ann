@@ -1,0 +1,7 @@
+T1	Markable 55 62	the one
+T2	Markable 10 18	two dots
+T3	Markable 106 113	the dot
+T5	Markable 39 43	both
+R1	Anaphora Arg1:T5 Arg2:T2	
+T6	Markable 127 141	The bigger dot
+R2	Anaphora Arg1:T6 Arg2:T3	

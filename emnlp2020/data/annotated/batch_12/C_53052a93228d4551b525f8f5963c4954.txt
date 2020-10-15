@@ -1,0 +1,4 @@
+0: I have one very small medium gray dot (smaller than the others) with a large medium gray above above and to the right of it
+1: I don't think I see those. Do you see two dark dots in almost a horizontal line, one is slightly lower than the other?
+0: yes. Let's pick the one farthest to the right
+1: Okay, the one slightly higher

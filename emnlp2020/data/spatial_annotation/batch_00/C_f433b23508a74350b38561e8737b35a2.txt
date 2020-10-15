@@ -1,0 +1,12 @@
+1: Two large dark grey/black circles, one near the middle one at 1 oclock
+0: I have two larger dots vertical with the lighter one on top
+1: small black dot at 3ish, right of center
+0: Is your dots at 1 o'clock vertical, I don't have anything at 3ish
+1: yes, and big
+0: is the bottom one darker ?
+1: no, small grey dot at 4ish
+0: I actually I have a small dot at 3, but its in the middle
+1: right in middle, or right OF middle
+0: right of middle
+1: pick that one
+0: okay

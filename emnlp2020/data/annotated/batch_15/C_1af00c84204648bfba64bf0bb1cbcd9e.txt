@@ -1,0 +1,5 @@
+1: 2 large black dots near each other?
+0: Do you see a darkest largest dot at top left quadrant?
+1: yes!
+0: Is it close or far from the line?
+1: far

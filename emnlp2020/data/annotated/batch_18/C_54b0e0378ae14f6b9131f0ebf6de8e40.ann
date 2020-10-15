@@ -1,0 +1,6 @@
+T1	Markable 38 56	a pale smaller dot
+T2	Markable 15 32	a larger dark dot
+T3	Markable 73 75	it
+R1	Anaphora Arg1:T3 Arg2:T2	
+T4	Markable 88 97	paler dot
+T5	Markable 140 153	the paler dot

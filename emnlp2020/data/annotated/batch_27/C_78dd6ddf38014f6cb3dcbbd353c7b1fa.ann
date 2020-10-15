@@ -1,0 +1,5 @@
+T1	Markable 60 73	the top point
+T2	Markable 106 108	it
+T3	Markable 3 11	Triangle
+T4	Markable 13 16	all
+R1	Anaphora Arg1:T4 Arg2:T3	

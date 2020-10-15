@@ -1,0 +1,6 @@
+1: large black dot?
+0: Yep. Let's go for that one.
+1: wait is there a smaller dark grey dot up to its left?
+0: Yes
+1: which one did you click??
+0: The one you told me to click. The biggest blackest dot.

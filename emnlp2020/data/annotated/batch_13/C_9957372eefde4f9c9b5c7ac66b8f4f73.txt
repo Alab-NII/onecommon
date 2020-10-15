@@ -1,0 +1,8 @@
+0: 1 large light grey dot
+1: I have a bunch of shade of grey dots. I only have one tiny tiny grey dot. Is the dot you mentioned next to a darker smaller dot at the right of it???
+0: no
+1: Is any of your grey dots large and angled with another dot? (aligned at an angle?)
+0: no do you have small light grey dot alone
+1: Yes. is it by the edge of the dotted line?
+1: it's tiny right?
+0: yes

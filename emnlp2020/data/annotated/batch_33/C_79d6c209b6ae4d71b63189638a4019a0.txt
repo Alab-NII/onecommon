@@ -1,0 +1,8 @@
+0: i see a diagonal trio on the bottom right.
+1: I have two sets of 3 dots very close to each other, and then one med gray in the center
+0: i have one set of three, but there is a med grey in the center of the trio
+1: is the largest on the upper left of the line?
+0: yes.
+1: let
+0: pick the upper left one?
+1: yes. sorry for the typo

@@ -1,0 +1,5 @@
+0: medium black dot with large light grey to upper right
+1: I have a large black dot that has a dot that is light grey, sound like yours
+0: is the black dot smaller the the grey one?
+1: yes. i was mentioning another but I have that. go with the large light grey?
+0: ok

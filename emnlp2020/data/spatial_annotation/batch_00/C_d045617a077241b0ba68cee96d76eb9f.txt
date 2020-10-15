@@ -1,0 +1,4 @@
+1: Hello! Where's your dot?
+0: hi ... ok, darkest one, kinda small, with a lightest one, smaller above it to the right
+1: got it! click the darker one?
+0: perfect good luck!

@@ -1,0 +1,5 @@
+1: I have a fairly large light gray dot by itself, lower-right
+0: smaller gray dot above and to left?
+1: No. How about a small dark grey dot below a large darker dot?
+0: yes. is there a light gray one above and to left?
+1: Yes. Pick the smaller one

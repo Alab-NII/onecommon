@@ -1,0 +1,4 @@
+0: 3 dots almost forming a vertical line. top is smallest and lightest?
+1: yes let's pick the top one?
+0: if the middle one is the largest and almost black then okay click the top one!
+1: yes

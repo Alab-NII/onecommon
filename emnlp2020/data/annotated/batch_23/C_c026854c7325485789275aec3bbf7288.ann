@@ -1,0 +1,13 @@
+T1	Markable 3 19	medium black dot
+T2	Markable 23 29	itself
+T3	Markable 94 101	the one
+T4	Markable 167 175	the dots
+T5	Markable 244 266	a small same color dot
+T6	Markable 283 297	the bottom one
+T7	Markable 318 332	the bigger one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T8	Markable 33 48	2 med gray dots
+T9	Markable 65 75	bigger one
+A1	No-Referent T3
+T10	Markable 124 134	bigger one
+T11	Markable 196 203	top one

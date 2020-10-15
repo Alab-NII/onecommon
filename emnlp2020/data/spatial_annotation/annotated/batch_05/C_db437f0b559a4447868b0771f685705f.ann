@@ -1,0 +1,27 @@
+T1	Markable 9 19	three dots
+T3	Markable 64 74	three dots
+T4	Markable 150 157	the one
+T5	Markable 214 222	the line
+T6	Markable 188 195	the two
+T7	Markable 112 116	They
+T8	Markable 260 282	the lighter middle one
+R2	Anaphora Arg1:T7 Arg2:T3	
+R3	Anaphora Arg1:T5 Arg2:T3	
+T10	Markable 227 231	That
+T2	Modifier 20 26	almost
+T9	Spatial-Relation 27 50	forming a diagonal line
+A1	No-Obj T9
+T11	Modifier 80 86	almost
+T12	Spatial-Relation 87 102	form a diagonal
+A2	No-Obj T12
+T13	Modifier 125 130	about
+T14	Spatial-Relation 131 144	the same size
+A3	No-Obj T14
+T15	Spatial-Relation 158 171	in the middle
+T16	Spatial-Relation 175 187	lighter than
+R1	Obj Arg1:T15 Arg2:T7	
+T17	Spatial-Relation 196 213	on the outside of
+T18	Spatial-Relation 264 271	lighter
+T19	Spatial-Relation 272 278	middle
+R4	Obj Arg1:T18 Arg2:T10	
+R5	Obj Arg1:T19 Arg2:T10	

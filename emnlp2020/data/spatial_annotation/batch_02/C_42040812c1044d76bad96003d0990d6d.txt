@@ -1,0 +1,4 @@
+1: I see a slightly smaller grey dot that's also slightly lighter than a grey dot to the left of it
+0: Are they very close together and is that smaller grey dot to the right slightly above?
+1: yes
+0: k click the smaller one

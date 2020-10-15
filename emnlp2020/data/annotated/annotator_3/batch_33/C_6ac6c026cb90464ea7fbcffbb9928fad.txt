@@ -1,0 +1,4 @@
+1: i have 1 large grey dot on the right and a bunch of very dark grey and black dots clustered in the upper left
+0: do you see two dots that are the same size on top of each other? the top one is dark grey, the bottom is black. to the right and a little lower is a tiny black dot.
+1: no, i have a tiny black dot but it's at the top of my circle. below and to the left of it there's a large dark grey dot and to the left of that there's 3 black dots
+0: i see the same thing. let's choose that tiny black dot.

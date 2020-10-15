@@ -1,0 +1,4 @@
+1: I have a large light grey dot all alone
+0: I don't see it. Do you have two vertical dots the same size with the bottom one a darker shade?
+1: Yes, and the bottom one is slightly left of the upper?
+0: yep, lets choose the bottom one

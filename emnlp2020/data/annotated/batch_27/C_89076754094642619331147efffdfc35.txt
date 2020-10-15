@@ -1,0 +1,6 @@
+1: three black, two large one small
+0: I see 3 darker dots forming a longer diagonal line with small dot in middle. Yes I think we are seeing the same thing choose the smaller black dot in the middle ?
+1: my small one is not in the middle
+0: ok, is there a medium size dark grey dot up and to the right of your smaller black dot ?
+1: Yes, click on the small dark one your mentioned
+0: ok!

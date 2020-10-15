@@ -1,0 +1,9 @@
+0: i see a large light grey dot on its own
+1: I see one small very dark dot by itself on top
+0: i dont see any small very dark dots.
+1: How light gray is the one you were talking about?
+0: pretty light. theres only two really light dots on my screen a really big and a really small one, they are pretty far apart from each other, with two medium grey dots similar in size, pretty close to each other, thats somewhat in the middle of the two lighter grey dots
+1: I see the really small light gray one
+0: its above and to the left of the pair i mentioned?
+1: There's a large medium gray dot above and two the left of it
+0: yeah, lets pick that tiny light grey one

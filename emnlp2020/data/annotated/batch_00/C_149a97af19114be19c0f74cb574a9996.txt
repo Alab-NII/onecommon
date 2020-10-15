@@ -1,0 +1,5 @@
+0: I see two dots pretty close together. One light gray, one medium gray
+1: Almost in the center?
+0: Yes
+1: Choose the light grey
+0: yes

@@ -1,0 +1,7 @@
+T1	Markable 50 60	the others
+T2	Markable 10 17	one dot
+T3	Markable 105 107	it
+T4	Markable 180 182	it
+T5	Markable 86 96	same thing
+T6	Markable 166 168	it
+R1	Anaphora Arg1:T4 Arg2:T6	

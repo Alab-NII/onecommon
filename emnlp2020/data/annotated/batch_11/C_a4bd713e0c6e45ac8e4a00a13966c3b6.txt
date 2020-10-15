@@ -1,0 +1,4 @@
+1: Do you see a very large very dark dot close to 2 other dots that look almost identical to each other?
+0: Yes i do! Is it off the right?
+1: Yes Is there a nearby dot to the left that looks almost identical to the other two as well?? If so click the dark large dot!
+0: Okay

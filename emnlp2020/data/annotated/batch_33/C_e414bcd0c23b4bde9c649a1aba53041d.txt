@@ -1,0 +1,4 @@
+0: i have a very tiny medium shade dot with a black slightly larger dot down and to the right a tiny bit with a medium shade large dot between to the right of the 2
+1: I sea triangle different sizes with a dark small dot
+0: Okay, Let us try the darkest dot in that triangle.
+1: Okay

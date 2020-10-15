@@ -1,0 +1,9 @@
+T1	Markable 10 21	a black dot
+T2	Markable 39 48	some dots
+T3	Markable 78 86	that one
+T4	Markable 95 106	a small dot
+T5	Markable 92 94	it
+T6	Markable 116 124	two grey
+T7	Markable 185 205	the middle small one
+T8	Markable 146 154	one gray
+R1	Predicative Arg1:T4 Arg2:T5	

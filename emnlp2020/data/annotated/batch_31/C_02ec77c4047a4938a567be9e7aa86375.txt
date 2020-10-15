@@ -1,0 +1,4 @@
+1: 2 similar sized black dots with a dark gray dot in the middle
+0: I only have one black dot. It is directly to the right of a larger light grey dot.
+1: yes - click the black one
+0: okay

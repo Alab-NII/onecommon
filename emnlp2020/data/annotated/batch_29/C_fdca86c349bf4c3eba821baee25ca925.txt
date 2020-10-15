@@ -1,0 +1,4 @@
+1: Do you see a very light gray smaller dot?
+0: I has a very dark one to the top left
+1: Yeah so it's the very small light dot, and above it to the left is a very dark one
+0: Let us select the light small one below

@@ -1,0 +1,9 @@
+0: small light dot with bigger darker dot to the left of it?
+1: do not have
+0: what about large black dot with a smaller lighter dot to the right top of it?
+1: I have a large black dot to the right but no smaller lighter dot.
+0: does it have 2 smaller dots to the left? one is light one is dark grey
+1: yes
+0: are those 2 dots on top of the black big dot or under it?
+1: to the top
+0: lets select the big black dot

@@ -1,0 +1,5 @@
+T1	Markable 102 104	it
+T2	Markable 10 34	a medium sized black dot
+T3	Markable 40 53	a lighter one
+T4	Markable 154 167	the black one
+R1	Anaphora Arg1:T1 Arg2:T2	

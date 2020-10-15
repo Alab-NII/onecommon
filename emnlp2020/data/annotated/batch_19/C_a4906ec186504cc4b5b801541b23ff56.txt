@@ -1,0 +1,6 @@
+0: I see a little dark gray dot further away from all the other dots
+1: HIYA do you have a large very light one with a bigger darker one to it's lower left?... i don't have the little one far away
+0: I do have that one, yes. And below the little darker one is another smaller lighter gray one?
+1: oh wait... there is the little light one all the way on the left. then a dark little bigger one. then a med/grey lighter one up and to it's right, then the lighter one above to the right of that...
+0: I think I know which one you were looking at first. Light gray one with a darker gray to the left of it. I think we should try that one
+1: ok the lightest one on the upper right then... good luck!!

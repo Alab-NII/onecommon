@@ -1,0 +1,5 @@
+1: do you see two light ones very close to each other?
+0: I have a medium sized black dot. Very nearby is a slightly larger dark grey dot, down and to the right. I also see two small light ones close, yes. The lower one is to the left
+1: correct! let us pick this lower one ok?
+0: The lower small light grey dot right?
+1: yes

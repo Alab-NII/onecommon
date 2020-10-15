@@ -1,0 +1,16 @@
+T1	Markable 108 114	itself
+T2	Markable 141 144	one
+T3	Markable 238 248	the others
+T4	Markable 179 189	a triangle
+T5	Markable 195 211	a very small dot
+T6	Markable 259 269	a triangle
+T7	Markable 3 13	Light grey
+T8	Markable 39 42	any
+T9	Markable 99 100	1
+R1	Anaphora Arg1:T1 Arg2:T9	
+T10	Markable 167 175	3 larger
+R2	Predicative Arg1:T4 Arg2:T10	
+T11	Markable 252 253	4
+R3	Predicative Arg1:T6 Arg2:T11	
+T12	Markable 275 284	one small
+T13	Markable 310 322	the smallest

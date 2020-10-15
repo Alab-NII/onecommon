@@ -1,0 +1,6 @@
+T1	Markable 51 61	lowest dot
+T2	Markable 10 29	a cluster of 3 dots
+T4	Markable 38 48	a triangle
+T6	Markable 90 92	it
+T8	Markable 183 195	the dark one
+R1	Predicative Arg1:T4 Arg2:T2	

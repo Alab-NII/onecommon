@@ -1,0 +1,7 @@
+0: I see one large black dot. It's the biggest one i see
+1: I have one large black dot and one medium black dot. Is there anything near your large black dot?
+0: Not very close. To the left there is a light gray dot and to the right of the black dot is another dot, dark gray, about the same distance and size as the lighter dot
+1: Are those the only dots you have in your view? I have seven total
+0: They aren't the only ones. The big black was just most identifiable
+1: Ok, well I have a large black dot that has a small medium gray dot to the left
+0: yes. Choose big black

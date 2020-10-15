@@ -1,0 +1,8 @@
+T1	Markable 9 25	three large dots
+T2	Markable 70 83	the other one
+T3	Markable 41 54	the third one
+T4	Markable 106 110	that
+T5	Markable 112 133	two larger light grey
+T6	Markable 167 185	the third dark one
+T7	Markable 137 142	their
+R1	Anaphora Arg1:T7 Arg2:T4	

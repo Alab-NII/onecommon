@@ -1,0 +1,4 @@
+0: I have a tiny medium gray dot, alone.
+1: Hmmmm, Not sure if I have one that's alone.
+0: It makes a triangle with 2 other gray dots.
+1: I see it now

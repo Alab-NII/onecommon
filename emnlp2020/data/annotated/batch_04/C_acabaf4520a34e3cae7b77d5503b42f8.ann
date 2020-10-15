@@ -1,0 +1,16 @@
+T1	Markable 6 23	a cluster of dots
+T3	Markable 46 60	the fourth one
+T4	Markable 150 181	a semi-straight horizontal line
+T5	Markable 136 146	each other
+T6	Markable 337 346	the other
+T7	Markable 218 249	a small to medium dark-grey dot
+T8	Markable 382 419	the second from right (4th from left)
+T9	Markable 442 444	it
+T10	Markable 462 470	that one
+T2	Markable 108 109	5
+T11	Markable 113 123	the 7 dots
+A1	All-Referents T11
+R1	Anaphora Arg1:T5 Arg2:T2	
+R2	Predicative Arg1:T4 Arg2:T2	
+T12	Markable 282 303	a medium med-gray dot
+T13	Markable 351 356	the 5

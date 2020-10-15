@@ -1,0 +1,7 @@
+1: I see one very small dot that is the lightest
+0: Yes, me too. Should we select that one?
+1: Wait
+0: I'm selecting it.
+1: It the closest dot to it a large medium dark dot?
+0: Yes
+1: Okay

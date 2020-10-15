@@ -1,0 +1,9 @@
+T1	Markable 86 104	the huge black one
+T2	Markable 106 110	They
+T3	Markable 157 167	each other
+T5	Markable 3 14	large black
+T6	Markable 21 35	small med/grey
+T7	Markable 39 43	it's
+R1	Anaphora Arg1:T7 Arg2:T5	
+T8	Markable 68 72	that
+T9	Markable 169 178	big black

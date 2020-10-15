@@ -1,0 +1,3 @@
+0: 3 dots that form a face? nose is large and darkest?
+1: right eye is smallest and lightest?
+0: yes left eye is further up? if so click it!

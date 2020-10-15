@@ -1,0 +1,4 @@
+0: Largest dark one... has two med/light smaller ones off to it's right caddy-to each other
+1: doesn't it have smaller dark dot above it?
+0: yes it does... same dark color, but smaller. shall we pick the big dark one?
+1: yes good

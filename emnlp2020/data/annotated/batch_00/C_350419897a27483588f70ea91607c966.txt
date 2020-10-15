@@ -1,0 +1,7 @@
+0: grey medium by 7 oclock
+1: I have light medium dot, with darker but same size dot under it
+1: no i dont have that
+0: i think i have the one you are talking about
+1: so select darker gray or lighter gray?
+0: lighter
+1: sure

@@ -1,0 +1,57 @@
+T1	Markable 36 46	each other
+T2	Markable 48 51	One
+T4	Markable 155 167	your top one
+T5	Markable 202 211	the other
+T6	Markable 260 262	It
+T7	Markable 309 322	a lighter one
+T9	Markable 448 467	the lowest dark dot
+T10	Markable 379 397	the lower dark dot
+T11	Markable 3 21	Two very dark ones
+R1	Anaphora Arg1:T1 Arg2:T11	
+T12	Markable 98 111	three darkest
+T13	Markable 182 187	the 3
+R3	Anaphora Arg1:T13 Arg2:T12	
+T14	Spatial-Relation 22 35	right next to
+T15	Modifier 55 63	slightly
+T16	Spatial-Relation 64 71	smaller
+R4	Obj Arg1:T16 Arg2:T11	
+T17	Spatial-Relation 76 94	above/to the right
+R5	Obj Arg1:T17 Arg2:T11	
+T3	Spatial-Relation 104 111	darkest
+A1	No-Obj T3
+T18	Spatial-Relation 115 127	a curvy line
+A2	No-Obj T18
+T20	Spatial-Relation 128 147	going down to right
+A4	No-Obj T20
+T21	Spatial-Relation 155 163	your top
+T22	Spatial-Relation 171 181	the top of
+R2	Obj Arg1:T21 Arg2:T11	
+T23	Spatial-Relation 219 231	further away
+T24	Spatial-Relation 232 250	below to the right
+R6	Obj Arg1:T23 Arg2:T11	
+R7	Obj Arg1:T24 Arg2:T13	
+T25	Spatial-Relation 266 284	lower to the right
+R8	Obj Arg1:T25 Arg2:T11	
+T26	Spatial-Relation 286 305	To the direct right
+T27	Modifier 293 299	direct
+R9	Subj Arg1:T26 Arg2:T7	
+R10	Obj Arg1:T26 Arg2:T6	
+T28	Spatial-Relation 311 318	lighter
+R11	Obj Arg1:T28 Arg2:T6	
+T29	Modifier 331 339	slightly
+T30	Spatial-Relation 340 346	larger
+R12	Obj Arg1:T30 Arg2:T6	
+T31	Spatial-Relation 383 388	lower
+R13	Obj Arg1:T31 Arg2:T11	
+T32	Modifier 406 414	slightly
+T33	Spatial-Relation 415 427	to the right
+R14	Obj Arg1:T33 Arg2:T11	
+T34	Spatial-Relation 452 458	lowest
+R15	Obj Arg1:T34 Arg2:T12	
+A6	Ambiguous-Obj T34
+#1	AnnotatorNotes T14	near
+#2	AnnotatorNotes T17	above to the right
+A3	Canonical-Undefined T18
+A5	Canonical-Undefined T20
+A8	Mod-Certainty-Exactness T27
+A7	Canonical-Undefined T21

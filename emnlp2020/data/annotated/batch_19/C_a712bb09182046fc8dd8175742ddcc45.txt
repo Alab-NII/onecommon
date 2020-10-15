@@ -1,0 +1,7 @@
+0: hello
+1: i have a very tiny light gray dot and three under it
+0: Is the light gray dot just slightly of to the right of the center?
+1: mines to the left a bit do you have anything else that sticks out on yours
+0: I have a dark gray dot in the bottom left, I black dot in the top-ish left, and a dark gray smaller dot to the far right of the center
+1: lets try for the black i'm not sure what else sorry this ones harder to pick out
+0: ok

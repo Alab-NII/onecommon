@@ -1,0 +1,4 @@
+1: I see a triangle of two black and one grey dots
+0: They are all different sizes?
+1: Yes and the grey one is on the right
+0: Yes. Let's click the gray one.

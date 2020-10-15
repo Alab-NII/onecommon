@@ -1,0 +1,2 @@
+0: Do you see two large black dots? One has a smaller grey dot just below and to the right of it
+1: Yes, I do, great description. Lets take the large dark dot on top of the smaller grey one

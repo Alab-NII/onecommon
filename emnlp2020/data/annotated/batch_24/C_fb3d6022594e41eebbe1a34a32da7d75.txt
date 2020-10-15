@@ -1,0 +1,6 @@
+1: I have a med black dots between 2 larger light gray a smaller dark gray dot
+0: i am not sure if i have that
+1: do you have a kind of 3 one left to right going up to the right... Large Light gray, small dark gray, large med gray?
+0: not really. the only three i have in a group close together are two light grey dots that are the same size. one is above the other. to the right of the higher one is a black dot smaller than the two light grey dots.
+1: I have that choose the black?
+0: ok

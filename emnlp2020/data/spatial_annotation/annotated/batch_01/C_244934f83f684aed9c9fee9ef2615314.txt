@@ -1,0 +1,3 @@
+0: I see a medium dark dot on the upper left, do you see?
+1: what is near it? I have a few
+0: It is directly above the slightly darker medium dot.

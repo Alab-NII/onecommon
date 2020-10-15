@@ -1,0 +1,59 @@
+T1	Markable 31 45	a med grey one
+T2	Markable 81 83	it
+T3	Markable 87 89	it
+T4	Markable 117 121	they
+T5	Markable 232 252	the little black one
+T6	Markable 366 375	that line
+T7	Markable 331 351	the little black one
+T8	Markable 278 287	your line
+T10	Markable 442 468	that top black smaller dot
+T11	Markable 3 24	very little black one
+R1	Anaphora Arg1:T2 Arg2:T11	
+R2	Anaphora Arg1:T3 Arg2:T11	
+T12	Markable 107 116	two lines
+R3	Anaphora Arg1:T4 Arg2:T12	
+T13	Spatial-Relation-Markable 153 156	Top
+T14	Markable 178 189	Medium gray
+T15	Spatial-Relation-Markable 213 218	lines
+T16	Markable 291 304	the lower end
+R4	Anaphora Arg1:T6 Arg2:T8	
+T9	Spatial-Relation 26 30	with
+T17	Modifier 53 61	a little
+T18	Spatial-Relation 62 68	larger
+T19	Spatial-Relation 69 80	right below
+T21	Spatial-Relation 92 97	right
+R5	Subj Arg1:T21 Arg2:T1	
+R6	Obj Arg1:T21 Arg2:T3	
+T22	Spatial-Relation 126 134	vertical
+A1	No-Obj T22
+T23	Modifier 136 143	Kind of
+T24	Spatial-Relation 144 151	slanted
+A2	No-Obj T24
+T25	Spatial-Attribute 160 176	black and little
+T26	Spatial-Relation 190 208	to the lower right
+R7	Obj Arg1:T26 Arg2:T13	
+T27	Spatial-Attribute 308 313	light
+T28	Spatial-Relation 352 365	at the top of
+T29	Spatial-Relation 447 450	top
+T30	Spatial-Relation 457 464	smaller
+R8	Obj Arg1:T13 Arg2:T12	
+R10	Obj Arg1:T30 Arg2:T12	
+T31	Spatial-Relation 220 231	forming off
+#1	AnnotatorNotes T31	forming of
+T32	Spatial-Relation 257 277	the furthest left of
+R11	Obj Arg1:T32 Arg2:T8	
+A3	No-Subj-Markable T32
+T33	Spatial-Relation 111 116	lines
+A4	No-Obj T33
+A5	No-Obj T15
+T34	Spatial-Relation 283 287	line
+A6	No-Obj T34
+T35	Spatial-Relation 295 304	lower end
+R12	Obj Arg1:T35 Arg2:T8	
+T36	Spatial-Relation 371 375	line
+A7	No-Obj T36
+R13	Obj Arg1:T29 Arg2:T12	
+#2	AnnotatorNotes T19	near below
+A8	Canonical-Undefined T33
+#3	AnnotatorNotes T24	diagonal
+A9	Mod-Uncertainty-Approximation T23

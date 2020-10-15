@@ -1,0 +1,4 @@
+1: I see a large black dot near the top of the circle in the middle.
+0: yes
+1: Do you want to choose that one?
+0: yeah thats fine

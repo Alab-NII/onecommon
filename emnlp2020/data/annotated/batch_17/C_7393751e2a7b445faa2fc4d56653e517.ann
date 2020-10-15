@@ -1,0 +1,22 @@
+T1	Markable 115 126	a dark gray
+T3	Markable 145 149	none
+T4	Markable 164 181	a small black dot
+T5	Markable 203 223	any large black dots
+T6	Markable 397 405	one grey
+T7	Markable 357 371	one light grey
+T9	Markable 483 485	it
+T10	Markable 499 509	a wide one
+T11	Markable 580 596	the other 2 dots
+T12	Markable 559 561	it
+T13	Markable 620 628	that one
+T14	Markable 10 28	a dark grey circle
+T15	Markable 71 88	a U shape of dots
+A1	No-Referent T3
+T2	Markable 251 254	any
+T16	Markable 300 304	grey
+T17	Markable 322 335	One dark grey
+T8	Markable 450 466	a little c shape
+T18	Markable 471 474	a V
+R1	Anaphora Arg1:T10 Arg2:T9	
+T19	Markable 520 532	the top left
+T20	Markable 536 541	the V

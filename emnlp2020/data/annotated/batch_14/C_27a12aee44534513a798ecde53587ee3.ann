@@ -1,0 +1,15 @@
+T1	Markable 10 50	an almost horizontal line of 4 grey dots
+T3	Markable 186 198	2 light grey
+T4	Markable 214 225	2 dark grey
+T5	Markable 241 250	any black
+T6	Markable 350 354	they
+T7	Markable 405 412	the one
+T2	Markable 54 64	one darker
+T8	Markable 122 126	What
+A1	Generic T8
+T9	Markable 200 213	3 medium grey
+T10	Markable 275 276	2
+T11	Markable 286 294	the ones
+T12	Markable 358 368	themselves
+R1	Anaphora Arg1:T12 Arg2:T6	
+T13	Markable 396 397	2

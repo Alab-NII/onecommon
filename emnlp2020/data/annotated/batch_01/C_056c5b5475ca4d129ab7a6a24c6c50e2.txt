@@ -1,0 +1,7 @@
+0: Do you see a lonely light gray dot to the bottom left
+1: i see a group of 5 together, one is really light 3 are medium and one is dark
+0: i think i see the dark one. it's large, and to the upper right quadrant?
+1: yeah and below the dark one to the left is the really light one?
+0: yep
+1: which one? dark or light?
+0: dark

@@ -1,0 +1,20 @@
+T1	Markable 14 29	three dark dots
+T2	Markable 100 118	a light, small one
+T4	Markable 158 175	a light small one
+T5	Markable 204 223	two small dark dots
+T6	Markable 249 251	it
+T7	Markable 264 277	two dark dots
+T8	Markable 284 298	your light dot
+T11	Markable 348 363	the largest one
+T13	Markable 423 441	a medium light one
+T14	Markable 447 464	a medium grey one
+T15	Markable 466 486	The medium light one
+T16	Markable 562 591	The largest, medium/light one
+T17	Markable 635 643	that one
+T18	Markable 31 34	two
+T19	Markable 48 51	one
+R1	Anaphora Arg1:T6 Arg2:T4	
+T3	Markable 303 315	none of that
+A1	No-Referent T3
+T9	Markable 516 531	the medium grey
+R2	Anaphora Arg1:T17 Arg2:T16	

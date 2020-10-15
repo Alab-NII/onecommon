@@ -1,0 +1,6 @@
+0: I see a large light grey dot at the top of the circle
+1: Do you see two dots the same medium gray color near each other the bigger one on the left...I don't see the large gray dot
+0: yes I can see those two dots
+1: Is there a black dot to the right of the smaller one
+0: yes there is
+1: click the small gray dot

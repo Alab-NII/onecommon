@@ -1,0 +1,7 @@
+T1	Markable 55 58	one
+T2	Markable 92 95	one
+T3	Markable 154 164	the others
+T4	Markable 130 132	it
+T6	Markable 213 217	that
+T7	Markable 265 273	that one
+R1	Anaphora Arg1:T7 Arg2:T6	

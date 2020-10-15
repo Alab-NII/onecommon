@@ -1,0 +1,7 @@
+1: do you see a large, very black dot
+0: Yes
+1: thats the one
+0: Let's select it
+1: yes :)
+0: Is it slightly off center, but still central?
+1: yeah

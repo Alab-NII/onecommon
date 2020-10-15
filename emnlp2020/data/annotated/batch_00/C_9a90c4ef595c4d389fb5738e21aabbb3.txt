@@ -1,0 +1,4 @@
+0: 1 large black dot with a large grey dot to upper right
+1: yes
+0: the black dot has a dark grey to left down a little? yes? lets click black
+1: yes

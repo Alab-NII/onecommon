@@ -1,0 +1,4 @@
+1: cluster of 3 dots with 1 black dot and 2 grey dots.
+0: yes have that
+1: pick the black dot
+0: ok

@@ -1,0 +1,27 @@
+T1	Markable 68 70	it
+T3	Markable 153 158	a dot
+T4	Markable 246 258	the same dot
+T5	Markable 375 398	a large medium gray dot
+T6	Markable 496 507	the other 3
+T7	Markable 456 469	the small dot
+T8	Markable 3 16	one small dot
+T9	Markable 34 56	3 slightly larger dots
+R1	Anaphora Arg1:T1 Arg2:T8	
+T2	Markable 194 202	this one
+T10	Spatial-Relation 17 33	in the middle of
+T11	Modifier 36 44	slightly
+T12	Spatial-Relation 45 51	larger
+T13	Spatial-Relation 57 67	all around
+T14	Spatial-Relation 75 100	Toward the bottom, center
+A1	No-Obj T14
+R2	Subj Arg1:T14 Arg2:T8	
+R3	Subj Arg1:T14 Arg2:T9	
+T15	Spatial-Relation 159 193	above and to the left and right of
+T16	Spatial-Relation 399 417	on the upper right
+A3	No-Obj T16
+T17	Spatial-Relation 419 437	near the 2:00 mark
+A4	No-Obj T17
+T18	Spatial-Relation 479 495	in the middle of
+A2	Canonical-Undefined T15
+#1	AnnotatorNotes T17	right;above
+#2	AnnotatorNotes T13	outside

@@ -1,0 +1,5 @@
+1: Small black dot with a medium sized light grey dot aligned horizontally to the left, about an inch apart
+0: I see the tiniest dot is black off to the right
+1: your right may be my left, our circles are not aligned
+0: I see your your
+1: Ok. Select the small black dot

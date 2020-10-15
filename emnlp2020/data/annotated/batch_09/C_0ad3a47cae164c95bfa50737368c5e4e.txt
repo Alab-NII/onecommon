@@ -1,0 +1,7 @@
+1: i HAVE A MED BLACK DOT AT 2:00 POSITION DO U
+0: Hmm what is it close by?
+1: MAY NOT BE THE SAME JUST DESCRIBE WHERE DOTS R I HAVE TWO MED BLACK ONE AT 7:00 ONE TOWARDS LINE ONE NEAR CENTER DO U HAVE THOSE
+0: I have to that are kind of far away from each other
+1: R THEY MED BLACK NEAR 7:00
+0: Only one that is at 7. I'm guessing your bottom one is cut out of my view so I guess choose the top one out of the two that you have!
+1: OK CLICK IT

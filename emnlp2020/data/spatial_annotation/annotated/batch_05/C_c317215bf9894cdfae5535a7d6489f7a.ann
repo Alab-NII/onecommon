@@ -1,0 +1,38 @@
+T2	Markable 58 67	all three
+T4	Markable 9 14	three
+T6	Markable 124 134	three dots
+T8	Markable 176 186	Middle one
+T9	Markable 212 216	they
+T10	Markable 249 263	the middle one
+R2	Anaphora Arg1:T2 Arg2:T4	
+T5	Markable 80 83	one
+T1	Spatial-Relation 15 33	in a diagonal line
+A1	No-Obj T1
+T3	Spatial-Relation 34 56	going down to the left
+A2	No-Obj T3
+T7	Spatial-Attribute 68 79	medium grey
+T11	Spatial-Relation 84 97	on the bottom
+T12	Spatial-Relation 101 113	the smallest
+R1	Obj Arg1:T11 Arg2:T2	
+R3	Obj Arg1:T12 Arg2:T2	
+T13	Modifier 135 139	very
+T14	Spatial-Relation 140 145	close
+A4	No-Obj T14
+T15	Spatial-Relation 146 155	in a line
+A5	No-Obj T15
+T16	Spatial-Relation 156 174	going up and right
+A6	No-Obj T16
+T17	Spatial-Relation 176 182	Middle
+T18	Spatial-Relation 190 197	largest
+T19	Spatial-Relation 202 210	lightest
+T20	Spatial-Attribute 225 233	smallish
+T21	Spatial-Relation 253 259	middle
+R4	Obj Arg1:T21 Arg2:T4	
+#1	AnnotatorNotes T3	diagonal
+T22	Modifier 68 74	medium
+A3	Mod-Neutral T22
+#2	AnnotatorNotes T14	near
+#3	AnnotatorNotes T16	diagonal
+T23	Modifier 225 233	smallish
+R5	Mod Arg1:T23 Arg2:T20	
+A7	Mod-Uncertainty-Approximation T23

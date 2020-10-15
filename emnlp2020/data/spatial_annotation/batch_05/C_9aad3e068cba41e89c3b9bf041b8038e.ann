@@ -1,0 +1,10 @@
+T1	Markable 20 30	a triangle
+T3	Markable 32 39	top dot
+T4	Markable 55 63	left dot
+T5	Markable 89 93	that
+T6	Markable 106 129	a very black medium dot
+T7	Markable 153 158	a dot
+T8	Markable 225 241	the black bigger
+T9	Markable 3 9	3 dots
+R1	Predicative Arg1:T1 Arg2:T9	
+A1	No-Referent T5

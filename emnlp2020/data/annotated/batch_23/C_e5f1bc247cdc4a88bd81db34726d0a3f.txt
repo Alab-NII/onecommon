@@ -1,0 +1,5 @@
+0: tiny dark grey dot
+1: I got a large mid grey above a large light grey. You got that pair ?
+0: The dark one is slightly to the right??
+1: Yes!
+0: Choose the light one.

@@ -1,0 +1,13 @@
+T1	Markable 30 38	the rest
+T2	Markable 10 17	one dot
+T3	Markable 58 60	it
+T4	Markable 81 97	a small gray dot
+T5	Markable 138 156	the small grey dot
+T6	Markable 176 178	it
+T7	Markable 198 206	anything
+T8	Markable 259 272	the large dot
+T9	Markable 231 236	a dot
+T10	Markable 306 319	the large dot
+A2	Generic T3
+T11	Markable 114 131	a medium gray dot
+A3	No-Referent T7

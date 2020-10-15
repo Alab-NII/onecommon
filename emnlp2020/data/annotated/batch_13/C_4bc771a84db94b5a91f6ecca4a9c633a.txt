@@ -1,0 +1,10 @@
+0: Hello, I have one dot off to itself
+1: nope
+0: I have a line of 3 dots, one small in the middle
+1: I have two medium gray dots that are close and vertical. The one above is larger.
+0: I don't have that
+1: I only have two small dots. both of them are medium gray
+0: I have a small medium gray dot, next to a larger dot
+1: Is the small one lighter than the large one?
+0: Yes it is
+1: choose the small one.

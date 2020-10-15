@@ -1,0 +1,6 @@
+0: hi
+1: hi, I have a large dark dot toward the upper center region
+0: me too, there is only 2 dots total that have a large size correct?
+1: yes
+0: ok do we click on it?
+1: click on the upper one

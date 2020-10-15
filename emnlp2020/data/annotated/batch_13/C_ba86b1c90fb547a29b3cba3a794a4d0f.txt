@@ -1,0 +1,4 @@
+0: Do you see a big black dot with a tiny light dot next to it?
+1: yes I see that. is there a dot that is the same size as the black dot below those two?
+0: Yes. Pick the big black dot.
+1: ok i will choose that one.

@@ -1,0 +1,16 @@
+T1	Markable 45 47	it
+T2	Markable 3 14	Large black
+T3	Markable 20 33	smaller black
+R1	Anaphora Arg1:T1 Arg2:T2	
+T4	Markable 51 66	large black dot
+T5	Markable 78 92	tiny black dot
+T6	Markable 97 118	medium gray/shade dot
+T7	Markable 142 153	large black
+T8	Spatial-Relation 15 19	with
+T9	Spatial-Relation 20 27	smaller
+T10	Spatial-Relation 34 44	to left of
+T11	Spatial-Relation 67 77	in between
+R2	Obj Arg1:T9 Arg2:T2	
+R3	Obj Arg1:T11 Arg2:T5	
+R4	Obj Arg1:T11 Arg2:T6	
+A1	Canonical-Undefined T8

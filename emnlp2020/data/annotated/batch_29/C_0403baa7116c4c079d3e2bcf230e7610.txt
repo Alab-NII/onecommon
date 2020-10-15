@@ -1,0 +1,4 @@
+0: hi i have a triangle where the right top is darkest, i think black, bottom right is lightest and a littler larger, left one is in between the two and med/dark grey same size as black one
+1: 3 dots forming a smile, left same here, lets pick the dark one
+0: dark one top of my triangle?
+1: yeah

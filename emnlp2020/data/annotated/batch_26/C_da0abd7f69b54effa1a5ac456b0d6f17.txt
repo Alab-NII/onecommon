@@ -1,0 +1,4 @@
+1: two large almost black dots in a vertical line?
+0: yes. select the bottom one?
+1: if the bottom one is slightly darker and smaller then yes click the bottom one!
+0: yes!

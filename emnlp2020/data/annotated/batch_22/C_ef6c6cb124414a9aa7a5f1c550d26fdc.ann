@@ -1,0 +1,8 @@
+T1	Markable 34 45	a black dot
+T2	Markable 110 120	the others
+T3	Markable 74 94	the center black dot
+T4	Markable 166 174	that one
+T5	Markable 13 16	a y
+T6	Markable 3 7	mine
+R1	Predicative Arg1:T5 Arg2:T6	
+T7	Markable 126 137	my smallest

@@ -1,0 +1,12 @@
+T1	Markable 15 37	a large light gray dot
+T3	Markable 97 132	a slight smaller but very light dot
+T4	Markable 65 88	the darkest largest dot
+T5	Markable 150 158	that one
+T6	Markable 171 200	the lightest and smallest dot
+T7	Markable 238 240	it
+T9	Markable 249 253	they
+T10	Markable 297 324	the only lightest small dot
+T11	Markable 350 366	the smallest dot
+A1	No-Referent T5
+T2	Markable 209 229	a darker medium size
+R1	Anaphora Arg1:T7 Arg2:T6	

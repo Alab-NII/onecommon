@@ -1,0 +1,15 @@
+T1	Markable 51 58	the one
+T2	Markable 87 94	the one
+T3	Markable 141 145	They
+T4	Markable 189 193	that
+T5	Markable 199 224	two large light grey dots
+T6	Markable 226 229	one
+T7	Markable 287 291	that
+T9	Markable 303 320	your smallest dot
+T10	Markable 296 299	one
+T11	Markable 349 373	one very small black dot
+T12	Markable 391 393	it
+T13	Markable 14 22	two dots
+R1	Anaphora Arg1:T3 Arg2:T13	
+A1	No-Referent T4
+A2	No-Referent T7

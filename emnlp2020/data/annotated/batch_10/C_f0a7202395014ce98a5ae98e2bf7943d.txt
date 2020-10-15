@@ -1,0 +1,8 @@
+1: i have a medium black with a tiny grey right above it
+0: i see a dot that looks like that a lot. do you see a slightly larger and lighter dot to the left of those?
+1: those are on my far left side.
+0: should we confirm more or do you feel confident to select the tiny grey dot with me that appears to match yours?
+1: do you have anything above it to the slight right?
+0: at a slight angel that is towards the right I see large dark dot
+1: ok, i think we should choose the little light grey dot
+0: i think so too

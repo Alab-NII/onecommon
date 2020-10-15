@@ -1,0 +1,3 @@
+0: Hello, I see three dark dots that kind of form a triangle.
+1: I have 2 dark circles. One near the top and one near the bottom. There is a small gray circle near the top circle
+0: Yes, let's click that one.

@@ -1,0 +1,18 @@
+T1	Markable 30 40	MIDDLE DOT
+T2	Markable 137 148	a dark grey
+T3	Markable 88 100	a light grey
+T4	Markable 130 132	it
+T5	Markable 176 180	that
+T6	Markable 244 258	med grey small
+T7	Markable 241 243	it
+T8	Markable 341 355	the middle one
+T9	Markable 3 9	3 DOTS
+T10	Markable 57 64	LARGEST
+T11	Markable 68 82	tiny black dot
+R1	Anaphora Arg1:T4 Arg2:T11	
+A1	No-Referent T5
+T12	Markable 194 211	a tiny grey light
+T13	Markable 217 236	the 3 diagonal ones
+R2	Anaphora Arg1:T7 Arg2:T13	
+T14	Markable 260 275	large dark grey
+T15	Markable 277 293	light grey small

@@ -1,0 +1,5 @@
+1: I see a pyramid of all light grey dots
+0: I have a large grey dot
+1: is it above any other grey dots? also I have a very small very black dot too
+0: my dots range from dark to light gray and my large one is somewhat in the middle of the others
+1: let's try the large grey dot then

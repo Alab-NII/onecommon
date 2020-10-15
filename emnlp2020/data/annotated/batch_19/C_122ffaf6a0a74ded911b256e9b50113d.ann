@@ -1,0 +1,10 @@
+T1	Markable 18 28	a triangle
+T5	Markable 83 90	the one
+T6	Markable 128 136	that one
+T7	Markable 3 9	3 dots
+R1	Predicative Arg1:T1 Arg2:T7	
+T3	Markable 43 46	one
+T2	Markable 30 33	two
+T4	Markable 109 121	the smallest
+R2	Predicative Arg1:T4 Arg2:T5	
+R3	Anaphora Arg1:T6 Arg2:T5	

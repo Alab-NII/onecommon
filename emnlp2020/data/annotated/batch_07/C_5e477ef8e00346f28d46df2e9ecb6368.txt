@@ -1,0 +1,3 @@
+0: I see two medium sized dots close together. The one on top is darker, smaller and to the right.
+1: Yes! Let's click that one!
+0: Ok, we'll click the top one

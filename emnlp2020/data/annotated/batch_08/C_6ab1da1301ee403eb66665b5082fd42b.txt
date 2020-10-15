@@ -1,0 +1,5 @@
+1: I see two dots that are almost black and the exact same size
+0: I have a line that makes an U... starting at the top left... Light gray, down to the right light gray smaller, larger black, largest black, smaller black, and smallest light gray, larger black... I do have 2 LARGE black dots
+1: Oh yes I also have two very large dark dots that similar in size with no dots lying directly in between them
+0: yes
+1: K I guess click the one that is above and further right

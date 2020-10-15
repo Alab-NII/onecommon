@@ -1,0 +1,3 @@
+0: Hello! Where's your dot?
+1: one medium gray dot, with the same sized lighter gray dot slightly below and to the left?
+0: Got it. Click the darker one?

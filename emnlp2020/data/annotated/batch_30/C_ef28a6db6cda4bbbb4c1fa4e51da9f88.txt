@@ -1,0 +1,6 @@
+1: I have two similar med gray dot. the left one is smaller
+0: i dont have that
+1: The smallest dot i have is very black
+0: ok select it
+1: It has a much larger lighter one to the right
+0: yes select it

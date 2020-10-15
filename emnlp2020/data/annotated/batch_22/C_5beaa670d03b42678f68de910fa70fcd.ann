@@ -1,0 +1,10 @@
+T3	Markable 157 166	right one
+T4	Markable 137 144	top one
+T5	Markable 102 112	bottom one
+T6	Markable 95 100	three
+T7	Markable 202 217	the darkest one
+T8	Markable 3 18	dark, large dot
+T9	Markable 25 57	same color, slightly smaller dot
+T1	Markable 253 254	3
+T2	Markable 243 249	bottom
+R1	Predicative Arg1:T2 Arg2:T7	

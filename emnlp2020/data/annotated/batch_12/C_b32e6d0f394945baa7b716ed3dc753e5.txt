@@ -1,0 +1,3 @@
+0: large black dot by itself
+1: no black dot... There is a large gray dot in the center of four small lighter dots, 2 at it's 11 and 2 at it's 4.
+0: I think i have that. Choose the large one

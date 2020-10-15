@@ -1,0 +1,5 @@
+0: a really small dark grey one with a black larger one right above it
+1: one tiny dark below a larger dark
+0: yes toward the top?
+1: let us select this tiny dark one
+0: to be sure, you have a medium size lighter one off to it's right, about an inch away?

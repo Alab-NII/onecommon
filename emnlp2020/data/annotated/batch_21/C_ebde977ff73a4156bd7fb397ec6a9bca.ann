@@ -1,0 +1,19 @@
+T1	Markable 73 75	it
+T2	Markable 15 36	a med/small black one
+T3	Markable 97 114	2 light grey dots
+T4	Markable 162 166	they
+T5	Markable 216 228	the left one
+T6	Markable 314 327	the light one
+T7	Markable 276 287	a black one
+T8	Markable 471 483	NO other one
+T9	Markable 500 502	it
+T10	Markable 531 549	the left light one
+T11	Markable 42 60	a larger dark grey
+R1	Anaphora Arg1:T1 Arg2:T2	
+T12	Markable 115 122	smaller
+T13	Markable 236 240	they
+T14	Markable 339 357	the furthest right
+T15	Markable 377 395	the furthest right
+A1	No-Referent T15
+T16	Markable 404 422	the only light one
+A2	No-Referent T8

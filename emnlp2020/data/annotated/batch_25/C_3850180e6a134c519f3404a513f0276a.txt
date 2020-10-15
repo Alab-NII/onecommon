@@ -1,0 +1,6 @@
+0: a large grey dot with a tiny black dot above and right of it
+1: Is there another slightly larger, slightly lighter dot above the black one?
+0: not in my circle
+1: Then is there another dot that is the same size as the large grey one, but dark grey and located below it and to the left?
+0: yes
+1: Let's click the large grey dot, the first one that you mentioned.

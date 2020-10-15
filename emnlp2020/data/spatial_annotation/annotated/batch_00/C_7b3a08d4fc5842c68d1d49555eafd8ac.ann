@@ -1,0 +1,21 @@
+T1	Markable 44 59	a huge dark dot
+T2	Spatial-Attribute 77 86	tiny dots
+T3	Markable 93 109	a black tiny dot
+T4	Markable 65 73	the rest
+T5	Markable 155 176	a tiny light grey dot
+T6	Markable 213 217	that
+T8	Markable 242 266	that tiny light grey one
+T9	Markable 3 32	very tiny very light grey dot
+T10	Markable 113 125	the huge dot
+R2	Anaphora Arg1:T10 Arg2:T1	
+T11	Markable 180 183	its
+T7	Spatial-Relation 60 64	with
+T12	Spatial-Relation 88 92	with
+T13	Spatial-Relation 110 112	at
+T14	Spatial-Relation 128 138	11 o'clock
+T15	Spatial-Relation 184 195	bottom left
+R3	Subj Arg1:T15 Arg2:T5	
+R4	Obj Arg1:T15 Arg2:T11	
+#1	AnnotatorNotes T14	above;left
+R1	Subj Arg1:T14 Arg2:T3	
+R5	Obj Arg1:T14 Arg2:T10	

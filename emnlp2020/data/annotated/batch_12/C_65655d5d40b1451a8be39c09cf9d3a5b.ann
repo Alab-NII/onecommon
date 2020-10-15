@@ -1,0 +1,8 @@
+T1	Markable 10 14	four
+T2	Markable 18 34	a clustered line
+T3	Markable 36 43	The one
+T4	Markable 94 101	The two
+T5	Markable 138 145	the one
+T6	Markable 178 186	the rest
+T7	Markable 200 225	that lightest highest one
+R1	Predicative Arg1:T2 Arg2:T1	

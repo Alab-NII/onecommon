@@ -1,0 +1,5 @@
+0: I have three dots aligned almost vertically that slopes down and to the right. The middle dot is much lighter than the other two
+1: Is there a large darker grey dot to the right and above the bottom of that 3 dot formation you mentioned
+0: No, there is a cluster of three dots that form a triangle above the formation. Two of the dots are medium grey and one is light grey
+1: I see that triangle. Want to click the light grey dot?
+0: Yes

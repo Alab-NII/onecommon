@@ -1,0 +1,3 @@
+0: med sized black dot?
+1: yeah is there a small light gray to the left and up?
+0: yes! click the black dot!

@@ -1,0 +1,4 @@
+0: I have a small light grey dot and just below to the right a larger light grey dot
+1: Is there a larger, black dot above and to the left of the small light grey dot?
+0: Yes! I see that! Would you feel comfortable choosing the small one?
+1: Let's do it!

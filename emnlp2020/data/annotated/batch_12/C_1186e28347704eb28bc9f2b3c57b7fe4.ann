@@ -1,0 +1,6 @@
+T2	Markable 64 66	it
+T3	Markable 96 100	that
+T4	Markable 125 146	the black smaller one
+T5	Markable 3 25	black, kinda small one
+T1	Markable 43 60	light, larger one
+R1	Anaphora Arg1:T2 Arg2:T5	

@@ -1,0 +1,9 @@
+1: Do you have a larger almost black spot?
+0: yeah. are there 2 dots below that that are lighter grey
+1: Below and to the left?
+0: nahh. they are both to the right
+1: Do you have 2 light grey dots right about 2 medium grey dots?
+0: yeah is the right one darker?
+1: No, I have 2 light grey ones right above 2 medium grey ones.
+0: do you have 2 med grey ones where the left one is smaller than the right. they are aligned horizontally for me
+1: Yes, let's choose the one on the right that is slightly larger.

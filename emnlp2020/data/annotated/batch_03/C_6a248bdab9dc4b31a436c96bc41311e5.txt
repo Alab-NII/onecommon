@@ -1,0 +1,8 @@
+0: I have one small black do and one small light gray dot
+1: I do not have the small black dot. All of my dots are close together. I do have three dark gray/black dots that look like they are forming a vertical line with the middle one being slightly off on the left.
+0: do you have a med/large light grey dot?
+1: I have a large med-gray dot that is right next to a large dark-grey dot. The med-gray one is below the dark-gray one.
+0: do you have three black dots in a kinda boomerang shape?
+1: Yes. I do!
+0: let's do the top right black dot in that shape
+1: Ok. Sounds good

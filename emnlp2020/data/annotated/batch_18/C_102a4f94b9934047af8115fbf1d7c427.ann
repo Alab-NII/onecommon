@@ -1,0 +1,10 @@
+T1	Markable 30 35	black
+T2	Markable 10 26	a line of 3 dots
+T3	Markable 98 124	the first darkest grey dot
+T4	Markable 166 183	biggest black dot
+T5	Markable 194 207	the black one
+T6	Markable 36 48	smaller gray
+T7	Markable 49 54	black
+T8	None 88 91	had
+#1	AnnotatorNotes T8	hand
+T9	Markable 140 160	small light grey dot

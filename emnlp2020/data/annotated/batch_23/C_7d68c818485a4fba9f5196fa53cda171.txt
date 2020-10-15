@@ -1,0 +1,8 @@
+0: I have a small black circle very close to a large medium gray one.
+1: It is small black up and to the right of the medium grey one? If so, I see it.
+0: On mine it's below and to the left, but that could be because of our different views. About two inches to the right and above is there a medium gray large dot?
+1: No, I see a small dark grey spot, above and to the left of a small black dot, do you see that?
+0: No, sorry. What about a large black dot kind of by itself?
+1: No, I don't see that. What about a tiny dark grey spot under a medium sized lighter grey spot?
+0: I think that might be on my screen. Want to pick the smaller one?
+1: Yes

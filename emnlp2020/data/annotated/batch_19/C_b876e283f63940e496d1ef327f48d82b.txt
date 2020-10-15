@@ -1,0 +1,4 @@
+1: Do you see a small dark grey dot. Above and to the right of it is a medium grey dot, and below and to the left is a medium darker dot
+0: yep, pick that one
+1: The small dark dot?
+0: yeah

@@ -1,0 +1,5 @@
+0: I have only one light dot and it is also very large
+1: I see one large light grey dot
+0: yep, that's probably the one. Do you have any other light grey dots?
+1: thats it. the other ones are all smaller and darker
+0: let's pick it

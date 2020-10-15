@@ -1,0 +1,6 @@
+0: Do you see two dots the same size but one is lighter?
+1: 2 dots same size and near the same color med/light gray?
+0: Yes! Is the top to the right of the bottom one?
+1: yes...to the right and above and the top one is just a bit darker?...I also see a gray dot to the right of the top one
+0: Yes! Which one should we choose?
+1: pick the darker one of the pair we are talking about.

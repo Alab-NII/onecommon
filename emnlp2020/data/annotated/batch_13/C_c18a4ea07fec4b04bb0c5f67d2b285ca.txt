@@ -1,0 +1,4 @@
+0: cluster of three dots
+1: do you see 3 dots in a close triangle? the darkest dot is to the right
+0: yes, click darkest?
+1: yes

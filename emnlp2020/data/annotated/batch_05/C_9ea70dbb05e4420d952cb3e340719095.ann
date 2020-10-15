@@ -1,0 +1,8 @@
+T1	Markable 79 89	a triangle
+T2	Markable 95 111	two lighter ones
+T3	Markable 48 58	a dark dot
+T4	Markable 156 167	a small dot
+T5	Markable 188 190	it
+T6	Markable 3 18	small black dot
+R1	Anaphora Arg1:T5 Arg2:T4	
+T7	Markable 223 232	Mr lonely

@@ -1,0 +1,3 @@
+0: 2 dots aligned at an angle. upper left is tinier and darker
+1: Yes
+0: pick upper left

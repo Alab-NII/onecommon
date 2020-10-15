@@ -1,0 +1,59 @@
+T1	Markable 10 18	two dots
+T2	Markable 31 40	the other
+T3	Markable 21 24	one
+T4	Markable 42 53	the top one
+T5	Markable 64 77	the lower one
+T6	Markable 137 141	that
+T7	Markable 151 171	two light color dots
+T8	Markable 216 226	each other
+T9	Markable 173 177	they
+T10	Markable 228 239	the top one
+T11	Markable 269 289	another pair of dots
+T12	Markable 374 381	the dot
+T13	Markable 424 432	that dot
+T14	Markable 392 417	an upper to the right dot
+A1	No-Referent T6
+R1	Anaphora Arg1:T9 Arg2:T7	
+R2	Anaphora Arg1:T8 Arg2:T7	
+T15	Markable 296 305	the upper
+T16	Markable 338 357	both of those pairs
+T17	Spatial-Relation 25 30	below
+T18	Spatial-Relation 46 49	top
+T19	Spatial-Attribute 57 62	black
+T20	Spatial-Relation 68 73	lower
+R3	Obj Arg1:T20 Arg2:T4	
+T21	Spatial-Attribute 81 93	darkish grey
+T22	Modifier 95 101	Almost
+T23	Spatial-Relation 106 115	same size
+A2	No-Obj T23
+R4	Subj Arg1:T23 Arg2:T1	
+T24	Spatial-Relation 182 197	similar in size
+A3	No-Obj T24
+T25	Modifier 199 205	almost
+T26	Spatial-Relation 206 215	on top of
+T27	Spatial-Relation 232 235	top
+R5	Obj Arg1:T27 Arg2:T7	
+T28	Spatial-Relation 243 248	upper
+T29	Spatial-Relation 249 261	to the right
+R6	Obj Arg1:T28 Arg2:T7	
+R7	Obj Arg1:T29 Arg2:T7	
+T30	Spatial-Relation 300 305	upper
+R8	Obj Arg1:T30 Arg2:T11	
+T31	Spatial-Relation 277 281	pair
+A4	No-Obj T31
+T32	Spatial-Relation 306 317	to the left
+T33	Spatial-Relation 321 328	smaller
+R9	Obj Arg1:T32 Arg2:T11	
+R10	Obj Arg1:T33 Arg2:T11	
+T34	Spatial-Relation 352 357	pairs
+A5	No-Obj T34
+T35	Spatial-Relation 395 413	upper to the right
+T36	Spatial-Relation 436 448	lighter than
+R11	Obj Arg1:T35 Arg2:T7	
+R12	Obj Arg1:T36 Arg2:T7	
+T37	Spatial-Relation 449 454	lower
+A7	No-Subj-Markable T37
+R13	Obj Arg1:T37 Arg2:T13	
+T38	Modifier 81 88	darkish
+A8	Mod-Uncertainty-Approximation T38
+A6	Canonical-Undefined T34

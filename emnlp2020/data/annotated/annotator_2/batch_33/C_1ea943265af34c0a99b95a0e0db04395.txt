@@ -1,0 +1,8 @@
+1: i have three dark dots that form a triangle. the largest and darkest is on the left
+0: I think I might see what you mean but don't want to chance that yet...do you see a small light grey dot with a large light grey dot directly below it but about halfway down the length of the circle
+1: no, i dont see those dots. Do you have a large dark dot? what is it near?
+0: My larger darkest dot looks like it creates an orions belt with 2 smaller dots one being lighter and one being darker
+1: is the lighter dot in the belt on the left/higher...
+0: it is on the left but a tad bit lower...it's worth noting that large dark grey dot is the one I thought you were referring to being on the left of the triangle
+1: interesting... i'm not sure we are in the same place but we have limited time. how about we click the leftmost dot in the "belt"
+0: ok good luck

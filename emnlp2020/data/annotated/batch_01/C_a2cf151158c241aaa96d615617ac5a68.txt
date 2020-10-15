@@ -1,0 +1,6 @@
+1: I have 3 small almost black dots.
+0: i have 1 small, the other 2 are littler bigger
+1: Me too. Is the slightly smaller one directly above one and directly to the left of the other?
+0: yes
+1: Let's choose the slightly smaller one.
+0: ok

@@ -1,0 +1,16 @@
+T1	Markable 21 24	one
+T2	Markable 10 13	two
+T4	Markable 76 89	your smallest
+T5	Markable 138 140	it
+T6	Markable 123 131	anything
+T7	Markable 170 172	it
+T9	Markable 238 243	those
+T11	Markable 46 54	a medium
+T3	Markable 90 102	a light grey
+R1	Predicative Arg1:T3 Arg2:T4	
+T12	Markable 177 191	a black medium
+T8	Markable 209 227	a large light gray
+T10	Markable 251 271	the large light grey
+T13	Markable 278 287	the black
+T14	Markable 345 359	big light grey
+A1	Generic T6

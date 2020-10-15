@@ -1,0 +1,4 @@
+0: 2 large medium grey dots aligned horizontally, black smaller dot above
+1: are the two dark grey?
+0: Yes, dark grey, not black.
+1: ok click smaller black dot above

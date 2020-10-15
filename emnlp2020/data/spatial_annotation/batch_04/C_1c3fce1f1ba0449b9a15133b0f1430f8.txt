@@ -1,0 +1,3 @@
+1: I have a small black dot with a large light grey dot directly to its left horizontal
+0: yes, pick the black dot
+1: Sounds Good!

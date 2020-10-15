@@ -1,0 +1,16 @@
+T1	Markable 32 46	the other dots
+T2	Markable 77 91	that black dot
+T3	Markable 58 73	the closest dot
+T5	Markable 111 118	the dot
+T6	Markable 125 131	itself
+T8	Markable 189 199	each other
+T9	Markable 209 228	One black small dot
+T10	Markable 233 250	a bigger dot grey
+T11	Markable 257 278	the smaller black one
+T12	Markable 347 360	the black one
+T13	Markable 3 14	a black dot
+T14	Markable 96 108	none of them
+A1	No-Referent T14
+R1	Anaphora Arg1:T6 Arg2:T5	
+T4	Markable 148 165	any pairs of dots
+R2	Anaphora Arg1:T8 Arg2:T4	

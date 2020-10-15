@@ -1,0 +1,3 @@
+0: Tiny black dot, large black directly below it
+1: I have that. Shall we do the tiny dot?
+0: Let's click big one as not to misclick

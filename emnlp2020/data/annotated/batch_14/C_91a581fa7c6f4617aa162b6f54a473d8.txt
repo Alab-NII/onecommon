@@ -1,0 +1,7 @@
+0: I have a large dark grey dot close to a smaller light grey dot that is above and right of it.
+1: Do you have two medium equal sized dots in medium grey nearly horizontal?
+0: I don't see what you mentioned
+1: Sorry, I meant vertical. I don't see your dark plus light group.
+0: I see 2 similar size vertical. Is the bottom one blackish?
+1: Yes and that darker one is slightly to the right.
+0: click the darker

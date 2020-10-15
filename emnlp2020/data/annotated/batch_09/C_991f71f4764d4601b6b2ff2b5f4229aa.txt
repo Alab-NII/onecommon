@@ -1,0 +1,5 @@
+1: i have a set of dots shaped like the big sipper
+0: medium dark dot at about 5 pm border
+1: (that was big dipper) - i only have a cluster (dipper) of 6 dots with a larger dot above the handle
+0: is the bottom dot in the cluster a large grey dot
+1: yes!

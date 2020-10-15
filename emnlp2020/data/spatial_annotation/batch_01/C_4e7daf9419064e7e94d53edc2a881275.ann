@@ -1,0 +1,17 @@
+T1	Markable 10 13	two
+T2	Markable 26 40	The bottom one
+T3	Markable 44 68	a medium sized black dot
+T4	Markable 98 129	a slightly larger dark grey dot
+T5	Markable 76 78	it
+T6	Markable 140 147	a black
+T7	Markable 183 185	it
+T9	Markable 187 191	That
+T10	Markable 217 225	The grey
+T11	Markable 257 259	it
+T12	Markable 307 309	it
+T13	Markable 328 336	the grey
+T14	Markable 359 383	the slightly larger grey
+R1	Predicative Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T5 Arg2:T2	
+T15	Markable 152 158	a grey
+T8	Markable 239 247	The grey

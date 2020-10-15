@@ -1,0 +1,12 @@
+T1	Markable 14 31	two dark dots one
+T2	Markable 53 62	the other
+T3	Markable 82 93	2 tiny dots
+T4	Markable 106 116	each other
+T5	Markable 146 150	they
+T6	Markable 179 194	the largest dot
+T7	Markable 219 223	they
+T8	Markable 266 270	them
+T9	Markable 297 312	the largest one
+T11	Markable 66 77	1 large dot
+T12	Markable 158 162	they
+R1	Anaphora Arg1:T8 Arg2:T7	

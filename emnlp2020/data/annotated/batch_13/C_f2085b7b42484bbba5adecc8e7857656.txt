@@ -1,0 +1,5 @@
+1: Do you see a big Gray for near the center and there is two other dots next to it on the upper side one smaller on the left and another one darker black in the right
+0: dont know what you mean. do you see two light grey dots very similar in size diagonal to one another?
+1: No! DO you see a light gray dot on the left edge OR and black one near the right edge
+0: yes if the black one is med size click it!
+1: Ok

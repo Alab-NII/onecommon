@@ -1,0 +1,15 @@
+T1	Markable 89 100	a black one
+T2	Markable 143 146	one
+T3	Markable 181 184	one
+T4	Markable 115 129	two black dots
+T5	Markable 202 206	they
+T6	Markable 253 270	the black top one
+T7	Markable 3 16	tiny gray dot
+T8	Markable 34 43	dark grey
+T9	Markable 49 62	any neighbors
+A1	Generic T9
+T10	Markable 71 80	dark dark
+T11	Markable 131 135	both
+R1	Anaphora Arg1:T11 Arg2:T4	
+R2	Anaphora Arg1:T5 Arg2:T4	
+T12	Markable 223 236	anything else

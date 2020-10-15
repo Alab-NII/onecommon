@@ -1,0 +1,7 @@
+0: one small dot in the middle of 3 slightly larger dots all around it?
+1: Toward the bottom, center?
+0: my location is different than yours, but theres a dot above and to the left and right of this one i'm describing
+1: then no, we need to find the same dot in the same location
+0: no, our circles are different, same master, but where of the master differs.
+1: do you have a large medium gray dot on the upper right, near the 2:00 mark?
+0: no, lets pick the small dot that was in the middle of the other 3

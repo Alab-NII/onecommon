@@ -1,0 +1,8 @@
+1: Ok, I have one small light grey dot
+0: I see two large and darkest grey dots that are pretty far apart
+1: I have those too---is there anything between them?
+0: Hmm there is one smaller light grey dot that is almost in the middle but a little off to the right top
+1: Where are your dark dots in relation to the circle
+0: They are far apart with four dots in the space in between them
+1: Ok, I have two darker ones, one at about 9 o clock and one at about 6 o clock, there are three dots separating them
+0: Okay let's pick the dark larger dot that is furthest down and to the right

@@ -1,0 +1,4 @@
+0: one dot is larger than all the rest
+1: I have a large black dot as well, with a small black dot south and slightly east of it, and another medium black dot southeast as well.
+0: ok pick the larger one
+1: Is that cluster pretty far away from the others?

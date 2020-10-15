@@ -1,0 +1,16 @@
+T2	Markable 119 126	it self
+T3	Markable 87 103	a tiny black dot
+T4	Markable 140 142	it
+T5	Markable 175 177	it
+T6	Markable 148 164	a large pale dot
+T7	Markable 202 204	it
+T8	Markable 192 195	one
+T9	Markable 246 248	it
+T10	Markable 236 239	one
+T11	Markable 293 306	the small dot
+T12	Markable 342 348	itself
+T13	Markable 321 334	the small dot
+T14	Markable 15 41	a triangle shape of 3 dots
+R1	Anaphora Arg1:T2 Arg2:T3	
+R2	Anaphora Arg1:T5 Arg2:T4	
+R3	Anaphora Arg1:T12 Arg2:T13	

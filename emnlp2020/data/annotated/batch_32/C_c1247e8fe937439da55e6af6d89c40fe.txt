@@ -1,0 +1,13 @@
+0: I see two dark dots one above to the left the other, top one is bigger
+1: are they smaller
+0: The bottom one is smaller, they're both medium sized roughly
+1: Maybe an inch apart?
+0: They're somewhat close
+1: I'm not confident I see those. I have 3 dots in < shape with a lighter gray making a box with the 3 other dots.
+0: I don't see that, do you have 3 in a diagonal going down to the left, one on the top right is smallest
+1: Are they all dark
+0: not really
+1: Biggest dot on mine is medium dark gray
+0: Biggest on mine is black
+1: We shall choose that one?
+0: I guess

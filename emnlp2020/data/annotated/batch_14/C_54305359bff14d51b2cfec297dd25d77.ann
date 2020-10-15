@@ -1,0 +1,13 @@
+T1	Markable 10 24	two black dots
+T2	Markable 41 45	They
+T3	Markable 78 85	the one
+T4	Markable 157 175	the two black dots
+T5	Markable 185 197	several dots
+T6	Markable 224 235	any of them
+T7	Markable 248 270	a large light gray dot
+T8	Markable 277 303	a smaller, much darker dot
+T9	Markable 340 342	it
+R1	Anaphora Arg1:T2 Arg2:T1	
+T10	Markable 121 125	mine
+A1	Generic T6
+T11	Markable 361 382	the large lighter dot

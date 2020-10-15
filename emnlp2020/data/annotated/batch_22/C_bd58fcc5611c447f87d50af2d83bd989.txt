@@ -1,0 +1,4 @@
+1: DO you have 3 dots in a triangle cluster? alone by themselves.
+0: Yes! two light grey an one dark one??
+1: yes! my top most dot there is the darkest
+0: Mine too. Click that one

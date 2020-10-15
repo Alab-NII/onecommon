@@ -1,0 +1,5 @@
+1: I see an upside down triangle of dots. The one on the left is smallest.
+0: Is the one on the right the biggest and darkest?
+1: Yes.
+0: K. Let's click that darkest one!
+1: Okay!

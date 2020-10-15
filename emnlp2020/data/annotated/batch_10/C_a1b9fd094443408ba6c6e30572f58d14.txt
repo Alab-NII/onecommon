@@ -1,0 +1,5 @@
+1: I have a large dot that is obviously black and darker than the rest
+0: i have one of them as well want to click it
+1: Is it close to another dot that is the exact same size but lighter?
+0: yes
+1: K lets click that black one!

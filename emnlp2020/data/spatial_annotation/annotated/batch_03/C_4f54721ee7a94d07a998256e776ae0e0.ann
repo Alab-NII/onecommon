@@ -1,0 +1,33 @@
+T1	Markable 10 28	a lonely black dot
+T2	Markable 114 138	a group of 3 larger dots
+T4	Markable 189 193	them
+T5	Markable 157 160	one
+T6	Markable 204 209	those
+T7	Markable 216 231	the lighter one
+T8	Markable 46 56	larger dot
+T3	Markable 140 141	2
+R1	Anaphora Arg1:T4 Arg2:T3	
+T9	Spatial-Relation 12 18	lonely
+A1	No-Obj T9
+T10	Spatial-Relation 29 42	at the bottom
+A2	No-Obj T10
+T11	Spatial-Relation 46 52	larger
+R2	Obj Arg1:T11 Arg2:T1	
+T12	Spatial-Relation 57 67	same shade
+R3	Obj Arg1:T12 Arg2:T1	
+T13	Spatial-Relation 68 73	above
+T14	Modifier 78 86	slightly
+T15	Spatial-Relation 87 99	to the right
+R4	Obj Arg1:T13 Arg2:T1	
+R5	Obj Arg1:T15 Arg2:T1	
+T16	Spatial-Relation 127 133	larger
+A3	No-Obj T16
+T17	Spatial-Relation 146 152	darker
+T18	Modifier 164 170	slight
+T19	Spatial-Relation 171 178	lighter
+T20	Spatial-Relation 183 188	above
+T21	Spatial-Relation 220 227	lighter
+R6	Obj Arg1:T21 Arg2:T6	
+#1	AnnotatorNotes T12	same color
+T22	Spatial-Relation 116 121	group
+A4	No-Obj T22

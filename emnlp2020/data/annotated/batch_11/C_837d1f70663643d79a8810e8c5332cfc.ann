@@ -1,0 +1,22 @@
+T2	Markable 84 88	that
+T3	Markable 97 119	a very large black dot
+T4	Markable 140 163	a smaller dark gray dot
+T5	Markable 177 181	that
+T6	Markable 197 201	that
+T7	Markable 210 216	3 dots
+T8	Markable 220 235	a diagonal line
+T9	Markable 373 377	that
+T10	Markable 389 396	one dot
+T11	Markable 452 458	itself
+T12	Markable 466 468	it
+T14	Markable 9 38	a medium gray medium size dot
+A1	No-Referent T2
+A2	No-Referent T6
+R1	Predicative Arg1:T8 Arg2:T7	
+T1	Markable 253 260	Darkest
+T15	Markable 274 295	same size medium gray
+T16	Markable 314 344	a medium to light gray smaller
+A3	No-Referent T9
+T17	Markable 418 432	all the others
+R2	Anaphora Arg1:T11 Arg2:T10	
+T18	Markable 585 589	that

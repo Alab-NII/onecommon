@@ -1,0 +1,11 @@
+T1	Markable 27 37	a triangle
+T3	Markable 58 68	the others
+T4	Markable 39 42	One
+T5	Markable 75 86	the top one
+T6	Markable 109 111	it
+T8	Markable 148 161	two tiny dots
+T9	Markable 163 166	one
+T10	Markable 222 235	the light one
+T11	Markable 214 216	it
+T13	Markable 3 19	Cluster of three
+R1	Predicative Arg1:T1 Arg2:T13	

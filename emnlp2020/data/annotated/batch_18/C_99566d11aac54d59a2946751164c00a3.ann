@@ -1,0 +1,15 @@
+T1	Markable 45 47	it
+T2	Markable 51 67	a small grey dot
+T3	Markable 88 91	one
+T4	Markable 102 105	one
+T6	Markable 78 86	two dots
+T7	Markable 178 183	yours
+T8	Markable 202 227	above and to the left dot
+T9	Markable 263 270	the one
+T10	Markable 326 337	the bit one
+T11	Markable 309 322	the small dot
+T12	Markable 3 18	large black dot
+R1	Anaphora Arg1:T1 Arg2:T12	
+A1	No-Referent T7
+T5	Markable 185 200	small black dot
+T13	Markable 342 353	the big one

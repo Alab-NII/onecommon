@@ -1,0 +1,5 @@
+0: I see one very dark dot.
+1: I have a tiny medium gray. It is to the right and slightly below a large dark grey dot. Do you see those? My dark dot is directly to the left of that large dark grey
+0: I see no tiny medium dot, but I do see the darkest dot to the left of a large grey dot.
+1: Ok. Lets pick the dark medium dot on the left of the large medium grey
+0: Okay sounds good

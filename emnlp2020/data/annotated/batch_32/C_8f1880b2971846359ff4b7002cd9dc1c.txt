@@ -1,0 +1,2 @@
+0: i see 3 dots forming a triangle. one on the bottom right is the smallest and the darkest
+1: lets click it

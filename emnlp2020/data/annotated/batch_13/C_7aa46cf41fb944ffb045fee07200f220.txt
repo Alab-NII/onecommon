@@ -1,0 +1,4 @@
+0: Do you see two smaller dots the smaller one above the larger smaller dot
+1: what??? do you see 2 black dots next to each other? the left one is slightly higher and slightly bigger
+0: Yes I do
+1: lol ok let's pick the bigger black one?

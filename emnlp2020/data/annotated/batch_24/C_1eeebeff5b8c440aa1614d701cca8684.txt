@@ -1,0 +1,5 @@
+0: Large dark dot by itself
+1: doies it have a slightly lighter large dot above it
+0: Nope. how about a medium size, medium grey with light-grey, small dot above and to the left
+1: yes i have those two
+0: pick the small light one

@@ -1,0 +1,19 @@
+T1	Markable 50 58	the rest
+T2	Markable 10 25	one smaller dot
+T4	Markable 213 223	the others
+T5	Markable 171 185	the bottom dot
+T6	Markable 68 88	three dark gray dots
+T7	Markable 113 116	all
+R2	Anaphora Arg1:T7 Arg2:T6	
+T8	Spatial-Relation 14 21	smaller
+T9	Modifier 34 37	way
+T10	Spatial-Relation 38 49	darker than
+T3	Spatial-Relation 94 109	make a triangle
+A1	No-Obj T3
+T11	Spatial-Relation 121 143	similar size and shade
+#2	AnnotatorNotes T11	similar size; similar shade
+T12	Spatial-Relation 175 181	bottom
+T13	Modifier 194 200	barely
+T14	Spatial-Relation 201 212	bigger than
+A2	Mod-Extremity T9
+A3	Mod-Subtlty T13

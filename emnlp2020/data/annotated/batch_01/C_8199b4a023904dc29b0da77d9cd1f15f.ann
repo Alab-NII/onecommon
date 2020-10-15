@@ -1,0 +1,18 @@
+T1	Markable 84 97	a smaller dot
+T2	Markable 59 75	a large grey dot
+T3	Markable 140 159	the light grey dots
+T4	Markable 206 212	a kite
+T5	Markable 170 195	4 dark grey or black dots
+T6	Markable 245 250	those
+T7	Markable 325 336	the largest
+T8	Markable 346 359	top large one
+T9	Markable 10 34	one small light grey dot
+T10	Markable 101 104	its
+R1	Anaphora Arg1:T10 Arg2:T2	
+T11	Markable 111 115	both
+A1	No-Referent T3
+R2	Predicative Arg1:T4 Arg2:T5	
+T12	Markable 252 259	the top
+T13	Markable 272 283	the other 2
+T14	Markable 314 321	the top
+R3	Predicative Arg1:T7 Arg2:T14	

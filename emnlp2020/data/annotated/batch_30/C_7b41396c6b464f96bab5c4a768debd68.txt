@@ -1,0 +1,5 @@
+1: i see a large black dot by the edge of the circle
+0: no black. I have a curve of 3 vertical dark dots and then across on the other side of the circle 3 other grey/light grey dots
+1: umm. do you have a cluster of 3 dots all sorta same shade? I also have 2-3 tiny dots. tin tiny dots
+0: yeah the cluster is regular grey and has one big, one smaller below it and one big to the lower right of those two?
+1: yes. let's pick the bigger grey dot

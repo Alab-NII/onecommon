@@ -1,0 +1,6 @@
+1: do you have a tiny light grey dot, quite isolated?
+0: Do u have a large light grey circle very near the center of the circle?
+1: i have a large light grey circle (off center for me), but it's near an equally large medium grey circle
+0: yes, I have a isolated light grey circle
+1: do you have a tiny black circle? if not, let's go with the tiny light grey circle
+0: yes the tiny grey

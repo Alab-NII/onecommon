@@ -1,0 +1,18 @@
+T1	Markable 70 80	either one
+T2	Markable 9 29	two groups of 3 dots
+T3	Markable 48 59	a bent line
+T4	Markable 91 96	three
+T5	Markable 98 101	Two
+T6	Markable 151 164	another group
+T7	Markable 287 296	those two
+R1	Predicative Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T1 Arg2:T2	
+T8	Markable 119 129	the middle
+T9	None 116 118	an
+#1	AnnotatorNotes T9	and
+T10	Markable 170 180	the middle
+T11	Markable 195 206	the top one
+T12	Markable 226 236	the middle
+T13	Markable 242 252	the bottom
+T14	Markable 322 332	the middle
+T15	Markable 369 375	middle

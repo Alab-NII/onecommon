@@ -1,0 +1,5 @@
+0: i see 4 dots that look kind of like a 7
+1: Is the 7 kind of distorted?
+0: yes with the biggest dot where the line on the seven would start to go down
+1: Yes lets choose that one.
+0: ok

@@ -1,0 +1,8 @@
+T1	Markable 15 31	a tiny black dot
+T2	Markable 137 169	a cluster of a lot of other dots
+T3	Markable 117 133	a tiny black dot
+T5	Markable 181 188	the one
+T6	Markable 247 266	your tiny black one
+T7	Markable 210 221	a light dot
+T4	Markable 174 180	that's
+R1	Predicative Arg1:T5 Arg2:T4	

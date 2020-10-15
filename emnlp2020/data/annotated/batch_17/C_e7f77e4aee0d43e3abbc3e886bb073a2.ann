@@ -1,0 +1,11 @@
+T1	Markable 34 47	diagonal line
+T2	Markable 14 20	5 dots
+T4	Markable 134 143	the secon
+T5	Markable 59 80	one long line of dots
+T6	Markable 187 191	line
+T7	Markable 230 241	a light dot
+T8	Markable 266 274	the rest
+T9	Markable 293 306	that pale dot
+R1	Predicative Arg1:T1 Arg2:T2	
+T3	Markable 201 211	the second
+R2	Predicative Arg1:T7 Arg2:T3	

@@ -1,0 +1,31 @@
+T2	Markable 15 27	3 large dots
+T3	Markable 65 79	The middle one
+T4	Markable 94 115	Two medium sized dots
+T5	Markable 176 181	those
+T6	Markable 199 210	the top one
+T7	Markable 241 252	the top one
+T8	Spatial-Relation-Markable 137 140	Top
+T9	Spatial-Relation 28 37	in a line
+T10	Spatial-Relation 69 75	middle
+R2	Obj Arg1:T10 Arg2:T2	
+T11	Spatial-Relation 83 89	darker
+R3	Obj Arg1:T11 Arg2:T2	
+T12	Spatial-Relation 121 135	close together
+T13	Modifier 116 120	very
+R4	Mod Arg1:T13 Arg2:T12	
+T14	Spatial-Relation 153 164	to the left
+T15	Modifier 144 152	slightly
+R5	Mod Arg1:T15 Arg2:T14	
+R6	Obj Arg1:T8 Arg2:T4	
+R7	Obj Arg1:T14 Arg2:T4	
+T16	Spatial-Relation 214 220	darker
+T17	Spatial-Relation 203 206	top
+R8	Obj Arg1:T17 Arg2:T5	
+R9	Obj Arg1:T16 Arg2:T5	
+T18	Spatial-Relation 245 248	top
+R10	Obj Arg1:T18 Arg2:T5	
+T1	Spatial-Relation 38 63	sloping down to the right
+A1	No-Obj T9
+A3	No-Obj T12
+#1	AnnotatorNotes T1	diagonal
+A2	No-Obj T1

@@ -1,0 +1,5 @@
+1: One medium size black dot
+0: is there a smaller, lighter one above it, just slightly to the right of vertical?
+1: mine is the the right side of the circle so I cant see anything to the right
+0: ok, how about a small, light grey dot with a larger, same shade dot to its 2 oclock
+1: yes pick the small one

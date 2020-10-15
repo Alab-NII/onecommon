@@ -1,0 +1,9 @@
+T1	Markable 44 66	a larger dark grey dot
+T2	Markable 9 37	a dark, slightly smaller dot
+T3	Modifier 17 25	slightly
+T4	Spatial-Relation 26 33	smaller
+T5	Spatial-Relation 46 52	larger
+T6	Spatial-Relation 38 43	above
+A1	Ambiguous-Obj T4
+A2	Ambiguous-Obj T5
+R1	Obj Arg1:T5 Arg2:T2	

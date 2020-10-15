@@ -1,0 +1,9 @@
+T1	Markable 46 63	a horizontal line
+T2	Markable 10 22	2 large dots
+T3	Markable 109 116	the one
+T4	Markable 65 72	The one
+T5	Markable 131 153	the righthand side one
+T6	Markable 196 200	that
+R1	Predicative Arg1:T1 Arg2:T2	
+T7	Markable 219 238	that very light one
+R2	Anaphora Arg1:T5 Arg2:T3	

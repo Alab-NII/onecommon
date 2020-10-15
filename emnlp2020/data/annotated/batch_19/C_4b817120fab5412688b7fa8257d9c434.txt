@@ -1,0 +1,4 @@
+1: I have one dot that is medium gray, and is much smaller than all the others.
+0: I have a bunch of small ones, and big dark grey ones?
+1: I have two large dark gray ones, and then there's a lighter big one in between them, but just off a tiny bit to the left.
+0: take the largest one of the bunch

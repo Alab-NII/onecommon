@@ -1,0 +1,6 @@
+0: i see a triangle of dark dots. two large and a small.
+1: one small grey standing far from all
+0: i don't see that one
+1: a small dark of the triangle
+0: yes let's pick that one
+1: okay

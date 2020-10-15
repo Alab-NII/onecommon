@@ -1,0 +1,4 @@
+1: Do you see a large black dot with a small light grey one to the upper right?
+0: No but i have four dot on a circular line
+1: Sorry, I was meaning upper left. I do have those four I think
+0: Let us select the topmost small one

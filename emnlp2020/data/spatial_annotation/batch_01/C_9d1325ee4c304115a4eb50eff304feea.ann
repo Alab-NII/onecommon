@@ -1,0 +1,11 @@
+T1	Markable 91 101	a triangle
+T2	Markable 62 74	3 small dots
+T4	Markable 113 127	very light one
+T5	Markable 136 144	dark one
+T6	Markable 214 218	that
+T7	Markable 253 262	the three
+T8	Markable 3 14	all my dots
+A1	All-Referents T8
+R1	Predicative Arg1:T1 Arg2:T2	
+T3	Markable 187 191	dark
+T9	Markable 227 249	the top, lightest grey

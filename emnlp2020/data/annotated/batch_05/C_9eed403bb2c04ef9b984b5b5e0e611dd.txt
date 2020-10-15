@@ -1,0 +1,4 @@
+1: i have a triangle of three dark dots, the top two are darker and the right of those is smaller
+0: I have a dark medium dot with a dark smaller dot to the right and down, and a medium gray dot down and right
+1: is that down and to the right one a bit further away than those top two?
+0: yes. lets do the larger, darkest one

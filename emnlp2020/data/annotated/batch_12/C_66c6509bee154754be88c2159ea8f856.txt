@@ -1,0 +1,4 @@
+0: I have just 1 large light grey dot. It is next to a black dot that is slightly smaller
+1: I HAVE A BIG DOT AND SMALL DOT NEXT TO EACH OTHER
+0: click on bigger dot.
+1: OK

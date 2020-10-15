@@ -1,0 +1,8 @@
+T1	Markable 18 26	your dot
+T2	Markable 55 78	only one dark large dot
+T4	Markable 139 141	it
+T5	Markable 171 190	the large black dot
+T6	Markable 38 42	lots
+A2	All-Referents T6
+T3	Markable 91 115	a smaller light grey one
+A1	Generic T1

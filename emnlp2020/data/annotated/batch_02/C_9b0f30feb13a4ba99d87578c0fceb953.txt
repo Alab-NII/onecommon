@@ -1,0 +1,3 @@
+0: I have a medium sized dark grey in the left hand side, around 8 o clock.
+1: Nope, I have two dots same size with the one to the right lighter than the other.
+0: I have those! I'm gonna select the lighter one

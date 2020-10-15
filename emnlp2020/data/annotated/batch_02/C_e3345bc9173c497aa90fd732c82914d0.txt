@@ -1,0 +1,6 @@
+1: I have one light grey medium size all alone
+0: do you have a large light gray dot surrounded closely by darker dots? This is the only light gray I have
+1: yes
+0: and those darker dots form like a triangle around the big light gray?
+1: yes
+0: did you select the light gray in the middle?

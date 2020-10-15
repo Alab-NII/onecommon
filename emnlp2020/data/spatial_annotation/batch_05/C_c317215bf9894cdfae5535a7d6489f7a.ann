@@ -1,0 +1,10 @@
+T1	Markable 18 33	a diagonal line
+T2	Markable 58 67	all three
+T4	Markable 9 14	three
+T6	Markable 124 134	three dots
+T8	Markable 176 186	Middle one
+T9	Markable 212 216	they
+T10	Markable 249 263	the middle one
+R1	Predicative Arg1:T1 Arg2:T4	
+R2	Anaphora Arg1:T2 Arg2:T4	
+T5	Markable 80 83	one

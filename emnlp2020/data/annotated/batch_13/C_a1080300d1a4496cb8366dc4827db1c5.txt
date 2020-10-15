@@ -1,0 +1,3 @@
+0: do you see two dots of the same size right next to each other? dot on the left is a LITTLE bit lighter
+1: do you have 3 in a tight triangle... left bottom is largest? ... oh no, i have two right next to each other... they are med/grey. the right one is slightly higher... my triangle is down below them to their right far away
+0: i do have the triangle, pick the largest one

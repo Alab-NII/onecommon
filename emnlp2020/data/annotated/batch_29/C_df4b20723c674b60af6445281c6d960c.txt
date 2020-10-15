@@ -1,0 +1,3 @@
+0: Do you have a tiny black dot with two large ones, one to its upper left is dark gray the other to its upper right is light gray?
+1: Yes. Do you want to select the tiny black dot?
+0: Yep!

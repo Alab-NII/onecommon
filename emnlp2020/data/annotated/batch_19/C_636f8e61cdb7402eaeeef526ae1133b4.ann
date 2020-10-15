@@ -1,0 +1,9 @@
+T1	Markable 32 35	One
+T2	Markable 52 61	the other
+T3	Markable 88 90	it
+T4	Markable 100 104	them
+T5	Markable 195 209	the bottom one
+T6	Markable 3 9	2 dots
+R1	Anaphora Arg1:T3 Arg2:T1	
+T7	Markable 123 128	which
+A1	Generic T7

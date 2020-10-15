@@ -1,0 +1,34 @@
+T1	Markable 44 58	any black dots
+T2	Markable 77 102	a very tiny dark grey one
+T3	Markable 136 138	it
+T4	Markable 168 171	its
+T5	Markable 206 209	its
+T6	Markable 149 164	the closest dot
+T7	Markable 258 276	another larger dot
+T8	Markable 314 329	that larger one
+T9	Markable 3 23	very large black dot
+A1	No-Referent T1
+T10	Markable 121 128	nothing
+A2	No-Referent T10
+T11	Spatial-Relation 129 135	around
+T12	Spatial-Relation 153 160	closest
+T13	Spatial-Relation 172 178	larger
+T14	Modifier 183 191	slightly
+T15	Spatial-Relation 192 199	lighter
+T16	Spatial-Relation 200 202	up
+R1	Subj Arg1:T13 Arg2:T6	
+R2	Subj Arg1:T15 Arg2:T6	
+R3	Subj Arg1:T16 Arg2:T6	
+T17	Spatial-Relation 210 214	left
+R4	Subj Arg1:T17 Arg2:T6	
+R5	Obj Arg1:T17 Arg2:T5	
+T18	Spatial-Relation 228 254	further up and to the left
+R6	Obj Arg1:T18 Arg2:T6	
+T19	Spatial-Relation 266 272	larger
+R7	Obj Arg1:T19 Arg2:T6	
+T20	Spatial-Relation 285 299	the same color
+R8	Obj Arg1:T20 Arg2:T6	
+T21	Spatial-Relation 319 325	larger
+R9	Obj Arg1:T21 Arg2:T6	
+#2	AnnotatorNotes T11	near
+A3	Canonical-Undefined T12

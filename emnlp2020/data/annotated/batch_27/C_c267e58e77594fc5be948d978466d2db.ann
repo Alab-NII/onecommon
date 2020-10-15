@@ -1,0 +1,10 @@
+T1	Markable 10 26	a tiny black dot
+T2	Markable 76 80	that
+T3	Markable 53 69	a large grey dot
+T4	Markable 87 98	a black dot
+T5	Markable 114 127	that grey dot
+T6	Markable 181 203	the top tiny black dot
+T7	Markable 207 223	a tiny light dot
+T8	Markable 143 162	two tiny black dots
+R1	Anaphora Arg1:T2 Arg2:T1	
+T9	Markable 240 261	that top tiny blackie

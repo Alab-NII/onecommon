@@ -1,0 +1,6 @@
+1: i have a large black dot near 2:00 and a small one to the left of it all other dots are grey do u have either of these black dots
+0: I think so...is the larger of those two dots slightly lighter?
+1: they are both black i have four small grey 1 at 1:00 one at almost 3:00 other two are towards left near 8:00 and 9:00 large grey at 7:00 which matches yours
+0: Going back to the two black ones...is there a smaller, medium grey dot above it, maybe about an inch away?
+1: there will only be one object that we both have so they will not be surrounded by the same things
+0: They might be though. I say click the larger of the two black dots we first discussed.

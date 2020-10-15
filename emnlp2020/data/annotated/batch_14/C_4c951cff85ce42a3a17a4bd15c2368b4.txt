@@ -1,0 +1,3 @@
+0: Hi! Can you see a small triangle of dots in which the top is darkest? The bottom two are closest together
+1: Yes i have it
+0: Lets Pick the top! :)

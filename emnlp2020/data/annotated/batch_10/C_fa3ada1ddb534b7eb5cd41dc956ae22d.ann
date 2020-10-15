@@ -1,0 +1,9 @@
+T1	Markable 38 68	two larger and near black dots
+T2	Markable 93 111	the second largest
+T3	Markable 126 147	a lighter smaller dot
+T4	Markable 187 202	the darker dots
+T5	Markable 275 286	the darkest
+T6	Markable 306 308	it
+T7	Markable 83 87	that
+T8	Markable 224 235	the darkest
+R1	Anaphora Arg1:T5 Arg2:T8	

@@ -1,0 +1,14 @@
+T1	Markable 15 42	only one medium colored dot
+T2	Markable 128 135	the one
+T3	Markable 113 123	each other
+T4	Markable 181 199	the light grey one
+T5	Markable 63 81	two med sized dots
+R1	Anaphora Arg1:T3 Arg2:T5	
+T6	Modifier 82 96	almost exactly
+T7	Spatial-Relation 97 112	horizontal from
+T8	Spatial-Relation 136 148	on the right
+R2	Obj Arg1:T8 Arg2:T5	
+T9	Spatial-Attribute 152 161	dark grey
+T10	Spatial-Relation 200 211	on the left
+R3	Obj Arg1:T10 Arg2:T5	
+A1	Mod-Certainty-Exactness T6

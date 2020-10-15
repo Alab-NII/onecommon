@@ -1,0 +1,9 @@
+T1	Markable 10 33	a medium light gray dot
+T2	Markable 46 48	it
+T3	Markable 59 61	it
+T4	Markable 83 85	it
+T5	Spatial-Relation 34 38	by 9
+A1	No-Obj T5
+T6	Spatial-Attribute 62 74	medium sized
+#1	AnnotatorNotes T5	west
+T7	Modifier 62 68	medium

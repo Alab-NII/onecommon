@@ -1,0 +1,14 @@
+T1	Markable 10 26	2 big black dots
+T2	Markable 37 44	a group
+T3	Markable 121 132	a med black
+T4	Markable 166 170	mine
+T5	Markable 213 217	mine
+T7	Markable 336 353	the med black dot
+T8	Markable 133 141	med gray
+T9	Markable 146 161	large black dot
+T10	Markable 244 253	a v shape
+T11	Markable 309 318	which one
+A1	Generic T11
+T12	Markable 221 225	they
+R1	Predicative Arg1:T10 Arg2:T12	
+T13	Markable 283 287	what

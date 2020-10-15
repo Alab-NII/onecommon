@@ -1,0 +1,3 @@
+0: tiny light dot far right
+1: Pair of grey dots, larger one is below and to the right of a small lightest shade dot. Above both of those is a black dot
+0: yes lets click on the black dot

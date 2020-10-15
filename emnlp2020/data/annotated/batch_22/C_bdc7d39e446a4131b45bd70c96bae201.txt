@@ -1,0 +1,4 @@
+1: DO you have a cluster of dots that includes large dark dots?
+0: hmm yes! two very large dots almost on a vertical line?
+1: I see 2 sets of larger dots in close proximity. DO you have 2 close in color or 2 where one is much lighter than the other and slightly smaller?
+0: yes if the top one is slightly darker and to the right click that top one

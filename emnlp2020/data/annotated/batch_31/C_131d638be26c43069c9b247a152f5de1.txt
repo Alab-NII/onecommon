@@ -1,0 +1,5 @@
+1: Black smallish dot, left of it is a smaller grey dot
+0: I don't think I see that.
+1: Do you have two tiny dots same size horizontal from each other? Left one is lighter
+0: Yes.
+1: Pick left

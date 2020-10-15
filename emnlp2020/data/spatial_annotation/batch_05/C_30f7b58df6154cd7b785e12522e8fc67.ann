@@ -1,0 +1,7 @@
+T1	Markable 14 31	a large black dot
+T2	Markable 40 44	mine
+T3	Markable 70 81	The largest
+T4	Markable 210 212	it
+A1	All-Referents T2
+T5	Markable 108 119	the largest
+T6	Markable 157 171	a large medium

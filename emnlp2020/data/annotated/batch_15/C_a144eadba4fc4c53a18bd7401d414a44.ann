@@ -1,0 +1,13 @@
+T1	Markable 16 24	one grey
+T2	Markable 55 82	two large lighter grey dots
+T3	Markable 97 100	One
+T4	Markable 142 151	the other
+T5	Markable 185 203	the one large grey
+T6	Markable 228 243	a large grey on
+T7	Markable 264 279	a dark grey one
+T8	Markable 309 311	it
+T9	Markable 330 334	that
+T10	Markable 3 11	two dark
+A1	No-Referent T6
+#1	AnnotatorNotes T6	a large grey one
+R1	Anaphora Arg1:T8 Arg2:T7	

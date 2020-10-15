@@ -1,0 +1,26 @@
+T1	Markable 10 34	one very large black dot
+T2	Markable 36 60	one very small light dot
+T3	Markable 102 106	that
+T5	Markable 199 203	that
+T6	Markable 118 138	two large black dots
+T7	Markable 215 228	two dark dots
+T8	Markable 242 246	they
+T9	Markable 349 356	the one
+T10	Markable 415 422	the one
+T12	Markable 313 323	a triangle
+T13	Markable 434 447	the top point
+T14	Markable 325 329	they
+T15	Markable 283 293	three dots
+T16	Markable 492 519	that grouping of three dots
+T17	Markable 541 566	the bottom left light one
+T18	Markable 571 584	this triangle
+T19	Markable 614 616	it
+T20	Markable 655 674	the bottom left one
+T21	Markable 74 80	either
+A1	No-Referent T3
+R1	Anaphora Arg1:T5 Arg2:T6	
+R2	Anaphora Arg1:T8 Arg2:T7	
+R3	Predicative Arg1:T12 Arg2:T15	
+R4	Anaphora Arg1:T14 Arg2:T15	
+T4	Markable 391 400	the right
+T11	Markable 451 463	the triangle

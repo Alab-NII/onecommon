@@ -1,0 +1,4 @@
+0: i have a line of 2 dots... one is on top is smaller and darker... the other is larger and lighter... on the right
+1: I see one very larger and darker than the others. You?
+1: I see it. Select the larger, lighter one?
+0: ok

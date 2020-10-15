@@ -1,0 +1,3 @@
+1: Do you have 3 dots, all 3 are different colors but they are forming a triangle
+0: a dark gray dot, to the right of it is a slightly smaller grey dot?
+1: Yes, let's choose the smaller one

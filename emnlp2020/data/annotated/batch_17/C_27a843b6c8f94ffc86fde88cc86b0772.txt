@@ -1,0 +1,4 @@
+0: I have a triangle of 3 dots near the center
+1: Are they all of different tone
+0: yes the black is smallest with a medium gray on top and the largest is light gray
+1: Let us select the smallest

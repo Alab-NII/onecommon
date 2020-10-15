@@ -1,0 +1,40 @@
+T1	Markable 63 80	a large light one
+T2	Markable 110 112	it
+T3	Markable 160 168	anything
+T4	Markable 285 287	it
+T5	Markable 345 353	that dot
+T6	Markable 382 390	that one
+T7	Markable 413 415	it
+T8	Markable 403 406	one
+T9	Markable 15 45	one very small medium grey dot
+T10	Markable 84 87	its
+T11	Markable 172 176	it's
+T12	Markable 187 202	large dark grey
+A1	No-Referent T2
+T13	Markable 231 235	That
+A2	No-Referent T13
+T14	Spatial-Relation 88 92	left
+R1	Subj Arg1:T14 Arg2:T1	
+R2	Obj Arg1:T14 Arg2:T10	
+T15	Spatial-Relation 122 149	outside of my picture range
+A3	No-Obj T15
+T16	Spatial-Relation 177 182	right
+R3	Subj Arg1:T16 Arg2:T3	
+R4	Obj Arg1:T16 Arg2:T11	
+T17	Spatial-Relation 203 205	up
+T18	Spatial-Relation 206 218	to the right
+T19	Spatial-Relation 219 227	diagonal
+R5	Obj Arg1:T17 Arg2:T10	
+R6	Obj Arg1:T18 Arg2:T10	
+R7	Obj Arg1:T19 Arg2:T10	
+T20	Spatial-Relation 250 280	out of the range of my picture
+A4	No-Obj T20
+T21	Spatial-Relation 290 313	at the top of my circle
+A5	No-Obj T21
+T22	Spatial-Relation 407 412	above
+T23	Modifier 416 422	almost
+T24	Spatial-Relation 423 440	identical in size
+R8	Subj Arg1:T24 Arg2:T8	
+R9	Obj Arg1:T24 Arg2:T7	
+A6	Canonical-Undefined T15
+A7	Canonical-Undefined T20

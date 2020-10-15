@@ -1,0 +1,3 @@
+1: i have 2 large dots and a smaller dot making a slightly bent line ... the middle dots is larger than the others, the smallest is the same color as the middle one and below it
+0: Yes I see that too. Do you want to pick the largest one that's in the middle?
+1: yes

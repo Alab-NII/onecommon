@@ -1,0 +1,8 @@
+T1	Markable 59 73	all small dots
+T2	Markable 10 27	a large dark grey
+T3	Markable 46 54	the rest
+T4	Markable 84 112	a very large medium gray dot
+T5	Markable 164 172	that one
+T7	Markable 179 181	it
+R1	Predicative Arg1:T1 Arg2:T3	
+T8	Markable 133 145	all the rest

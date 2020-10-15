@@ -1,0 +1,9 @@
+T1	Markable 157 165	the rest
+T2	Markable 116 136	the small light grey
+T3	Markable 172 180	that one
+T4	Markable 3 21	a zigzag line of 4
+T5	Markable 41 55	large med gray
+T6	Markable 57 73	smaller med gray
+T7	Markable 75 86	small black
+T8	Markable 88 104	small light gray
+R1	Anaphora Arg1:T3 Arg2:T2	

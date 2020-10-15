@@ -1,0 +1,19 @@
+T1	Markable 10 20	three dots
+T2	Markable 28 44	a small triangle
+T3	Markable 55 68	two triangles
+T5	Markable 144 157	the other one
+T6	Markable 112 124	the triangle
+T7	Markable 70 73	one
+T9	Markable 162 173	bigger dots
+T10	Markable 78 107	a really small light gray dot
+T11	Markable 188 193	yours
+T12	Markable 211 214	two
+T13	Markable 283 292	those two
+T14	Markable 257 270	that triangle
+T15	Markable 233 253	the bottom right dot
+R1	Predicative Arg1:T2 Arg2:T1	
+T4	Markable 175 184	which one
+A1	Generic T4
+A2	Generic T11
+T8	Markable 198 209	bigger dots
+T17	Markable 316 343	the bigger bottom right one

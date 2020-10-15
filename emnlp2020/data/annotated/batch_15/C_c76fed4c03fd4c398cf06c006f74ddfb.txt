@@ -1,0 +1,2 @@
+0: do you have small black dot to the right of a larger black dot?
+1: Yes let's pick the smaller

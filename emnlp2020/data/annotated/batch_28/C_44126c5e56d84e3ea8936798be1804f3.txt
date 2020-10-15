@@ -1,0 +1,4 @@
+1: Medium black dot with slightly smaller black dot above it and a black dot to the right of it
+0: I do not see anything like that. I do have three dots on a row, two black and one dark gray.
+1: Yes, is the middle one the darkest? If so pick it
+0: yes

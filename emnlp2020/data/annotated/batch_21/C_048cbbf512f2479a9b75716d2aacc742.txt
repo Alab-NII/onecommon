@@ -1,0 +1,4 @@
+1: Do you see a tiny grey that is below and in the middle of 2 large grey?
+0: See a tiny lightest shade dot, above it are three dots two large one small
+1: Yes. Lets pick that tiny grey
+0: K

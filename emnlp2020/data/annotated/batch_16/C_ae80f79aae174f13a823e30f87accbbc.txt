@@ -1,0 +1,5 @@
+1: I see a very large very dark grey dot with a light grey small dot above it and a very tiny light grey dot below it
+0: is the one above it to the right?
+1: Yes it is slightly to the right. The tiny light grey dot below it has a larger (but not largest size) dark grey dot to its right as well
+0: It sounds the same! So, which one do we choose?
+1: Let's choose the dark grey largest size one in the middle

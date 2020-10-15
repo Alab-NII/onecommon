@@ -1,0 +1,3 @@
+0: I have a small dark grey dot on the right side near the bottom
+1: Hello, I have a tiny black dot by 3
+0: Me too! I'm selecting the tiny black dot

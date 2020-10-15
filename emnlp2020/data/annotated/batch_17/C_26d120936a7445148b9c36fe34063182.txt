@@ -1,0 +1,7 @@
+0: i have one very large and dark dot that is the highest of all of mine
+1: Hello, I only have one very light dot and one dark black dot. Do you have multiple of either
+0: i have no very light dots and several dark ones.
+1: Hmm, okay. I have one dark one that is near the top, is it mid sized?
+0: is there a same sized one that is almost directly below it, slightly to the left?
+1: Yes
+0: okay, lets choose that dark dot

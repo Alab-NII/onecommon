@@ -1,0 +1,6 @@
+1: i see a very light grey medium sized dot with no dots nearby
+0: large black with slightly smaller lighter dot down and to the right
+1: i think i see that, and above it and to the right is a smaller black dot
+0: yes, clicking
+1: clicked the large black dot?
+0: yes

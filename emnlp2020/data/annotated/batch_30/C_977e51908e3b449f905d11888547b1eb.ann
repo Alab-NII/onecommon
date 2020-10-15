@@ -1,0 +1,5 @@
+T1	Markable 32 42	a triangle
+T2	Markable 106 114	that one
+T3	Markable 3 13	three dots
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 51 67	the bottom point

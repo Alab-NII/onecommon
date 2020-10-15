@@ -1,0 +1,6 @@
+1: I have a lone small light grey on my very bottom?
+0: i do not. i have a very small black one is my lowest... do you have that above your light one?
+1: Okay your black one has one above it a bit that is medium grey?
+0: yeah it's kinda far away... there's one off to it's upper right... and one directly above over 2 inches up and slightly to the right
+1: Yes I see that. lets choose the small black one?
+0: got it

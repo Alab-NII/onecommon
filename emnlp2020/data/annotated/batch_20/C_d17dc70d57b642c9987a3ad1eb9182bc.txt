@@ -1,0 +1,5 @@
+1: I see three very dark dots. One is directly above the other and the third is off to the right slightly.
+0: do you have a triangle of dots or a trio of dots making an "\" shape
+1: I do not. I have two at the bottom they may be the start of that. Is the top lighter then the one under it?
+0: take the black-most medium one, that is sort of off to the right
+1: Okay.

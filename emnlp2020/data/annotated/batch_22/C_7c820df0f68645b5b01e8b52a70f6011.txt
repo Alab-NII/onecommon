@@ -1,0 +1,7 @@
+1: I have a medium gray medium size dot
+0: mine dots are mostly that color, all scattered to the left and bottom except one alone up top
+1: The darkest one makes a triangle with two light ones
+0: is one on the edge of the circle?
+1: The position is different for us
+0: do they form a line medium dark medium across
+1: Yes let us try the dark one

@@ -1,0 +1,3 @@
+1: i see 2 dots beside each other at an angle. upper right is light grey. low left is darker slight bigger dot
+0: dont have that. i have a big black dot. right and below that is a smaller black dot
+1: i have that. let's pick the big black dot then

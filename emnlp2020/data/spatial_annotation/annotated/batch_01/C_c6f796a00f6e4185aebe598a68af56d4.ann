@@ -1,0 +1,44 @@
+T3	Markable 234 257	a loose cluster of dots
+T4	Markable 291 298	a small
+T5	Markable 334 348	the medium one
+T6	Markable 473 485	the med dark
+T7	Markable 499 515	the lightest one
+T8	Markable 3 17	two light dots
+T9	Markable 40 55	Large black dot
+T10	Markable 61 86	a very large med grey dot
+T11	Markable 93 96	its
+R1	Anaphora Arg1:T11 Arg2:T9	
+T1	Markable 276 286	two medium
+T2	Markable 311 320	two small
+T12	Markable 325 333	a medium
+R2	Anaphora Arg1:T5 Arg2:T12	
+T13	Markable 370 375	thats
+T14	Markable 404 414	small dark
+T15	Markable 426 437	medium dark
+T16	Markable 442 453	light small
+T17	Spatial-Relation 18 34	about 11 o'clock
+A1	No-Obj T17
+T18	Spatial-Relation 56 60	with
+T19	Spatial-Relation 87 89	up
+T20	Spatial-Relation 97 110	diagonal left
+R3	Subj Arg1:T20 Arg2:T10	
+R4	Obj Arg1:T20 Arg2:T11	
+T21	Modifier 236 241	loose
+T22	Spatial-Relation 236 249	loose cluster
+A2	No-Obj T22
+T23	Spatial-Relation 258 274	around 3 o'clock
+A3	No-Obj T23
+T24	Spatial-Attribute 352 361	dark grey
+T25	Spatial-Relation 418 425	up from
+T26	Spatial-Relation 457 472	to the right of
+T27	Spatial-Relation 503 511	lightest
+R5	Obj Arg1:T27 Arg2:T2	
+R6	Obj Arg1:T27 Arg2:T12	
+T28	Spatial-Relation 516 528	to the right
+R7	Obj Arg1:T28 Arg2:T2	
+R8	Obj Arg1:T28 Arg2:T12	
+T29	Modifier 18 23	about
+A4	Mod-Uncertainty-Approximation T29
+#1	AnnotatorNotes T17	above;left
+A5	Mod-Subtlty T21
+#2	AnnotatorNotes T23	right

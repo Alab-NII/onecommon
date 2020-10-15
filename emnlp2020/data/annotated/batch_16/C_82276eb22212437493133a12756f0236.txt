@@ -1,0 +1,5 @@
+0: do you see two medium gray dots very close together where one looks to be slightly smaller than the large one?
+1: And the smaller one is diagonally above the other to the west?
+0: Yes
+1: they are both in the lower half of the circle
+0: we have different views so that doesn't help me but choose the larger of the two dots

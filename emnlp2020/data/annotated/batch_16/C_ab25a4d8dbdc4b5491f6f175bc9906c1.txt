@@ -1,0 +1,8 @@
+1: I have a large black dot between where a 4 and a 5 would be on a clock
+0: is there a smaller grey one slightly up and to the left of it?
+1: yes!
+0: great! want to pick the big one or the small one?
+1: is the grey one almost white?
+0: yes.
+1: ok lets pick the light colored one
+0: sounds good

@@ -1,0 +1,5 @@
+0: I see on small black dot near a large gray dot
+1: Is the large grey dot very light and to its left?
+0: no it's a dark gray dot. I also see a light large gray dot and there is a smaller darker dot very close and above it
+1: Yes! if the smaller darker one is up to its right click the smaller one!
+0: yes will do

@@ -1,0 +1,4 @@
+1: i have a large dark dot with a very close light dot just below it to the left
+0: It's a light gray dot smaller
+1: yes! lets click that one
+0: Okay

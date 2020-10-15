@@ -1,0 +1,3 @@
+0: i have 3 dots making a triangle, lower left is large and dark, the one on the top is med and light
+1: Hello , Mine is on the upper right
+0: we have different cuts, you see the triangle? if you do, lets select the darkest and largest of those 3

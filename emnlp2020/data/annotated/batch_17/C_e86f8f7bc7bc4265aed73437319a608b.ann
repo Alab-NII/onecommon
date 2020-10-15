@@ -1,0 +1,6 @@
+T1	Markable 31 41	each other
+T2	Markable 167 180	the lower one
+T3	Markable 3 21	2 medium grey dots
+R1	Anaphora Arg1:T1 Arg2:T3	
+T4	Markable 66 74	two dots
+T5	Markable 112 118	bottom

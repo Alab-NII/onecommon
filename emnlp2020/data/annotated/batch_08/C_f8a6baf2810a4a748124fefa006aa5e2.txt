@@ -1,0 +1,4 @@
+1: Two dots very close together to the right of the rest of the dots
+0: Is the top one smaller and almost black?
+1: Click on that one?
+0: SUre

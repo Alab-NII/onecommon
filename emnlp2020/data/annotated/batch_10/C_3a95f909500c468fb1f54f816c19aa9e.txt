@@ -1,0 +1,4 @@
+1: i have two dark dots near each other. the darkest is also the smallest of the two.
+0: Yes. The darker one is smaller correct?
+1: yes. lets select the darker one.
+0: 10/4

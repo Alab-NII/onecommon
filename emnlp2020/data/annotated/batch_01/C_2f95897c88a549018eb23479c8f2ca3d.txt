@@ -1,0 +1,7 @@
+0: Hello, I'm looking at a large medium shade dot that is above a medium dark shade dot
+1: On the left top of my circle, there are two dots, a bigger medium grey dot and to the right of it a smaller lighter grey dot
+0: ok lets work on yours
+1: do you think you see the light grey dot?
+0: I see something similar on the left top of my circle as well. is the smaller lighter grey dot to the right and a little bit south?
+1: yes it is. Should we select it?
+0: yes lets select the smaller light gray dot

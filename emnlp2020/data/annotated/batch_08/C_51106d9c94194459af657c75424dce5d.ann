@@ -1,0 +1,13 @@
+T1	Markable 15 46	two very dark medium sized dots
+T2	Markable 71 87	None of the dots
+T3	Markable 163 166	one
+T4	Markable 206 215	triangles
+T5	Markable 245 249	that
+T6	Markable 321 349	a dark gray medium sized dot
+T7	Markable 384 386	it
+A1	No-Referent T2
+T8	Markable 140 156	a triangle shape
+T9	Markable 192 200	all dots
+A2	All-Referents T9
+A3	Generic T4
+R1	Anaphora Arg1:T5 Arg2:T9	

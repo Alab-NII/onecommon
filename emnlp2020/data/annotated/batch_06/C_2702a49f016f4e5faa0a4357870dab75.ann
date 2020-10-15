@@ -1,0 +1,18 @@
+T1	Markable 40 57	a rogue black dot
+T3	Markable 68 91	one group of three dots
+T5	Markable 105 112	a group
+T6	Markable 145 152	a group
+T7	Markable 132 139	a small
+T8	Markable 216 234	3 of the same dots
+T9	Markable 261 265	They
+T10	Markable 380 387	the one
+T11	Markable 312 330	the right most one
+T12	Markable 348 365	the left most one
+T13	Markable 452 456	mine
+T14	Markable 468 483	the darkest one
+T15	Markable 10 34	two groups of three dots
+T16	Markable 118 127	two large
+T17	Markable 191 204	The one group
+T19	Markable 239 242	all
+R1	Anaphora Arg1:T19 Arg2:T8	
+T20	Markable 488 492	They

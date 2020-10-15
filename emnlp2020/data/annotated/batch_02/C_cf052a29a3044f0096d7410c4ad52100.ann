@@ -1,0 +1,18 @@
+T1	Markable 61 68	the dot
+T2	Markable 18 26	two dots
+T3	Markable 96 104	The dots
+T4	Markable 244 259	a diagonal line
+T5	Markable 195 212	three darker dots
+T6	Markable 278 282	that
+T7	Markable 304 322	that diagonal line
+T8	Markable 333 349	a large dark dot
+T9	Markable 454 458	them
+T10	Markable 363 376	your two dots
+T11	Markable 499 507	that one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T12	Markable 138 166	only one tiny light grey dot
+T13	Markable 181 184	its
+R2	Anaphora Arg1:T13 Arg2:T12	
+A1	No-Referent T6
+T14	Markable 404 438	a slightly smaller medium grey dot
+R3	Anaphora Arg1:T9 Arg2:T10	

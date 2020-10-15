@@ -1,0 +1,8 @@
+1: I see a large black dot on the edge.
+0: there is only one grey circle of the lightest shade
+1: I see another grey circle with a light shade, it is kind of alone but near it is a small dark circle?
+0: do you have one grey circle which is lighter than all other circles
+1: Yeah, it is that one. Not too small but still somewhat small.
+0: okay
+1: Is it that one?
+0: yes select

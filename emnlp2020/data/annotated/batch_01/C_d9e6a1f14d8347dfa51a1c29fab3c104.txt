@@ -1,0 +1,6 @@
+0: Hi, do you have a tiny black dot near the 1 oclock position?
+1: Do you have a large dark grey dot next to a smaller black dot?
+0: No, I have two large black dots
+1: I do have a smaller black dot at 1 o'clock position (sorry i can't reply until you did). I also have a lone large grey dot at 8 o'clock position
+0: I have the smaller one at 1 o'clock. Do you want to select that one?
+1: Yes that sounds like our best bet. :)

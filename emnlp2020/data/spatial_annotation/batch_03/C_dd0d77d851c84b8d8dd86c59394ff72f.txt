@@ -1,0 +1,6 @@
+1: I have only one large black dot do you?
+0: I do, it's near the center.
+1: The rest are all dark greys correct?
+0: Yes.
+1: lets select the large black dot
+0: Okay!

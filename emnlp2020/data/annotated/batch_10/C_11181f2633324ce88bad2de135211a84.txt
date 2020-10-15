@@ -1,0 +1,8 @@
+1: tiny lonely black dot on the right side at about 4 o clock
+0: There are two gray dots at the bottom of the circle
+1: i have nothing at the bottom of my circle sorry do you have a gray med size dot on 9 o clock
+0: I do not. I have a gray dot at 2 o'clock and a black dot near the middle.
+1: do you have any around one o clock
+0: No I don't. I have two gray dots just up and right from center, one lighter than the other
+1: lets try the lighter one you are talking about maybe it will be it
+0: ok, sounds good

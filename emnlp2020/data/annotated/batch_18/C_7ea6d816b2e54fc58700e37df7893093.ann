@@ -1,0 +1,4 @@
+T1	Markable 10 26	a tiny dark gray
+T2	Markable 74 76	it
+T3	Markable 78 80	it
+R1	Anaphora Arg1:T3 Arg2:T2	

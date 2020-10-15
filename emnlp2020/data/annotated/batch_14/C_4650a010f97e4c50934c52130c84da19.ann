@@ -1,0 +1,7 @@
+T1	Markable 90 97	the one
+T2	Markable 35 42	The one
+T3	Markable 58 84	a very large dark grey dot
+T4	Markable 147 149	it
+T5	Markable 157 169	the tiny one
+T6	Markable 10 13	two
+R1	Predicative Arg1:T3 Arg2:T2	

@@ -1,0 +1,5 @@
+1: top left two medium grey dots almost vertical?
+0: i have a lot of grey dots and one small dark dot
+1: is the small dark dot not near any other dots
+0: yes
+1: select that one

@@ -1,0 +1,17 @@
+T1	Markable 69 101	a slightly smaller light grey do
+T2	Markable 46 63	a large black dot
+T3	Markable 120 122	it
+T4	Markable 145 149	that
+T7	Markable 173 183	a triangle
+T8	Markable 291 307	a small grey dot
+T9	Markable 216 229	a large black
+T10	Markable 235 262	a slightly smaller grey dot
+T12	Markable 360 368	that one
+T13	Markable 6 11	which
+A1	Generic T13
+#1	AnnotatorNotes T1	a slightly smaller light grey dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+A2	No-Referent T4
+T5	Markable 161 162	3
+R2	Predicative Arg1:T7 Arg2:T5	
+T6	Markable 372 377	black

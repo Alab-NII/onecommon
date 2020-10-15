@@ -1,0 +1,3 @@
+1: I have two large medium grey dots close together. The one on the left is higher, darker and a little smaller.
+0: I see that I think. Is there another smaller dot down and to the left? They almost make a triangle?
+1: Yep! Lets click the smaller darker dot on top

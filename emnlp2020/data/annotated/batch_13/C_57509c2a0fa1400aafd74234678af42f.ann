@@ -1,0 +1,7 @@
+T1	Markable 3 32	Lonely, medium sized grey dot
+T2	Markable 66 78	a huge black
+T3	Markable 43 60	a tiny light gray
+T4	Markable 131 145	the larger one
+T5	Markable 82 86	it's
+R1	Anaphora Arg1:T5 Arg2:T3	
+T6	Markable 102 122	that exact situation

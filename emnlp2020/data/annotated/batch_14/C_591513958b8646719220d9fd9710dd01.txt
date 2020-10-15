@@ -1,0 +1,8 @@
+1: My tiniest dot is black. You?
+0: Same, can you see three that form a slightly wonky triangle
+1: Yes.
+0: Near which side of the circle is that located for you? for me its to the left and slightly below center
+1: Me too, actually. There is a slightly larger a lighter dot down and left of the Tiny black dot.
+0: is the tiny dot below and to the right of the three that make a triangle?
+1: Yes
+0: Ok i'll pick the tiny and dark one good luck amigo

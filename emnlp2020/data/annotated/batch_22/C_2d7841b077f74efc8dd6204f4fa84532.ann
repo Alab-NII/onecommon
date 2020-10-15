@@ -1,0 +1,5 @@
+T1	Markable 27 33	a line
+T2	Markable 67 77	bottom one
+T3	Markable 112 127	that bottom one
+T4	Markable 3 18	three dark dots
+R1	Predicative Arg1:T1 Arg2:T4	

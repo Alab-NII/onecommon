@@ -1,0 +1,6 @@
+1: Hello! Where's your dot?
+0: I see large black dot in a line with two smaller dots near the top of the circle
+1: I dont have that in mine. How about two small dots close to one another pointing down and to the left?
+0: those dots are near the top, medium gray pointing down and to the left , about the same color
+1: yes, lets pick the bottom one?
+0: sounds good will pick the bottom dot

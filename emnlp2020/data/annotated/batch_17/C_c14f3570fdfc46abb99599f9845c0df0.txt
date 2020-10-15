@@ -1,0 +1,4 @@
+0: I have a straight line of med and light gray dots. next to it is 2 black and dark gray dots in a line as well.
+1: Largest darkest dot, has a small dark dot at 11 o clock, do you see it. lighter dots to the right.
+0: Below the largest black dot is dark gray that just slightly smaller
+1: correct. lets click the largest black dot. nice work.

@@ -1,0 +1,5 @@
+1: a very tiny very light grey dot?
+0: No
+1: Okay a very large very dark grey dot? If not please describe something you see!
+0: Sorry it submitted before I was ready last time. Do you see 2 large-ish medium gray dots on atop the other?
+1: Yes! if the top one is slight darker and to the left click that one!

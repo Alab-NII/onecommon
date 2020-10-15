@@ -1,0 +1,27 @@
+T1	Markable 58 71	one black dot
+T2	Markable 82 98	a large gray dot
+T3	Markable 140 142	it
+T4	Markable 104 133	a smaller slightly darker dot
+T5	Markable 159 163	that
+T6	Markable 196 209	any other dot
+T7	Markable 168 181	the black dot
+T8	Markable 218 220	it
+T9	Markable 271 291	one of the gray dots
+T10	Markable 266 268	it
+T12	Markable 300 315	a tiny gray dot
+T13	Markable 453 465	the left one
+T14	Markable 427 440	the right one
+T16	Markable 476 480	that
+T17	Markable 495 519	the top right higher one
+T18	Markable 3 15	3 black dots
+T19	Markable 28 31	All
+R1	Anaphora Arg1:T19 Arg2:T18	
+R2	Anaphora Arg1:T3 Arg2:T2	
+A1	Generic T6
+R3	Predicative Arg1:T9 Arg2:T10	
+T11	Markable 320 350	2 large (same size/color) dots
+T20	Markable 365 369	that
+A2	No-Referent T20
+T21	Markable 388 420	2 small same size and color dots
+A3	Generic T10
+A4	No-Referent T5

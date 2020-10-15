@@ -1,0 +1,22 @@
+T1	Markable 9 21	one grey dot
+T2	Markable 169 185	the other 2 dots
+T3	Markable 67 86	a large darkest dot
+T4	Markable 189 197	the line
+T5	Markable 106 128	line of 3 smaller dots
+T7	Markable 131 141	middle dot
+T8	Markable 145 153	the dots
+T9	Markable 313 317	that
+T10	Markable 339 352	the first two
+T11	Markable 420 443	the largest darkest dot
+T12	Markable 380 401	the darker middle dot
+T13	Markable 473 496	the largest darkest dot
+T14	Markable 516 532	lighter grey one
+T15	Markable 539 543	that
+T16	Markable 568 581	the line of 3
+T17	Markable 34 46	all the rest
+R1	Anaphora Arg1:T4 Arg2:T5	
+T6	Markable 213 223	light grey
+T19	Markable 233 248	slightly darker
+T20	Markable 284 296	lighter grey
+R2	Anaphora Arg1:T9 Arg2:T19	
+T21	Markable 550 564	the middle dot

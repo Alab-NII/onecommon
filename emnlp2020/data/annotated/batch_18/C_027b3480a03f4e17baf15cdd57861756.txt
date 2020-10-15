@@ -1,0 +1,4 @@
+0: i have one small dark dot, one small medium grey dot, one large light grey dot
+1: I see the large light grey one, is it very light?
+0: it is. i also have very light med
+1: lets take the large one!

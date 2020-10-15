@@ -1,0 +1,16 @@
+T1	Markable 15 39	one small very light dot
+T2	Markable 56 67	a black dot
+T3	Markable 226 234	the dots
+T5	Markable 341 343	it
+T6	Markable 359 380	a very small gray dot
+T7	Markable 396 409	one black one
+T8	Markable 603 605	it
+T9	Markable 536 549	the black dot
+A1	Generic T3
+T4	Markable 256 269	the black one
+T10	Markable 304 314	a gray one
+R1	Anaphora Arg1:T5 Arg2:T4	
+T11	Markable 242 244	it
+A2	Generic T11
+R2	Anaphora Arg1:T8 Arg2:T9	
+A3	No-Referent T6

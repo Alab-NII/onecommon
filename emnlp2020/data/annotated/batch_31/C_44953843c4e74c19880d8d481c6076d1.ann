@@ -1,0 +1,8 @@
+T2	Markable 10 29	a cluster of 3 dots
+T5	Markable 138 168	a much smaller medium gray dot
+T6	Markable 51 77	A large very dark gray dot
+T7	Markable 131 133	it
+T8	Markable 83 104	a very light gray dot
+T9	Markable 196 208	that cluster
+T10	Markable 223 246	the large dark gray dot
+R1	Anaphora Arg1:T7 Arg2:T6	

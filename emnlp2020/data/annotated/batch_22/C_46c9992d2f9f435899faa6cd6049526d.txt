@@ -1,0 +1,2 @@
+1: I have a medium sized black dot, to the right of it is a larger dark gray dot.
+0: yes! if the one on the right is slightly lower, click that larger one

@@ -1,0 +1,5 @@
+1: I have a large med grey near top and a large lighter grey to the left of it do u have either of those
+0: no. I have two dots of the exact same size the lighter one is to the left of the darker one
+1: are they at the top of the circle
+0: mine are yes
+1: lets click on the lighter color one

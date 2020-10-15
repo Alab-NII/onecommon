@@ -1,0 +1,8 @@
+T2	Markable 15 42	2 dots of the same size one
+T3	Markable 59 68	the other
+T4	Markable 80 103	2 large same sized dots
+T5	Markable 115 130	a vertical line
+T6	Markable 132 139	the one
+T7	Markable 169 176	the one
+T8	Markable 210 224	the darker one
+R1	Predicative Arg1:T5 Arg2:T4	

@@ -1,0 +1,11 @@
+T1	Markable 25 31	a line
+T2	Markable 103 138	a very tiny, very light colored one
+T3	Markable 80 85	three
+T4	Markable 149 156	the one
+T5	Markable 146 148	it
+T6	Markable 9 21	four circles
+R1	Predicative Arg1:T1 Arg2:T6	
+T7	Markable 74 76	It
+R2	Predicative Arg1:T3 Arg2:T7	
+R3	Predicative Arg1:T4 Arg2:T5	
+T8	Markable 172 175	its

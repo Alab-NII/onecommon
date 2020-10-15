@@ -1,0 +1,8 @@
+T1	Markable 137 139	it
+T2	Markable 3 9	3 dots
+T3	Markable 20 26	a face
+R1	Predicative Arg1:T3 Arg2:T2	
+T4	Markable 28 32	nose
+T5	Markable 58 67	right eye
+T6	Markable 101 109	left eye
+R2	Anaphora Arg1:T1 Arg2:T6	

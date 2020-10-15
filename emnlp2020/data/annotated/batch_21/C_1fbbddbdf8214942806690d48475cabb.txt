@@ -1,0 +1,5 @@
+0: tiny very light grey dot?
+1: i see a triangle of dots on the bottom right with three circles of various sizes and shades.
+0: it the one further up the largest and darkest? if so click it
+1: the smallest one in the triangle is the lightest shade in the picture.
+0: yes@ click that one!

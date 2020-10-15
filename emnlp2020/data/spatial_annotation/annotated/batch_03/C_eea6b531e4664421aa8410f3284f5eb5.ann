@@ -1,0 +1,66 @@
+T1	Markable 42 59	a larger grey dot
+T2	Markable 142 144	it
+T3	Markable 91 114	a larger very light one
+T4	Markable 160 181	a larger med/grey one
+T5	Markable 200 209	same ones
+T6	Markable 231 235	that
+T7	Markable 285 306	a small dark grey dot
+T8	Markable 314 324	a triangle
+T10	Markable 396 414	the right-most one
+T11	Markable 418 430	the triangle
+T12	Markable 483 499	that largest one
+T13	Markable 3 14	a black dot
+T14	Markable 64 84	very small black one
+R1	Anaphora Arg1:T2 Arg2:T14	
+T15	Markable 185 190	their
+R2	Anaphora Arg1:T5 Arg2:T15	
+A1	No-Referent T6
+T16	Markable 239 243	they
+T17	Markable 503 515	the triangle
+T18	Spatial-Relation 16 38	below and to the right
+R4	Subj Arg1:T18 Arg2:T1	
+R5	Obj Arg1:T18 Arg2:T13	
+T19	Spatial-Relation 44 50	larger
+R6	Obj Arg1:T19 Arg2:T13	
+T20	Spatial-Relation 86 90	with
+T21	Spatial-Relation 93 99	larger
+T22	Modifier 115 123	directly
+T23	Spatial-Relation 124 129	above
+T24	Modifier 130 138	slightly
+T25	Spatial-Relation 147 152	right
+R7	Subj Arg1:T25 Arg2:T3	
+R8	Obj Arg1:T25 Arg2:T2	
+T26	Spatial-Relation 162 168	larger
+T27	Spatial-Relation 191 196	right
+R9	Subj Arg1:T27 Arg2:T4	
+R10	Obj Arg1:T27 Arg2:T15	
+T28	Spatial-Relation 253 270	on your left side
+A2	No-Obj T28
+T29	Spatial-Relation 307 313	inside
+T9	Spatial-Relation 353 367	different size
+A3	No-Obj T9
+T30	Spatial-Relation 372 388	lighter in color
+R3	Obj Arg1:T30 Arg2:T7	
+T31	Spatial-Relation 400 410	right-most
+#1	AnnotatorNotes T31	right
+T32	Spatial-Relation 415 417	of
+T33	Spatial-Relation 316 324	triangle
+A4	No-Obj T33
+T34	Spatial-Relation 422 430	triangle
+A5	No-Obj T34
+T35	Spatial-Relation 435 442	largest
+R11	Subj Arg1:T35 Arg2:T10	
+R12	Obj Arg1:T35 Arg2:T11	
+T36	Spatial-Attribute 448 456	med/grey
+R13	Subj Arg1:T36 Arg2:T10	
+T37	Spatial-Relation 488 495	largest
+T38	Spatial-Relation 500 502	of
+T39	Spatial-Relation 507 515	triangle
+A6	No-Obj T39
+T40	Modifier 448 456	med/grey
+A7	Mod-Neutral T40
+R14	Mod Arg1:T40 Arg2:T36	
+A8	Canonical-Undefined T28
+T41	Spatial-Relation 325 343	made by other dots
+A9	No-Obj T41
+A10	Canonical-Undefined T41

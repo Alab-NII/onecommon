@@ -1,0 +1,4 @@
+1: Black medium sized dot at 1030 o clock?
+0: a small black dot with slightly larger light grey dot above and slightly left
+1: No I dont have that
+0: i have the medium black dot at 1030

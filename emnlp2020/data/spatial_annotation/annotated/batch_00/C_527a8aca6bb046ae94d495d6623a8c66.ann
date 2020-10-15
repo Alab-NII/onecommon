@@ -1,0 +1,8 @@
+T1	Markable 15 38	a medium size black dot
+T2	Markable 94 119	a big big medium gray one
+T3	Spatial-Relation 128 133	alone
+A1	No-Obj T3
+T4	Spatial-Relation 138 155	On the right side
+A2	No-Obj T4
+R1	Subj Arg1:T4 Arg2:T2	
+T5	Spatial-Attribute 47 78	the only black on in the circle

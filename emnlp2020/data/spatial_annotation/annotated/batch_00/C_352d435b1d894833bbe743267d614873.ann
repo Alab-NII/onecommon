@@ -1,0 +1,34 @@
+T1	Markable 10 27	a darker gray dot
+T2	Markable 59 66	one dot
+T5	Markable 122 138	another tiny dot
+T6	Markable 88 90	It
+T7	Markable 192 202	those dots
+T9	Markable 291 299	the rest
+T10	Markable 254 268	the darker one
+T11	Markable 319 321	it
+T8	Markable 221 231	the darker
+T12	Markable 235 246	lighter one
+R1	Anaphora Arg1:T6 Arg2:T2	
+R2	Anaphora Arg1:T11 Arg2:T10	
+T3	Spatial-Relation 36 47	on the edge
+T4	Spatial-Relation 75 86	the darkest
+T13	Spatial-Attribute 98 103	small
+T14	Spatial-Relation 113 121	close to
+T15	Modifier 108 112	very
+R3	Mod Arg1:T15 Arg2:T14	
+T16	Spatial-Relation 147 160	the same size
+R4	Obj Arg1:T16 Arg2:T6	
+T17	Spatial-Attribute 165 182	a very light grey
+T18	Spatial-Relation 225 231	darker
+T19	Spatial-Relation 235 242	lighter
+R5	Obj Arg1:T18 Arg2:T7	
+R6	Obj Arg1:T19 Arg2:T7	
+T20	Spatial-Relation 258 264	darker
+R7	Obj Arg1:T20 Arg2:T7	
+T21	Spatial-Relation 277 290	furthest from
+T22	Spatial-Relation 12 18	darker
+A1	No-Obj T22
+A2	No-Obj T3
+A3	No-Obj T4
+T23	Modifier 93 97	very
+T24	Modifier 167 171	very

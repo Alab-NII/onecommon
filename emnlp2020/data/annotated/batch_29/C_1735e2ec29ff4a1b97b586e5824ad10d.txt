@@ -1,0 +1,3 @@
+0: i see a light grey dot. left of that is a big black dot
+1: i have a tiny dot with a bigger dot on its left
+0: I have that. if the tiny dot is black and darker. pick that

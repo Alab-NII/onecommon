@@ -1,0 +1,8 @@
+1: i have 2 very large dots with the top one slightly right and black, the bottom is dark grey
+0: in the middle i have a triangle its centered slightly to the left
+1: are the bottom the same size and color and the top lighter and smaller?
+0: bottom same are the same color but my top looks like it is as well just smaller
+1: yes i think it is the same one
+0: okay which one do you want to hit
+1: the top one
+0: ok

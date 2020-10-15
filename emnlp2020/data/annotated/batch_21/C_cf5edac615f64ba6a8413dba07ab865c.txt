@@ -1,0 +1,6 @@
+0: I have one really dark small dot.
+1: I have a small black one at the very top
+0: Yes, with a light one kind of below it.
+1: yes!
+0: Perfect, let's choose the dark one.
+1: ok

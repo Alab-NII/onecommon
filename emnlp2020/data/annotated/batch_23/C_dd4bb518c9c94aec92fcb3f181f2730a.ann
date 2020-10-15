@@ -1,0 +1,6 @@
+T1	Markable 166 179	the black one
+T2	Markable 3 20	cluster of 5 dots
+T3	Markable 29 52	a trapezoid kinda shape
+R1	Predicative Arg1:T3 Arg2:T2	
+T4	Markable 57 72	My blackest dot
+T5	Markable 106 119	a lighter dot

@@ -1,0 +1,2 @@
+1: do you have a tiny dot above and to the left of a larger light grey dot?
+0: okay let us select the tiny black dot above to the larger grey dot

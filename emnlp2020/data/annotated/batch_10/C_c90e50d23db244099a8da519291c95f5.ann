@@ -1,0 +1,20 @@
+T1	Markable 37 47	a triangle
+T2	Markable 107 113	3 dots
+T3	Markable 261 266	the 3
+T5	Markable 311 313	it
+T6	Markable 403 417	the other dots
+T7	Markable 356 360	they
+T8	Markable 465 467	it
+T9	Markable 430 442	a large grey
+T10	Markable 3 7	mine
+A1	All-Referents T10
+T11	Markable 53 63	large grey
+T12	Markable 64 74	small grey
+T13	Markable 79 97	medium sized black
+T14	Markable 132 144	The left eye
+T15	Markable 180 188	the nose
+T16	Markable 220 232	the left eye
+R1	Anaphora Arg1:T3 Arg2:T2	
+T17	Markable 278 283	thats
+R2	Anaphora Arg1:T5 Arg2:T17	
+T4	Markable 482 490	the nose

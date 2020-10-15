@@ -1,0 +1,4 @@
+0: I have a dot paler than the rest
+1: I dont see that. I do have a blog black dot to the left its a loner dot
+0: Oh I have one too, to the right. Medium in size?
+1: Yup I have that one also lets click it

@@ -1,0 +1,4 @@
+1: I have a large light dot with a small dark dot on the left of it
+0: All of my dots are tiny except for a light colored, medium sized gray dot
+1: which one did you select?
+0: The larger light gray dot

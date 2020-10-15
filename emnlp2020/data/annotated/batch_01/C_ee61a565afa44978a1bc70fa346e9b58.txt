@@ -1,0 +1,4 @@
+1: gray dot at 4'o clock
+0: hi do you have a large light gray dot right next to a medium, medium gray dot
+1: yes larger light gray is upper?
+0: that's the match i'm picking the large gray dot

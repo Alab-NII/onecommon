@@ -1,0 +1,19 @@
+T1	Markable 32 43	the top dot
+T3	Markable 97 101	that
+T4	Markable 110 116	a line
+T5	Markable 242 249	the one
+T6	Markable 174 187	a larger grey
+T7	Markable 158 172	one light grey
+T8	Markable 206 216	a dark one
+T10	Markable 257 259	it
+T12	Markable 278 286	the line
+T13	Markable 368 372	them
+T14	Markable 389 397	that one
+T16	Markable 3 11	triangle
+T17	Markable 59 68	the right
+A1	No-Referent T3
+T2	Markable 189 199	small grey
+R1	Anaphora Arg1:T10 Arg2:T8	
+T9	Markable 316 334	large med gray one
+T11	Markable 349 352	its
+R2	Anaphora Arg1:T11 Arg2:T9	

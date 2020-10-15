@@ -1,0 +1,4 @@
+0: I see a tiny light grey dot with a larger darker dot below it
+1: i see that
+0: Let's pick the tiny one
+1: ok great

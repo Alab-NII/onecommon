@@ -1,0 +1,10 @@
+T1	Markable 60 79	a med size gray dot
+T2	Markable 51 53	it
+T3	Markable 150 171	a small dark gray dot
+T4	Markable 227 229	it
+T5	Markable 177 201	a smaller light gray dot
+T6	Markable 241 269	a lonely tiny light gray dot
+T7	Markable 315 317	it
+T8	Markable 3 21	med size black dot
+T9	Markable 103 110	my gray
+R1	Anaphora Arg1:T4 Arg2:T3	

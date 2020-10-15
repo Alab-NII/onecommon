@@ -1,0 +1,40 @@
+T2	Markable 23 36	dark gray dot
+T3	Markable 67 80	the black dot
+T4	Markable 100 117	the dark gray dot
+T5	Markable 162 164	it
+T6	Markable 173 196	2 small light gray dots
+T7	Markable 206 216	each other
+T8	Markable 245 255	Bottom one
+T9	Markable 291 305	the bottom one
+T10	Markable 3 18	Large black dot
+T1	Markable 125 130	Mines
+A1	No-Referent T5
+R1	Anaphora Arg1:T7 Arg2:T6	
+T11	Spatial-Relation 37 46	same size
+A2	No-Obj T11
+R2	Subj Arg1:T11 Arg2:T10	
+R3	Subj Arg1:T11 Arg2:T2	
+T12	Spatial-Relation 81 99	at 10 o clock from
+T13	Spatial-Relation 135 148	2 or 3 oclock
+T14	Spatial-Relation 197 205	close to
+T15	Spatial-Relation 228 236	vertical
+A4	No-Obj T15
+T16	Modifier 221 227	almost
+T17	Spatial-Relation 245 251	Bottom
+R4	Obj Arg1:T17 Arg2:T6	
+T18	Spatial-Relation 259 263	dark
+R5	Obj Arg1:T18 Arg2:T6	
+#1	AnnotatorNotes T18	darker
+T19	Modifier 264 277	just a little
+R6	Mod Arg1:T19 Arg2:T18	
+T20	Spatial-Relation 295 301	bottom
+T21	Spatial-Relation 47 60	near the line
+A5	No-Obj T21
+R8	Subj Arg1:T21 Arg2:T10	
+R9	Subj Arg1:T21 Arg2:T2	
+A3	Ambiguous-Obj T13
+R10	Obj Arg1:T13 Arg2:T4	
+#2	AnnotatorNotes T12	left;above
+#3	AnnotatorNotes T13	right
+R11	Obj Arg1:T20 Arg2:T6	
+#4	AnnotatorNotes T21	outside

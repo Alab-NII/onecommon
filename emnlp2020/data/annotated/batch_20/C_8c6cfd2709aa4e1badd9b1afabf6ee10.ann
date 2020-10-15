@@ -1,0 +1,13 @@
+T1	Markable 9 31	only one dark gray dot
+T2	Markable 90 94	that
+T3	Markable 131 143	The left one
+T4	Markable 219 229	a triangle
+T5	Markable 197 202	three
+T6	Markable 257 260	one
+T7	Markable 292 295	one
+T8	Markable 341 355	the larger one
+A1	No-Referent T2
+T9	Markable 103 117	2 smaller dots
+R1	Predicative Arg1:T4 Arg2:T5	
+T10	Markable 231 234	Two
+T11	Markable 308 319	the other 2

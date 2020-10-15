@@ -1,0 +1,4 @@
+0: I have a large light dot, with small same color dot above it to the right
+1: i see it -- wanna pick large light dot?
+0: sure
+1: ok

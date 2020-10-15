@@ -1,0 +1,11 @@
+T1	Markable 45 52	the dot
+T2	Markable 66 77	all of mine
+T3	Markable 99 121	a very small black dot
+T4	Markable 127 145	a larger black dot
+T5	Markable 162 164	it
+T6	Markable 179 183	that
+T7	Markable 195 202	the one
+T8	Markable 9 26	a dark black spot
+R1	Anaphora Arg1:T1 Arg2:T8	
+A1	Generic T2
+R2	Anaphora Arg1:T5 Arg2:T3	

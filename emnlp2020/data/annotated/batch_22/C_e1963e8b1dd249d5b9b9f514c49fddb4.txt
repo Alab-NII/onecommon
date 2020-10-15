@@ -1,0 +1,6 @@
+1: I have a very small black lonely dot
+0: close to edge?
+1: we have different angles so i see it in the center, there are 2 lighter dots under it to the left of it
+0: are there two light dots under to the right too?
+1: yes exactly, lets pick small black one
+0: cool

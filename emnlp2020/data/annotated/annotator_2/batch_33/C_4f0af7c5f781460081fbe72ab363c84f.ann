@@ -1,0 +1,17 @@
+T1	Markable 28 46	a larger black dot
+T2	Markable 76 80	that
+T3	Markable 92 98	4 dots
+T4	Markable 225 259	a slightly smaller and lighter dot
+T6	Markable 135 162	the top three dots of the Y
+T7	Markable 316 324	the left
+T8	Markable 273 296	the bottom dot of the V
+T9	Markable 3 22	two tiny black dots
+T10	Markable 50 55	their
+R1	Anaphora Arg1:T10 Arg2:T9	
+A1	No-Referent T2
+T11	Markable 109 112	a Y
+R2	Predicative Arg1:T11 Arg2:T3	
+T12	Markable 167 188	the top left most dot
+T5	Markable 206 219	the top right
+R3	Predicative Arg1:T4 Arg2:T5	
+T13	Markable 355 377	the top right most dot

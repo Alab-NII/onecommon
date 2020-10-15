@@ -1,0 +1,5 @@
+0: two medium grey nearly touching one is above and to the left
+1: No, I have a black dot next to a tiny light dot
+0: is the black dot much bigger than the other
+1: Yes
+0: select the smaller dot

@@ -1,0 +1,86 @@
+T1	Markable 42 60	a tiny lighter one
+T2	Markable 15 36	a large dark grey dot
+T3	Markable 92 102	three dots
+T5	Markable 123 134	the top two
+T6	Markable 174 188	the lowest one
+T7	Markable 219 223	that
+T9	Markable 243 259	a large dark one
+T10	Markable 265 293	another slightly smaller one
+T11	Markable 360 364	they
+T13	Markable 427 452	a very tiny dark gray dot
+T14	Markable 476 487	a large one
+T16	Markable 456 462	itself
+T18	Markable 603 616	any tiny dots
+T20	Markable 713 730	the diagonal line
+T21	Markable 839 860	the bottom darker one
+T22	Markable 864 882	your diagonal line
+T23	Markable 64 67	its
+A1	No-Referent T7
+T8	Markable 316 319	its
+R2	Anaphora Arg1:T8 Arg2:T9	
+R3	Anaphora Arg1:T16 Arg2:T13	
+T12	Markable 513 516	its
+T17	Markable 532 562	a medium sized medium gray one
+T15	Markable 570 573	its
+R4	Anaphora Arg1:T12 Arg2:T13	
+R5	Anaphora Arg1:T15 Arg2:T13	
+A2	No-Referent T18
+T24	Markable 640 669	a piece of your diagonal line
+T19	Spatial-Relation 37 41	with
+T25	Spatial-Relation 49 56	lighter
+T26	Spatial-Relation 68 80	bottom right
+R6	Subj Arg1:T26 Arg2:T1	
+R7	Obj Arg1:T26 Arg2:T23	
+T4	Spatial-Relation 103 121	in a diagonal line
+A3	No-Obj T4
+T27	Spatial-Relation 127 130	top
+R1	Obj Arg1:T27 Arg2:T3	
+T28	Spatial-Relation 139 153	the same color
+A4	No-Obj T28
+T29	Modifier 154 158	very
+T30	Spatial-Attribute 159 169	dark grey.
+T31	Spatial-Relation 178 184	lowest
+R8	Obj Arg1:T31 Arg2:T3	
+T32	Spatial-Attribute 192 197	black
+T33	Spatial-Relation 260 264	with
+T34	Modifier 294 304	a tiny bit
+T35	Modifier 273 281	slightly
+T36	Spatial-Relation 282 289	smaller
+T37	Spatial-Relation 305 312	lighter
+T39	Spatial-Relation 320 340	immediate upper left
+R9	Subj Arg1:T39 Arg2:T10	
+R10	Obj Arg1:T39 Arg2:T8	
+T40	Modifier 369 376	kind of
+T41	Spatial-Relation 377 386	far apart
+A5	No-Obj T41
+T42	Spatial-Relation 453 455	by
+T43	Spatial-Relation 464 468	with
+R11	Obj Arg1:T43 Arg2:T14	
+R12	Obj Arg1:T43 Arg2:T17	
+T44	Spatial-Relation 488 505	of the same color
+T45	Spatial-Relation 506 509	far
+T46	Spatial-Relation 517 528	upper right
+R13	Subj Arg1:T46 Arg2:T14	
+R14	Obj Arg1:T46 Arg2:T12	
+T47	Spatial-Relation 563 566	far
+T48	Spatial-Relation 574 584	lower left
+R15	Subj Arg1:T48 Arg2:T17	
+R16	Obj Arg1:T48 Arg2:T15	
+T49	Spatial-Relation 640 650	a piece of
+T50	Spatial-Relation 651 669	your diagonal line
+A6	No-Obj T50
+T51	Spatial-Relation 717 730	diagonal line
+A7	No-Obj T51
+T52	Spatial-Relation 731 758	going down and to the right
+A8	No-Obj T52
+T53	Spatial-Relation 843 856	bottom darker
+T54	Spatial-Relation 861 863	in
+T55	Spatial-Relation 869 882	diagonal line
+#1	AnnotatorNotes T42	alone
+#2	AnnotatorNotes T39	near upper left
+A10	Mod-Uncertainty-Approximation T40
+#3	AnnotatorNotes T52	diagonal
+A9	No-Obj T55
+R18	Obj Arg1:T49 Arg2:T3	
+R17	Subj Arg1:T50 Arg2:T3	
+A11	Canonical-Undefined T50

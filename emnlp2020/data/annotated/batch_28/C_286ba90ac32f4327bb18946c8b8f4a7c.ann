@@ -1,0 +1,6 @@
+T1	Markable 57 60	all
+T2	Markable 121 134	that tiny one
+T3	Markable 3 27	tiny very very light dot
+T4	Markable 32 38	3 dots
+R1	Anaphora Arg1:T1 Arg2:T4	
+T5	Markable 79 91	bottom right

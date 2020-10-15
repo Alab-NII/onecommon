@@ -1,0 +1,5 @@
+1: I see a lonely darker grey dot that is quite small.
+0: I have a tiny dark gray one, but there is a very large black dot up a little and to the right of it.
+1: Hm... do you have one tiny black dot with two other greys to the Southeast?
+0: Yes! Let's pick the tiny black one
+1: great

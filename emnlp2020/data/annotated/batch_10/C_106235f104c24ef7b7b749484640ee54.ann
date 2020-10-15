@@ -1,0 +1,27 @@
+T1	Markable 46 56	each other
+T2	Markable 122 139	two pairs of dots
+T3	Markable 145 159	the darker one
+T4	Markable 186 207	a lighter smaller dot
+T5	Markable 228 246	one of those pairs
+T6	Markable 317 319	it
+T7	Markable 258 276	a really light one
+T8	Markable 407 419	a medium dot
+T9	Markable 451 459	the pair
+T10	Markable 508 516	the pair
+T11	Markable 350 358	dark one
+T12	Markable 496 504	dark one
+T13	Markable 586 614	the very dark and larger one
+T14	Markable 527 540	only One pair
+T15	Markable 621 623	it
+T16	Markable 645 647	it
+T17	Markable 674 690	the big dark one
+T18	Markable 694 703	that pair
+T19	Markable 3 6	two
+T20	Markable 23 27	dark
+R1	Anaphora Arg1:T1 Arg2:T20	
+T21	Markable 58 67	lower one
+R2	Anaphora Arg1:T5 Arg2:T2	
+T22	Markable 282 304	a larger very dark one
+R3	Anaphora Arg1:T6 Arg2:T7	
+T23	Markable 547 554	the top
+R4	Anaphora Arg1:T15 Arg2:T23	

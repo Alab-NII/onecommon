@@ -1,0 +1,8 @@
+1: Hi, I have a lonely medium black dot
+0: I don't see a lonely black dot.
+1: Do you have a large gray dot?
+0: I have a large dark gray dot and light gray dot.
+1: Is the light gray dot across from a smaller black dot?
+0: Yes. It is towards the bottom right of the screen.
+1: Should we try that one?
+0: Yes, I think we should.

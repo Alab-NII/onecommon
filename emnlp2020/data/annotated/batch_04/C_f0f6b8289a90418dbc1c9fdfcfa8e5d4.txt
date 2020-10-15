@@ -1,0 +1,5 @@
+0: Do you have a pair dark grey large and smaller lighter grey?
+1: Yea around 3ish
+0: Is that the largest darkest dot you have?
+1: I have one the same size thats lighter thats across my circle on the left
+0: Yes lets choose the darkest largest

@@ -1,0 +1,4 @@
+0: med size black dot at 6 o clock
+1: is it to the right of a lighter dot about the same size?
+0: no i have a smaller light gray to the right of mine do you have a tiny black dot on the left side about 9 o clock?
+1: ok click tiny lack dot

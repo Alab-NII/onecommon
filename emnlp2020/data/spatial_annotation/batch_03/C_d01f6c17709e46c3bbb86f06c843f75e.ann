@@ -1,0 +1,7 @@
+T1	Markable 22 28	a line
+T2	Markable 30 42	the left one
+T3	Markable 146 165	small and black dot
+T4	Markable 10 11	3
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 64 74	the middle
+T6	Markable 98 111	the far right

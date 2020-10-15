@@ -1,0 +1,3 @@
+1: Is your largest dot black, above it are two dots
+0: No. I do have several of the smallest dots. One is black?
+1: Click that black one

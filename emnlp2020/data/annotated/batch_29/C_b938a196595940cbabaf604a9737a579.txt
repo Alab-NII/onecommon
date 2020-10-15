@@ -1,0 +1,4 @@
+0: med sized black dot?
+1: Is there a larger medium shade grey above it to the right going diagonal?
+0: yes! click that black one!
+1: Okay!!

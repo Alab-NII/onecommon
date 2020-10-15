@@ -1,0 +1,5 @@
+1: 2 dots beside each other. left one is lighter and bigger
+0: two med sized dots almost on a horizontal line?
+1: yeah. but not the same size
+0: yes! click the larger light one!
+1: alright

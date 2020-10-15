@@ -1,0 +1,7 @@
+1: I see a large, medium gray dot on the top half of the circle
+0: four dots across the middle of my circle small black, small dark grey, small light grey, medium dark grey
+1: I don't have the 4 dots across the middle
+0: ok, is there a small black dot below your medium grey?
+1: Yes, slightly to the right of it?
+0: yes, pick the small or medium dot?
+1: Let's go with the small black

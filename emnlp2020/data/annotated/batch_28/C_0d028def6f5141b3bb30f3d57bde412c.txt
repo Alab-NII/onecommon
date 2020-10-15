@@ -1,0 +1,4 @@
+1: I have 5 dots forming sleeping letter Y
+0: Is your smallest a lighter grey?
+1: Yes and let us select that one
+0: Okay!

@@ -1,0 +1,5 @@
+T1	Markable 45 50	those
+T2	Markable 65 83	two very dark dots
+T4	Markable 178 185	the one
+T5	Markable 10 27	two med size grey
+R1	Anaphora Arg1:T1 Arg2:T5	

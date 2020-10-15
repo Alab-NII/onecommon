@@ -1,0 +1,4 @@
+1: Hello do you have two medium sized light dots on almost on top of the other?
+0: Do you see two very light shaded dots vertical from each other the slightly larger one is below
+1: Yes.
+0: Click lower one

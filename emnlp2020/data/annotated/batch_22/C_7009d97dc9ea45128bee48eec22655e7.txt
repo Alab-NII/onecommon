@@ -1,0 +1,5 @@
+0: i have a large light grey dot above a smaller dark grey dot
+1: two dark grey med sized dots that look almost identical?
+0: are they angled with each other?
+1: yes! click the top one!
+0: selected

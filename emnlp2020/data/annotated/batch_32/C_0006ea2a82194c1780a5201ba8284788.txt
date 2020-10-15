@@ -1,0 +1,4 @@
+1: L shape with 3 different colors and sizes
+0: is the smallest also the darkest?
+1: Yes
+0: lets select the darkest

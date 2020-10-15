@@ -1,0 +1,10 @@
+T1	Markable 9 26	a larger dark dot
+T2	Markable 37 60	a pretty big darker dot
+T3	Spatial-Relation 11 17	larger
+A1	No-Obj T3
+T4	Spatial-Relation 50 56	darker
+A2	No-Obj T4
+T5	Spatial-Relation 61 79	at about 5 o'clock
+A3	No-Obj T5
+T6	Modifier 64 69	about
+#1	AnnotatorNotes T5	right below

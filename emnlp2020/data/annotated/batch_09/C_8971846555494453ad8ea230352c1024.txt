@@ -1,0 +1,8 @@
+0: I have a boomerang shape of 3 dots... starting at the top... med gray, black l dark gray or black -- it opens to the left
+1: I see very dark dots very similar in size pretty well spaced out but the bottom two are closest together
+0: not sure if the are closest but i think we are talking about the same... are they on the right pretty well centered?
+1: No on the left. Are they almost in a vertical line?
+0: hmmm i might see them is the bottom one a light gray an smaller than the others?
+1: No I dont have any light grey dots they are all medium shade and dark
+0: ok are the medium grays close the left top? 10 o clock and almost 11 o clock maybe 12 oclock position?
+1: No I'm sorry I dont see what your seeing at all. Click on your blackest dot!

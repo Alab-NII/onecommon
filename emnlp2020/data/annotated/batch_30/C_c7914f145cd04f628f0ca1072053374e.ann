@@ -1,0 +1,6 @@
+T1	Markable 19 34	a vertical line
+T2	Markable 84 98	the bottom one
+T3	Markable 68 70	it
+T4	Markable 3 15	2 black dots
+T5	Markable 36 42	bottom
+R1	Predicative Arg1:T1 Arg2:T4	

@@ -1,0 +1,5 @@
+1: I see only one very large black dot
+0: I see a tiny black dot on the right with a small gray one to the left
+1: My smallest dot is light grey? To the left and down a bit is a larger darker one...
+0: Pick the tiny gray one
+1: Ok

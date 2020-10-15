@@ -1,0 +1,2 @@
+1: Three same size tiny dots in a line
+0: three very tiny dots forming a line sloping up to the left? yes! if the one furthest up is black click that one!

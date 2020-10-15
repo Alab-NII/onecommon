@@ -1,0 +1,5 @@
+1: I have a dark medium sized dot across from a large medium grey do
+0: 2 light gray dots the same size, not the smallest of the group. but they make a diagonal line down and to the right
+1: is there one that has an exact same size next to it medium grey?
+0: yes
+1: Ok pick the lighter one next to the dark one?

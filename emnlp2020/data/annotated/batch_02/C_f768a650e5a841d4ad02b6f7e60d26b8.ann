@@ -1,0 +1,9 @@
+T1	Markable 9 17	two dots
+T2	Markable 42 50	left one
+T3	Markable 98 123	a medium size/medium dark
+T4	Markable 187 202	the lighter one
+T5	Markable 218 248	the darker slightly larger one
+T6	Markable 129 144	a larger/darker
+T7	Markable 148 152	it's
+R1	Anaphora Arg1:T7 Arg2:T3	
+T8	Markable 273 305	the lighter/slightly smaller one

@@ -1,0 +1,17 @@
+T1	Markable 54 100	an extremely large extremely light grey circle
+T2	Markable 107 126	the large light one
+T3	Markable 197 201	them
+T4	Markable 133 157	a cluster of 4 dark ones
+T6	Markable 164 177	the right one
+T8	Markable 218 230	the grey one
+T9	Markable 8 18	my circles
+T5	Markable 234 247	the light one
+T7	Spatial-Relation 23 41	a huge cluster@#$%
+A1	No-Obj T7
+T10	Spatial-Relation 127 132	above
+T11	Spatial-Relation 135 142	cluster
+A2	No-Obj T11
+T13	Spatial-Relation 168 173	right
+T14	Spatial-Relation 178 196	darkest/largest of
+#1	AnnotatorNotes T7	cluster
+#2	AnnotatorNotes T14	darkest;largest

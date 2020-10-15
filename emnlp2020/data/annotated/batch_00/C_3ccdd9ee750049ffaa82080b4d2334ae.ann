@@ -1,0 +1,8 @@
+T1	Markable 18 34	a large dark dot
+T2	Markable 81 93	the same one
+T3	Markable 113 138	a largish medium gray dot
+T4	Markable 158 168	three dots
+T5	Markable 238 258	the largest dark dot
+T6	Markable 98 100	It
+T7	Markable 190 194	each
+R1	Anaphora Arg1:T7 Arg2:T4	

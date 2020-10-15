@@ -1,0 +1,3 @@
+0: I have 3 black dots medium to large sized next to each other
+1: yes they make a triangle, and the one on the bottom is the darkest and largest?
+0: yes! Let's click that one

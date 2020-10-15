@@ -1,0 +1,7 @@
+T1	Markable 30 41	a black one
+T2	Markable 10 29	two very small dots
+T3	Markable 57 70	a lighter one
+T4	Markable 89 102	the black one
+T5	Spatial-Relation 42 56	to the left of
+T6	Spatial-Relation 59 66	lighter
+R1	Obj Arg1:T6 Arg2:T1	

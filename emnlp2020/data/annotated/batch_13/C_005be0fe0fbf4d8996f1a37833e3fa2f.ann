@@ -1,0 +1,13 @@
+T1	Markable 48 56	the rest
+T2	Markable 14 37	a large, light grey dot
+T3	Markable 68 78	2 of those
+T4	Markable 91 97	a pair
+T5	Markable 103 109	on dot
+T6	Markable 145 148	one
+T7	Markable 154 157	its
+T8	Markable 188 201	the other dot
+T9	Markable 235 268	one of your larger dark gray dots
+T11	Markable 274 287	a smaller one
+T12	Markable 338 353	the smaller one
+#1	AnnotatorNotes T5	one dot
+R1	Anaphora Arg1:T7 Arg2:T6	

@@ -1,0 +1,7 @@
+T1	Markable 18 32	a sloping line
+T2	Markable 164 166	it
+T3	Markable 3 9	3 dots
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 64 67	one
+T5	Markable 130 134	left
+R2	Anaphora Arg1:T2 Arg2:T5	

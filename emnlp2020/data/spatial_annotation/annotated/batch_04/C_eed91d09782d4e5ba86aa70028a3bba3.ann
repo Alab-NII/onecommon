@@ -1,0 +1,17 @@
+T1	Markable 108 117	those two
+T3	Markable 9 19	three dots
+T4	Markable 136 150	the bottom one
+T5	Markable 50 65	dark larger dot
+T6	Markable 85 94	dark grey
+T2	Spatial-Relation 20 44	forming a small triangle
+A1	No-Obj T2
+T7	Spatial-Relation 45 49	with
+T8	Spatial-Relation 66 80	on either side
+T9	Spatial-Relation 95 107	on bottom of
+R1	Obj Arg1:T7 Arg2:T5	
+R2	Obj Arg1:T7 Arg2:T6	
+T10	Spatial-Relation 140 146	bottom
+R3	Obj Arg1:T10 Arg2:T3	
+#1	AnnotatorNotes T8	outside
+#2	AnnotatorNotes T2	cluster
+T11	Spatial-Relation 55 61	larger

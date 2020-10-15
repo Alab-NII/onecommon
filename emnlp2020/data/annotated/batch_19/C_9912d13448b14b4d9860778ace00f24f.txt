@@ -1,0 +1,3 @@
+0: i have three dots of similar size grouped in a triangle. the bottom dot is the darkest
+1: i see that. left one is the lightest?
+0: yes it is. lets select the light one.

@@ -1,0 +1,4 @@
+0: All of my dots are spread out. I do have one large dark dot on the top left of the circle. It is next to a smaller version of the same color dot directly to the right, and there is a lighter grey dot above the smaller dark dot.
+1: i have two dark dots horizontal to each other
+0: Is the one on the left larger than the one on the right?
+1: yes. lets click on the larger one.( i do also have the lighter grey one above)

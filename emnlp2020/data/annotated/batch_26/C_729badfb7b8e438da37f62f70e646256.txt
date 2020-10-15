@@ -1,0 +1,5 @@
+0: I have a cluster of 3 dots, 2 dark, 1 medium. close together
+1: I see 1 large black, 1 medium black and 1 medium gray together
+1: let us click on gray one
+0: yes, choose the large dark one?
+1: large dark one, ok

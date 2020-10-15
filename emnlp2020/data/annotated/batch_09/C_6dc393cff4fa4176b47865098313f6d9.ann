@@ -1,0 +1,11 @@
+T1	Markable 46 60	two large dots
+T2	Markable 82 92	each other
+T3	Markable 94 101	The one
+T4	Markable 155 159	that
+T5	Markable 178 186	two dots
+T6	Markable 208 227	a larger darker one
+T7	Markable 248 255	The one
+T8	Markable 312 336	the light grey small one
+T9	Markable 3 17	My tiniest dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T4

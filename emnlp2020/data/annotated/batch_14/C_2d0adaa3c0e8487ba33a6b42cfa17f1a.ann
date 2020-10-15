@@ -1,0 +1,14 @@
+T1	Markable 69 80	a large dot
+T2	Markable 103 109	3 dots
+T3	Markable 135 158	an upside down triangle
+T4	Markable 172 177	those
+T5	Markable 179 183	they
+T7	Markable 320 328	that one
+T8	Markable 3 12	most dots
+T9	Markable 35 47	a medium one
+R1	Predicative Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T5 Arg2:T4	
+T10	Markable 213 221	top left
+T11	Markable 229 238	top right
+T12	Markable 247 257	bottom one
+T13	Markable 266 285	The bottom dark one

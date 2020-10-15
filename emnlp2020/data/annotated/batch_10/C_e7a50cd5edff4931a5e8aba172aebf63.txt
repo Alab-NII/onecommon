@@ -1,0 +1,6 @@
+0: I have one larger black dot with a tiny lighter one about a half inch below it slightly to the right
+1: 4 dots almost vertical to the left...1 small black rest darker grey. up and to the right of that are three dots with 1 large black in middle
+0: does the small black dot have a larger lighter gray one slightly above it to the left?
+1: yes
+0: lets pick the small black dot
+1: done

@@ -1,0 +1,7 @@
+1: triangle with one large med grey dot and two smaller almost black dots?
+0: hi i have two black dot directly across from one another but there are plenty of other grey dots so I dont know which is the "triangle" dot.
+1: its two black dots diagonal from each other with the largest and lightest on top and to the right
+0: the black dots are on the same "line" across, horizontal. but there is a light grey medium size dot above and to the left a bit from the black dot on the right
+1: no. do you have three dots that almost form a vertical line with black being med sized and in the middle slightly to the left?
+0: yes!
+1: k click the middle black one

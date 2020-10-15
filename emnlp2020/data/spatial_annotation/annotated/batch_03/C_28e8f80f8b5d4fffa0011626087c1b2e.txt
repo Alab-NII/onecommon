@@ -1,0 +1,5 @@
+0: i have 2 big dots 1 dark and 1 grey
+1: I have a large black dot with a medium gray dot and to the left
+0: me too
+1: Let's pick the black one
+0: ok

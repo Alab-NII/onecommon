@@ -1,0 +1,4 @@
+1: i have a quadrilateral of big and medium very dark dots, the biggest on the left corner
+0: I have two black dots , they have some distance to them apart. Left one is slightly lower and smaller
+1: i think i see them; they are both sort of medium-size, yes?
+0: Yes, in-between them and quite a distance above is a light dot. Take the one on the right

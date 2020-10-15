@@ -1,0 +1,11 @@
+1: all clustered Smallest black?
+0: Do you have a small medium grey dot around the 7 or 8 o'clock position?
+1: yes
+0: Do you want to choose that one?
+1: no wait
+0: Okay
+1: Do you see three making a triangle largest is darkest?
+0: I think so, is it near 11 o'clock position?
+1: They are oriented differently the smallest of the three is closer to the larger then the medium one?
+0: Yes! Is the largest one black and the smallest one right beside it a light grey?
+1: yes pick large dark

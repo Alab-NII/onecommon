@@ -1,0 +1,4 @@
+1: I have 3 dots that form a triangle with the lightest gray one on the right
+0: I see a pretty small dark grey dot
+1: Is your dot near a light gray one of the same size?
+0: Yes. Let's pick the lighter grey

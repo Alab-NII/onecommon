@@ -1,0 +1,4 @@
+1: do you see a very light and small dot near the top
+0: directly above a larger dark dot
+1: no its not directly above for me. its to the left or a larger dark dot
+0: okay let us select this small very light dot

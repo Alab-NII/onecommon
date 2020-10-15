@@ -1,0 +1,4 @@
+1: Hello I have one dot smaller than the rest
+0: I do too. It's off to the right of all the others.
+1: Yes and is light in color
+0: I think that's a winner.

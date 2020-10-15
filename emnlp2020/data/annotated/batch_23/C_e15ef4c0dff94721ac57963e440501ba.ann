@@ -1,0 +1,17 @@
+T1	Markable 22 29	top one
+T2	Markable 50 65	a vertical line
+T3	Markable 98 116	a cluster of three
+T4	Markable 83 87	that
+T7	Markable 225 237	one of those
+T8	Markable 261 272	two of them
+T10	Markable 283 298	a vertical line
+T11	Markable 307 321	the small ones
+T12	Markable 333 349	the med grey one
+T13	Markable 3 21	two med sized dots
+R1	Predicative Arg1:T2 Arg2:T13	
+A1	No-Referent T4
+T5	Markable 131 134	one
+T14	Markable 159 162	one
+T15	Markable 179 182	one
+A2	No-Referent T7
+R2	Predicative Arg1:T10 Arg2:T8	

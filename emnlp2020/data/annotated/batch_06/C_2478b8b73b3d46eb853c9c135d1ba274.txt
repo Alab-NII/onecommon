@@ -1,0 +1,6 @@
+1: I have 4 large dark dots, three in a triangle and one off to the side with a smaller grey dot near it
+0: yes, i have the 3 that almost make a triangle with a small gray next to it and a dark one above the group with a light one next to it
+1: I do not have the small grey one next to the triangle, but that grouping is near the bottom of my circle
+0: want to go with one in the triangle?
+1: yes, how about the one furthest left in the triangle
+0: ok!

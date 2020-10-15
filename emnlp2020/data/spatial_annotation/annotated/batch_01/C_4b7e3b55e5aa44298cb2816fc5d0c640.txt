@@ -1,0 +1,4 @@
+0: I have one tiny gray dot, across from two large dots.
+1: lets click that one
+0: Is it light gray?
+1: yes'

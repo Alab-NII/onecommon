@@ -1,0 +1,8 @@
+0: Ddo
+1: largest dot is the darkest, has smaller lighter dot slightly right and above
+0: Is it in a cluster of 3
+1: No, but I have a cluster of 3 forming an upside down triangle
+0: My largesthoughts dot I'd black
+1: My largest dot is black, and slightly right of the largest dot is a group of three that form a triangle tilted left
+0: Okay let's pick the large black dot
+1: ok

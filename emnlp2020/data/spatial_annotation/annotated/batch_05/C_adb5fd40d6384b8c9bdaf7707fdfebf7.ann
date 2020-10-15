@@ -1,0 +1,27 @@
+T1	Markable 37 54	a small light dot
+T2	Markable 14 31	a small black dot
+T3	Markable 70 72	it
+T4	Markable 74 78	they
+T5	Markable 125 139	any black dots
+T6	Markable 155 173	2 large black dots
+T7	Markable 192 196	them
+T8	Markable 226 229	one
+R1	Anaphora Arg1:T3 Arg2:T2	
+A1	Generic T5
+T9	Markable 201 202	1
+T10	Spatial-Relation 32 36	with
+T11	Modifier 55 63	directly
+T12	Spatial-Relation 64 69	above
+T13	Spatial-Relation 83 96	the same size
+A2	No-Obj T13
+T15	Modifier 206 209	all
+T16	Spatial-Relation 210 215	alone
+A4	No-Obj T16
+T17	Modifier 238 241	all
+T18	Spatial-Relation 242 247	alone
+A5	No-Obj T18
+T19	Spatial-Relation 248 277	on the left edge of my circle
+A6	No-Obj T19
+A3	Mod-Certainty-Exactness T15
+A7	Mod-Certainty-Exactness T17
+#1	AnnotatorNotes T19	left outside

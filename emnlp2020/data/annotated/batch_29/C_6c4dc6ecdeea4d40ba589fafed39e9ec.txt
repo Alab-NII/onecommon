@@ -1,0 +1,4 @@
+0: 2 dark dots
+1: I also have those. Small and towards the left of the circle?
+0: yeah, lets pick the one on the left
+1: ok

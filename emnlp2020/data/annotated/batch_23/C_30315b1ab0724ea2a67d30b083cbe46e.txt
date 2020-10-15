@@ -1,0 +1,6 @@
+1: very light one with a larger dark one to it's upper left? these are on the left... all others are to the right of them spread out
+0: I have a large dark gray with a medium light gray very close. Also a large dark gray with a small medium gray close.
+1: do you have a very light one on the left?
+0: I think I have the two you were talking about at first. Those two are close, and then there are several pairs and a single away and to the right.
+1: yes. i'm not sure about your descriptions because i do have 2 pairs... shall we pick the lightest one on the left?
+0: Sure!

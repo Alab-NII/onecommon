@@ -1,0 +1,7 @@
+T1	Markable 69 84	the biggest dot
+T2	Markable 206 230	the largest lightest dot
+T3	Markable 3 19	the lightest dot
+T4	Markable 50 65	my lightest dot
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 93 97	that
+T6	Markable 136 157	smaller very dark dot

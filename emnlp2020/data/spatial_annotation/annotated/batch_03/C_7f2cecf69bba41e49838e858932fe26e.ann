@@ -1,0 +1,34 @@
+T1	Markable 111 124	the right one
+T2	Markable 10 29	one lonely gray dot
+T3	Markable 84 96	the left one
+T4	Markable 59 67	two dots
+T5	Markable 176 193	the same two dots
+T6	Markable 214 232	your dark gray dot
+T7	Markable 326 328	it
+T8	Markable 292 310	the light grey dot
+T9	Markable 342 350	that one
+T10	Spatial-Relation 14 20	lonely
+A1	No-Obj T10
+T11	Spatial-Relation 30 57	on the bottom of the circle
+A2	No-Obj T11
+T12	Spatial-Relation 68 83	near the middle
+A3	No-Obj T12
+T13	Spatial-Relation 88 92	left
+T14	Spatial-Attribute 100 110	light gray
+T15	Spatial-Relation 115 120	right
+R1	Obj Arg1:T15 Arg2:T3	
+T16	Modifier 128 136	slightly
+T17	Spatial-Relation 137 144	smaller
+R2	Obj Arg1:T17 Arg2:T3	
+T18	Spatial-Attribute 149 158	dark gray
+T19	Spatial-Relation 194 207	in the middle
+A4	No-Obj T19
+T20	Modifier 233 244	pretty much
+T21	Spatial-Relation 245 265	middle of the circle
+A5	No-Obj T21
+T22	Spatial-Relation 279 291	smaller than
+R3	Subj Arg1:T22 Arg2:T7	
+R4	Obj Arg1:T22 Arg2:T8	
+T23	Spatial-Relation 311 325	to the left of
+#1	AnnotatorNotes T12	center
+A6	Mod-Certainty-Exactness T20

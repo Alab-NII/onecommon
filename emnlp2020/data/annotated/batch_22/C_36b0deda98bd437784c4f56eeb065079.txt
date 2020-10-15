@@ -1,0 +1,2 @@
+1: I see a cluster of four dots with smallest light to medium color grey dot in middle of them
+0: ok, smallest one

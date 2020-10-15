@@ -1,0 +1,34 @@
+T2	Markable 66 83	a small light dot
+T3	Markable 15 33	a light larger Dot
+T4	Markable 44 46	it
+T5	Markable 95 113	a smaller dark dot
+T6	Markable 122 138	a large gray dot
+T7	Markable 149 164	zero black dots
+T8	Markable 175 194	the larger gray dot
+T9	Markable 205 207	it
+T10	Markable 236 262	your smallest lightest dot
+R1	Anaphora Arg1:T4 Arg2:T3	
+A1	No-Referent T7
+R2	Anaphora Arg1:T9 Arg2:T8	
+T1	Markable 208 226	a smaller gray dot
+T11	Spatial-Relation 23 29	larger
+A3	Ambiguous-Obj T11
+T12	Spatial-Relation 38 43	above
+T13	Spatial-Relation 51 62	to the left
+R3	Subj Arg1:T12 Arg2:T2	
+R4	Subj Arg1:T13 Arg2:T2	
+R5	Obj Arg1:T13 Arg2:T4	
+T14	Spatial-Relation 97 104	smaller
+T15	Spatial-Relation 114 121	next to
+T16	Spatial-Relation 199 204	above
+T17	Spatial-Relation 179 185	larger
+A2	Ambiguous-Obj T17
+T18	Spatial-Relation 210 217	smaller
+R6	Obj Arg1:T18 Arg2:T8	
+A4	No-Obj T11
+A5	No-Obj T17
+R7	Subj Arg1:T16 Arg2:T1	
+T19	Spatial-Relation 241 249	smallest
+A6	No-Obj T19
+T20	Spatial-Relation 250 258	lightest
+A7	No-Obj T20

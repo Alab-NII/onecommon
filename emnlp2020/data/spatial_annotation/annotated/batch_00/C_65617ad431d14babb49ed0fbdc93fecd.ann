@@ -1,0 +1,52 @@
+T1	Markable 3 17	All of my dots
+T2	Spatial-Relation 22 36	close together
+A1	No-Obj T2
+T3	Markable 53 81	medium size almost black dot
+T4	Modifier 89 97	a little
+T5	Spatial-Relation 98 115	further away than
+T6	Markable 116 126	the others
+T7	Markable 137 147	seven dots
+A2	All-Referents T7
+T8	Spatial-Relation 148 174	clustered closely together
+A3	No-Obj T8
+T9	Spatial-Relation 175 192	from the top down
+T10	Markable 203 218	small dark gray
+T11	Markable 220 228	med grey
+T12	Markable 229 239	light gray
+T13	Markable 240 249	dark gray
+T14	Markable 250 260	light gray
+T15	Markable 262 271	dark gray
+T16	Markable 277 286	dark gray
+T17	Markable 293 305	all of those
+A5	Generic T17
+T18	Markable 315 335	a tiny dark grey dot
+T19	Spatial-Relation 290 292	In
+R1	Obj Arg1:T19 Arg2:T17	
+R2	Subj Arg1:T19 Arg2:T18	
+T20	Markable 346 358	a medium one
+T21	Spatial-Relation 359 370	to the left
+A6	No-Obj T21
+T22	Markable 375 382	nothing
+A7	No-Referent T22
+T23	Markable 400 422	The smallest dark gray
+T24	Markable 427 440	a medium gray
+T25	Markable 447 449	it
+T26	Markable 469 471	it
+T28	Markable 520 526	that's
+T29	Markable 550 558	that one
+T30	Spatial-Relation 383 395	to the right
+A9	No-Obj T30
+R3	Anaphora Arg1:T25 Arg2:T23	
+R4	Anaphora Arg1:T26 Arg2:T23	
+T31	Spatial-Relation 423 426	has
+T32	Spatial-Relation 441 446	below
+T33	Spatial-Relation 454 468	to the left of
+T34	Modifier 484 492	directly
+T35	Spatial-Relation 493 505	to the right
+R6	Obj Arg1:T35 Arg2:T26	
+R7	Subj Arg1:T33 Arg2:T24	
+A8	No-Subj-Markable T35
+T27	Spatial-Relation 404 412	smallest
+A10	No-Obj T27
+A11	Mod-Subtlty T4
+A4	Unannotatable T9

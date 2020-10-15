@@ -1,0 +1,15 @@
+T1	Markable 32 44	several dots
+T2	Markable 163 175	three others
+T3	Markable 179 204	Large grey prominent ones
+T4	Markable 253 268	the small black
+T5	Markable 235 246	the largest
+T6	Markable 218 226	one grey
+T7	Markable 282 286	that
+T8	Markable 3 12	five dots
+T9	Markable 18 22	an X
+R1	Predicative Arg1:T9 Arg2:T8	
+T10	Markable 70 71	x
+R2	Predicative Arg1:T10 Arg2:T1	
+T11	Markable 144 159	small black dot
+R3	Predicative Arg1:T5 Arg2:T6	
+T12	Markable 325 329	what

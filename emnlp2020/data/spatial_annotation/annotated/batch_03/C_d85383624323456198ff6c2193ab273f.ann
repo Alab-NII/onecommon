@@ -1,0 +1,10 @@
+T1	Markable 96 104	that one
+T2	Markable 3 19	dark medium size
+T3	Markable 25 36	small light
+T4	Markable 60 74	light med size
+T5	Spatial-Relation 20 24	with
+T6	Spatial-Relation 37 54	above/to the left
+R1	Obj Arg1:T6 Arg2:T2	
+T7	Spatial-Relation 75 80	below
+R2	Obj Arg1:T7 Arg2:T2	
+#1	AnnotatorNotes T6	above to the left

@@ -1,0 +1,7 @@
+0: I have a cluster of three differently colored dots in the center of my circle, do you?
+1: yes, choose the darkest one>
+0: Alright, my darkest is almost black, yours too?
+1: yes is it at the bottom?
+0: Yes, and it's smaller than the other two in that cluster?
+1: yes lets choose
+0: Alright

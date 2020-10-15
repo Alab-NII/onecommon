@@ -1,0 +1,3 @@
+1: large black dot all the way left most of all others
+0: do you have two black ones? lower left one is slightly bigger? and there's a light one up between the two? no i don't have that one large black one on left
+1: yes, choose lower left one thats bigger

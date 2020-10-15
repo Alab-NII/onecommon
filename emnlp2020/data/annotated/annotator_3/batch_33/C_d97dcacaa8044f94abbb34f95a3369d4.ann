@@ -1,0 +1,8 @@
+T1	Markable 10 27	two smallish dots
+T2	Markable 44 51	The one
+T3	Markable 102 106	They
+T4	Markable 192 206	the center one
+T5	Markable 139 155	two smaller dots
+T6	Markable 271 290	the smaller, darker
+R1	Anaphora Arg1:T3 Arg2:T1	
+T7	Markable 248 262	the same thing

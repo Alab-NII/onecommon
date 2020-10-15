@@ -1,0 +1,19 @@
+T1	Markable 15 31	a large dark dot
+T2	Markable 64 66	it
+T3	Markable 37 57	a smaller medium dot
+T4	Markable 102 115	a smaller one
+T5	Markable 122 136	the darker one
+T6	Markable 225 240	the darkest dot
+T7	Markable 202 209	the dot
+T8	Markable 244 254	a pale dot
+T9	Markable 279 283	that
+T12	Markable 360 362	it
+T13	Markable 391 395	that
+T14	Markable 415 440	the large medium gray dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T15	Markable 149 163	my darkest dot
+A1	No-Referent T9
+T16	Markable 305 323	a large medium dot
+T10	Markable 329 353	a paler medium sized dot
+R2	Anaphora Arg1:T7 Arg2:T15	
+R3	Anaphora Arg1:T12 Arg2:T16	

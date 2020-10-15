@@ -1,0 +1,6 @@
+0: Do you have a large gray dot with a medium black dot directly to the right and slightly lower
+1: I see three dot with a diagonal shape at the top
+0: Do you see a small black dot that is by itself?
+1: Yes,to the right,
+0: Ok, lets choose the small black dot
+1: OK

@@ -1,0 +1,4 @@
+1: i have two tiny lighter grey dots next to each other. one on top of the other
+0: Hmm, i dont seem to have those in mine. How about a large light grey dot with a medium dark grey dot to its north east?
+1: i have that!
+0: ok lets click the large light one

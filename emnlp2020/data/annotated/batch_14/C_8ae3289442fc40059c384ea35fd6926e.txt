@@ -1,0 +1,4 @@
+0: I see 1 black dot
+1: I see a very large light gray dot in between a medium black and small dark gray
+0: yes I have a very large gray dot between medium black and small dark gray
+1: yay, lets choose the black dot

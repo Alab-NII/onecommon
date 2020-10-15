@@ -1,0 +1,21 @@
+T1	Markable 90 97	the one
+T2	Markable 35 42	The one
+T4	Markable 147 149	it
+T5	Markable 157 169	the tiny one
+T6	Markable 10 13	two
+T7	Modifier 14 18	VERY
+T8	Spatial-Relation 19 33	close together
+T3	Spatial-Relation 43 54	on the left
+T9	Modifier 60 64	very
+T10	Spatial-Attribute 65 70	large
+T11	Spatial-Attribute 71 80	dark grey
+T12	Spatial-Relation 98 110	on the right
+T13	Spatial-Attribute 114 118	tiny
+T14	Modifier 123 128	a bit
+T15	Spatial-Relation 129 136	lighter
+A1	No-Obj T8
+R1	Obj Arg1:T3 Arg2:T6	
+R2	Obj Arg1:T12 Arg2:T6	
+R3	Obj Arg1:T15 Arg2:T2	
+R4	Mod Arg1:T9 Arg2:T10	
+R5	Mod Arg1:T9 Arg2:T11	

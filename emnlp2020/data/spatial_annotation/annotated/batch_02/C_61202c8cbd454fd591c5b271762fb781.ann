@@ -1,0 +1,17 @@
+T1	Markable 15 27	two Dark One
+T2	Markable 37 47	each other
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 87 88	2
+T4	Markable 105 110	those
+T5	Markable 112 115	One
+T6	Markable 134 143	the other
+T7	Markable 172 177	the 2
+T8	Markable 183 194	the top one
+T9	Spatial-Relation 28 36	close to
+T10	Spatial-Relation 48 61	in the middle
+A1	No-Obj T10
+T11	Spatial-Relation 89 104	to the right of
+T12	Spatial-Attribute 119 129	light gray
+T13	Spatial-Attribute 147 152	black
+T14	Spatial-Relation 187 190	top
+R2	Obj Arg1:T14 Arg2:T7	

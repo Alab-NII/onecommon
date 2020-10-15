@@ -1,0 +1,11 @@
+T1	Markable 30 38	the rest
+T2	Markable 10 17	one dot
+T3	Markable 54 68	two black ones
+T4	Markable 132 137	those
+T5	Markable 208 212	them
+T6	Markable 184 201	a horizontal line
+T7	Markable 248 266	the tiny black one
+T8	Markable 70 78	the left
+T9	Markable 99 108	the right
+T10	Markable 151 164	two med/ grey
+R1	Predicative Arg1:T6 Arg2:T10	

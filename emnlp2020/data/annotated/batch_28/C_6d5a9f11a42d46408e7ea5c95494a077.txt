@@ -1,0 +1,4 @@
+1: Hi I see 4 dots in a vertical curved line, the largest of them is at the bottom
+0: Does the one on the bottom have a lighter much smaller one above it
+1: yes
+0: Let us select the big one below

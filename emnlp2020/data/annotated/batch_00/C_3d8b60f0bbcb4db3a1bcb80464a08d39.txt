@@ -1,0 +1,6 @@
+0: I have one dark grey dot by itself near the top of the circle
+1: do u see a med grey small dot all by itself near the top almost center?
+0: yeah, that would be the one
+1: do we have to wait another 30 seconds or so?
+0: I'm not sure, I'll try selecting it and see what happens?
+1: ok me too

@@ -1,0 +1,8 @@
+T1	Markable 60 90	a really dark medium sized dot
+T2	Markable 114 124	three dots
+T3	Markable 105 107	it
+T4	Markable 217 232	the darkest one
+T5	Markable 9 18	which dot
+A1	Generic T5
+T6	Markable 153 163	each other
+R1	Anaphora Arg1:T6 Arg2:T2	

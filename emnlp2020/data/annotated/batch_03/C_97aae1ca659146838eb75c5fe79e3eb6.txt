@@ -1,0 +1,4 @@
+0: two circles, same size, left one is lighter, second one is darker, down and right of first
+1: yes
+0: pick dark one
+1: k

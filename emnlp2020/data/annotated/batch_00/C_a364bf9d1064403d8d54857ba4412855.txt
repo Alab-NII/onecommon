@@ -1,0 +1,5 @@
+1: I have three dots of the same color and roughly the same size going diagonally from the top right to bottom left, on the bottom are three darker dots and on top is one lonely grey dot, lighter than the ones on bottom and darker than the diagonal ones
+0: the one by itself. is it nearly out the circle?
+1: yes it is
+0: I think we got it
+1: okay

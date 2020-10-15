@@ -1,0 +1,7 @@
+0: i have one tiny black dot above large medium grey
+1: I see a grey dot on the border
+0: you have tiny black dot?
+1: to the upper right of the med grey dot?
+0: yes
+1: I think that is the dot in common.
+0: choose tiny black dot ok

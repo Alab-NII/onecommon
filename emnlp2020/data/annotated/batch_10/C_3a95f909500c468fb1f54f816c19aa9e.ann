@@ -1,0 +1,10 @@
+T1	Markable 10 23	two dark dots
+T2	Markable 29 39	each other
+T3	Markable 61 73	the smallest
+T4	Markable 41 52	the darkest
+T5	Markable 77 84	the two
+T6	Markable 94 108	The darker one
+T7	Markable 149 163	the darker one
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T3 Arg2:T4	
+R3	Anaphora Arg1:T5 Arg2:T1	

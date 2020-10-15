@@ -1,0 +1,4 @@
+0: Do u see a group of 3 large dots in a triangular shape?
+1: Do you see three dots, two on the left are tiny and small dark dots, the middle one is large and lightest shade.
+0: No, I don't. Do you see the shape I mentioned?
+1: No, just click on your largest lightest shade dot, about 90% sure you have it in your circle and is part of your triangle I am missing

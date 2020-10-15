@@ -1,0 +1,5 @@
+0: I have 1 pure black dot. It is really tiny
+1: ok almost all my dots are small, smallest one is dark sorta middle right
+0: Is it all by itself?
+1: yes it's smallest one
+0: ok.

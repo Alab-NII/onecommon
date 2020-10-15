@@ -1,0 +1,15 @@
+T1	Markable 55 65	each other
+T2	Markable 127 140	the other dot
+T3	Markable 78 92	the darker dot
+T4	Markable 172 180	dark one
+T5	Markable 3 20	very dark big dot
+T6	Markable 25 45	medium size dark dot
+T7	Spatial-Relation 46 54	close to
+R1	Subj Arg1:T7 Arg2:T5	
+R2	Subj Arg1:T7 Arg2:T6	
+T8	Spatial-Relation 82 88	darker
+T9	Modifier 96 104	slightly
+T10	Spatial-Relation 105 109	down
+T11	Spatial-Relation 110 122	to the right
+T12	Spatial-Relation 144 151	lighter
+R3	Obj Arg1:T12 Arg2:T3	

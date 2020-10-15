@@ -1,0 +1,4 @@
+1: 4 dots that form a square/rectangle shape. bottom left is light large grey. top right is black
+0: group of 5 dots bottom of center 2 darge black biggest on very bottom
+1: is there one light grey dot that is large in that group?
+0: yes select the bottom left light large grey one

@@ -1,0 +1,15 @@
+T1	Markable 30 33	One
+T2	Markable 97 101	that
+T3	Markable 134 145	the darkest
+T4	Markable 109 127	a cluster of three
+T7	Markable 230 235	those
+T8	Markable 251 254	two
+T9	Markable 292 299	Top one
+T10	Markable 409 422	the other one
+T11	Markable 371 386	the smaller dot
+T12	Markable 337 345	the pair
+T13	Markable 439 454	the smaller dot
+T14	Markable 3 6	Two
+A1	No-Referent T2
+T5	Markable 209 222	any clustered
+A2	No-Referent T5

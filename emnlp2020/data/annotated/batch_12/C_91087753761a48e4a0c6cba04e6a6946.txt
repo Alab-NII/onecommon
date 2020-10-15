@@ -1,0 +1,9 @@
+0: do you have any dots that are close together?
+1: a small light grey and a darker larger one below it
+0: i see that. do you see another two close together to the right of those?
+1: No
+0: ok. is the larger of the two below slightly to the right?
+1: Yes. Choose that one
+0: the small light grey one or the larger darker one?
+1: The larger one
+0: ok

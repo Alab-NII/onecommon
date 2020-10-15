@@ -1,0 +1,9 @@
+T1	Markable 55 62	the one
+T3	Markable 3 9	4 dots
+T4	Markable 13 28	a loose diamond
+R1	Predicative Arg1:T4 Arg2:T3	
+T5	Markable 29 39	bottom dot
+T6	Markable 79 93	the bottom one
+T2	Markable 94 99	black
+R2	Predicative Arg1:T2 Arg2:T1	
+T7	Markable 122 137	the right black

@@ -1,0 +1,5 @@
+1: i've got 2 small triangles made up of 3 dots each?
+0: Okay I have one small triangle made up of three different shades of gray. All on the larger side.
+1: Yes both of mine are that way so lets narrow it down. is the darkest of the 3 dots on the bottom left of the triangle?
+0: Yes!
+1: ok lets click that one?

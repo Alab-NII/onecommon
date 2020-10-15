@@ -1,0 +1,15 @@
+T2	Markable 35 39	they
+T3	Markable 148 150	it
+T4	Markable 97 114	only one tiny dot
+T5	Markable 170 197	a very very light large dot
+T6	Markable 256 259	its
+T7	Markable 317 330	the light one
+T8	Markable 419 439	a light gray med dot
+T9	Markable 376 393	the tiny left one
+T10	Markable 451 471	the larger light one
+T12	Markable 3 16	tiny gray dot
+T1	Markable 133 140	nothing
+A1	No-Referent T1
+R1	Anaphora Arg1:T3 Arg2:T4	
+T13	Markable 217 247	another very light smaller one
+T14	Markable 278 285	the one

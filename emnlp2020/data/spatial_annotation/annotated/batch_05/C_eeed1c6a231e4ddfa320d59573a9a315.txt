@@ -1,0 +1,4 @@
+0: i have two dots at a near-medium distance, the the one on the top right is black and the other is dark grey
+1: Do you see two pairs close to each other with the same slope that goes up and to the right with both pairs?
+0: yes i see those pairs, the top slope of mine has three dots
+1: Take the smallest darkest dot that should be most right for you

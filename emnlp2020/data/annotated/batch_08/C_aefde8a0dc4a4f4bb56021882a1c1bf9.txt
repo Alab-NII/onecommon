@@ -1,0 +1,2 @@
+1: you have 3 in the center/left that are about same size, the lower right one is med color? top is light, left is darkest?
+0: yes lets click top lighter

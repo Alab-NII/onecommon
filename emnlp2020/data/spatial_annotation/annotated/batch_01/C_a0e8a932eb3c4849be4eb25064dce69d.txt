@@ -1,0 +1,4 @@
+1: two medium shade small dots directly on top of each other
+0: i see that. do you see a light grey smaller one lower than them?
+1: Yes...choose the lower smaller one
+0: ok

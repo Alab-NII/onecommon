@@ -1,0 +1,5 @@
+0: I see a close group in a triangle. A larger dark one, a tiny one the same color and one medium and lighter?
+1: i have a group that looks like a very close triangle to my right side
+0: One is larger and darker?
+1: yes thats correct
+0: Let's the choose the largest.

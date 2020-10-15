@@ -1,0 +1,4 @@
+1: DO you have 3 dots in a diagonal slanting up and to the right?
+0: Yes i do. all the same color??
+1: yes bottom most dot is the smallest?
+0: Yes choose that one

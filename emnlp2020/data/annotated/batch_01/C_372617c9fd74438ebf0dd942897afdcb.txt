@@ -1,0 +1,5 @@
+0: Hello! I see a dark dot in the center left
+1: Hi! I have two dark dots, one on the bottom left and one on the bottom right. Are there any dots next to your dark dots?
+0: I only have one dark dot, and a slightly less dark one just below it (on the middle left)
+1: okay, so your black dot only has one dot next to it. One of my dots only has one (to the right and a little below) and the other has two that create a triangle. So I guess it would be the first one?
+0: Yes, and I have four light grey ones in a line on the far left

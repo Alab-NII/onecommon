@@ -1,0 +1,8 @@
+T1	Markable 23 29	itself
+T2	Markable 40 43	one
+T4	Markable 137 140	its
+T5	Markable 170 172	it
+T6	Markable 3 19	medium dark gray
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 99 102	its
+R2	Anaphora Arg1:T7 Arg2:T2	

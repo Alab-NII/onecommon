@@ -1,0 +1,4 @@
+1: group of three black dots, varying sizes, largest one on the bottom
+0: group of C near the center of the circle.
+1: yes, select large black on at bottom
+0: ok!

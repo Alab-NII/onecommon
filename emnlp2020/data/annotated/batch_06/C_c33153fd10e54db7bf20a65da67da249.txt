@@ -1,0 +1,4 @@
+1: i have three in a line, diagonal up, bottom is largest, middle is medium and darker, top is smaller and lighter
+0: Darn not sure I see it. Do you see two pairs of dots that are really close together?
+1: those are the only ones really close that i have. I have a pair where the left one is large and dark, and the right is slightly higher, smaller, and lighter
+0: K lets pick the really dark large one!

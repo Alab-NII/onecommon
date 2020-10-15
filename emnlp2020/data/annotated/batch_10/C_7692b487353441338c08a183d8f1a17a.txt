@@ -1,0 +1,3 @@
+1: do you see a light grey medium-large dot with smaller dark grey dot very close and right above it
+0: Yes. Is there another dot close by that looks very similar to the bottom one in that pair?
+1: yes. select the small dark grey one

@@ -1,0 +1,67 @@
+T2	Markable 38 41	one
+T3	Markable 58 61	one
+T4	Markable 114 129	the lighter one
+T5	Markable 187 196	your dots
+T6	Markable 233 241	anything
+T7	Markable 272 286	the bottom one
+T8	Markable 303 317	small grey dot
+T9	Markable 347 358	a small dot
+T10	Markable 369 372	its
+T11	Markable 453 461	that one
+T12	Markable 3 36	Two large dark grey/black circles
+T1	Markable 84 99	two larger dots
+T13	Markable 140 155	small black dot
+A1	No-Referent T6
+R1	Anaphora Arg1:T10 Arg2:T9	
+T14	Spatial-Relation 42 57	near the middle
+A2	No-Obj T14
+T15	Spatial-Relation 62 73	at 1 oclock
+A3	No-Obj T15
+T16	Spatial-Relation 88 94	larger
+A4	No-Obj T16
+T17	Spatial-Relation 100 108	vertical
+A5	No-Obj T17
+T19	Spatial-Relation 118 125	lighter
+R2	Obj Arg1:T19 Arg2:T1	
+T20	Spatial-Relation 130 136	on top
+R3	Obj Arg1:T20 Arg2:T1	
+T21	Spatial-Relation 156 163	at 3ish
+A6	No-Obj T21
+T22	Spatial-Relation 165 180	right of center
+A7	No-Obj T22
+T23	Spatial-Relation 197 209	at 1 o'clock
+A8	No-Obj T23
+T24	Spatial-Relation 210 218	vertical
+A9	No-Obj T24
+T25	Spatial-Relation 242 249	at 3ish
+A10	No-Obj T25
+T26	Spatial-Attribute 262 265	big
+T27	Spatial-Relation 276 282	bottom
+R5	Obj Arg1:T27 Arg2:T5	
+T28	Spatial-Relation 287 293	darker
+R6	Obj Arg1:T28 Arg2:T5	
+T29	Spatial-Relation 318 325	at 4ish
+A11	No-Obj T29
+T30	Spatial-Relation 359 363	at 3
+A12	No-Obj T30
+T31	Spatial-Relation 373 386	in the middle
+A13	No-Obj T31
+T34	Spatial-Relation 429 444	right of middle
+A16	No-Obj T34
+R9	Subj Arg1:T34 Arg2:T10	
+R4	Subj Arg1:T26 Arg2:T12	
+#1	AnnotatorNotes T15	above;right
+T35	Modifier 159 163	3ish
+A17	Mod-Uncertainty-Approximation T35
+#2	AnnotatorNotes T21	right
+#3	AnnotatorNotes T23	right;above
+T36	Modifier 245 249	3ish
+A18	Mod-Uncertainty-Approximation T36
+#4	AnnotatorNotes T25	right
+T37	Modifier 321 325	4ish
+A19	Mod-Uncertainty-Approximation T37
+#5	AnnotatorNotes T29	right;below
+#6	AnnotatorNotes T30	right
+#7	AnnotatorNotes T14	center
+#8	AnnotatorNotes T22	right
+#9	AnnotatorNotes T34	right

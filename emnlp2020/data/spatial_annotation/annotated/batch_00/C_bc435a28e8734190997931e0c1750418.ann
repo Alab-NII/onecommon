@@ -1,0 +1,15 @@
+T1	Markable 84 86	it
+T2	Markable 30 62	medium-grey, slightly larger dot
+T3	Markable 3 24	very dark, medium dot
+R1	Anaphora Arg1:T1 Arg2:T3	
+T4	Markable 95 104	Which one
+A1	Generic T4
+T5	Markable 121 131	darker one
+T6	Spatial-Relation 25 29	with
+T7	Spatial-Relation 64 83	down and to left of
+T8	Spatial-Relation 52 58	larger
+T9	Modifier 43 51	slightly
+R2	Mod Arg1:T9 Arg2:T8	
+T10	Spatial-Relation 121 127	darker
+R3	Obj Arg1:T10 Arg2:T1	
+R4	Obj Arg1:T10 Arg2:T2	

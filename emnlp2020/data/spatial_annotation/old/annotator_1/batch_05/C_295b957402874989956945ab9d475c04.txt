@@ -1,0 +1,6 @@
+1: do you have two tiny dots right next to each other, the lower left one is black, the upper right one is light-ish grey?
+0: lone medium light gray near 6 oclock on edge
+1: i don't have a lone one down there. I have a medium size light grey one with a darker, smaller one just over half inch above it to it's right
+0: yes, have two tiny ones
+1: oh the two tiny ones up top? the bottom one is black? choose the black tiny one then with me
+0: right choose the black tiny ok

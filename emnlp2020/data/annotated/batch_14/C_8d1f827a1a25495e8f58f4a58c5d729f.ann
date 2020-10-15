@@ -1,0 +1,7 @@
+T1	Markable 12 23	a large dot
+T2	Markable 65 81	a large dark dot
+T3	Markable 95 119	a very light colored dot
+T5	Markable 172 174	It
+A1	No-Referent T2
+T4	Markable 198 213	not many others
+A2	Generic T4

@@ -1,0 +1,9 @@
+1: I have the darkest dot at 4 oclock
+0: Do you see a large grey dot?
+1: Yes, but there are a few gray dots, do you have the large black one at 4 oclock?
+0: The large black is at 11 oclock for me. Right next to a slightly smaller grey dot. Grey dot is on the right of the black dot.
+1: is it to the right and slightly lower than the black dot?
+0: It's to the right and slightly above. Do you have 3 similar size black dots in a triangle?
+1: Kind of, I have a big light gray dot to the lower right of that triangle as well. do you have that? and is your triangle two smaller dots and one bigger one?
+0: yep. Let's go with the grey dot we just talked about.
+1: deal.

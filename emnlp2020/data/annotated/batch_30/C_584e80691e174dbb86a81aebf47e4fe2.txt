@@ -1,0 +1,5 @@
+1: medium black dot with smaller medium gray dot to the right next to it?
+0: I have three dots that are very close and one of them is pretty black
+1: are two closer than the 3rd? My black dot is really close to the smaller dark gray dot but there is another gray dot in the vicinity
+0: Yes, let us select the darkest
+1: k

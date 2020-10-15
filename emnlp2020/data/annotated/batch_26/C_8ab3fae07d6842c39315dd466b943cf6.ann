@@ -1,0 +1,19 @@
+T1	Markable 64 74	each other
+T2	Markable 15 33	one small grey dot
+T3	Markable 110 117	the one
+T4	Markable 88 109	two really light dots
+T5	Markable 224 228	them
+T6	Markable 178 195	a medium grey dot
+T7	Markable 246 248	it
+T8	Markable 329 353	the small and large ones
+T9	Markable 374 391	both of those two
+T10	Markable 437 448	those three
+T11	Markable 417 433	the lightest one
+T13	Markable 38 54	one dark big dot
+T14	Markable 202 206	both
+R1	Anaphora Arg1:T14 Arg2:T4	
+R2	Anaphora Arg1:T5 Arg2:T4	
+A1	No-Referent T7
+T15	Markable 256 264	the ones
+T16	Markable 282 287	a dot
+T17	Markable 358 361	its

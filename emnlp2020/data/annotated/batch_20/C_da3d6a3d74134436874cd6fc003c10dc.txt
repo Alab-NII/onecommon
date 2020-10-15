@@ -1,0 +1,5 @@
+1: large dot (medium gray) in between a small black dot above and a large black dot below
+0: Do you have a lonely smallest and lightest shade dot? Right of it quite a distance is a large black dot
+1: Yes. I have that
+0: Click that lonely tiny
+1: ok

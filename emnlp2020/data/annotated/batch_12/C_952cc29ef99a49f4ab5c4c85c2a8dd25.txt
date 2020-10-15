@@ -1,0 +1,4 @@
+1: Do you have 1 big gray dot, bigger than the rest?
+0: two black dots with one slightly up and left
+1: Two different sizes right?
+0: Yes. pick the larger one

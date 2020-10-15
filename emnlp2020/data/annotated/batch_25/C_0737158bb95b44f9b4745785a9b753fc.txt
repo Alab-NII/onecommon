@@ -1,0 +1,5 @@
+1: i see two large dots very close, the bottom one is larger and black, the top one is medium-grey and a bit smaller
+0: Dont have that on mine, how about a medium black dot with a smaller medium gray one to its lower left? Or three that form a triangle, the two on the right are tiny?
+1: the triangle, is the one on the bottom right light grey and the top one black?
+0: Yes!
+1: sweeet, let's pick that black dot

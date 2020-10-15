@@ -1,0 +1,8 @@
+1: I see 7 things
+0: Okay thats helpful!
+1: 3 are darker
+0: i have two that are almost black. one is very small and up to the right of the large almost black one
+1: ok the bigger one that is almost black to the right i think is it
+0: No my bigger one is down to the left! which one did you click??
+1: i have a bigger one down to the left as well
+0: WHICH ONE DID YOU CLICK?

@@ -1,0 +1,10 @@
+0: I have a small black dot with a slightly lighter, slightly larger dot just a touch up and to the left.
+1: Small dark gray 3 oclock
+0: I have a medium dark gray with a smaller black one to the right and down a little.
+1: I don't see that
+0: What about a large black one, with a slightly smaller light gray one underneath it and just a tiny bit to the right?
+1: About 5 o'clock bottom Ltd gray
+0: Is there a darker, slightly larger one above it and to the right?
+1: Yes
+0: Ok, let's go with that lighter gray one.
+1: Okay

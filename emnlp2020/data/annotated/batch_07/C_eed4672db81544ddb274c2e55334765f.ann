@@ -1,0 +1,20 @@
+T1	Markable 53 66	no light ones
+T2	Markable 12 34	a few really dark dots
+T3	Markable 101 118	a small black dot
+T4	Markable 140 142	it
+T5	Markable 78 95	a large black dot
+T6	Markable 250 253	one
+T7	Markable 198 220	a few small black dots
+T8	Markable 165 185	any large black dots
+T9	Markable 303 305	it
+T10	Markable 258 275	another black dot
+T11	Markable 344 346	it
+T12	Markable 398 411	the same ones
+T13	Markable 428 439	the top one
+T14	Markable 39 51	a few medium
+A1	No-Referent T1
+R1	Anaphora Arg1:T4 Arg2:T5	
+A2	No-Referent T8
+T15	Markable 222 242	the small black dots
+R2	Anaphora Arg1:T15 Arg2:T7	
+R3	Anaphora Arg1:T9 Arg2:T6	

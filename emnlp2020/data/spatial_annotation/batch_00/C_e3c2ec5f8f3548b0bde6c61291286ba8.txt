@@ -1,0 +1,5 @@
+0: Hey partner!
+1: hey! i see a large dark dot. it's the darkest one
+0: Is it in the upper right quadrant?
+1: yes, and from my view has a small grey dot near it
+0: OK, let's click it

@@ -1,0 +1,10 @@
+T1	Markable 49 59	each other
+T2	Markable 118 132	the darker one
+T3	Markable 169 173	they
+T4	Markable 216 239	the large dark gray one
+T5	Markable 259 278	a triangle of greys
+T6	Markable 4 16	at dark grey
+T7	Markable 21 39	a small light grey
+T8	Markable 66 92	the smaller light gray one
+T9	Markable 151 164	another combo
+R1	Anaphora Arg1:T3 Arg2:T9	

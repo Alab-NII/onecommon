@@ -1,0 +1,5 @@
+0: do you have a cluster of 4 dots with one being black? Kind of looks like a square
+1: No. I do have a light grey one to the right of a medium sized black one.
+0: Is the one to the right a tiny dot?
+1: Yes
+0: choose tiny dot

@@ -1,0 +1,5 @@
+1: I see a cluster of three close dots of different sizes
+0: i have a tiny gray dot at about 4 o clock then above it a large black dot
+1: I don't see your cluster. Do you see mine?
+0: i think so the more i look is there a tiny gray dot in your cluster
+1: Yes, lets choose the tiny grey one.

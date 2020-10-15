@@ -1,0 +1,7 @@
+1: Do you see two black dots that are the exact same size
+0: Yes, one above to the left?
+1: Can we choose the one that's more lonely
+0: Wait. I have 2 black dots, same size. One is slightly above to the left.
+1: Yes
+0: Can we choose the upper left black dot? None of my dots are "Lonely"
+1: ok

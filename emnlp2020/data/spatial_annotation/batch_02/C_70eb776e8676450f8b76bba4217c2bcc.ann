@@ -1,0 +1,7 @@
+T1	Markable 9 19	three dots
+T2	Markable 58 76	a perfect triangle
+T3	Markable 78 82	They
+T4	Markable 169 176	the one
+R1	Predicative Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+T6	Markable 127 144	that same pattern

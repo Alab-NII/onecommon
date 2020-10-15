@@ -1,0 +1,9 @@
+T1	Markable 25 37	a curve line
+T2	Markable 10 21	4 tiny dots
+T3	Markable 60 73	one black dot
+T4	Markable 45 49	they
+T5	Markable 149 162	one black dot
+T6	Markable 238 251	the black dot
+R1	Predicative Arg1:T1 Arg2:T2	
+T7	Markable 90 108	The only black dot
+T8	Markable 194 220	the same curve 4 gray dots

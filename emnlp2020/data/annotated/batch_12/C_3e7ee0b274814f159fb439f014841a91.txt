@@ -1,0 +1,6 @@
+1: I have 2 large dark dots, they are one and half inches away
+0: I have a triangle of large dark dots
+1: is there a small one between 2 of them?
+0: are the dark dots vertical
+1: yes they are
+0: ok select the lowest dark dot of the two large

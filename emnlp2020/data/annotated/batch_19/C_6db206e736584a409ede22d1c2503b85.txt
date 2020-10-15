@@ -1,0 +1,7 @@
+0: I have three small-medium dots in a tight triangle. The one on the top right is darkest, bottom middle is lightest. They are all similar size
+1: where is the right angle? i am not sure if i am seeing it
+0: No right angle, Lets just try something else. I have a large black dot. Directly below it and slightly left is a small light grey dot
+1: sorry, mis-read that. is there an lighter, slighter smaller one above it and to the left?
+0: The large black dot? Yes!
+1: yes i clicked the large black one
+0: You chose the black?

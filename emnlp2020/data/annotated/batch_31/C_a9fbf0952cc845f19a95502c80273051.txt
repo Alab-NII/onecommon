@@ -1,0 +1,6 @@
+0: I have a cluster of dots in the middle of my circle. The one to the left is large and light gray.
+1: is that one kind of by itself
+0: A little bit
+1: k is there a smaller light one to the left of it slightly down?
+0: Yes.
+1: k click the large one

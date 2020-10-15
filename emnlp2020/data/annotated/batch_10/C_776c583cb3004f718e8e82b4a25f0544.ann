@@ -1,0 +1,15 @@
+T1	Markable 70 80	each other
+T2	Markable 15 38	a small medium gray dot
+T3	Markable 43 64	a small dark gray dot
+T4	Markable 123 151	a downward pointing triangle
+T5	Markable 99 114	three dark dots
+T6	Markable 247 259	the triangle
+T7	Markable 161 178	a medium gray dot
+T8	Markable 199 218	the small dark gray
+T9	Markable 267 286	the medium gray dot
+T10	Markable 299 311	the dark one
+T11	Markable 320 324	they
+R1	Predicative Arg1:T4 Arg2:T5	
+T12	Markable 365 385	two larger dark dots
+T13	Markable 401 407	a line
+T14	Markable 426 435	the right

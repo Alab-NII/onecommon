@@ -1,0 +1,8 @@
+T1	Markable 9 26	3 large dark dots
+T3	Markable 69 91	a line of 3 black dots
+T4	Markable 110 121	the biggest
+T5	Markable 93 106	my middle one
+T6	Markable 170 178	that one
+T7	None 46 49	let
+#1	AnnotatorNotes T7	left
+R1	Predicative Arg1:T4 Arg2:T5	

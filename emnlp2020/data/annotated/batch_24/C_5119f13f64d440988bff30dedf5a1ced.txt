@@ -1,0 +1,5 @@
+1: I have a tiny dark grey dot with a small-medium very light dot below it almost perfectly vertical but a little right
+0: I do not have that one. I have a dark, small pretty much by itself
+1: Does it have a large dark grey down and to the right?
+0: It does, at about 45 degree angle
+1: Ok choose small dark by itself

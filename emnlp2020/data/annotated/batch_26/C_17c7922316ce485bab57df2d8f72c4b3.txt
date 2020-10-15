@@ -1,0 +1,6 @@
+0: My largest dot is medium gray
+1: 2 large similarly sized dots aligned vertically - top dot is slightly darker and to the right
+0: I do not have it. I have the same size and black dots forming a triangle
+1: Is the tip of the triangle the lowest dot?
+0: yes, let us select the lowest
+1: yes

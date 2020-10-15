@@ -1,0 +1,8 @@
+0: I see 5 dots. Together they make a square type of figure. They are all light, except for 2 which are a bit darker.
+1: I see seven dots, two quite light, the rest medium-grey
+0: Ok. One of the lighter ones are very small. Is that one on your screen? It is kind of alone.
+1: no, i don't have any very small light ones. my two light ones are medium-large, and are quite close together
+0: Ok. I think I see it now. Are they going upwards, diagonal, to the right?
+1: the bottom one is slightly to the left of the top one; and the top one is slightly larger
+0: Yes. Choose the one on the top right.
+1: got it

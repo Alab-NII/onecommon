@@ -1,0 +1,6 @@
+T1	Markable 14 37	a large, very black dot
+T2	Markable 54 61	the one
+T3	Markable 78 80	it
+T4	Markable 97 99	it
+T5	Markable 48 53	thats
+R1	Predicative Arg1:T2 Arg2:T5	

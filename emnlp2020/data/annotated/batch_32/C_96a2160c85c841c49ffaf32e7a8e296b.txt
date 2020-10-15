@@ -1,0 +1,3 @@
+0: Do u see a lonely black dot too left
+1: Yes there is a larger darker grey dot down and slightly right to it?
+0: Yes! Click the black dot pls

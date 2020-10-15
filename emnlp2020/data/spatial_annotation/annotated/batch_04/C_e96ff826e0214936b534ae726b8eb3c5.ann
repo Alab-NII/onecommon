@@ -1,0 +1,34 @@
+T1	Markable 12 36	a dark, medium sized dot
+T2	Markable 114 137	a dark medium sized dot
+T3	Markable 314 318	that
+T4	Markable 320 324	Mine
+T6	Markable 359 363	mine
+T7	Markable 404 408	that
+T8	Markable 89 97	the same
+R1	Anaphora Arg1:T8 Arg2:T1	
+T9	Markable 189 193	Mine
+T5	Spatial-Relation 37 64	near the edge of the circle
+A1	No-Obj T5
+T10	Spatial-Relation 65 75	on the top
+A2	No-Obj T10
+T11	Spatial-Relation 138 163	near the top of my circle
+A3	No-Obj T11
+T12	Modifier 164 169	a bit
+T13	Spatial-Relation 170 184	left of center
+A4	No-Obj T13
+T14	Modifier 197 202	a bit
+T15	Spatial-Relation 203 218	right of center
+A5	No-Obj T15
+T16	Modifier 328 337	basically
+T17	Spatial-Relation 338 355	touching the line
+A6	No-Obj T17
+#1	AnnotatorNotes T17	on the edge
+T18	Modifier 367 370	not
+T19	Spatial-Relation 371 384	near the line
+A7	No-Obj T19
+#2	AnnotatorNotes T19	outside
+#3	AnnotatorNotes T5	outside
+A8	Mod-Neutral T16
+#4	AnnotatorNotes T11	top
+#5	AnnotatorNotes T13	left
+#6	AnnotatorNotes T15	right

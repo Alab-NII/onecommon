@@ -1,0 +1,5 @@
+0: I see two medium sized dots that are medium grey and pretty close together
+1: I think I know what you're talking about. Is one of them the furthest from the rest of the dots?
+0: No but they're close to two smaller dots that are similar shades of a darker grey.
+1: Yes okay. I know what you mean. Want to pick the dot furthest to the right?
+0: Sure.

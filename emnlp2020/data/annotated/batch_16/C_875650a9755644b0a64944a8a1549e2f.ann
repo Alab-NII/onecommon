@@ -1,0 +1,8 @@
+T1	Markable 44 50	itself
+T2	Markable 125 134	the other
+T3	Markable 108 111	one
+T4	Markable 15 40	a large light gray circle
+R1	Anaphora Arg1:T1 Arg2:T4	
+T5	Markable 62 81	a large gray circle
+T6	Markable 88 106	two darker circles
+T7	Markable 154 182	the large, light gray circle

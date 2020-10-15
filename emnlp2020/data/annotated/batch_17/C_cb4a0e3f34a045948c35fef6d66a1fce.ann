@@ -1,0 +1,17 @@
+T1	Markable 18 44	two really small dark ones
+T2	Markable 59 69	each other
+T3	Markable 71 83	the left one
+T4	Markable 184 200	a tiny light dot
+T5	Markable 121 144	largest sized black Dot
+T6	Markable 222 238	a large dark one
+T7	Markable 313 315	it
+T8	Markable 330 349	two tiny light dots
+T9	Markable 351 355	they
+T10	Markable 372 382	each other
+T11	Markable 450 467	the top light one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T12	Markable 277 290	the tiny ones
+R2	Anaphora Arg1:T7 Arg2:T6	
+R3	Anaphora Arg1:T9 Arg2:T8	
+R4	Anaphora Arg1:T10 Arg2:T8	
+T13	Markable 384 394	bottom one

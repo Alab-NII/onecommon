@@ -1,0 +1,6 @@
+0: I see one dark grey dot, darker than all others and almost as big as the biggest dot
+1: Is there one on each side of it? Above/below?
+0: not of the same color, the one above is a lot lighter and below is a little lighter
+1: Yes. I think that is it. Is it making a curved trail? Going downwards to the right?
+0: yes! should we choose that one in the middle?
+1: Yes.

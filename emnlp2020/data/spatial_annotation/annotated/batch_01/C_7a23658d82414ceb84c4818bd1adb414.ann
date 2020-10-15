@@ -1,0 +1,22 @@
+T1	Markable 46 64	all the other dots
+T3	Markable 91 105	the other dots
+T4	Markable 124 141	a medium gray dot
+T5	Markable 182 184	it
+T6	Markable 194 198	that
+T7	Markable 207 219	the gray dot
+T8	Markable 279 292	the black dot
+T9	Markable 15 26	a black dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+T2	Spatial-Relation 27 45	farthest away from
+T10	Spatial-Relation 69 90	up and to the left of
+R2	Subj Arg1:T10 Arg2:T9	
+T11	Modifier 142 147	about
+T12	Spatial-Relation 148 161	the same size
+T13	Spatial-Relation 162 181	to the far right of
+T14	Modifier 220 234	maybe slightly
+T15	Spatial-Relation 235 242	smaller
+T16	Modifier 245 258	very slightly
+R3	Mod Arg1:T16 Arg2:T15	
+#1	AnnotatorNotes T2	far
+A1	Mod-Subtlty T14
+A2	Mod-Subtlty T16

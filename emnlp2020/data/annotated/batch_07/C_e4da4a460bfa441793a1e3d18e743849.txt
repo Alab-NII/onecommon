@@ -1,0 +1,6 @@
+0: hello which dot would you like to try for?
+1: THere is a small black dot at the top of the circle by itself
+0: Dont have that one. Do you have 3 dots that form a triangle?
+1: yes a large dark gray one on top a small black on bottom left and a large black one bottom right
+0: yes i have that! which one do you want to click?
+1: the small black left one

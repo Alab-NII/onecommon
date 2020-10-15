@@ -1,0 +1,3 @@
+0: 1 lone tiny grey dot. up and to the right of that is also a tiny darker dot
+1: I don't have that. What about a large light gray dot with a smaller same color dot below and to the right of it? They are very close together.
+0: yes. i have that. pick larger grey dot

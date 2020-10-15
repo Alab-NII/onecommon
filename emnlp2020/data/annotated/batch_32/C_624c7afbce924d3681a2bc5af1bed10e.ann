@@ -1,0 +1,14 @@
+T1	Markable 72 83	small black
+T2	Markable 3 17	group of three
+T3	Markable 113 124	a black one
+T4	Markable 195 218	the tiny light grey dot
+T5	Markable 153 174	a small dark grey dot
+T6	Markable 235 241	3 dots
+T7	Markable 273 277	that
+T8	Markable 250 260	a triangle
+T9	Markable 299 316	the tiny grey dot
+T10	Markable 19 34	small dark grey
+T11	Markable 43 52	tiny grey
+A1	No-Referent T3
+R1	Predicative Arg1:T8 Arg2:T6	
+R2	Anaphora Arg1:T7 Arg2:T6	

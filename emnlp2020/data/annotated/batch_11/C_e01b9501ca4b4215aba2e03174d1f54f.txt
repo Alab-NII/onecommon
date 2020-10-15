@@ -1,0 +1,5 @@
+1: do you a big, black dot towards the edge?
+0: I have one very large dark gray dot with a little light gray dot to to SE
+1: i don't have that, do you have a tiny dark circle, to the right and slightly above it is a larger, a little lighter circle?
+0: I think I have your large black dot near the edge. Let's choose it.
+1: ok

@@ -1,0 +1,7 @@
+T1	Markable 14 37	a lonely tiny light dot
+T2	Markable 47 54	one dot
+T3	Markable 58 64	itself
+T4	Markable 107 109	it
+T5	Markable 161 175	the other ones
+R1	Anaphora Arg1:T3 Arg2:T2	
+T6	Markable 134 137	its

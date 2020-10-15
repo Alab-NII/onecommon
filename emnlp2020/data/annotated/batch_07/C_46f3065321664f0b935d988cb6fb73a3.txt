@@ -1,0 +1,5 @@
+0: I have one medium-grey dot way off away from the rest
+1: I dont have that. I have 2 dots in a vertical line with the center being the darkest
+0: Is that your only dark dot?
+1: i'm sorry typo, I have 3 dots! yes it is my only dark
+0: Alright, I have the same group. Let's click that dark one

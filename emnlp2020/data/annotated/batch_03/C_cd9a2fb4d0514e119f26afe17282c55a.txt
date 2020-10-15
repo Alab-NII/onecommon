@@ -1,0 +1,3 @@
+1: One large dark gray dot above a smaller black dot
+0: toward top?
+1: Yeah. Click the larger one of those

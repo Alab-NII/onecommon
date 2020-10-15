@@ -1,0 +1,14 @@
+T1	Markable 96 111	a dark grey dot
+T2	Markable 39 62	a light grey, large dot
+T3	Markable 159 164	seven
+T4	Markable 186 210	the light grey large dot
+T5	Markable 271 292	the black smaller dot
+T6	Markable 335 361	the dark, almost black dot
+T7	Markable 308 328	two medium gray dots
+T8	Markable 441 453	the dark dot
+T9	Markable 610 635	the large, light grey dot
+T10	Markable 136 137	7
+A1	All-Referents T10
+T11	Markable 218 221	its
+T12	Markable 377 398	one medium, dark grey
+T13	Markable 522 547	the medium, dark gray dot

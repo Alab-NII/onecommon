@@ -1,0 +1,7 @@
+1: One large dot that is the darkest and very far away from the rest
+0: Dont have any lone dots on mine. How about three that make a line sloping up and to the right? the middle one of the three is the darkest
+1: No. Do you have a tiny medium shade dot that is close to a medium size light grey do to its right?
+0: Yes. the tiny one is slightly lower than the medium one?
+1: Yes!
+0: ok lets click the tiny one
+1: Sounds good!

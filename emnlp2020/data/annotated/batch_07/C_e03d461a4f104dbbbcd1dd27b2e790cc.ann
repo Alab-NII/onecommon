@@ -1,0 +1,24 @@
+T1	Markable 30 33	one
+T2	Markable 37 49	a group of 4
+T3	Markable 77 89	a group of 3
+T4	Markable 10 29	two groups of dots,
+T5	Markable 101 117	a triangle shape
+T6	Markable 137 145	one pair
+T7	Markable 197 213	a smaller darker
+T8	Markable 186 196	Other pair
+T9	Markable 438 453	that darker one
+T10	Markable 398 413	the lighter one
+T11	Markable 248 256	the pair
+T12	Markable 317 327	the darker
+T13	Markable 368 373	a dot
+T14	Markable 469 491	that lighter lower one
+R1	Predicative Arg1:T5 Arg2:T3	
+T15	Markable 127 136	two pairs
+T16	Markable 151 158	lighter
+T17	Markable 177 183	darker
+T18	Markable 220 234	bigger lighter
+T19	Markable 262 269	lighter
+T20	Markable 285 291	darker
+T21	Markable 297 304	the one
+R2	Anaphora Arg1:T10 Arg2:T19	
+R3	Anaphora Arg1:T9 Arg2:T21	

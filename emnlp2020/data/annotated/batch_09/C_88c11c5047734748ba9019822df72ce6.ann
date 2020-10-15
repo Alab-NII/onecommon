@@ -1,0 +1,10 @@
+T1	Markable 15 34	one large black dot
+T2	Markable 41 56	a dark grey one
+T3	Markable 131 148	a light small dot
+T4	Markable 166 178	the triangle
+T5	Markable 93 99	3 dots
+T6	Markable 107 117	a triangle
+T7	Markable 188 190	it
+T8	Markable 197 216	the small light dot
+R1	Predicative Arg1:T6 Arg2:T5	
+R2	Anaphora Arg1:T4 Arg2:T5	

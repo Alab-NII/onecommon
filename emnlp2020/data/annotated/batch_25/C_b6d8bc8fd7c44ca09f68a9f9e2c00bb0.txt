@@ -1,0 +1,5 @@
+1: do you have any almost touching the border
+0: our borders are different. two almost identical looking large med grey dots?
+1: don't have them how about a solo black by itself
+0: yes is it furthest up from the rest of the dots?
+1: yes

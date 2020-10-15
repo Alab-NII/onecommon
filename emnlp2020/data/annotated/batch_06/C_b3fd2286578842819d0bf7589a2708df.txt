@@ -1,0 +1,4 @@
+0: I have a cluster of three dots that form a triangle. A small light one at the top, a dark medium one to the right, and a dark medium one below to the left
+1: Yes! I do too. It there a light larger one above the small one but slightly to the right?
+0: yes! Let's pick the small light one that is part of the triangle
+1: K!

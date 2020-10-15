@@ -1,0 +1,6 @@
+1: There is a large black dot in upper right area
+0: yes with a large grey dot to the right of it?
+1: I don't see the large grey dot to the right :(
+0: do you see a large light grey dot below it toward the bottom
+1: yes
+0: ok choose the large black dot

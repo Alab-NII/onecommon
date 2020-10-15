@@ -1,0 +1,26 @@
+T1	Markable 10 36	a very large very dark dot
+T2	Markable 52 58	itself
+T3	Markable 68 100	a much lighter, much smaller dot
+T4	Markable 60 62	It
+T5	Markable 153 155	it
+T6	Markable 131 145	any other dots
+T7	Markable 218 220	it
+T8	Markable 267 286	a smaller, dark dot
+T9	Markable 255 257	It
+T10	Markable 310 314	They
+T11	Markable 345 347	it
+T12	Markable 409 417	that one
+T13	Markable 351 384	the much smaller much lighter one
+T15	Markable 436 471	a medium sized, slightly darker dot
+T16	Markable 519 537	the first dark dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T1	
+T17	Markable 104 107	its
+R3	Anaphora Arg1:T17 Arg2:T4	
+A1	Generic T6
+R4	Anaphora Arg1:T9 Arg2:T7	
+T18	Markable 295 298	its
+R5	Anaphora Arg1:T18 Arg2:T9	
+T19	Markable 396 399	any
+A2	Generic T19
+R6	Anaphora Arg1:T12 Arg2:T13	

@@ -1,0 +1,11 @@
+T1	Markable 55 65	each other
+T2	Markable 109 112	one
+T3	Markable 140 143	one
+T4	Markable 164 174	those dots
+T5	Markable 193 202	your dots
+T6	Markable 214 225	the top one
+T7	Markable 229 236	my dots
+T8	Markable 3 35	two identical light grey mediums
+R1	Anaphora Arg1:T1 Arg2:T8	
+T9	Markable 76 84	two dots
+A1	No-Referent T5

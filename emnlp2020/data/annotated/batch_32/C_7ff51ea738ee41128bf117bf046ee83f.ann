@@ -1,0 +1,13 @@
+T1	Markable 10 22	a tiny black
+T2	Markable 28 35	nothing
+T3	Markable 42 44	it
+T4	Markable 73 81	that one
+T5	Markable 101 123	a medium size dark one
+T6	Markable 188 192	that
+T7	Markable 204 214	the darker
+A1	No-Referent T2
+R1	Anaphora Arg1:T3 Arg2:T1	
+A2	No-Referent T4
+T8	Markable 129 150	a smaller lighter one
+T9	Markable 158 161	its
+R2	Anaphora Arg1:T9 Arg2:T5	

@@ -1,0 +1,4 @@
+1: Do you have only one medium colored dot?
+0: no. do you have two med sized dots almost exactly horizontal from each other and the one on the right is dark grey?
+1: Yes
+0: k click the light grey one on the left

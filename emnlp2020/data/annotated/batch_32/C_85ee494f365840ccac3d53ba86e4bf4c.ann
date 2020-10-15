@@ -1,0 +1,9 @@
+T1	Markable 36 56	a smaller light grey
+T2	Markable 63 65	it
+T3	Markable 118 120	it
+T5	Markable 129 144	the medium grey
+T6	Markable 202 214	the tiny one
+T7	Markable 223 243	the medium black one
+T8	Markable 10 30	a medium sized black
+R1	Anaphora Arg1:T2 Arg2:T8	
+T9	Markable 97 111	a med gray one

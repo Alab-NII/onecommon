@@ -1,0 +1,4 @@
+0: I see one small light gray dot. lets choose it
+1: I see a large light gray dot
+0: lets choose the top one
+1: Your top is different from my top

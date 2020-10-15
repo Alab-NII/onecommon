@@ -1,0 +1,9 @@
+T1	Markable 32 42	the middle
+T2	Markable 72 78	3 dots
+T3	Markable 82 97	a vertical line
+T4	Markable 131 149	darker smaller one
+T5	Markable 10 11	3
+R1	Predicative Arg1:T3 Arg2:T2	
+T6	Markable 115 120	Light
+T7	Markable 168 186	medium gray larger
+T8	Markable 218 228	the middle

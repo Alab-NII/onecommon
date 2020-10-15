@@ -1,0 +1,4 @@
+1: I have two lone dots at the bottom one is large and one is small
+0: Is large one above the smaller, and a bit to the smaller's left?
+1: yes click the small one?
+0: ok

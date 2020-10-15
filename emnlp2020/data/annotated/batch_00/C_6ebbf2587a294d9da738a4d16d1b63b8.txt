@@ -1,0 +1,5 @@
+0: I see one dot that is smaller and lighter gray than the others at about 3 oclock
+1: is there a large dark one to its upper left
+0: Yes, there is a dark one to upper left about 1 inch away
+1: okay, I have the same one
+0: Ok, let's pick that small light gray one

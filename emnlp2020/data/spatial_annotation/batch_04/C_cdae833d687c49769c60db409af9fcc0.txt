@@ -1,0 +1,4 @@
+1: Medium dark dot almost in the center
+0: i see three dots close together. a dark grey one with a medium grey dot next to it to the right and slightly higher. below it and to the left is a black dot that is the same size as the dark grey dot
+1: I see that too. Let's choose black one
+0: ok

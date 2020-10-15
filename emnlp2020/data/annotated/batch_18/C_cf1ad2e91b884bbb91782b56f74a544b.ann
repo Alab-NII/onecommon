@@ -1,0 +1,5 @@
+T1	Markable 54 75	lightest and smallest
+T2	Markable 151 167	that largest one
+T3	Markable 3 13	three dots
+T4	Markable 92 117	largest and med shade one
+R1	Anaphora Arg1:T2 Arg2:T4	

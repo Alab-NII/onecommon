@@ -1,0 +1,7 @@
+1: I have a dark dot hitting the left center border
+0: Is there a dark slightly smaller dot to the southeast of it?
+1: yes
+0: is there a small light gray dot above the smaller one?
+1: yes
+0: lets pick the small light dot
+1: will do

@@ -1,0 +1,6 @@
+1: I see two grey dots, practically the same size, almost vertical, with the top one more to the left
+0: darker gray at the top alone smaller and the same colored one and size at slightly below 3 o clock
+1: I think so? Not quite sure what you mean by at the "top alone smaller"
+0: i have a smaller one that is med gray colored at the top that is alone nothing by it sorry was not clear enough then i also have the same one that is slightly below 3 o clock the rest of mine are in the middle then
+1: Mine are all in the middle and I have a darker one dead on 3 o'clock. I have the two I mentioned first - almost vertical, med gray. The top one of those is sort of close to a light gray, slightly larger dot at the right of it. The one at the 3 o'clock is to the far right from everything else. I think that might be the one we should pick?
+0: lets try the 3 o clock

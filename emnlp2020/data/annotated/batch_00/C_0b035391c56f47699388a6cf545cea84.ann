@@ -1,0 +1,20 @@
+T1	Markable 10 38	one small very very grey dot
+T2	Markable 47 68	a larger lighter grey
+T3	Markable 143 159	no two dark dots
+T4	Markable 198 221	3 large light grey dots
+T5	Markable 257 261	they
+T6	Markable 242 252	each other
+T7	Markable 292 302	a triangle
+T8	Markable 331 341	each other
+T9	Markable 346 360	more of a line
+T10	Markable 487 489	it
+T11	Markable 72 101	Two very dark very small dots
+T12	Markable 107 124	medium light grey
+A1	No-Referent T3
+R1	Anaphora Arg1:T6 Arg2:T4	
+R2	Anaphora Arg1:T5 Arg2:T4	
+T13	Markable 274 278	they
+R3	Predicative Arg1:T7 Arg2:T13	
+R4	Anaphora Arg1:T8 Arg2:T13	
+T14	Markable 374 375	3
+T15	Markable 426 429	one

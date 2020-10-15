@@ -1,0 +1,4 @@
+1: Hi. I see an isolated dark gray dot.
+0: I got three dots in line slanted upwards
+1: i see three dots slanted upwards. to the right?
+0: Yeah click the top dark one

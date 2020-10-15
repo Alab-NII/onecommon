@@ -1,0 +1,17 @@
+T1	Markable 42 68	a smaller lighter gray dot
+T2	Markable 15 36	a large dark gray dot
+T3	Markable 85 87	it
+T4	Markable 197 199	it
+T5	Markable 214 234	any small black dots
+T6	Markable 246 265	one small black dot
+T7	Markable 333 335	it
+T8	Markable 290 306	a small gray dot
+T9	Markable 365 405	a lighter grey but not the lightest grey
+T12	Markable 454 473	the small black dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+T13	Markable 99 108	7 circles
+A1	All-Referents T13
+T14	Markable 141 165	a large dark grey circle
+T15	Markable 174 187	a smaller one
+R2	Anaphora Arg1:T4 Arg2:T14	
+A2	No-Referent T15

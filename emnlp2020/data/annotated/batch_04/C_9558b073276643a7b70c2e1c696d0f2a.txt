@@ -1,0 +1,5 @@
+1: 1 only have 1 dark dot it is small and near top left do u have it
+0: i have 1 dark dot at the bottom right
+1: one med dark dot near left center do u have it
+0: it's more centered but yes towards the left
+1: lets click it

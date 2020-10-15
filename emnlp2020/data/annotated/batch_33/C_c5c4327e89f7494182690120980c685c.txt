@@ -1,0 +1,5 @@
+1: I have a medium sized black with a smaller, also black dot very close below it and slightly to the right
+0: my largest dot is medium dark and all by itself
+1: I see a few that could be that. Do you see what I described?
+0: yes, i see what you described.
+1: Click the larger darker one of what I described. Sounds Good!

@@ -1,0 +1,22 @@
+T1	Markable 9 20	3 dark dots
+T2	Markable 31 53	a small light gray one
+T3	Markable 90 119	four dark and three grey ones
+T4	Markable 133 152	3 dark-almost black
+T5	Markable 154 165	a dark gray
+T6	Markable 167 181	a regular gray
+T7	Markable 244 261	a big grey circle
+T8	Markable 273 286	3 bigger ones
+T9	Markable 362 374	the big grey
+T10	Markable 71 78	those 3
+R1	Anaphora Arg1:T10 Arg2:T1	
+T11	Markable 187 202	two light grays
+T12	Markable 291 318	one bigger medium-gray spot
+T13	Markable 324 339	everything else
+T14	Spatial-Relation 54 70	in the center of
+T15	Spatial-Relation 343 350	smaller
+R2	Obj Arg1:T15 Arg2:T8	
+R3	Obj Arg1:T15 Arg2:T12	
+T16	Spatial-Relation 275 281	bigger
+A1	No-Obj T16
+T17	Spatial-Relation 295 301	bigger
+A2	No-Obj T17

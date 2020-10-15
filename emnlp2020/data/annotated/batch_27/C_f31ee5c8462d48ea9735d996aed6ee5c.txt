@@ -1,0 +1,6 @@
+0: i have a tiny dark dot with a large dark dot directly above it
+1: i have a line of three dots, they are all quite dark. the middle is the smallest
+0: yeah. that has to be my large dot in the left of your line. does your line go uphill towards the right?
+1: yes. i see your small dot too... shall we select that tiny dot?
+0: ok
+0: your dot or mine?

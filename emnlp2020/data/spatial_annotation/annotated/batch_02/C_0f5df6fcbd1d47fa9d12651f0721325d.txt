@@ -1,0 +1,5 @@
+0: Hello which dot would you like to try for?
+1: I have two dots that are very close together. The one on top is darker, larger and a little to the right
+0: i see it!
+1: Lets click the top one.
+0: sounds good

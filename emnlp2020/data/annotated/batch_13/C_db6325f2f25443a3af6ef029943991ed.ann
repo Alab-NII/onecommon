@@ -1,0 +1,11 @@
+T1	Markable 109 132	a tiny little black dot
+T2	Markable 138 141	one
+T3	Markable 229 238	something
+T4	Markable 248 250	It
+T5	Markable 313 320	the one
+T6	Markable 337 348	The top one
+T7	Markable 3 11	Two dots
+T8	Markable 32 35	Top
+T9	Markable 59 69	the bottom
+T10	Markable 201 203	It
+R1	Anaphora Arg1:T6 Arg2:T5	

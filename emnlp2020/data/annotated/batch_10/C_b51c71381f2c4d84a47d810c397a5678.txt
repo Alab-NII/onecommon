@@ -1,0 +1,3 @@
+1: I see one dark gray dot
+0: My darkest is also my largest. it is surrounded by 4 other dots.
+1: I do not see the other four dots. I only see the dots that are next to the dark gray dot.

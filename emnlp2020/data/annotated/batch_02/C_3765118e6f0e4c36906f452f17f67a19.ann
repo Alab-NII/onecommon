@@ -1,0 +1,14 @@
+T1	Markable 10 24	a cluster of 3
+T2	Markable 96 119	med/dark and larger one
+T3	Markable 126 130	that
+T4	Markable 168 180	the dark one
+T5	Markable 26 33	darkest
+T6	Markable 64 89	lighter, slightly smaller
+T7	Markable 134 137	all
+R1	Anaphora Arg1:T7 Arg2:T1	
+T8	Markable 184 202	the dark small one
+T9	Markable 206 220	dark large one
+T10	Markable 225 243	The dark small one
+T11	Markable 247 258	the cluster
+T12	Markable 259 261	it
+R2	Anaphora Arg1:T12 Arg2:T10	

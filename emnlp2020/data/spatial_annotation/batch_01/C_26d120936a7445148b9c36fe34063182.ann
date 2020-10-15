@@ -1,0 +1,15 @@
+T1	Markable 10 37	one very large and dark dot
+T2	Markable 61 72	all of mine
+T3	Markable 95 113	one very light dot
+T4	Markable 118 136	one dark black dot
+T5	Markable 179 197	no very light dots
+T6	Markable 202 219	several dark ones
+T7	Markable 280 282	it
+T8	Markable 242 254	one dark one
+T9	Markable 306 322	a same sized one
+T10	Markable 353 355	it
+T11	Markable 407 420	that dark dot
+A1	All-Referents T2
+T12	Markable 150 168	multiple of either
+A2	No-Referent T5
+R1	Anaphora Arg1:T7 Arg2:T8	

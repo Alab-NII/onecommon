@@ -1,0 +1,22 @@
+T1	Markable 10 16	3 dots
+T2	Markable 34 44	a triangle
+T3	Markable 55 67	2 large dots
+T4	Markable 90 97	top one
+T5	Markable 112 126	the bottom one
+T6	Markable 175 186	4 more dots
+T7	Markable 227 242	a straight line
+T8	Markable 270 274	that
+T9	Markable 292 301	all of it
+T10	Markable 315 327	the triangle
+T11	Markable 356 360	they
+T12	Markable 348 351	one
+T14	Markable 446 461	the middle ones
+T15	Markable 513 523	a dark one
+T16	Markable 544 557	the light one
+T17	Markable 570 582	the dark one
+R1	Predicative Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T7 Arg2:T6	
+A1	No-Referent T8
+R3	Anaphora Arg1:T11 Arg2:T12	
+T13	Markable 418 422	part
+A2	Generic T9

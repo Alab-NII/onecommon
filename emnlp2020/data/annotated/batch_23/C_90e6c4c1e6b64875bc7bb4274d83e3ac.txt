@@ -1,0 +1,4 @@
+1: i have two close, same sized large dots, top one is black, bottom one is light grey
+0: bottom one is slightly to the right?
+1: yes it is, let's choose the bottom one?
+0: ok

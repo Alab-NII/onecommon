@@ -1,0 +1,5 @@
+0: have two large black dots on opposite ends of circle
+1: I have a large black one, with a smaller, slightly lighter one to it's left
+0: where is your large black one located
+1: at the top
+0: mine too lets try it ok

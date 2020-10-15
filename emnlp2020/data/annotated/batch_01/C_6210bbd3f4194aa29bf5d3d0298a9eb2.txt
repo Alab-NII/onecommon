@@ -1,0 +1,6 @@
+0: i have a lonely gray dot to the top and right
+1: I have 3 dots, one consists of my only, large, light grey dot. other two dots by it are black and smaller than the light grey one
+0: i don't have any light gray but i do have 2 smaller black dots
+1: are they kind of aligned vertically and connected in the center by a larger black dot
+0: yes ... choose the large black one?
+1: ok

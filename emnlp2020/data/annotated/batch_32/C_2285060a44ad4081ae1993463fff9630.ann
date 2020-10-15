@@ -1,0 +1,10 @@
+T1	Markable 30 40	each other
+T2	Markable 117 120	one
+T3	Markable 105 115	each other
+T4	Markable 173 191	the left lower one
+T5	Markable 3 15	2 black dots
+R1	Anaphora Arg1:T1 Arg2:T5	
+T6	Markable 42 45	one
+T7	Markable 78 96	2 dark medium dots
+R2	Anaphora Arg1:T3 Arg2:T7	
+T8	Markable 157 165	the same

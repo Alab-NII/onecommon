@@ -1,0 +1,6 @@
+T1	Markable 61 68	top one
+T2	Markable 25 35	each other
+T3	Markable 3 15	two vertical
+R1	Anaphora Arg1:T2 Arg2:T3	
+T4	Markable 37 41	both
+R2	Anaphora Arg1:T4 Arg2:T3	

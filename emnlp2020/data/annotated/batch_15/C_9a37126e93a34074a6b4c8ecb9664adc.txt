@@ -1,0 +1,5 @@
+1: Can you see a triangle of dots? very close together?
+0: Cluster of three very close. One tiny light grey on bottom with a bigger black dot up and to the left
+1: Got to be the same thing. Lets go for the small light one?
+0: Sounds good!
+1: Good luck!

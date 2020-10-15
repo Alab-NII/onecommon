@@ -1,0 +1,20 @@
+T1	Markable 10 17	one dot
+T2	Markable 63 65	it
+T3	Markable 88 90	it
+T4	Markable 43 57	all the others
+R1	Anaphora Arg1:T2 Arg2:T1	
+T5	Markable 96 128	a medium grey, half the size dot
+T6	Markable 180 193	that dark one
+T7	Modifier 26 30	much
+T8	Spatial-Relation 31 42	darker than
+T9	Spatial-Attribute 74 79	large
+T10	Spatial-Relation 129 141	to the right
+R2	Obj Arg1:T10 Arg2:T3	
+T11	Spatial-Relation 111 124	half the size
+R3	Obj Arg1:T11 Arg2:T3	
+T12	Modifier 143 151	slightly
+T13	Spatial-Relation 152 158	higher
+R4	Obj Arg1:T13 Arg2:T3	
+T14	Modifier 69 73	very
+#1	AnnotatorNotes T11	smaller
+A1	Mod-Extremity T7

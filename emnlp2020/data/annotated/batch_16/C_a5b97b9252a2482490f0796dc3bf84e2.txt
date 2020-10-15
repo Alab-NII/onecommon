@@ -1,0 +1,4 @@
+0: medium gray at bottom to the right
+1: Is it part of a triangle?
+0: part of triangle with 2 small dark dots
+1: ah I see that too, take the one furthest to right

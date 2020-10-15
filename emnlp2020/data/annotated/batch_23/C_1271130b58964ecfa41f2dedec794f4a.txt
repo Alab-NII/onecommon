@@ -1,0 +1,5 @@
+1: I have a medium dark grey dot with a smaller dark gray dot (same color) slightly right of it
+0: I don't have that. I have a cluster of three medium sized dots that form a triangle. The top and left dots are the same size, the lower right is slightly smaller and darker
+1: I think I have that - is the dot that forms the bottom left corner of the triangle slightly lower than the other one on the bottom?
+0: yes and it also is slightly lighter than the others
+1: Yes, exactly. Lets pick that one.

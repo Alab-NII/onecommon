@@ -1,0 +1,15 @@
+T1	Markable 9 15	4 dots
+T3	Markable 150 156	3 dots
+T4	Markable 172 187	a vertical line
+T5	Markable 222 235	the other two
+T6	Markable 189 200	The top one
+T7	Markable 237 239	it
+T9	Markable 37 40	Top
+T10	Markable 71 77	bottom
+T11	Markable 114 117	a c
+A1	No-Referent T11
+R1	Predicative Arg1:T4 Arg2:T3	
+T2	Markable 268 274	bottom
+T12	Markable 309 315	middle
+T13	Markable 337 352	dark light grey
+T14	Markable 365 387	the med color grey one

@@ -1,0 +1,6 @@
+1: I have two small light gray dots, one below and slightly to the right
+0: i have one really small grey dot, with one thats larger and darker below and to the right, otherwise i have two larger dark dots that are on a diagonal from each other
+1: Of those two large dark dots, does one of them have a small light gray and a medium medium gray to its right?
+0: yeah
+1: I think the small gray dot is it. What about you?
+0: it can be any of the ones we see together. we can pick that really light really small one

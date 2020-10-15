@@ -1,0 +1,12 @@
+T1	Markable 10 34	one large light grey dot
+T2	Markable 86 88	it
+T3	Markable 45 69	a smaller light gray dot
+T4	Markable 123 135	cluster of 4
+R1	Anaphora Arg1:T2 Arg2:T1	
+T5	Markable 92 98	7 dots
+A1	All-Referents T5
+T6	Markable 100 106	2 grey
+T7	Markable 150 159	large one
+T8	Markable 185 194	which one
+A2	Generic T8
+T9	Markable 214 224	large grey

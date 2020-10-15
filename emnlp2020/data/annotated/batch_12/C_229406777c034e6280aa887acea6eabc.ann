@@ -1,0 +1,13 @@
+T1	Markable 52 62	each other
+T2	Markable 10 37	two larger medium grey dots
+T4	Markable 101 105	they
+T5	Markable 183 195	two big dots
+T6	Markable 205 215	each other
+T7	Markable 217 224	The one
+T8	Markable 269 273	them
+T9	Markable 288 310	the higher lighter one
+T3	Markable 64 83	The bottom left one
+T10	Markable 137 147	large dots
+R1	Anaphora Arg1:T1 Arg2:T2	
+R2	Anaphora Arg1:T6 Arg2:T5	
+R3	Anaphora Arg1:T8 Arg2:T5	

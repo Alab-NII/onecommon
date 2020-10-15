@@ -1,0 +1,5 @@
+1: I have a large dark gray dot with a slightly smaller very light gray dot above and slightly to the right of it
+0: I have a small grey dot on the left with a larger grey dot just down and to the right
+1: Are they both medium gray in color?
+0: yes
+1: Let's pick the larger one that is below to the right

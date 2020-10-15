@@ -1,0 +1,26 @@
+T1	Markable 55 76	smallest and lightest
+T2	Markable 176 196	that tiny middle one
+T3	Markable 3 13	three dots
+T4	Markable 98 129	largest and slightly darker one
+T5	Spatial-Relation 14 28	close together
+A1	No-Obj T5
+T6	Spatial-Relation 29 45	on vertical line
+A2	No-Obj T6
+T7	Spatial-Relation 55 63	smallest
+T8	Spatial-Relation 68 76	lightest
+T9	Spatial-Relation 83 96	in the middle
+R1	Obj Arg1:T7 Arg2:T3	
+R2	Obj Arg1:T8 Arg2:T3	
+R3	Obj Arg1:T9 Arg2:T3	
+T10	Spatial-Relation 98 105	largest
+T11	Modifier 110 118	slightly
+T12	Spatial-Relation 119 125	darker
+T13	Spatial-Relation 130 135	below
+T14	Modifier 140 148	slightly
+T15	Spatial-Relation 149 161	to the right
+R4	Obj Arg1:T10 Arg2:T3	
+R5	Obj Arg1:T12 Arg2:T3	
+R6	Obj Arg1:T13 Arg2:T3	
+R7	Obj Arg1:T15 Arg2:T3	
+T16	Spatial-Relation 186 192	middle
+R8	Obj Arg1:T16 Arg2:T3	

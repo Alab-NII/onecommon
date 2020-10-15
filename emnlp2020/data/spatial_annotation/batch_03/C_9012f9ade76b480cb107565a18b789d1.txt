@@ -1,0 +1,4 @@
+0: Do you have a large black dot?
+1: yes its to the left of a smaller and lighter dot thats slightly lower
+0: Yes!
+1: ok the larger black dot?

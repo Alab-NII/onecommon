@@ -1,0 +1,3 @@
+0: can you see three dark ball in line on upper left side of circle
+1: i have three dark ones not in the same spot but the lowest one is the largest and they go slightly in a diagonal
+0: yes...lets select lower larger one

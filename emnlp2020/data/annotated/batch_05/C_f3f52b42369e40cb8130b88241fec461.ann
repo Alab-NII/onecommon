@@ -1,0 +1,21 @@
+T1	Markable 41 43	it
+T2	Markable 120 134	two small ones
+T3	Markable 144 154	each other
+T4	Markable 360 373	two med black
+T5	Markable 454 456	it
+T7	Markable 467 477	bottom one
+T9	Markable 3 22	one large black dot
+R1	Anaphora Arg1:T1 Arg2:T9	
+T10	Markable 47 50	One
+R2	Anaphora Arg1:T3 Arg2:T2	
+T11	Markable 177 190	two close-ish
+T12	Markable 216 219	one
+T13	Markable 228 231	one
+T14	Markable 242 245	top
+T15	Markable 288 297	my middle
+T16	Markable 316 324	med grey
+T17	Markable 342 351	med black
+T18	Markable 414 432	the dark med black
+R3	Anaphora Arg1:T5 Arg2:T18	
+T6	Markable 460 463	top
+T19	Markable 481 493	Bottom right

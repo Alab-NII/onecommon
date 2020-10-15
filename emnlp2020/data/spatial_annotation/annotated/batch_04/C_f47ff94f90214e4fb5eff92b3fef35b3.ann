@@ -1,0 +1,12 @@
+T1	Markable 15 44	one very small light gray dot
+T2	Markable 101 104	one
+T3	Markable 65 76	2 gray dots
+T4	Markable 140 154	the darker one
+T5	Modifier 77 82	about
+T6	Spatial-Relation 83 96	the same size
+A1	No-Obj T6
+T7	Spatial-Relation 108 114	darker
+R1	Obj Arg1:T7 Arg2:T3	
+T8	Spatial-Relation 144 150	darker
+R2	Obj Arg1:T8 Arg2:T3	
+A2	Mod-Uncertainty-Approximation T5

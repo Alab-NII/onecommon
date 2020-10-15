@@ -1,0 +1,5 @@
+0: Do you see a pair very close together one is both larger and darker than the other?
+1: There are two dots that are closely together. one is dark and larger than the small and lightly grey
+0: Close like less than a centimeter right?
+1: Yeah!
+0: Nice one, lets do for the larger darker one, good luck friend

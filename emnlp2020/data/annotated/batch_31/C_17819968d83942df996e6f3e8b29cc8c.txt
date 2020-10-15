@@ -1,0 +1,6 @@
+0: I have 4 tiny dots in a curve line
+1: are they gray with one black dot to the left?
+0: The only black dot i have is small and far alone
+1: i have one black dot far alone too. i think we have the same curve 4 gray dots
+0: Let us select the black dot far alone
+1: ok

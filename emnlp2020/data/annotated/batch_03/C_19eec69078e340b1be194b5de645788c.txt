@@ -1,0 +1,3 @@
+1: do you see a light grey circle to the left of a slightly larger and darker circle?
+0: No I dont see that. Do you see two dots almost exactly vertical to each other. They are both pretty dark, and similar shades. The one on bottom is slightly larger and a TINY bit left?
+1: Yes I do! Lets pick the on below!

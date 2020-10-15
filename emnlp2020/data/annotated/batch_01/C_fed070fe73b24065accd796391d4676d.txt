@@ -1,0 +1,4 @@
+1: I have three small dots in a boomerang pattern, the bottom one is the largest and darkest
+0: I have 2 large dots by each other, one medium grey and top one black. I also have what you described
+1: Lets choose the bottom, largest, darkest of the boomerang
+0: ok

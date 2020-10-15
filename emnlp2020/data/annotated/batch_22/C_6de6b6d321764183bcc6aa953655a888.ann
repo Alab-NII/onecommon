@@ -1,0 +1,8 @@
+T1	Markable 53 60	The one
+T2	Markable 145 164	another smaller dot
+T3	Markable 187 191	They
+T4	Markable 204 214	a triangle
+T5	Markable 235 257	the smaller darker dot
+T6	Markable 10 36	two large medium grey dots
+T7	Markable 122 126	that
+R1	Predicative Arg1:T4 Arg2:T3	

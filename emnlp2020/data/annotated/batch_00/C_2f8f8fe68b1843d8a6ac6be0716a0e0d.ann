@@ -1,0 +1,7 @@
+T1	Markable 15 21	3 dots
+T2	Markable 43 51	each one
+T3	Markable 94 105	the top dot
+T4	Markable 247 259	smallest one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T5	Markable 126 134	left dot
+T6	Markable 158 167	right dot

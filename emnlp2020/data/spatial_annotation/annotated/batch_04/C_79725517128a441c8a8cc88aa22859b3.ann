@@ -1,0 +1,45 @@
+T1	Markable 12 25	two dark ones
+T2	Markable 43 53	bottom one
+T3	Markable 69 73	they
+T4	Markable 142 146	they
+T5	Markable 98 112	the bottom one
+T6	Markable 184 189	those
+T7	Markable 239 250	the top one
+T8	Markable 315 323	the pair
+R1	Anaphora Arg1:T3 Arg2:T1	
+T11	Markable 198 203	Which
+A1	Generic T11
+T12	Markable 257 267	which pair
+A2	Generic T12
+T13	Markable 269 281	The top pair
+T14	Markable 286 294	the pair
+T10	Markable 353 355	it
+T15	Modifier 26 32	almost
+T16	Spatial-Relation 33 41	vertical
+A3	No-Obj T16
+T17	Spatial-Relation 43 49	bottom
+T18	Spatial-Relation 57 64	smaller
+T19	Spatial-Relation 81 91	same color
+A4	No-Obj T19
+T20	Spatial-Relation 102 108	bottom
+T21	Modifier 113 120	lightly
+T22	Spatial-Relation 121 133	to the right
+T23	Modifier 152 159	kind of
+T24	Spatial-Attribute 160 165	large
+T25	Spatial-Relation 243 246	top
+R3	Obj Arg1:T25 Arg2:T6	
+T26	Spatial-Relation 263 267	pair
+A5	No-Obj T26
+T27	Spatial-Relation 273 276	top
+A6	No-Obj T27
+A7	Ambiguous-Obj T27
+T28	Spatial-Relation 277 281	pair
+A8	No-Obj T28
+T29	Spatial-Relation 290 294	pair
+A9	No-Obj T29
+T30	Spatial-Relation 319 323	pair
+A10	No-Obj T30
+T32	Spatial-Relation 361 365	pair
+A13	No-Obj T32
+T9	Spatial-Attribute 369 379	large ones
+A14	Mod-Subtlty T21

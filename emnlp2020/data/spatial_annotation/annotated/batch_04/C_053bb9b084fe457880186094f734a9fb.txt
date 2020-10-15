@@ -1,0 +1,8 @@
+0: small dark dot almost centered in circle
+1: i have three dots close together in a triangle, right one is black, middle one dark, right one light-- small dark dot, with a very light dot below it and to the right and another very light dot below it and to the left?
+0: Yes i think i follow...did you have the dark small dot almost directly in center of circle?
+1: my circle has it a bit to the right and below of the center, and our circles are in slightly different places
+0: ok what about the big grey at bottom left touching the line?
+1: nope, that one is outside of my circle, and i think my first set is at the top slightly to the left on your circle
+0: at top the triangle is the darkest dark on the right almost centered near top?
+1: yep, that's the one, let's click on that furthest right one

@@ -1,0 +1,3 @@
+0: I have 5 dots forming a sleeping letter T
+1: Is there one darker than all the rest?
+0: Yes darker and the lowest. let us select that

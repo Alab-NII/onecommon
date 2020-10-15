@@ -1,0 +1,7 @@
+1: I see one large very black dot with an equally large slightly less black dot to the right of it and a small grey dot to the left of the first one
+0: Tiny black dot, to the right are two dots the one to the most right is a large black
+1: I see a somewhat small black dot with nothing to the right of it though
+0: Do you have two larger dots almost touching, bottom left is lighter and larger
+1: no do you have a large greyish but not black dot in the center
+0: Click your smallest black dot
+1: alright

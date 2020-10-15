@@ -1,0 +1,4 @@
+0: My blackest dot is medium size do you have one?
+1: yes is there a slightly larger light grey dot up to its right?
+0: I know it stays lonely. i cannot see what is above is as it is close to the border
+1: ah. okay then click that black one since mine is also pretty far off from the rest!

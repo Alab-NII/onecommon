@@ -1,0 +1,4 @@
+0: ok. very small light gray dot in the middle?
+1: Yes. Is it super light?
+0: yes.
+1: Alright. It is that one

@@ -1,0 +1,3 @@
+0: I see a large gray dot.
+1: I have 2 large grey dots
+0: Is there a medium size black dot above one of the large grey dots?

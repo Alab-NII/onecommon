@@ -1,0 +1,6 @@
+1: Do you see three dots, somewhat spread out, in a boomerang shape?
+0: i have 5 large dots several are in that pattern i have only 1 small grey dot
+1: Most of my dots are about the same size, I have a smaller medium darkness one alone at the bottom, and the largest darkest dot by itself near the top
+0: the small medium darkness one is between 5 and 6 on a clock ?
+1: Yes, closer to 6 than 5
+0: ok lets choose that one

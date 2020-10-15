@@ -1,0 +1,4 @@
+1: i see three same size grey dots, two lighter and one dark in a triangle
+0: Is the darkest one the leftmost
+1: yes
+0: let us select the darkest

@@ -1,0 +1,9 @@
+T1	Markable 10 16	7 dots
+T2	Markable 23 38	the largest one
+T3	Markable 69 71	it
+T4	Markable 102 110	that one
+T5	Markable 131 168	the two smaller and lighter gray dot'
+T7	Markable 185 187	it
+T8	Markable 216 235	the larger gray one
+A1	All-Referents T1
+R1	Anaphora Arg1:T3 Arg2:T2	

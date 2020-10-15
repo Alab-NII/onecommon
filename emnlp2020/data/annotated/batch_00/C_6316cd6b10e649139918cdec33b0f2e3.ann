@@ -1,0 +1,14 @@
+T1	Markable 67 84	a larger dark dot
+T2	Markable 156 158	it
+T3	Markable 120 140	a medium smaller dot
+T5	Markable 276 288	the triangle
+T6	Markable 246 259	a smaller dot
+T7	Markable 208 221	2 larger dots
+T8	Markable 230 240	a triangle
+T9	Markable 326 347	the smaller right dot
+T10	Markable 10 32	a larger very dark dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T4	Markable 177 192	either of those
+A1	No-Referent T4
+R2	Anaphora Arg1:T5 Arg2:T8	
+T11	Markable 361 366	yours

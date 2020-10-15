@@ -1,0 +1,10 @@
+T1	Markable 15 33	a black medium dot
+T2	Markable 49 59	a triangle
+T3	Markable 65 84	two other dark dots
+T4	Markable 95 105	The others
+T5	Markable 150 169	the large black dot
+T6	Markable 185 197	the triangle
+T7	Markable 217 233	the smallest dot
+T8	Markable 237 240	its
+T9	Markable 267 271	that
+R1	Anaphora Arg1:T8 Arg2:T7	

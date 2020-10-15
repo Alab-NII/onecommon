@@ -1,0 +1,3 @@
+0: I see a large light gray right next to a smaller dark gray
+1: Is the small dark grey above the larger one? lets select the larger one
+0: yes, it's at about 1 oclock

@@ -1,0 +1,4 @@
+0: what's the highest one you see?
+1: Do you see two dots very close to each other, darker one is left of a smaller lighter one?
+0: oh yes, if the lighter one is slightly higher... and has a similar one even further slightly higher to It's right?
+1: Yep let's take the lower bigger darker one

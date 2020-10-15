@@ -1,0 +1,5 @@
+1: I see a pure black dot. To its south is a tiny grey dot, To its northeast is a similar sized black dot
+0: Do you see two dots that are pretty close together? I no black dots
+1: The 2 dots you mentioned... do they form a \
+0: Yes this exact shape indeed. The one on top is smaller and lighter
+1: yes! Click the smaller one

@@ -1,0 +1,9 @@
+T1	Markable 58 75	a large light one
+T2	Markable 21 34	the right one
+T3	Markable 154 171	the two dark ones
+T4	Markable 119 135	a small grey one
+T5	Markable 191 208	the big light one
+T6	Markable 3 17	two black ones
+T7	Markable 79 83	it's
+R1	Anaphora Arg1:T7 Arg2:T2	
+T8	Markable 105 113	the same

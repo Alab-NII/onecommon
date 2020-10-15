@@ -1,0 +1,5 @@
+1: I have one large black dot that is close to a small med-gray dot on the bottom left edge of my circle.
+0: i don't see that large black dot on the bottom left. i see a very small dark dot, below and to the left of another small medium grey dot
+1: That is the only black dot I have on mine. I am thinking I should focus on the other side. I have four medium sized med-gray dots that form a kite on the top right of my circle.
+0: i think i see the top of that kite. the top right dot and the one below it are large and medium dark? a very small light dot to the top left?
+1: I think so. Why don't we choose the large medium dark one on the top right.

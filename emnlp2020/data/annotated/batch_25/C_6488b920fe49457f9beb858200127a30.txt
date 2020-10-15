@@ -1,0 +1,3 @@
+0: i have a very small dark dot, it has a large light dot above it
+1: if the large light one is up to the right click that large light one
+0: yes

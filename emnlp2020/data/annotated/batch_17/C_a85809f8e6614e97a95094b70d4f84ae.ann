@@ -1,0 +1,11 @@
+T1	Markable 94 112	a lighter grey dot
+T2	Markable 30 41	the largest
+T3	Markable 19 29	each other
+T4	Markable 64 80	a small dark dot
+T5	Markable 87 89	it
+T6	Markable 150 172	the smallest black one
+T7	Markable 3 9	3 dots
+R1	Anaphora Arg1:T3 Arg2:T7	
+T8	Markable 124 135	the small 1
+R2	Anaphora Arg1:T5 Arg2:T2	
+R3	Anaphora Arg1:T8 Arg2:T4	

@@ -1,0 +1,5 @@
+1: I see one very dark one near the bottom left outline of my circle
+0: I think I have that - theres a lighter, smaller one just up and to the right of it.
+1: YES! But now we have to pick which one of those two it may be. It sounds like one of them is right
+0: Let's try the larger darker one
+1: 10/4

@@ -1,0 +1,6 @@
+0: hi where are your lightest dots please?
+1: I have a small dark dot off to the right by itself
+1: I do not have any very light dots
+0: ok do you have a very dark one all the way on your left? it's got a larger, slightly lighter one above it about an inch or so up
+1: yes. should we pick the lower one?
+0: the darkest lower one, ok yes good luck!!

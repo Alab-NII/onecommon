@@ -1,0 +1,5 @@
+0: i see two dots similar size next to each other, one is much darker than the other
+1: I see that. The dark one is on the left?
+0: yes, lets pick the dark
+1: ok
+0: 5 secs left lol

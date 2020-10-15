@@ -1,0 +1,5 @@
+0: i have a larger med grey dot in between two darker ones. one on top and one on the bottom
+1: four dots in lower right quadrant?
+0: They are not in the same place on our screens. I have one black dot with a larger grey one above and to the left and under the same black dot to the lower right
+1: ok lets click the grey dot in between those then
+0: ok

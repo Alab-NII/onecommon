@@ -1,0 +1,7 @@
+1: I have one big dark grey dot
+0: I see a small black, large dark grey @ 2 oclock. two large grays at 7 oclock
+1: the dots in are circles aren't in the same places; do you have a small black dot with a small grey dot adjacent slightly elevated?
+0: no.
+1: do you have two black dots down sloping with smaller at top?
+0: no. do you have a light grey to the right of a small grey?
+1: yes

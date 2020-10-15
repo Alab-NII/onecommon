@@ -1,0 +1,4 @@
+1: Two dots of same color have a smaller darker one in the middle of them
+0: Small dark grey dot , above it and to the right is a light medium size, below that small darky is a light medium dot
+1: Let us select the small dark gray
+0: Yes

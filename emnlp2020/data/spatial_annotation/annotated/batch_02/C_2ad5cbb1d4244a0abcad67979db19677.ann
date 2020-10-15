@@ -1,0 +1,59 @@
+T1	Markable 10 27	a large black one
+T2	Markable 33 46	a smaller one
+T3	Markable 64 66	it
+T4	Markable 70 72	it
+T5	Markable 149 168	no large light dots
+T6	Markable 177 193	a tiny light one
+T7	Markable 203 214	a large one
+T8	Markable 299 301	it
+T9	Markable 309 328	the large black one
+T10	Markable 340 347	the one
+T13	Markable 372 390	the tiny light one
+T14	Markable 399 401	it
+T15	Markable 443 450	the one
+T16	Markable 483 485	it
+T17	Markable 456 479	the dark grey small one
+T18	Markable 523 541	the tiny light one
+T19	Markable 504 517	the lower one
+R1	Anaphora Arg1:T3 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T1	
+T20	Markable 112 137	very large light grey dot
+A1	No-Referent T5
+T21	Markable 242 272	the very first large black one
+T11	Markable 333 338	which
+A2	Generic T11
+R3	Anaphora Arg1:T14 Arg2:T10	
+T12	Markable 407 416	black one
+T22	Markable 426 441	which black one
+A3	Generic T22
+R4	Anaphora Arg1:T16 Arg2:T15	
+T23	Markable 545 549	it's
+R5	Anaphora Arg1:T23 Arg2:T19	
+T24	Spatial-Relation 28 32	with
+T25	Spatial-Relation 35 42	smaller
+T26	Modifier 47 55	directly
+T27	Spatial-Relation 56 63	next to
+T28	Spatial-Relation 75 86	lower right
+R6	Subj Arg1:T28 Arg2:T2	
+R7	Obj Arg1:T28 Arg2:T4	
+T29	Spatial-Attribute 95 108	med/dark grey
+R8	Subj Arg1:T29 Arg2:T2	
+T30	Spatial-Relation 199 202	has
+T31	Spatial-Relation 223 238	same color/size
+#1	AnnotatorNotes T31	same color; same size
+T32	Spatial-Relation 348 366	on the lower right
+T33	Spatial-Relation 367 371	with
+T34	Spatial-Relation 391 398	next to
+T35	Spatial-Relation 451 455	with
+T36	Spatial-Relation 488 499	lower right
+R9	Subj Arg1:T36 Arg2:T17	
+R10	Obj Arg1:T36 Arg2:T16	
+T37	Spatial-Relation 508 513	lower
+T38	Spatial-Relation 518 522	with
+T39	Spatial-Relation 550 554	left
+R11	Subj Arg1:T39 Arg2:T18	
+R12	Obj Arg1:T39 Arg2:T23	
+#2	AnnotatorNotes T27	near
+T40	Modifier 95 103	med/dark
+A4	Mod-Neutral T40
+#3	AnnotatorNotes T34	near

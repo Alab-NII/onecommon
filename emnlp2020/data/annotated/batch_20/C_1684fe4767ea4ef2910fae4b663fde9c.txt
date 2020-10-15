@@ -1,0 +1,5 @@
+1: I see a medium light gray dot with a larger darker gray dot below it to the right.
+0: Is there a LARGE black dot by it to making a triangle
+1: Yes there is.
+0: Do you want to pick the black one
+1: Sure

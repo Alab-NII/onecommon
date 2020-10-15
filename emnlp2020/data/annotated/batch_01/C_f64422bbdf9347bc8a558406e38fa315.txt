@@ -1,0 +1,5 @@
+0: really big black circle, mine is between 2 and 3 oclock
+1: 12 o clock medium light grey?
+0: no, do you have any big black circles?
+1: just below 3 o clock
+0: lets do that

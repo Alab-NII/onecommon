@@ -1,0 +1,3 @@
+0: three dots diff shades and sizes in a horizontal line?
+1: the left two are closer and the right is darkest?
+0: yes! click the lightest one all the way to the left!

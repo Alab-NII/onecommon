@@ -1,0 +1,3 @@
+0: The smallest dot is light gray
+1: yes, mine is lower right of all others, choose that?
+0: Okay

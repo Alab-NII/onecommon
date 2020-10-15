@@ -1,0 +1,18 @@
+T1	Markable 10 24	two small dots
+T2	Markable 58 68	each other
+T3	Markable 89 108	a cluster of 5 dots
+T4	Markable 124 142	the smaller darker
+T5	Markable 146 153	the two
+T6	Markable 282 289	the one
+T7	Markable 215 226	the cluster
+T8	Markable 239 255	these small dots
+T9	Markable 199 202	two
+T10	Markable 160 164	they
+T11	Markable 350 355	those
+T13	Markable 383 405	the smaller darker one
+T14	Markable 25 33	one dark
+T15	Markable 34 43	one light
+R1	Anaphora Arg1:T2 Arg2:T1	
+T16	Markable 76 80	they
+T17	Markable 172 182	themselves
+R2	Anaphora Arg1:T17 Arg2:T10	

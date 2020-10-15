@@ -1,0 +1,8 @@
+1: I have one really dark dot three dark dots, two light grey and one very light grey
+0: What size is the very light grey dot>
+1: it's medium sized, all mine are medium sized
+0: Is it pretty far away from the rest?
+1: it's in it's own vertical row
+0: Hmm. Do you see a tiny dark grey dot that is pretty far away from the rest?
+1: i don't see that one, what about a dark grey with a dark and super dark above it?
+0: Yes! Let's pick the darkest one out of those!

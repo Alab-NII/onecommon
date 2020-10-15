@@ -1,0 +1,5 @@
+1: I have only one black, medium sized dot close to the bottom of my circle.
+0: is there a large dot to the left
+1: There sure is, and a super light grey dot off to the left of that one too.
+0: ok select the medium black
+1: The medium black.

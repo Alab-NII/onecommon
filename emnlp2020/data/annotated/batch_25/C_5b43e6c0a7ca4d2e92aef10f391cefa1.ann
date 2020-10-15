@@ -1,0 +1,12 @@
+T1	Markable 30 43	a lighter dot
+T2	Markable 14 24	a dark dot
+T3	Markable 50 52	it
+T4	Markable 83 87	that
+T5	Markable 89 104	the lighter dot
+T6	Markable 218 231	the light one
+T7	Markable 241 245	that
+T8	Markable 281 289	gray one
+T9	Markable 316 325	the light
+T10	Markable 342 356	the light gray
+R1	Anaphora Arg1:T3 Arg2:T2	
+T11	Markable 249 266	the darker circle

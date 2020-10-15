@@ -1,0 +1,4 @@
+T1	Markable 40 46	itself
+T2	Markable 72 80	that one
+T3	Markable 10 32	one dark larger circle
+R1	Anaphora Arg1:T1 Arg2:T3	

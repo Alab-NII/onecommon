@@ -1,0 +1,4 @@
+0: I have a very small black dot, with a larger, lighter dot up and to the right of it.
+1: I can't see it, but do you see two big gray ones, one on the top and the other slightly lighter at the bottom left of it?
+0: Yes I do have that. Should we pick the lighter one?
+1: yes, the lighter, ok

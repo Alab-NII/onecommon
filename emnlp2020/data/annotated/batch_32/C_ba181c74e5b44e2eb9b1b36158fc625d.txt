@@ -1,0 +1,2 @@
+0: I have a dark small one, with large light one above it to the left
+1: Let us select the dark small one

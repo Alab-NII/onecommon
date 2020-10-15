@@ -1,0 +1,14 @@
+T1	Markable 15 26	a dark grey
+T2	Markable 125 150	the small upper right one
+T3	Markable 32 57	a really small same color
+T4	Markable 75 79	it's
+R1	Anaphora Arg1:T4 Arg2:T1	
+T5	Spatial-Relation 27 31	with
+T6	Spatial-Relation 47 57	same color
+T7	Modifier 58 66	directly
+T8	Spatial-Relation 67 74	next to
+T9	Spatial-Relation 80 91	upper right
+R2	Subj Arg1:T9 Arg2:T3	
+R3	Obj Arg1:T9 Arg2:T4	
+T10	Spatial-Relation 135 146	upper right
+R4	Obj Arg1:T10 Arg2:T4	

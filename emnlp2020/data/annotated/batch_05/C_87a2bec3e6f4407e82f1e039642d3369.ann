@@ -1,0 +1,9 @@
+T1	Markable 30 40	a triangle
+T3	Markable 174 183	the point
+T6	Markable 51 86	a cluster of three small light dots
+T7	Markable 150 168	the light triangle
+T8	Markable 213 224	the top dot
+T9	Markable 228 240	the triangle
+T10	Markable 3 19	three small dots
+R1	Predicative Arg1:T1 Arg2:T10	
+T11	Markable 91 142	another cluster of two same sized medium black dots

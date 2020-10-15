@@ -1,0 +1,10 @@
+T1	Markable 56 58	it
+T2	Markable 9 30	a very light gray dot
+T3	Markable 71 77	itself
+T4	Markable 108 110	it
+T5	Markable 142 144	it
+R1	Anaphora Arg1:T1 Arg2:T2	
+R2	Anaphora Arg1:T3 Arg2:T2	
+T7	Markable 149 170	it's closest neighbor
+T6	Markable 216 219	its
+T8	Markable 249 257	the same

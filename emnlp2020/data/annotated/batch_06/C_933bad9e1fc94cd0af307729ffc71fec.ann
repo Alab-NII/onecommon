@@ -1,0 +1,6 @@
+T1	Markable 10 16	4 dots
+T2	Markable 85 87	it
+T3	Markable 92 99	the one
+T4	Markable 145 153	that one
+T5	Markable 27 36	a rhombus
+R1	Predicative Arg1:T5 Arg2:T1	

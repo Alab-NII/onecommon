@@ -1,0 +1,41 @@
+T1	Markable 10 18	two dots
+T2	Markable 60 73	the lower one
+T3	Markable 110 138	a very large medium tone dot
+T4	Markable 149 153	mine
+T5	Markable 186 188	it
+T6	Markable 224 241	a black small dot
+T7	Markable 265 272	the dot
+T8	Markable 345 352	two dot
+T9	Markable 413 426	the upper one
+R1	Anaphora Arg1:T5 Arg2:T4	
+A1	No-Referent T7
+T10	Markable 304 311	the two
+T11	Markable 358 367	the upper
+T12	Modifier 19 23	very
+T13	Spatial-Relation 24 38	close together
+A2	No-Obj T13
+T14	Spatial-Relation 40 58	vertically stacked
+A3	No-Obj T14
+T15	Spatial-Relation 64 69	lower
+R2	Obj Arg1:T15 Arg2:T1	
+T16	Spatial-Relation 77 95	smaller and darker
+R3	Obj Arg1:T16 Arg2:T1	
+T17	Spatial-Attribute 167 171	dark
+T18	Modifier 154 166	seems pretty
+T19	Spatial-Relation 193 205	To the right
+R4	Obj Arg1:T19 Arg2:T3	
+T20	Modifier 206 209	not
+T21	Spatial-Relation 210 214	near
+T22	Spatial-Relation 362 367	upper
+R5	Obj Arg1:T22 Arg2:T8	
+T23	Spatial-Attribute 371 382	medium dark
+T24	Spatial-Relation 417 422	upper
+T25	Spatial-Relation 181 185	near
+A4	No-Subj-Markable T25
+T26	Spatial-Attribute 383 394	medium size
+R7	Subj Arg1:T21 Arg2:T6	
+R8	Subj Arg1:T19 Arg2:T6	
+A5	Mod-Extremity T18
+T27	Modifier 371 377	medium
+T28	Modifier 383 389	medium
+R9	Obj Arg1:T24 Arg2:T8	

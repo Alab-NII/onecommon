@@ -1,0 +1,10 @@
+1: do you have a tiny black dot underneath some larger dots?
+0: no
+1: what about a tiny grey dot that is set apart from the others?
+0: I do have one that is kind of set apart from the others, but it forms a triangle with two other dots
+1: Mine doesn't form a triangle
+0: do you have one almost on the dotted line?
+1: yes, but it's a medium sized one
+0: mine are smaller ones
+1: I also have a very small dark dot too
+0: ok, let's try that one

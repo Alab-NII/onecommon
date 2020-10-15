@@ -1,0 +1,5 @@
+1: I see a very large black dot with a large grey to the left and slightly up
+0: Do you have a dark grey (almost black) dot at your 3 o'clock?
+0: I see it too!
+1: Ok - want to pick the large dark one?
+0: Sounds good to me!

@@ -1,0 +1,30 @@
+T1	Markable 3 9	2 dots
+T2	Markable 27 37	each other
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 85 93	two dots
+T4	Markable 108 118	each other
+R2	Anaphora Arg1:T4 Arg2:T3	
+T5	Markable 120 127	The one
+T6	Markable 151 155	They
+T7	Markable 208 222	the darker one
+T8	Modifier 10 16	really
+T9	Spatial-Relation 17 26	close too
+#1	AnnotatorNotes T9	close to
+T10	Spatial-Relation 39 48	same size
+A1	No-Obj T10
+T11	Spatial-Relation 53 69	different colors
+A2	No-Obj T11
+T12	Modifier 94 98	very
+T13	Spatial-Relation 99 107	close to
+T14	Spatial-Relation 128 139	to the left
+R3	Obj Arg1:T14 Arg2:T3	
+T15	Spatial-Relation 143 149	darker
+R4	Obj Arg1:T15 Arg2:T3	
+T17	Spatial-Attribute 165 186	medium to a bit large
+T18	Modifier 175 180	a bit
+T19	Spatial-Relation 212 218	darker
+R5	Obj Arg1:T19 Arg2:T1	
+#2	AnnotatorNotes T11	different color
+T20	Modifier 165 171	medium
+A3	Mod-Neutral T20
+A4	Mod-Subtlty T18

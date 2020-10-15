@@ -1,0 +1,17 @@
+T1	Markable 25 27	it
+T2	Markable 47 71	a light medium sized dot
+T3	Markable 105 124	the small black dot
+T5	Markable 253 263	bottom two
+T6	Markable 183 199	The two top ones
+T7	Markable 383 398	a tiny grey dot
+T8	Markable 343 361	a medium black dot
+T9	Markable 405 407	it
+T10	Markable 417 432	black large dot
+T11	Markable 3 17	Small back dot
+R1	Anaphora Arg1:T1 Arg2:T11	
+T12	Markable 140 158	a grouping of four
+T4	Markable 330 334	that
+A1	No-Referent T4
+T13	Markable 365 368	its
+R2	Anaphora Arg1:T13 Arg2:T8	
+R3	Anaphora Arg1:T9 Arg2:T8	

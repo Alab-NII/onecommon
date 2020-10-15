@@ -1,0 +1,6 @@
+1: I see a tiny, lonely mid-dark dot on the right
+0: What size?
+1: The smallest, there are almost no dots near it at all
+0: I have two that could be like that, depending upon the orientation of our venn diagram. One is about horizontally level with a larger dot that's about the same color. The other southwest of a larger dot that's about the same color.
+1: I also got four dots huddled together, the left-most two identical (mid-size, mid-grey), on the right, there's a smaller lighter dot and on the right-most, there is a tiny dark grey got. Together, they make a triangle with the tiny dark grey dot as the head and the two identical dots as the base
+0: Me too. Let's do the smallest, darkest grey one.

@@ -1,0 +1,7 @@
+1: I have 3 dots of the same color that are forming a triangle. the dot furthest to the right is smaller
+0: do you have a cluster/line of three toward the top? the one on the left is lightest? next is same size to its right slightly above? then a little further and lower to the right is the smallest and medium light grey
+1: I see the first two you are describing I think. Should we choose the lightest one one the left?
+0: not sure... we should be sure. i don't see the triangle you speak of... are they dark, the same color ones? and on the lower left?
+1: there is a very small black dot about an inch to the right of that is a light grey dot slightly lower
+0: is the light grey/ lower dot larger? with a same-size but med/grey one above it to its right?
+1: yes. lets pick that light grey one

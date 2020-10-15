@@ -1,0 +1,5 @@
+0: I have a very large black dot. Almost directly vertical there is a smaller, medium grey dot above it
+1: I also have a large black dot and a medium grey dot above it. Are there any other dots adjacent to the large black dot?
+0: There is a medium gray up and to the right, about 2 o clock. And another one up and to the left of that.
+1: I think the large black dot is common. I will now select it.
+0: Ok!

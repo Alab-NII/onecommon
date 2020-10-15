@@ -1,0 +1,9 @@
+T1	Markable 50 74	a med sized med grey dot
+T2	Markable 14 44	an almost black very large dot
+T3	Markable 105 127	a very large black dot
+T4	Markable 142 152	a triangle
+T5	Markable 158 193	two smaller but very very dark dots
+T6	Markable 134 136	it
+T7	Markable 208 227	the large black one
+T8	Markable 78 81	its
+R1	Anaphora Arg1:T8 Arg2:T2	

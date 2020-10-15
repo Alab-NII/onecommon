@@ -1,0 +1,5 @@
+0: do you see two dark gray dots in a line, both the same size and color
+1: Yes, is the one to the right slightly above the one to the left?
+0: a little yes
+1: ok. Let's pick the one to the right that is slightly above
+0: great

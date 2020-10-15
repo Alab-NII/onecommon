@@ -1,0 +1,40 @@
+T1	Markable 10 17	one dot
+T2	Markable 39 53	all the others
+T3	Markable 103 126	a small medium gray dot
+T4	Markable 142 148	itself
+R1	Anaphora Arg1:T4 Arg2:T3	
+T5	Markable 160 186	a cluster darker gray dots
+T6	Markable 220 223	One
+T7	Markable 235 245	a tiny one
+T8	Markable 269 273	that
+T9	Markable 278 282	they
+T10	Markable 325 340	the smaller one
+T11	Spatial-Relation 26 38	lighter than
+T12	Spatial-Attribute 63 68	large
+T13	Spatial-Relation 70 87	towards the right
+A1	No-Obj T13
+R2	Subj Arg1:T12 Arg2:T1	
+R3	Subj Arg1:T13 Arg2:T1	
+T14	Spatial-Relation 127 138	on the left
+A2	No-Obj T14
+T15	Spatial-Relation 139 141	by
+T16	Spatial-Relation 162 169	cluster
+A3	No-Obj T16
+T17	Spatial-Relation 170 181	darker gray
+A4	No-Obj T17
+T18	Spatial-Relation 188 201	varying sizes
+A5	No-Obj T18
+#1	AnnotatorNotes T18	different size
+T19	Spatial-Relation 202 218	towards the left
+A6	No-Obj T19
+T20	Spatial-Attribute 224 229	large
+T21	Spatial-Relation 230 234	with
+T22	Spatial-Relation 246 258	to the right
+T23	Spatial-Relation 283 297	the same color
+A8	No-Obj T23
+T24	Spatial-Relation 329 336	smaller
+R4	Obj Arg1:T24 Arg2:T9	
+R5	Obj Arg1:T22 Arg2:T6	
+#2	AnnotatorNotes T15	alone
+T25	Modifier 58 62	very
+A7	Mod-Extremity T25

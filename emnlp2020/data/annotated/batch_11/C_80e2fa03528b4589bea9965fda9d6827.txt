@@ -1,0 +1,10 @@
+1: any tiny lighter gray dots around 5 -6 o clock
+0: no
+1: do you have a med gray dot darker at the top followed by a lighter gray at the top
+0: no, do you have a medium gray about 7 o clock?
+1: no i do not i have a tiny gray about 9 o clock in the almost center
+0: no i dont have that
+1: name some of the dots you have
+0: small dark gray about 3 o clock
+1: anything on the left side that is where all mine are
+0: a medium light - lets just click on that

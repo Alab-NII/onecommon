@@ -1,0 +1,5 @@
+1: Do you see a tiny dark grey dot next to a light gray one
+0: Yes
+1: the darkest color gray next to the second lightest gray color?
+1: did you choose the dark grey circle?
+0: Yes

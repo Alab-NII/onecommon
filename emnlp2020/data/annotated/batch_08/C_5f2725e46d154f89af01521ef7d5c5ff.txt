@@ -1,0 +1,7 @@
+0: I see a tiny light gray dot next to a large dark grey dot to it's right
+1: I don't have that. I do have a large dark gray dot with another one of that color just to the right of it, that is a tiny bit smaller.
+0: I don't have that on my side. I see a small grey dot with a lighter colored one on it's right
+1: Is the lighter one slightly larger?
+0: yes it is
+1: Do you want to pick the lighter, slightly larger one?
+0: yes let's try it

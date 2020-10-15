@@ -1,0 +1,5 @@
+1: Three dots lined up fairly vertically?
+0: I have two dots very close to each other. The lighter larger one to the left and the smaller darker one to the right
+1: do you have a very dark one kind of by itself?
+0: I have one black dot with a very light one about an inch below and slightly to the right
+1: sweet. pick the black dot

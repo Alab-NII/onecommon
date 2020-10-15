@@ -1,0 +1,14 @@
+T1	Markable 73 88	the lighter one
+T2	Markable 61 71	each other
+T3	Markable 176 183	the one
+T4	Markable 143 152	a cluster
+T5	Markable 154 157	two
+T6	Markable 129 139	three dots
+T7	Markable 236 249	the same ones
+T8	Markable 259 264	those
+T9	Markable 269 282	the same ones
+T10	Markable 297 312	the lighter dot
+T11	Markable 9 17	two dots
+R1	Anaphora Arg1:T2 Arg2:T11	
+R2	Anaphora Arg1:T9 Arg2:T8	
+R3	Predicative Arg1:T4 Arg2:T6	

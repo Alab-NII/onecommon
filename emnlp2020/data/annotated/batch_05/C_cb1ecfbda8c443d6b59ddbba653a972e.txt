@@ -1,0 +1,6 @@
+0: I have a long line of medium and large dots, almost going all the way across. Two are closer and the other two are closer, but they are almost in a straight line.
+1: mine are scattered. i have a small black with a large medium grey next to it
+0: I don't have any smalls. What about two medium sized light gray ones about a centimeter and a half from each other?
+1: i have 1 medium light grey, it has a black to its upper right
+0: Want to go with that one?
+1: sure

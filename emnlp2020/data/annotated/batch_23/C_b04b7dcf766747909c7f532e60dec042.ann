@@ -1,0 +1,14 @@
+T1	Markable 25 31	itself
+T2	Markable 41 57	a light grey one
+T3	Markable 97 114	a small black dot
+T4	Markable 129 134	yours
+T5	Markable 199 218	a smaller black dot
+T7	Markable 177 193	medium light dot
+T8	Markable 151 175	any tiny light grey ones
+T9	Markable 243 264	the smaller black dot
+T10	Markable 3 21	tiny dark grey dot
+R1	Anaphora Arg1:T1 Arg2:T10	
+T11	Markable 65 68	its
+A1	No-Referent T4
+R2	Anaphora Arg1:T11 Arg2:T2	
+A2	No-Referent T8

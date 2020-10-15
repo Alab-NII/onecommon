@@ -1,0 +1,3 @@
+0: Do you have a pair of large dots close to each other? One on bottom is right positioned and darker
+1: Yes, let's choose the bottom one.
+0: Cool, thanks bruv

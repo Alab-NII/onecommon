@@ -1,0 +1,5 @@
+0: do you have 2 large gray dots one above the other
+1: the higher one is darker?
+0: no mine are the same color what about a small med gray dot to the left of a dark large dot
+1: yeah, thats the higher one i was talking about before, from the med grey dot, up and to the left is a darker medium sized dot, its pretty far away
+0: okay lets choose the med gray dot

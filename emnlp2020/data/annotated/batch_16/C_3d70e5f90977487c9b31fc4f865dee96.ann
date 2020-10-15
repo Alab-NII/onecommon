@@ -1,0 +1,9 @@
+T1	Markable 58 72	one light grey
+T2	Markable 38 53	one darker grey
+T3	Markable 88 110	one black midsized dot
+T4	Markable 130 142	the only one
+T5	Markable 184 189	a dot
+T6	Markable 245 249	they
+T7	Markable 315 329	the darker one
+T8	Markable 15 23	two dots
+R1	Anaphora Arg1:T4 Arg2:T3	

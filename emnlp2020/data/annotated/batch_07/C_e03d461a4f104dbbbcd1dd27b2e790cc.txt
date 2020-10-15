@@ -1,0 +1,4 @@
+0: i have two groups of dots, one is a group of 4 pretty close together, and a group of 3 that makes a triangle shape
+1: I see two pairs one pair with lighter at bottom left of darker,. Other pair a smaller darker above bigger lighter
+0: i may see the pair with lighter bottom left of darker, but the one right above the darker is about the same color, and size, with a dot about the same shade as the lighter one, up and to the right of that darker one.
+1: Let's take that lighter lower one

@@ -1,0 +1,4 @@
+0: do you see three lights ones in a row
+1: yes i do
+0: click the middle one that is slightly higher than the other two?
+1: ok

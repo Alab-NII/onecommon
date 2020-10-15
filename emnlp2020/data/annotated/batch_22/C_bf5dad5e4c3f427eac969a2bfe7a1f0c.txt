@@ -1,0 +1,4 @@
+1: large dark dot with large lighter grey dot to the left and lower
+0: I think I see it.
+1: ok select the large dark dot
+0: Got it.

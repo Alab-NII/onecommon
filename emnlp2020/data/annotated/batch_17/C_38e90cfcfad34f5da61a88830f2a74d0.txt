@@ -1,0 +1,6 @@
+1: ok. medium black dot with a small black dot directly below it
+0: I don't have that.
+1: very light tiny dot with a larger slightly darker dot to it's right and slightly above it
+0: Yes, I see the tiny light dot.
+1: lets do that one. tiny light dot
+0: Perfect

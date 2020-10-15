@@ -1,0 +1,4 @@
+1: Do you have a gray dot on the very edge?
+0: Do you see three dots, the middle one is tiny , lower one is darkest and medium and highest is between in size
+1: Yes, which one of those 3 should we pick?
+0: Tiny

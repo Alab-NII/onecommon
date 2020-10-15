@@ -1,0 +1,2 @@
+1: I see one large light gray dot
+0: yes i do

@@ -1,0 +1,69 @@
+T1	Markable 10 28	one tiny black dot
+T3	Markable 140 143	two
+T4	Markable 215 225	group of 3
+T5	Markable 281 285	they
+T6	Markable 326 339	two dark dots
+T7	Markable 434 450	your tiniest dot
+T9	Markable 571 588	your smallest dot
+T10	Markable 59 76	a medium dark top
+T2	Markable 116 138	a grouping of four dot
+T11	Markable 164 176	the grouping
+R1	Anaphora Arg1:T11 Arg2:T2	
+T12	Markable 237 242	light
+T13	Markable 251 255	dark
+T14	Markable 375 387	2 light dots
+T15	Markable 455 467	grey colored
+T8	Markable 519 534	large light dot
+T16	Modifier 29 32	all
+T17	Spatial-Relation 33 38	alone
+A1	No-Obj T17
+T18	Spatial-Relation 77 80	top
+A2	No-Obj T18
+T19	Modifier 81 87	slight
+T20	Spatial-Relation 88 93	right
+A3	No-Obj T20
+T21	Spatial-Relation 94 105	on the line
+A4	No-Obj T21
+#1	AnnotatorNotes T21	on the edge
+T22	Spatial-Relation 118 126	grouping
+A5	No-Obj T22
+T23	Spatial-Relation 144 163	along the bottom of
+T24	Spatial-Relation 168 176	grouping
+T25	Spatial-Relation 181 203	similar size and shade
+A6	No-Obj T25
+#2	AnnotatorNotes T25	similar size; similar shade
+R3	Subj Arg1:T25 Arg2:T3	
+T26	Spatial-Relation 215 220	group
+A7	No-Obj T26
+T27	Spatial-Relation 226 235	at bottom
+A8	No-Obj T27
+T28	Spatial-Relation 243 250	on left
+T29	Spatial-Relation 256 264	on right
+R5	Obj Arg1:T29 Arg2:T12	
+T30	Spatial-Relation 265 279	towards bottom
+R6	Obj Arg1:T30 Arg2:T12	
+T31	Spatial-Relation 289 302	the same size
+A9	No-Obj T31
+T32	Modifier 340 346	almost
+T33	Spatial-Relation 347 360	the same size
+A10	No-Obj T33
+T34	Spatial-Relation 388 397	same size
+A11	No-Obj T34
+T35	Spatial-Relation 434 446	your tiniest
+A12	No-Obj T35
+T36	Spatial-Relation 468 485	on the right side
+A13	No-Obj T36
+T37	Spatial-Relation 487 500	close to line
+A14	No-Obj T37
+#3	AnnotatorNotes T37	outside
+T38	Spatial-Relation 535 556	above and to the left
+R4	Obj Arg1:T38 Arg2:T15	
+T39	Spatial-Relation 576 584	smallest
+A15	No-Obj T39
+A16	No-Obj T24
+A17	Mod-Certainty-Exactness T16
+A18	Canonical-Undefined T35
+T40	Modifier 505 508	not
+T41	Spatial-Relation 509 517	touching
+A19	No-Obj T41
+A20	Canonical-Undefined T41

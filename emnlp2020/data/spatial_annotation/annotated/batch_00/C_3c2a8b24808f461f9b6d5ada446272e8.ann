@@ -1,0 +1,66 @@
+T1	Markable 3 17	two large dots
+T2	Markable 19 26	Top one
+T3	Markable 74 93	no large light dots
+T4	Spatial-Relation 229 255	in an almost-vertical line
+T5	Markable 215 227	3 small ones
+T7	Markable 367 374	top one
+T8	Markable 462 484	the middle smaller one
+A1	No-Referent T3
+T9	Markable 102 129	the darkest/ med-large size
+T10	Markable 171 174	any
+T11	Spatial-Relation-Markable 257 260	top
+T12	Spatial-Relation-Markable 265 271	bottom
+T13	Spatial-Relation-Markable 303 309	bottom
+T14	Spatial-Relation-Markable 330 336	middle
+R3	Anaphora Arg1:T7 Arg2:T11	
+T15	Markable 409 413	both
+T6	Markable 434 438	what
+T16	Spatial-Relation 30 37	lighter
+T17	Spatial-Relation 51 63	to the right
+T18	Modifier 42 50	slightly
+R4	Mod Arg1:T18 Arg2:T17	
+R5	Obj Arg1:T16 Arg2:T1	
+R6	Obj Arg1:T17 Arg2:T1	
+T19	Spatial-Relation 137 155	at about 5 o'clock
+T20	Spatial-Relation 189 203	close together
+R1	Obj Arg1:T11 Arg2:T5	
+R7	Obj Arg1:T12 Arg2:T5	
+T21	Spatial-Relation 276 301	same light/med grey color
+R8	Subj Arg1:T21 Arg2:T12	
+R9	Subj Arg1:T21 Arg2:T11	
+T22	Spatial-Relation 322 328	larger
+R10	Obj Arg1:T22 Arg2:T11	
+T23	Spatial-Relation 354 366	smaller than
+T24	Modifier 340 353	even a little
+R11	Mod Arg1:T24 Arg2:T23	
+R12	Obj Arg1:T14 Arg2:T5	
+T25	Spatial-Relation 397 408	darker than
+T26	Modifier 388 396	a little
+R13	Mod Arg1:T26 Arg2:T25	
+R14	Subj Arg1:T25 Arg2:T14	
+T27	Spatial-Relation 106 114	darkest/
+A2	No-Obj T27
+A3	No-Obj T19
+A4	No-Obj T20
+A5	No-Obj T4
+T28	Modifier 313 321	a little
+T29	Spatial-Relation 367 370	top
+T30	Spatial-Relation 466 472	middle
+T31	Spatial-Relation 473 480	smaller
+T32	Spatial-Relation 19 22	Top
+R18	Obj Arg1:T32 Arg2:T1	
+A6	No-Obj T21
+T33	Modifier 235 241	almost
+#1	AnnotatorNotes T21	same color
+T34	Modifier 184 188	very
+T35	Modifier 140 145	about
+A7	Mod-Subtlty T24
+R16	Obj Arg1:T30 Arg2:T5	
+R17	Obj Arg1:T31 Arg2:T5	
+#2	AnnotatorNotes T27	darkest
+T36	Spatial-Attribute 281 301	light/med grey color
+R19	Obj Arg1:T13 Arg2:T12	
+#3	AnnotatorNotes T19	right below
+#4	AnnotatorNotes T4	vertical
+T37	Modifier 281 290	light/med
+A8	Mod-Neutral T37

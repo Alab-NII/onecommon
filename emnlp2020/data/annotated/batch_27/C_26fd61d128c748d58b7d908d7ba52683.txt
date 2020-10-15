@@ -1,0 +1,3 @@
+0: do you have a large black dot with a dark grey dot of the same size to the right of it
+1: yes. the dot to the right is smaller by a hair, and lighter by a shade or two?
+0: yes! select the lighter one

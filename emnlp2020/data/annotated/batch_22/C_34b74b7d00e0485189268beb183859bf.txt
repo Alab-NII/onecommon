@@ -1,0 +1,3 @@
+0: very large very light grey dot?
+1: I have 2 dots close together a very large very pale dot and a medium medium colored dot, do you have those?
+0: yes! if the larger one is to the right click that one!

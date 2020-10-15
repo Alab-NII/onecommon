@@ -1,0 +1,30 @@
+T1	Markable 10 32	a lonely very dark one
+T2	Markable 72 89	a larger dark one
+T3	Markable 137 145	that one
+T4	Markable 95 106	a pale grey
+T5	Markable 222 240	the left lower one
+T6	Markable 202 205	one
+T8	Markable 245 265	a dark of same color
+T9	Markable 272 274	it
+T10	Markable 278 280	it
+T11	Markable 302 310	anything
+T12	Markable 333 345	the dark one
+T13	Markable 370 373	one
+T14	Markable 469 493	a smaller light grey one
+T15	Markable 440 452	the dark one
+T16	Markable 532 544	the dark one
+T17	Markable 560 582	a smaller med/grey one
+T18	Markable 586 588	it
+T19	Markable 612 616	that
+T20	Markable 682 704	the med/grey small one
+T21	Markable 660 672	the dark one
+T22	Markable 748 760	the dark one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T23	Markable 149 184	two light/med kinda large same size
+R2	Anaphora Arg1:T9 Arg2:T5	
+R3	Anaphora Arg1:T10 Arg2:T5	
+A1	No-Referent T11
+T7	Markable 506 528	your first description
+T24	Markable 551 555	that
+T25	Markable 708 712	it's
+R4	Anaphora Arg1:T25 Arg2:T21	

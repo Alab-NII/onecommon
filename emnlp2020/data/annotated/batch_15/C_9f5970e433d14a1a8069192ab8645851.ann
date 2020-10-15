@@ -1,0 +1,6 @@
+T1	Markable 61 63	it
+T2	Markable 45 51	itself
+T3	Markable 84 92	that one
+T4	Markable 10 41	a small dark grey top top right
+R1	Anaphora Arg1:T2 Arg2:T4	
+R2	Anaphora Arg1:T1 Arg2:T4	

@@ -1,0 +1,7 @@
+T1	Markable 10 27	a large light dot
+T2	Markable 33 49	a small dark dot
+T3	Markable 65 67	it
+T4	Markable 106 144	a light colored, medium sized gray dot
+T5	Markable 71 85	All of my dots
+R1	Anaphora Arg1:T3 Arg2:T1	
+T7	Markable 177 202	The larger light gray dot

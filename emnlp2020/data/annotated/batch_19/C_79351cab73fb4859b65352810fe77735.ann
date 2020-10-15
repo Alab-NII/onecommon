@@ -1,0 +1,7 @@
+T1	Markable 15 42	three pretty dark gray dots
+T2	Markable 59 77	one very light one
+T3	Markable 117 119	it
+T4	Markable 146 154	that one
+T5	Markable 172 186	that light one
+T6	Markable 96 113	a dark medium one
+R1	Anaphora Arg1:T3 Arg2:T2	

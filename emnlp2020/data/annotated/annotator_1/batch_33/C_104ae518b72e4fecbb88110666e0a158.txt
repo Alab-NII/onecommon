@@ -1,0 +1,6 @@
+1: i have one very dark very small dot. it has a similar size but much lighter dot up and to the left
+0: I have one very dark small spot, I have the similar size but lighter slightly down and to the left
+1: i think i see that... does it make a line of three dots, each lowering to the left, the leftmost is very large but light in color?
+0: not the lightest spot, but lighter in color
+1: yes. exactly. lets the click the darkest small dot, on the far right
+0: you got it

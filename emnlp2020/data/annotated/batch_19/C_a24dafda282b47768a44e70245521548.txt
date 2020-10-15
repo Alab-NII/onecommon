@@ -1,0 +1,5 @@
+0: the biggest gray dot that's almost in the center?
+1: i have a very large light grey dot, with a very small dark grey/black dot, down a tap and to the left, almost touching it
+0: i don't have that. How about the smallest gray dot in the lower half slightly to the right
+1: yes, is there a very large grey dot to the right of it
+0: yes. let's choose the small one

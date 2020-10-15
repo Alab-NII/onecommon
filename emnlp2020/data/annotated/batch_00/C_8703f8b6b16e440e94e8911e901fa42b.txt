@@ -1,0 +1,4 @@
+1: big black with smaller black to lower right?
+0: yes i have both of them
+1: ok do you see a small black to the upper right as well ? if yes lets click the large black
+0: sure

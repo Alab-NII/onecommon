@@ -1,0 +1,29 @@
+T2	Markable 49 74	a larger lighter gray dot
+T3	Markable 85 103	a larger black dot
+T4	Markable 112 146	a slightly bigger than it grey dot
+T5	Markable 148 152	They
+T6	Markable 176 186	each other
+T7	Markable 188 197	The black
+T8	Markable 217 225	the grey
+T9	Markable 250 263	the black dot
+T10	Markable 14 41	a medium to large black dot
+R1	Anaphora Arg1:T6 Arg2:T5	
+T1	Spatial-Relation 42 48	beside
+T11	Spatial-Relation 51 57	larger
+T12	Spatial-Relation 58 70	lighter gray
+R2	Obj Arg1:T11 Arg2:T10	
+R3	Obj Arg1:T12 Arg2:T10	
+T13	Spatial-Relation 87 93	larger
+A1	No-Obj T13
+T14	Spatial-Relation 104 111	next to
+T15	Modifier 114 122	slightly
+T16	Spatial-Relation 123 134	bigger than
+R4	Obj Arg1:T16 Arg2:T3	
+T17	Modifier 157 163	almost
+T18	Spatial-Relation 164 175	parallel to
+T19	Spatial-Relation 201 212	on the left
+T20	Spatial-Relation 229 241	on the right
+R5	Obj Arg1:T20 Arg2:T7	
+#1	AnnotatorNotes T1	near
+#2	AnnotatorNotes T14	near
+A2	Canonical-Undefined T18

@@ -1,0 +1,12 @@
+T1	Markable 25 45	a tiny dark grey dot
+T2	Markable 6 21	my smallest dot
+T3	Markable 60 95	two slightly larger light grey dots
+T4	Markable 53 55	it
+T5	Markable 97 111	The three dots
+T6	Markable 168 171	two
+T7	Markable 214 231	the same triangle
+T8	Markable 252 268	the smallest one
+T9	Markable 276 278	it
+R1	Predicative Arg1:T1 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T2	
+T10	Markable 140 148	triangle

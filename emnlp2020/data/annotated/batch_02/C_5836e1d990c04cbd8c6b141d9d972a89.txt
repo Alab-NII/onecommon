@@ -1,0 +1,3 @@
+0: i see one small black dot in the center of some bigger ones
+1: lets do the small black dot
+0: ok

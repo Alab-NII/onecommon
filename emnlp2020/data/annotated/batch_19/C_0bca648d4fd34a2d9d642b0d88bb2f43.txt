@@ -1,0 +1,4 @@
+1: very very light grey med sized dot?
+0: yes
+1: if there is an almost black dot up to its right click the light one
+0: i clicked my light grey dot

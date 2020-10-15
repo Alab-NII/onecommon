@@ -1,0 +1,16 @@
+T1	Markable 25 49	a large medium shade dot
+T2	Markable 64 87	a medium dark shade dot
+T3	Markable 189 215	a smaller lighter grey dot
+T4	Markable 141 165	a bigger medium grey dot
+T5	Markable 186 188	it
+T6	Markable 131 139	two dots
+T7	Markable 235 240	yours
+T8	Markable 265 283	the light grey dot
+T9	Markable 294 303	something
+T10	Markable 353 381	the smaller lighter grey dot
+T11	Markable 450 452	it
+T12	Markable 473 499	the smaller light gray dot
+R1	Anaphora Arg1:T5 Arg2:T4	
+A1	Generic T7
+T14	Markable 426 428	it
+R2	Anaphora Arg1:T11 Arg2:T14	

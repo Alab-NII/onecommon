@@ -1,0 +1,30 @@
+T1	Markable 10 30	very light small dot
+T2	Markable 37 62	a black the same size dot
+T3	Markable 84 86	it
+T6	Markable 153 160	the one
+T7	Markable 190 197	the one
+T9	Markable 147 151	them
+T10	Markable 236 245	the light
+R1	Anaphora Arg1:T3 Arg2:T1	
+T11	Markable 90 91	3
+T12	Markable 112 124	lightes grey
+T4	Spatial-Relation 32 36	with
+T8	Spatial-Relation 45 58	the same size
+T13	Spatial-Relation 63 83	on the right side of
+T5	Spatial-Relation 92 110	forming a triangle
+A1	No-Obj T5
+T14	Spatial-Relation 125 133	at point
+T15	Spatial-Relation 161 173	on the right
+T16	Spatial-Relation 181 188	darkest
+R2	Obj Arg1:T15 Arg2:T9	
+R3	Obj Arg1:T16 Arg2:T9	
+T17	Spatial-Relation 198 209	on the left
+R4	Obj Arg1:T17 Arg2:T9	
+T18	Spatial-Attribute 213 222	med color
+T19	Spatial-Relation 246 258	at the point
+R5	Obj Arg1:T14 Arg2:T11	
+R6	Obj Arg1:T19 Arg2:T11	
+A2	Canonical-Undefined T14
+T20	Modifier 213 216	med
+A3	Mod-Neutral T20
+A4	Canonical-Undefined T19

@@ -1,0 +1,15 @@
+T1	Markable 10 34	one large light gray dot
+T2	Markable 45 63	a little black dot
+T3	Markable 91 108	another black dot
+T4	Markable 183 198	the smaller one
+T5	Spatial-Relation-Markable 143 159	that combination
+T7	Spatial-Relation 64 90	just up and to the left of
+T8	Modifier 117 124	a touch
+T9	Spatial-Relation 125 131	larger
+R1	Obj Arg1:T9 Arg2:T2	
+T10	Spatial-Relation 187 194	smaller
+R2	Obj Arg1:T10 Arg2:T3	
+A1	Mod-Subtlty T8
+A2	No-Obj T5
+A3	Canonical-Undefined T5
+#1	AnnotatorNotes T7	near up left

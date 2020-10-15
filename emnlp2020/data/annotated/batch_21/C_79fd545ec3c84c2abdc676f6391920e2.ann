@@ -1,0 +1,19 @@
+T1	Markable 14 33	a darkish large dot
+T2	Markable 81 93	3 large dots
+T3	Markable 97 119	a crescent shaped line
+T4	Markable 163 170	the one
+T5	Markable 121 124	one
+T6	Markable 140 143	one
+T8	Markable 188 196	the line
+T9	Markable 235 239	that
+T10	Markable 258 271	any tiny dots
+T11	Markable 335 338	one
+T12	Markable 359 368	the other
+T13	Markable 321 333	2 small dots
+T14	Markable 406 430	the super light grey one
+T15	Markable 446 469	a small darker grey dot
+T16	Markable 437 439	it
+T17	Markable 488 501	the light one
+R1	Predicative Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T8 Arg2:T2	
+A1	No-Referent T9

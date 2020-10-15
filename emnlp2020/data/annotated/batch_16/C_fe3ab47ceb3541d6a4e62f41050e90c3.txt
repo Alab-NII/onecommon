@@ -1,0 +1,7 @@
+1: hello, do you see one large dark grey dot.
+0: large gray top left on circle edge.
+1: it has a large black dot to the left and smaller black dot to the right
+0: no, how about 3 large dots at the top, 2 dark with middle one medium dark
+1: no, do you see a tiny black dot by itself
+0: yes, we pick it
+1: k

@@ -1,0 +1,2 @@
+0: I only have one dot south of center. It's light grey
+1: it has to be this one. ok.

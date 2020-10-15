@@ -1,0 +1,6 @@
+1: I have one biggest dot above three smaller dots lined under
+0: I see three dots close together in line. large then medium then lighter medium going bottom to top
+1: middle medium is slight dark then the other two?
+0: yes and top is lightest
+1: Yes, select the middle dot?
+0: yes

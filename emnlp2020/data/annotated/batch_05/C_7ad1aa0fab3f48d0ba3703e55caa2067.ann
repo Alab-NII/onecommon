@@ -1,0 +1,13 @@
+T1	Markable 9 31	a small light grey dot
+T2	Markable 43 55	4 other dots
+T4	Markable 130 140	bottom one
+T6	Markable 77 81	that
+T7	Markable 115 122	top one
+T8	Markable 174 188	the bottom one
+T9	Markable 216 220	that
+T10	Markable 207 210	one
+T11	Markable 237 251	the bottom one
+A1	No-Referent T6
+T12	Markable 90 93	two
+T3	Markable 147 151	both
+R1	Predicative Arg1:T9 Arg2:T10	

@@ -1,0 +1,8 @@
+T1	Markable 9 15	3 dots
+T2	Markable 35 42	the one
+T4	Markable 92 113	almost a perfect line
+T6	Markable 132 139	2 light
+T7	Markable 168 170	it
+T8	Markable 186 196	these ones
+T9	Markable 218 225	the one
+R1	Anaphora Arg1:T7 Arg2:T4	

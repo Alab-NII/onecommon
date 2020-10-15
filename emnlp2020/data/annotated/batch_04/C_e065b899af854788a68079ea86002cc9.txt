@@ -1,0 +1,8 @@
+0: Do you have one medium gray dot at the bottom?
+1: I have a med grey color and a dark grey color
+0: Me too, they are spaced apart?
+1: yes
+0: Is the lighter dot a bit smaller?
+1: yes
+0: Shall we go with it?
+1: yes

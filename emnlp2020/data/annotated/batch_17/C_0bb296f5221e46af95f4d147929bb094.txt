@@ -1,0 +1,6 @@
+1: 2 large very dark dots that look almost identical to each other?
+0: Hi. Yes I see the two dark dots next to each other, one slightly higher and to the right.
+1: Yes click that one!
+0: The one to the right?
+1: yes
+0: done

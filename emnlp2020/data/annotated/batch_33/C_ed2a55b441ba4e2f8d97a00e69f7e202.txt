@@ -1,0 +1,5 @@
+0: I have 3 light gray dots that form a triangle. The top and right size are the same sized. the dot on the lower left is slightly smaller
+1: I have a large almost black dot with a slightly smaller medium shade dot diagonal down to the left.
+0: I don't see that. what about a large light gray dot with a tiny same colored dot directly to the left?
+1: Does it have a dark slightly smaller dot diagonal to the right down?
+0: Yes. Let's pick the largest one

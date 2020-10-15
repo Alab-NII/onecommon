@@ -1,0 +1,42 @@
+T1	Markable 51 58	the one
+T2	Markable 87 94	the one
+T3	Markable 141 145	They
+T4	Markable 189 193	that
+T5	Markable 199 224	two large light grey dots
+T6	Markable 226 229	one
+T7	Markable 287 291	that
+T9	Markable 303 320	your smallest dot
+T10	Markable 296 299	one
+T11	Markable 349 373	one very small black dot
+T12	Markable 391 393	it
+T13	Markable 14 22	two dots
+R1	Anaphora Arg1:T3 Arg2:T13	
+A1	No-Referent T4
+A2	No-Referent T7
+T8	Modifier 23 30	kind of
+T14	Spatial-Relation 31 45	close together
+A3	No-Obj T14
+T15	Spatial-Relation 46 50	with
+R2	Obj Arg1:T15 Arg2:T1	
+R3	Obj Arg1:T15 Arg2:T2	
+T16	Spatial-Relation 59 70	on the left
+T17	Spatial-Attribute 77 82	small
+T18	Spatial-Relation 95 107	on the right
+R4	Obj Arg1:T18 Arg2:T1	
+T19	Modifier 114 122	slightly
+T20	Spatial-Relation 123 128	above
+R5	Obj Arg1:T20 Arg2:T1	
+T21	Spatial-Relation 133 139	larger
+R6	Obj Arg1:T21 Arg2:T1	
+T22	Spatial-Attribute 155 165	light grey
+T23	Spatial-Relation 233 238	lower
+T24	Modifier 243 256	just slightly
+T25	Spatial-Relation 257 269	to the right
+R7	Obj Arg1:T23 Arg2:T5	
+R8	Obj Arg1:T25 Arg2:T5	
+T26	Spatial-Relation 300 302	of
+T27	Spatial-Relation 308 316	smallest
+A4	No-Obj T27
+T28	Spatial-Relation 330 337	darkest
+A5	No-Obj T28
+A6	Mod-Subtlty T24

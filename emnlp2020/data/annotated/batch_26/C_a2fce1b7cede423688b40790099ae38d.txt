@@ -1,0 +1,5 @@
+1: Do you have a large light grey dot?
+0: i have one very small and its my lightest dot
+1: I have 2 light small dots. Is there a black dot above yours?
+0: yes, above and to the left, the darker dot is slightly larger, but not by much
+1: click the small light grey one

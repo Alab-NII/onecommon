@@ -1,0 +1,5 @@
+0: hello do you see three dark dots together? They're in a vertical line.
+1: is the first one off to the left a bit?
+0: yes
+1: pick the bigger middle one?
+0: Sounds good to me.

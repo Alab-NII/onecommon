@@ -1,0 +1,27 @@
+T1	Markable 78 82	this
+T2	Markable 10 26	a line of 3 dots
+T3	Markable 86 108	a line of smaller dots
+T5	Markable 133 137	that
+T6	Markable 146 163	a large black dot
+T7	Markable 214 216	it
+T8	Markable 169 188	a smaller light dot
+T9	Markable 218 222	They
+T10	Markable 258 262	that
+T11	Markable 276 293	a small light dot
+T12	Markable 411 431	your small light dot
+T13	Markable 507 526	a smaller black dot
+T14	Markable 646 669	the last 2 smaller dots
+T15	Markable 554 576	a light gray small dot
+T16	Markable 614 628	a med gray dot
+T17	Markable 684 703	the larger dark dot
+T18	Markable 32 34	to
+A1	No-Referent T18
+#1	AnnotatorNotes T18	top
+R1	Anaphora Arg1:T1 Arg2:T2	
+A2	No-Referent T5
+R2	Anaphora Arg1:T7 Arg2:T6	
+A3	No-Referent T10
+T4	Markable 321 329	its self
+R3	Anaphora Arg1:T4 Arg2:T11	
+T19	Markable 342 379	another small dark (almost black) dot
+T20	Markable 454 471	a large black dot

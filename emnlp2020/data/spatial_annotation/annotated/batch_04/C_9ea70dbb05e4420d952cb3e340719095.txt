@@ -1,0 +1,6 @@
+1: small black dot to the right?
+0: Do you have a dark dot that makes a tip of a triangle with two lighter ones both above and to the right?
+1: no
+0: I see a small dot to my own right but it is lonely
+1: yes
+0: I'll choose Mr lonely

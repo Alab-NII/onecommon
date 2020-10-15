@@ -1,0 +1,15 @@
+T1	Markable 9 39	a lonely medium sized gray dot
+T2	Markable 112 130	one large gray dot
+T3	Markable 88 107	One large black dot
+T4	Markable 151 170	the large black dot
+T5	Markable 178 201	your lonely grey circle
+T6	Markable 273 288	the large black
+T7	Markable 50 72	one black large circle
+T8	Spatial-Relation 11 17	lonely
+A1	No-Obj T8
+T9	Spatial-Relation 183 189	lonely
+A2	No-Obj T9
+T11	Spatial-Relation 230 258	More on the darker gray side
+A3	No-Obj T11
+R1	Subj Arg1:T11 Arg2:T1	
+A4	Ambiguous-Subj T11

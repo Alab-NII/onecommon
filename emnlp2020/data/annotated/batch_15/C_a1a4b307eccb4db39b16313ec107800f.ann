@@ -1,0 +1,6 @@
+T1	Markable 24 43	a tiny med/grey one
+T2	Markable 3 18	LARge black one
+T3	Markable 81 91	each other
+T4	Markable 121 132	the big one
+T5	Markable 47 51	it's
+R1	Anaphora Arg1:T5 Arg2:T2	

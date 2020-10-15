@@ -1,0 +1,5 @@
+0: I see six dots in my lower left quadrant
+1: do you see a very large med grey dot?
+0: Yes. it's the largest of the dots in that quad
+1: k is there a smaller darker one almost directly down below it?
+0: I selected the largest one

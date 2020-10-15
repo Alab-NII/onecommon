@@ -1,0 +1,4 @@
+1: do u see a large medium grey dot, kinda alone?
+0: Is it the largest one?
+1: yeah, to the right of it, is a light grey and a really dark grey dot?
+0: Yes! Let's click that really large dot

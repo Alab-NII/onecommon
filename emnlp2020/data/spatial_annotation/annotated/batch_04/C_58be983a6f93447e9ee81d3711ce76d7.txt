@@ -1,0 +1,7 @@
+1: Do you have a small black dot by itself?
+0: no. do you have a very large very light grey dot?
+1: Yes, lets choose that one
+0: wait. is there a smaller slightly darker on a horizontal line with it to its left?
+1: Yes
+0: k which one did you click??
+1: The large light one

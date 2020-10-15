@@ -1,0 +1,8 @@
+1: I only have one medium sized black dot, all the rest are medium and small sized grey and light grey
+0: I have a bunch of medium sized dots very far apart making an X, i do have a large black dot as well its alone and by itself?
+1: hmmm... i have an almost triangle with the top being a medium grey and both bottom being light grey
+0: is the bottom right of that triangle the largest of the 3?
+1: yes!
+0: ok lets pick that one
+1: the bottom right?
+0: yes

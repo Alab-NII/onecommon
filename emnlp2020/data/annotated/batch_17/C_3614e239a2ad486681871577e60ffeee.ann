@@ -1,0 +1,10 @@
+T1	Markable 12 34	a large light grey dot
+T2	Markable 42 48	itself
+T3	Markable 62 66	that
+T4	Markable 79 86	nothing
+T5	Markable 92 117	that large light grey dot
+T6	Markable 156 164	that one
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T4
+T7	Markable 128 135	nothing
+A2	No-Referent T7

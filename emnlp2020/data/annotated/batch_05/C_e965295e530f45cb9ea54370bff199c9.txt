@@ -1,0 +1,5 @@
+0: I have one very large dark dot, with one of the same color but slightly smaller down a bit and to the right.
+1: Do you have a cluster of 4 dots, 3 same color, one darker ?
+0: Yes - and three are the same color and one is a touch darker?
+1: Yes, lets selected the darker one
+0: OK

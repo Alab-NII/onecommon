@@ -1,0 +1,7 @@
+0: Hello! Wheres your dot?
+1: two same size, smallest. darker of two is below, lighter is above it to the right of it. these are on the left side
+0: Don't have those on mine. How about 2 really close to one another, light one and a smaller dark one to the north east of it. It also has a small light grey one further down from the group
+1: where are your two smallest ones?
+0: how about a black medium dot with a larger dark grey dot to the bottom right of it
+1: sounds good. i hear you, see those. choose the darkest one?
+0: yes!

@@ -1,0 +1,5 @@
+0: DO you have a larger dark dot with a pale smaller dot to the right of it?
+1: yep!
+0: paler dot also slightly lower?
+1: ok
+0: lets select the paler dot.

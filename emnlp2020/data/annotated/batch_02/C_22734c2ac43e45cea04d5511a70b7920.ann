@@ -1,0 +1,17 @@
+T1	Markable 9 26	a medium grey dot
+T2	Markable 34 40	itself
+T4	Markable 62 80	a cluster of three
+T5	Markable 99 102	one
+T6	Markable 119 138	the lower black one
+T7	Markable 152 156	they
+T8	Markable 186 210	another cluster of three
+T9	Markable 227 239	your cluster
+T11	Markable 248 276	that second cluster of three
+T12	Markable 292 307	lightest/larges
+T14	Markable 327 335	the line
+T15	Markable 404 429	that lightest largest one
+T16	Markable 433 451	the second cluster
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 82 83	2
+R2	Anaphora Arg1:T7 Arg2:T4	
+R3	Anaphora Arg1:T14 Arg2:T11	

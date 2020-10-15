@@ -1,0 +1,4 @@
+0: I see an almost black large dot on the bottom, toward the left.
+1: med grey with two dark smaller ones above it?
+0: Yes I see that
+1: lets do it

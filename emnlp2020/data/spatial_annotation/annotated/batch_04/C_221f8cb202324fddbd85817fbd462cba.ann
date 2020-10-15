@@ -1,0 +1,40 @@
+T1	Markable 9 19	three dots
+T2	Markable 21 25	They
+T4	Markable 60 79	The two bottom ones
+T5	Markable 127 138	a small dot
+T6	Markable 175 187	a bigger dot
+T7	Markable 232 236	that
+T8	Markable 260 266	itself
+T9	Markable 284 292	that one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T10	Markable 94 105	Small light
+T11	Markable 247 252	small
+R3	Anaphora Arg1:T8 Arg2:T11	
+T3	Spatial-Relation 26 41	form a triangle
+A1	No-Obj T3
+T12	Spatial-Relation 43 58	Different sizes
+A2	No-Obj T12
+T13	Spatial-Relation 68 74	bottom
+R2	Obj Arg1:T13 Arg2:T1	
+T14	Spatial-Attribute 84 89	black
+T15	Spatial-Relation 106 117	on the left
+A3	No-Obj T15
+T16	Spatial-Relation 139 150	on the left
+A4	No-Obj T16
+T17	Modifier 154 158	very
+T18	Spatial-Attribute 159 164	light
+T19	Spatial-Relation 177 183	bigger
+R4	Obj Arg1:T19 Arg2:T5	
+T20	Spatial-Relation 188 199	to the left
+R5	Obj Arg1:T20 Arg2:T5	
+T21	Modifier 201 208	a shade
+T22	Spatial-Relation 209 215	darker
+R6	Obj Arg1:T22 Arg2:T5	
+T23	Spatial-Relation 237 246	left side
+A5	No-Obj T23
+R7	Subj Arg1:T23 Arg2:T11	
+T24	Spatial-Relation 257 259	by
+T25	Modifier 253 256	all
+#1	AnnotatorNotes T24	alone
+A6	Mod-Subtlty T21
+A7	Mod-Certainty-Exactness T25

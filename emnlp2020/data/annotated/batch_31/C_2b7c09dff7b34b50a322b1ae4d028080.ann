@@ -1,0 +1,8 @@
+T2	Markable 48 58	each other
+T3	Markable 77 79	it
+T4	Markable 121 151	a lighter and smaller gray dot
+T5	Markable 166 168	it
+T6	Markable 3 38	two medium sized midgray color dots
+R1	Anaphora Arg1:T2 Arg2:T6	
+A1	No-Referent T3
+T1	Markable 83 98	Large black dot

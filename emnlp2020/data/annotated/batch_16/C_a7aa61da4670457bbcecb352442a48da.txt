@@ -1,0 +1,4 @@
+0: Do you have two small light grey dots near the bottom
+1: yes
+0: Is there a larger darker grey dot above it way to the right?
+1: yes you select the small dot at the bottom which is below

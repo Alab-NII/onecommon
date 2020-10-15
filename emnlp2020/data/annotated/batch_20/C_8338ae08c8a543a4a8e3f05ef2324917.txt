@@ -1,0 +1,4 @@
+1: I have a large dark dot with a lighter smaller one just up and to the right
+0: Yes, I see that, it's in my upper left hand corner
+1: let's pick the larger one?
+0: Okay

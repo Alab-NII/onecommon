@@ -1,0 +1,3 @@
+1: is there a small grey circle
+0: Yes
+1: please select that one

@@ -1,0 +1,5 @@
+1: Do you have a large black dot with a smaller black dot directly above it?
+0: do you see a medium sized black dot ?
+1: I have a small black dot with a large dark gray dot above and to the right of it.
+0: yes i have that select the larger?
+1: ok

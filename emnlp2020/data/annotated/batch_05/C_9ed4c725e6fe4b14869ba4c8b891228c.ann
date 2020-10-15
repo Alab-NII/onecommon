@@ -1,0 +1,12 @@
+T1	Markable 3 30	medium sized light gray dot
+T2	Markable 36 48	a darker one
+T3	Markable 64 66	it
+T4	Markable 123 133	each other
+T5	Markable 171 176	those
+T6	Markable 180 184	mine
+T7	Markable 215 230	the lighter one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T8	Markable 100 113	two dark ball
+R2	Anaphora Arg1:T4 Arg2:T8	
+A1	No-Referent T5
+A2	Generic T6

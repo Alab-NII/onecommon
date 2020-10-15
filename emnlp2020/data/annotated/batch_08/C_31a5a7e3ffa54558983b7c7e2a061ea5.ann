@@ -1,0 +1,10 @@
+T1	Markable 87 100	the black one
+T2	Markable 178 184	itself
+T3	Markable 263 271	that one
+T5	Markable 10 18	two dots
+T6	Markable 58 81	medium dark and smaller
+T7	Markable 147 151	that
+A1	No-Referent T7
+T8	Markable 160 174	1 smallest dot
+R1	Anaphora Arg1:T2 Arg2:T8	
+T9	Markable 228 239	medium gray

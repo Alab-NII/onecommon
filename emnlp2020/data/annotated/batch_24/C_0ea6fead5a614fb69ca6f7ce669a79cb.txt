@@ -1,0 +1,4 @@
+0: dark medium dot with Large, very light dot up and to the right
+1: Big gray dot top right middle medium black below slight left
+0: is the big top dot very light grey?
+1: Yes click it

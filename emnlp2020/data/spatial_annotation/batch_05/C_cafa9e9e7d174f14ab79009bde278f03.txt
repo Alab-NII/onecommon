@@ -1,0 +1,7 @@
+1: i have a dark dot alone
+0: Is it a large black dot?
+1: no it's small, do you have a large light grey
+0: yes. Is there a small medium gray dot to the left of it
+1: yes i see it
+0: pick the large light grey dot
+1: ok

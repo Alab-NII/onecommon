@@ -1,0 +1,6 @@
+1: i have a small medium-grey dot to the left and below a medium dark-grey dot
+0: No. Do you see two tiny medium grey dots that are almost the same size with the top being slightly to the right
+1: yes, and to the left and above the upper dot is a small grey one?
+0: No. Darn
+1: ok, two dots almost the same size, the top one is slightly to the right and darker and to the right and above that one is a light grey dot?
+0: I think I know what you mean. Let's pick the top darker one

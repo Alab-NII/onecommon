@@ -1,0 +1,2 @@
+0: I have a small black dot with a slightly larger medium gray dot below and to the left of it
+1: yes. choose the darker dot above and to the right.

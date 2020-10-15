@@ -1,0 +1,9 @@
+T1	Markable 21 28	top one
+T2	Markable 160 163	two
+T3	Markable 167 171	them
+T4	Markable 134 155	three very close dots
+T5	Markable 190 207	the left dark one
+T6	Markable 3 19	triangle pattern
+T7	Markable 50 61	bottom left
+T8	Markable 94 123	slightly small and same color
+R1	Anaphora Arg1:T3 Arg2:T4	

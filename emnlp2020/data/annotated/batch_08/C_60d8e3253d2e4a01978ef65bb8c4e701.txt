@@ -1,0 +1,6 @@
+0: i have a larger gray dot in the middle of two smaller ones. the left one is lighter and the one to the right is darker
+1: a large dark dot closer to the border but not touching the border. do you have this
+0: i dont have the one close to the border
+1: do you have a tiny black dot close to the border
+0: no, i have an almost black dot to the left of a slightly bigger gray dot
+1: okay let us select this almost black dot

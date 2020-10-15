@@ -1,0 +1,3 @@
+0: black smallish dot with a larger dark grey below to the right
+1: Yep I see it, Choose smallish black dot!
+0: Ok will do

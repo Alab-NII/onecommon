@@ -1,0 +1,4 @@
+0: I see three dots almost forming a diagonal line
+1: I do have three dots that almost form a diagonal as well. They are all about the same size, and the one in the middle is lighter than the two on the outside of the line.
+0: That's what I see. Let's go with the lighter middle one?
+1: Let's do it.

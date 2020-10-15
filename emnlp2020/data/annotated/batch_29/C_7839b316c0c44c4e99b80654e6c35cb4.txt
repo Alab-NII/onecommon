@@ -1,0 +1,5 @@
+0: There are four tiny dots close together
+1: do they form a kind of lightening bolt image if you traced them together?
+0: You mean if we include that pretty dark one below
+1: Yes...my circle cuts off on top so I am missing the top small dot I guess
+0: Okay let us select the dark one below

@@ -1,0 +1,37 @@
+T1	Markable 10 28	a cluster of three
+T2	Markable 131 134	one
+T3	Markable 104 129	two large light gray dots
+T4	Markable 171 180	the other
+T5	Markable 88 92	that
+T6	Markable 219 231	my lower one
+T7	Markable 266 284	a large light grey
+T8	Markable 290 319	a smaller slightly darker one
+T9	Markable 342 344	it
+T10	Markable 364 368	that
+T11	Markable 383 397	the larger one
+T12	Markable 29 32	all
+R1	Anaphora Arg1:T12 Arg2:T1	
+A1	No-Referent T5
+T13	Markable 196 213	something similar
+R2	Anaphora Arg1:T9 Arg2:T7	
+T14	Spatial-Relation 12 19	cluster
+A2	No-Obj T14
+T15	Spatial-Relation 33 59	different sizes and shades
+A3	No-Obj T15
+#1	AnnotatorNotes T15	different sizes and different shades
+T16	Spatial-Relation 135 146	to the left
+T17	Modifier 151 159	slightly
+T18	Spatial-Relation 160 170	lower than
+T19	Spatial-Relation 222 227	lower
+R3	Obj Arg1:T19 Arg2:T13	
+T20	Spatial-Relation 235 247	to the right
+R4	Obj Arg1:T20 Arg2:T13	
+T21	Spatial-Relation 285 289	with
+T22	Spatial-Relation 292 299	smaller
+T23	Modifier 300 308	slightly
+T24	Spatial-Relation 309 315	darker
+T25	Modifier 320 335	almost directly
+T26	Spatial-Relation 336 341	above
+T27	Spatial-Relation 387 393	larger
+R5	Obj Arg1:T27 Arg2:T10	
+A4	Mod-Certainty-Exactness T25

@@ -1,0 +1,7 @@
+T2	Markable 60 70	each other
+T3	Markable 105 116	the top one
+T4	Markable 157 168	the top one
+T5	Markable 15 43	two large med/dark grey ones
+R1	Anaphora Arg1:T2 Arg2:T5	
+T1	Markable 132 136	it's
+R2	Anaphora Arg1:T4 Arg2:T3	

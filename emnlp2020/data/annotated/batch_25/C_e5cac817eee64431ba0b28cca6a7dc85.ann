@@ -1,0 +1,18 @@
+T1	Markable 14 29	a group of dots
+T2	Markable 41 65	one very small black dot
+T3	Markable 232 239	nothing
+T4	Markable 169 185	a large grey dot
+T5	Markable 247 249	it
+T6	Markable 285 299	your black dot
+T7	Markable 306 308	it
+T8	Markable 323 341	three lighter dots
+T9	Markable 349 363	that black dot
+T10	Markable 392 412	that small black dot
+T11	Markable 70 84	Large gray dot
+T12	Markable 126 130	it's
+T13	Markable 101 122	slightly smaller gray
+R1	Anaphora Arg1:T12 Arg2:T11	
+T14	Markable 137 147	small gray
+A1	No-Referent T3
+R2	Anaphora Arg1:T5 Arg2:T4	
+R3	Anaphora Arg1:T7 Arg2:T6	

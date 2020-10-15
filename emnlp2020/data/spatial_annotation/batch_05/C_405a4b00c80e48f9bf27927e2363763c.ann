@@ -1,0 +1,27 @@
+T1	Markable 9 13	dots
+T2	Markable 26 42	the number seven
+T3	Markable 72 94	a cluster of four dots
+T6	Markable 219 223	that
+T7	Markable 288 297	the three
+R1	Predicative Arg1:T2 Arg2:T1	
+T11	Markable 53 57	it's
+#1	AnnotatorNotes T11	its
+R2	Anaphora Arg1:T11 Arg2:T2	
+T12	Markable 105 109	an L
+R3	Predicative Arg1:T12 Arg2:T3	
+T13	Markable 113 116	its
+R4	Anaphora Arg1:T13 Arg2:T3	
+T5	Markable 185 196	all of them
+A1	All-Referents T5
+T15	Markable 233 240	the top
+R5	Predicative Arg1:T15 Arg2:T6	
+T16	Markable 274 284	the middle
+T8	Markable 301 307	a line
+R6	Predicative Arg1:T8 Arg2:T7	
+T9	Markable 405 418	the first one
+T10	Markable 434 447	the light one
+R7	Anaphora Arg1:T10 Arg2:T9	
+T14	Markable 151 165	the same thing
+T4	Markable 170 181	the highest
+T17	Markable 244 253	the seven
+T18	Markable 356 364	the same

@@ -1,0 +1,10 @@
+0: do you see a little gray dot at 10 o clock
+1: No. Do you see two dots very close together?
+0: positioned where and color?
+1: They are the only pair that are very close together
+0: do you have one close to 5 o clock light gray med size
+1: Our centers are different so times dont work. Can you describe anything that is unique or stands out?
+0: i have a tiny dot up at the top
+1: I dont. So you don't see two dots that are medium and opposite in shade that are very close to each other??
+0: yes on my left side
+1: Great click the darker one in that pair!

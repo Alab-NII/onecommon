@@ -1,0 +1,4 @@
+0: do you have a large dark grey with a tiny black one below it?
+1: No. Do you have a little medium gray one by itself?
+0: i have a tiny med grey one by itself and a small by itself. above the small one to the right is a tiny grey one with a slightly larger light one directly above it
+1: I have that too. Let's pick the light gray one on top

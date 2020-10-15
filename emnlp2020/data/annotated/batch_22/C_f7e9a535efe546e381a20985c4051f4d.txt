@@ -1,0 +1,6 @@
+1: Large black dot with a smaller black dot next to it... Bottom left
+0: I dont have that. I've got a cluster of 4 to the right
+1: Top right?
+0: Yes. dark grey, black, and two medium grey dots??
+1: Yes... which one U wanna pick
+0: black

@@ -1,0 +1,5 @@
+T1	Markable 53 55	it
+T2	Markable 3 14	Small light
+T3	Spatial-Relation 19 30	middle left
+A1	No-Obj T3
+#1	AnnotatorNotes T3	left

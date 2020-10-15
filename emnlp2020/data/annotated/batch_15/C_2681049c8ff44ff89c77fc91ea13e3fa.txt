@@ -1,0 +1,2 @@
+1: I have a boomerang shape of 3 dots same shade different sizes. left and bottom
+0: Yes, lets go with the largest in the group'

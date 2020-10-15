@@ -1,0 +1,4 @@
+1: Do you see a small black dot right under a larger medium gray dot?
+0: Yes, and there is dark grey large dot under the small black dot
+1: yes, lets choose the small black dot?
+0: Okay

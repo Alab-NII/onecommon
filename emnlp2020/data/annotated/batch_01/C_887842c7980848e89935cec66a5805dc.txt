@@ -1,0 +1,4 @@
+0: Hello! Where's your dot?
+1: do you have two dark ones in the center-ish. top one is slightly darker and slightly larger and slightly off to the right of center
+0: yes I see it. Lets pick the darker one?
+1: ok good luck

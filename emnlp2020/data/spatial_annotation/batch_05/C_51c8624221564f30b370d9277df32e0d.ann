@@ -1,0 +1,11 @@
+T1	Markable 18 28	a triangle
+T2	Markable 66 79	the black one
+T3	Markable 3 14	3 clustered
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 29 32	all
+R2	Anaphora Arg1:T4 Arg2:T3	
+T5	Markable 46 49	one
+T6	Markable 123 131	that one
+T7	None 63 65	if
+#1	AnnotatorNotes T7	is
+R3	Anaphora Arg1:T6 Arg2:T2	

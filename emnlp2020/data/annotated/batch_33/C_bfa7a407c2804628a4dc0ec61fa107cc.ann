@@ -1,0 +1,5 @@
+T1	Markable 124 130	middle
+T2	Markable 161 163	it
+T3	Markable 3 19	two smaller dots
+T4	Markable 65 81	three light dots
+R1	Anaphora Arg1:T2 Arg2:T1	

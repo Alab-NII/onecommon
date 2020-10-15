@@ -1,0 +1,4 @@
+0: Upside down Y...
+1: large dark dot, above and to the right is a small light dot, and below the large dark one to the left is a large grey dot
+0: My large dark has a light one above to the right but nothing below
+1: go for the large dot!

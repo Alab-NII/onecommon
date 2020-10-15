@@ -1,0 +1,5 @@
+0: i have 4 in a line, with a 5th thats kinda out of the line near the middle
+1: I think I have four of those in the line. It goes on a diagonal. And the top one is large and very dark, and the next one is the same size and color.
+0: yeah, and the next one is about the same, maybe slightly lighter, and the 4th is really light?
+1: Yes, I think these are the same. Why don't we pick the top one.
+0: top left one, gotcha

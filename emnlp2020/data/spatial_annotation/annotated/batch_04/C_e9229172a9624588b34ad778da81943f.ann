@@ -1,0 +1,31 @@
+T1	Markable 9 15	4 dots
+T2	Markable 86 101	the biggest dot
+T3	Markable 120 129	the seven
+T4	Markable 108 116	the line
+T5	Markable 172 180	that one
+T7	Markable 49 54	the 7
+T8	Spatial-Relation 21 42	look kind of like a 7
+T9	Modifier 26 33	kind of
+T11	Spatial-Relation 53 54	7
+A2	No-Obj T11
+T12	Modifier 55 62	kind of
+T13	Spatial-Relation 63 72	distorted
+A3	No-Obj T13
+T14	Spatial-Relation 90 97	biggest
+T15	Spatial-Relation 81 85	with
+R1	Subj Arg1:T15 Arg2:T1	
+R2	Obj Arg1:T14 Arg2:T3	
+T6	Spatial-Relation 112 116	line
+A4	No-Obj T6
+T16	Spatial-Relation 117 119	on
+T17	Spatial-Relation 124 129	seven
+A5	No-Obj T17
+T18	Spatial-Relation 130 152	would start to go down
+A7	No-Obj T18
+R3	Subj Arg1:T18 Arg2:T4	
+A1	No-Obj T8
+A9	Canonical-Undefined T8
+A6	Canonical-Undefined T17
+A8	Canonical-Undefined T18
+A10	Mod-Uncertainty-Approximation T9
+A11	Canonical-Undefined T6

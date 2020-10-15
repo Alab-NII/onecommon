@@ -1,0 +1,4 @@
+1: Hello! Where's your dot?
+0: I have one medium small black dot all alone do you?
+1: I see that one. Click it?
+0: sure

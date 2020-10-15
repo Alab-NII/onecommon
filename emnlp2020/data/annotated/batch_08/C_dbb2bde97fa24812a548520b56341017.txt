@@ -1,0 +1,5 @@
+1: i have a smaller black dot on top of a bigger lighter one
+0: is there an even lighter one than that just below to the 2nd one's right? but same size as the larger one?
+1: yes
+0: ok great shall we choose the little black one?
+1: yeah

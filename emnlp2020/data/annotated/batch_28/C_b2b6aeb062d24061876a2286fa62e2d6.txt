@@ -1,0 +1,3 @@
+0: two dark grey dots very close together?
+1: is the larger one to the right and above the other one?
+0: yes! click that larger one on top

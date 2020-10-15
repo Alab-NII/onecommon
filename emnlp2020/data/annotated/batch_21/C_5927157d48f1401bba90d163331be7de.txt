@@ -1,0 +1,5 @@
+1: small light gray dot by itself?
+0: no small dots at all
+1: large black dot?
+0: no i have 2 large medium dots diagonal lower one to the right
+1: ok choose the lower one

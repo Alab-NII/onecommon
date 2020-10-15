@@ -1,0 +1,7 @@
+0: mine make 2 lines one of 4 one of 3 same shape of line as well... down and to the left
+1: Is your smallest dot black?
+0: all of mine are the same size except 2 which are larger
+1: Do you see a black one with a dark grey dot of same size across from it but up and to the right?
+0: its just slight to the right?
+1: Yes and above it is a slightly lighter grey dot.
+0: yes click the black dot

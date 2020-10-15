@@ -1,0 +1,6 @@
+T1	Markable 3 23	largest/lightest one
+T2	Markable 46 64	2 medium size dots
+T3	Markable 79 89	each other
+T4	Markable 99 106	the one
+T5	Markable 171 179	that one
+R1	Anaphora Arg1:T3 Arg2:T2	

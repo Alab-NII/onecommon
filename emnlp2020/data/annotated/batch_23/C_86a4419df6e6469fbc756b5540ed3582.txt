@@ -1,0 +1,5 @@
+1: I have a line of 3 med light gray, small black, larger med gray
+0: do you have 3 dots in a diagonal line?
+1: middle one is black
+0: same
+1: choose the black dot

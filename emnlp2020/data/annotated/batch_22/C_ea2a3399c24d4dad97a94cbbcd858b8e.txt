@@ -1,0 +1,3 @@
+1: two dots almost vertical to each other and close together?
+0: Is the top one slightly bigger and lighter?
+1: yes! click that top one!

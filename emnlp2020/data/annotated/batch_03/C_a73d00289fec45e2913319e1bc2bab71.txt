@@ -1,0 +1,6 @@
+0: Hello! Wheres your dot?
+1: I have a black dot at 4 oclock
+0: I do not have any black dots on my circle. How about 3 dots that look like a triangle?
+1: is the point of the triangle a big medium gray dot
+0: Yes
+1: choose that one, the "point"

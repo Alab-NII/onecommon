@@ -1,0 +1,4 @@
+1: do you see a couple of big dots very close to each other?
+0: No,do you see a small grey dot in the middle of the circle?
+1: yes I see it, surrounded by a triangle of three dots bigger than him?
+0: Yes lets choose that dot.

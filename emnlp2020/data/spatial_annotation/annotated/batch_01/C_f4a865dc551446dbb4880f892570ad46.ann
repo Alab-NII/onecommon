@@ -1,0 +1,32 @@
+T1	Markable 60 79	a med size gray dot
+T2	Markable 51 53	it
+T3	Markable 150 171	a small dark gray dot
+T4	Markable 227 229	it
+T5	Markable 177 201	a smaller light gray dot
+T6	Markable 241 269	a lonely tiny light gray dot
+T7	Markable 315 317	it
+T8	Markable 3 21	med size black dot
+T9	Markable 103 110	my gray
+R1	Anaphora Arg1:T4 Arg2:T3	
+T10	Spatial-Relation 22 28	a lone
+A1	No-Obj T10
+T11	Spatial-Relation 29 44	towards the top
+A2	No-Obj T11
+T12	Spatial-Relation 54 59	below
+T13	Spatial-Relation 84 95	to the left
+R2	Subj Arg1:T13 Arg2:T2	
+R3	Obj Arg1:T13 Arg2:T1	
+T14	Spatial-Relation 114 131	to the right side
+A3	No-Obj T14
+T15	Spatial-Relation 172 176	with
+T16	Spatial-Relation 179 186	smaller
+T17	Spatial-Relation 202 226	above and to the left of
+T18	Spatial-Relation 243 249	lonely
+A4	No-Obj T18
+T19	Spatial-Relation 270 281	to my right
+A5	No-Obj T19
+T20	Modifier 282 287	about
+T21	Spatial-Relation 288 297	4 o clock
+A6	No-Obj T21
+#1	AnnotatorNotes T10	alone
+#2	AnnotatorNotes T21	right;below

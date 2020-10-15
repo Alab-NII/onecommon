@@ -1,0 +1,8 @@
+1: I see dots close together. The one on top is larger, roughly the same shade, and slightly to the right
+0: mine are different shades. I have a large dark circle at the top right of the image
+1: I don't really have any large dark circles. Do you see one tiny dark dot?
+0: i have a small dark gray dot in the upper left of the circle but not touching the edge
+1: Does it have a larger dot with a lighter shade a little below it and to the left?
+0: yes
+1: Ok, lets click the little dark dot
+0: ok

@@ -1,0 +1,3 @@
+1: Two almost black med sized dots that look almost identical to each other?
+0: are they on top of each other, with the top one just offset to the right?
+1: yes click the top one!

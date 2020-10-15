@@ -1,0 +1,7 @@
+1: Mostly up top for me and one lonely medium shade dot that is large at bottom left
+0: I have one very small very dark dot
+1: Me too
+0: Is it very very close to a tiny light grey dot?
+1: If it is to the left
+0: Wait which did you use? The tiny dark dot? Or the medium shade large one?
+1: Tiny dark

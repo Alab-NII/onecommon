@@ -1,0 +1,4 @@
+1: I have 5 bunched up bottom left and two lonely ones to the right one above and right and one low right
+0: I see two darker dots near each other, but not quite vertical. The top one is larger. Do you see those?
+1: Is the top one also a bit to the left? If so let's click that
+0: Yes. Let's click the top one.

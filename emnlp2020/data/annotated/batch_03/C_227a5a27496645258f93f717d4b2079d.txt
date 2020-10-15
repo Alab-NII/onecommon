@@ -1,0 +1,5 @@
+0: I have a small gray dot.
+1: I have a single tiny black dot.
+0: I have a black dot, in between two other dots.
+1: yes!
+0: Shall we select this dot?

@@ -1,0 +1,9 @@
+1: i have a dark black dot - small - at the 3 on a clock and touching the circle
+0: Do you have a small black dot with a small grey dot reasonably far above it?
+1: yes there's a very light small grey dot that is far to the left from that black dot
+0: hmm. mine is only slightly to the left. What else do you see?
+1: i have a medium light colored dot just to the right of where the 12 would be
+0: Our views are different. Do you have a large black dot with a lighter medium dot to the upper right?
+1: i know. the only black dot i have is small and touching the outer circle
+0: Alright. Let's try that one?
+1: ok

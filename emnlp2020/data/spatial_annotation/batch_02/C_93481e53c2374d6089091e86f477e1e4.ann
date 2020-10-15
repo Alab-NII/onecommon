@@ -1,0 +1,8 @@
+T1	Markable 46 56	each other
+T2	Markable 78 91	One clack dot
+T3	Markable 96 107	another one
+T4	Markable 126 135	The black
+T5	Markable 15 22	to dots
+#1	AnnotatorNotes T5	two dots
+R1	Anaphora Arg1:T1 Arg2:T5	
+#2	AnnotatorNotes T2	One black dot

@@ -1,0 +1,13 @@
+T1	Markable 45 48	one
+T3	Markable 70 78	the rest
+T4	Markable 136 138	it
+T5	Markable 85 100	the lighter one
+T6	Markable 208 211	one
+T7	Markable 149 153	mine
+T8	Markable 234 243	the other
+T9	Markable 204 206	it
+T10	Markable 180 188	two dots
+T11	Markable 273 288	the lighter one
+T12	Markable 9 39	a whole lot of light grey dots
+T2	Markable 122 127	those
+R1	Anaphora Arg1:T4 Arg2:T5	

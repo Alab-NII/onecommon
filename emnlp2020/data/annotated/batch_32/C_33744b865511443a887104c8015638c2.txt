@@ -1,0 +1,4 @@
+1: i see two vertical large black dots
+0: Are the medium and close and vertical
+1: yes
+0: let us pick the topmost

@@ -1,0 +1,5 @@
+1: I have two very large very dark dots
+0: I have those east of center. One is touching the edge of the circle
+1: Is one above the other to the right
+0: yes
+1: Let us select the one above

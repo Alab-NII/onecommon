@@ -1,0 +1,34 @@
+T1	Markable 10 26	three black dots
+T2	Markable 49 63	The middle dot
+T3	Markable 88 101	the outer two
+T4	Markable 131 141	three dark
+T5	Markable 146 173	three light smaller circles
+T6	Markable 192 206	your dark dots
+T7	Markable 220 224	They
+T8	Markable 261 276	The largest dot
+T9	Markable 297 317	the two smaller ones
+T10	Markable 328 342	the larger dot
+T11	Spatial-Relation 27 47	in a horizontal line
+A1	No-Obj T11
+T12	Spatial-Relation 53 59	middle
+R1	Obj Arg1:T12 Arg2:T1	
+T13	Modifier 67 75	a little
+T14	Spatial-Relation 76 87	bigger than
+T15	Spatial-Relation 92 97	outer
+R2	Obj Arg1:T15 Arg2:T1	
+T16	Spatial-Relation 158 165	smaller
+A2	No-Obj T16
+A3	Ambiguous-Obj T16
+T17	Spatial-Relation 228 259	across the middle of the circle
+A4	No-Obj T17
+T18	Spatial-Relation 265 272	largest
+R3	Obj Arg1:T18 Arg2:T7	
+T19	Spatial-Relation 280 296	in the middle of
+T20	Spatial-Relation 305 312	smaller
+R4	Obj Arg1:T20 Arg2:T8	
+T21	Spatial-Relation 332 338	larger
+R5	Obj Arg1:T21 Arg2:T7	
+T22	Spatial-Relation 343 356	in the middle
+R6	Obj Arg1:T22 Arg2:T7	
+#1	AnnotatorNotes T15	outside
+A5	Canonical-Undefined T17

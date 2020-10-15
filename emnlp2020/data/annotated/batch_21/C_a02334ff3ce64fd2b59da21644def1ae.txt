@@ -1,0 +1,6 @@
+0: do you have a med/light one that has a smaller dark one over an inch above to it's right?
+1: Three medium to large dots, top one is lightest and medium sized, bottom left is largest and dark, bottom right one is smallest and darkest
+0: oh i have those... the light one i mentioned is your top one?
+1: Yep
+0: ok let's pick the top light one then
+1: K

@@ -1,0 +1,4 @@
+0: I have two dots very close to each other one is to the right and slightly lower and darker
+1: do you see two right next to each other? the left one slightly smaller, slightly lighter and slightly above?
+0: yes. lets pick the slightly smaller one
+1: ok that will be the one to the left. got it

@@ -1,0 +1,4 @@
+0: I have a very large, black dot off by itself. Do you see that?
+1: Do you have a medium black Dot and a larger grey dot that is left and a tiny bit lower?
+0: No I dont see that. I have two fairly dark medium sized dots. The one on the left is larger, the one on the right is pretty small and slightly darker but a similar shade. The smaller dot is at the larger ones 4 oclock
+1: Click that small dark one

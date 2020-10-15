@@ -1,0 +1,3 @@
+0: i see smaller equilateral triangle of 3 dots bottom of triangle is a light grey and small dot
+1: Let us select the biggest darkest of all
+0: ok

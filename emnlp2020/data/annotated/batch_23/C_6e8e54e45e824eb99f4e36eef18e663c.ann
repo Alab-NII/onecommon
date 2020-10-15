@@ -1,0 +1,5 @@
+T1	Markable 14 28	two black dots
+T2	Markable 126 136	each other
+T3	Markable 177 190	the lower one
+T4	Markable 85 111	two dark medium sized dots
+R1	Anaphora Arg1:T2 Arg2:T4	

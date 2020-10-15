@@ -1,0 +1,8 @@
+0: Hello
+1: Hi! Do you see two dark grey dots in a line, the one above is bigger than the one below?
+0: I do not
+1: Which one did you select?
+0: Ok this one has a darker dot
+1: Is it small?
+0: with a smaller dark dot below it
+1: Okay. I'll select the smaller dark dot below it.

@@ -1,0 +1,18 @@
+T2	Markable 34 36	it
+T3	Markable 152 165	the small one
+T4	Markable 140 144	that
+T5	Markable 3 26	Tiny lightest shade dot
+R1	Anaphora Arg1:T2 Arg2:T5	
+T6	Markable 40 64	medium to large dark Dot
+T1	Markable 90 122	a lightest shade medium size dot
+T7	Spatial-Relation 28 33	below
+R2	Subj Arg1:T7 Arg2:T6	
+T8	Spatial-Relation 69 74	above
+T9	Spatial-Relation 75 86	to the left
+R3	Subj Arg1:T8 Arg2:T1	
+R4	Subj Arg1:T9 Arg2:T1	
+R5	Obj Arg1:T8 Arg2:T2	
+R6	Obj Arg1:T9 Arg2:T2	
+T10	Spatial-Relation 92 106	lightest shade
+A1	No-Obj T10
+A2	Ambiguous-Obj T10

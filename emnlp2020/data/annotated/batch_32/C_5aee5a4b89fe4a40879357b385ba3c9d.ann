@@ -1,0 +1,6 @@
+T1	Markable 20 46	an even smaller light grey
+T2	Markable 99 112	the black one
+T3	Markable 3 14	Small black
+T4	Markable 57 60	its
+R1	Anaphora Arg1:T4 Arg2:T3	
+T5	Markable 80 84	both

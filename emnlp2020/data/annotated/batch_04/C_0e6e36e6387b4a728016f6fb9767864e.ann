@@ -1,0 +1,8 @@
+T1	Markable 10 18	two dots
+T2	Markable 56 63	The one
+T3	Markable 147 189	a slightly smaller slightly less black dot
+T4	Markable 116 140	one super dark black dot
+T5	Markable 199 219	All of my other dots
+T6	Markable 249 270	the larger darker dot
+T7	Markable 43 54	one another
+R2	Anaphora Arg1:T7 Arg2:T1	

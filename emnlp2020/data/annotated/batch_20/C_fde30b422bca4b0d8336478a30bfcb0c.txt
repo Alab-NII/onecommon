@@ -1,0 +1,5 @@
+1: I have a very dark dot with a small light dot up and to the left of it.
+0: I have 1 small light grey dot that is in between many large dots
+0: Yes, lets choose the small light dot
+1: Does it have a dark above and below?
+0: It has a medium gray above and a dark grey below, both large

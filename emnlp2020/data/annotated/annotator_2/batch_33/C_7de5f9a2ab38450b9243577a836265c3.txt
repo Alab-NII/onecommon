@@ -1,0 +1,6 @@
+1: Large black with lighter grey below to the left
+0: i see 3 dots; large black to left, small medium dark in the middle and large gray to the right
+1: I don't see that... do u have a small dark with a larger lighter grey below
+0: do you have a large grey to the right ?
+1: Yes
+0: let us select it

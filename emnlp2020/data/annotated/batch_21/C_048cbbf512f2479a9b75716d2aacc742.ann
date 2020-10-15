@@ -1,0 +1,9 @@
+T1	Markable 14 25	a tiny grey
+T2	Markable 82 107	a tiny lightest shade dot
+T3	Markable 122 132	three dots
+T4	Markable 115 117	it
+T5	Markable 61 73	2 large grey
+R1	Anaphora Arg1:T4 Arg2:T2	
+T6	Markable 133 142	two large
+T7	Markable 143 152	one small
+T8	Markable 171 185	that tiny grey

@@ -1,0 +1,7 @@
+T2	Markable 50 64	any black dots
+T3	Markable 76 96	a large med gray dot
+T4	Markable 100 106	a line
+T6	Markable 129 168	the biggest and the darkest of the line
+A1	No-Referent T2
+R1	Predicative Arg1:T4 Arg2:T3	
+T1	Markable 10 33	just one tiny black dot

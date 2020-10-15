@@ -1,0 +1,10 @@
+T1	Markable 3 26	1 lonely light grey dot
+T2	Markable 91 114	a light grey medium dot
+T3	Markable 50 69	one large black dot
+T4	Markable 71 73	it
+T5	Markable 258 283	three grey crooked l dots
+T6	Markable 304 313	the three
+R1	Anaphora Arg1:T4 Arg2:T3	
+T7	Markable 136 164	1 upper medium dark grey dot
+T8	Markable 198 205	a shape
+T9	Markable 290 300	the middle

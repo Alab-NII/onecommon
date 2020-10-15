@@ -1,0 +1,5 @@
+0: I have a large black dot and below it and to the left is a small black dot
+1: I don't have that. I have 2 large same sized dots very close together almost in a horizontal line. The one on the left is almost black, the one on the right is slightly lower and light gray
+0: none of my dots are close together, that one might be on my edge, is there a slightly lighter and slightly smaller dot below it and to the right?
+1: No. How about a tiny very dark dot with a larger very light gray dot to the left and below it?
+0: yes, i have that, let's pick the dark dot

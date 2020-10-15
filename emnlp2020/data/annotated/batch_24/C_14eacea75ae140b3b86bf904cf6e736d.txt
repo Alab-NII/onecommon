@@ -1,0 +1,11 @@
+1: do you see a large light gray dot in between two different shade smaller dots?
+0: do you have a large light dot near dead center?
+1: No but our views are different so that won't work
+0: is there one large darker circle in the center?
+1: No but our views are different per instructions so what you see position wise is not what I see...do you see my question above yours?
+0: I didnt do it right, sorry...do you have a small light one near the left edge?
+1: Sorry but what you see position related is not what I am going to see...you need to give more descriptive like my initial question above...please read it and answer
+0: Yes there is a large in between 2 small, near center
+1: Ok, select the big light dot in between.
+0: do you have a small light dot near left edge?
+1: SELECT THE LARGE LIGHT GRAY DOT...RUNNING OUT OF TIME.

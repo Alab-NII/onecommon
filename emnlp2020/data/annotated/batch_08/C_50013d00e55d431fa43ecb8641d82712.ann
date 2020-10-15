@@ -1,0 +1,11 @@
+T1	Markable 10 26	a med light grey
+T2	Markable 57 59	it
+T3	Markable 95 105	the others
+T4	Markable 117 127	a triangle
+T5	Markable 133 141	two dots
+R1	Anaphora Arg1:T2 Arg2:T1	
+T6	Markable 63 82	One very light grey
+T7	Markable 191 201	a med grey
+T8	Markable 210 219	to blacks
+#1	AnnotatorNotes T8	two blacks
+T9	Markable 257 272	the medium grey

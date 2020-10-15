@@ -1,0 +1,5 @@
+0: I see a large grey dot off on its own
+1: i see it. my largest dot is the very lightest shade. it has a similar shade but much smaller dot just below it to the right?
+0: I see it - so its about the largest dot in view, lighter shade of gray... Below it to the right, same shade but smaller. then below that further to the left, about the same shade, slightly bigger than the smaller one.
+1: yes. lets select the big guy?
+0: Lets do it.

@@ -1,0 +1,20 @@
+T1	Markable 54 64	larger one
+T2	Markable 96 109	the other dot
+T3	Markable 133 148	that darker one
+T4	Markable 3 11	two dots
+T5	Modifier 12 16	very
+T6	Spatial-Relation 17 31	close together
+A1	No-Obj T6
+T7	Spatial-Relation 32 48	on diagonal line
+A2	No-Obj T7
+T9	Spatial-Relation 54 60	larger
+R1	Obj Arg1:T9 Arg2:T4	
+T10	Modifier 65 69	very
+T11	Spatial-Attribute 70 75	large
+T12	Spatial-Attribute 80 88	med grey
+T13	Spatial-Relation 110 116	darker
+R2	Obj Arg1:T13 Arg2:T4	
+T14	Spatial-Relation 138 144	darker
+R3	Obj Arg1:T14 Arg2:T4	
+T15	Modifier 80 83	med
+A3	Mod-Neutral T15

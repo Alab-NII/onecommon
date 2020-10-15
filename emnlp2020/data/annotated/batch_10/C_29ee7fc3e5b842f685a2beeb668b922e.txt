@@ -1,0 +1,6 @@
+1: A triangle made of 3 dots and a triangle made of 4 dots. do you have either?
+0: yes. do you see a small dark grey dot with another slightly smaller dark grey dot right below it and to the right a bit
+1: No i do not see that on mine, just the triangles.
+0: in your triangle, the dot in the far left corner is medium and dark grey and has a small dot to its left of the same color. right?
+1: Yes i see that, lets pick the small one?
+0: yes

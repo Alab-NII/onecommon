@@ -1,0 +1,11 @@
+T1	Markable 47 49	it
+T2	Markable 23 40	a larger grey dot
+T3	Markable 63 77	lone black dot
+T4	Markable 91 105	tiny black dot
+T5	Markable 3 17	Tiny black dot
+R1	Anaphora Arg1:T1 Arg2:T5	
+T6	Spatial-Relation 18 22	with
+T7	Spatial-Relation 41 46	above
+T8	Spatial-Relation 63 67	lone
+T9	Spatial-Relation 25 31	larger
+A1	No-Obj T8

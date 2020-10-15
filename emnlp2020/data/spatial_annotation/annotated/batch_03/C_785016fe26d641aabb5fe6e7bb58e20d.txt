@@ -1,0 +1,8 @@
+1: I have only one larger light grey circle on my screen. There's a small black dot next to it on the lower left.
+0: no
+1: Do you have a small black dot at all?
+0: yes the more close the center of the circle
+1: Ok. Any others? Or just the one?
+0: one small dark one on the top of the center and a med grey one on the right on the bottom of the center
+1: Let's do the small black one then.
+0: okay

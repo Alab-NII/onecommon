@@ -1,0 +1,3 @@
+1: I have a line of three tiny dots going up and to the left, pretty spread out.
+0: I don't see that. What about a large medium gray dot with a tiny lighter gray dot directly to the left and slightly above?
+1: Yes, I see that. Lets choose large dark grey. Sounds Good!

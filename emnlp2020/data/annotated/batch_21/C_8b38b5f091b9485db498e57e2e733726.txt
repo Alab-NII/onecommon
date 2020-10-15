@@ -1,0 +1,5 @@
+1: i have two dots . one below the other. the top one is black. the lower one is darkish grey. Almost the same size too
+0: i do not have that
+1: I see two light color dots. they are similar in size, almost on top of each other. the top one is upper to the right. Also, another pair of dots where the upper to the left is smaller
+0: i see both of those pairs
+1: let's choose the dot that have an upper to the right dot where that dot is lighter than lower

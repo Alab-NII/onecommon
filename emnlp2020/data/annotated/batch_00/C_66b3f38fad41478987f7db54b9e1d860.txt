@@ -1,0 +1,4 @@
+0: big dark grey with a black to lower left and lighter grey to lower right?
+1: I see a cluster of four dots, three the same size, one smaller
+0: the black is kinda in middle of your cluster> if yes we can click that
+1: Ok - the black one!

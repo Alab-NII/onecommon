@@ -1,0 +1,2 @@
+1: i see 2 dots aligned diagonally. upper left is darker. down right is lighter. both same sizes
+0: yes! Lets choose the darker of the two

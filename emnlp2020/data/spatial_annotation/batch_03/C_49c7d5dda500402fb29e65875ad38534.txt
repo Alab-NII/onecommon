@@ -1,0 +1,4 @@
+0: i see four circles in a line going vertical on right side of circle
+1: It is three for me, is there a very tiny, very light colored one?
+0: Is it the one at the bottom? its small and light gray
+1: yes indeed! good catch.

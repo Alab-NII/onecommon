@@ -1,0 +1,7 @@
+1: I have LARGE dark grey (almost black) dot right next to same sized light grey dot
+0: I do not see that. I have no dark gray dots almost black. I have 3 dots in a diagonal line lower right towards upper left. Bottom 2 light gray top is darker gray
+1: I don't have that.
+0: My smallest dot is medium gray towards top right about 2 o clock
+1: I don't see that. Do you have lonely large light grey dot?
+0: I have one just above 6 o clock towards the left
+1: ok Click that one

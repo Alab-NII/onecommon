@@ -1,0 +1,4 @@
+0: i have a big light gray dot at 12 o'clock
+1: is there a smaller slightly darker one under it and just slightly to the right?
+0: yes
+1: lets pick the big grey one

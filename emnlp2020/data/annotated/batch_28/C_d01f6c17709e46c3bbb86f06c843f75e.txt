@@ -1,0 +1,2 @@
+1: i have 3 almost in a line. the left one is medium grey, then the middle is light and large and the far right is small and black
+0: yes, select small and black dot to far right.

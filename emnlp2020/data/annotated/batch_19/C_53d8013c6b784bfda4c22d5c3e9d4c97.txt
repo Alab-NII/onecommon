@@ -1,0 +1,8 @@
+1: Do you see a large pale dot with a slightly smaller slightly darker dot almost straight above it?
+0: No.
+1: Do you have 3 dark dots in a triangle shape?
+0: I have two dark dots and one offset like a triangle which is lighter toward the bottom.
+1: is the lighter bottom dot on the right side?
+0: yes
+1: I see that too. DO you want to select the lighter bottom right dot of the triangle?
+0: yes

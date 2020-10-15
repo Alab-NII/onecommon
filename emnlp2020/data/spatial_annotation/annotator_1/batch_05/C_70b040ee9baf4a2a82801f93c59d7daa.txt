@@ -1,0 +1,5 @@
+0: Large black with smaller black to left of it
+1: large black dot in between tiny black dot and medium gray/shade dot?
+1: yes
+0: Yes! Choose large black?
+1: Yes.

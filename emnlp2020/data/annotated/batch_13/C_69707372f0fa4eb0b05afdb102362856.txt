@@ -1,0 +1,5 @@
+0: Do you see mid size black dot on the right bottom edge if not another on the top near the middle
+1: is the black dot to the left & slightly down from a larger, slightly lighter dot
+0: Yes, I do have two Dots on the left a big light gray one on the extreme left and smaller darker gray next to it on the right side
+1: pick the darker one
+0: Ok

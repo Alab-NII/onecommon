@@ -1,0 +1,5 @@
+0: 2 big dark dots close together, one is slightly bigger and above to the left of the other, do you see them?
+1: with a light small dot and medium grey dot to the right?
+0: hmm, that is out of my field of view, so i'm not sure
+1: shall we choose the large black dot?
+0: ok

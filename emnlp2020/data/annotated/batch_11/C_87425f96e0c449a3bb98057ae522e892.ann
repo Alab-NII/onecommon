@@ -1,0 +1,11 @@
+T2	Markable 9 38	a cluster of three close dots
+T3	Markable 117 134	a large black dot
+T4	Markable 68 83	a tiny gray dot
+T5	Markable 114 116	it
+T6	Markable 150 162	your cluster
+T7	Markable 175 179	mine
+T8	Markable 220 235	a tiny gray dot
+T9	Markable 239 251	your cluster
+T10	Markable 272 289	the tiny grey one
+R1	Anaphora Arg1:T5 Arg2:T4	
+A1	No-Referent T6

@@ -1,0 +1,4 @@
+0: I see a very tiny black dot
+1: large gray at the bottom on the edge on the circle dotted line. please indicate color
+0: Ah yes I believe I see it, is it to the right?
+1: yes, slightly. we pick it

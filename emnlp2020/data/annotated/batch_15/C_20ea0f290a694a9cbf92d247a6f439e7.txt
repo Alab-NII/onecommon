@@ -1,0 +1,3 @@
+0: I see a very dark colored dot that is medium/large...It is below/left of a smaller, but also dark one
+1: I see a large dark gray dot and then a slightly smaller one beneath it and then a smaller one below that, almost in a line
+0: Yes I see this line that you are referring to. Let's take the big dark one at the top.

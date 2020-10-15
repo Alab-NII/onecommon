@@ -1,0 +1,5 @@
+1: I see a black dot alone. It is the only black dot I have.
+0: No. Black dots. I have 3 gray in a row with the bottom one being light and medium sized.
+1: Are they going vertically or diagonally?
+0: vertically
+1: Lets choose the lower one.

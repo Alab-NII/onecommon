@@ -1,0 +1,9 @@
+0: I have one tiny grey dot
+1: I have a big dot at 9 o'clock
+0: I have one medium gray dot (med gray color)
+1: where on your circle? What dots are by it ?
+0: the dots are in different positions in our respective circles. In my the medium size med gray dot is near the tiny grey dot
+1: is the tiny dot below it
+0: yes
+1: same, lets select the tiny one
+0: ok

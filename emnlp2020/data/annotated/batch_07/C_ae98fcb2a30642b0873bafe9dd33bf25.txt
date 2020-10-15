@@ -1,0 +1,5 @@
+1: do u see two medium grey dots, the lower one is a little larger than the one right above it, and slightly to the left.
+0: No. I see two grey large dots that are kind of far from each other
+1: how about a really dark grey dot, and a really light grey dot above it that are about the same size?
+0: Yes! Are they large? If so let's click the darker one that's on the bottom
+1: ok

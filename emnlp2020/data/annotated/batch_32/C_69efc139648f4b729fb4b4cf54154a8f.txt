@@ -1,0 +1,7 @@
+0: i have three very small dark/black dots spread out with two lighter dots to the left of them
+1: I don't see the dark ones, but I think I have the two lighter ones. Are they both fairly big, and the one that is to the left is a little lighter and a little bigger?
+0: no, my lighter ones are vertical with the larger lighter one being on "top"
+1: I have a small black one that is kind of all by itself, and then another one of the same size and color far down and to the right just a little.
+0: the small one thats to the right, does it have a larger grey to the left of it? (still below the lonely upper dot?
+1: That's the edge of my circle, so there's nothing to the left. But it sounds like it might be the same one. Should we try, and pick that one that is down and to the right?
+0: okay lets do it :)

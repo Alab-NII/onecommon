@@ -1,0 +1,7 @@
+T1	Markable 70 88	2 larger grey ones
+T2	Markable 47 65	2 small black ones
+T3	Markable 151 161	each other
+T4	Markable 102 110	the ones
+T5	Markable 183 212	the large very light grey one
+T6	Markable 3 22	a cluster of 4 dots
+R1	Anaphora Arg1:T3 Arg2:T4	

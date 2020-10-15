@@ -1,0 +1,8 @@
+T1	Markable 10 32	a tiny medium gray dot
+T2	Markable 38 61	a larger same color dot
+T3	Markable 88 90	it
+T4	Markable 146 156	the larger
+T5	None 3 4	A
+#1	AnnotatorNotes T5	I
+R1	Anaphora Arg1:T3 Arg2:T1	
+T6	Markable 94 101	Top one

@@ -1,0 +1,13 @@
+T1	Markable 9 26	a large black dot
+T2	Markable 144 146	it
+T3	Markable 173 175	it
+T4	Markable 286 294	that one
+T5	Markable 280 282	it
+T7	Markable 350 352	it
+T8	Markable 52 72	only one grey circle
+T9	Markable 104 123	another grey circle
+R1	Anaphora Arg1:T2 Arg2:T9	
+R2	Anaphora Arg1:T3 Arg2:T9	
+T10	Markable 179 198	a small dark circle
+T11	Markable 215 230	one grey circle
+T12	Markable 253 270	all other circles

@@ -1,0 +1,3 @@
+0: 3 dots forming a triangle two of them very very dark
+1: Two of them are same in size?
+0: yes if the blackest one is on the top right click that one!

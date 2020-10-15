@@ -1,0 +1,17 @@
+T1	Markable 19 30	a large one
+T2	Markable 6 18	your darkest
+T3	Markable 72 85	any dark ones
+T4	Markable 127 144	a horizontal line
+T5	Markable 97 123	two medium gray large ones
+T6	Markable 193 197	they
+T7	Markable 335 349	the larger one
+A1	No-Referent T3
+R1	Predicative Arg1:T4 Arg2:T5	
+T8	Markable 156 171	two medium grey
+R2	Anaphora Arg1:T6 Arg2:T8	
+T9	Markable 214 224	each other
+R3	Anaphora Arg1:T9 Arg2:T6	
+T10	Markable 230 237	the top
+T11	Markable 258 268	the bottom
+T12	Markable 303 308	those
+R4	Predicative Arg1:T1 Arg2:T2	

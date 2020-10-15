@@ -1,0 +1,4 @@
+1: Do you have a dark grey dot in the middle of two slightly larger lighter grey dots?
+0: no i dont see that, sorry- do you see 2 light dots, bigger dot is slightly lower and to the left of the smaller dot
+1: I think so which one do you want to choose?
+0: the smaller one please

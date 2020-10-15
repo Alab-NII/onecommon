@@ -1,0 +1,13 @@
+T1	Markable 96 107	a large dot
+T3	Markable 156 181	a tight cluster of 3 dots
+T5	Markable 209 234	another cluster of 3 dots
+T6	Markable 239 243	they
+T7	Markable 273 296	the three tight cluster
+T8	Markable 307 319	the dark one
+T9	Markable 3 9	3 dots
+T10	Markable 20 28	smallest
+T11	Markable 36 42	medium
+T12	Markable 59 71	larger black
+R1	Anaphora Arg1:T6 Arg2:T5	
+T2	Markable 321 334	Lowest corner
+R2	Anaphora Arg1:T2 Arg2:T8	

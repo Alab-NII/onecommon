@@ -1,0 +1,6 @@
+0: I see the largest darkest dot, on the left side, with a much lighter dot same size slightly up and to the right
+1: do you have a cluster of 5... the top three are same size/tiny... bottom two are large and larger, with largest of them being dark?
+0: yes I see your cluster
+1: do you see the top small darkest one? and the larger one furthest away is the lightest one of the cluster?
+0: yes the topmost one is part of a triangle and is darkest
+1: ok lets pick that small/dark top one?

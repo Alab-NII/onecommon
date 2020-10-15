@@ -1,0 +1,5 @@
+T1	Markable 68 82	four gray dots
+T2	Markable 49 57	a square
+T3	Markable 14 31	a large black dot
+T4	Markable 105 116	the big one
+R1	Predicative Arg1:T1 Arg2:T2	

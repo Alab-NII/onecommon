@@ -1,0 +1,2 @@
+1: 2 large dots very close, left dot is light grey, right is black
+0: click on the large black dot on the right.

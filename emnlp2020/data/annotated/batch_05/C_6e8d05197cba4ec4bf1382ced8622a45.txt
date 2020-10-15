@@ -1,0 +1,5 @@
+1: do you see a black dot that is large?
+0: i have three in a row, diagonally going down left to right, the two circles center and right are lighter
+1: yes i see those the two outside circles are smaller and the middle is larger,correct?
+0: yep. pick the center?
+1: Yes, thanks

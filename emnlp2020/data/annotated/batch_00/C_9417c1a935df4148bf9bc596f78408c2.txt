@@ -1,0 +1,5 @@
+0: I have only one very large black dot. Do you have only one like that?
+1: I've got two, both at the top. far to the bottom of my circle i have a cluster of medium grey/medium size (3) one small light one to the top of the cluster, one dark small to the left of the cluster
+0: I think I have that. Should we choose the smaller light gray one at the top of the cluster?
+1: ok sounds good. if you tilt your head to the right looking at the 3 closest to the small one it looks like eyes/nose
+0: Yes.

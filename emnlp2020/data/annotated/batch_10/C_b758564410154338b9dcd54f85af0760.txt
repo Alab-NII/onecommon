@@ -1,0 +1,5 @@
+1: I have two very tiny dots to the right of my circle.
+0: I don't have two very tiny. I do have on the left of my circle, a largish medium gray very close to a slightly smaller dark circle
+1: I think I have that too. The large medium gray is directly above the smaller dark gray?
+0: No, it's to the right, but I think I see the one you're talking about. Smaller dark gray has very light gray circle down and to the left and mid gray larger circle straight up almost. Let's select the dark one?
+1: Perfect

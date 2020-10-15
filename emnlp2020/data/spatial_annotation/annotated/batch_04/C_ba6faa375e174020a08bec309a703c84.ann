@@ -1,0 +1,25 @@
+T1	Markable 33 42	right one
+T2	Markable 137 152	the smaller one
+T3	Markable 97 111	the bigger one
+T4	Markable 168 173	yours
+T5	Markable 188 202	the bigger one
+T6	Markable 3 17	two small dots
+T7	Markable 63 80	two med gray dots
+A1	No-Referent T4
+T8	Spatial-Relation 18 32	close together
+A2	No-Obj T8
+T9	Spatial-Relation 33 38	right
+R1	Obj Arg1:T9 Arg2:T6	
+T10	Modifier 43 47	very
+T11	Spatial-Attribute 48 58	light grey
+T12	Spatial-Relation 81 91	same color
+A3	No-Obj T12
+T13	Spatial-Relation 92 96	with
+R2	Obj Arg1:T13 Arg2:T3	
+R3	Obj Arg1:T13 Arg2:T2	
+T14	Spatial-Relation 101 107	bigger
+T15	Spatial-Relation 112 136	above and to the left of
+T16	Spatial-Relation 141 148	smaller
+R4	Obj Arg1:T16 Arg2:T3	
+T17	Spatial-Relation 192 198	bigger
+R5	Obj Arg1:T17 Arg2:T2	

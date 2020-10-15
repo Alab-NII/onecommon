@@ -1,0 +1,4 @@
+0: Do you see a cluster of dots to the right
+1: Yes. Is the top small and dark, middle is bigger and gray, and bottom is black and tiniest?
+0: Yes
+1: Let choose the top one.

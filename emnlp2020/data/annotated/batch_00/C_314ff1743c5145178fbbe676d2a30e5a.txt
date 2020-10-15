@@ -1,0 +1,4 @@
+1: large black with small grey to lower right?
+0: yes
+1: ok cool large black then
+0: cool

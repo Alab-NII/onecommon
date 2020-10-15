@@ -1,0 +1,3 @@
+0: do you see a tiny dark grey dot with a slightly larger black dot above it
+1: yes the black dot is slightly larger and slightly right
+0: yes select the larger one

@@ -1,0 +1,16 @@
+T1	Markable 63 72	one small
+T2	Markable 15 31	three black dots
+T3	Markable 35 41	a line
+T4	Markable 123 139	on med small dot
+T5	Markable 144 153	the other
+T6	Markable 158 169	blacks dots
+T7	Markable 183 199	the med gray dot
+T8	Markable 249 251	it
+T9	Markable 205 222	a large black dot
+R1	Predicative Arg1:T3 Arg2:T2	
+T10	Markable 43 53	two medium
+T11	Markable 97 118	one big med color dot
+#1	AnnotatorNotes T4	one med small dot
+R2	Predicative Arg1:T6 Arg2:T5	
+R3	Anaphora Arg1:T8 Arg2:T7	
+T12	Markable 279 291	the med gray

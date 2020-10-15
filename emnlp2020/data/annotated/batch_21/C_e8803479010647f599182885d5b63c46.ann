@@ -1,0 +1,12 @@
+T1	Markable 68 81	the other one
+T2	Markable 129 141	a darker dot
+T3	Markable 26 34	One line
+T4	Markable 153 173	two small light dots
+T5	Markable 176 179	one
+T6	Markable 236 251	that first line
+T8	Markable 269 273	they
+T9	Markable 348 357	the three
+T10	Markable 10 24	2, 3 dot lines
+T11	Markable 208 226	the two small ones
+R1	Anaphora Arg1:T8 Arg2:T11	
+T7	Markable 331 344	the rightmost

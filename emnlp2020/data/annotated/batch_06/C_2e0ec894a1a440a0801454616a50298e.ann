@@ -1,0 +1,11 @@
+T1	Markable 23 29	itself
+T2	Markable 47 52	yours
+T3	Markable 54 58	Mine
+T5	Markable 98 115	a group of 3 dots
+T6	Markable 155 170	the largest one
+T8	Markable 269 289	that really dark one
+T9	Markable 3 18	really dark dot
+R1	Anaphora Arg1:T1 Arg2:T9	
+T10	Markable 119 122	its
+T11	Markable 204 214	the bottom
+T4	Markable 243 247	what

@@ -1,0 +1,3 @@
+0: Do you see a light
+1: i have two dots that are the same size side by side but one is light colored and the one on the left is darker
+0: Exactly what I was trying to type before I accidentally sent it early. I think we should select the one on the left

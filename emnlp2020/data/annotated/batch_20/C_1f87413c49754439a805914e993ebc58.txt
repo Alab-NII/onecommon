@@ -1,0 +1,7 @@
+0: I see a large grey dot almost all the way to the right in the center
+1: do you have 4 large dots clustered together, different shades?
+0: I have 3 dots clustered together, one dark and two light.
+1: is the lighter one to the left of the darker ones?
+0: There's a lighter one to the left of a medium shade one and darker one below those two
+1: yes. lets choose the lighter one.
+0: Okay, is yours toward the center?

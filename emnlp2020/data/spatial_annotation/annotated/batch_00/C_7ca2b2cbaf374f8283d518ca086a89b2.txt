@@ -1,0 +1,4 @@
+1: See the large black dot, above is a lightest shade large dot, and to the right is a small grey dot
+0: i dont think i am seeing that. i have two identical dot that are light and medium-large. they are about an inch apart and the lower one is a bit to the right
+1: I do not see that. how about A small black dot, below and to the right is an almost same sized small grey dot.
+0: yes, pick the black dot

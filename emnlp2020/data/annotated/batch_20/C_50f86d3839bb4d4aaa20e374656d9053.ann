@@ -1,0 +1,13 @@
+T1	Markable 15 33	3 medium gray dots
+T2	Markable 37 52	a straight line
+T3	Markable 236 256	the large middle one
+R1	Predicative Arg1:T2 Arg2:T1	
+T4	Markable 54 59	small
+T5	Markable 61 66	large
+T6	Markable 68 74	medium
+T7	Markable 89 97	tiny dot
+T8	Markable 126 153	southwest medium light gray
+T9	Markable 162 169	a small
+T10	Markable 171 176	large
+T11	Markable 178 184	medium
+T12	Markable 200 204	mine

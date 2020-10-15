@@ -1,0 +1,6 @@
+0: do you have a cluster of 3 dots mid circle to the left
+1: Do you see a very small black dot at the top of a triangle?
+0: i do have a set with a small black dot at the top!
+1: Awesome, is the left one is middle size and dark grey and right is big size and light grey?
+0: yes lets choose the black dot
+1: okay!

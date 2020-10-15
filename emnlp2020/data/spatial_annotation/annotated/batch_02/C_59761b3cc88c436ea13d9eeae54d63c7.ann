@@ -1,0 +1,19 @@
+T1	Markable 10 25	a very dark dot
+T2	Markable 84 97	a smaller one
+T3	Markable 144 148	that
+T4	Markable 160 172	the dark dot
+T5	Markable 81 83	It
+T6	Modifier 34 40	almost
+T7	Spatial-Attribute 41 46	large
+T8	Spatial-Relation 50 76	by the edge of your circle
+A1	No-Obj T8
+R1	Subj Arg1:T8 Arg2:T1	
+T9	Spatial-Relation 98 103	below
+T10	Spatial-Relation 104 116	to the right
+R2	Obj Arg1:T9 Arg2:T5	
+R3	Obj Arg1:T10 Arg2:T5	
+T11	Spatial-Attribute 125 129	dark
+T12	Spatial-Attribute 173 178	large
+T13	Spatial-Relation 86 93	smaller
+R4	Obj Arg1:T13 Arg2:T5	
+A2	Canonical-Undefined T8

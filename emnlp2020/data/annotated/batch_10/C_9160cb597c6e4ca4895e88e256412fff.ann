@@ -1,0 +1,20 @@
+T1	Markable 26 37	my smallest
+T2	Markable 137 148	my smallest
+T3	Markable 99 108	those two
+T4	Markable 79 87	the rest
+T5	Markable 120 133	the other dot
+T6	Markable 49 57	two dots
+T7	Markable 196 209	the small one
+T8	Markable 172 189	a larger dark dot
+T9	Markable 242 264	a large light gray dot
+T10	Markable 211 213	it
+T11	Markable 276 289	the small dot
+T12	Markable 385 405	the little black dot
+T13	Markable 432 453	that little black dot
+T14	Markable 493 495	it
+T15	Markable 3 17	my darkest dot
+R1	Predicative Arg1:T1 Arg2:T15	
+T16	Markable 92 95	one
+R2	Anaphora Arg1:T3 Arg2:T6	
+R3	Predicative Arg1:T2 Arg2:T5	
+A1	No-Referent T8

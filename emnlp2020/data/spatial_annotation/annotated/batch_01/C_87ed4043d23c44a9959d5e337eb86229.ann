@@ -1,0 +1,35 @@
+T1	Markable 10 26	a dark large dot
+T2	Markable 65 82	a large light one
+T3	Markable 172 185	a lighter one
+T4	Markable 192 194	it
+T5	Markable 204 206	it
+T6	Markable 151 166	your large dark
+T7	Markable 235 247	a small dark
+T8	Markable 215 217	it
+T9	Markable 228 230	it
+T10	Markable 274 278	that
+T11	Markable 303 322	the same light grey
+T12	Markable 360 362	it
+T13	Markable 106 122	A light grey one
+R1	Anaphora Arg1:T4 Arg2:T6	
+R2	Anaphora Arg1:T5 Arg2:T6	
+R3	Anaphora Arg1:T9 Arg2:T8	
+A1	No-Referent T10
+T14	Spatial-Relation 27 45	at about 10 oclock
+A2	No-Obj T14
+T15	Modifier 30 35	about
+T17	Spatial-Relation 89 102	in the middle
+A3	No-Obj T17
+T18	Spatial-Relation 123 136	in the middle
+A4	No-Obj T18
+T19	Spatial-Relation 167 171	have
+T20	Spatial-Relation 174 181	lighter
+T24	Spatial-Relation 231 234	has
+T25	Spatial-Relation 248 259	to the left
+R6	Obj Arg1:T25 Arg2:T9	
+T26	Spatial-Relation 323 343	in the almost middle
+A6	No-Obj T26
+T27	Modifier 330 336	almost
+#2	AnnotatorNotes T14	left;above
+T16	Modifier 83 88	right
+A5	Mod-Certainty-Exactness T16

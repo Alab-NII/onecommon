@@ -1,0 +1,5 @@
+1: I see one very black dot, medium in size
+0: tell me what you see
+1: I only have two black ones, the one towards the bottom is a pinch larger than the one at the top
+0: the only black dot i have is on the bottom left side of the circle
+1: Yes thats it, take it!

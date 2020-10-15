@@ -1,0 +1,7 @@
+0: i have two dots very close together, vertically stacked. the lower one is smaller and darker
+1: Do you see a very large medium tone dot
+0: maybe? mine seems pretty dark. what is near it?
+1: To the right not near there is a black small dot
+0: i dont think i have the dot you're describing. do you have the two i described above?
+1: Yes i have two dot. and the upper is medium dark medium size
+0: yes, lets pick the upper one

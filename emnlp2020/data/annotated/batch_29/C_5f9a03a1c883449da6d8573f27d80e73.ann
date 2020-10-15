@@ -1,0 +1,11 @@
+T2	Markable 41 51	each other
+T3	Markable 113 120	the one
+T4	Markable 63 77	many black dot
+T5	Markable 90 112	one set of medium grey
+T6	Markable 175 179	that
+T7	Markable 183 195	the left one
+T8	Markable 240 248	that one
+T9	Markable 3 24	two medium sized dots
+R1	Anaphora Arg1:T2 Arg2:T9	
+T1	Markable 251 266	the smaller one
+R2	Anaphora Arg1:T1 Arg2:T8	

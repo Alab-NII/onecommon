@@ -1,0 +1,4 @@
+0: largest darkest dot? wanna pick that one
+1: I have only one large dark do you?
+0: yeah
+1: Yes lets pick that one

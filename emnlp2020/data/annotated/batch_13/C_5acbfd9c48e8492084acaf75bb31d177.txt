@@ -1,0 +1,4 @@
+1: Do you see a cluster of dots in the middle
+0: Our middles will not be the same as they are two different parts of the same pic. Do you have a large black dot either by itself or with a medium grey smaller one down and to the left?
+1: Yes
+0: I think we should select the black dot

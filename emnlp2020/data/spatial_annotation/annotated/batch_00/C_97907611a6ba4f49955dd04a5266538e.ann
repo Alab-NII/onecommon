@@ -1,0 +1,21 @@
+T1	Markable 12 29	a large black dot
+T2	Markable 138 148	the others
+T3	Markable 65 79	all of my dots
+T4	Markable 113 116	one
+T5	Markable 193 196	one
+T6	Markable 164 180	2 dark gray dots
+T7	Markable 203 212	the other
+T8	Markable 232 243	the top one
+A1	All-Referents T3
+T9	Spatial-Relation 30 61	at the lower right of my circle
+A2	No-Obj T9
+T10	Spatial-Attribute 91 105	large and dark
+T11	Modifier 84 90	fairly
+T12	Modifier 120 124	much
+T13	Spatial-Relation 125 137	lighter than
+T14	Spatial-Relation 197 202	above
+T15	Spatial-Relation 181 192	on the left
+A3	No-Obj T15
+T16	Spatial-Relation 236 239	top
+R1	Obj Arg1:T16 Arg2:T7	
+A4	Mod-Neutral T11

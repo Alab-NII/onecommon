@@ -1,0 +1,10 @@
+T1	Markable 15 34	one large black dot
+T2	Markable 68 74	itself
+T3	Markable 44 60	a large dark dot
+T4	Markable 148 156	that one
+T5	Markable 90 134	one of the largest dots and darkest in color
+T8	Markable 82 86	that
+T10	Markable 186 194	that one
+R1	Anaphora Arg1:T2 Arg2:T3	
+R2	Predicative Arg1:T5 Arg2:T8	
+R3	Anaphora Arg1:T4 Arg2:T8	

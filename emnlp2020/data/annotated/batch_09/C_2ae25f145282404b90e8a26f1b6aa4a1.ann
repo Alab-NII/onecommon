@@ -1,0 +1,9 @@
+T1	Markable 14 31	a line for 4 tops
+T2	Markable 155 163	the line
+T3	Markable 180 196	the smallest one
+#1	AnnotatorNotes T1	a line of 4 dots
+T4	Markable 82 93	Medium gray
+T5	Markable 95 108	smaller black
+T6	Markable 110 128	smallest dark gray
+T7	Markable 133 151	dark gray or black
+R1	Anaphora Arg1:T2 Arg2:T1	

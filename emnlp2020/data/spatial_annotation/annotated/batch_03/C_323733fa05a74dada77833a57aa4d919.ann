@@ -1,0 +1,46 @@
+T1	Markable 21 29	one of 4
+T3	Markable 161 162	2
+T4	Markable 211 226	a dark grey dot
+T5	Markable 194 205	a black one
+T6	Markable 252 254	it
+T7	Markable 330 332	it
+T8	Markable 336 363	a slightly lighter grey dot
+T9	Markable 378 391	the black dot
+T10	Spatial-Relation-Markable 13 20	2 lines
+T11	Markable 30 38	one of 3
+T2	Markable 96 113	your smallest dot
+T12	Markable 124 135	all of mine
+R1	Anaphora Arg1:T6 Arg2:T5	
+T13	Markable 283 286	its
+A1	No-Obj T10
+T14	Spatial-Relation 39 57	same shape of line
+A3	No-Obj T14
+T15	Spatial-Relation 69 89	down and to the left
+A5	No-Obj T15
+R2	Subj Arg1:T14 Arg2:T10	
+R3	Subj Arg1:T15 Arg2:T10	
+T16	Spatial-Relation 101 109	smallest
+A7	No-Obj T16
+T17	Spatial-Attribute 114 119	black
+T18	Spatial-Relation 140 160	the same size except
+T19	Spatial-Relation 173 179	larger
+R4	Obj Arg1:T19 Arg2:T12	
+T20	Spatial-Relation 206 210	with
+T21	Spatial-Relation 227 239	of same size
+T22	Spatial-Relation 240 251	across from
+T23	Spatial-Relation 259 278	up and to the right
+R5	Subj Arg1:T23 Arg2:T4	
+R6	Obj Arg1:T23 Arg2:T6	
+T24	Modifier 287 298	just slight
+T26	Spatial-Relation 299 311	to the right
+R7	Obj Arg1:T26 Arg2:T6	
+T27	Spatial-Relation 324 329	above
+R8	Subj Arg1:T27 Arg2:T8	
+T28	Modifier 338 346	slightly
+T29	Spatial-Relation 347 354	lighter
+R9	Obj Arg1:T29 Arg2:T7	
+A2	Canonical-Undefined T10
+A4	Canonical-Undefined T14
+A6	Canonical-Undefined T15
+A9	Mod-Subtlty T24
+A8	Unannotatable T18

@@ -1,0 +1,36 @@
+T1	Markable 10 33	one large dark gray dot
+T2	Markable 76 105	bottom middle small black dot
+T3	Markable 190 208	a smaller dark dot
+T4	Markable 246 258	the dark dot
+T5	Markable 239 241	it
+T6	Markable 54 70	Lonely black dot
+T7	Markable 146 166	large light gray dot
+T8	Spatial-Relation 34 50	towards 4 oclock
+A1	No-Obj T8
+T9	Spatial-Relation 54 60	Lonely
+A2	No-Obj T9
+T11	Spatial-Relation 71 89	near bottom middle
+R1	Subj Arg1:T11 Arg2:T6	
+A3	No-Obj T11
+T12	Spatial-Relation 106 117	to the left
+R2	Obj Arg1:T12 Arg2:T6	
+T13	Modifier 118 124	almost
+T14	Spatial-Relation 125 142	touching the edge
+A4	No-Obj T14
+A5	Ambiguous-Obj T12
+T15	Spatial-Relation 167 184	towards the right
+A6	No-Obj T15
+T16	Spatial-Relation 185 189	with
+T17	Spatial-Relation 192 199	smaller
+R3	Obj Arg1:T17 Arg2:T7	
+T18	Spatial-Relation 209 217	diagonal
+T19	Spatial-Relation 218 230	to the right
+R4	Obj Arg1:T18 Arg2:T7	
+R5	Obj Arg1:T19 Arg2:T7	
+T20	Spatial-Relation 262 270	diagonal
+T21	Spatial-Relation 271 276	right
+R6	Obj Arg1:T20 Arg2:T7	
+R7	Obj Arg1:T21 Arg2:T7	
+#1	AnnotatorNotes T8	right;below
+#2	AnnotatorNotes T14	outside
+#3	AnnotatorNotes T11	bottom middle

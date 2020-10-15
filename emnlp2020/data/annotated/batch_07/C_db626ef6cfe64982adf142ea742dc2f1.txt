@@ -1,0 +1,4 @@
+0: i've got two dark circles right next to each other, the one on the right is a lot smaller
+1: I have two groups of dots that are very close side by side, do you have one of those, one is far left other side by side is bottom left
+0: i have the set is described, and I also have a set of two same size, one on left is lighter than one on right
+1: Let's go with yours let's pick the larger one to the left

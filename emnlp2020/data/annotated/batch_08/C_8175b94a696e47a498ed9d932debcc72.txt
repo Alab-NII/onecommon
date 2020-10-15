@@ -1,0 +1,3 @@
+1: I have one that is smaller and lighter than the rest. Do you?
+0: yes is it to the left of and below a slightly larger darker dot?
+1: Yes. Let's click on the small light one.

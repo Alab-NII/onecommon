@@ -1,0 +1,4 @@
+1: Big dark dot
+0: I see a very small dark dot.
+1: It is next to a bigger one right
+0: yes they are very close to each other.

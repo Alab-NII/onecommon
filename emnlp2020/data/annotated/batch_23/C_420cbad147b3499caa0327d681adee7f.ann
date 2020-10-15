@@ -1,0 +1,6 @@
+T1	Markable 10 26	2 same-size dots
+T2	Markable 32 42	each other
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 57 68	upper right
+T4	Markable 79 89	Lower left
+T5	Markable 117 122	Black

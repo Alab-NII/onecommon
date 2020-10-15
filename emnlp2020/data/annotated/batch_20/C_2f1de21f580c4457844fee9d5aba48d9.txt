@@ -1,0 +1,4 @@
+0: Do you see three in a line all medium grey?
+1: Three dots sloping upwards to the left bottom one smallest
+0: Yeah! Lets do the bottom/smallest one
+1: K

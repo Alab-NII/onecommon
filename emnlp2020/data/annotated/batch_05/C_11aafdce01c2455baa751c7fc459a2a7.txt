@@ -1,0 +1,6 @@
+1: largest darkest dot to the left side, light grey small dot below and to the right
+0: yes i see it, is there a medium dark grey above to the right?
+1: yes, with a small same-grey dot to its immediate right
+0: these sit on my line at the bottom right
+1: different circles, sounds like we got the same ones, choose the largest darkest dot?
+0: sounds great!

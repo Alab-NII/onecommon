@@ -1,0 +1,4 @@
+1: I see a large dark grey dot next to a medium slightly lighter grey dot. Do you see the same?
+0: do you see two large grey dots close to each other the slightly smaller darker dot is above to the left
+1: yes
+0: select the lower dot

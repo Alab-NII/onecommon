@@ -1,0 +1,9 @@
+0: two dark grey dots very close together?
+1: Is one medium sized and the other smaller?
+0: yes if the smaller one is on the right click that one!
+1: I only have one dark gray dot.
+0: are they any very light grey dots near it?
+1: No
+0: okay well those two dots that we were talking about before is the smaller one on the right?
+1: Yes
+0: k click that small one then

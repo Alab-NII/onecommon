@@ -1,0 +1,10 @@
+T1	Markable 37 57	a smaller darker dot
+T2	Markable 10 31	a dark grey large dot
+T3	Markable 104 125	a large dark grey dot
+T4	Markable 139 159	a tiny dark grey dot
+T5	Markable 182 209	a medium size and shade dot
+T6	Markable 244 256	that cluster
+T7	Markable 279 299	the darker small dot
+A1	No-Referent T3
+T8	Markable 213 216	its
+R1	Anaphora Arg1:T8 Arg2:T4	

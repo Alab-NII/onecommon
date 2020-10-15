@@ -1,0 +1,5 @@
+T1	Markable 10 29	two large dark dots
+T2	Markable 38 48	each other
+T3	Markable 97 109	the left one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T4	Markable 59 74	2 black circles

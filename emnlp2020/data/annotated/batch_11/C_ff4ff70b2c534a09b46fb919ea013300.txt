@@ -1,0 +1,4 @@
+0: I see a large medium gray dog between two smaller dots. One darker above and to the right, one smaller below and to the left.
+1: I may have the same smaller dot to the left, I have a dot at 10 o clock about, another smaller one at 11 and 2 darker dot in the middle spaced out vertically
+0: I'm not sure if I'm seeing that. I do see two darker large dots exactly vertical. There is a smaller dot toward 8 o clock from the bottom dot. Do you see them?
+1: yes, lets choose the one at 8 o clock

@@ -1,0 +1,4 @@
+1: I have two dots VERY close together. They are both pretty dark. The one on top is darker and smaller, and a little to the left
+0: do you have a really dark small one, with a slightly larger/slightly lighter one to it's immediate lower right?
+1: Yes, lets click the top one!
+0: ok at 5 min we will click dark top one :)

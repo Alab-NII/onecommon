@@ -1,0 +1,3 @@
+1: ok so i have a line of three, left to right is, tiny black, small dark grey, small black
+0: Are the last 2 dots the same size ?
+1: yes, pick the smaller one all the way on the left

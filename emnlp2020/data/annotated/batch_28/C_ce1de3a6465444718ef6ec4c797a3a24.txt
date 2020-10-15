@@ -1,0 +1,2 @@
+1: three med grey dots close together in a triangle? right and up is the largest?
+0: Yes, let's choose the larger one

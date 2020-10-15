@@ -1,0 +1,5 @@
+0: I see a small triangle of three dots, larger in size. two light grey one dark grey
+1: Do u c a black dot, if not I think the dark grey is to the left lower slanted
+0: Yes the dark grey is larger in size? I have a smaller grey dot to the lower right of the dark grey dot
+1: I think I c it click the smaller grey dot
+0: okay smaller grey dot we'll click

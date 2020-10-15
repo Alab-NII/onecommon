@@ -1,0 +1,6 @@
+T1	Markable 16 23	top one
+T2	Markable 24 35	the largest
+T3	Markable 79 93	that large one
+T4	Markable 3 14	4 dark dots
+R1	Predicative Arg1:T2 Arg2:T1	
+T5	Markable 52 56	that

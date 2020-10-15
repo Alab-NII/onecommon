@@ -1,0 +1,10 @@
+1: I have one dot larger than the rest.
+0: I do too. Mine is between 3 & 4 o'clock
+1: Mine is at about 5 oclock, across from a small gray dot
+0: How many small dots do you have?
+1: 3 very small, 3 medium, one large
+0: I have the 3 very small ones
+1: Do you have one larger than all the rest?
+0: Yes the one I mentioned earlier between 3 & 4 o'clock
+1: Should we try that one?
+0: Yes

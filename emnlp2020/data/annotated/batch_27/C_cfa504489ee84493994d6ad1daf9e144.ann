@@ -1,0 +1,11 @@
+T1	Markable 15 26	a black dot
+T2	Markable 32 51	another lighter dot
+T3	Markable 119 129	each other
+T5	Markable 192 200	just one
+T6	Markable 227 238	the top one
+T7	Markable 74 98	two small very dark dots
+R1	Anaphora Arg1:T3 Arg2:T7	
+T4	Markable 164 176	the tiny dot
+T8	Markable 184 188	both
+T9	Markable 205 209	Both
+A1	Generic T5

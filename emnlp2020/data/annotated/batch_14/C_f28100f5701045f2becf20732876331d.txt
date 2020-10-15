@@ -1,0 +1,5 @@
+1: Hello! Do you see a large almost black dot?
+0: do you have a big dark one?
+1: Yes! Is there a smaller one above it/
+0: yes, and a light one at the south east of it, should we pick the large dark one?
+1: Yes! Let's do it.

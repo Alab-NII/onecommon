@@ -1,0 +1,14 @@
+T1	Markable 10 16	5 dots
+T2	Markable 57 67	one darker
+T3	Markable 131 135	that
+T4	Markable 73 85	all the rest
+T5	Markable 94 115	darker and the lowest
+R1	Anaphora Arg1:T3 Arg2:T5	
+T6	Spatial-Relation 17 44	forming a sleeping letter T
+A1	No-Obj T6
+T7	Spatial-Relation 61 67	darker
+T8	Spatial-Relation 94 100	darker
+A3	No-Obj T8
+T9	Spatial-Relation 109 115	lowest
+A4	No-Obj T9
+A2	Canonical-Undefined T6

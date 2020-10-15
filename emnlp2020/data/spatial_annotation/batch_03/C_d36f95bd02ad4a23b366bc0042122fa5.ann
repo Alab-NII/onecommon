@@ -1,0 +1,11 @@
+T1	Markable 182 188	3 dots
+T2	Markable 199 209	a triangle
+T3	Markable 255 264	the point
+T4	Markable 268 280	the triangle
+T5	Markable 318 332	that small dot
+T6	Markable 9 18	which dot
+A1	Generic T6
+T7	Markable 58 73	a dark gray dot
+R1	Predicative Arg1:T2 Arg2:T1	
+T8	Markable 281 292	a small dot
+R2	Predicative Arg1:T8 Arg2:T3	

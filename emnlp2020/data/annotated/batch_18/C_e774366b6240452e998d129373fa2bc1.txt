@@ -1,0 +1,5 @@
+1: i have one small dark dot
+0: hi if i divide into 4 quadrants i have two small circle top right, to light gray circles bottom right, one large light gray bottom left, and to medium circles top left
+1: well our views are different, do you have the one small dark dot?
+0: i have one almost at the middle. I said that to compare to yours if any match
+1: that makes sense then, click that dark one.

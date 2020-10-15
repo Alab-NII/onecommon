@@ -1,0 +1,4 @@
+1: I have a large black dot with a large gray dot about two centimeters below and slightly to the right.
+0: Is the one on the right more darker than the other small dot?
+1: They are both large
+0: Ok. I have two dark spots. So let's choose the dot you are referring to because I see what you mean now.

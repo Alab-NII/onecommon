@@ -1,0 +1,5 @@
+0: 4 dots in a loose diamond bottom dot smallest
+1: Is the one to the right of the bottom one black
+0: yes
+1: Let's click the right black
+0: ok

@@ -1,0 +1,4 @@
+1: Do you see three dot in a downward and to the right diagonal?
+0: Do you see a large grey dot. To the right and above it is a lightest shade medium dot, and to the right and below it is a small black dot
+1: Yes. I see the large grey dot.
+0: Click it

@@ -1,0 +1,7 @@
+1: Two stacked large grey dots...one slightly above and right?
+0: Do you see a large black dot with another large black dot above it and slightly to the right>
+0: Yes, lets go with the one to the right
+1: Yes. Let's choose the lower, larger one. =)
+1: You choose the bottom?
+0: Sorry, I chose the top to the right
+1: Ok. Np.

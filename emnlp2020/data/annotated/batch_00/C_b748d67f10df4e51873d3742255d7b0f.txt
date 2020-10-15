@@ -1,0 +1,6 @@
+0: Do you have 2 dark larger dots with the top one slightly larger?
+1: No, do you have a big dark dot with a smaller gray dot above it off to the right?
+0: Yes I do!
+1: the small gray one may be the common one
+0: okay! let's select that one?
+1: ok

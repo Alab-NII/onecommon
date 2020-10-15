@@ -1,0 +1,18 @@
+T1	Markable 63 65	it
+T2	Markable 252 262	each other
+T3	Markable 296 304	Only one
+T4	Markable 332 347	your bottom one
+T5	Markable 407 414	the two
+T6	Markable 388 399	the top one
+T7	Markable 442 444	IT
+T8	Markable 10 25	A MED BLACK DOT
+T9	Markable 133 146	TWO MED BLACK
+T10	Markable 147 150	ONE
+T11	Markable 159 162	ONE
+T12	Markable 176 179	ONE
+T13	Markable 202 207	THOSE
+T14	Markable 218 220	to
+#1	AnnotatorNotes T14	two
+R1	Anaphora Arg1:T2 Arg2:T14	
+T15	Markable 268 272	THEY
+A1	No-Referent T4

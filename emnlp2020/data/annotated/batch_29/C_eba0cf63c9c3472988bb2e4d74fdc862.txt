@@ -1,0 +1,5 @@
+1: there a small dark dot on the top by itself
+0: Yes! There is a slightly larger lighter grey below and to the left
+1: yes
+0: Which do you want to choose?
+1: the dark dot

@@ -1,0 +1,7 @@
+0: medium size medium gray at point south circle edge
+1: I have a large black dot. Below it is a very light, small grey dot. The smaller dot is below and slightly to the left of the black dot.
+1: Our circle edges are different. Do you see what I described?
+0: no i do not have that
+1: Do you have two tiny light grey dots diagonal from each other. They are similar size and shade.
+0: yes, 2 grey one lower and the other to upper right of the lower one
+1: Lets click the lower right

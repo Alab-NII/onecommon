@@ -1,0 +1,22 @@
+T1	Markable 9 28	one large black dot
+T2	Markable 35 50	the biggest one
+T3	Markable 30 32	It
+T4	Markable 91 111	one medium black dot
+T5	Markable 67 86	one large black dot
+T6	Markable 122 130	anything
+T7	Markable 136 156	your large black dot
+T8	Markable 312 327	the lighter dot
+T9	Markable 198 214	a light gray dot
+T10	Markable 252 263	another dot
+T11	Markable 235 248	the black dot
+T12	Markable 335 340	those
+T13	Markable 385 396	seven total
+T15	Markable 427 440	The big black
+T16	Markable 514 537	a small medium gray dot
+T17	Markable 487 504	a large black dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+R2	Predicative Arg1:T2 Arg2:T3	
+A1	Generic T6
+A2	All-Referents T13
+T18	Markable 400 404	They
+T14	Markable 565 574	big black

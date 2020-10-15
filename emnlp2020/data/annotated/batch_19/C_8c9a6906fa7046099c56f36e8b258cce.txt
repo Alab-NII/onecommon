@@ -1,0 +1,5 @@
+0: I see a small black dot on the edge, a couple others same size, varying shade of grey. makes a small triangle. a large light grey dot by itself closer to the other edge
+1: yes if the black dot is up and to the right of the triangle click the black dot
+0: from my view the small black dot is the top point of the triangle
+1: yes click it
+0: ok i'm doing the small black dot

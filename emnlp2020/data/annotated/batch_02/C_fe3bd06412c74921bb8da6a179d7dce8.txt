@@ -1,0 +1,5 @@
+0: Hi, is there a large medium gray dot near your 6:00?
+1: do u see a black dot, with a dark grey dot, thats larger, below it to the left?
+0: No, I don't have those
+1: do u have a really light grey dot, with a slightly darker dot, same size below it, really close together?
+0: yes. let's pick the darker one

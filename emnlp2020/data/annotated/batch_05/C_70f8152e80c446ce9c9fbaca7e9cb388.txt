@@ -1,0 +1,5 @@
+0: medium black dot with a medium light grey dot to upper left of it?
+1: Nope. Small black dot with same size dot but light grey up and to the left?
+0: i see that one
+1: Okay cool which should we choose?
+0: the black one

@@ -1,0 +1,11 @@
+0: Do you see two dark dots?
+1: total of 7 dots
+0: Me too
+1: Three dark dots
+0: I have 4 dark, 3 light. 3 larger dark ones and one smaller dark
+1: I have four lighter dots
+0: Do you have a dark dot near a slightly smaller lighter dot?
+1: No, do you have a medium dark dot touching left of circle?
+0: Yes
+1: Another match
+0: I selected it

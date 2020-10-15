@@ -1,0 +1,55 @@
+T1	Markable 10 37	a large very light gray dot
+T2	Markable 43 66	a smaller dark gray dot
+T3	Markable 92 94	it
+R1	Anaphora Arg1:T3 Arg2:T1	
+T4	Markable 111 115	that
+A1	No-Referent T4
+T5	Markable 123 147	a medium sized dark grey
+T6	Markable 154 174	the large light grey
+T7	Markable 183 209	2 medium sized light greys
+T8	Markable 237 256	a large medium grey
+T9	Markable 263 267	them
+R2	Anaphora Arg1:T9 Arg2:T7	
+T10	Markable 283 299	1 light gray dot
+T11	Markable 312 336	2 medium same sized dots
+T12	Markable 366 373	the one
+T13	Markable 411 418	the one
+T14	Markable 434 438	mine
+A2	All-Referents T14
+T15	Markable 460 467	nothing
+A3	No-Referent T15
+T16	Markable 504 528	a single small black dot
+T17	Markable 545 569	the same small black dot
+T18	Markable 580 609	a much larger medium gray dot
+T19	Markable 635 637	it
+R3	Anaphora Arg1:T19 Arg2:T17	
+T20	Markable 660 679	the small black dot
+T21	Spatial-Relation 38 42	with
+T22	Spatial-Relation 45 52	smaller
+T23	Spatial-Relation 67 91	below and to the left of
+T24	Spatial-Relation 148 153	below
+T26	Spatial-Relation 210 230	going down in a line
+A5	No-Obj T26
+T27	Spatial-Relation 232 236	with
+T28	Spatial-Relation 257 262	below
+T29	Spatial-Relation 321 331	same sized
+A7	No-Obj T29
+T30	Modifier 337 343	almost
+T31	Spatial-Relation 344 364	in a horizontal line
+A8	No-Obj T31
+T32	Spatial-Relation 374 386	on the right
+T33	Modifier 390 398	slightly
+T34	Spatial-Relation 399 410	darker than
+T35	Spatial-Relation 419 430	on the left
+R4	Obj Arg1:T35 Arg2:T12	
+T36	Modifier 443 449	mostly
+T37	Spatial-Relation 450 458	vertical
+A9	No-Obj T37
+T38	Spatial-Relation 468 495	lining up with those colors
+A10	No-Obj T38
+T39	Modifier 582 586	much
+T40	Spatial-Relation 587 593	larger
+T41	Spatial-Relation 610 634	above and to the left of
+A6	Mod-Uncertainty-Approximation T36
+A11	Canonical-Undefined T38
+#1	AnnotatorNotes T26	vertical

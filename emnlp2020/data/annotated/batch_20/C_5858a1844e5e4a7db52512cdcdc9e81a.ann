@@ -1,0 +1,9 @@
+T1	Markable 110 120	each other
+T2	Markable 122 135	The lower one
+T3	Markable 157 168	the top one
+T4	Markable 3 20	Big dark grey dot
+T5	Markable 34 50	medium black dot
+T6	Markable 74 91	2 same sized dots
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 183 195	the lower on
+#1	AnnotatorNotes T7	the lower one

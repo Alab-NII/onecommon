@@ -1,0 +1,7 @@
+T1	Markable 71 92	a lighter/smaller one
+T2	Markable 50 52	it
+T3	Markable 139 152	the light one
+T4	Markable 189 208	the light/right one
+T5	Markable 3 26	large med/dark grey one
+R1	Anaphora Arg1:T2 Arg2:T5	
+T6	Markable 117 133	a triangle shape

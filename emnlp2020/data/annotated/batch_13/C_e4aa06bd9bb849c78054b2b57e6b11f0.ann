@@ -1,0 +1,6 @@
+T1	Markable 45 60	a mini triangle
+T2	Markable 173 181	that one
+T3	Markable 18 19	3
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 112 124	the left one
+T5	Markable 144 146	it

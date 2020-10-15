@@ -1,0 +1,5 @@
+1: Do you have two dots the same size (small), with the one on top darker and slightly to the right of the one underneath?
+0: My largest dot is the lightest
+1: I do not have a large light dot. Do you have the one I described?
+0: Yes i have it let us select the darker one at the top
+1: Great

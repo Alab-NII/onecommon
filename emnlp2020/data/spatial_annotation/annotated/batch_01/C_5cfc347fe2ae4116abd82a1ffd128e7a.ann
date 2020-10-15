@@ -1,0 +1,25 @@
+T1	Markable 9 15	7 dots
+T2	Markable 54 75	a slightly larger dot
+T3	Markable 79 81	it
+T4	Markable 120 140	a very dark grey dot
+T5	Markable 98 115	a small black dot
+T6	Markable 154 156	it
+T7	Markable 163 180	the dark grey dot
+T8	Markable 204 217	the black dot
+T9	Markable 237 254	the black top dot
+A1	All-Referents T1
+T10	Markable 19 39	tiny, very light dot
+T11	Modifier 40 44	very
+T12	Spatial-Relation 45 53	close to
+T13	Modifier 56 64	slightly
+T14	Spatial-Relation 65 71	larger
+T16	Spatial-Relation 84 88	2:00
+R1	Subj Arg1:T16 Arg2:T2	
+R2	Obj Arg1:T16 Arg2:T3	
+R3	Obj Arg1:T14 Arg2:T10	
+T18	Spatial-Relation 146 153	beneath
+T19	Spatial-Relation 181 203	to the bottom right of
+T20	Spatial-Relation 247 250	top
+R4	Obj Arg1:T20 Arg2:T7	
+#1	AnnotatorNotes T16	above;right
+#2	AnnotatorNotes T18	under

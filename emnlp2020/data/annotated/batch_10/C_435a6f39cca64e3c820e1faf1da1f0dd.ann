@@ -1,0 +1,28 @@
+T1	Markable 27 37	seven dots
+T2	Markable 52 55	Two
+T3	Markable 147 156	the other
+T4	Markable 116 119	one
+T5	Markable 164 171	the one
+T6	Markable 268 292	a larger and lighter one
+T7	Markable 311 322	the top one
+T8	Markable 357 364	the one
+T9	Markable 504 516	the same one
+T10	Markable 654 666	the triangle
+T11	Markable 710 721	the big one
+T12	Markable 673 692	the other dark gray
+T13	Markable 701 705	that
+T14	Markable 564 574	a triangle
+T15	Markable 531 549	a large light gray
+T16	Markable 737 751	the large gray
+T17	Markable 766 778	the triangle
+A1	All-Referents T1
+T18	Markable 235 246	the other 2
+T19	Markable 412 419	other 2
+T20	Markable 576 595	smaller light great
+#1	AnnotatorNotes T20	smaller light gray
+T21	Markable 608 616	triangle
+R1	Anaphora Arg1:T21 Arg2:T14	
+T22	Markable 621 630	dark gray
+R2	Anaphora Arg1:T10 Arg2:T14	
+R3	Anaphora Arg1:T17 Arg2:T14	
+R4	Anaphora Arg1:T16 Arg2:T15	

@@ -1,0 +1,17 @@
+T1	Markable 62 69	The one
+T2	Markable 127 143	that smaller one
+T3	Markable 3 34	two very, very light small dots
+T4	Modifier 35 42	sort of
+T5	Spatial-Relation 43 57	close together
+A1	No-Obj T5
+T6	Spatial-Relation 70 76	on top
+R1	Obj Arg1:T6 Arg2:T3	
+T7	Spatial-Relation 80 87	smaller
+R2	Obj Arg1:T7 Arg2:T3	
+T8	Modifier 99 107	slightly
+T9	Spatial-Relation 108 119	to the left
+R3	Subj Arg1:T9 Arg2:T1	
+R4	Obj Arg1:T9 Arg2:T3	
+T10	Spatial-Relation 132 139	smaller
+R5	Obj Arg1:T10 Arg2:T3	
+A2	Mod-Uncertainty-Approximation T4

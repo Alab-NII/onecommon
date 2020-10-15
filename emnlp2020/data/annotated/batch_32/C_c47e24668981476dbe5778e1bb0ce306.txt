@@ -1,0 +1,4 @@
+0: one black dot next to small light grey dot
+1: Is the darker one below if so select it
+0: mmm yes and no. Its next to it but slight below
+1: lets pick the smaller lighter

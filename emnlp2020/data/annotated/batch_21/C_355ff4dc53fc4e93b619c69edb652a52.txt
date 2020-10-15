@@ -1,0 +1,4 @@
+1: Do you see an almost perfect triangle? All three are different shades and about the same size?
+0: with light dot on the top left side?
+1: My lightest dot is furthest left...it would be in the middle of the other two if I were to push it straight over.
+0: yes, click on the lightest dot

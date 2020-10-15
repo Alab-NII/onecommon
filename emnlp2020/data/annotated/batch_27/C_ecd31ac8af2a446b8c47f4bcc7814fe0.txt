@@ -1,0 +1,4 @@
+1: Do you have a small black dot with a small lighter one directly under it?
+0: no I have no black dots at all I have 2 large light greyish dots one is slightly above and left of the other
+1: I have 2 large light ones also but the one above it is to the right not the left. on the left of the larger one is a tiny dark gray dot
+0: ok select the lower of those 2

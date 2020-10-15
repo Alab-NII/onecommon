@@ -1,0 +1,4 @@
+0: two dots very close together? lower one to the left black?
+1: no
+0: okay do you have 3 dots on line sloping up to the left? bottom one is the largest and black?
+1: yes! click that black one

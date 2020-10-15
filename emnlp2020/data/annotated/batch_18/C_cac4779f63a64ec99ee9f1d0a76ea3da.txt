@@ -1,0 +1,5 @@
+1: two medium grey dots 1 slightly right and above the other
+0: don't have yours, large dark grey dot, slight above and to the left of it is a slightly smaller and lighter?
+1: do not have yours 1 large grey dot alone ?
+0: yes, i have 2, one towards the right and the other towards the bottom
+1: choose the one to the right

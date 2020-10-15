@@ -1,0 +1,11 @@
+T1	Markable 37 53	light medium dot
+T2	Markable 91 93	it
+T3	Markable 112 116	that
+T4	Markable 135 142	the one
+T5	Markable 3 14	grey medium
+T6	Markable 60 84	darker but same size dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T3
+T7	Markable 178 189	darker gray
+T8	Markable 193 205	lighter gray
+T9	Markable 210 217	lighter

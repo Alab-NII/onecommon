@@ -1,0 +1,9 @@
+T1	Markable 69 84	bigger gray dot
+T2	Markable 96 98	it
+T3	Markable 49 57	two dots
+T4	Markable 106 118	the two dots
+T5	Markable 140 154	the lonely dot
+T6	Markable 9 34	a lonely black medium dot
+T7	Markable 59 64	black
+R1	Anaphora Arg1:T2 Arg2:T6	
+T8	Markable 165 179	the lonely dot

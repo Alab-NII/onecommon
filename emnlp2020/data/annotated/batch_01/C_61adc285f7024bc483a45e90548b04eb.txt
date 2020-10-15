@@ -1,0 +1,10 @@
+0: do you see any small black dots?
+1: yeah, there is a slightly larger and lighter dot to the right of it
+0: are you sure it is larger?
+1: barely, but I think yes
+0: ok. do you see any others around it
+1: Larger gray dot to the bottom right and a larger light gray dot to the bottom left
+0: is the larger grey dot close to the edge of the circle?
+1: yeah
+0: ok. i think we should choose the first black dot we were talking about.
+1: okay

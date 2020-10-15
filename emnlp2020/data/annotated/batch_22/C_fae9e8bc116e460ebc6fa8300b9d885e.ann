@@ -1,0 +1,7 @@
+T1	Markable 25 40	a vertical line
+T2	Markable 101 116	that bottom one
+T3	Markable 3 9	3 dots
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 42 48	middle
+T5	Markable 68 78	the bottom
+R2	Anaphora Arg1:T2 Arg2:T5	

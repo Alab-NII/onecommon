@@ -1,0 +1,5 @@
+0: i see a darker grey dot
+1: have largest dark grey circle middle center left of circle and a darker 2nd largest dot near right center of circle
+0: ok lets pick the larger darker dot
+1: the largest or 2nd largest near right side of circle?
+0: largest

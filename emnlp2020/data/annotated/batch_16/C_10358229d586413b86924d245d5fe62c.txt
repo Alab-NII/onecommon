@@ -1,0 +1,6 @@
+1: I see one dark dot towards the middle/right of the circle
+0: I have three large black dots that form a triangle. The top dot isn't near any other dots
+1: I dont have any dots near the top
+0: What other dots are around the dark one?
+1: there are two lighter dots to the right of it, and one small really light dot to the left of the dark dot
+0: Let's click the small light one to the left.

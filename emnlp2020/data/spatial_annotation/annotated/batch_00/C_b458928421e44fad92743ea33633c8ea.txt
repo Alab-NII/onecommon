@@ -1,0 +1,5 @@
+0: i see two dots very close, top one is small and black, bottom one is large and medium grey
+1: I don't have those. Medium size, upper one is darker and to the left?
+0: i don't have those, dark grey, top one is larger and to the right?
+1: Yeah
+0: sweet, let's choose that top dot

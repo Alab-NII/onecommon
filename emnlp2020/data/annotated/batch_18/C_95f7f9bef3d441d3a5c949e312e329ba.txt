@@ -1,0 +1,4 @@
+0: two dots that are almost the same size, the one on the left and lower is slightly smaller and darker?
+1: i dont see that. I have 2 dots next to each other. the left is larger and lighter than the right
+0: is there a small black one a little ways below the left one ?
+1: yes! lets pick that small black one

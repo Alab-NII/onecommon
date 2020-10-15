@@ -1,0 +1,6 @@
+1: I have one small black dot and it is near a lot of light ones.
+0: I see a Y using 4 dots. the darkest is in the center and the largest is in the upper left
+1: I think I see it. It is the upper right very light?
+0: not sure what you mean. the upper right dot in the Y is medium size and light gray. You we pick the small dark one?
+1: Yeah the small dark one.
+0: ok

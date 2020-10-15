@@ -1,0 +1,6 @@
+0: Two large black dots at bottom with a smaller dot between them
+1: Yes is the bottom to the right of the middle dot and the top to the right as well?
+0: Yes
+1: which one should we choose?
+0: Bottom black
+1: Okay

@@ -1,0 +1,7 @@
+T1	Markable 14 39	the cluster of three dots
+T2	Markable 40 50	bottom one
+T3	Markable 78 93	large black one
+T4	Markable 105 107	it
+T5	Markable 122 124	it
+T6	Markable 138 153	large black one
+R1	Anaphora Arg1:T4 Arg2:T3	

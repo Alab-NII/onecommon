@@ -1,0 +1,2 @@
+1: A diagonal line - Top left is big and back, middle is medium and light grey, bottom right is big and light grey
+0: ok i see it choose the bottom

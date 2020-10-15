@@ -1,0 +1,5 @@
+0: My largest dot is also my darkest. its off on its own.
+1: Do you see a large dark dot that is on the edge and away from all the other dots?
+0: yes. i do. there is absolutely no other dots around it.
+1: Okay, let's click that one!
+0: ok, here goes

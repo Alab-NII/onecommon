@@ -1,0 +1,24 @@
+T1	Markable 36 44	two dots
+T2	Markable 57 67	each other
+T3	Markable 69 80	the top one
+T4	Markable 105 119	the bottom one
+T5	Markable 148 152	that
+T6	Markable 217 242	a smaller light shade dot
+T7	Markable 250 263	the large dot
+T8	Markable 285 300	the smaller dot
+T9	Markable 308 311	its
+T10	Markable 337 353	not the same one
+T11	Markable 385 391	itself
+T12	Markable 397 414	a small light dot
+T13	Markable 436 438	it
+T14	Markable 456 460	that
+T15	Markable 531 557	the large medium shade dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T5
+T16	Markable 177 201	a large medium shade dot
+R2	Anaphora Arg1:T10 Arg2:T9	
+T17	Markable 365 381	a large dark dot
+R3	Anaphora Arg1:T11 Arg2:T17	
+R4	Anaphora Arg1:T13 Arg2:T17	
+A2	No-Referent T14
+T18	Markable 472 481	which one

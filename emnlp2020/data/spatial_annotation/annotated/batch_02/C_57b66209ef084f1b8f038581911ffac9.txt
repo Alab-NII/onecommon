@@ -1,0 +1,4 @@
+0: do you see 2 dark dots almost vertical from each other
+1: No.
+0: do you see a light grey dot just up & to the left of a slightly darker grey dot, or a dark grey dot slightly down & to the left from a smaller, lighter dot
+1: Yes, let's choose the smaller dot

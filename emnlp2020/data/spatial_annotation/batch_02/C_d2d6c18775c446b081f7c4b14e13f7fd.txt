@@ -1,0 +1,4 @@
+1: do you see a small black dot up & to the left of a slightly larger grey dot
+0: I dont see the small black dot. I have a lone black dot though
+1: is it below 4 grey dots in the shape of montana
+0: Yeah it is. let's pick that black dot

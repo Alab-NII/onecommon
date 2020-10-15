@@ -1,0 +1,4 @@
+0: tiny black dot in the middle of 2 large ones?
+1: yes. the left dot is lighter than the other two. the middle is the darkest. the right is the lowest?
+0: yes!
+1: select the tiny/dark dot

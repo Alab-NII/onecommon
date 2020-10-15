@@ -1,0 +1,5 @@
+0: i have two dark grey dots, medium sized
+1: I do as well\
+0: one is farther away from everything else?
+1: yes
+0: ok, select that one?

@@ -1,0 +1,7 @@
+T1	Markable 10 27	one tiny gray dot
+T2	Markable 41 55	two large dots
+T3	Markable 71 79	that one
+T4	Markable 86 88	it
+T5	Spatial-Relation 29 40	across from
+T6	Spatial-Attribute 89 99	light gray
+A1	Canonical-Undefined T5

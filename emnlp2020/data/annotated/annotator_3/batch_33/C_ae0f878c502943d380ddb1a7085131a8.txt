@@ -1,0 +1,4 @@
+1: i have a large dark dot at the top
+0: Do you see a very large dark dot on the left top
+1: its slightly toward the left from the middle
+0: Yes, towards its lower right is a bunch of grey dots, lets click the larger dark dot

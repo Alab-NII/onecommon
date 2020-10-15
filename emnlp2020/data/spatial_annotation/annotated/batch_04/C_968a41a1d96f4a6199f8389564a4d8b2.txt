@@ -1,0 +1,4 @@
+0: i see a group of 5 that almost looks like a fish hook, going from tip down then curving to the right and going up
+1: i have a light then below is darker and bigger then one that curves to the right thats lighter and one the same color below that is smaller
+0: yeah thats part of the hook, wanna pick that light one on the top?
+1: yes

@@ -1,0 +1,11 @@
+1: Hi. Do you have a lonely grey dot at about 4pm? Larger in size?
+0: I see a large gray dot with a smaller black one slightly below and to the right
+1: I mean, 5 o clock
+0: No - my large gray dot is in the center, but a smaller black one below and slightly to the right
+1: No, I have a small light grey dot near the edge at 10 o clock?
+0: Is there a large gray one below?
+1: No. How about a large mid grey one near 1 o clock?
+0: Our views are different - so won't be in the same placement. Do you see a large dark grey with a smaller of same color right above?
+1: Yes
+0: Let's pick the large one, ok?
+1: ok

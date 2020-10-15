@@ -1,0 +1,13 @@
+T1	Markable 10 20	a dark dot
+T2	Markable 33 35	it
+T3	Spatial-Attribute 38 49	large black
+T4	Markable 85 103	a large light grey
+T5	Markable 61 63	it
+T7	Markable 160 162	it
+T8	Markable 176 178	it
+T9	Markable 187 211	the large light grey dot
+T10	Markable 121 144	a small medium gray dot
+T6	Spatial-Relation 21 26	alone
+A1	No-Obj T6
+T11	Spatial-Attribute 66 71	small
+T12	Spatial-Relation 145 159	to the left of

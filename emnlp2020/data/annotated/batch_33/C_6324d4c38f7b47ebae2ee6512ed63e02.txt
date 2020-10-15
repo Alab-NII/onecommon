@@ -1,0 +1,6 @@
+0: 3 dots almost in a light, large light in the middle, small dark to the right, medium grey to the left and above the large light one
+1: do you see a small dark dot on alone on the left side of the circle
+0: i only have 1 small dark one and its in my bottom right corner
+1: nope,what about the smallest light grey next to two dark dots
+0: yeah lets go for that!
+1: ok

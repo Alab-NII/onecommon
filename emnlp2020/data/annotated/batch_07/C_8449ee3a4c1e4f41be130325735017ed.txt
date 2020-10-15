@@ -1,0 +1,8 @@
+0: do you have a light one, with med/dark one above it?
+1: big black one to the left
+0: i don't have a big black one on left
+1: smallish black in the middle
+0: is there a larger grey one to it's right?
+1: yes, two dots above
+0: i guess we'll pick the small black in the middle
+1: alright

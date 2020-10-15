@@ -1,0 +1,24 @@
+T1	Markable 71 81	a grey dot
+T2	Markable 9 36	a slightly smaller grey dot
+T3	Markable 97 99	it
+T4	Markable 139 160	that smaller grey dot
+T5	Markable 107 111	they
+T6	Markable 208 223	the smaller one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T7	Modifier 11 19	slightly
+T8	Spatial-Relation 20 27	smaller
+T9	Modifier 49 57	slightly
+T10	Spatial-Relation 58 70	lighter than
+T11	Spatial-Relation 82 96	to the left of
+T12	Modifier 112 116	very
+T13	Spatial-Relation 117 131	close together
+A1	No-Obj T13
+T14	Spatial-Relation 144 151	smaller
+R2	Obj Arg1:T14 Arg2:T5	
+T15	Spatial-Relation 161 173	to the right
+T16	Modifier 174 182	slightly
+T17	Spatial-Relation 183 188	above
+R3	Obj Arg1:T15 Arg2:T5	
+R4	Obj Arg1:T17 Arg2:T5	
+T18	Spatial-Relation 212 219	smaller
+R5	Obj Arg1:T18 Arg2:T5	

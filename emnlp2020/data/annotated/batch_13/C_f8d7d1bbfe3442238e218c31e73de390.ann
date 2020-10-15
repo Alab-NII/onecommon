@@ -1,0 +1,12 @@
+T1	Markable 10 25	two larger dots
+T2	Markable 27 30	One
+T3	Markable 56 70	the other dots
+T4	Markable 107 117	the others
+T5	Markable 72 81	The other
+T6	Markable 142 147	those
+T7	Markable 196 204	the rest
+T8	Markable 156 179	a large medium grey dot
+T9	Markable 240 242	it
+T10	Markable 217 233	a small dark dot
+T11	Markable 269 283	the larger one
+A1	No-Referent T6

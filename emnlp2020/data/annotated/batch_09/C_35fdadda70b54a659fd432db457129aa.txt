@@ -1,0 +1,6 @@
+1: i have one dark dot
+0: I have no dark dots at all!
+1: do you have a small grey
+0: Very small, and light-to-medium gray?
+1: let us select that one
+0: Wait - is there another one the same color up and to the left?

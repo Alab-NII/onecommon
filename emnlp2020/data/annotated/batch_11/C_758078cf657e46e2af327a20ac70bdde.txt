@@ -1,0 +1,4 @@
+1: I see one very dark dot, It has a lighter and a little bigger dot on top left of it
+0: I see one dark dot with a larger dot top left about a cm away and one very large dot top to right about a cm away. Also one dot directly below by a cm
+1: I see the first 3 you said, but i dont have the 4th, wanna select the darkest one?
+0: I think that will work.

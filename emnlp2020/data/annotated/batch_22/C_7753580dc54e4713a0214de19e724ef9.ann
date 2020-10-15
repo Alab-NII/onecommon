@@ -1,0 +1,7 @@
+T2	Markable 34 36	it
+T3	Markable 152 165	the small one
+T4	Markable 140 144	that
+T5	Markable 3 26	Tiny lightest shade dot
+R1	Anaphora Arg1:T2 Arg2:T5	
+T6	Markable 40 64	medium to large dark Dot
+T1	Markable 90 122	a lightest shade medium size dot

@@ -1,0 +1,10 @@
+T1	Markable 104 117	that dark one
+T2	Markable 3 23	almost black med dot
+T3	Markable 33 75	dot almost same size but very light and up
+T4	Markable 79 82	its
+T5	Modifier 37 43	almost
+T6	Spatial-Relation 44 53	same size
+T7	Spatial-Relation 73 75	up
+T8	Spatial-Relation 83 88	right
+R1	Subj Arg1:T8 Arg2:T3	
+R2	Obj Arg1:T8 Arg2:T4	

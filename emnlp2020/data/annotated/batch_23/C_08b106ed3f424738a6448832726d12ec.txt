@@ -1,0 +1,3 @@
+0: lone black dot
+1: yes it is large
+0: Yes choose that one

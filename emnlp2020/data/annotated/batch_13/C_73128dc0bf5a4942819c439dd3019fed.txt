@@ -1,0 +1,9 @@
+1: do you have one black one, it's kinda small. there's a slightly larger dark grey one to it's right, slightly higher?
+0: most of mine are scattered. I only have one small black dot that has nothing to its right and higher. it has a larger grey dot about an inch under it
+1: doesnt sound anything like what i have ... all mine are dark grey, scattered. except top most is a large black one. then the small black one toward the bottom with the slightly larger dark grey one to its right about just under an inch away and up a little
+0: do you have a large dark grey with a small lighter grey to its lower right?
+1: is it the smallest dot, the lighter grey one?
+0: yes.
+1: ok me too choose it
+0: large or small?
+1: the smallest

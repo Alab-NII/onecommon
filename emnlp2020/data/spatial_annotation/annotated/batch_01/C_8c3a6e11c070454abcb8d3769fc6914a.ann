@@ -1,0 +1,50 @@
+T2	Markable 10 20	three dots
+T3	Markable 101 109	the rest
+T4	Markable 43 57	The bottom dot
+T5	Markable 61 73	the triangle
+T6	Markable 210 214	them
+T7	Markable 190 201	a light dot
+T8	Markable 225 243	all 4 lighter dots
+T9	Markable 315 328	the line of 3
+T10	Markable 370 385	the darkest dot
+R2	Anaphora Arg1:T5 Arg2:T2	
+T11	Markable 114 131	3 dark black dots
+T12	Spatial-Relation-Markable 156 166	right most
+T13	Markable 251 279	smallest and almost lightest
+T1	Spatial-Relation 26 41	form a triangle
+A1	No-Obj T1
+T14	Spatial-Relation 47 53	bottom
+R1	Obj Arg1:T14 Arg2:T2	
+T15	Spatial-Relation 65 73	triangle
+A2	No-Obj T15
+T16	Spatial-Relation 77 100	larger and lighter than
+R3	Subj Arg1:T16 Arg2:T4	
+T17	Spatial-Relation 132 154	line horizontally(ish)
+A3	No-Obj T17
+T18	Modifier 137 154	horizontally(ish)
+R4	Obj Arg1:T12 Arg2:T11	
+T19	Spatial-Relation 170 177	darkest
+R5	Obj Arg1:T19 Arg2:T11	
+T20	Spatial-Relation 202 209	beneath
+T21	Spatial-Relation 231 238	lighter
+R6	Obj Arg1:T21 Arg2:T11	
+T22	Spatial-Relation 244 249	above
+R7	Obj Arg1:T22 Arg2:T11	
+T23	Spatial-Relation 251 259	smallest
+R8	Obj Arg1:T23 Arg2:T8	
+T24	Modifier 264 270	almost
+T25	Spatial-Relation 271 279	lightest
+R9	Obj Arg1:T25 Arg2:T8	
+T26	Spatial-Relation 283 292	left most
+R10	Obj Arg1:T26 Arg2:T8	
+T27	Spatial-Relation 319 323	line
+A4	No-Obj T27
+T28	Spatial-Relation 374 381	darkest
+R11	Obj Arg1:T28 Arg2:T9	
+T29	Modifier 386 397	all the way
+T30	Spatial-Relation 398 411	on the right.
+R12	Obj Arg1:T30 Arg2:T9	
+#1	AnnotatorNotes T17	horizontal
+A5	Mod-Uncertainty-Approximation T18
+A6	Mod-Extremity T29
+#2	AnnotatorNotes T20	below

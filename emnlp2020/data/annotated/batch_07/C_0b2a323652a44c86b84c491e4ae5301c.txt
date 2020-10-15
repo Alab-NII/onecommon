@@ -1,0 +1,5 @@
+0: do you see a cluster where there is ONE black one? the others are med/grey?
+1: yes!
+0: choose black?
+1: yes!
+0: ok we have to wait to 5 min. there is a lighter larger one to the left? choose the black one tho

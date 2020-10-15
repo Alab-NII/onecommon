@@ -1,0 +1,3 @@
+0: Do you see one large dark dot near the top? It has three small light dots near it?
+1: Is it in kind of a square formation ?
+0: Yes! Click the big dark dot.

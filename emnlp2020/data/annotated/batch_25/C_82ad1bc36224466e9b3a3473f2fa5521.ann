@@ -1,0 +1,14 @@
+T1	Markable 28 52	two large dark gray dots
+T2	Markable 96 100	that
+T4	Markable 108 127	a cluster of 5 dots
+T5	Markable 217 231	a cluster of 5
+T6	Markable 241 255	a cluster of 4
+T7	Markable 291 304	the black one
+T8	Markable 262 266	they
+T9	Markable 341 361	the larger black one
+T10	Markable 3 16	one small dot
+A1	No-Referent T2
+T3	Markable 129 138	left most
+T11	Markable 159 169	right most
+R1	Anaphora Arg1:T8 Arg2:T6	
+A2	No-Referent T5

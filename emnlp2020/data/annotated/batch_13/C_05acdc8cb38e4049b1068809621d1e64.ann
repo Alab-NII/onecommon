@@ -1,0 +1,6 @@
+T1	Markable 55 67	the left one
+T2	Markable 43 53	each other
+T3	Markable 97 99	it
+T4	Markable 119 138	the left higher one
+T5	Markable 3 16	two dark grey
+R1	Anaphora Arg1:T2 Arg2:T5	

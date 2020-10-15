@@ -1,0 +1,6 @@
+T1	Markable 102 115	vertical line
+T2	Markable 161 163	it
+T3	Markable 3 19	two smaller dots
+T4	Markable 65 81	three light dots
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 124 130	middle

@@ -1,0 +1,5 @@
+1: I have 2 sets of dots. One smaller and light on top and one darker and larger on the bottom. slight angled right?
+0: I have 4 dots that make a slanted box. the bottom 2 corners are same shade, dark grey, and the top two are medium grey
+1: yes!
+0: ok, top left corner ok?
+1: yes

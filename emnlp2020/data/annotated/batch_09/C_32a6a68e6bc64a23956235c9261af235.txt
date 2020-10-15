@@ -1,0 +1,4 @@
+1: Theres an almost square group of dots slightly different in size and on the darker side more to the left of the rest of the dots
+0: yes I see see. Is there are large medium grey dot to the right of them?
+1: Yes click on that one!
+0: sounds good

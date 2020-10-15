@@ -1,0 +1,5 @@
+0: i see a large black dot with a smaller dot below and right of it
+1: So, I see an extremely dark, small dot
+0: all by itself?
+1: yes, sorry I did see the dots you referred to, which one do you want?
+0: small dark black dot that you mentioned. pick that one

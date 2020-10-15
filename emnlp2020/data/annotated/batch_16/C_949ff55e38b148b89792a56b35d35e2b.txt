@@ -1,0 +1,7 @@
+0: I see two light grey dots close together and the same size
+1: Do you have a tiny grey dot with a larger grey dot to the left in a horizontal line?
+0: Tiny gray with larger gray to the left and the same color grey... yes
+1: Yeah. Does that pair have another grey large dot to the southwest?
+0: Yes and that grey large dot to the southwest is the same color grey.
+1: Yes. Let's choose the tiny dot.
+0: ok

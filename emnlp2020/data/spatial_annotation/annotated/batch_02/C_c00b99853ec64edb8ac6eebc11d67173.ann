@@ -1,0 +1,11 @@
+T1	Markable 40 60	two small black dots
+T2	Markable 9 31	my lightest shaded dot
+T3	Markable 78 80	it
+T4	Markable 94 113	the lightest shaded
+T5	Spatial-Relation 12 27	lightest shaded
+A1	No-Obj T5
+T6	Spatial-Relation 32 39	between
+T7	Spatial-Relation 98 113	lightest shaded
+A2	No-Obj T7
+A3	Ambiguous-Obj T7
+#1	AnnotatorNotes T5	lightest

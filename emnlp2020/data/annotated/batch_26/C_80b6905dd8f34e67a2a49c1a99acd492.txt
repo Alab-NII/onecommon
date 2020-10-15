@@ -1,0 +1,4 @@
+0: Do you have a large light gray dot with a medium black dot directly to the left of it?
+1: yes, i do. they are both a bit on their own in my circle.
+0: mine to, lets choose the large light gray
+1: ok!

@@ -1,0 +1,4 @@
+1: Do you see one really dark dot?
+0: yes, is it small?
+1: Yes, it is. Let's choose the dark one.
+0: ok

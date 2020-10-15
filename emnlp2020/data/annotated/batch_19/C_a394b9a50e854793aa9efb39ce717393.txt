@@ -1,0 +1,4 @@
+1: smallish black dot in the near center slightly left and up
+0: Is it down and to the right of a very large dark grey dot?
+1: yes
+0: okay click the black dot

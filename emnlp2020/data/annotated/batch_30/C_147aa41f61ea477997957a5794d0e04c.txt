@@ -1,0 +1,4 @@
+1: I have three pairs of dots going across my circle
+0: I have three pairs of close dots.
+1: One has a dark gray on bottom and a black on top that is smaller and slightly to the right?
+0: I think I might have that. Click the black one?

@@ -1,0 +1,7 @@
+0: I got one dark dot in the middle of four dots
+1: Do they form a triangle?
+0: Yeah they form 4 triangles
+1: Is it medium in size?
+0: I have a triangle of all dark grey dots and two dark grey isolated dots also
+1: Do you want to pick the darkest one in the middle of the four triangles?
+0: Yeah pick it man

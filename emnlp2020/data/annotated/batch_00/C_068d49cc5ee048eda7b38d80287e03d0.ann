@@ -1,0 +1,17 @@
+T1	Markable 15 34	two light grey dots
+T2	Markable 36 39	One
+T3	Markable 61 64	one
+T4	Markable 129 143	One light grey
+T5	Markable 86 88	it
+T6	Markable 178 199	a slightly darker one
+T7	Markable 222 231	The other
+T8	Markable 327 343	the lighter grey
+T9	Markable 288 301	a darker grey
+T10	Markable 269 283	a lighter grey
+T11	Markable 357 361	They
+T12	Markable 420 436	the lighter grey
+T13	Markable 464 475	a black dot
+T14	Markable 507 516	this pair
+T16	Markable 104 124	4 shades of grey dot
+R1	Anaphora Arg1:T8 Arg2:T10	
+T17	Markable 538 548	light grey

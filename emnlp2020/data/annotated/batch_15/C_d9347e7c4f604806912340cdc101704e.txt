@@ -1,0 +1,4 @@
+0: two large black dots... top one is offset to left?
+1: Do you have two black dots same size. One is up and left of the other
+0: yep same ones... let's choose top left when minute is up
+1: Click next fast so we get paired again

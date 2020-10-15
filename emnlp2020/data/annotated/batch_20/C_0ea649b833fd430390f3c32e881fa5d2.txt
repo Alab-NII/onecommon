@@ -1,0 +1,4 @@
+1: is your smallest dot a medium grey
+0: yes with larger dot almost same shade up to its right?
+1: i dont have that, mine is right in the middle with a large light grey up and to the left
+0: yes! k click that small one!

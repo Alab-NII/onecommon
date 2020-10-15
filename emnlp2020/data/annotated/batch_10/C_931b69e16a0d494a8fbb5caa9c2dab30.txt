@@ -1,0 +1,8 @@
+1: i have one very dark dot. the rest are rather light in shade.
+0: I have one dot that is very dark as well
+1: shall we select it? or should we confirm more?
+0: lets confirm just a bit more. I have a slightly smaller lighter dot that is above the dark one on a left sideish angle
+1: yes. same.
+0: ok lets try selecting it then
+1: the dark one, yes?
+0: yes

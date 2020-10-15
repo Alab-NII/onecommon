@@ -1,0 +1,7 @@
+0: I have a larger black dot, with a smaller also black dot up and to its left
+1: Alright, I got a darker grey dot on the right away from most of the other
+0: I dont really see any darker gray dot by itself, do you see the two black dots I was talking about?
+1: I think I do
+0: Ok... well you didnt tell me which one you selected... so which one?
+1: We're going with your set. The lower of the two.
+0: Ok.

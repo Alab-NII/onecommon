@@ -1,0 +1,6 @@
+1: Do you have two large light dots close to each other ?
+0: No. Do you have a tiny light grey dot kind of far off to the right?
+1: Its not far out but yes. What dots are by it ?
+0: There is a slightly larger and darker below it and slightly to the right
+1: I have a light dot like that at the right of 12 o'clock on my view.
+0: K lets choose it!

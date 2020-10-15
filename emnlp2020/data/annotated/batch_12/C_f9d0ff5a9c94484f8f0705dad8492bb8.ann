@@ -1,0 +1,21 @@
+T1	Markable 15 31	a tiny black one
+T2	Markable 84 88	it's
+T3	Markable 53 80	a similar size med/grey one
+T4	Markable 125 129	that
+T5	Markable 171 193	a smaller med/grey one
+T6	Markable 147 164	a Large black dot
+T7	Markable 253 268	a group of dots
+T9	Markable 287 298	a light one
+T10	Markable 270 281	a black one
+T11	Markable 311 315	it's
+T12	Markable 350 359	those two
+T13	Markable 363 381	a larger black dot
+T17	Markable 423 447	another larger black dot
+T18	Markable 483 513	the largest, highest black one
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T4
+T19	Markable 197 201	it's
+R2	Anaphora Arg1:T19 Arg2:T6	
+R3	Anaphora Arg1:T11 Arg2:T10	
+T8	Markable 410 419	those two
+T14	Markable 459 464	those

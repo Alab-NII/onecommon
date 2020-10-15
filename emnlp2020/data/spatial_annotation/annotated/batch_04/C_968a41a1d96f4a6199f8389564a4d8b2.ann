@@ -1,0 +1,39 @@
+T1	Markable 9 21	a group of 5
+T2	Markable 172 175	one
+T3	Markable 219 222	one
+T4	Markable 127 134	a light
+T5	Markable 303 317	that light one
+T7	Spatial-Relation-Markable 149 166	darker and bigger
+T8	Markable 201 205	that
+R2	Anaphora Arg1:T8 Arg2:T2	
+T9	Markable 244 248	that
+R3	Anaphora Arg1:T9 Arg2:T2	
+T10	Markable 268 272	that
+T11	Spatial-Relation 274 290	part of the hook
+T12	Spatial-Relation 11 16	group
+A1	No-Obj T12
+T13	Modifier 27 33	almost
+T6	Spatial-Relation 34 56	looks like a fish hook
+A2	No-Obj T6
+T14	Spatial-Relation 58 116	going from tip down then curving to the right and going up
+A4	No-Obj T14
+T15	Spatial-Relation 140 145	below
+R1	Subj Arg1:T15 Arg2:T7	
+R5	Obj Arg1:T15 Arg2:T4	
+R6	Obj Arg1:T7 Arg2:T4	
+T16	Spatial-Relation 181 200	curves to the right
+R7	Obj Arg1:T16 Arg2:T7	
+T17	Spatial-Relation 207 214	lighter
+R8	Obj Arg1:T17 Arg2:T7	
+T18	Spatial-Relation 223 237	the same color
+T19	Spatial-Relation 238 243	below
+T20	Spatial-Relation 252 259	smaller
+R9	Subj Arg1:T20 Arg2:T3	
+R10	Obj Arg1:T20 Arg2:T9	
+A6	No-Obj T11
+T21	Spatial-Relation 318 328	on the top
+R4	Obj Arg1:T21 Arg2:T10	
+A3	Canonical-Undefined T6
+A5	Canonical-Undefined T14
+A7	Canonical-Undefined T16
+A8	Canonical-Undefined T11

@@ -1,0 +1,2 @@
+0: I see a very dark dot, very close to one that is very light above
+1: i see that, and a smaller dot just above and to the left

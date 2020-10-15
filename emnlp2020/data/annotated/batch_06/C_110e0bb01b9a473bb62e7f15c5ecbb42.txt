@@ -1,0 +1,4 @@
+1: do you have a small black one, with two medium sized above it that are right next to each other, the left being darker?
+0: No i dont. :( I think I see what you men but I think the small black one is cut out of my view. Do you want to pick the darker one on the left?
+1: ok... if you have a same-sized one above/to right of those that is same color as the left one
+0: Yes! Let's click on the lighter one that is to the right (that is very close to the other one)

@@ -1,0 +1,5 @@
+1: i see two large dark dots
+0: yes i s 1 lower and to the right
+1: Yes they are diagonal from one another
+0: ok select the lower of the two
+1: okay

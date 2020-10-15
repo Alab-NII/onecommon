@@ -1,0 +1,9 @@
+T1	Markable 24 34	a triangle
+T2	Markable 77 90	the other two
+T3	Markable 123 126	one
+T4	Markable 147 149	it
+T5	Markable 170 172	it
+T6	Markable 3 20	Three darker dots
+R1	Predicative Arg1:T1 Arg2:T6	
+T7	Markable 42 53	on of yours
+#1	AnnotatorNotes T7	one of yours

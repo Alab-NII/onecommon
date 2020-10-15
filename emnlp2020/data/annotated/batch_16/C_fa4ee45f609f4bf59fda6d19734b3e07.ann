@@ -1,0 +1,13 @@
+T1	Markable 10 31	a large dark gray dot
+T2	Markable 38 66	a slightly smaller black dot
+T3	Markable 77 104	a triangle of 3 larger dots
+T4	Markable 106 120	one light gray
+T5	Markable 196 200	that
+T6	Markable 227 240	the black one
+T7	Markable 211 223	the triangle
+T8	Markable 303 322	the both other dots
+T9	Markable 344 357	the black one
+T10	Markable 122 130	med gray
+T11	Markable 136 141	black
+A1	No-Referent T5
+T12	Markable 268 278	the lights

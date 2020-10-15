@@ -1,0 +1,5 @@
+1: i see a large dark dot on the left with two smaller gray dots close to it
+0: Yes, I have that too. The one to the left of it is a little bit closer
+1: yes that is right
+0: Let's do the large dark one
+1: okay

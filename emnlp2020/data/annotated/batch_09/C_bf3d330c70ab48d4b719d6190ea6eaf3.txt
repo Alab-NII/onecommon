@@ -1,0 +1,5 @@
+1: I have a medium size black dot with a larger black dot underneath
+0: i have a big dark gray dot in the middle above horizontal center
+1: I have one big grey dot with a slightly smaller grey dot to its right, is that what you have?
+0: yes
+1: Choosing big dot then

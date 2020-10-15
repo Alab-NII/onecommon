@@ -1,0 +1,18 @@
+T1	Markable 10 26	a large grey dot
+T2	Markable 54 79	a diagonal line of 4 dots
+T4	Markable 160 179	two large gray dots
+T5	Markable 134 153	one small black dot
+T6	Markable 119 123	that
+T7	Markable 200 219	the small black one
+T3	Spatial-Relation 27 43	in the top right
+T8	Spatial-Relation 56 69	diagonal line
+T9	Spatial-Relation 80 108	going southwest to northeast
+T10	Spatial-Relation 129 133	with
+T11	Spatial-Relation 154 159	after
+A1	No-Obj T3
+A2	No-Obj T8
+A3	No-Obj T9
+R1	Obj Arg1:T10 Arg2:T5	
+R2	Obj Arg1:T10 Arg2:T4	
+A4	Canonical-Undefined T9
+A5	Canonical-Undefined T11

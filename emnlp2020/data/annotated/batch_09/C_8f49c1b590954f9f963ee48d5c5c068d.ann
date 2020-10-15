@@ -1,0 +1,6 @@
+T1	Markable 31 41	a triangle
+T2	Markable 47 66	one small light one
+T3	Markable 12 27	three dark dots
+T4	Markable 88 110	all four of those dots
+T6	Markable 119 132	the light one
+R1	Predicative Arg1:T1 Arg2:T3	

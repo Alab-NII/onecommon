@@ -1,0 +1,22 @@
+T1	Markable 10 16	2 dots
+T2	Markable 63 66	one
+T4	Markable 103 112	the other
+T5	Markable 149 151	it
+T6	Markable 181 195	two small ones
+T7	Markable 210 220	each other
+T8	Markable 222 231	right one
+T9	Markable 358 381	your light 7 oclock one
+T10	Markable 395 408	My small ones
+T11	Markable 435 456	the smallest/left one
+T12	Markable 460 466	my two
+T13	Markable 477 484	the one
+T14	Markable 488 497	the group
+T15	Markable 531 540	the other
+T16	Markable 597 601	they
+T17	Markable 638 661	your light 7 oclock one
+T18	Markable 680 698	your 7 oclock pair
+T19	Markable 663 676	the upper one
+R1	Anaphora Arg1:T5 Arg2:T2	
+R2	Anaphora Arg1:T7 Arg2:T6	
+T3	Markable 285 289	that
+R3	Anaphora Arg1:T19 Arg2:T17	

@@ -1,0 +1,9 @@
+0: do you see a super tiny dark grey dot?
+1: These dots are almost in a hook or question mark shape. Do you agree?
+0: no, it doesn't look like that to me. if you see a dark grey tiny dot, is it close to a larger one?
+1: I see 3 small dark dots. Two are near larger black ones...BUT one is near a large light grey. I think that is easier to identify. Do you see it?
+0: i see a dark grey tiny dot next to a larger light grey one and there are no other dots next to those two
+1: I only see one dot that is lighter in color. Do you agree?
+0: i see two lighter grey circles. do you see a really big dark grey circle surrounded by smaller and tiny circles?
+1: Yes.
+0: let's choose the large dark grey circle

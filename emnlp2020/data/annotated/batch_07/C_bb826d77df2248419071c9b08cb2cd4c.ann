@@ -1,0 +1,11 @@
+T1	Markable 11 22	all my dots
+T2	Markable 78 95	a cluster of four
+T3	Markable 56 64	not mine
+T5	Markable 128 131	two
+T6	Markable 205 212	the one
+T7	Markable 267 282	the smaller one
+A1	All-Referents T1
+A2	All-Referents T3
+T4	Markable 185 186	3
+T8	Markable 219 226	those 3
+R1	Anaphora Arg1:T8 Arg2:T4	

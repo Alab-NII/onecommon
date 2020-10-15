@@ -1,0 +1,2 @@
+0: smallest dot is dark right below a large dark dot
+1: Let us select the small dot black

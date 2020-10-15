@@ -1,0 +1,5 @@
+0: Do you have 3 grey large ones?
+1: Are they light or dark?
+0: 2 light and 1 dark.
+1: I have one large light grey
+0: Let's click that one.

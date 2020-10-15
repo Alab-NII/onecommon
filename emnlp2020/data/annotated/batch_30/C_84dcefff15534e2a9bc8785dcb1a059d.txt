@@ -1,0 +1,3 @@
+0: 3 dots light in color make up a triangle with one being large light gray?
+1: Yes! Which should we choose?
+0: large one

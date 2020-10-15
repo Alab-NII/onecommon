@@ -1,0 +1,22 @@
+T1	Markable 14 31	a large black dot
+T2	Markable 40 44	mine
+T3	Markable 70 81	The largest
+T4	Markable 210 212	it
+A1	All-Referents T2
+T5	Markable 108 119	the largest
+T6	Markable 157 171	a large medium
+T7	Spatial-Attribute 49 68	all light or medium
+T8	Modifier 62 68	medium
+T9	Spatial-Relation 74 81	largest
+T10	Spatial-Relation 85 100	located at 2 pm
+T11	Spatial-Relation 112 119	largest
+T12	Spatial-Attribute 140 146	medium
+T13	Modifier 140 146	medium
+T14	Spatial-Relation 172 184	at about 2pm
+T15	Modifier 175 180	about
+A2	No-Obj T9
+A3	No-Obj T10
+A4	No-Obj T11
+R1	Subj Arg1:T12 Arg2:T3	
+#1	AnnotatorNotes T10	right above
+#2	AnnotatorNotes T14	right above

@@ -1,0 +1,5 @@
+T1	Markable 43 47	them
+T2	Markable 91 99	that one
+T3	Markable 55 68	the upper one
+T4	Markable 3 32	two tiny very light grey dots
+R1	Anaphora Arg1:T2 Arg2:T3	

@@ -1,0 +1,4 @@
+0: dark medium size dot at the center
+1: One big dot in the center, lightish grey
+1: Go for it?
+0: i don't have that. do you have one large one near the border\

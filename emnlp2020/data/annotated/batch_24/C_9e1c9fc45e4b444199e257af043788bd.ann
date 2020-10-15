@@ -1,0 +1,8 @@
+T2	Markable 32 49	a horizontal line
+T3	Markable 60 62	it
+T5	Markable 72 76	they
+T6	Markable 158 171	the other two
+T7	Markable 185 193	that one
+T8	Markable 3 28	three large med grey dots
+R1	Predicative Arg1:T2 Arg2:T8	
+T1	Markable 102 105	one

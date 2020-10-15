@@ -1,0 +1,19 @@
+T1	Spatial-Relation 15 37	in an up and down line
+T2	Markable 85 92	the one
+T3	Markable 39 49	One up top
+T4	Markable 157 161	that
+T5	Markable 172 183	the top dot
+T6	Markable 3 14	2 tiny dots
+A1	No-Obj T1
+#1	AnnotatorNotes T1	in a vertical line
+T7	Spatial-Relation 43 49	up top
+T8	Modifier 53 61	slightly
+T9	Spatial-Relation 62 68	bigger
+T10	Spatial-Relation 73 84	darker than
+T11	Spatial-Relation 93 106	on the bottom
+R1	Obj Arg1:T11 Arg2:T3	
+T13	Spatial-Relation 132 142	Right side
+A4	No-Obj T13
+R3	Subj Arg1:T13 Arg2:T6	
+T14	Spatial-Relation 176 179	top
+R4	Obj Arg1:T14 Arg2:T6	

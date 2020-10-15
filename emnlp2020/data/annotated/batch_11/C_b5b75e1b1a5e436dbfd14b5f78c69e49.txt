@@ -1,0 +1,4 @@
+0: Do you see a tiny black dot?
+1: I have a tiny very dark dot that is central, below it is a tiny light dot slightly to the left and lower
+0: Yes, pick the black dot.
+1: Describe a dot in relation to another... always

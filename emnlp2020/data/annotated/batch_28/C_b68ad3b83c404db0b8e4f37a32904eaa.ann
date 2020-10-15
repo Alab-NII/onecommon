@@ -1,0 +1,8 @@
+T1	Markable 30 43	vertical line
+T2	Markable 55 77	a large light grey dot
+T3	Markable 164 171	top dot
+T4	Markable 151 161	each other
+T5	Markable 83 117	a slightly smaller darker grey dot
+T6	Markable 208 219	the top one
+T7	Markable 3 11	two dots
+R1	Predicative Arg1:T1 Arg2:T7	

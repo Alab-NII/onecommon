@@ -1,0 +1,5 @@
+1: I see a large darker dot at the top slightly to the right.
+0: Is there a darker smaller dot below and to the left?
+1: yes
+0: Which one did you pick?
+1: the larger lighter one

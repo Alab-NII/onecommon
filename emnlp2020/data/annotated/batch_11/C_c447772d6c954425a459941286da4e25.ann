@@ -1,0 +1,19 @@
+T1	Markable 28 45	a small black one
+T2	Markable 70 83	a lighter one
+T3	Markable 90 94	them
+T4	Markable 199 201	it
+T5	Markable 134 154	that small black one
+T6	Markable 111 126	the lighter one
+T7	Markable 170 183	the large one
+T8	Markable 211 213	it
+T9	Markable 237 239	it
+T11	Markable 292 314	the large med/grey one
+T12	Markable 243 261	the tiny black one
+T15	Markable 345 360	the lighter one
+T16	Markable 367 382	the two of them
+T18	Markable 428 447	the small black one
+T19	Markable 3 21	Large med/grey dot
+T20	Markable 54 58	it's
+R1	Anaphora Arg1:T20 Arg2:T19	
+A1	No-Referent T6
+R2	Anaphora Arg1:T4 Arg2:T5	

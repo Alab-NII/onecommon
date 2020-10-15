@@ -1,0 +1,4 @@
+0: I see One tiny black dot.
+1: Me too
+0: Kind of lonely? Let's choose that one
+1: Yes

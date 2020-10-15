@@ -1,0 +1,5 @@
+0: i have a med black at 6:00 do u have it
+1: Top left side by itself
+0: i have a small grey to the right near the center do u have it
+1: Yes let's try
+0: click it

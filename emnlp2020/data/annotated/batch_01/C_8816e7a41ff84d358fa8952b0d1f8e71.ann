@@ -1,0 +1,19 @@
+T1	Markable 10 34	a single large black dot
+T2	Markable 45 51	4 dots
+T3	Markable 62 71	a Y shape
+T4	Markable 85 89	that
+T5	Markable 135 156	a small dark grey one
+T6	Markable 98 117	one large black dot
+T8	Markable 242 256	the bottom one
+T9	Markable 299 301	It
+T10	Markable 362 386	a single small black dot
+T11	Markable 401 425	the top right corner one
+T12	Markable 448 475	that single small black dot
+R1	Predicative Arg1:T3 Arg2:T2	
+T13	Markable 122 125	its
+R2	Anaphora Arg1:T13 Arg2:T6	
+T14	Markable 160 163	its
+R3	Anaphora Arg1:T14 Arg2:T6	
+T15	Markable 197 201	both
+T16	Markable 232 237	the Y
+T7	Markable 340 351	the Y shape

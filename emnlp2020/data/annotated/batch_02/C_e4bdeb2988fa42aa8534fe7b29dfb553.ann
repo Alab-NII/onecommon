@@ -1,0 +1,13 @@
+T1	Markable 3 9	3 dots
+T2	Markable 71 88	the three cluster
+T3	Markable 34 51	a large black dot
+T4	Markable 114 137	a large medium gray dot
+T5	Markable 207 220	the 3 cluster
+T6	Markable 179 203	a really dark little dot
+T7	Markable 284 295	the cluster
+T8	Markable 331 342	the cluster
+T9	Markable 307 327	the large light grey
+T10	Markable 224 239	Small dark grey
+T11	Markable 242 258	large light grey
+T12	Markable 259 280	med/small darker grey
+R1	Anaphora Arg1:T8 Arg2:T7	

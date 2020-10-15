@@ -1,0 +1,5 @@
+1: Hello! Wheres your dot?
+0: Do you see a small dark black dot with a much larger medium darkness dot to the lower right?
+1: I think I see it. Is the much larger one mostly to the right and only slightly lower?
+0: Yep!
+1: ok lets pick the small dark one

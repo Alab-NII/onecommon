@@ -1,0 +1,6 @@
+0: i see two larger light grey dots right next to each other
+1: 2 mid size very close, do you see them?
+0: yes, one is black and on is left of it and light grey
+1: no, let's follow your first instruction, the 2 larger light grey next to each other, ok?
+0: yes, let's select the one on the left
+1: ok

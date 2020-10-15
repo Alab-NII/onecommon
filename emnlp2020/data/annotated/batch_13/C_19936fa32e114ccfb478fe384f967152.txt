@@ -1,0 +1,4 @@
+0: do you see two gray dots near each other with the bigger on the left?
+1: yes. its below and to the left
+0: yes and on mine I have a small black dot up and to the right, a dark gray dot kind of top and left and a lighter gray dot bottom right
+1: yes. pick your original dot. the smaller one on the top of the other

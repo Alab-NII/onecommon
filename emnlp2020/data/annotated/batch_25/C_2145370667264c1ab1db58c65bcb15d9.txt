@@ -1,0 +1,9 @@
+0: I have 2 dots that are the same size, one on top of the other, the bottom one is darker do you see that?
+1: i do not see that
+0: Ok I have a dark dot near the top on the right hand side do you see that?
+1: i don't understand what you mean. do you have two dots that are both medium grey on top of one another? the top one is smaller.
+0: No. I have two dark dots that are diagonal from one another.
+1: do you have a group of dots containing a tiny black dot?
+0: Yes.
+1: two dark grey dots above it? one higher to the right the other higher to the left?
+0: Yes select the black dot.

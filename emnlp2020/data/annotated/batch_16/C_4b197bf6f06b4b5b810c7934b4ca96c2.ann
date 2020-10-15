@@ -1,0 +1,8 @@
+T1	Markable 34 37	One
+T2	Markable 89 91	it
+T3	Markable 116 118	it
+T4	Markable 3 17	Two large dots
+T5	Markable 53 62	lower one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T6	Markable 123 138	7 o'clock clock
+#1	AnnotatorNotes T6	7 o'clock

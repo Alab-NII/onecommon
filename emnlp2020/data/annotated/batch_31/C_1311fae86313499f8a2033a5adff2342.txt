@@ -1,0 +1,3 @@
+1: I have 2 large same sized dots stacked on top of each other. The top one is dark gray (almost black) the bottom one is medium gray
+0: Yes I see that too, go for the almost black one?
+1: yes

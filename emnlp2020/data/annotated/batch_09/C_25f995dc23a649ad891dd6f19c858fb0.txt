@@ -1,0 +1,5 @@
+0: do you have a small black in the center?
+1: smallest black dot?
+0: yes
+1: ok click
+0: at 5:00

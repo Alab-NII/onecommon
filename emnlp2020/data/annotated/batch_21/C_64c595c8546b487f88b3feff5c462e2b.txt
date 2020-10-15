@@ -1,0 +1,4 @@
+0: a lonely medium size black dot?
+1: yes it is at least one inch away from other dots
+0: yes
+1: lets select it

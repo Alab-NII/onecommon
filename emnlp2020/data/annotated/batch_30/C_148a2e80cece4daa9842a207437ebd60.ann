@@ -1,0 +1,12 @@
+T1	Markable 49 72	a medium size light dot
+T2	Markable 100 110	a grey dot
+T3	Markable 85 96	massive dot
+T4	Markable 43 45	it
+T5	Markable 128 130	it
+T6	Markable 144 148	that
+T7	Markable 3 25	Massive dark grey door
+#1	AnnotatorNotes T7	Massive dark grey dot
+R1	Anaphora Arg1:T4 Arg2:T7	
+R2	Anaphora Arg1:T3 Arg2:T7	
+R3	Anaphora Arg1:T5 Arg2:T7	
+T8	Markable 157 174	that massive dark

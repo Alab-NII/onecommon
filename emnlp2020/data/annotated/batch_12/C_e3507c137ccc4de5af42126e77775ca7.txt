@@ -1,0 +1,4 @@
+0: Do you have one larger lightest grey dot
+1: Hi there. Yes it is by itself in my circle
+0: Let's select that one
+1: ok!

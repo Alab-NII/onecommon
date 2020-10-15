@@ -1,0 +1,10 @@
+T1	Markable 115 125	bottom one
+T2	Markable 73 79	a line
+T3	Markable 59 69	three dots
+T4	Markable 85 96	the top one
+T5	Markable 174 179	those
+T6	Markable 197 211	the middle dot
+T7	Markable 3 20	3 light grey dots
+R1	Predicative Arg1:T2 Arg2:T3	
+T8	Markable 153 161	all dark
+R2	Anaphora Arg1:T5 Arg2:T8	

@@ -1,0 +1,12 @@
+T2	Markable 23 36	dark gray dot
+T3	Markable 67 80	the black dot
+T4	Markable 100 117	the dark gray dot
+T5	Markable 162 164	it
+T6	Markable 173 196	2 small light gray dots
+T7	Markable 206 216	each other
+T8	Markable 245 255	Bottom one
+T9	Markable 291 305	the bottom one
+T10	Markable 3 18	Large black dot
+T1	Markable 125 130	Mines
+A1	No-Referent T5
+R1	Anaphora Arg1:T7 Arg2:T6	

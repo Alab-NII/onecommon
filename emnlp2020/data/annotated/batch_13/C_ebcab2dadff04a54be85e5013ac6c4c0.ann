@@ -1,0 +1,9 @@
+T1	Markable 52 62	three dots
+T2	Markable 90 94	They
+T3	Markable 210 226	a lone black dot
+T4	Markable 238 256	the large dark one
+T5	Markable 3 17	lone black dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T6	Markable 118 133	the bottom left
+T7	Markable 158 171	The top right
+A1	No-Referent T3

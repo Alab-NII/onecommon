@@ -1,0 +1,8 @@
+1: I have a lonely medium dot to the right
+0: I have 2 dots dark grey and to its right and slightly top is a small black dot. all other dots are away from these
+1: Do you have a tiny gray dot?
+0: theres one small dark grey dot, it has a black dot above it and slightly to the right. the black dot is med size
+1: Yes that's what I have. Want to try the small gray dot
+0: not sure its the one, want to try anyway?
+1: Is it medium gray?
+0: dark grey

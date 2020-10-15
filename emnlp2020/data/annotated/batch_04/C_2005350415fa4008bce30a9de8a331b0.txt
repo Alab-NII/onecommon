@@ -1,0 +1,7 @@
+1: My friend, I see a big, dark dot above and slightly to the right of a small darker dot
+0: At the bottom of the circle are two gray dots and a black dot above it.
+1: I only see one gray dot at the bottom of mine. What is near the darkest dot on yours?
+0: I see what you said. it is a little less than halfway above the gray dot at bottom
+1: Alright, do you see anything above the bigger dark dot?
+0: Yeah, a small grey dot at the top of circle. So, the two black dots you said are what we have in common?
+1: Probably yes. Click the bigger dark dot you genius of a person!

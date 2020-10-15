@@ -1,0 +1,15 @@
+T1	Markable 86 103	a small black dot
+T2	Markable 67 81	the lowest one
+T3	Markable 134 142	the line
+T4	Markable 59 65	a line
+T5	Markable 45 55	three dots
+T6	Markable 112 114	it
+T7	Markable 163 185	a large light grey dot
+T8	Markable 255 280	that light grey large dot
+T9	Markable 226 246	that small black dot
+T10	Markable 6 23	your smallest dot
+R1	Predicative Arg1:T4 Arg2:T5	
+R2	Anaphora Arg1:T6 Arg2:T2	
+R3	Anaphora Arg1:T3 Arg2:T5	
+T11	Markable 150 159	my lowest
+R4	Predicative Arg1:T7 Arg2:T11	

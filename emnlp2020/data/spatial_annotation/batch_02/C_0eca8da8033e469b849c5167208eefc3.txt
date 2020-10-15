@@ -1,0 +1,5 @@
+1: I see two small dots close together, one is smaller and almost black, the other is below and slightly bigger in a slightly lighter shade
+0: Are there any smaller than those you can see?
+1: yes i see a tiny medium-grey dot kind of by itself. i see a large dark grey dot by itself, and another pair dark grey and med-grey with a similar sized light grey below that pair
+0: Lets go for tiny medium grey one by itself!
+1: gotcha

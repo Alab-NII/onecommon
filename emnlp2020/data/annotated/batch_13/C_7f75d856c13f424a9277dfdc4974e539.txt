@@ -1,0 +1,8 @@
+1: Do you see the tiny black dot?
+0: it's sort of tiny. it's in the upper left part of my circle with nothing around it.
+1: Do you see anything else?
+0: i have a black dot with a light grey dot above it and to the right
+1: I only have the one black dot. What about a small medium gray dot with a larger dot of the same color slightly up and a bit to the right?
+0: I think i see that
+1: Pick the bigger one
+0: ok

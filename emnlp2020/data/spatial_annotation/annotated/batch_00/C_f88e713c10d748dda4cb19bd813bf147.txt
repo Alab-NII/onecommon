@@ -1,0 +1,4 @@
+1: I have a large black dot, with a lighter but the same size dot very close to it, on the right side
+0: I have that too is there a northern small one to the left
+1: yes there is, wanna select the large very dark one?
+0: Yes

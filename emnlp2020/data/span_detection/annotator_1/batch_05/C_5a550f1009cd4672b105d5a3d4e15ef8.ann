@@ -1,0 +1,14 @@
+T1	Markable 10 27	a large light dot
+T2	Markable 50 73	a small medium gray dot
+T3	Markable 103 105	it
+T4	Markable 136 152	a large dark dot
+T5	Markable 180 197	a large light dot
+T6	Markable 122 124	it
+T7	Markable 211 215	they
+T8	Markable 246 258	the dark one
+A1	No-Referent T6
+T9	Modifier 28 31	all
+T10	Spatial-Relation 32 37	alone
+T11	Spatial-Relation 74 102	far above and to the left of
+T12	Spatial-Relation 158 176	below to the right
+T13	Spatial-Relation 216 229	the same size

@@ -1,0 +1,8 @@
+T1	Markable 33 45	furthest top
+T2	Markable 96 128	a slightly smaller dark grey dot
+T3	Markable 135 137	it
+T4	Markable 73 90	a large black dot
+T5	Markable 147 151	that
+T6	Markable 158 175	the top black dot
+T7	Markable 3 31	cluster of 3 dark shade dots
+R1	Anaphora Arg1:T3 Arg2:T4	

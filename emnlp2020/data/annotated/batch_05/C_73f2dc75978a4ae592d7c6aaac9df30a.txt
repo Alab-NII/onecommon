@@ -1,0 +1,5 @@
+1: is your darkest a large one in the upper right side?
+0: I don't have any dark ones. I do have two medium gray large ones in a horizontal line.
+1: i have two medium grey on the right side... they are vertical to each other tho. the top is slightly larger, the bottom is slightly to the left
+0: I have those too - do you want to pick the larger one on top?
+1: perfect

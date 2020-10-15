@@ -1,0 +1,4 @@
+1: I have a large grey dot in the top right
+0: i have a diagonal line of 4 dots going southwest to northeast
+1: I have that too, with one small black dot after two large gray dots
+0: yes, let's click the small black one

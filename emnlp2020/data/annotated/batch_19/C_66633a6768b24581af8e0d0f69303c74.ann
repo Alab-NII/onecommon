@@ -1,0 +1,4 @@
+T1	Markable 10 33	a dark medium sized dot
+T2	Markable 99 107	that one
+T3	Markable 37 41	it's
+R1	Anaphora Arg1:T3 Arg2:T1	

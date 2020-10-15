@@ -1,0 +1,5 @@
+T1	Markable 3 24	Row of three diagonal
+T2	Markable 26 29	all
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 57 63	larger
+T4	Markable 87 97	the middle

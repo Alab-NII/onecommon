@@ -1,0 +1,6 @@
+0: I see two very light dots vertically aligned. Left is slightly bigger.
+1: I don't think I have that
+0: I also see three dots. They make a triangle. Left and right are equal size, just left is darker. Middle is bigger.
+1: I have that one
+0: Did you choose the middle?
+1: Yes

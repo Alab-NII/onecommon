@@ -1,0 +1,5 @@
+T1	Markable 42 52	a triangle
+T2	Markable 85 98	the black one
+T3	Markable 3 13	three dots
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 62 65	ALL

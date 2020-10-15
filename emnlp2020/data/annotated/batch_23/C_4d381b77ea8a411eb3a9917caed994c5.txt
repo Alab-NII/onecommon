@@ -1,0 +1,3 @@
+0: My smallest dot is medium gray
+1: with a same shade dot up and to the left and up and to the right
+0: Yes select it

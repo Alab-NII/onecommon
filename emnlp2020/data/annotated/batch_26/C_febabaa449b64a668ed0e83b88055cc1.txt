@@ -1,0 +1,3 @@
+0: cluster of 3 dots forming a triangle shape. top middle dot of that is black
+1: yes! if there is a light grey dot down to its bottom left click the black one!
+0: ok. black one

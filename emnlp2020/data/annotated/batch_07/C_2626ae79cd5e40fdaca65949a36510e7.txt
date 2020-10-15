@@ -1,0 +1,8 @@
+0: 3 light in a triangle. smallest on the upper right vertex
+1: Near center?
+0: not for me. is there anything above it?
+1: Near bottom, there is a dark gray large. above it near center mass is a light large gray dot
+0: I don't see that. describe something else
+1: Very left is a medium dark gray all alone
+0: try it
+1: Thank you

@@ -1,0 +1,3 @@
+0: big black dot and small medium grey dot close to each other, smaller one is to right.
+1: Lets go with the larger black dot
+0: ok

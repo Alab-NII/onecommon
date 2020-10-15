@@ -1,0 +1,10 @@
+0: I have one large grey dot with three smaller ones around it
+1: i have one large light gray dot on the right side close to the circle
+0: I also have a large light grey dot, does it have two smaller dots above and to the left a bit? One dark, one light
+1: i have one light little one by mine
+0: is it above and to the left a bit?
+1: no mine is to the right
+0: hmm. I have a very small medium grey dot that is not near any of the other ones
+1: i have one to on the left side
+0: lets try that small one? top left
+1: okay

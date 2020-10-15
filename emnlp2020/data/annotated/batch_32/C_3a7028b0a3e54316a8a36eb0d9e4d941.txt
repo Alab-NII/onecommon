@@ -1,0 +1,6 @@
+1: Hi, do you have a grey and black dot, similar size, and larger than all the rest?
+0: yes is the large black one very close to anything?
+1: For me, it's closest to a medium sized grey dot, but might be different for you.
+0: yes! is the medium one up to its right?
+1: Yes it is. Shall we both try clicking on the darkest, largest dot?
+0: yes!

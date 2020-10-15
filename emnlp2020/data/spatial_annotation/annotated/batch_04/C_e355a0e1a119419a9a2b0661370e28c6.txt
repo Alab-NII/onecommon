@@ -1,0 +1,9 @@
+1: Light grey in center
+0: Do you have any touching the boarder? and no
+1: Not touching no
+0: have 1 off by itself? at 10 o clock?
+1: I have one there to
+0: how about 3 larger in a triangle with a very small dot closer to the center then the others
+1: 4 make a triangle with one small towards center
+0: choose the smallest closest to center?
+1: K

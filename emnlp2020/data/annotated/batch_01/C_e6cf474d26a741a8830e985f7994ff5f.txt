@@ -1,0 +1,3 @@
+0: Do you see two smallish dots, very close to each other with the top one darker than the bottom?
+1: I can see that yes!
+0: Ok, lets choose the top darker small dot

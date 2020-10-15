@@ -1,0 +1,7 @@
+1: i have a light grey dot with a slightly smaller/darker one to its left
+0: Is this a larger sized dot towards the upper right of the circle
+1: your circle will look different than mine, mine is in middle right
+0: That is not a match
+1: they are very close together compared to the other ones
+0: Ok. I have two that are close. Do you want to pick the larger lighter dot
+1: yes

@@ -1,0 +1,2 @@
+1: I have a group of three shaped like a wedge...all about the same size and darker in color?
+0: yes select the bottom one

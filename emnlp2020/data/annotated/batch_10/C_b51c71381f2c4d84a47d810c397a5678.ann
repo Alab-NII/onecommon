@@ -1,0 +1,11 @@
+T1	Markable 9 26	one dark gray dot
+T2	Markable 49 59	my largest
+T3	Markable 81 93	4 other dots
+T4	Markable 61 63	it
+T5	Markable 111 130	the other four dots
+T6	Markable 169 186	the dark gray dot
+T7	Markable 143 151	the dots
+T8	Markable 30 40	My darkest
+R1	Predicative Arg1:T2 Arg2:T8	
+R2	Anaphora Arg1:T4 Arg2:T8	
+A1	No-Referent T5

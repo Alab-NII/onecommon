@@ -1,0 +1,41 @@
+T1	Markable 10 44	one lonely, medium, light gray dot
+T2	Markable 58 62	mine
+T3	Markable 114 138	a larger medium-gray dot
+T4	Markable 94 109	My lightest dot
+T5	Markable 161 163	it
+T6	Markable 242 245	one
+T8	Markable 263 278	the lighter one
+T9	Markable 314 316	it
+T10	Markable 352 367	the lighter dot
+R1	Anaphora Arg1:T5 Arg2:T4	
+T11	Markable 201 207	2 dots
+R2	Anaphora Arg1:T9 Arg2:T6	
+T7	Markable 332 340	the same
+T12	Spatial-Relation 14 20	lonely
+A1	No-Obj T12
+T13	Modifier 67 73	mostly
+T14	Spatial-Relation 74 92	clustered together
+A2	No-Obj T14
+T15	Spatial-Relation 97 105	lightest
+A3	No-Obj T15
+T16	Spatial-Relation 110 113	has
+T17	Spatial-Relation 116 122	larger
+T18	Spatial-Relation 139 160	up and to the left of
+T19	Modifier 165 171	pretty
+T20	Spatial-Relation 172 186	close together
+A4	No-Obj T20
+R3	Subj Arg1:T20 Arg2:T3	
+R4	Subj Arg1:T20 Arg2:T4	
+T21	Modifier 208 214	really
+T22	Spatial-Relation 215 229	close together
+A5	No-Obj T22
+T23	Spatial-Relation 231 240	same size
+A6	No-Obj T23
+T24	Spatial-Attribute 249 258	dark grey
+T25	Spatial-Relation 267 274	lighter
+T26	Modifier 282 287	a bit
+T27	Spatial-Relation 288 293	lower
+T28	Spatial-Relation 298 313	to the right of
+T29	Spatial-Relation 356 363	lighter
+R5	Obj Arg1:T29 Arg2:T7	
+A7	Mod-Extremity T19

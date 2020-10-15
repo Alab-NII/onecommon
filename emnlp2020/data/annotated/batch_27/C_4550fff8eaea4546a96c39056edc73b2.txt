@@ -1,0 +1,6 @@
+1: one big black dot in center
+0: My blackest dot it the biggest
+1: yes lets click it.
+0: Is in in between two smaller lighter dots
+1: yes
+0: select the big black

@@ -1,0 +1,14 @@
+T1	Markable 28 56	a medium sized dark grey dot
+T2	Markable 106 109	its
+T3	Markable 67 86	the large black one
+T4	Markable 150 184	two very very light and small dots
+T5	Markable 332 344	a large dark
+T6	Markable 273 288	the small light
+T7	Markable 3 17	Huge black dot
+T8	Markable 91 98	nothing
+A1	No-Referent T8
+R1	Anaphora Arg1:T2 Arg2:T3	
+T9	Markable 223 235	a bit larger
+T10	Markable 249 267	a triangle pattern
+T11	Markable 304 315	medium dark
+T12	Markable 376 391	that tiny light

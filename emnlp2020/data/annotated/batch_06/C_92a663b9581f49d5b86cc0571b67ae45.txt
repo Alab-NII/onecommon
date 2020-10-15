@@ -1,0 +1,3 @@
+0: I have two dots right next to each other. The one on the left is smaller and darker.
+1: I don't have that. Do you have three dots that almost form a line with the ones one top and bottom being small and almost the same size and color and the one in the middle being very large and dark?
+0: Yes. Let's click the middle dot.

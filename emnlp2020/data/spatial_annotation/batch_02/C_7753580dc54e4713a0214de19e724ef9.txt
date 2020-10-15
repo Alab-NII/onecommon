@@ -1,0 +1,3 @@
+1: Tiny lightest shade dot, below it is medium to large dark Dot and above to the left is a lightest shade medium size dot
+0: I think I see that, click the small one?
+1: Yes

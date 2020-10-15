@@ -1,0 +1,3 @@
+1: 1 small black dot with two larger lighter dots below it. the dots below are light grey on the left and dark grey on the right
+0: Yes! Which should we choose?
+1: the black/darkest one

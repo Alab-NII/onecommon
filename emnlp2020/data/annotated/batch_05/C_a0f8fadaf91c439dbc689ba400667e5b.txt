@@ -1,0 +1,5 @@
+1: I have a lonely dark big dot at bottom, lonely medium grey at top right
+0: I see a triangle of medium grey dots. two large and a small. no lonely dots.
+1: I am not seeing that formation
+0: Is the large dark one below a small and a medium sized dark one?
+1: Yes but pretty far below, I say pick the large one

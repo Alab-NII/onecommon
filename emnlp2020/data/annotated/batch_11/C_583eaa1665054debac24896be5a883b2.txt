@@ -1,0 +1,4 @@
+1: I see a pair of dark dots. The larger is north north east of the small one
+0: Do you see a horizontal group that is semi far from each other but almost same size, left one darkest, right one lightest
+1: Yes, we can choose the left largest one
+0: Take that larger black dot you described first

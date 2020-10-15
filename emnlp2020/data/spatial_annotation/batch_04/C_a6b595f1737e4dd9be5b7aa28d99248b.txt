@@ -1,0 +1,7 @@
+0: I see a cluster of 4 dots. A big dark one on top, two lighter smaller in the middle and a darker one on bottom
+1: ONE BLACK DOT IS ON 3 O CLOCK
+0: Does the black dot have smaller lighter dot to the right?
+1: yes
+0: Its almost horizontal, but a little higher, right?
+1: its like 3'o clock
+0: Ok, lets click the black dot.

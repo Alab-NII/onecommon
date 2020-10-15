@@ -1,0 +1,3 @@
+0: 3 dots close to each other the largest is on the bottom with a small dark dot above it and a lighter grey dot to left of the small 1
+1: Yes! Click the smallest black one!
+0: ok great

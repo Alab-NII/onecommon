@@ -1,0 +1,10 @@
+T1	Markable 14 31	a medium gray dot
+T2	Markable 109 117	that one
+T3	Spatial-Relation 32 50	to the lower right
+A1	No-Obj T3
+T4	Spatial-Relation 60 84	below the 3 o clock spot
+A2	No-Obj T4
+R1	Subj Arg1:T4 Arg2:T1	
+T5	Modifier 55 59	just
+#1	AnnotatorNotes T4	right;below
+A3	Mod-Subtlty T5

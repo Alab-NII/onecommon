@@ -1,0 +1,29 @@
+T1	Markable 10 37	one very large and dark dot
+T2	Markable 61 72	all of mine
+T3	Markable 95 113	one very light dot
+T4	Markable 118 136	one dark black dot
+T5	Markable 179 197	no very light dots
+T6	Markable 202 219	several dark ones
+T7	Markable 280 282	it
+T8	Markable 242 254	one dark one
+T9	Markable 306 322	a same sized one
+T10	Markable 353 355	it
+T11	Markable 407 420	that dark dot
+A1	All-Referents T2
+T12	Markable 150 168	multiple of either
+A2	No-Referent T5
+R1	Anaphora Arg1:T7 Arg2:T8	
+T13	Spatial-Relation 46 60	the highest of
+T14	Spatial-Relation 263 275	near the top
+A3	No-Obj T14
+T15	Spatial-Attribute 283 292	mid sized
+T16	Spatial-Relation 308 318	same sized
+T17	Spatial-Relation 331 352	almost directly below
+T18	Modifier 331 346	almost directly
+T19	Modifier 357 365	slightly
+T20	Spatial-Relation 366 377	to the left
+R2	Subj Arg1:T20 Arg2:T9	
+R3	Obj Arg1:T20 Arg2:T10	
+T21	Modifier 283 286	mid
+A4	Mod-Neutral T21
+#1	AnnotatorNotes T14	top

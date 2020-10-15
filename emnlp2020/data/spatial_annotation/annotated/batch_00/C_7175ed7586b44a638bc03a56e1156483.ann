@@ -1,0 +1,21 @@
+T1	Markable 81 86	those
+T2	Markable 117 144	a slightly smaller dark dot
+T3	Markable 151 153	it
+T4	Markable 101 111	a dark dot
+T5	Markable 193 205	the dark dot
+T6	Markable 3 13	three dots
+A1	No-Referent T1
+R1	Anaphora Arg1:T3 Arg2:T4	
+T7	Spatial-Relation 14 56	small to large left to right,dark to light
+T8	Spatial-Relation 112 116	with
+A3	No-Obj T7
+T9	Modifier 119 127	slightly
+T10	Spatial-Relation 128 135	smaller
+T11	Spatial-Relation 145 150	above
+T12	Spatial-Relation 167 178	to the left
+T13	Modifier 158 166	a little
+R2	Subj Arg1:T12 Arg2:T2	
+R3	Obj Arg1:T12 Arg2:T3	
+T14	Spatial-Relation 214 220	larger
+R4	Obj Arg1:T14 Arg2:T2	
+A2	Canonical-Undefined T7

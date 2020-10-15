@@ -1,0 +1,6 @@
+1: I have a large light gray dot next to do small dark dots.
+0: Do you see 2 small dark dots with the smaller one on top and to the left
+1: Yes, I think those are the two dots I was mentioning. Is there also a medium gray dot above and to the right?
+0: Yes let's pick the gray one
+1: Which gray one?
+0: The medium gray one to the right of the black ones

@@ -1,0 +1,3 @@
+1: I have only one small light grey dot off to the right of my screen.
+0: i have that dot too select it
+1: Excellent.

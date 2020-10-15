@@ -1,0 +1,3 @@
+1: Do you a large gray dot and a small gray medium dot underneath it
+0: Yes I do
+1: Click on the larger lighter gray dot

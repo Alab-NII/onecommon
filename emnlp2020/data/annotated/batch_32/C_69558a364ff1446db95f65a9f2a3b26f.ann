@@ -1,0 +1,8 @@
+T1	Markable 60 70	each other
+T4	Markable 109 118	light one
+T5	Markable 77 91	the darker one
+T6	Markable 125 127	it
+T7	Markable 156 170	the darker one
+T8	Markable 10 50	two similar size but opposite shade dots
+R1	Anaphora Arg1:T1 Arg2:T8	
+R2	Anaphora Arg1:T6 Arg2:T5	

@@ -1,0 +1,5 @@
+0: I have a lonely black dot on the top
+1: i have four dots in the shape of a Y
+0: I see them too
+1: how about choosing the center of the y
+0: good, i click

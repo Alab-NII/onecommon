@@ -1,0 +1,4 @@
+0: I see a large light dot, with smaller but darker dot under it, on the right
+1: I do too
+0: wanna select the larger and lighter one?
+1: Yes lets do it

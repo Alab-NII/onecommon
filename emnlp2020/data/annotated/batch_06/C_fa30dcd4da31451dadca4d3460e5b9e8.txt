@@ -1,0 +1,5 @@
+0: Do you have three large dots close to each other?
+1: do you see a large dark grey dot, with a smaller black dot below it
+0: Yes i see that also
+1: select large grey
+0: ok

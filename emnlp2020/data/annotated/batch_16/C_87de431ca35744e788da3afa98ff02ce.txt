@@ -1,0 +1,6 @@
+0: I have one medium sized black dot near the center of the circle towards four o'clock.
+1: Does it have a smaller light grey dot above it but to the left?
+0: Yes.
+1: Which do you want to choose?
+0: Let's do the black one?
+1: Okay!

@@ -1,0 +1,22 @@
+T1	Markable 10 30	1 huge dark grey dot
+T2	Markable 38 44	itself
+T3	Markable 55 84	one very small light gray dot
+T4	Markable 117 139	a larger dark grey dot
+T5	Markable 162 179	the huge dark dot
+T6	Markable 187 193	itself
+T7	Markable 211 226	the large black
+R1	Anaphora Arg1:T2 Arg2:T1	
+T8	Markable 91 110	tiny light grey dot
+R2	Anaphora Arg1:T6 Arg2:T5	
+T9	Modifier 31 34	all
+T10	Spatial-Relation 35 37	by
+T11	Spatial-Relation 111 116	NW of
+T12	Spatial-Relation 119 125	larger
+T13	Modifier 180 183	all
+T14	Spatial-Relation 184 186	by
+R3	Obj Arg1:T12 Arg2:T8	
+#1	AnnotatorNotes T10	alone
+#2	AnnotatorNotes T11	northwest of
+A1	Mod-Certainty-Exactness T9
+A2	Mod-Certainty-Exactness T13
+#3	AnnotatorNotes T14	alone

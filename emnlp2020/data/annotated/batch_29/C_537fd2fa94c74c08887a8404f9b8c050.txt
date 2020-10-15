@@ -1,0 +1,4 @@
+1: I see one medium dark gray dot with a small light gray to its lower left.
+0: I dont have that but i have a line (not straight) top to bottom is black medium, smaller grey, large grey, smallest lightest.
+1: I have that. Do you want to choose the smallest bottom dot which is light gray?
+0: yes!

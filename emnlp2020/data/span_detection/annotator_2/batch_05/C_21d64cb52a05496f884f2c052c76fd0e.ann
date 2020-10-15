@@ -1,0 +1,15 @@
+T1	Markable 14 40	a very light and small dot
+T2	Markable 72 89	a larger dark dot
+T3	Markable 96 99	its
+T4	Markable 127 130	its
+R1	Anaphora Arg1:T4 Arg2:T3	
+T5	Markable 146 163	a larger dark dot
+T6	Markable 186 211	this small very light dot
+T7	Spatial-Relation 41 53	near the top
+T8	Spatial-Relation 72 80	a larger
+T9	Modifier 57 65	directly
+T10	Spatial-Relation 66 71	above
+T11	Modifier 100 112	not directly
+T12	Spatial-Relation 113 118	above
+T13	Spatial-Relation 131 145	to the left of
+T14	Spatial-Relation 148 154	larger

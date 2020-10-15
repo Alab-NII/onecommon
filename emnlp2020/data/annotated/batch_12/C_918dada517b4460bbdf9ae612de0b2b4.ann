@@ -1,0 +1,17 @@
+T1	Markable 35 41	itself
+T2	Markable 10 27	a LARGE black dot
+T3	Markable 57 61	that
+T4	Markable 69 84	a dark gray dot
+T5	Markable 107 113	3 dots
+T6	Markable 115 119	They
+T7	Markable 125 135	a triangle
+T8	Markable 169 171	it
+T9	Markable 187 210	a lonely small gray dot
+T10	Markable 212 214	It
+T12	Markable 268 280	one of those
+R1	Anaphora Arg1:T1 Arg2:T2	
+A1	No-Referent T3
+R2	Anaphora Arg1:T6 Arg2:T5	
+R3	Predicative Arg1:T7 Arg2:T6	
+A2	No-Referent T8
+R4	Anaphora Arg1:T10 Arg2:T9	

@@ -1,0 +1,3 @@
+0: I have a cluster of 5 dots, left most one is black and large, left of that is same sized grey
+1: I have the same cluster. Which one should we pick?
+0: Wait I meant the black one is the most right positioned, but pick black one

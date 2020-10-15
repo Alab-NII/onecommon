@@ -1,0 +1,5 @@
+0: Tiny black dot, below it and slightly to the left is a very large grey dot, which that large grey dot also has a medium sized dark grey dot below it
+1: i have a small grey dot and a dark dot on the bottom.
+0: I don't know what at the bottom means, that could be the side or anywhere on my circle
+1: in the middle there a dark med dot on the left there is a big dark dot.
+0: Just click big dark one

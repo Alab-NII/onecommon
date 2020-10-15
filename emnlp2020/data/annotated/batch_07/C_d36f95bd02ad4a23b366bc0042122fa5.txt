@@ -1,0 +1,7 @@
+0: hello which dot would you like to try for?
+1: there is a dark gray dot nearly in the center of the circle
+0: our circles aren't aligned the same way...how about this, do you have 3 dots that make a triangle that points to the upper right?
+1: yes
+0: is the point of the triangle a small dot?
+1: yes
+0: ok lets click that small dot

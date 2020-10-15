@@ -1,0 +1,8 @@
+0: I see two larger dots that seemed to be paired together, one is light and one is dark
+1: Is your darker one on the bottom and to the left?
+0: yes
+1: Is there a small medium grey dot underneath it but to the right slightly?
+0: yes, sort of by itself
+1: Yes
+0: Ok, want to choose the dark on above?
+1: Yes

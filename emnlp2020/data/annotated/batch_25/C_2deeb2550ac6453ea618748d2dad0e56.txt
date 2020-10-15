@@ -1,0 +1,4 @@
+1: DO you have a group of 5 dots with a large dot in the center?
+0: i have one with four dots around it, the fifth dot might be cut off. it is on the edge of my screen
+1: sounds like mine, mine is near the NE top of my circle. is there a darker dot below and to the left of the largest dot?
+0: yes! lets choose the large center dot

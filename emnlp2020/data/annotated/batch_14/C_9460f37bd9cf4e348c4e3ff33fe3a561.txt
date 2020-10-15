@@ -1,0 +1,4 @@
+1: There is a dark one below a dark grey one. Go for the darkest one.
+0: Is it a little bigger?
+1: yes
+0: Got it!

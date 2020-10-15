@@ -1,0 +1,42 @@
+T1	Markable 7 26	the large black dot
+T2	Markable 85 101	a small grey dot
+T3	Markable 37 63	a lightest shade large dot
+T4	Markable 130 134	that
+T5	Markable 143 160	two identical dot
+T6	Markable 227 240	the lower one
+T7	Markable 194 198	they
+T8	Markable 279 283	that
+T10	Markable 295 312	A small black dot
+T11	Markable 390 403	the black dot
+A1	No-Referent T4
+R1	Anaphora Arg1:T7 Arg2:T5	
+A2	No-Referent T8
+T12	Markable 340 375	an almost same sized small grey dot
+T9	Spatial-Relation 28 33	above
+R2	Subj Arg1:T9 Arg2:T3	
+R3	Obj Arg1:T9 Arg2:T1	
+T13	Spatial-Relation 39 53	lightest shade
+A3	No-Obj T13
+T14	Spatial-Relation 69 81	to the right
+R4	Subj Arg1:T14 Arg2:T2	
+R5	Obj Arg1:T14 Arg2:T1	
+T15	Spatial-Relation 147 156	identical
+T16	Spatial-Attribute 170 192	light and medium-large
+T17	Modifier 203 208	about
+T18	Spatial-Relation 209 222	an inch apart
+A4	No-Obj T18
+T19	Spatial-Relation 231 236	lower
+R6	Obj Arg1:T19 Arg2:T7	
+T20	Modifier 244 249	a bit
+T21	Spatial-Relation 250 262	to the right
+R7	Obj Arg1:T21 Arg2:T7	
+T22	Spatial-Relation 314 336	below and to the right
+R8	Subj Arg1:T22 Arg2:T12	
+R9	Obj Arg1:T22 Arg2:T10	
+T23	Modifier 343 349	almost
+T24	Spatial-Relation 350 360	same sized
+R10	Obj Arg1:T24 Arg2:T10	
+A5	No-Obj T15
+T25	Modifier 180 192	medium-large
+A7	Mod-Neutral T25
+A6	Canonical-Undefined T18

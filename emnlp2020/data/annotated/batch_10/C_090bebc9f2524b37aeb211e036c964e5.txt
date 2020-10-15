@@ -1,0 +1,4 @@
+0: all my dots form the shape of an arrow with the point being a large dark gray dot.
+1: Hmm. Is the one under the point almost black and below it to the left?
+0: yes! and a light gray above that diagonally.
+1: Yes click the point!

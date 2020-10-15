@@ -1,0 +1,6 @@
+0: i see two groups of 3 dots that are kinda in a bent line, do u see either one?
+1: I see three. Two are dark grey an the middle is light grey. I see another group with the middle being dark
+0: the top one is to the right of the middle, and the bottom is slightly to the left?
+1: yes . those two are dark and larger than the middle which is lighter
+0: yeah, lets pick middle
+1: ok

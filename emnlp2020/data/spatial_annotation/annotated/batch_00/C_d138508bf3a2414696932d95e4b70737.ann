@@ -1,0 +1,38 @@
+T1	Markable 9 23	two black dots
+T2	Markable 24 27	one
+T3	Markable 38 41	one
+T4	Markable 97 127	a slightly smaller grayish dot
+T5	Markable 68 91	a medium size black dot
+T6	Spatial-Attribute 151 169	the only black dot
+T7	Markable 146 150	that
+T8	Markable 188 203	large black dot
+T9	Markable 209 226	a small light dot
+T10	Markable 233 235	it
+T11	Markable 274 282	that one
+T12	Markable 295 306	2 grey dots
+T13	Markable 364 371	it self
+T14	Markable 345 360	small black dot
+T15	Markable 395 403	that one
+R2	Anaphora Arg1:T10 Arg2:T8	
+A1	No-Referent T11
+T16	Markable 314 330	1 light grey dot
+R3	Anaphora Arg1:T13 Arg2:T14	
+T17	Spatial-Attribute 28 33	small
+T18	Spatial-Attribute 42 54	medium sized
+T19	Spatial-Relation 92 96	with
+T20	Modifier 99 107	slightly
+T21	Spatial-Relation 108 115	smaller
+T22	Spatial-Relation 128 139	to the left
+R4	Obj Arg1:T22 Arg2:T5	
+T23	Spatial-Relation 204 208	with
+T24	Spatial-Relation 227 232	below
+T25	Spatial-Relation 236 248	to the right
+R5	Subj Arg1:T25 Arg2:T9	
+R6	Obj Arg1:T25 Arg2:T10	
+T26	Modifier 249 254	a bit
+R7	Mod Arg1:T26 Arg2:T25	
+T27	Spatial-Relation 307 313	around
+T28	Spatial-Relation 361 363	by
+#1	AnnotatorNotes T28	alone
+T29	Modifier 42 48	medium
+#2	AnnotatorNotes T27	outside

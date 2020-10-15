@@ -1,0 +1,25 @@
+T1	Markable 39 48	two black
+T2	Markable 10 20	a triangle
+T3	Markable 63 74	a dark gray
+T4	Markable 100 116	a small triangle
+T5	Markable 118 135	the bottom 2 dots
+T6	Markable 172 183	the top dot
+T7	Markable 203 213	the others
+T8	Spatial-Relation 12 20	triangle
+A1	No-Obj T8
+T9	Spatial-Relation 29 38	formed by
+R1	Obj Arg1:T9 Arg2:T1	
+R2	Obj Arg1:T9 Arg2:T3	
+T10	Spatial-Relation 49 58	on bottom
+R3	Obj Arg1:T10 Arg2:T2	
+T11	Spatial-Relation 75 81	on top
+R4	Obj Arg1:T11 Arg2:T2	
+T12	Spatial-Relation 108 116	triangle
+A2	No-Obj T12
+T13	Spatial-Relation 122 128	bottom
+R5	Obj Arg1:T13 Arg2:T4	
+T14	Modifier 140 144	very
+T15	Spatial-Attribute 145 149	dark
+T16	Spatial-Relation 176 179	top
+T17	Spatial-Relation 192 202	light than
+#1	AnnotatorNotes T17	lighter

@@ -1,0 +1,5 @@
+1: do you have a large black dot with two smaller ones below it, on the right and left?
+0: I do. Is it the largest and amongst the darkest?
+1: the large one and the one to the lower right are both black
+0: Same here. I believe the large one is our common object
+1: ok

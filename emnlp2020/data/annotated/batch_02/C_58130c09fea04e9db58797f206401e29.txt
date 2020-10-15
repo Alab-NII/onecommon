@@ -1,0 +1,4 @@
+1: i've got 3 same color. largest on the left, middle/medium, smallest on the right
+0: black in color
+1: yes all dark.
+0: yes i have them lets go with the biggest

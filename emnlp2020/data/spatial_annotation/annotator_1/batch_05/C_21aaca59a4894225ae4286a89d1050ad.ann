@@ -1,0 +1,13 @@
+T1	Markable 14 34	a tiny dark grey dot
+T2	Markable 43 59	a light gray one
+T3	Markable 70 92	the darkest color gray
+T4	Markable 101 131	the second lightest gray color
+T5	Markable 151 171	the dark grey circle
+R1	Anaphora Arg1:T5 Arg2:T3	
+T6	Spatial-Relation 35 42	next to
+T7	Spatial-Relation 74 81	darkest
+T8	Spatial-Relation 93 100	next to
+T9	Spatial-Relation 105 120	second lightest
+A1	No-Obj T7
+A2	No-Obj T9
+A3	Canonical-Undefined T9

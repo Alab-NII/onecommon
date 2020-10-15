@@ -1,0 +1,8 @@
+1: a black dot in the middle of the other dots
+0: what is the closest dot to that black dot?
+1: none of them . the dot is by itself.
+0: do you have any pairs of dots that are very close to each other?
+1: yes. One black small dot and a bigger dot grey
+0: is the smaller black one up above and to the left or right?
+1: above to the right
+0: k click the black one

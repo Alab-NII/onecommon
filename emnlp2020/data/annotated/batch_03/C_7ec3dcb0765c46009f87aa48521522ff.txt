@@ -1,0 +1,6 @@
+0: I have a lonely tiny dot toward the upper top
+1: i don't. i see a group of 3 in a line, kind of check mark shaped. the one in the middle/bottom is slightly larger than the other 2
+0: I don't quite see that. I have a small dark circle adjacent from a larger gray one.
+1: do you see a medium grey circle with a small black dot a bit above it?
+0: Yes I do. Shall we try the small black dot?
+1: yes

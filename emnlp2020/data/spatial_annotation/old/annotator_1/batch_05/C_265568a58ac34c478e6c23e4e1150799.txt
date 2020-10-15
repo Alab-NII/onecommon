@@ -1,0 +1,11 @@
+0: one large dot at 9 o'clock
+1: I see a large gray dot to the bottom right of the circle.
+1: Not here.
+0: nope right bottom side i have small gray dot at 4 o'clock not close to the border
+1: A large gray dot very near the center of the circle.
+0: nope tiny gray dot near 11 oclock
+1: No, one small gray dot near 1:00
+0: nope one small dot on 9 o'clock touching the border
+1: Light gray?
+0: yes
+1: Okay, goal

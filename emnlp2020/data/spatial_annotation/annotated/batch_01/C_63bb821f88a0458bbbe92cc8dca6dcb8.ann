@@ -1,0 +1,38 @@
+T1	Markable 48 72	2 small medium dark dots
+T2	Markable 84 99	2 big gray dots
+T3	Markable 114 128	two small dots
+T4	Markable 138 141	one
+T5	Markable 177 186	the other
+T6	Markable 223 237	one small gray
+T7	Markable 267 285	one small dark dot
+T8	Markable 309 321	a small dark
+T9	Markable 349 356	the one
+T10	Markable 380 382	it
+T11	Markable 413 415	it
+T12	Markable 3 18	my smallest dot
+R1	Anaphora Arg1:T11 Arg2:T10	
+T13	Spatial-Relation 6 14	smallest
+A1	No-Obj T13
+T14	Modifier 22 26	very
+T15	Spatial-Attribute 27 31	dark
+T16	Spatial-Attribute 145 150	small
+T17	Spatial-Relation 155 173	towards the center
+A2	No-Obj T17
+T18	Spatial-Relation 190 211	above and to the left
+R2	Obj Arg1:T18 Arg2:T4	
+T19	Spatial-Relation 238 256	towards the center
+A3	No-Obj T19
+T20	Spatial-Relation 257 262	above
+A4	No-Obj T20
+T21	Spatial-Relation 286 298	on the right
+A5	No-Obj T21
+T22	Spatial-Relation 299 304	below
+A6	No-Obj T22
+T23	Spatial-Relation 322 333	on the left
+A7	No-Obj T23
+T24	Spatial-Relation 334 339	below
+A8	No-Obj T24
+T25	Spatial-Relation 357 372	near the center
+A9	No-Obj T25
+T26	Spatial-Attribute 383 387	gray
+#1	AnnotatorNotes T25	center

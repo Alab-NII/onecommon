@@ -1,0 +1,18 @@
+T1	Markable 35 42	the one
+T2	Markable 75 82	the one
+T3	Markable 23 33	each other
+T4	Markable 9 17	two dots
+T5	Markable 166 174	a 3 dots
+T6	Markable 185 208	a perfect diagonal line
+T7	Markable 210 224	the middle dot
+T8	Markable 362 370	last one
+R1	Anaphora Arg1:T3 Arg2:T4	
+T9	Markable 131 135	both
+R2	Anaphora Arg1:T9 Arg2:T4	
+R3	Predicative Arg1:T6 Arg2:T5	
+T10	Markable 316 323	the top
+T11	Markable 341 347	middle
+T12	Markable 396 404	them all
+T13	Markable 408 414	my top
+T14	Markable 419 425	bottom
+T15	Markable 453 459	middle

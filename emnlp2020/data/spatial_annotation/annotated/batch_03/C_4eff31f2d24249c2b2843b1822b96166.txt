@@ -1,0 +1,4 @@
+0: Hello! Where's your dot?
+1: do you have one large black dot
+0: Yes with a smaller dark grey one above it and a smaller light gray one to the right of it.
+1: okay choose that one

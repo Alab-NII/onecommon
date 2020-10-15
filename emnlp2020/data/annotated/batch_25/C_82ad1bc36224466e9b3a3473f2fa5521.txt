@@ -1,0 +1,4 @@
+1: one small dot in between two large dark gray dots on opposite sides of circle?
+0: i dont see that. i see a cluster of 5 dots. left most nearly identical to right most. a smaller medium to dark grey
+1: I don't have a cluster of 5...i have a cluster of 4 where they are similar in size but the black one is a little larger...
+0: yes choose the larger black one!

@@ -1,0 +1,32 @@
+T1	Markable 3 17	three dark dot
+T2	Markable 35 46	biggest one
+T3	Markable 69 81	the triangle
+T4	Markable 90 92	it
+T5	Markable 103 115	a fourth dot
+T6	Markable 135 143	the rest
+T7	Markable 161 168	the top
+T8	Markable 172 184	the triangle
+R1	Anaphora Arg1:T4 Arg2:T3	
+T9	Markable 206 217	biggest one
+T10	Spatial-Relation 18 33	making triangle
+A1	No-Obj T10
+T11	Spatial-Relation 35 42	biggest
+T12	Spatial-Relation 47 54	to left
+R2	Obj Arg1:T11 Arg2:T1	
+R3	Obj Arg1:T12 Arg2:T1	
+T13	Spatial-Relation 73 81	triangle
+A2	No-Obj T13
+T14	Spatial-Relation 98 102	have
+T15	Modifier 117 121	much
+T16	Spatial-Relation 122 134	lighter than
+T17	Spatial-Relation 145 160	to the right of
+R4	Subj Arg1:T17 Arg2:T5	
+T18	Spatial-Relation 165 168	top
+T19	Spatial-Relation 169 171	of
+T20	Spatial-Relation 176 184	triangle
+A3	No-Obj T20
+T21	Spatial-Relation 206 213	biggest
+T22	Spatial-Relation 227 243	on the left side
+R5	Obj Arg1:T21 Arg2:T1	
+R6	Obj Arg1:T22 Arg2:T1	
+A4	Mod-Extremity T15

@@ -1,0 +1,4 @@
+0: two large dots med grey almost identical looking?
+1: Do you have one tiny black dot near a slightly larger and slightly lighter one?
+0: yes if the tiny black dot is to the right of and slightly below the larger one then click that darker smaller one
+1: Yes, let's select that one

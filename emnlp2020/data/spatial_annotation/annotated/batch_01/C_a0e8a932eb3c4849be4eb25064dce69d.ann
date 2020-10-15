@@ -1,0 +1,17 @@
+T2	Markable 50 60	each other
+T3	Markable 70 74	that
+T4	Markable 87 111	a light grey smaller one
+T5	Markable 123 127	them
+T7	Markable 145 166	the lower smaller one
+T8	Markable 3 30	two medium shade small dots
+R1	Anaphora Arg1:T2 Arg2:T8	
+R2	Anaphora Arg1:T5 Arg2:T3	
+T1	Modifier 31 39	directly
+T6	Spatial-Relation 40 49	on top of
+T9	Spatial-Relation 100 107	smaller
+T10	Spatial-Relation 112 122	lower than
+T11	Spatial-Relation 149 154	lower
+T12	Spatial-Relation 155 162	smaller
+R3	Obj Arg1:T11 Arg2:T8	
+R4	Obj Arg1:T12 Arg2:T8	
+#1	AnnotatorNotes T6	vertical

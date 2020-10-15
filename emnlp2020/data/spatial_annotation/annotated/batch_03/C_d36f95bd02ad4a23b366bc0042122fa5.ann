@@ -1,0 +1,22 @@
+T1	Markable 182 188	3 dots
+T3	Markable 255 264	the point
+T4	Markable 268 280	the triangle
+T5	Markable 318 332	that small dot
+T6	Markable 9 18	which dot
+A1	Generic T6
+T7	Markable 58 73	a dark gray dot
+T8	Spatial-Attribute 281 292	a small dot
+T9	Modifier 74 80	nearly
+T10	Spatial-Relation 81 108	in the center of the circle
+A2	No-Obj T10
+T2	Spatial-Relation 194 209	make a triangle
+A3	No-Obj T2
+T11	Spatial-Relation 215 240	points to the upper right
+A4	No-Obj T11
+R1	Subj Arg1:T8 Arg2:T3	
+T12	Spatial-Relation 259 264	point
+T13	Spatial-Relation 265 267	of
+T14	Spatial-Relation 272 280	triangle
+A6	No-Obj T14
+A7	Mod-Uncertainty-Approximation T9
+A5	Canonical-Undefined T11

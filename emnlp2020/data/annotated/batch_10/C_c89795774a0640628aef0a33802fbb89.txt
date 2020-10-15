@@ -1,0 +1,7 @@
+0: ok, we can do this! let's work together! my largest dot is also the darkest. do you have a large dark dot?
+1: no, my largest is the lightest
+0: I have one dark dot all by itself off to the side, do you/
+1: no, i have two dark dots about the same size with a lighter one right under the left black dot
+0: is the lighter one slightly smaller? i think i have the same
+1: yes!
+0: lets select the lighter/smaller dot to see if we have the same

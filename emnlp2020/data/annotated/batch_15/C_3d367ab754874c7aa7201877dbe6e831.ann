@@ -1,0 +1,11 @@
+T1	Markable 21 32	a black dot
+T2	Markable 60 70	each other
+T3	Markable 75 96	cluster of light ones
+T4	Markable 134 137	two
+T5	Markable 227 237	each other
+T6	Markable 195 199	they
+T7	Markable 260 284	the lower left black dot
+T8	Markable 37 51	light grey dot
+T9	Markable 152 161	top right
+T10	Markable 172 182	lower left
+R1	Anaphora Arg1:T5 Arg2:T6	

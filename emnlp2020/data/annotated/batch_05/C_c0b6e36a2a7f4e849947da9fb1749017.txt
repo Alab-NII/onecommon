@@ -1,0 +1,7 @@
+1: I have a dark gray big circle
+0: hmm dont have that on mine. how about three close together like a triangle?
+1: 3 of different sizes?
+0: yes two are a shade darker
+1: the one different close to the size of the big darker ones?
+0: correct, lets pick that lighter one
+1: ok

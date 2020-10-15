@@ -1,0 +1,53 @@
+T1	Markable 10 13	two
+T2	Markable 26 40	The bottom one
+T3	Spatial-Attribute 59 64	black
+T4	Markable 98 129	a slightly larger dark grey dot
+T5	Markable 76 78	it
+T6	Markable 140 147	a black
+T7	Markable 183 185	it
+T9	Markable 187 191	That
+T10	Markable 217 225	The grey
+T11	Markable 257 259	it
+T12	Markable 307 309	it
+T13	Markable 328 336	the grey
+T14	Markable 359 383	the slightly larger grey
+R2	Anaphora Arg1:T5 Arg2:T2	
+T15	Markable 152 158	a grey
+T8	Markable 239 247	The grey
+T16	Spatial-Relation 14 24	very close
+A1	No-Obj T16
+T17	Modifier 14 18	very
+T18	Spatial-Relation 30 36	bottom
+R3	Obj Arg1:T18 Arg2:T1	
+T19	Spatial-Relation 70 75	Above
+R1	Subj Arg1:T19 Arg2:T4	
+T20	Spatial-Relation 83 94	to the left
+R4	Subj Arg1:T20 Arg2:T4	
+R5	Obj Arg1:T20 Arg2:T5	
+T21	Modifier 100 108	slightly
+T22	Spatial-Relation 109 115	larger
+R6	Obj Arg1:T22 Arg2:T5	
+T23	Spatial-Relation 159 168	same size
+A2	No-Obj T23
+R7	Subj Arg1:T23 Arg2:T6	
+R8	Subj Arg1:T23 Arg2:T15	
+T25	Spatial-Relation 169 182	right next to
+T26	Spatial-Relation 229 235	bigger
+R9	Obj Arg1:T26 Arg2:T9	
+T27	Spatial-Relation 251 256	above
+T28	Modifier 264 272	a little
+T29	Spatial-Relation 273 277	left
+R10	Subj Arg1:T29 Arg2:T8	
+R11	Obj Arg1:T29 Arg2:T11	
+T30	Spatial-Relation 301 306	above
+T31	Modifier 293 296	Not
+T32	Spatial-Relation 297 300	far
+R12	Subj Arg1:T32 Arg2:T10	
+R13	Subj Arg1:T30 Arg2:T10	
+T33	Modifier 363 371	slightly
+T34	Spatial-Relation 372 378	larger
+R14	Obj Arg1:T34 Arg2:T11	
+T35	Spatial-Attribute 46 58	medium sized
+T36	Modifier 46 52	medium
+#1	AnnotatorNotes T16	near
+#2	AnnotatorNotes T25	near

@@ -1,0 +1,7 @@
+1: grey lonely dot towards top 11 oclock on my circle
+0: no... medium dark gray with a smaller black below it of the side some
+1: nope. our circles are way off. how about a small dark grey with a bigger light grey to lower right and then big lighter grey to the upper right of that
+0: i think i'm where you are
+1: does your small dark grey have a small light grey to the lower left?
+0: yes
+1: ok dark grey it is !

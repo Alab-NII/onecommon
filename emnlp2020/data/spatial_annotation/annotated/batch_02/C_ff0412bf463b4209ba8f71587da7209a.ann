@@ -1,0 +1,14 @@
+T1	Markable 31 48	a medium gray dot
+T2	Markable 9 25	2 tiny gray dots
+T3	Markable 125 141	the top tiny dot
+T4	Markable 67 81	the medium dot
+T5	Spatial-Relation 26 30	with
+T6	Spatial-Relation 49 63	going diagonal
+A1	No-Obj T6
+R1	Subj Arg1:T6 Arg2:T2	
+R2	Subj Arg1:T6 Arg2:T1	
+T7	Spatial-Relation 85 96	to the left
+R3	Obj Arg1:T7 Arg2:T2	
+T8	Spatial-Relation 129 132	top
+R4	Obj Arg1:T8 Arg2:T2	
+R5	Obj Arg1:T8 Arg2:T1	

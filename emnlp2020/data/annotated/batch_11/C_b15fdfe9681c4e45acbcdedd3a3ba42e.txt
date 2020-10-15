@@ -1,0 +1,5 @@
+1: Do you have a light larger Dot and above it and to the left is a small light dot?
+0: I have a smaller dark dot next to a large gray dot
+1: I have zero black dots
+0: I have the larger gray dot and above it a smaller gray dot
+1: Click your smallest lightest dot

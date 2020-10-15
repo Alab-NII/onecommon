@@ -1,0 +1,5 @@
+T2	Markable 87 97	each other
+T3	Markable 200 213	the right dot
+T4	Markable 18 44	two medium sized gray dots
+R1	Anaphora Arg1:T2 Arg2:T4	
+T1	Markable 128 132	they

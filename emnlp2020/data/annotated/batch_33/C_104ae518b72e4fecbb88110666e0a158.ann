@@ -1,0 +1,13 @@
+T1	Markable 10 38	one very dark very small dot
+T2	Markable 40 42	it
+T3	Markable 112 136	one very dark small spot
+T4	Markable 221 225	that
+T5	Markable 242 262	a line of three dots
+T6	Markable 291 303	the leftmost
+T7	Markable 234 236	it
+T8	Markable 417 438	the darkest small dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T10	Markable 47 82	a similar size but much lighter dot
+T11	Markable 145 173	the similar size but lighter
+T12	Markable 264 268	each
+R2	Anaphora Arg1:T12 Arg2:T5	

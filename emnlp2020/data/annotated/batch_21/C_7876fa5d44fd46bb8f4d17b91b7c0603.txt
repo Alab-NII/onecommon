@@ -1,0 +1,5 @@
+0: i have 3 dots that are light colored grey and are angled . middle one is smallest
+1: I don't see three like that unfortunately
+0: I have another 2 dots that are also angled. upper left is darker and smaller. lower right is lighter grey and bigger
+1: I have those! Pick the upper, darker dot
+0: Ok!

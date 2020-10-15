@@ -1,0 +1,3 @@
+0: do you see a small black dot alone
+1: i have 5 black dots, theres a medium one very alone, a smaller black dot with another black dot, slightly larger to its right with another small black dot below that one.
+0: let's try it. that must be it. medium, alone.

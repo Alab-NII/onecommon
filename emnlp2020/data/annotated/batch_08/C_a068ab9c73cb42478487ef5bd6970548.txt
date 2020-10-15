@@ -1,0 +1,5 @@
+0: I see an almost perfect triangle of dark dots very similar in size
+1: i see a light gray do above a black dot
+0: Hmm is there a bigger dark dot to the right and bottom of the black dot?
+1: yes
+0: K click on the black dot

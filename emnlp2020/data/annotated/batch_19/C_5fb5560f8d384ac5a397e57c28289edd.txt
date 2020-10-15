@@ -1,0 +1,7 @@
+1: I have a large grey dot in the lower left corner, do you have this one?
+0: yes. is there a darker gray dot to the right of it?
+1: no. I have lighter grey dot to the right and then another slightly darker to the right.
+0: I dont have those. what about a large black dot, with a small black dot to the left and not very close
+1: Yes I do have those.
+0: lets choose the larger black dot
+1: ok

@@ -1,0 +1,5 @@
+1: I got a massive mid grey dot with a slightly smaller light grey dot below it and to the right. You got that pair ? If so go for black.
+0: No I don't. I have 2 dots, same size and color but one is above and to the right.
+1: I got no pairs that are the same color. You got a tiny black one ?
+0: Nope, I have a tiny light gray and below it and slightly to the left is a bigger darker dot
+1: I got that pair. Go for the bigger darker dot!

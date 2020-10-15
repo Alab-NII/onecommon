@@ -1,0 +1,3 @@
+0: perfect triangle with the tip of the triangle a very small light gray dot?
+1: yes i see that lets hit the small light gray dot
+0: k

@@ -1,0 +1,5 @@
+1: line of dots with a large dark grey one, small dark grey one and a small lighter grey one
+0: is the large dark grey in the middle? if not where is in the line?
+1: its all the way to the left, the first one for me. i listed them in the order they are in for me
+0: k is the smallest one to the right pretty far away?
+1: Yes. click that one

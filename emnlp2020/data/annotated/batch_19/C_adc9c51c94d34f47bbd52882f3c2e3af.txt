@@ -1,0 +1,4 @@
+1: large black dot, right center?
+0: no, three dots different shade and size in line horizontally and slightly angling up, darkest is the dot most outside of the 3 to the right
+1: yes, I have those 3 dots. choose the middle one?
+0: ok sure

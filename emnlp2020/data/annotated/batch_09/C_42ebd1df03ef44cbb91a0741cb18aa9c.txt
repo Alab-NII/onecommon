@@ -1,0 +1,6 @@
+1: i have one smaller dark dot the other small is light gray
+0: Ok. Do you have three dark dots, each of different sizes with the largest in the middle and the small one below the other two
+1: no i have the smaller two dots in a line one dark one light
+0: I have one dot lighter than the rest. It is between two slightly larger and darker dots.
+1: yes lets choose the lighter
+0: ok

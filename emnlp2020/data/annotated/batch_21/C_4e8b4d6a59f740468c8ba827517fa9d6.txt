@@ -1,0 +1,4 @@
+1: I have one very large black dot
+0: I got a large black dot. Above and to the right is a smaller grey dot. There is a black dot to the left and very slightly above.
+1: I have that same dot you talk about. Let us select it
+0: I have selected, now you have to click on your big black dot.

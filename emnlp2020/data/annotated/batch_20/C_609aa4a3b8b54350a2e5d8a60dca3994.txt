@@ -1,0 +1,4 @@
+0: i have a medium black dot near 9:00 and a med black near 2:00 do u have either
+1: i have a med grey dot at 9 oclock oting at 2oclockhn
+0: click on that med grey at 9:00
+1: ok

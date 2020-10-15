@@ -1,0 +1,40 @@
+T1	Markable 45 61	two smaller ones
+T2	Markable 10 27	a larger gray dot
+T3	Markable 91 98	the one
+T4	Markable 63 75	the left one
+T5	Markable 353 379	a slightly bigger gray dot
+T6	Markable 318 337	an almost black dot
+T7	Markable 402 423	this almost black dot
+T8	Markable 125 141	a large dark dot
+T9	Markable 204 208	this
+R1	Anaphora Arg1:T9 Arg2:T8	
+T10	Markable 224 231	the one
+A1	No-Referent T10
+T11	Markable 267 283	a tiny black dot
+T12	Spatial-Relation 12 18	larger
+T13	Spatial-Relation 28 44	in the middle of
+T14	Spatial-Relation 49 56	smaller
+R2	Obj Arg1:T14 Arg2:T2	
+T15	Spatial-Relation 67 71	left
+T16	Spatial-Relation 79 86	lighter
+T17	Spatial-Relation 99 111	to the right
+R3	Obj Arg1:T17 Arg2:T4	
+T18	Spatial-Relation 115 121	darker
+R4	Obj Arg1:T18 Arg2:T4	
+T19	Spatial-Relation 142 162	closer to the border
+A2	No-Obj T19
+T20	Modifier 167 170	not
+T21	Spatial-Relation 171 190	touching the border
+A3	No-Obj T21
+T22	Spatial-Relation 232 251	close to the border
+A4	No-Obj T22
+T23	Spatial-Relation 284 303	close to the border
+A5	No-Obj T23
+T24	Spatial-Relation 338 352	to the left of
+T25	Modifier 355 363	slightly
+T26	Spatial-Relation 364 370	bigger
+R5	Obj Arg1:T26 Arg2:T6	
+#1	AnnotatorNotes T19	outside
+#2	AnnotatorNotes T22	outside
+#3	AnnotatorNotes T23	outside
+A6	Canonical-Undefined T21

@@ -1,0 +1,17 @@
+T1	Markable 29 44	the dotted line
+T2	Markable 9 19	a gray dot
+T3	Markable 123 144	a smaller lighter dot
+T4	Markable 72 88	a huge black dot
+T5	Markable 160 168	that one
+T7	Markable 190 209	the large black dot
+T6	Spatial-Relation 45 57	at 1 o'clock
+A1	No-Obj T6
+T8	Spatial-Relation 20 44	touching the dotted line
+A2	No-Obj T8
+T9	Spatial-Relation 89 103	to the left of
+T10	Modifier 108 116	slightly
+T11	Spatial-Relation 117 122	above
+T12	Spatial-Relation 125 140	smaller lighter
+R1	Obj Arg1:T12 Arg2:T4	
+#1	AnnotatorNotes T8	outside
+#2	AnnotatorNotes T6	above;right

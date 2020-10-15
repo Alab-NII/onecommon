@@ -1,0 +1,5 @@
+1: 4 dots. They make a trapezoid from the side.
+0: I have one large dot lighter, next to a dark dot
+1: Is the dot still a dark gray? The next is just black but small?
+0: Yes it is
+1: Let's try the big gray dot. left.

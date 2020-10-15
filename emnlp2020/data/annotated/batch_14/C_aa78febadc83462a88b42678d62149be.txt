@@ -1,0 +1,3 @@
+0: do you see a light gray towards the top all by itself?
+1: I think so,. Up top kind of off to the side a little?
+0: yes, click that one

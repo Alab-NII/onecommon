@@ -1,0 +1,5 @@
+1: large light next to large dark, different sizes?
+0: is the dark one on the top to the left of the light one?
+1: yes
+0: lets select the light one
+1: ok

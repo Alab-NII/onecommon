@@ -1,0 +1,7 @@
+0: i have one lonely black med dot at 2 o clock
+1: I dont have any block dots. i have one smaller very light dot. it has 3 other dots that are pretty near
+0: i have a triangle group at the top left around 10 o clock and 11 o clock
+1: yes, is the top of the triangle very light?
+0: so one of mine is very light
+1: sorry, i am confused. is the bottom right of the triangle the darkest?
+0: yes lets hit the very light one

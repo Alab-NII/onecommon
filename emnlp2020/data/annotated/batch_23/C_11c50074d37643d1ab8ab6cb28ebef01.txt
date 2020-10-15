@@ -1,0 +1,3 @@
+1: 2 dots beside each other vertically. top one is darker. similar sizes. angled in a way
+0: ok pick darker one
+1: ok

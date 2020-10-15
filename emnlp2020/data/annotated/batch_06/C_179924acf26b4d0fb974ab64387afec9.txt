@@ -1,0 +1,4 @@
+1: do you see a large dark grey with a slightly smaller black dot close by. a bit above, and bit to the left
+0: my smaller dot is up to the right
+1: i meant to say, "and a bit to the right" at the end there
+0: then yes, pick the higher dot

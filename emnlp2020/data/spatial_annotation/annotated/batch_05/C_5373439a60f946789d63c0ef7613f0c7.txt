@@ -1,0 +1,6 @@
+1: Hello! Where's your dot?
+0: I have a line slanted to the right with 2 medium size black dots and a larger dot lighter to at the end
+1: I don't have those in my circle. How about 5 dots that look like a half moon?
+0: opening faces the left?
+1: Yes and the bottom one is the lightest of the dots
+0: yes chose the bottom one

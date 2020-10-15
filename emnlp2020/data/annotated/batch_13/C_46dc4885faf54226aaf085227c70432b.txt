@@ -1,0 +1,5 @@
+1: All my dots are black or dark dark grey. I only have 1 single light grey dot
+0: I don't have a light gray dot. Mine are all dark gray or black. I see one tiny dot that is almost black, but not black.
+1: I see 2 tiny black-ish ones next to each other. slightly smaller one is left and above the other one.
+0: They are going in a \ direction? If so , let's choose the upper left.
+1: yes they are! OK

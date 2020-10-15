@@ -1,0 +1,8 @@
+1: I see a little gray dot.
+0: is it to the right and slightly below a large dark grey dot?
+1: No. It is close to the round outline of the circle.
+0: which quadrant of the circle?
+1: It is to the left side.
+0: I don't see it
+1: there are two of them the same size.
+0: I have two little grey dots but neither of them are to the left

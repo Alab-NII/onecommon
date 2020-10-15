@@ -1,0 +1,15 @@
+T1	Markable 9 32	the largest darkest dot
+T2	Markable 130 144	a cluster of 5
+T3	Markable 148 161	the top three
+T4	Markable 222 237	largest of them
+T5	Markable 184 194	bottom two
+T6	Markable 263 275	your cluster
+T7	Markable 290 315	the top small darkest one
+T8	Markable 373 384	the cluster
+T9	Markable 353 369	the lightest one
+T10	Markable 420 430	a triangle
+T11	Markable 462 485	that small/dark top one
+T12	Markable 57 75	a much lighter dot
+T13	Markable 321 335	the larger one
+R1	Predicative Arg1:T9 Arg2:T13	
+T14	Markable 393 408	the topmost one

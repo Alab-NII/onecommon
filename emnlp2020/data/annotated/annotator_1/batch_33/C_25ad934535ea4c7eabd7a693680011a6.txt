@@ -1,0 +1,9 @@
+0: small lonely gray dot
+1: I have two large dark dots with small dots off to the sides of them.
+0: are the small dots light and med gray?
+1: they are. with another small dot to the left of the tiny dark one on the left.
+0: ok are your dots black and dark gray? with the dark gray on the right
+1: appears so. with a single tiny light dot off to the top right of the dark gray
+0: lets choose the large black dot
+1: the one on the left correct?
+0: yes

@@ -1,0 +1,10 @@
+T1	Markable 41 48	the one
+T2	Markable 110 115	those
+T3	Markable 128 144	a large dark dot
+T4	Markable 232 266	a similarly sized, but lighter dot
+T5	Markable 432 466	a smaller lonely light colored dot
+T6	Markable 485 487	it
+T7	Markable 3 24	two same colored dots
+T8	Markable 183 187	what
+A1	No-Referent T8
+T9	Markable 333 365	a slightly larger and darker dot

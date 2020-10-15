@@ -1,0 +1,20 @@
+T1	Markable 9 36	a tiny, lonely mid-dark dot
+T2	Markable 111 113	it
+T5	Markable 131 134	two
+T6	Markable 212 215	One
+T7	Markable 249 261	a larger dot
+T8	Markable 314 326	a larger dot
+T9	Markable 370 379	four dots
+T10	Markable 470 491	a smaller lighter dot
+T11	Markable 524 544	a tiny dark grey got
+T12	Markable 621 643	the two identical dots
+T13	Markable 582 604	the tiny dark grey dot
+T14	Markable 566 576	a triangle
+T15	Markable 556 560	they
+T16	Markable 676 706	the smallest, darkest grey one
+T18	Markable 98 105	no dots
+A1	No-Referent T18
+T3	Markable 291 300	The other
+T4	Markable 398 415	the left-most two
+#1	AnnotatorNotes T11	a tiny dark grey dot
+R1	Predicative Arg1:T14 Arg2:T15	

@@ -1,0 +1,5 @@
+T1	Markable 40 47	top one
+T2	Markable 101 111	darker one
+T3	Markable 3 9	2 dots
+T4	Markable 17 27	each other
+R1	Anaphora Arg1:T4 Arg2:T3	

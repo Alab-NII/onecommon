@@ -1,0 +1,7 @@
+1: I have a line going down to the lefts of 4 dots.
+0: I have three dark grey/black spots. one big, 2 small
+0: are they kind of diagonal
+1: Yes it goes down to the right?
+0: i have a line of four dots. three dark grey one medium large gray is the top one
+1: yeah its the same line! Choose the med gray which is also the biggest
+0: done

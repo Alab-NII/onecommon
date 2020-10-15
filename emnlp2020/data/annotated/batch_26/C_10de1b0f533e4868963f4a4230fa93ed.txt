@@ -1,0 +1,3 @@
+0: cluster of many dots like 3-6. farthest left is dark grey smallish
+1: I have one large dark gray with a small dark gray directly to the right and slightly above it, do you have this grouping?
+0: I have that. pick the small dark grey dot to the right and slightly above

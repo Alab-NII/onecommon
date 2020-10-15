@@ -1,0 +1,7 @@
+T1	Markable 34 47	two tiny dots
+T2	Markable 62 72	each other
+T3	Markable 74 88	The bottom one
+T4	Markable 129 140	the top one
+T5	Markable 156 169	the light one
+T6	Markable 3 22	black med sized dot
+R1	Anaphora Arg1:T2 Arg2:T1	

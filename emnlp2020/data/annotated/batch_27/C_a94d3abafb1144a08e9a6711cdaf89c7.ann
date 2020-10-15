@@ -1,0 +1,13 @@
+T1	Markable 35 38	all
+T3	Markable 150 157	the one
+T4	Markable 174 190	your linear line
+T6	Markable 199 201	It
+T7	Markable 230 237	the one
+T8	Markable 330 342	the triangle
+T9	Markable 311 326	one of the dots
+T11	Markable 283 302	a light smaller dot
+T12	Markable 356 369	the light dot
+T13	Markable 3 20	3 large dark dots
+T14	Markable 21 22	2
+R1	Anaphora Arg1:T1 Arg2:T13	
+T15	Markable 62 78	perfect triangle

@@ -1,0 +1,4 @@
+0: Do you have two very small very light dots kind of close to each other?
+1: yes the smaller one is left and slightly lower
+0: yes. lets choose the left one
+1: ok

@@ -1,0 +1,16 @@
+T1	Markable 10 34	one very small black dot
+T2	Markable 45 51	7 dots
+T4	Markable 138 167	one very small light gray dot
+T5	Markable 179 200	a very light gray dot
+T6	Markable 225 233	that one
+A1	All-Referents T2
+T7	Markable 53 54	3
+T8	Markable 77 78	4
+T3	Spatial-Relation 55 62	grouped
+T9	Spatial-Relation 79 89	in a group
+T10	Spatial-Relation 90 122	on the bottom half of the circle
+T11	Spatial-Relation 63 75	near the top
+A2	No-Obj T3
+A3	No-Obj T11
+A4	No-Obj T9
+A5	No-Obj T10

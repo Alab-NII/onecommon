@@ -1,0 +1,7 @@
+0: black very lone dot lower left of cirlcle
+1: how big is it because I may not have that one!
+0: medium sized
+1: is there two darker ones above it that are also similar, dark colored?
+0: no
+1: Do you have a very light colored dot, albino in appearance, medium/small
+0: yes, click that one?

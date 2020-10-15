@@ -1,0 +1,5 @@
+1: two large grey dots 1 slightly lower and right
+0: no, dark dark grey dot, straight to the left is a small light grey, below to the left is a medium size medium grey dot
+1: do you see a large dot alone fairly dark
+0: yes
+1: select that dot

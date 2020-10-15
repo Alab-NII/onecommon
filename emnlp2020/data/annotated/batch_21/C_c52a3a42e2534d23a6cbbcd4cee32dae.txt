@@ -1,0 +1,5 @@
+0: I have one lone large black dot?
+1: Is it next to a much lighter gray dot?
+0: MIne is on the far left so your vantage could be off from mine?
+1: Yes, I think I know which one you have. Want to try it/
+0: yes sounds good! Thanks partner!

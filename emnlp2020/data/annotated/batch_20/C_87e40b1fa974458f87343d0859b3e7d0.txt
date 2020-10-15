@@ -1,0 +1,5 @@
+1: Hi I have 4 really close together, with a black medium sized one next to a larger light gray one?
+0: I have one dark dot about an inch for the edge at the 9 o'clock area, I have one dark that is slightly centered
+1: The position doesnt help, our circles are different. We need to focus on whats next to the dots. Do you see the 2 larger ones really close to each other?
+0: I have 4 close together towards the bottom on my circle, from left to right, dark small dot, big dark dot, big light dot and slightly dark big dot
+1: Click the big dark dot

@@ -1,0 +1,4 @@
+0: Tiny dark dot, above it are two small dots, to the right of it and a little lower is a large grey dot
+1: 3 dark dots forming a triangle with that smallest at the top point
+0: Do not see yours
+1: pick the tiny dark dot you were talking about

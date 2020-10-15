@@ -1,0 +1,10 @@
+T1	Markable 37 59	a slightly smaller one
+T2	Markable 14 31	a large, dark dot
+T3	Markable 109 111	it
+T4	Markable 122 124	it
+T5	Markable 228 240	a larger dot
+T6	Markable 290 309	the large, dark dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+T7	Markable 136 146	an L shape
+R2	Predicative Arg1:T7 Arg2:T4	
+T8	Markable 208 222	the big dipper

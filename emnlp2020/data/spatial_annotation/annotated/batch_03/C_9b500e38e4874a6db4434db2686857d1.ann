@@ -1,0 +1,66 @@
+T2	Markable 15 53	a pair of nearly horizontal small dots
+T3	Markable 94 101	the dot
+T4	Markable 199 207	the pair
+T5	Markable 161 173	a larger dot
+T6	Markable 219 232	the same dots
+T7	Markable 260 268	the pair
+T8	Markable 247 253	no dot
+T9	Markable 339 358	a smaller black dot
+T10	Markable 375 377	it
+T12	Markable 440 461	the smaller black dot
+T13	Markable 524 536	the grey dot
+T14	Markable 616 639	the original small pair
+T15	Markable 591 612	the left blackish dot
+T1	Spatial-Relation-Markable 55 59	Left
+T16	Markable 106 114	The left
+T17	Markable 128 137	the right
+A1	No-Referent T8
+T18	Markable 276 284	the pair
+T19	Markable 382 390	The ones
+T11	Markable 496 500	they
+T20	Spatial-Relation 17 21	pair
+A2	No-Obj T20
+T21	Modifier 25 31	nearly
+T22	Spatial-Relation 32 42	horizontal
+A3	No-Obj T22
+R1	Obj Arg1:T1 Arg2:T2	
+T23	Spatial-Relation 63 69	darker
+R2	Obj Arg1:T23 Arg2:T2	
+T24	Spatial-Relation 110 114	left
+T25	Spatial-Relation 132 137	right
+R3	Obj Arg1:T25 Arg2:T16	
+T26	Spatial-Attribute 118 123	black
+T27	Spatial-Attribute 141 152	medium grey
+T28	Spatial-Relation 163 169	larger
+T29	Spatial-Relation 174 198	above and to the left of
+T30	Spatial-Relation 203 207	pair
+A4	No-Obj T30
+T31	Spatial-Relation 254 259	above
+T32	Spatial-Relation 264 268	pair
+A5	No-Obj T32
+T33	Spatial-Relation 280 284	pair
+A6	No-Obj T33
+T34	Spatial-Relation 285 317	near the top left of your screen
+A7	No-Obj T34
+T35	Spatial-Relation 341 348	smaller
+A8	No-Obj T35
+T36	Spatial-Relation 359 374	to the right of
+T37	Spatial-Relation 391 403	to the right
+R4	Obj Arg1:T37 Arg2:T2	
+T38	Modifier 408 413	quite
+T39	Spatial-Relation 414 422	far away
+R5	Obj Arg1:T39 Arg2:T2	
+T40	Spatial-Relation 444 451	smaller
+A9	No-Obj T40
+A10	Ambiguous-Obj T40
+T41	Spatial-Relation 505 512	smaller
+A11	No-Obj T41
+T42	Spatial-Relation 595 599	left
+T43	Spatial-Relation 613 615	of
+T44	Spatial-Relation 635 639	pair
+A12	No-Obj T44
+A13	Mod-Uncertainty-Approximation T21
+T45	Modifier 141 147	medium
+A14	Mod-Neutral T45
+A15	Mod-Extremity T38
+A16	Canonical-Undefined T34

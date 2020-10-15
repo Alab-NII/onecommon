@@ -1,0 +1,3 @@
+1: large light grey dot, slightly above and to the right of it is a small dark grey dot, below it is a small medium grey dot?
+0: yes, choose the largest one
+1: ok

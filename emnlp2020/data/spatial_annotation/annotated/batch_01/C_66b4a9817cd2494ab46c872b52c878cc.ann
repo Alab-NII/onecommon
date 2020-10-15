@@ -1,0 +1,9 @@
+T1	Markable 36 52	a large dark dot
+T2	Markable 70 83	the small dot
+T3	Markable 3 15	smallest dot
+T4	Spatial-Relation 3 11	smallest
+A1	No-Obj T4
+T5	Spatial-Attribute 19 23	dark
+T7	Spatial-Relation 24 35	right below
+T8	Spatial-Attribute 84 89	black
+#1	AnnotatorNotes T7	near below

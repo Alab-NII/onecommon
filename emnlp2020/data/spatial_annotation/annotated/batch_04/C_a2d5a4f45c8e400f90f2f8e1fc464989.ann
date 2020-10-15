@@ -1,0 +1,20 @@
+T1	Markable 30 32	it
+T2	Markable 41 49	anything
+T3	Markable 56 58	it
+T4	Markable 97 99	it
+T5	Markable 64 89	a tinier lighter gray dot
+T6	Markable 134 147	the black one
+T7	Markable 161 170	black one
+T8	Markable 3 22	black med sized dot
+A1	Generic T2
+R1	Anaphora Arg1:T4 Arg2:T3	
+R2	Anaphora Arg1:T3 Arg2:T1	
+T9	Spatial-Relation 33 40	next to
+A2	No-Obj-Markable T9
+T10	Spatial-Relation 66 72	tinier
+T11	Spatial-Relation 73 85	lighter gray
+T12	Spatial-Relation 90 96	beside
+T13	Spatial-Relation 108 120	to the right
+R3	Subj Arg1:T13 Arg2:T5	
+R4	Obj Arg1:T13 Arg2:T4	
+#1	AnnotatorNotes T12	near

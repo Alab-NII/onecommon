@@ -1,0 +1,3 @@
+0: Big black dot in center low small grey under
+1: 2 dark dots same color close together with bigger one to the left
+0: Ok click the bigger one

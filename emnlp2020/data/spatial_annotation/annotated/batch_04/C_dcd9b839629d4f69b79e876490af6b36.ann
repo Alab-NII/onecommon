@@ -1,0 +1,40 @@
+T1	Markable 14 31	a large black dot
+T2	Markable 35 41	itself
+T3	Markable 62 78	All 7 of my dots
+T4	Markable 120 126	itself
+T5	Markable 144 161	a large light dot
+T6	Markable 381 395	tiny black dot
+T7	Markable 416 437	a tiny light gray dot
+T8	Markable 482 492	each other
+T9	Markable 510 528	the right-most one
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	All-Referents T3
+T10	Markable 109 116	no dots
+A2	No-Referent T10
+R2	Anaphora Arg1:T4 Arg2:T10	
+A3	No-Referent T4
+T11	Markable 258 262	What
+A4	Generic T11
+T12	Markable 301 305	What
+A5	Generic T12
+T13	Markable 453 472	3 medium black dots
+R3	Anaphora Arg1:T8 Arg2:T13	
+T14	Spatial-Relation 32 34	by
+T15	Spatial-Relation 42 57	at the very top
+T16	Modifier 49 53	very
+A6	No-Obj T15
+T17	Spatial-Relation 87 105	clustered together
+A7	No-Obj T17
+T18	Spatial-Relation 117 119	by
+T19	Spatial-Relation 162 181	touching the circle
+A8	No-Obj T19
+T20	Spatial-Relation 182 212	at the very bottom to the left
+A9	No-Obj T20
+T21	Modifier 189 193	very
+T22	Spatial-Relation 473 481	close to
+T23	Spatial-Relation 514 524	right-most
+#1	AnnotatorNotes T23	right most
+R4	Obj Arg1:T23 Arg2:T13	
+#2	AnnotatorNotes T14	alone
+#3	AnnotatorNotes T18	alone
+#4	AnnotatorNotes T19	outside

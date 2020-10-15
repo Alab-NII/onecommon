@@ -1,0 +1,3 @@
+0: two dots very close together one very large light grey?
+1: Does it have darker small dot below it
+0: yes almost black. If so click the black one

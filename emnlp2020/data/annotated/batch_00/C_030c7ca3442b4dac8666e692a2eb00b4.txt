@@ -1,0 +1,3 @@
+0: I see a light grey dot, medium, by itself
+1: me too
+0: lets pick it

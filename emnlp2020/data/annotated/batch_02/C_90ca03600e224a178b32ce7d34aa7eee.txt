@@ -1,0 +1,3 @@
+0: I have a large grey dot near the middle
+1: Perfect, I have one large gray dot as well. Do you want to select that?
+0: Yes! Have a great day! :)

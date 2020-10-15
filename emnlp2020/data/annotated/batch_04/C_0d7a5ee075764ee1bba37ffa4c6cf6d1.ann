@@ -1,0 +1,18 @@
+T1	Markable 92 95	two
+T2	Markable 68 74	3 dots
+T4	Markable 110 113	two
+T5	Markable 133 144	All of mine
+T6	Markable 360 371	2 dark gray
+T7	Markable 330 344	two light gray
+T8	Markable 418 428	a triangle
+T9	Markable 434 444	three dots
+T11	Markable 474 501	one of the medium gray ones
+T12	Markable 535 547	the triangle
+T13	Markable 56 57	7
+A1	All-Referents T13
+A2	All-Referents T5
+T3	Markable 224 237	2 very light,
+T14	Markable 238 246	5 medium
+T15	Markable 346 354	3 medium
+R1	Predicative Arg1:T9 Arg2:T8	
+T16	Markable 459 463	same

@@ -1,0 +1,4 @@
+1: three dots close together in a triangle?
+0: yes the bottom point is largest?
+1: yes! and darkest click that one
+0: ok

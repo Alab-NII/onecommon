@@ -1,0 +1,3 @@
+1: 3 black in a row... diagonally
+0: I believe I have that
+1: Pick largest black

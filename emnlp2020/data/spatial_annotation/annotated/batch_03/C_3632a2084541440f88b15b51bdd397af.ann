@@ -1,0 +1,13 @@
+T1	Markable 14 37	a large, very black dot
+T2	Markable 54 61	the one
+T3	Markable 78 80	it
+T4	Markable 97 99	it
+T5	Markable 48 53	thats
+R1	Predicative Arg1:T2 Arg2:T5	
+T6	Modifier 100 108	slightly
+T7	Spatial-Relation 109 119	off center
+A1	No-Obj T7
+T9	Spatial-Relation 131 138	central
+A2	No-Obj T9
+A3	Canonical-Undefined T7
+#1	AnnotatorNotes T9	center

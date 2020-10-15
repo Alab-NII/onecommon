@@ -1,0 +1,5 @@
+T1	Markable 15 43	one larger lightest grey dot
+T2	Markable 61 63	it
+T3	Markable 70 76	itself
+T4	Markable 106 114	that one
+R1	Anaphora Arg1:T3 Arg2:T2	

@@ -1,0 +1,7 @@
+0: bunch of greys
+1: Do you dark gray med size on the left
+0: three to the right of it?
+1: yes
+0: nothing below
+1: nope
+0: that is it

@@ -1,0 +1,5 @@
+T1	Markable 10 36	a pair of large light ones
+T3	Markable 99 106	the one
+T4	Markable 83 87	that
+T2	Markable 51 61	each other
+R1	Anaphora Arg1:T2 Arg2:T1	

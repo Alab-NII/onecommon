@@ -1,0 +1,14 @@
+T1	Markable 75 79	that
+T3	Markable 137 141	they
+T4	Markable 209 227	2 medium grey dots
+T5	Markable 240 253	the right one
+T6	Markable 306 324	2 medium grey ones
+T7	Markable 276 293	2 light grey ones
+T8	Markable 363 375	the left one
+T9	Markable 341 356	2 med grey ones
+T10	Markable 403 407	they
+T11	Markable 461 468	the one
+T12	Markable 15 41	a larger almost black spot
+T13	Markable 62 68	2 dots
+T2	Markable 179 196	2 light grey dots
+R1	Anaphora Arg1:T10 Arg2:T9	

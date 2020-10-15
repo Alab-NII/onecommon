@@ -1,0 +1,5 @@
+0: i have 2 pairs of 2 dots that are aligned at an angle. One pair where right lower is black and bigger. The other pair where upper left is slightly bigger
+1: i have nothing like that. I have 2 large dark grey ones spread out... the left one has a very small slightly lighter one to it's lower right. the Right large one has two very small slightly lighter ones to it's right
+0: I have those. are those two dots tiny tiny? similar colors?
+1: yes to the right of the circle? the right tiny one is slightly higher?
+0: Yeah. let's choose the right tiny one slightly higher!

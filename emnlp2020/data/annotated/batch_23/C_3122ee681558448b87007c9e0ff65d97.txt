@@ -1,0 +1,5 @@
+0: I have my two smallest dots diagonal from each other. The one on the bottom right is darker. They're both tiny
+1: Tiny grey dot, left and slightly above it is a small lighter shade dot
+0: Yes I have that. Choose the tiny dot you described
+1: Take left lighter and larger
+0: The left is what you described? The slightly larger?

@@ -1,0 +1,4 @@
+0: there is a large black dot at the lower right of my circle
+1: all of my dots are fairly large and dark except one is much lighter than the others
+0: Do you have 2 dark gray dots on the left one above the other?
+1: yes! Lets pick the top one

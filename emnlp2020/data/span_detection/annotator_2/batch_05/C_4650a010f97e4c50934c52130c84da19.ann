@@ -1,0 +1,14 @@
+T1	Markable 90 97	the one
+T2	Markable 35 42	The one
+T3	Markable 58 84	a very large dark grey dot
+T4	Markable 147 149	it
+T5	Markable 157 169	the tiny one
+T6	Markable 10 13	two
+R1	Predicative Arg1:T3 Arg2:T2	
+T7	Modifier 14 18	VERY
+T8	Spatial-Relation 19 33	close together
+T9	Spatial-Relation 43 54	on the left
+T10	Spatial-Relation 98 110	on the right
+T11	Spatial-Attribute 114 118	tiny
+T12	Modifier 123 128	a bit
+T13	Spatial-Relation 129 136	lighter

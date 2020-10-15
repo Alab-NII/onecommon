@@ -1,0 +1,10 @@
+0: How many dots do you see?
+1: I have a light grey, large dot that is to the left and lower to a dark grey dot, almost black... I have 7 total
+0: I also have seven. I think I also have the light grey large dot
+1: Yes its large and about an inch lower and to the left of the black smaller dot
+0: Do you have two medium gray dots above the dark, almost black dot?
+1: no. I have one medium, dark grey all alone
+0: Which side of your circle is the dark dot on?
+1: kind of centered about an inch away from bottom border
+0: Is the medium, dark gray dot directly on top about an inch or so away?
+1: yes lets go with the large, light grey dot

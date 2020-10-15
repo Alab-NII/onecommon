@@ -1,0 +1,6 @@
+T1	Markable 10 27	a small black dot
+T2	Markable 72 82	a triangle
+T3	Markable 98 102	that
+T4	Markable 113 120	the dot
+T5	Markable 53 60	a group
+R1	Predicative Arg1:T2 Arg2:T5	

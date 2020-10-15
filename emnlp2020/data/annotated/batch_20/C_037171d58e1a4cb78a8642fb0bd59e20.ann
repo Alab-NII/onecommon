@@ -1,0 +1,30 @@
+T1	Markable 33 41	the rest
+T2	Markable 95 99	they
+T3	Markable 117 127	each other
+T4	Markable 186 196	each other
+T5	Markable 226 235	the other
+T6	Markable 198 201	one
+T7	Markable 304 306	it
+T8	Markable 276 297	a very light grey dot
+T9	Markable 357 380	the slightly larger one
+T10	Markable 327 350	the very light grey dot
+T11	Markable 453 460	the one
+T12	Markable 441 451	each other
+T13	Markable 497 501	they
+T14	Markable 405 424	two light grey dots
+T15	Markable 535 560	those two light grey dots
+T16	Markable 570 580	each other
+T17	Markable 584 588	they
+T18	Markable 629 644	the lighter one
+T19	Markable 10 31	two dark grey circles
+T20	Markable 67 88	two dark grey circles
+R1	Anaphora Arg1:T2 Arg2:T20	
+R2	Anaphora Arg1:T3 Arg2:T20	
+T21	Markable 143 168	the two dark grey circles
+R3	Anaphora Arg1:T4 Arg2:T21	
+T22	Markable 240 263	The slightly larger one
+R4	Anaphora Arg1:T7 Arg2:T22	
+A1	No-Referent T10
+R5	Anaphora Arg1:T12 Arg2:T14	
+R6	Anaphora Arg1:T16 Arg2:T15	
+R7	Anaphora Arg1:T17 Arg2:T15	

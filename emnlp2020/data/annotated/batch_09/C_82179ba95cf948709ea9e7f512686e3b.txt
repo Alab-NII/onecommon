@@ -1,0 +1,7 @@
+0: I see 3 dots on the circle that are aligned almost vertically and they are decreasing in size.
+1: I see 4 dots that make like a rhombus in a way. The two on the left are dark, the two on the right are light.
+1: I don't see that.
+0: I see a dark black circle. The rest is lighter than that
+1: Is the second dot (that you were referring) is it dark medium?
+0: Actually. i see the rhombus now. Is the bottom left of the rhombus the darkest and biggest dot?
+1: Yes. Let's click that one.

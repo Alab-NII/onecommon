@@ -1,0 +1,4 @@
+1: Large light grey dot with slightly smaller medium grey dot directly below, very close, and slightly right
+0: two dots very close to each other, top one is large light, bottom one is medium medium
+1: Yes, we see the same dots. select larger light dot that is at top?
+0: top large it is

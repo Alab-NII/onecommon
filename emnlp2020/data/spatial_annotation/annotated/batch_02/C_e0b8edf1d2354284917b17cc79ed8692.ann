@@ -1,0 +1,21 @@
+T1	Markable 15 22	one dot
+T2	Markable 42 44	it
+T4	Markable 62 74	6 of my dots
+T5	Markable 114 117	one
+T7	Markable 146 148	it
+T8	Markable 165 169	that
+R1	Anaphora Arg1:T2 Arg2:T1	
+R3	Anaphora Arg1:T8 Arg2:T7	
+T6	Spatial-Attribute 31 36	black
+T9	Modifier 47 51	very
+T10	Spatial-Attribute 52 57	small
+T3	Spatial-Relation 79 91	in a cluster
+A1	No-Obj T3
+T11	Modifier 92 98	fairly
+T12	Spatial-Relation 99 113	close together
+A2	No-Obj T12
+T13	Spatial-Attribute 121 136	small and black
+T14	Modifier 151 157	pretty
+T15	Spatial-Attribute 158 163	small
+A3	Mod-Neutral T11
+A4	Mod-Extremity T14

@@ -1,0 +1,15 @@
+T1	Markable 129 146	a small black dot
+T2	Markable 169 171	it
+T3	Markable 56 62	a line
+T4	Markable 235 251	The smallest dot
+T6	Markable 362 366	that
+T7	Markable 3 19	The smallest dot
+T8	Markable 42 48	4 dots
+R1	Predicative Arg1:T3 Arg2:T8	
+T9	Markable 91 106	Dark Gray large
+T10	Markable 108 123	small dark gray
+R2	Anaphora Arg1:T2 Arg2:T10	
+T11	Markable 173 183	light gray
+T12	Markable 200 219	largest darker gray
+T13	Markable 269 272	its
+T5	Markable 302 314	a light gray

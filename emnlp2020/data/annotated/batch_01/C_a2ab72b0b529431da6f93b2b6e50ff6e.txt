@@ -1,0 +1,4 @@
+0: Hello! Wheres your dot?
+1: I see two large dots close together. The darker one is to the top left of the lighter one. They are similar size. Also we are on fire, just saying.
+0: Ha! I see the same, let's pick the darker one?
+1: ok!

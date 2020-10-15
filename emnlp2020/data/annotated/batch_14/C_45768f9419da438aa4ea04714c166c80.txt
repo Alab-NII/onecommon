@@ -1,0 +1,4 @@
+0: I see a very large dot, the rest are very small.
+1: I have two large dots, I have one large dark gray dot next to a medium sized dark gray dot
+0: yes I see the two you are referring two, lets choose the larger one;
+1: ok

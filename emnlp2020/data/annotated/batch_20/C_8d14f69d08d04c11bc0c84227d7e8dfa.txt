@@ -1,0 +1,6 @@
+0: I have two darker dots close together down lower
+1: i see a black dot with a slightly smaller black dot to its upper right
+0: I also have 3 dots close together that look like an upside down L
+1: oh. and i meant the smaller black dot was to the other dot's upper left, not right. sorry
+0: ok, I have that, we can pick the one to the upper left
+1: all right.

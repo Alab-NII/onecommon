@@ -1,0 +1,4 @@
+0: i have one tiny black dot off on its own to the left
+1: Is there a same sized medium gray dot far to it's right?
+0: yes. its slightly lighter in shade, but very similar in size.
+1: OK. Let's pick that black one by itself

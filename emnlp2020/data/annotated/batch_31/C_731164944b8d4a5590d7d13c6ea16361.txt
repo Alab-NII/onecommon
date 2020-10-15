@@ -1,0 +1,3 @@
+0: I see one medium black dot and one tiny dark gray dot below it and to the right.
+1: ok i see them, let's pick the tiny one, ok?
+0: ok

@@ -1,0 +1,4 @@
+1: Do you have a small black spot above 2 medium grey spots?
+0: is it the apex of a triangle? If so, yes
+1: Yes, it is the top spot of the triangle. Let's pick that black small circle.
+0: k

@@ -1,0 +1,4 @@
+0: Hello, I see a dark large dot, it has very small light dot under it on the right side
+1: hi is there another of the light one's same color, a little larger, to the small one's lower left?
+0: yes exactly, these 3 making a triangle, wanna select the largest one which is also the darkest?
+1: sure

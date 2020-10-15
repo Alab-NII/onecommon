@@ -1,0 +1,8 @@
+1: DO you have a large dark dot with a smaller medium dot below it and to the right?
+0: Yes, is there a smaller one above the darker one as well?
+1: my darkest dot is at the top of my circle. far below the dot to the left of the darkest dot is a pale dot.
+0: Yeah , I don't have that then.
+1: do you have a large medium dot with a paler medium sized dot above it to the left?
+0: Yes, I have that.
+1: want to select the large medium gray dot?
+0: Perfect

@@ -1,0 +1,3 @@
+0: i have a large grey dot with a lighter grey dot below it?
+1: yes i have those 2, wanna select the darker one on the top?
+0: yes

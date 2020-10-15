@@ -1,0 +1,15 @@
+T1	Markable 63 80	a large light one
+T2	Markable 110 112	it
+T3	Markable 160 168	anything
+T4	Markable 285 287	it
+T5	Markable 345 353	that dot
+T6	Markable 382 390	that one
+T7	Markable 413 415	it
+T8	Markable 403 406	one
+T9	Markable 15 45	one very small medium grey dot
+T10	Markable 84 87	its
+T11	Markable 172 176	it's
+T12	Markable 187 202	large dark grey
+A1	No-Referent T2
+T13	Markable 231 235	That
+A2	No-Referent T13

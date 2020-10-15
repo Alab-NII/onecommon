@@ -1,0 +1,6 @@
+0: Hello, I have a darker dot sort of by itself
+1: i have on black circle medium size to the left, where is yours
+0: Mine is the largest and to the right, by 3 o clock
+1: ok so not it how about a smallish darker gray to the left?
+0: My small gray dot is about medium gray, it's by 9 o clock
+1: ok lets do that one

@@ -1,0 +1,6 @@
+T1	Markable 15 29	a cluster of 4
+T2	Markable 71 82	the darkest
+T3	Markable 53 64	the top one
+T4	Markable 128 144	the top dark one
+R1	Predicative Arg1:T2 Arg2:T3	
+T5	Markable 104 108	an s

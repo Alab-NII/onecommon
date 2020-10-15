@@ -1,0 +1,16 @@
+T1	Markable 41 48	the one
+T2	Markable 10 18	two dots
+T3	Markable 105 115	one darker
+T4	Markable 121 130	the other
+T5	Markable 148 155	the one
+T6	Markable 185 193	that one
+T7	Spatial-Relation 19 39	horizontally aligned
+A1	No-Obj T7
+T8	Spatial-Relation 49 60	on the left
+R1	Obj Arg1:T8 Arg2:T2	
+T9	Modifier 64 72	slightly
+T10	Spatial-Relation 73 90	larger and darker
+R2	Obj Arg1:T10 Arg2:T2	
+T11	Spatial-Relation 109 115	darker
+T12	Spatial-Relation 156 167	on the left
+R3	Obj Arg1:T12 Arg2:T2	

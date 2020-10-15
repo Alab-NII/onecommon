@@ -1,0 +1,6 @@
+1: i see a small dark dot with 3 other dots in a tight group, next to it
+0: I have a small cluster of three gray dots( varying shades) with a black one to the bottom left
+1: is the farthest upper right dot light grey and largest?
+0: no in the middle of the three there is a large light gray with a small light gray one to the left
+1: ok I think we have the same set would you like to choose the small light gray to the left of the large light gray
+0: yes

@@ -1,0 +1,9 @@
+T1	Markable 92 97	those
+T2	Markable 38 48	group of 3
+T3	Markable 64 74	a tiny one
+T4	Markable 55 57	it
+T5	Markable 138 147	the group
+T6	Markable 108 120	the tiny one
+T7	Markable 3 26	Large med/dark grey one
+R1	Anaphora Arg1:T4 Arg2:T7	
+R2	Anaphora Arg1:T1 Arg2:T2	

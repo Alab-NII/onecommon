@@ -1,0 +1,18 @@
+T1	Markable 15 50	one medium sized very dark grey dot
+T3	Markable 144 148	that
+T4	Markable 161 163	it
+T5	Markable 246 254	anything
+T6	Markable 301 309	that one
+T7	Markable 332 336	they
+T8	Markable 387 391	they
+T9	Markable 424 438	that black one
+T10	Markable 55 68	black med dot
+T11	Markable 74 92	light grey med dot
+T12	Markable 103 106	its
+R1	Anaphora Arg1:T12 Arg2:T10	
+A1	No-Referent T3
+A2	Generic T5
+T2	Markable 265 269	it's
+T13	Markable 323 327	dots
+R4	Anaphora Arg1:T7 Arg2:T13	
+R5	Anaphora Arg1:T8 Arg2:T13	

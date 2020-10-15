@@ -1,0 +1,3 @@
+1: cluster of 3 dots really close together. bottom right dot is black and large
+0: click on bottom right
+1: gotcha 10 secs

@@ -1,0 +1,7 @@
+0: i have 1 large black dot to the right on the center and a small black dot just above it do u have either
+1: no, dont have that. do you have 2 small dots, light gray over darker gray?
+0: no put i have a med light grey by itself at 5:00 do u have it
+1: I have a med gray with another med gray to its upper right
+0: is it on the left side
+1: its on my right but we have different views.
+0: ok lets click on that light grey over the top of the dark grey

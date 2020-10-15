@@ -1,0 +1,4 @@
+1: I have a little medium gray dot just above a little light gray dot.
+0: i dont; i see darkest medium size black dot just to right of lightest grey medium dot near bottom of circle
+1: I have that too - let's pick the darkest one.
+0: k

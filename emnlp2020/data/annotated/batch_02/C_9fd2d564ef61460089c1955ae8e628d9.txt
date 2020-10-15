@@ -1,0 +1,4 @@
+0: Do you see a small black dot on the very edge at the top?
+1: i have a tiny black dot with a much larger light grey to lower left
+0: Yes, me too. Let's select the tiny black dot on the edge.
+1: ok

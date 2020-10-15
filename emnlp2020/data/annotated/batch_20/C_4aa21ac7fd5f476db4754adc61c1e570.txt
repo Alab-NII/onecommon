@@ -1,0 +1,5 @@
+0: Do you see four dots in a spaced out line?
+1: two med grey dots diagonal to one another?
+0: Yeah and one is slighter bigger than the other
+1: yes if the top one is off to the right and and slightly lighter click that top one!
+0: Okay!

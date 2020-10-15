@@ -1,0 +1,6 @@
+1: do you have a tiny black one toward the top? with a similar size med/grey one to it's lower right?
+0: i don't think i see that
+1: ok do you see a Large black dot, with a smaller med/grey one to it's left, slightly higher?
+0: i don't think so. i have a group of dots. a black one with a light one directly to it's right. to the right and higher to those two is a larger black dot. to the left and lower than those two is another larger black dot.
+1: i have those too. let's choose the largest, highest black one
+0: ok

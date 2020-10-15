@@ -1,0 +1,16 @@
+T1	Markable 68 93	a lighter grey bigger one
+T2	Markable 9 28	three grey dots one
+T3	Markable 103 126	a dark grey biggest one
+T5	Markable 151 172	a pair of larger ones
+T6	Markable 174 177	One
+T7	Markable 195 198	one
+T8	Markable 259 279	the lighter grey one
+T9	Markable 296 313	the dark grey one
+T10	Markable 339 344	yours
+T11	Markable 374 390	two smaller ones
+T12	Markable 351 368	the dark grey one
+T13	Markable 397 399	it
+T14	Markable 29 47	tiny and dark grey
+T4	Markable 215 236	the two large circles
+R1	Anaphora Arg1:T13 Arg2:T12	
+T15	Markable 420 431	darker grey

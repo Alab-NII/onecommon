@@ -1,0 +1,27 @@
+T1	Markable 83 99	a large grouping
+T2	Markable 134 152	the right most one
+T3	Markable 101 115	two black dots
+T4	Markable 178 188	black dots
+T5	Markable 202 210	3-4 dots
+T6	Markable 251 270	your large grey dot
+T7	Markable 3 9	4 dots
+T8	Spatial-Relation-Markable 37 43	bottom
+A1	No-Referent T4
+T9	Markable 297 301	what
+T10	Modifier 10 16	almost
+T11	Spatial-Relation 17 35	aligned vertically
+A2	No-Obj T11
+R1	Obj Arg1:T8 Arg2:T7	
+T12	Spatial-Attribute 47 67	large light grey dot
+T13	Spatial-Relation 91 99	grouping
+A3	No-Obj T13
+T14	Modifier 116 122	almost
+T15	Spatial-Relation 123 133	same sized
+A4	No-Obj T15
+T16	Spatial-Relation 138 148	right most
+R2	Obj Arg1:T16 Arg2:T3	
+T17	Spatial-Relation 156 162	larger
+R3	Obj Arg1:T17 Arg2:T3	
+T19	Spatial-Relation 220 241	form a triangle shape
+A5	No-Obj T19
+T20	Spatial-Relation 280 296	on the bottom of

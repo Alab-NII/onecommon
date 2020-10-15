@@ -1,0 +1,9 @@
+T1	Markable 26 47	2 larger lighter ones
+T2	Markable 63 82	a triangle of three
+T3	Markable 89 108	a large lighter one
+T5	Markable 147 164	a small dark ones
+T6	Markable 195 214	that small dark one
+T7	Markable 3 19	A small dark dot
+T4	Markable 128 143	the bottom left
+R1	Predicative Arg1:T5 Arg2:T4	
+T8	Markable 176 178	it

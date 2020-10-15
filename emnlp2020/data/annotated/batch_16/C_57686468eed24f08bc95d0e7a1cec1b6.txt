@@ -1,0 +1,4 @@
+1: I have three large dots in a diagonal line sloping down and to the right that get lighter as you go
+0: the largest dot i see has a small dot below and to the left that is darker
+1: Let's click the small dark one.
+0: ok

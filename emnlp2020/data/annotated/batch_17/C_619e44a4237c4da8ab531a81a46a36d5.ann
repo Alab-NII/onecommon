@@ -1,0 +1,12 @@
+T1	Markable 26 37	the darkest
+T2	Markable 39 42	its
+T3	Markable 51 62	a light dot
+T4	Markable 154 164	each other
+T5	Markable 96 123	two small almost black dots
+T6	Markable 174 184	the darker
+T7	Markable 201 224	the just barely lighter
+T8	Markable 258 272	the bottom one
+T9	Markable 3 17	my largest dot
+R1	Predicative Arg1:T1 Arg2:T9	
+R2	Anaphora Arg1:T2 Arg2:T9	
+R3	Anaphora Arg1:T4 Arg2:T5	

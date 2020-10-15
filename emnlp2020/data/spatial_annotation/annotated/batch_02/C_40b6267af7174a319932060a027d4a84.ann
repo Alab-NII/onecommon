@@ -1,0 +1,34 @@
+T1	Markable 48 56	the rest
+T2	Markable 17 24	one dot
+T3	Markable 151 176	a medium lighter gray dot
+T4	Markable 187 191	none
+T5	Markable 266 286	the small light gray
+T6	Markable 302 304	it
+T7	Markable 60 74	my largest dot
+T8	Markable 116 120	Mine
+T9	Markable 138 142	it's
+R1	Anaphora Arg1:T9 Arg2:T8	
+A1	No-Referent T4
+T10	Markable 216 234	a small light grey
+R2	Anaphora Arg1:T6 Arg2:T5	
+T11	Spatial-Relation 25 47	larger and darker than
+T12	Spatial-Relation 63 70	largest
+A2	No-Obj T12
+T13	Spatial-Attribute 78 87	dark gray
+T14	Modifier 92 98	almost
+T15	Spatial-Relation 99 112	in the center
+A3	No-Obj T15
+T16	Spatial-Relation 124 136	by 5 o clock
+A4	No-Obj T16
+T17	Spatial-Relation 143 150	next to
+T18	Spatial-Relation 192 207	around 5 oclock
+A5	No-Obj T18
+T19	Modifier 235 240	about
+T20	Spatial-Relation 241 250	8 o clock
+A6	No-Obj T20
+A7	Mod-Uncertainty-Approximation T14
+#1	AnnotatorNotes T16	right;below
+#2	AnnotatorNotes T17	near
+#3	AnnotatorNotes T18	right;below
+A8	Mod-Uncertainty-Approximation T19
+#4	AnnotatorNotes T20	left;below

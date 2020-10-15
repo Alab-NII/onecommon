@@ -1,0 +1,9 @@
+T1	Markable 10 16	3 dots
+T2	Markable 62 72	middle one
+T4	Markable 100 105	three
+T5	Markable 140 154	another 2 dots
+T6	Markable 260 265	those
+T7	Markable 272 293	the upper, darker dot
+A1	No-Referent T4
+T3	Markable 177 187	upper left
+T8	Markable 211 222	lower right

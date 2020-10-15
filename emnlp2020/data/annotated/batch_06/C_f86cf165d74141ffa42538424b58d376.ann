@@ -1,0 +1,9 @@
+T1	Markable 9 39	three sizes and shades of dots
+T3	Markable 50 56	a line
+T4	Markable 71 85	the other dots
+T5	Markable 92 103	the top one
+T7	Markable 174 177	its
+T8	Markable 278 287	that line
+T9	Markable 259 274	the darkest one
+T11	Markable 295 310	the darkest one
+R1	Predicative Arg1:T3 Arg2:T1	

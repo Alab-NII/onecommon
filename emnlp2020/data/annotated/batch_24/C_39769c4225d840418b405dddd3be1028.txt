@@ -1,0 +1,4 @@
+1: My largest dot is darkest gray and has a very light gray slightly smaller dot next to it.
+0: no , 1 massive dark dot with two larger lighter dots a light grey below to the right and light grey above to the left?
+1: Yes
+0: ok choose the large dark dot

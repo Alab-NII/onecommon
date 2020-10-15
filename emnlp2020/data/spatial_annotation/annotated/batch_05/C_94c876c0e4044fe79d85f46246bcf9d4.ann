@@ -1,0 +1,13 @@
+T1	Markable 14 24	the 3 dots
+T2	Markable 43 61	a big blackish one
+T3	Markable 104 117	a smaller one
+T4	Markable 96 98	it
+T5	Spatial-Relation 25 33	in a row
+A1	No-Obj T5
+T6	Spatial-Relation 63 87	towards center of screen
+A2	No-Obj T6
+T7	Spatial-Relation 99 103	have
+T8	Spatial-Relation 106 113	smaller
+R1	Obj Arg1:T8 Arg2:T4	
+T9	Spatial-Relation 118 129	to the left
+R2	Obj Arg1:T9 Arg2:T4	

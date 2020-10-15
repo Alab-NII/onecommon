@@ -1,0 +1,4 @@
+0: large black dot 8 oclock position?
+1: no. do you see large grey dots very close to each other. the slightly larger one is to the right and below
+0: yes lower right quadrant? lets click larger one if you do too.
+1: yes

@@ -1,0 +1,2 @@
+1: I have three dots that form a triangle. The top dot is black, the bottom left is medium grey, and the bottom right is light grey.
+0: Yes take the darkest one

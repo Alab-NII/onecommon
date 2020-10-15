@@ -1,0 +1,4 @@
+0: do you have a large black dot upper right to most of the others
+1: yes it has a small black dot above and to the right of it
+0: ok i have nothing above to the right of it, bc mine is at the 1 oclock spot on my circle... shall we try it ?
+1: it's probably the same, select it

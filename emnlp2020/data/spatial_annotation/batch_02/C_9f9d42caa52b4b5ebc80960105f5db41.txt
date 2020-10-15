@@ -1,0 +1,4 @@
+0: I have one, small, dark dot
+1: Me too. Is it south of a larger dark dot?
+0: yes, and a little to the right for me.
+1: Me too. Let's click the small dot

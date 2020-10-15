@@ -1,0 +1,14 @@
+T1	Markable 57 64	the one
+T2	Markable 86 93	the one
+T3	Markable 27 45	two dark grey dots
+T4	Markable 49 55	a line
+T6	Markable 161 173	a darker dot
+T7	Markable 180 182	it
+T8	Markable 198 216	a smaller dark dot
+T9	Markable 223 225	it
+T10	Markable 247 267	the smaller dark dot
+T11	Markable 274 276	it
+R1	Predicative Arg1:T4 Arg2:T3	
+T12	Markable 116 125	Which one
+A1	Generic T12
+T5	Markable 148 156	this one

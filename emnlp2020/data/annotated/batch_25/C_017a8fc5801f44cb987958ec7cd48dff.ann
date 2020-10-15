@@ -1,0 +1,8 @@
+T1	Markable 14 28	two small dots
+T2	Markable 66 69	one
+T3	Markable 118 122	them
+T4	Markable 163 167	them
+T5	Markable 126 151	another set of small dots
+T6	Markable 176 195	the small black one
+T7	Markable 37 47	each other
+R1	Anaphora Arg1:T7 Arg2:T1	

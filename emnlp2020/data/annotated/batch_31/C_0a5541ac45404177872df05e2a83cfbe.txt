@@ -1,0 +1,5 @@
+0: i have a lonely light small dot
+1: Do you see three larger medium grey dots among a bunch of smaller ones? No... I don't have any obviously lonely.
+0: i see them, the one i am talking about has a large dark dot on the right, and a large med grey dot on lower right
+1: Yes. I see the light grey then. Shall we choose that?
+0: yes

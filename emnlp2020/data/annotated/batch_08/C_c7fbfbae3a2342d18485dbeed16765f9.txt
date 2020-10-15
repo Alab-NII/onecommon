@@ -1,0 +1,4 @@
+0: i have a light tiny dot slightly above and to the left of another large light grey dot
+1: I don't have that. I have a cluster of 3 dots that make a triangle. A large medium gray one at the top, a dark large one to the bottom right and a smaller medium gray one to the bottom left.
+0: i have that, choose the dark one on the bottom right?
+1: Yes, I will pick the darkest one

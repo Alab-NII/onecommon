@@ -1,0 +1,4 @@
+1: I see a small medium gray dot away from any other dots
+0: is it the smallest of the small sizes? i see one too. but i have 2 others similar in color and size
+1: It is the smallest size. It isn't near anything else. It's the smallest of all my dots
+0: same for me, choose that one

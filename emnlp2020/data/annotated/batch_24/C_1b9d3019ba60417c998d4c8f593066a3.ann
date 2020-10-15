@@ -1,0 +1,5 @@
+T2	Markable 55 75	both black small dot
+T3	Markable 50 54	they
+T4	Markable 90 97	the one
+T5	Markable 3 36	Two tiny same size and color dots
+R1	Predicative Arg1:T2 Arg2:T3	

@@ -1,0 +1,4 @@
+0: Do you see one very large black dot? It's the only dark dark one
+1: I see that but I also have a medium sized very dark one as well. Is the large black one almost exactly in between two other dots. The one on the right being lightly smaller and very light and the one and the one on the left being smaller and medium grey?
+0: Yes...shall we choose the larger black spot then?
+1: Yep

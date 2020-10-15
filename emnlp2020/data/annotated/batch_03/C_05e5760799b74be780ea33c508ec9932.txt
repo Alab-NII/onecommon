@@ -1,0 +1,7 @@
+1: I see one very small light grey dot.
+0: i see it as well
+1: Is it pretty close to the darkest dot that is kind of medium sized?
+0: yes I picked that one
+1: Which one? the smallest light grey one?
+0: the light grey one
+1: Okay, well next time it would be nice for you to wait. Otherwise it's a waste of both of our time!

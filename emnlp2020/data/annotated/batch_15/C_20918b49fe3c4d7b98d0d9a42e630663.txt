@@ -1,0 +1,3 @@
+0: Do you have a dark grey smallish dot apart from others?
+1: no. do you see a large, light grey dot with a smaller dot of the same color at 11 o'clock position near it?
+0: Yes. Let's choose that large one.

@@ -1,0 +1,6 @@
+0: large black dot by itself?
+1: Lone giant black dot
+0: now to wait for 1 minute
+1: Yes. So, how's your day?
+0: good, picking lots of dots
+1: same!

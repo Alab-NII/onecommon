@@ -1,0 +1,15 @@
+T1	Markable 47 65	a lighter grey dot
+T2	Markable 132 145	the black one
+T3	Markable 99 116	the dark grey dot
+T4	Markable 159 179	the medium black dot
+T5	Markable 199 213	that black dot
+T6	Markable 228 241	the gray dots
+T7	Markable 3 22	black med sized dot
+T8	Markable 27 40	dark gray dot
+T9	Spatial-Relation 42 46	with
+T10	Spatial-Relation 49 61	lighter grey
+R1	Obj Arg1:T10 Arg2:T8	
+T11	Spatial-Relation 66 87	lower and to the left
+R2	Obj Arg1:T11 Arg2:T8	
+T12	Spatial-Attribute 120 125	large
+T13	Spatial-Relation 222 227	above

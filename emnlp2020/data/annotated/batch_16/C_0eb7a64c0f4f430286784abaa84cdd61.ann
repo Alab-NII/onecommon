@@ -1,0 +1,11 @@
+T1	Markable 25 31	a line
+T3	Markable 135 156	a med sized black dot
+T4	Markable 162 182	a small med grey dot
+T5	Markable 219 221	it
+T6	Markable 251 264	the black one
+T7	Markable 3 9	3 dots
+R1	Predicative Arg1:T1 Arg2:T7	
+T8	Markable 65 76	the top dot
+T2	Markable 197 200	its
+R2	Anaphora Arg1:T2 Arg2:T3	
+T9	Markable 225 228	its

@@ -1,0 +1,6 @@
+1: i have two large dark dots next to each other
+0: I have 2 black circles in the middle.
+1: tag the left one?
+0: ok
+1: i love this game!
+0: I know me too

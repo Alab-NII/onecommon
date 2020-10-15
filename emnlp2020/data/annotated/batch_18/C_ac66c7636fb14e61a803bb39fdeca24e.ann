@@ -1,0 +1,9 @@
+T1	Markable 9 15	4 dots
+T2	Markable 33 48	crooked diamond
+T3	Markable 88 95	the one
+T4	Markable 72 83	the top one
+T5	Markable 129 139	bottom two
+T6	Markable 195 216	the bottom larger one
+R1	Predicative Arg1:T2 Arg2:T1	
+T7	Markable 59 63	that
+T8	Markable 154 164	the bottom

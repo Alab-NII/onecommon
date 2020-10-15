@@ -1,0 +1,11 @@
+0: Do you see either a dark smaller one to the right? Or the dark large one to the left?
+1: i have two tiny dark dots, they are almost vertical to each other
+0: Is the one above it a bit to the left?
+1: no, the top one is a bit to the right. the lower black dot has a large medium gray near it
+0: You see the largest dot? It is dark? Might be center in your circle or center and to the right
+1: my largest dot is medium grey
+0: Let's choose that. Is it lonely?
+1: no
+0: I don't see the ones you are explaining
+1: one of my small dark ones is slightly lonely
+0: I have a small dark that is lonely gonna bite the bullet out of time

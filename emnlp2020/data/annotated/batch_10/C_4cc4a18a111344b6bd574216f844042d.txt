@@ -1,0 +1,4 @@
+0: Do you see a crooked line of dots that have three different colors?
+1: Do you have a cluster of dots to the top right? Highest being the smallest. Yes I have 3 different colors
+0: We have two different views so the positioning will be different. But yes I do is the bottom one the darkest dot?
+1: I have a crooked line with three different colors. the biggest dot being the darkest. Medium dot-medium color. Small dot-light color

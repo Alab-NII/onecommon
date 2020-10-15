@@ -1,0 +1,7 @@
+1: one large blackish dot with a small light grey farish below and to the right
+0: Hi do u have 3 dots in a line trailing down to the right, the left one is the smallest and lightest?
+1: I have 2 but the left one is the smaller and the lighter
+0: No large black dots on mine...do you have that line i described? if not i can try another description
+1: select the smaller lighter one?
+0: yes if u have that sure
+1: ok

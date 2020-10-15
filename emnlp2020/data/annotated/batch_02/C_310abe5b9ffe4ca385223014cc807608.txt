@@ -1,0 +1,7 @@
+1: light grey small dot at about 1 oclock
+0: I have a pair of grey dots On med grey one light grey one is big one is med size do you see that?
+1: I have a medium gray toward bottom at approximately 6 oclock
+0: hmm does it have a light grey a little smaller near it?
+1: yes the smaller light grey one is above it
+0: Lets click the small light grey above it?
+1: ok do it

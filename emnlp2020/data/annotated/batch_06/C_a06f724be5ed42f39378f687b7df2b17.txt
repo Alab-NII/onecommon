@@ -1,0 +1,4 @@
+1: I have a larger medium grey dot right below a smaller black one
+0: i believe I see that. Is there a smaller black one further to the left of the other black dot
+1: yes
+0: ok let click the larger medium gray dot

@@ -1,0 +1,18 @@
+T1	Markable 36 42	itself
+T2	Markable 14 32	one tiny black dot
+T3	Markable 78 82	both
+T4	Markable 52 64	two of those
+T5	Markable 117 126	the other
+T6	Markable 96 99	one
+T7	Markable 165 176	the top one
+R1	Anaphora Arg1:T1 Arg2:T2	
+R2	Anaphora Arg1:T3 Arg2:T4	
+T8	Spatial-Relation 33 35	by
+T9	Spatial-Relation 83 88	alone
+A1	No-Obj T9
+T10	Spatial-Relation 100 112	on the upper
+T11	Spatial-Relation 127 140	on the bottom
+R3	Obj Arg1:T11 Arg2:T6	
+T12	Spatial-Relation 169 172	top
+#1	AnnotatorNotes T8	alone
+R5	Obj Arg1:T12 Arg2:T5	

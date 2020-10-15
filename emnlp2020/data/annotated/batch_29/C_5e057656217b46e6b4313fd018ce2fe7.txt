@@ -1,0 +1,3 @@
+0: i see 2 small dots beside each other. left dot is bigger and darker.
+1: ok i see it choose the bigger darker dot
+0: ok

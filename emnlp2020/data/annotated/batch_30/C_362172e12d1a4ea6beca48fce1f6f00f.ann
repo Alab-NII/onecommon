@@ -1,0 +1,6 @@
+T1	Markable 39 56	a horizontal line
+T2	Markable 125 141	the lightest one
+T3	Markable 3 13	three dots
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 61 73	the left two
+T5	Markable 89 98	the right

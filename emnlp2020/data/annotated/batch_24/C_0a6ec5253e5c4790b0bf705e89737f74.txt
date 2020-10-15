@@ -1,0 +1,5 @@
+1: big dark circle on right with 2 smaller dark circles beneath it
+0: I cant see that. My largest circle is the darkest you?
+1: yes
+0: It has a small dot beneath it
+1: yes kinda diagonally

@@ -1,0 +1,9 @@
+1: i have a large black dot on the lower right of my circle with nothing around it
+0: our circles are different. is there a dot near it you can reference for me?
+1: no there is not. i know the circles are different but sometimes it helps to describe.
+0: I see a cluster of 2 roughly same-sized dots, that are both dark gray. one is slightly darker than the other
+1: i do not see that. do you have any that form a triangle?
+0: yes
+1: the one at the top is black. the one below it is small and dark grey, the other to the right is about the same color as the the bottom one?
+0: yep. let's pick the black one
+1: ok

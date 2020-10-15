@@ -1,0 +1,6 @@
+T1	Markable 10 25	a dark gray dot
+T2	Markable 92 100	that one
+T3	Markable 152 169	a medium gray dot
+T4	Markable 118 135	a large light dot
+T5	Markable 196 204	that one
+A1	No-Referent T2

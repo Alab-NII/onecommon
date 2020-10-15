@@ -1,0 +1,3 @@
+1: two identical dark grey dots real close to each other
+0: yes! if the bottom one is to the right click that one!
+1: yup

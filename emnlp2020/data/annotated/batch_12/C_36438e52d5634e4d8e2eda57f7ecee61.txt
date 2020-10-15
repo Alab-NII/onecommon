@@ -1,0 +1,5 @@
+1: I see 2 darker black dots beside each other
+0: big black dot with small black dot at it's 4
+1: I think i have that. Is the smaller one more black?
+0: yes, i think its the left dot of your 2 dot group. lets grab that one
+1: ok

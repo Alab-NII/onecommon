@@ -1,0 +1,35 @@
+T1	Markable 58 65	the one
+T2	Markable 46 56	each other
+T3	Markable 10 35	two small light grey dots
+T4	Markable 129 131	it
+T5	Markable 189 197	that one
+T6	Markable 142 167	a really large darker one
+T7	Markable 214 216	it
+T8	Markable 226 228	it
+T9	Markable 293 303	each other
+T10	Markable 273 285	the two dots
+T11	Markable 335 347	the two dots
+R1	Anaphora Arg1:T2 Arg2:T3	
+R4	Anaphora Arg1:T9 Arg2:T10	
+T12	Spatial-Relation 36 45	on top of
+T13	Spatial-Relation 66 72	on top
+R2	Obj Arg1:T13 Arg2:T2	
+T14	Modifier 76 81	a bit
+T15	Spatial-Relation 82 94	to the right
+T16	Modifier 99 104	a bit
+T17	Spatial-Relation 105 111	larger
+R3	Obj Arg1:T15 Arg2:T2	
+R5	Obj Arg1:T17 Arg2:T2	
+T18	Spatial-Relation 157 163	darker
+T19	Spatial-Relation 168 188	to the north east of
+T20	Modifier 199 204	a bit
+T21	Spatial-Relation 205 213	far from
+R6	Subj Arg1:T21 Arg2:T6	
+T22	Modifier 232 238	really
+T23	Spatial-Attribute 239 244	large
+T24	Modifier 249 254	a bit
+T25	Spatial-Relation 255 272	further away than
+T26	Spatial-Relation 324 334	the top of
+A1	No-Subj-Markable T26
+#1	AnnotatorNotes T12	vertical
+A2	Canonical-Undefined T25

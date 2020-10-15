@@ -1,0 +1,4 @@
+0: Black medium dot to the right of it is a smaller slightly lighter shade dot,
+1: the one at the right is a bit moved towards the top?
+0: Yes pick black
+1: ok

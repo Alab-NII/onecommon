@@ -1,0 +1,4 @@
+0: do you see a small black dot with a slightly larger dark grey dot to the right of it and slightly below it
+1: cluster of 3. top is lightest, lower right is largest and darkest lower left is med/light and very small
+0: yes, i see it. let's go with the top lightest one.
+1: ok i think i see your two to their upper right? choosing the top light one of my triangle...

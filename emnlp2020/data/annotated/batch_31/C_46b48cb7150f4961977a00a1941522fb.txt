@@ -1,0 +1,5 @@
+0: I see a lonely big dark gray dot, just below a lighter gray dot at the top
+1: What does it have on the left
+0: A black dot is to the left of it
+1: Select the black do to the left
+0: Ok

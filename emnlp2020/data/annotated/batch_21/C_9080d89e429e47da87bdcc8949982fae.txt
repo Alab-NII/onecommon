@@ -1,0 +1,4 @@
+0: I have just one small black dot
+1: yes, i do too, around it are grey dots?
+0: Let us select it
+1: ok

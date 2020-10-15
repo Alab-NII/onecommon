@@ -1,0 +1,3 @@
+0: two medium grey dots same size and color, almost touching?
+1: Yes! Is the top one slightly to the left?
+0: yes, pick top?

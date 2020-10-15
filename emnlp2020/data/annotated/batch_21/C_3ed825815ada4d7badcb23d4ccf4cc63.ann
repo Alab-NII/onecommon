@@ -1,0 +1,6 @@
+T1	Markable 22 32	a triangle
+T2	Markable 88 106	the large dark one
+T3	Markable 3 13	three dots
+R1	Predicative Arg1:T1 Arg2:T3	
+T4	Markable 33 40	largest
+T5	Markable 118 121	its

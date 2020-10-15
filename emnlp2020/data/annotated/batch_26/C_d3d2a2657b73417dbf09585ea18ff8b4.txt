@@ -1,0 +1,9 @@
+0: cluster of 5 dots. one black dot, 4 greyish shade dots
+1: 2 dark smaller dots aligned vertically on the right upper side of circle
+0: are they far apart?
+1: no
+0: dont have that. i have a cluster of many dots like 3-5 dots
+1: I have your cluster, was just waiting on you to type!
+0: ok. pick the black dot? you have that?
+1: yes, darkest dot upper right
+0: yeah. click that

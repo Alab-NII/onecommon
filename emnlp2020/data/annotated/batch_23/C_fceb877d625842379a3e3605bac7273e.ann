@@ -1,0 +1,15 @@
+T1	Markable 9 19	a gray one
+T2	Markable 150 161	the darkest
+T3	Markable 105 111	3 dots
+T4	Markable 131 146	the largest one
+T5	Markable 119 129	a triangle
+T6	Markable 163 179	the lightest one
+T7	Markable 210 222	the triangle
+T8	Markable 258 276	one small grey one
+T9	Markable 310 317	the one
+T10	Markable 286 304	those 2 black dots
+T11	Markable 373 387	the larger one
+T12	Markable 403 416	the large one
+R1	Predicative Arg1:T5 Arg2:T3	
+R2	Predicative Arg1:T2 Arg2:T4	
+T13	Markable 235 249	two black dots

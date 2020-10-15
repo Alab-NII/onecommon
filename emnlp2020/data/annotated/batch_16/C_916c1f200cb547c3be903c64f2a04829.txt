@@ -1,0 +1,9 @@
+1: I see a two black dots close together
+0: Hello, how many dots do you see?
+1: 7 total
+0: I see 7 as well. I do not see 2 black dots together though. I see two gray dots close together and I have a black dot that is larger than all the others
+1: I see a black one that is larger than the others. It is less than a centimeter to the right of a medium sized medium gray dot
+0: That seems to be the case in mine too. Is it in the middle of the circle but a little lower than the true center?
+1: We see different circles, of the same layout. It is also down and to the right of a single medium colored small dot
+0: I think the black dot that is larger than the others is the one in common. I am going to select it
+1: Ditto

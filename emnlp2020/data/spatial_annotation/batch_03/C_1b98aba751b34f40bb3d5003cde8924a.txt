@@ -1,0 +1,7 @@
+1: My smallest dot is black
+0: medium light grey dot, slightly below and to the left is a smaller darker dot?
+1: I got confuse. DO you have a small black dot that is the smallest
+0: yes
+1: Do it have a larger lighter dot to the left downward
+0: yes
+1: Let us select the tiny black dot

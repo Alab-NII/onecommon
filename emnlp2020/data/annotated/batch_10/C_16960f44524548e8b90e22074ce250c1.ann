@@ -1,0 +1,6 @@
+T1	Markable 9 22	two large dot
+T2	Markable 28 38	each other
+T3	Markable 46 53	the one
+T4	Markable 87 91	they
+T5	Markable 136 150	the darker one
+R1	Anaphora Arg1:T2 Arg2:T1	

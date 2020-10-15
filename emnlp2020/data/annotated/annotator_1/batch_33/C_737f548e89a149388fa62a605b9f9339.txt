@@ -1,0 +1,3 @@
+1: I have just one tiny black dot
+0: I don't have any black dots. I do have a large med gray dot in a line down
+1: Let us select the biggest and the darkest of the line

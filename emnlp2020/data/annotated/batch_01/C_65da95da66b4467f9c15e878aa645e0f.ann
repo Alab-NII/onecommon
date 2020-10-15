@@ -1,0 +1,4 @@
+T1	Markable 9 29	two medium grey dots
+T2	Markable 46 56	each other
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 89 96	the one

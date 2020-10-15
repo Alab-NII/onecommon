@@ -1,0 +1,12 @@
+T1	Markable 70 92	some light larger ones
+T2	Markable 3 14	all of mine
+T3	Markable 45 63	a single black one
+T5	Markable 99 101	it
+T6	Markable 133 145	the dark one
+R1	Anaphora Arg1:T5 Arg2:T3	
+A1	All-Referents T2
+T4	Spatial-Relation 19 30	on top half
+A2	No-Obj T4
+T7	Spatial-Relation 65 69	with
+T8	Spatial-Relation 81 87	larger
+T9	Spatial-Relation 93 98	below

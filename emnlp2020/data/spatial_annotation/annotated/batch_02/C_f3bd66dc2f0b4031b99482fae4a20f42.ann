@@ -1,0 +1,32 @@
+T1	Markable 9 19	a dark dot
+T2	Markable 48 64	a large dark dot
+T3	Markable 83 115	a cluster of light and dark dots
+T5	Markable 68 70	it
+T6	Markable 126 142	a gray large dot
+T7	Markable 165 178	the black dot
+T8	Markable 213 222	the group
+T9	Markable 186 204	the large gray dot
+T10	Markable 251 255	they
+T11	Markable 299 303	that
+T12	Markable 319 343	the large light gray dot
+R1	Anaphora Arg1:T5 Arg2:T2	
+T4	Markable 260 265	large
+T13	Markable 267 272	small
+T14	Markable 277 282	large
+T15	Markable 372 390	The large gray dot
+T16	Spatial-Relation 20 37	to the lower left
+A1	No-Obj T16
+T17	Spatial-Relation 65 67	on
+T18	Spatial-Relation 73 76	own
+R2	Split Arg1:T18 Arg2:T17	
+A2	No-Obj T17
+T19	Spatial-Relation 77 82	below
+T20	Spatial-Relation 85 92	cluster
+A3	No-Obj T20
+T21	Spatial-Relation 143 164	to the upper right of
+T22	Spatial-Relation 205 212	part of
+T23	Spatial-Relation 217 222	group
+A4	No-Obj T23
+T24	Spatial-Relation 232 250	From right to left
+A5	Unannotatable T24
+#1	AnnotatorNotes T17	alone

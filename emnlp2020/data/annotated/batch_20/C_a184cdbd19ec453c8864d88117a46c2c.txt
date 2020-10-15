@@ -1,0 +1,5 @@
+1: i have a small black near 11:00 and a small grey near 7:00 do u have either
+0: i have 1 big black dot
+1: where is it located
+0: between 1 and 2 oclock
+1: lets click it i one at 3:00 they may be the same so click on your one large black dot

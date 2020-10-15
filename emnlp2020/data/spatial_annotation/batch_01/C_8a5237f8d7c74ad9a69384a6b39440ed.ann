@@ -1,0 +1,8 @@
+T1	Markable 50 54	that
+T2	Markable 62 78	a Light grey dot
+T3	Markable 99 111	a darker one
+T4	Markable 143 145	it
+T5	Markable 162 176	the light gray
+T6	Markable 3 20	lonely large gray
+A1	No-Referent T1
+R1	Anaphora Arg1:T4 Arg2:T2	

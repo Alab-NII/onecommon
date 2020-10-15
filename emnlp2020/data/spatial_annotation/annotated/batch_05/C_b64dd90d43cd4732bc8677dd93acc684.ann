@@ -1,0 +1,25 @@
+T1	Markable 10 30	one medium black dot
+T2	Markable 68 72	that
+T3	Markable 84 106	a group of 2 grey dots
+T4	Markable 124 144	The most western dot
+T5	Markable 156 160	They
+T6	Markable 197 201	that
+T7	Markable 217 231	the bigger dot
+A1	No-Referent T2
+R1	Anaphora Arg1:T5 Arg2:T3	
+T8	Spatial-Relation 31 51	north east of center
+A2	No-Obj T8
+T9	Spatial-Relation 86 91	group
+A3	No-Obj T9
+T10	Spatial-Relation 107 122	south of center
+A4	No-Obj T10
+T11	Spatial-Relation 128 140	most western
+A5	No-Obj T11
+#1	AnnotatorNotes T11	most west
+T12	Spatial-Relation 148 154	bigger
+R2	Obj Arg1:T11 Arg2:T3	
+R3	Obj Arg1:T12 Arg2:T3	
+T13	Spatial-Relation 221 227	bigger
+R4	Obj Arg1:T13 Arg2:T3	
+#2	AnnotatorNotes T8	north east
+#3	AnnotatorNotes T10	south

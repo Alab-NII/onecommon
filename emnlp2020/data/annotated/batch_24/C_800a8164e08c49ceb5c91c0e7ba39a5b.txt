@@ -1,0 +1,4 @@
+0: Small light for middle left?
+1: Yes!
+0: Okay pick it
+1: Ok

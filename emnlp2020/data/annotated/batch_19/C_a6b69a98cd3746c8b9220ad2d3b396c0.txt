@@ -1,0 +1,4 @@
+1: there are four in dots in the top right part and two way below in the bottom right
+0: i have a triangle of dots close together. the top right one is black and large
+1: i have a triangle of dots in the upper right but the triangle is slightly tilted to the upper left. large black dot top to the right tiny one below and a lighter gray to the left of the large black
+0: thats the same triangle, i think choose the tiny black one?

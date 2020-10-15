@@ -1,0 +1,6 @@
+T1	Markable 10 39	2 very dark medium sized dots
+T2	Markable 50 65	a vertical line
+T3	Markable 67 78	The top one
+T4	Markable 107 121	the bottom one
+T5	Markable 168 179	the top one
+R1	Predicative Arg1:T2 Arg2:T1	

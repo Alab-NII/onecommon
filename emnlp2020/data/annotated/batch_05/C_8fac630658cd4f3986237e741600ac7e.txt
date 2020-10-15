@@ -1,0 +1,4 @@
+1: I see the smallest, darkest dot right next to a large medium grey dot.
+0: Ok, I have four to the left and three mid to right of my circle. Smallest is very dark
+1: let's pick the smallest
+0: Yep

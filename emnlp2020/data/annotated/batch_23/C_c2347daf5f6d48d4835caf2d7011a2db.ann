@@ -1,0 +1,5 @@
+T1	Markable 14 26	a group of 4
+T2	Markable 30 44	a wonky square
+T3	Markable 105 118	the small one
+R1	Predicative Arg1:T2 Arg2:T1	
+T4	Markable 49 65	the smallest one

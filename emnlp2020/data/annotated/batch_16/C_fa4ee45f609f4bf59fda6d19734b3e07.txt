@@ -1,0 +1,5 @@
+1: I have a large dark gray dot above a slightly smaller black dot
+0: I have a triangle of 3 larger dots (one light gray, med gray, and black) about the same size upper left. I don't think I have that.
+1: I see the triangle is the black one on the right?
+0: yes! With the lights down and to the left of the both other dots.
+1: Great! lets pick the black one.

@@ -1,0 +1,12 @@
+T1	Markable 10 16	3 dots
+T2	Markable 56 66	a triangle
+T3	Markable 88 119	two very large medium grey dots
+T4	Markable 193 206	a smaller dot
+T5	Markable 178 182	them
+T6	Markable 215 219	them
+T7	Markable 257 260	its
+T8	Markable 291 307	that smaller one
+R1	Predicative Arg1:T2 Arg2:T1	
+T9	Markable 130 136	a line
+R2	Predicative Arg1:T9 Arg2:T3	
+R3	Anaphora Arg1:T6 Arg2:T5	

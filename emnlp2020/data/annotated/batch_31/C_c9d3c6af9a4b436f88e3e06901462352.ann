@@ -1,0 +1,6 @@
+T1	Markable 28 38	a triangle
+T2	Markable 62 67	a few
+T4	Markable 162 168	that 1
+T5	Markable 3 24	three dark large dots
+R1	Predicative Arg1:T1 Arg2:T5	
+T3	Markable 108 131	the middle (corner) dot

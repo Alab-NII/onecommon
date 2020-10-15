@@ -1,0 +1,31 @@
+T1	Markable 45 48	one
+T2	Markable 199 201	it
+T3	Markable 168 192	the slightly smaller one
+T4	Markable 141 152	the top one
+T5	Markable 109 117	two dots
+T6	Markable 230 241	the top one
+T7	Markable 10 17	a bunch
+R1	Anaphora Arg1:T2 Arg2:T4	
+T8	Markable 246 259	the black one
+T9	Spatial-Relation 12 17	bunch
+A1	No-Obj T9
+T10	Spatial-Relation 18 31	in the middle
+A2	No-Obj T10
+T11	Spatial-Attribute 57 62	black
+T12	Spatial-Attribute 72 83	medium size
+T14	Spatial-Relation 84 97	in the middle
+A3	No-Obj T14
+T15	Spatial-Relation 118 140	of about the same size
+T16	Modifier 121 126	about
+T17	Spatial-Relation 145 148	top
+T18	Spatial-Relation 156 167	darker than
+T19	Modifier 172 180	slightly
+T20	Spatial-Relation 181 188	smaller
+T21	Spatial-Relation 193 198	under
+T22	Spatial-Relation 234 237	top
+R2	Obj Arg1:T22 Arg2:T5	
+#1	AnnotatorNotes T9	cluster
+T23	Modifier 72 78	medium
+A4	Mod-Neutral T23
+T13	Modifier 67 71	like
+A5	Mod-Uncertainty-Approximation T13

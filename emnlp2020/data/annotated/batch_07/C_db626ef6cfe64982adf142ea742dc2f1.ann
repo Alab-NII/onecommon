@@ -1,0 +1,15 @@
+T1	Markable 55 62	the one
+T2	Markable 43 53	each other
+T3	Markable 168 171	one
+T4	Markable 182 185	one
+T5	Markable 103 121	two groups of dots
+T6	Markable 175 180	those
+T7	Markable 304 307	one
+T8	Markable 332 335	one
+T9	Markable 280 302	a set of two same size
+T10	Markable 242 249	the set
+T11	Markable 379 393	the larger one
+T12	Markable 12 28	two dark circles
+R1	Anaphora Arg1:T2 Arg2:T12	
+A1	Generic T3
+T13	Markable 362 367	yours

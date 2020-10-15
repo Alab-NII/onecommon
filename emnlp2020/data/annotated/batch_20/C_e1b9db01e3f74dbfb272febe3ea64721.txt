@@ -1,0 +1,9 @@
+0: i have 2 dark dots one big one smaller
+1: I have 2 large black dots next to each other close to the bottom
+0: 1 might be mine not sure though
+1: They have a tiny light gray one up making a triangle
+0: i dont see that
+1: The tiniest dot is light gray door see that close to the left
+0: yeah a tiny grey dot is above and to the left of the dark dot
+1: Yes let's pick the tiny dot
+0: ok

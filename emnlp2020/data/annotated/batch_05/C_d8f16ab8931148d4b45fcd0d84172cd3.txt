@@ -1,0 +1,3 @@
+1: do you see a medium dark grey dot with a slightly smaller light grey dot to the right of it
+0: yes, i think - the lighter grey dot has another large grey dot to the right and farther than your medium grey dot
+1: yes, select the medium

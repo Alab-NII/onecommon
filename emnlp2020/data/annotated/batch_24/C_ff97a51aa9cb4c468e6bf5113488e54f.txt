@@ -1,0 +1,3 @@
+1: 1 large dark gray dot on its own?
+0: I have one as well. More to the left side of the circle and the top.
+1: yes, choose it?

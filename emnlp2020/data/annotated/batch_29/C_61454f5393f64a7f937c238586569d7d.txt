@@ -1,0 +1,5 @@
+1: do you see three black dots in a triangle? Small medium and large?
+0: I only have one black dot...below it I have a large light gray dot
+1: i see the large grey dot i think, is your black dot large or small?
+0: large it could make a triangle with the light one below it and a medium shade gray one to the left
+1: okay try the black one?

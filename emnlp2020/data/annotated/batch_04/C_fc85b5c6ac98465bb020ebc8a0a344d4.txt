@@ -1,0 +1,6 @@
+0: I have a light gray small dot
+1: me too at 1pm
+0: Is it away from the others?
+1: yes
+0: Should we try it?
+1: lets try

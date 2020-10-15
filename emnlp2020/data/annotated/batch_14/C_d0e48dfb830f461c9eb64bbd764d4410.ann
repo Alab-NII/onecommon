@@ -1,0 +1,16 @@
+T1	Markable 10 28	a larger black dot
+T2	Markable 35 59	a smaller also black dot
+T3	Markable 146 155	the other
+T4	Markable 97 114	a darker grey dot
+T5	Markable 200 206	itself
+T6	Markable 177 196	any darker gray dot
+T7	Markable 219 237	the two black dots
+T8	Markable 367 375	your set
+T9	Markable 377 397	The lower of the two
+T10	Markable 70 73	its
+R1	Anaphora Arg1:T10 Arg2:T1	
+A1	No-Referent T6
+R2	Anaphora Arg1:T5 Arg2:T6	
+A2	No-Referent T5
+T11	Markable 307 316	which one
+T12	Markable 336 345	which one

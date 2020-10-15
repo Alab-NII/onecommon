@@ -1,0 +1,7 @@
+T1	Markable 18 33	one medium grey
+T2	Markable 38 59	one small darker grey
+T3	Markable 63 67	line
+T4	Markable 3 17	one small grey
+T5	Markable 81 85	this
+R1	Anaphora Arg1:T5 Arg2:T3	
+T6	Markable 110 125	the medium grey

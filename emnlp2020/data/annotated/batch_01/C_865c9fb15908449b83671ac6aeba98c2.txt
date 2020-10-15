@@ -1,0 +1,5 @@
+1: Do you see a cluster of three medium sized, medium darkness dots?
+0: I have 3 large dots cluster together.
+1: The middle dot is the darkest, in a boomerang shape right?
+0: yes choose the middle one
+1: Ok

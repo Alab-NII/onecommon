@@ -1,0 +1,8 @@
+T2	Markable 53 61	two dots
+T3	Markable 65 88	an almost vertical line
+T4	Markable 90 94	They
+T5	Markable 117 124	The one
+T6	Markable 204 218	the larger one
+T7	Markable 12 19	the dot
+R1	Predicative Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T2	

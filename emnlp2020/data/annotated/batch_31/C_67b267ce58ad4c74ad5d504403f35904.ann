@@ -1,0 +1,11 @@
+T1	Markable 84 95	the cluster
+T2	Markable 58 77	a third smaller dot
+T4	Markable 175 185	a triangle
+T5	Markable 131 133	it
+T6	Markable 163 167	they
+T7	Markable 193 207	that small one
+T8	Markable 3 15	two big dots
+T9	Markable 31 39	one dark
+T10	Markable 43 50	lighter
+T11	Markable 108 111	its
+R1	Predicative Arg1:T4 Arg2:T6	

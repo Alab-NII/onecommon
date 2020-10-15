@@ -1,0 +1,11 @@
+T1	Markable 10 32	a very light small dot
+T2	Markable 52 58	itself
+T3	Markable 76 80	that
+T4	Markable 90 107	the two dark dots
+T5	Markable 119 121	it
+T6	Markable 178 180	it
+T7	Markable 157 170	two dark ones
+T8	Markable 189 193	They
+T9	Markable 243 245	it
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T7

@@ -1,0 +1,6 @@
+T1	Markable 36 46	a triangle
+T2	Markable 10 27	3 light grey dots
+T3	Markable 61 66	those
+T4	Markable 135 143	that one
+R1	Predicative Arg1:T1 Arg2:T2	
+T5	Markable 70 88	bottom left corner

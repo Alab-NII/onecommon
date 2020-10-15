@@ -1,0 +1,6 @@
+0: I have 2 dots same size next to each other. Left is grey, right is black
+1: i have two dots one directly above the other, the bottom one is black and smaller
+0: I do not see yours. Do you see mine?
+1: i think i see yours, there aren't any nearby dots directly below them?
+0: correct
+1: ok, let's choose the lighter one on the left

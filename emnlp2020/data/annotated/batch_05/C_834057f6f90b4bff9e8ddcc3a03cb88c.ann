@@ -1,0 +1,17 @@
+T1	Markable 10 28	a larger black dot
+T2	Markable 84 89	three
+T3	Markable 210 224	the middle one
+T4	Markable 36 44	its self
+#1	AnnotatorNotes T4	itself
+R1	Anaphora Arg1:T4 Arg2:T1	
+T5	Markable 93 103	a diagonal
+R2	Predicative Arg1:T5 Arg2:T2	
+T6	Markable 105 113	Top left
+T7	Markable 117 134	medium size black
+R3	Predicative Arg1:T7 Arg2:T6	
+T8	Markable 135 141	middle
+T9	Markable 145 161	large light grey
+R4	Predicative Arg1:T9 Arg2:T8	
+T10	Markable 162 174	bottom right
+T11	Markable 178 189	small black
+R5	Predicative Arg1:T11 Arg2:T10	

@@ -1,0 +1,3 @@
+0: I HAVE 3 DOTS TOGETHER
+1: I do as well, let's choose the middle one.
+0: WHICH ONE ARE YOU SELECTING?

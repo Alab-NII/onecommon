@@ -1,0 +1,18 @@
+T1	Markable 41 50	right one
+T2	Markable 62 70	left one
+T3	Markable 94 97	one
+T4	Markable 163 172	those two
+T5	Markable 147 157	a triangle
+T6	Markable 185 187	it
+T7	Markable 233 245	the two dots
+T8	Markable 279 282	one
+T9	Markable 304 312	the ones
+T10	Markable 351 365	two large dots
+T11	Markable 467 471	them
+T12	Markable 10 16	2 dots
+T13	Markable 106 135	a similar size but light grey
+R1	Predicative Arg1:T13 Arg2:T3	
+T14	Markable 210 221	the first 2
+T15	Markable 267 270	one
+T16	Markable 437 458	a lighter smaller dot
+T17	Markable 491 505	the larger dot

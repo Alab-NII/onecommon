@@ -1,0 +1,4 @@
+1: do you see a diagonal line formed by 3 same size same color medium size medium gray?
+0: No. I have a medium size black dot above a medium size slightly lighter dot that is off to the left a little.
+1: ok i see the dark one you are talking about, let's pick it, ok?
+0: ok

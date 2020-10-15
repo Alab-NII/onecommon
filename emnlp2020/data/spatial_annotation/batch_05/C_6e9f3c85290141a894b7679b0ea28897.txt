@@ -1,0 +1,4 @@
+0: Do you see a light gray dot alone?
+1: i see that. is there a black dot near the top of it? either to the right or left?
+0: Yes, two of them. They are both larger than it and not right next to each other, right?
+1: Yeah they are. let's pick the light gray dot that is alone

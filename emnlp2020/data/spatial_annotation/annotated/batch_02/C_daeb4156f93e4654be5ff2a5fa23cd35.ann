@@ -1,0 +1,21 @@
+T1	Markable 9 31	a large light grey dot
+T2	Markable 37 54	a small black dot
+T3	Markable 193 200	the one
+T4	Markable 92 96	that
+T5	Markable 157 175	the large grey dot
+T6	Markable 116 126	a dark dot
+T7	Markable 239 263	the large light grey dot
+T8	Spatial-Relation 32 36	with
+T10	Spatial-Relation 55 65	just below
+T11	Spatial-Relation 70 82	to the right
+R1	Obj Arg1:T10 Arg2:T1	
+R2	Obj Arg1:T11 Arg2:T1	
+T13	Spatial-Relation 127 141	the same color
+R3	Obj Arg1:T13 Arg2:T2	
+T14	Spatial-Relation 142 156	to the left of
+T15	Spatial-Relation 180 192	further than
+A1	Unannotatable T15
+T16	Spatial-Relation 201 213	to the right
+R4	Obj Arg1:T16 Arg2:T5	
+#2	AnnotatorNotes T10	near;below
+T9	Spatial-Relation 105 115	along with

@@ -1,0 +1,7 @@
+0: I only have two light grey dots. One close to the middle, one at the bottom.
+1: Is it larger, I have 4 shades of grey dots
+0: One light grey is larger and sits to the left of a slightly darker one, about the same size. The other is smaller and much lower.
+1: I have a lighter grey and a darker grey about the same size with the lighter grey to the left. They are towards the left of my circle
+0: Excellent, let's hit the lighter grey. For verification, there's a black dot to the left and slightly above this pair, yes?
+1: yes
+0: Good light grey it is then.

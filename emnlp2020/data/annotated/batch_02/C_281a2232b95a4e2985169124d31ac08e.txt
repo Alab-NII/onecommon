@@ -1,0 +1,4 @@
+0: I have a drifting large black dot
+1: i have no large dots, i have two dots close to each other, one medium dark grey, one small light grey to its right
+0: nope. what about medium black dot and close to its right and slightly higher is a smaller and light grey dot
+1: yes, pick the small light grey dot

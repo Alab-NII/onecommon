@@ -1,0 +1,12 @@
+T2	Markable 56 74	two sets of 3 dots
+T3	Markable 147 163	one set of three
+T5	Markable 221 232	the largest
+T6	Markable 254 262	the line
+T7	Markable 287 305	the upper left one
+T8	Markable 9 24	a diagonal trio
+T9	Markable 89 99	each other
+R1	Anaphora Arg1:T9 Arg2:T2	
+T1	Markable 110 122	one med gray
+T10	Markable 178 188	a med grey
+T11	Markable 206 214	the trio
+R2	Anaphora Arg1:T11 Arg2:T3	

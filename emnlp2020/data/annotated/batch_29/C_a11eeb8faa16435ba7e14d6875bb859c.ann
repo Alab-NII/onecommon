@@ -1,0 +1,8 @@
+T1	Markable 89 99	a triangle
+T2	Markable 68 78	three dots
+T3	Markable 100 116	the top two dots
+T4	Markable 184 194	a triangle
+T5	Markable 200 214	those two dots
+T6	Markable 152 166	that small one
+T7	Markable 3 22	Two large dark dots
+R1	Predicative Arg1:T1 Arg2:T2	

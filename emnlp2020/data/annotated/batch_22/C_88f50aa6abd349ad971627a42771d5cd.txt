@@ -1,0 +1,10 @@
+1: do you have a light grey dot on the left bottom.
+0: Do you see three very dark dots in a small curve...middle one is tiny? ( And no...leftmost is very large and black.)
+1: the large black dot is on the bottom right side
+0: Yes! Shall we choose the bottom one?
+1: but there a small dot on top of the large dot
+0: Yes. The small dot is above and the the left. They are close together
+1: choose that one
+0: The small one?
+1: no
+0: Ok

@@ -1,0 +1,6 @@
+T1	Markable 55 58	one
+T2	Markable 35 45	each other
+T3	Markable 10 13	six
+T4	Markable 114 128	the lonely one
+R1	Anaphora Arg1:T2 Arg2:T3	
+T5	Markable 177 186	mr lonely

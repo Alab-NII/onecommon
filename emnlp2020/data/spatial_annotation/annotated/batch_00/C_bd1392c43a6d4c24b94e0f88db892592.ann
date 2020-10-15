@@ -1,0 +1,49 @@
+T2	Markable 91 95	that
+T3	Markable 165 168	one
+T4	Markable 209 218	the other
+T5	Markable 108 116	two dots
+T6	Markable 233 254	the 2nd most dark dot
+T8	Markable 332 349	previous said dot
+T11	Markable 294 318	a darker grey larger dot
+T12	Markable 407 425	original black dot
+T13	Markable 449 473	the large light grey dot
+T14	Markable 511 523	the same one
+T15	Markable 9 42	a darker medium to large size dot
+A1	No-Referent T2
+T16	Markable 145 149	both
+R1	Anaphora Arg1:T16 Arg2:T5	
+R2	Anaphora Arg1:T8 Arg2:T6	
+T7	Markable 355 394	a lighter grey slightly larger size dot
+T1	Spatial-Relation 11 17	darker
+A2	No-Obj T1
+T9	Spatial-Relation 43 66	near top left of circle
+A3	No-Obj T9
+T10	Spatial-Relation 67 75	isolated
+A4	No-Obj T10
+T17	Spatial-Relation 117 143	to the right of the circle
+A5	No-Obj T17
+T18	Spatial-Relation 150 163	similar sizes
+A6	No-Obj T18
+T19	Spatial-Relation 181 188	lighter
+T20	Modifier 172 180	slightly
+T21	Spatial-Relation 193 208	to the right of
+T22	Spatial-Relation 237 250	2nd most dark
+A7	No-Obj T22
+T23	Spatial-Attribute 255 266	medium size
+T24	Spatial-Relation 267 288	bottom left of circle
+A9	No-Obj T24
+T25	Spatial-Relation 289 293	with
+T26	Spatial-Relation 296 307	darker grey
+T27	Spatial-Relation 308 314	larger
+T28	Spatial-Relation 319 331	top right of
+T29	Spatial-Relation 357 369	lighter grey
+T30	Spatial-Relation 379 390	larger size
+T31	Modifier 370 378	slightly
+T32	Spatial-Relation 395 406	top left of
+T33	Spatial-Relation 474 485	on the left
+A10	No-Obj T26
+A11	Ambiguous-Obj T26
+A8	Canonical-Undefined T22
+T34	Modifier 255 261	medium
+R4	Obj Arg1:T33 Arg2:T12	
+#1	AnnotatorNotes T9	top left

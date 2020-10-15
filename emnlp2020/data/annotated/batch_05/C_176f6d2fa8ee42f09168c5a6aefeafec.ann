@@ -1,0 +1,22 @@
+T1	Markable 53 73	a smaller darker dot
+T2	Markable 96 116	the smaller dark dot
+T3	Markable 126 139	the light one
+T4	Markable 198 218	the smaller dark dot
+T5	Markable 233 235	it
+T10	Markable 285 290	those
+T12	Markable 353 366	the first one
+T14	Markable 3 26	a light grey medium dot
+T15	Markable 143 147	it's
+#1	AnnotatorNotes T15	its
+R1	Anaphora Arg1:T15 Arg2:T2	
+T16	Markable 175 194	a larger same-color
+R2	Anaphora Arg1:T4 Arg2:T2	
+R3	Anaphora Arg1:T5 Arg2:T2	
+T6	Markable 239 243	it's
+#2	AnnotatorNotes T6	its
+R4	Anaphora Arg1:T6 Arg2:T2	
+T9	Markable 265 274	those two
+R5	Anaphora Arg1:T10 Arg2:T9	
+T7	Markable 307 333	another smaller darker dot
+T8	Markable 382 400	the small dark dot
+R6	Anaphora Arg1:T8 Arg2:T12	

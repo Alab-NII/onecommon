@@ -1,0 +1,7 @@
+0: I have a tiny dark dot on the right
+1: I see one large black dot with a small black dot lower than it and slightly right
+0: I have a LARGE black dot with small light gray to the right
+1: does your tiny black dot have a medium black dot slightly higher and to the left?
+0: Yes
+1: should we pick the tiny dot?
+0: Yes let's do that

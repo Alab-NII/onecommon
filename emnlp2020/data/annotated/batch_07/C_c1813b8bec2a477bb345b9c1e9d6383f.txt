@@ -1,0 +1,5 @@
+0: I see two small very dark dots that are pretty close to each other. One of the dots is close to a large dot that is similar in shade.
+1: I see that too. Is there another large dot that looks like the bigger one not too far away?
+0: Yes.
+1: Okay, want to click on the one that is far away?
+0: k

@@ -1,0 +1,8 @@
+1: I have a large light gray dot near 4 o clock a medium dark dot near 8 o clock and a small light gray dot near 9 o clock
+0: I have a medium black dot with smaller and lighter dot under it on the left
+1: i have a medium black dot as well near 11 o lock
+0: is there a really small grey dot between 2 dots you have on 4 o clock and 8 o clock?
+1: no i have a small dark gray spot almost dead on at 12 o clock near the top of the circle
+0: our views are different, so your 12 o clock wont be mine, so i try to explain dots comparing to each other
+1: towards the top of the circle i have three dots from left to right its a medium dark gray then a small dark gray and then a large dark gray on the right
+0: i have

@@ -1,0 +1,16 @@
+T1	Markable 95 99	that
+T3	Markable 128 145	a horizontal line
+T4	Markable 107 117	three dots
+T5	Markable 278 281	two
+T6	Markable 310 320	a triangle
+T7	Markable 406 432	smaller medium colored dot
+T8	Markable 451 473	the bottom darkest one
+T9	Markable 3 18	Small black dot
+T10	Markable 41 57	larger black dot
+A1	No-Referent T1
+R1	Predicative Arg1:T3 Arg2:T4	
+T11	Markable 151 163	leftmost one
+T2	Markable 184 190	middle
+T12	Markable 222 251	medium size medium color grey
+T13	Markable 326 347	very dark medium size
+T14	Markable 361 387	equal size but lighter dot

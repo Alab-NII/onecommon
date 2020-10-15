@@ -1,0 +1,8 @@
+T1	Markable 83 85	it
+T2	Markable 50 56	itself
+T3	Markable 62 72	a big dark
+T4	Markable 118 136	smallest light one
+T5	Markable 3 23	lone tiny light grey
+T6	Markable 39 46	The one
+R1	Anaphora Arg1:T2 Arg2:T6	
+R2	Anaphora Arg1:T1 Arg2:T6	

@@ -1,0 +1,4 @@
+0: I have a black dot off by itself
+1: Do you see a tiny black dot?
+0: I have a black dot with a larger grey one to the left of it and a larger grey one above and to the left of it
+1: Yes...let's pick the black one.

@@ -1,0 +1,5 @@
+0: Do you see a large black dot with a smaller medium shade grey down and to the right of it?
+1: No, but the lower dot might be cut off for me. Is there a smaller same color dot up and to the right?
+0: Yes!!
+1: Lets try the larger one. =)
+0: Okay!!! :)

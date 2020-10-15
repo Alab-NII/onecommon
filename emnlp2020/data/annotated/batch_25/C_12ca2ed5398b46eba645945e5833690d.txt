@@ -1,0 +1,4 @@
+1: very tiny very light grey dot?
+0: Yes, it forms almost a triangle with 2 dark dots?
+1: yes! top one is darkest and smallest? if so click that one!
+0: Yes! Okay

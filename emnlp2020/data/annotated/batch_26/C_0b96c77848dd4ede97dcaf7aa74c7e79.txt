@@ -1,0 +1,5 @@
+1: I have two medium size dots on top. the dot above is slightly larger and darker, the one below is light grey
+0: i have a black dot with a light grey dot to the left and a darker grey dot to the left of that
+1: Me too, is the black dot larger?
+0: yes lets pick the black?
+1: gotcha

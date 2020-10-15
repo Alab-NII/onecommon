@@ -1,0 +1,5 @@
+0: I have two large black dots in my circle
+1: i have only 1
+0: One of my large black dots has a smaller grey dot very close to it
+1: i see that
+0: ok let's click on that large black dot?

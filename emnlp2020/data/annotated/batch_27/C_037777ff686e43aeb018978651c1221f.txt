@@ -1,0 +1,4 @@
+0: medium size black dot to left of same size light grey?
+1: No. don't have it. What about a triangle of 3 different shades tiny to small dots?
+0: Does the triangle have a black dot as its lower left corner?
+1: Yes...choose black tiny dot

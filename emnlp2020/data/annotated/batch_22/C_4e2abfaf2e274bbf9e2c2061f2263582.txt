@@ -1,0 +1,3 @@
+0: a lonely large black dot?
+1: Yes, I have that one. Let's pick it.
+0: sure

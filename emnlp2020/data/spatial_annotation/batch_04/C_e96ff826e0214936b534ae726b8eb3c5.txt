@@ -1,0 +1,4 @@
+1: There is a dark, medium sized dot near the edge of the circle on the top, do you have the same?
+0: I also have a dark medium sized dot near the top of my circle a bit left of center.
+1: Mine is a bit right of center, but I assume that is just because we have a slightly different perspective. Should we go with that? Mine is basically touching the line
+0: mine is not near the line. Sure lets go with that.

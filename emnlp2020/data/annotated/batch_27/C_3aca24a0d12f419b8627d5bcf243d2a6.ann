@@ -1,0 +1,6 @@
+T1	Markable 3 20	cluster of 3 dots
+T2	Markable 73 87	the middle one
+T3	Markable 139 141	it
+T5	Markable 37 40	all
+R1	Anaphora Arg1:T5 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T2	

@@ -1,0 +1,6 @@
+0: i see a large dark grey dot. right and to the up is a black dot.
+1: i kinda see that... is the black dot small?
+0: yeah. they are like 1 inch apart sorta
+1: med size grey dot?
+0: yes...
+1: let's pick the med size grey dot

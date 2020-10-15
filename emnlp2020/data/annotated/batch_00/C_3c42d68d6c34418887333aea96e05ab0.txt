@@ -1,0 +1,7 @@
+0: I see a large gray dot by itself
+1: I see one black dot
+0: Is it large, with a small lighter one below and slightly to the right?
+1: No it's small. I also see a very small light grey dot by itself.
+0: I also see a small light grey one by itself.
+1: Let's choose that one
+0: Great!

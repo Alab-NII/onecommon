@@ -1,0 +1,12 @@
+T1	Markable 3 43	a straight, not quite vertical line of 4
+T2	Markable 88 120	an almost vertical line of three
+T4	Markable 132 151	a group of two dots
+T5	Markable 173 196	medium sized light grey
+T6	Markable 257 261	them
+T7	Markable 232 250	a lonely black dot
+T8	Markable 279 292	the black dot
+T9	Markable 45 56	medium dark
+T10	Markable 58 63	light
+T11	Markable 65 71	medium
+T3	Markable 198 216	larger darker grey
+R1	Anaphora Arg1:T6 Arg2:T4	

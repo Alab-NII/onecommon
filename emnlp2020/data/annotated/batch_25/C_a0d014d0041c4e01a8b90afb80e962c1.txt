@@ -1,0 +1,7 @@
+0: Have just 1 pure black dot
+1: I have one, are there two small light gray dots to its left?
+0: There is a small light grey to its SW, and a large light grey to its NW
+1: No, it's not the same. What about two gray dots about the same size, the upper one is darker than the other?
+0: I have that. They are diagonal in a \ ?
+1: Yes, which one should we pick?
+0: lighter

@@ -1,0 +1,6 @@
+0: large dark gray dot with tiny medium gray dot above and to the right?
+1: Yes, I think. Is there a large black dot above both of those that you can see?
+0: I don't think we see the same one. I have a dark large black dot but it is part of a triangle...is that the one you have?
+1: Is the triangle upside down? With the large black dot as the left corner?
+0: mine is on its side with two light gray dots and 1 black dot
+1: Ok. we see the same thing. Let's select the large black

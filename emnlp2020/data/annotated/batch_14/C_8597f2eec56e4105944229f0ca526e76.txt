@@ -1,0 +1,4 @@
+1: Do you have a big, dark gray dot that is very close to a light gray dot that is smaller
+0: I see a very dark dark toward center of screen, pretty small
+0: yes I do see the one you are referring to
+1: Let's choose the darker gray dot

@@ -1,0 +1,26 @@
+T1	Markable 43 63	the rest of the dots
+T3	Markable 29 31	it
+T4	Markable 90 107	another large dot
+T5	Markable 154 156	it
+T6	Markable 136 151	a vertical line
+T7	Markable 178 193	that darker one
+T8	Markable 3 21	large med grey dot
+T2	Spatial-Relation 32 42	down below
+T9	Modifier 72 79	sort of
+R1	Mod Arg1:T9 Arg2:T2	
+T10	Spatial-Attribute 116 125	dark grey
+T11	Modifier 126 132	almost
+T12	Spatial-Relation 133 135	on
+T13	Spatial-Relation 138 151	vertical line
+A1	No-Obj T13
+T14	Spatial-Relation 152 153	w
+#1	AnnotatorNotes T14	with
+T15	Spatial-Relation 157 162	above
+R2	Subj Arg1:T15 Arg2:T4	
+R3	Subj Arg1:T14 Arg2:T4	
+R4	Obj Arg1:T15 Arg2:T6	
+T16	Spatial-Relation 183 189	darker
+T17	Spatial-Relation 194 199	above
+R5	Obj Arg1:T16 Arg2:T6	
+R6	Obj Arg1:T17 Arg2:T6	
+A2	Mod-Uncertainty-Approximation T11

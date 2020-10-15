@@ -1,0 +1,6 @@
+T1	Markable 18 34	three black dots
+T2	Markable 50 67	a horizontal line
+T3	Markable 76 79	One
+T4	Markable 99 113	the middle one
+T5	Markable 138 152	the middle one
+R1	Predicative Arg1:T2 Arg2:T1	

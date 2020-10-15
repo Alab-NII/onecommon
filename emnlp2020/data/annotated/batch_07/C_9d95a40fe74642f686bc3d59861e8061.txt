@@ -1,0 +1,3 @@
+0: Very large very light gray dot?
+1: is it in line with a smaller grey
+0: yeah

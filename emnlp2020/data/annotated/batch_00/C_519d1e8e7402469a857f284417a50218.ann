@@ -1,0 +1,9 @@
+T1	Markable 43 55	3 other dots
+T2	Markable 15 25	a dark dot
+T3	Markable 98 99	2
+T4	Markable 64 78	the middle one
+T5	Markable 133 142	one other
+T6	Markable 164 183	the light grey ones
+T7	Markable 213 232	the exact same dots
+T8	Markable 264 286	the darkest middle one
+R1	Anaphora Arg1:T6 Arg2:T3	

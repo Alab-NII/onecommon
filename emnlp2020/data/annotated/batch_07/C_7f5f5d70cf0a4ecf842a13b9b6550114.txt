@@ -1,0 +1,10 @@
+1: bottom Large black dot
+0: Near center mass?
+1: yes just slightly to the left
+0: Negative, very top, dark gray large, actually partially out of circle
+1: nope...
+0: Right near 1:00 Light gray circle with darker larger circle to the left of it.
+1: is it on the right and down just below the center? t
+0: Negative, Left of circle, three dots all same size all same tint
+1: i dont have that. do you medium gray to left going down to the bottom... mine is by its self...
+0: Negative, that is all I have. Maybe the first one you said then

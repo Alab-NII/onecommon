@@ -1,0 +1,14 @@
+T1	Markable 46 49	one
+T2	Markable 67 99	a slightly larger light grey dot
+T3	Markable 127 129	it
+T4	Markable 177 179	it
+T5	Markable 280 288	the rest
+T6	Markable 247 251	mine
+T7	Markable 226 240	that black one
+T8	Markable 3 18	My blackest dot
+A1	Generic T1
+T9	Markable 106 109	its
+T10	Markable 157 161	what
+A2	No-Referent T10
+R1	Anaphora Arg1:T4 Arg2:T3	
+R2	Anaphora Arg1:T6 Arg2:T7	

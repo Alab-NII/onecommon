@@ -1,0 +1,16 @@
+T1	Markable 14 44	a really small medium grey dot
+T2	Markable 56 70	huge black dot
+T3	Markable 89 108	huge light grey dot
+T4	Markable 165 179	the light grey
+T5	Markable 118 122	that
+T6	Markable 221 233	a small grey
+T7	Markable 235 255	My pair of huge dots
+T9	Markable 322 326	they
+T10	Markable 414 436	another light grey dot
+T11	Markable 364 383	the really dark dot
+T12	Markable 483 509	that really dark large dot
+T13	Markable 128 158	a really small medium grey dot
+A1	No-Referent T6
+T8	Markable 311 314	dot
+R1	Anaphora Arg1:T9 Arg2:T8	
+A2	No-Referent T8

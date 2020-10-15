@@ -1,0 +1,15 @@
+T1	Markable 42 46	them
+T2	Markable 66 79	wide triangle
+T4	Markable 9 34	a group of 3 smaller dots
+T5	Markable 35 38	two
+T6	Markable 90 112	two smaller black dots
+T7	Markable 121 131	each other
+T8	Markable 141 149	Left one
+T9	Markable 252 264	these 2 dots
+T10	Markable 209 226	a larger grey dot
+T11	Markable 284 288	that
+T12	Markable 315 345	the slightly smaller black dot
+R1	Anaphora Arg1:T1 Arg2:T4	
+R3	Anaphora Arg1:T7 Arg2:T6	
+T13	Markable 174 179	right
+R2	Predicative Arg1:T2 Arg2:T4	

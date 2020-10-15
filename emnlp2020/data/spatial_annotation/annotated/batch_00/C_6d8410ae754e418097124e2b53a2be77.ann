@@ -1,0 +1,26 @@
+T1	Markable 9 31	1 small pure black dot
+T3	Markable 110 112	it
+T5	Markable 125 142	3 light grey dots
+T7	Markable 234 238	they
+T8	Markable 211 228	3 light grey dots
+T9	Markable 274 300	another very dark grey dot
+T10	Markable 311 333	several dark grey dots
+T11	Markable 350 361	1 black dot
+T12	Markable 383 391	that one
+T13	Markable 399 407	only one
+T14	Markable 33 54	It's closest neighbor
+R3	Anaphora Arg1:T7 Arg2:T8	
+R4	Anaphora Arg1:T13 Arg2:T12	
+T2	Spatial-Relation 38 54	closest neighbor
+R1	Obj Arg1:T2 Arg2:T1	
+T6	Spatial-Relation 70 77	smaller
+R5	Obj Arg1:T6 Arg2:T1	
+T15	Spatial-Attribute 60 69	dark grey
+T16	Spatial-Relation 143 161	in different sizes
+A1	No-Obj T16
+T4	Modifier 167 173	almost
+T17	Spatial-Relation 174 200	form an isosceles triangle
+A2	No-Obj T17
+T18	Spatial-Relation 239 250	form a line
+A3	No-Obj T18
+#1	AnnotatorNotes T2	near

@@ -1,0 +1,7 @@
+T1	Markable 27 51	a similar sized grey dot
+T2	Markable 79 83	them
+T3	Markable 8 20	2 black dots
+T4	Markable 98 102	that
+T5	Markable 123 135	the grey dot
+T6	Markable 142 156	the black dots
+R1	Anaphora Arg1:T2 Arg2:T3	

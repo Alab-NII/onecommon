@@ -1,0 +1,7 @@
+1: hello which dot would you like to try for?
+0: there is a cluster of 3 dots at the bottom of my circle. The left is smaller and gray, the middle is larger and dark gray and the right is higher and black
+1: hmm dont have that in my circle. Do you have 3 dots that look like a triangle pointing to the north west? the top of the triangle is lighter than the other 2 dots?
+0: I have a very light gray dot near the top of the circle. Should we try that one?
+1: is it small?
+0: yes
+1: sounds like it might be it lets go for it

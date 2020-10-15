@@ -1,0 +1,4 @@
+0: do you have a tiny black one on the right? it has a larger *but still small* dark grey one to it's upper left?
+1: Yes! Is there a larger dark grey dot to the right bottom of the black one?
+0: no i have nothing else on the right of mine. but there is a line of 4 on the far left from them... top of the 4 is smallest ?? or if you only see a line of 3 the top one is dark grey and largest
+1: Yes! click that tiny black one!

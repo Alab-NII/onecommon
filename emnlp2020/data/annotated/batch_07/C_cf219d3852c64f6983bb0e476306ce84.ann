@@ -1,0 +1,27 @@
+T1	Markable 9 15	5 dots
+T2	Markable 26 30	they
+T3	Markable 61 65	They
+T4	Markable 127 137	seven dots
+T5	Markable 191 207	the lighter ones
+T6	Markable 184 187	One
+T7	Markable 227 235	that one
+T9	Markable 252 254	It
+T10	Markable 293 318	any very small light ones
+T11	Markable 320 337	my two light ones
+T12	Markable 406 408	it
+T13	Markable 418 422	they
+T14	Markable 507 518	the top one
+T15	Markable 524 535	the top one
+T16	Markable 570 577	the one
+T17	Markable 603 605	it
+R1	Anaphora Arg1:T2 Arg2:T1	
+T18	Markable 36 59	a square type of figure
+R2	Predicative Arg1:T18 Arg2:T1	
+T19	Markable 92 93	2
+T20	Markable 139 142	two
+T21	Markable 156 164	the rest
+R3	Anaphora Arg1:T7 Arg2:T6	
+R4	Anaphora Arg1:T9 Arg2:T7	
+A1	No-Referent T10
+T8	Markable 465 479	the bottom one
+R5	Anaphora Arg1:T15 Arg2:T14	

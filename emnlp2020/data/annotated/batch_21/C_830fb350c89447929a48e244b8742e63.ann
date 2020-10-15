@@ -1,0 +1,5 @@
+T1	Markable 54 64	bottom one
+T2	Markable 15 18	two
+T3	Markable 22 37	a vertical line
+T4	Markable 97 107	darker one
+R1	Predicative Arg1:T3 Arg2:T2	

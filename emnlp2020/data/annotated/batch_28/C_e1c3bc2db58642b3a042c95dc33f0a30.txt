@@ -1,0 +1,6 @@
+0: I have a light grey small dot nearly in the center
+1: two large black dots top of center with the bottom to the left
+0: No don't see that
+1: is there a large grey dot above and to the right of the small grey dot
+0: Its a medium size grey dot slightly up and right
+1: alright select the medium size grey dot

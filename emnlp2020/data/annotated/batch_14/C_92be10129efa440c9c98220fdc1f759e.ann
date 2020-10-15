@@ -1,0 +1,8 @@
+T1	Markable 10 27	2 light grey dots
+T2	Markable 39 43	They
+T3	Markable 86 99	2 darker dots
+T4	Markable 66 77	the top one
+T5	Markable 115 133	the top light grey
+T6	Markable 56 59	a \
+R1	Predicative Arg1:T6 Arg2:T2	
+R2	Anaphora Arg1:T2 Arg2:T1	

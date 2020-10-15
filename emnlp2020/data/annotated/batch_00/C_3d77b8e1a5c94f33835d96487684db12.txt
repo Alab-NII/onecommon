@@ -1,0 +1,5 @@
+1: I have a very small dot at the 2 oclock position
+0: big black dot almost in my middle. with a big black to the lower right
+1: No i dont have that. how about a light medium size dot at the 9-10 oclock area?
+0: nope . our circles must be way off. does your medium size dot from 9 oclock have a black dot to lower right and a grey big to upper right?
+1: yes

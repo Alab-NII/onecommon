@@ -1,0 +1,7 @@
+0: I have a large light gray dot all by itself
+1: do you see a tiny dot the same color as that one to the right and higher?
+0: yes i see like an inch away
+1: to the right and lower a bit further away, i also see a darker dot that is smaller but bigger than the tiny dot
+0: yes those 3 making a triangle, the on on the left bottom is the largest one i was talking about
+1: yes. i think we should pick the large light grey dot that you first mentioned.
+0: sure

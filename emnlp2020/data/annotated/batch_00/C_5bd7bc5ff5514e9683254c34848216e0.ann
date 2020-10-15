@@ -1,0 +1,16 @@
+T1	Markable 39 54	a big black dot
+T2	Markable 73 75	it
+T3	Markable 80 102	a light small grey dot
+T4	Markable 146 150	that
+T5	Markable 220 235	1 big black dot
+T6	Markable 309 317	my black
+T7	Markable 347 351	that
+T8	Markable 410 423	any other one
+T9	Markable 3 16	fat black one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T10	Markable 106 109	its
+R2	Anaphora Arg1:T10 Arg2:T1	
+A1	No-Referent T4
+T11	Markable 163 175	a small grey
+R3	Anaphora Arg1:T7 Arg2:T6	
+A2	No-Referent T8

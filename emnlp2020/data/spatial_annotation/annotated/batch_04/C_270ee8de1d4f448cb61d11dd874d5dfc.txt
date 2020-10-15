@@ -1,0 +1,3 @@
+0: i see a large medium grey dot in the middle with a smaller dark dot above it
+1: Is it black forming a triangle, if it's a black dot click it
+0: alright clicking the black dot

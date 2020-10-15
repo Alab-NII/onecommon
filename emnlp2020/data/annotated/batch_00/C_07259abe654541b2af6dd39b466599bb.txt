@@ -1,0 +1,7 @@
+0: I have a very tiny medium gray dot with a lighter gray dot above and a larger gray dot to the right and below
+1: no black dots. two dark grey rest light grey
+0: any really tiny ones?
+1: two, light grey, 12 o clock edge and 9 o clock edge
+0: do you have two dots about the same size and color close to each other?
+1: I see two medium light grey close to each other.
+0: lets do the darker of the two

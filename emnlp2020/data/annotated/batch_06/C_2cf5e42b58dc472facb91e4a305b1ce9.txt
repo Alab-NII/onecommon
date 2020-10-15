@@ -1,0 +1,5 @@
+1: hi do u see 3 dots in a triangle?
+0: I see 3 triangles
+1: the one I see has a large black dot on the bottom right corner, and the other two points are light gray. do u see that one?
+0: Yes! Is the one on top the smallest?
+1: yes, lets click the smallest one on the top

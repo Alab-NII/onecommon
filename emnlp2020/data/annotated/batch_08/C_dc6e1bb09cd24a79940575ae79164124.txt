@@ -1,0 +1,4 @@
+1: i have two med size grey at top do u have those
+0: Do you see two very dark dots that are large and the same size very close together?
+1: yes near the 8:00 mark
+0: Yes! click the one on top?

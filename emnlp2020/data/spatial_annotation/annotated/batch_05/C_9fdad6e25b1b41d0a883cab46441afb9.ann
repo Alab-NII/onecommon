@@ -1,0 +1,50 @@
+T2	Markable 63 65	it
+T3	Markable 41 58	a large black dot
+T4	Markable 80 92	None of mine
+T5	Markable 111 129	2 large black dots
+T6	Markable 133 136	one
+T8	Markable 171 187	a large triangle
+T9	Markable 155 164	the other
+T10	Markable 194 211	a black small dot
+T11	Markable 254 256	it
+T12	Markable 228 238	a gray dot
+T13	Markable 310 329	the large black dot
+T14	Markable 289 302	that triangle
+T15	Markable 333 345	the triangle
+T16	Markable 3 18	Large black dot
+R1	Anaphora Arg1:T2 Arg2:T3	
+A1	No-Referent T4
+R2	Anaphora Arg1:T15 Arg2:T14	
+T1	Spatial-Relation 19 30	on the line
+A2	No-Obj T1
+#1	AnnotatorNotes T1	on the edge
+T7	Modifier 66 69	all
+T17	Spatial-Relation 70 75	alone
+A3	No-Obj T17
+T18	Spatial-Relation 97 102	alone
+A4	No-Obj T18
+T19	Spatial-Relation 140 151	on the line
+A5	No-Obj T19
+#2	AnnotatorNotes T19	on the edge
+T20	Spatial-Relation 168 170	in
+T21	Spatial-Relation 179 187	triangle
+A6	No-Obj T21
+T22	Spatial-Relation 189 193	with
+R3	Subj Arg1:T22 Arg2:T9	
+R4	Obj Arg1:T22 Arg2:T10	
+R5	Obj Arg1:T22 Arg2:T12	
+T23	Spatial-Relation 212 223	left and up
+R6	Obj Arg1:T23 Arg2:T9	
+T24	Modifier 239 247	directly
+T25	Spatial-Relation 248 253	above
+T26	Modifier 257 262	about
+T27	Spatial-Relation 294 302	triangle
+A7	No-Obj T27
+T28	Spatial-Relation 330 332	in
+T29	Spatial-Relation 337 345	triangle
+A8	No-Obj T29
+A9	Mod-Certainty-Exactness T7
+T30	Spatial-Relation 263 278	a couple inches
+R7	Split Arg1:T30 Arg2:T25	
+R9	Mod Arg1:T26 Arg2:T25	
+A10	Mod-Uncertainty-Approximation T26

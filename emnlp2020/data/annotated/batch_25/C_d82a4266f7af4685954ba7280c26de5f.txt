@@ -1,0 +1,3 @@
+0: I have a large black dot with a much smaller black dot below and to the left of it
+1: me too
+0: Ok. Let's pick the smaller lower one

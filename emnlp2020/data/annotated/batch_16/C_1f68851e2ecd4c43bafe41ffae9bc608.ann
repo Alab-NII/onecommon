@@ -1,0 +1,12 @@
+T1	Markable 38 56	a medium black dot
+T2	Markable 89 91	it
+T3	Markable 15 32	a large black dot
+T4	Markable 176 180	them
+T5	Markable 135 139	they
+T6	Markable 195 198	ONE
+R1	Anaphora Arg1:T2 Arg2:T3	
+T7	Markable 103 119	TWO DARK CIRCLES
+T8	Markable 145 169	a small dark gray circle
+R2	Anaphora Arg1:T4 Arg2:T5	
+T9	Markable 214 223	THE OTHER
+T10	Markable 243 264	the large dark circle

@@ -1,0 +1,6 @@
+1: do you have the lightest and smallest dot in the center?
+0: I have a really small really light dot
+1: same here
+0: it's kind of in between a larger light grey and a med dark grey?
+1: yes exactly they make a triangle, wanna select the lightest?
+0: yes

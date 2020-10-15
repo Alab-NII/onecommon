@@ -1,0 +1,7 @@
+0: I see a large dark grey dot all by itself
+1: I have two big dots, one is very dark and the other is very light
+0: Is the very dark one got of lonely by itself
+1: no, there's a small dot close by it. Do you have any clusters?
+0: Oh i think i see that one! Is the small close to it above it and a lighter color?
+1: yes there is a smaller lighter one above and to its right
+0: Let's choose the big dark grey circle

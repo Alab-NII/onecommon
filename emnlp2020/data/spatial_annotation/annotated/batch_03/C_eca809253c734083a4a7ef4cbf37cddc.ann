@@ -1,0 +1,29 @@
+T1	Markable 9 32	two light grey med dots
+T2	Markable 81 94	two grey dots
+T3	Markable 133 143	each other
+T4	Markable 145 152	The one
+T5	Markable 221 240	the same exact ones
+T6	Markable 245 252	the one
+T7	Markable 304 311	the one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T8	Markable 289 297	the left
+R2	Anaphora Arg1:T7 Arg2:T6	
+T9	Modifier 42 48	almost
+T10	Spatial-Relation 49 66	identical in size
+A1	No-Obj T10
+#1	AnnotatorNotes T10	same size
+T11	Spatial-Relation 96 105	same size
+A2	No-Obj T11
+T12	Modifier 110 116	nearly
+T13	Spatial-Relation 117 132	horizontal from
+T14	Spatial-Relation 153 165	on the right
+R3	Obj Arg1:T14 Arg2:T2	
+T15	Modifier 169 177	slightly
+T16	Spatial-Relation 178 185	lighter
+R4	Obj Arg1:T16 Arg2:T2	
+T17	Spatial-Relation 253 265	on the right
+T18	Modifier 269 277	slightly
+T19	Spatial-Relation 278 288	lower than
+T20	Spatial-Relation 293 297	left
+T21	Spatial-Relation 312 324	on the right
+R6	Obj Arg1:T21 Arg2:T8	

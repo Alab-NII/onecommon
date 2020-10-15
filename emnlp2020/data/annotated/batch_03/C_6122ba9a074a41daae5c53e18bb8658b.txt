@@ -1,0 +1,3 @@
+0: five dark and two grey circles
+1: There are three dark gray dots. To the left, I see a larger and still dark (but not as dark) gray dot, and to the right I see the lightest gray dot alone.
+0: okay let us select the lightest gray dot

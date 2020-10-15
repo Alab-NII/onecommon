@@ -1,0 +1,7 @@
+0: The darkest dot on my screen is nearly in the center for me
+1: yes I see a larger light grey dot, not really a lot near it
+0: Yeah tricky one since nothing is close, there are two very light ones down and to the left
+1: Is one pretty large in size and lighter?
+0: Theres actually two that fit that description so to be safe I saw the darkest one thats medium sized
+1: Ok I will take the dark medium one. It is by far the darkest for me.
+0: Same, good luck!

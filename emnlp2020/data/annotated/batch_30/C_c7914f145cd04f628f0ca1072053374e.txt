@@ -1,0 +1,2 @@
+0: 2 black dots in a vertical line, bottom is larger?
+1: yeah i see it, lets choose the bottom one

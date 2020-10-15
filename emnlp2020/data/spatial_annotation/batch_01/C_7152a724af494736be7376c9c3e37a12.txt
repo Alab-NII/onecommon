@@ -1,0 +1,10 @@
+0: Do you have a large dark grey dot with a tiny lighter one to its bottom right?
+1: i have three dots in a diagonal line. the top two are the same color very dark grey. and the lowest one is black
+0: Dont seem to have that in mine. How about a large dark one with another slightly smaller one a tiny bit lighter to its immediate upper left?
+1: i see that but they are kind of far apart
+0: hmm this is a tough one! Do you have a very tiny dark gray dot by itself, with either a large one of the same color far to its upper right or a medium sized medium gray one far to its lower left?
+1: i do not have any tiny dots
+0: ok, i may have only a piece of your diagonal line that might be why its hard to pinpoint. is the diagonal line going down and to the right?
+1: yes. i selected by mistake but i think i can change my selection
+0: ok pick the bottom darker one in your diagonal line
+1: ok

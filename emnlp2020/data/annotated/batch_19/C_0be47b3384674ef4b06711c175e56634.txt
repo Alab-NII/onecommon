@@ -1,0 +1,4 @@
+0: two black dots diagonal from each other?
+1: yes
+0: if the top one is smaller and slightly to the left click the smaller one
+1: it is

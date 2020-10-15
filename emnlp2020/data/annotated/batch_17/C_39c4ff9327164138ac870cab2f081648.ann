@@ -1,0 +1,7 @@
+T1	Markable 35 45	each other
+T2	Markable 130 145	that bigger one
+T3	Markable 84 98	the bigger one
+T4	Markable 3 20	two med grey dots
+R1	Anaphora Arg1:T1 Arg2:T4	
+T5	Markable 59 62	ONE
+R2	Anaphora Arg1:T2 Arg2:T3	

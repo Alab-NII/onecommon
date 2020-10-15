@@ -1,0 +1,4 @@
+1: I have a large darker dot up high and my lowest is small and darker
+0: large dark gray above a medium light gray?
+1: yes and just to the right a bit
+0: yes

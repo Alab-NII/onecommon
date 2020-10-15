@@ -1,0 +1,7 @@
+T1	Markable 65 67	it
+T2	Markable 79 96	a medium grey dot
+T4	Markable 153 181	the lower, lightest grey one
+T5	Markable 3 17	Light grey dot
+T6	Markable 24 53	slightly smaller, medium-grey
+R1	Anaphora Arg1:T1 Arg2:T5	
+T7	Markable 120 133	both of those

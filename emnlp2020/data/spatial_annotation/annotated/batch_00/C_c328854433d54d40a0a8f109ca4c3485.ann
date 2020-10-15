@@ -1,0 +1,50 @@
+T1	Markable 3 33	a really dark medium sized one
+T2	Markable 40 58	a light, small one
+T3	Markable 62 65	its
+T4	Spatial-Relation 35 39	with
+R1	Anaphora Arg1:T3 Arg2:T1	
+T5	Markable 109 133	a medium grey larger one
+T6	Markable 145 157	the dark one
+T7	Markable 168 182	a med gray one
+T8	Markable 237 249	a darker one
+T9	Markable 256 260	that
+T10	Markable 268 287	no tiny lighter one
+T11	Markable 304 316	the dark one
+T12	Markable 323 342	larger, lighter one
+T13	Markable 373 377	that
+T14	Markable 389 399	a tiny one
+T15	Markable 416 430	the darker one
+T16	Markable 437 441	that
+T17	Markable 491 504	the small one
+T18	Markable 513 527	the darker one
+R2	Anaphora Arg1:T9 Arg2:T7	
+R3	Anaphora Arg1:T13 Arg2:T10	
+T19	Spatial-Relation 66 71	right
+R4	Subj Arg1:T19 Arg2:T2	
+R5	Obj Arg1:T19 Arg2:T3	
+T21	Modifier 83 91	slightly
+T22	Spatial-Relation 77 82	above
+R6	Mod Arg1:T21 Arg2:T22	
+R7	Subj Arg1:T22 Arg2:T2	
+R8	Obj Arg1:T22 Arg2:T3	
+T23	Spatial-Relation 123 129	larger
+T25	Spatial-Relation 139 144	below
+T26	Spatial-Relation 191 223	close to the bottom of my circle
+A1	No-Obj T26
+T27	Spatial-Relation 239 245	darker
+T28	Spatial-Relation 250 255	above
+T29	Spatial-Relation 288 303	to the right of
+T30	Spatial-Relation 276 283	lighter
+T31	Spatial-Relation 318 322	with
+T32	Spatial-Relation 323 329	larger
+T33	Spatial-Relation 331 338	lighter
+T34	Modifier 343 348	a bit
+T35	Spatial-Relation 349 356	further
+T36	Spatial-Relation 357 372	to the right of
+T37	Spatial-Relation 400 415	to the right of
+T38	Spatial-Relation 420 426	darker
+R10	Obj Arg1:T38 Arg2:T14	
+T39	Spatial-Relation 505 512	next to
+T40	Spatial-Relation 517 523	darker
+R11	Obj Arg1:T40 Arg2:T17	
+#1	AnnotatorNotes T26	bottom

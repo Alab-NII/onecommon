@@ -1,0 +1,4 @@
+0: three large circle that form a backwards L
+1: Is the one on top almost black and the largest?
+0: Yes! should we pick that one
+1: Yes!

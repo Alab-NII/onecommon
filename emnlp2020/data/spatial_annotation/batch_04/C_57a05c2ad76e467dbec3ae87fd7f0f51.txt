@@ -1,0 +1,7 @@
+1: very large black dot?
+0: i i do not have any black dots.
+1: k do you have a very tiny dark grey one?
+0: yes. there is nothing around it
+1: hmm is the closest dot to its larger and slightly lighter up to its left?
+0: yes. and further up and to the left is another larger dot that is the same color
+1: yes! click that larger one

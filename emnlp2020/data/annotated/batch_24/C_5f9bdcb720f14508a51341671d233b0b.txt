@@ -1,0 +1,7 @@
+1: i have one small black dot, above it to the left is a slightly larger light grey, below it and to the right is a medium sized medium grey dot
+0: Do you see 2 light gray dots, one above the other with the one on top a bit lighter than the one below it?
+1: i don't have that, i have two medium grey dots, the top one a bit larger and a bit darker
+0: nope...dont have it...do you see a small black dot with a bigger dark gray dot to the left of it? the colors of the 2 are close but just a shade off.
+1: maybe, is the dot to the left of it quite a bit left and just a little bit below?
+0: yes...want to click the bigger dot to the left?
+1: sure do

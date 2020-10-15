@@ -1,0 +1,6 @@
+T1	Markable 10 18	two dots
+T2	Markable 84 97	the other one
+T3	Markable 36 43	The one
+T5	Markable 107 109	it
+T6	Markable 172 187	the lighter one
+R1	Anaphora Arg1:T5 Arg2:T3	

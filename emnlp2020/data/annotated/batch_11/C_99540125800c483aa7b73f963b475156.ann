@@ -1,0 +1,13 @@
+T1	Markable 10 38	one lighter gray, medium dot
+T2	Markable 187 202	many other dots
+T3	Markable 150 169	one medium gray dot
+T4	Markable 249 268	a larger darker one
+T7	Markable 220 224	that
+T8	Markable 302 327	a smaller and lighter one
+T9	Markable 359 381	the darker, bigger one
+T10	Markable 66 79	a tiny circle
+T11	Markable 95 110	a larger circle
+T12	Markable 134 139	yours
+A1	No-Referent T12
+A2	No-Referent T7
+T13	Markable 238 247	2 circles

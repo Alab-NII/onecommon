@@ -1,0 +1,3 @@
+1: Do you have two large dark grey dots far away from each other? Left one is higher up
+0: two similar shade light grey dots the one is slightly lower and left
+1: Are they small? If so pick bottom one

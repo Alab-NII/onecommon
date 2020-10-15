@@ -1,0 +1,9 @@
+T1	Markable 47 61	light grey dot
+T2	Markable 35 41	a line
+T3	Markable 116 132	the largest dots
+T4	Markable 191 212	two of the small dots
+T6	Markable 237 250	the black dot
+T7	Markable 3 19	three small dots
+R1	Predicative Arg1:T2 Arg2:T7	
+T8	Markable 87 105	a three small dots
+T9	Markable 150 166	the outside dots

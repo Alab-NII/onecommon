@@ -1,0 +1,3 @@
+1: My blackest dot is small and medium size
+0: I have a medium size black dot and small one, wanna select the small black dot?
+1: Ya

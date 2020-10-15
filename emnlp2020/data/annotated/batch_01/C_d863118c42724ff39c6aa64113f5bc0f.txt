@@ -1,0 +1,8 @@
+0: I have 3 large dots that make a triangle, do you have that?
+1: no
+0: I have 2 black dots about an inch away from each other. top one is larger and to the left, the smaller is about an inch lower and to the right
+1: i have three dots in a diagonal line. starting from the top going diagonally down, it's a medium sized dark grey, slightly larger light grey, then a small black dot
+0: I have that. lets go with the small black one?
+1: i have a small black one that is by itself on the edge of my circle also
+0: i dont
+1: ok we can go with your choice

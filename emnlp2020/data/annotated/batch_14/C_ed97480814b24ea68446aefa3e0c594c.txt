@@ -1,0 +1,3 @@
+0: I got a big grey got, which is bigger than all the other dots. Please click on that one.
+1: Ah yes I see this one, it is the only large dot on the screen
+0: Poke that dot!

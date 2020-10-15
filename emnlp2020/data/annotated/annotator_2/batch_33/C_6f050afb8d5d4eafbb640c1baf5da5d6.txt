@@ -1,0 +1,5 @@
+1: Huge black dot. Below is a medium sized dark grey dot
+0: i have the large black one but nothing below, its in my bottom right corner
+1: Do you see two very very light and small dots? One way to the left and higher up is a bit larger
+0: no, i see a triangle pattern with the small light on the bottom, medium dark to the left and a large dark above and to the right
+1: Take that tiny light at bottom

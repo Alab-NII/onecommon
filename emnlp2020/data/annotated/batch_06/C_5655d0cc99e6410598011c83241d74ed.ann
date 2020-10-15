@@ -1,0 +1,10 @@
+T1	Markable 73 75	it
+T2	Markable 36 39	one
+T3	Markable 107 109	it
+T4	Markable 131 138	the one
+T5	Markable 214 218	that
+T6	Markable 237 250	the lower one
+T7	Markable 3 30	Tiny grey dark medium shade
+R1	Anaphora Arg1:T1 Arg2:T7	
+A1	No-Referent T3
+T8	Markable 111 129	2 small, dark grey

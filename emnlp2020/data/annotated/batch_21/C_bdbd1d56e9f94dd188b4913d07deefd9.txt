@@ -1,0 +1,5 @@
+0: i see two dots aligned at an angle. the upper to the right is darker and lower to the left is lighter (similar sizes)
+1: I have that too
+0: ok, let's pick the one that is upper and to the right?
+1: ok. i will pick that. it is darker right?
+0: yeah

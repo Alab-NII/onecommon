@@ -1,0 +1,21 @@
+T1	Markable 10 25	the darkest dot
+T2	Markable 52 68	a large grey dot
+T3	Markable 92 107	a few gray dots
+T4	Markable 121 140	the large black one
+T5	Markable 211 238	a slightly smaller grey dot
+T6	Markable 240 248	Grey dot
+T7	Markable 268 281	the black dot
+T8	Markable 289 291	it
+T9	Markable 329 342	the black dot
+T10	Markable 426 436	a triangle
+T11	Markable 397 422	3 similar size black dots
+T12	Markable 500 513	that triangle
+T13	Markable 457 477	a big light gray dot
+T14	Markable 535 539	that
+T15	Markable 548 561	your triangle
+T16	Markable 562 578	two smaller dots
+T17	Markable 583 597	one bigger one
+T18	Markable 621 633	the grey dot
+T19	Markable 157 172	The large black
+T20	Markable 347 349	It
+R1	Predicative Arg1:T10 Arg2:T11	

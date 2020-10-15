@@ -1,0 +1,5 @@
+T2	Markable 52 85	a slightly darker but smaller one
+T3	Markable 113 115	it
+T4	Markable 131 153	the smaller darker one
+T6	Markable 10 45	a mediums sized very light gray dot
+R1	Anaphora Arg1:T3 Arg2:T6	

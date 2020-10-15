@@ -1,0 +1,32 @@
+T1	Markable 6 22	your largest dot
+T2	Markable 159 163	them
+T4	Markable 143 155	the smallest
+T5	Markable 179 196	another small one
+T6	Markable 91 102	some 3 dots
+T7	Markable 219 226	the dot
+T8	Markable 262 282	a darker smaller one
+T9	Markable 309 323	the large grey
+T10	Markable 38 53	The darkest dot
+R2	Anaphora Arg1:T2 Arg2:T6	
+T11	Markable 237 252	large and light
+T12	Spatial-Relation 11 18	largest
+A1	No-Obj T12
+T13	Spatial-Attribute 23 33	light grey
+T14	Spatial-Relation 42 49	darkest
+A2	No-Obj T14
+T15	Spatial-Attribute 64 75	medium gray
+T3	Spatial-Relation 103 121	forming a triangle
+A3	No-Obj T3
+T16	Spatial-Relation 122 136	toward the top
+A4	No-Obj T16
+T17	Spatial-Relation 138 142	with
+T18	Spatial-Relation 147 155	smallest
+T19	Spatial-Attribute 170 174	dark
+R1	Subj Arg1:T19 Arg2:T4	
+T20	Spatial-Attribute 203 207	grey
+T21	Spatial-Relation 283 295	to the right
+T22	Spatial-Relation 264 278	darker smaller
+R3	Obj Arg1:T22 Arg2:T11	
+R4	Obj Arg1:T21 Arg2:T11	
+T23	Spatial-Relation 156 158	of
+T24	Modifier 64 70	medium

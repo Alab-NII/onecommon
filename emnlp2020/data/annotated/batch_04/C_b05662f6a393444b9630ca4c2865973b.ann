@@ -1,0 +1,4 @@
+T1	Markable 25 31	itself
+T3	Markable 110 114	that
+T4	Markable 3 20	one tiny dark dot
+R1	Anaphora Arg1:T1 Arg2:T4	

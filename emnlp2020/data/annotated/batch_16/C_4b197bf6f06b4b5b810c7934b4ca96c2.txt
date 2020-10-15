@@ -1,0 +1,5 @@
+1: Two large dots close together. One black?
+0: yes, lower one lighter color?
+1: Yes, if it's off to the left click it!
+0: 7 o'clock clock confirm
+1: Yes

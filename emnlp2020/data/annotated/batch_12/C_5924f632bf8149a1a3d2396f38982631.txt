@@ -1,0 +1,3 @@
+0: I have 2 large black dots next to each other
+1: I only have 1 large dark (almost black dot) There is a much smaller medium gray dot below and to the right of it
+0: okay. I see it. Click your large black one

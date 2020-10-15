@@ -1,0 +1,4 @@
+0: The smallest dot here is black
+1: Yes I do... up and to the right is a larger dark gray dot?
+0: Yes. let us select the small black dot
+1: ok!

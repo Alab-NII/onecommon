@@ -1,0 +1,3 @@
+1: I have a dark gray dot (almost black) that is darker than all the rest. There is a smaller medium gray dot below it to the right
+0: I see it! Want to click on the black one?
+1: Yes

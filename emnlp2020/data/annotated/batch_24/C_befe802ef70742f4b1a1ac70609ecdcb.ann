@@ -1,0 +1,15 @@
+T1	Markable 55 65	each other
+T2	Markable 101 111	each other
+T3	Markable 251 261	each other
+T4	Markable 211 230	two small dark dots
+T6	Markable 263 267	they
+T7	Markable 304 307	one
+T8	Markable 372 380	that one
+T10	Markable 3 40	two almost identical dark medium dots
+R1	Anaphora Arg1:T1 Arg2:T10	
+T11	Markable 83 86	any
+A1	No-Referent T11
+R2	Anaphora Arg1:T2 Arg2:T11	
+T12	Markable 127 153	two similar shade and size
+R3	Anaphora Arg1:T3 Arg2:T4	
+R4	Anaphora Arg1:T6 Arg2:T4	

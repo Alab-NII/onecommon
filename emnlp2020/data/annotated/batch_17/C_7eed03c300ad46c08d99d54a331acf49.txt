@@ -1,0 +1,3 @@
+0: I have 3 tiny dots next to a large grey dot
+1: Yes is the lightest tiny dot up and to the left of the large one?
+0: yes. lets click on the large dot

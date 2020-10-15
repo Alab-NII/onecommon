@@ -1,0 +1,16 @@
+T1	Markable 65 67	it
+T2	Markable 99 101	it
+T3	Markable 73 92	a darker larger one
+T4	Markable 124 126	it
+T5	Markable 110 117	Nothing
+T6	Markable 130 144	my large black
+T7	Markable 184 208	the smallest darkest dot
+T8	Markable 263 282	the small black dot
+T9	Markable 3 19	The smallest dot
+T10	Markable 37 41	Mine
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T5
+T11	Markable 170 174	What
+A2	Generic T11
+T12	Markable 212 222	Large grey
+T13	Markable 224 235	large black

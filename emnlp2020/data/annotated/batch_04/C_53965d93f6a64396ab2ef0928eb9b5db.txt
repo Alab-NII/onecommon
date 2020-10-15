@@ -1,0 +1,4 @@
+1: large dark dot to left do u have it
+0: ok got it
+1: lets click it
+0: ok

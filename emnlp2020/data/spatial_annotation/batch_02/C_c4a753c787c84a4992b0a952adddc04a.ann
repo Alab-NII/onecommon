@@ -1,0 +1,11 @@
+T1	Markable 74 85	darker ones
+T2	Markable 49 52	two
+T3	Markable 15 42	one larger lighter grey dot
+T4	Markable 92 94	it
+T5	Markable 129 136	the one
+T6	Markable 191 198	the one
+T7	Markable 143 145	it
+T8	Markable 205 207	it
+T9	Markable 257 278	the bottom larger one
+R1	Anaphora Arg1:T4 Arg2:T3	
+T10	Markable 53 69	slightly smaller

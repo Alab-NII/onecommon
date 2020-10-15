@@ -1,0 +1,4 @@
+0: i see two extremely close together where one is significantly larger, but lighter than the other.
+1: Yes, is the larger one northwest of the other?
+0: it is northeast. nearby, there is a medium sized and medium shaded dot.
+1: Yes. I meant NE. I hate that you cannot correct yourself. Let's choose the larger one.

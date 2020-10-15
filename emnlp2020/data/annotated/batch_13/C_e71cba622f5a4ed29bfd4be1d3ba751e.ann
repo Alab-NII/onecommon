@@ -1,0 +1,7 @@
+T1	Markable 44 50	itself
+T2	Markable 3 40	Medium sized, medium colored gray dot
+T3	Markable 75 87	the left one
+T4	Markable 106 119	the right one
+T5	Markable 160 174	the larger one
+R1	Anaphora Arg1:T1 Arg2:T2	
+T6	Markable 54 62	two dots

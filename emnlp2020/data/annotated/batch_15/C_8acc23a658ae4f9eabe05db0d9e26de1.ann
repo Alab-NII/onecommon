@@ -1,0 +1,9 @@
+T2	Markable 7 30	the biggest darkest one
+T3	Markable 124 143	not other dark ones
+T4	Markable 82 97	a very dark dot
+T5	Markable 99 101	it
+T6	Markable 180 206	a tiny very light gray one
+T7	Markable 219 221	it
+R1	Anaphora Arg1:T5 Arg2:T4	
+A1	No-Referent T3
+T1	Markable 228 239	the big guy

@@ -1,0 +1,4 @@
+1: Large med gray dot with very dark smallest dot to left?
+0: Is there a light gray dot to the right of it?
+1: I don't see one, but my large dot is close to the edge of my circle
+0: Okay lets select that one

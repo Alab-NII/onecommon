@@ -1,0 +1,6 @@
+0: I have one very large black dot, one very small light dot, do you have either?
+1: No, I do not see that but I have two large black dots that are together towards the top of my circle, do you have that?
+0: I have two dark dots together but they are both medium sized
+1: Ok, I have three dots together that form a triangle, they are all small, and the one on the bottom left is light gray, the right is black, and the one that makes the top point of the triangle is a dark gray, do you have that grouping of three dots?
+0: Yes. I'll select the bottom left light one. Is this triangle relatively isolated?
+1: Yes, it is relatively isolated, I will choose the bottom left one as well.

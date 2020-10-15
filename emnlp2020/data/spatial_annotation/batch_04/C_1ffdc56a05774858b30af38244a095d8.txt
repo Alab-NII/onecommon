@@ -1,0 +1,3 @@
+0: I see a very small very black dot towards the center of my circle, it's the right of a larger medium grey circle
+1: Yes I see a large gray dot, and a small black dot about 1.5cm to the right and very slightly below. Shall we select the small black dot?
+0: yes

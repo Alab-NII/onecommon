@@ -1,0 +1,39 @@
+T1	Markable 9 31	only one dark gray dot
+T2	Markable 90 94	that
+T3	Markable 131 143	The left one
+T5	Markable 197 202	three
+T6	Markable 257 260	one
+T7	Markable 292 295	one
+T8	Markable 341 355	the larger one
+A1	No-Referent T2
+T9	Markable 103 117	2 smaller dots
+T10	Markable 231 234	Two
+T11	Markable 308 319	the other 2
+T12	Spatial-Relation 32 47	towards the top
+A2	No-Obj T12
+T13	Spatial-Relation 52 63	to the left
+A3	No-Obj T13
+T14	Modifier 64 72	a little
+R2	Mod Arg1:T14 Arg2:T13	
+T15	Spatial-Relation 105 112	smaller
+A4	No-Obj T15
+T16	Spatial-Relation 118 128	horizontal
+A5	No-Obj T16
+T17	Spatial-Relation 156 162	larger
+T18	Modifier 147 155	slightly
+T19	Spatial-Relation 169 176	lighter
+R3	Obj Arg1:T17 Arg2:T9	
+R4	Obj Arg1:T19 Arg2:T9	
+T20	Spatial-Relation 214 228	make a triangl
+A6	No-Obj T20
+T4	Modifier 208 213	could
+T21	Spatial-Attribute 235 252	medium color gray
+T22	Spatial-Relation 261 273	lighter gray
+R1	Obj Arg1:T22 Arg2:T10	
+T23	Spatial-Relation 296 307	bigger than
+T24	Spatial-Relation 345 351	larger
+T25	Spatial-Relation 135 139	left
+R6	Obj Arg1:T25 Arg2:T9	
+T26	Modifier 235 241	medium
+R7	Obj Arg1:T24 Arg2:T11	
+A7	Mod-Uncertainty-Approximation T4

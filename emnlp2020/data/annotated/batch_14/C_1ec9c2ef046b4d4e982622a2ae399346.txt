@@ -1,0 +1,5 @@
+1: bottom, dark grey on the left, above 6 o clock, medium gray, to the right of that above it - both large
+0: I'm not sure. Do you see a triangle of dark grey dots medium far equidistant apart?
+1: yes, the top one is smaller than the other two
+0: Great. That's what I have. Let's choose that smallest one on top.
+1: okay

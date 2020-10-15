@@ -1,0 +1,4 @@
+0: Do you have three dots forming a triangle with a small gray on top, a medium black on bottom left, and medium gray on bottom right?
+1: I have a medium dark grey dot down and to the left of a lighter grey one
+1: Yes I see that triangle! Which should we go with?
+0: Lets go with the small one on top

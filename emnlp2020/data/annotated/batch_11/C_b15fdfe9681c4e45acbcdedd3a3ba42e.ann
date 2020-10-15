@@ -1,0 +1,13 @@
+T2	Markable 66 83	a small light dot
+T3	Markable 15 33	a light larger Dot
+T4	Markable 44 46	it
+T5	Markable 95 113	a smaller dark dot
+T6	Markable 122 138	a large gray dot
+T7	Markable 149 164	zero black dots
+T8	Markable 175 194	the larger gray dot
+T9	Markable 205 207	it
+T10	Markable 236 262	your smallest lightest dot
+R1	Anaphora Arg1:T4 Arg2:T3	
+A1	No-Referent T7
+R2	Anaphora Arg1:T9 Arg2:T8	
+T1	Markable 208 226	a smaller gray dot

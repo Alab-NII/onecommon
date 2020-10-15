@@ -1,0 +1,12 @@
+T1	Markable 44 54	a triangle
+T3	Markable 10 33	a cluster of three dots
+T4	Markable 86 103	a dark medium one
+T5	Markable 122 139	a dark medium one
+T9	Markable 56 73	A small light one
+T10	Markable 185 203	a light larger one
+T11	Markable 210 223	the small one
+T12	None 176 178	It
+T13	Markable 306 318	the triangle
+T14	Markable 270 289	the small light one
+R1	Predicative Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes T12	is

@@ -1,0 +1,4 @@
+0: my largest dot is also the darkest, its is near a light dot near same size
+1: no. Do you see two small almost black dots that look almost identical to each other?
+0: yes. the darker is on top left, the just barely lighter is on bottom right?
+1: yes click the bottom one!

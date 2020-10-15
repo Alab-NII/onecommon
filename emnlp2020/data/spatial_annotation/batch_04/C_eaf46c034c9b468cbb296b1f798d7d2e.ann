@@ -1,0 +1,9 @@
+T1	Markable 9 14	three
+T2	Markable 38 41	Two
+T3	Markable 82 96	The bottom one
+T4	Markable 128 132	that
+T5	Markable 161 167	5 dots
+T6	Markable 194 210	the big dark one
+R1	Anaphora Arg1:T4 Arg2:T1	
+T7	Markable 143 155	a Very shape
+R2	Predicative Arg1:T5 Arg2:T7	

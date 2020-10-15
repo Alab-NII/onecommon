@@ -1,0 +1,51 @@
+T1	Markable 37 53	a light grey dot
+T2	Markable 13 30	a medium grey dot
+T3	Markable 60 62	it
+T4	Markable 150 153	one
+T5	Markable 191 194	one
+T6	Markable 100 117	a really dark dot
+T7	Markable 123 131	two dots
+T8	Markable 147 149	it
+T9	Markable 275 309	the smallest and lightest grey dot
+T11	Markable 380 382	it
+T12	Markable 321 353	a really light one, medium sized
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T8 Arg2:T6	
+T13	Markable 167 171	that
+R3	Anaphora Arg1:T13 Arg2:T4	
+T14	Markable 208 212	that
+R4	Anaphora Arg1:T14 Arg2:T5	
+T10	Markable 360 373	a medium grey
+R5	Anaphora Arg1:T11 Arg2:T12	
+T15	Markable 428 455	that light medium sized dot
+T16	Spatial-Relation 32 36	with
+T17	Spatial-Relation 54 59	below
+T18	Spatial-Relation 67 79	to the right
+R6	Subj Arg1:T18 Arg2:T1	
+R7	Obj Arg1:T18 Arg2:T3	
+T19	Spatial-Relation 118 122	with
+T20	Modifier 132 140	slightly
+T21	Spatial-Relation 141 146	below
+T22	Spatial-Relation 154 165	to the left
+R8	Obj Arg1:T22 Arg2:T6	
+T23	Modifier 173 178	a lot
+T24	Spatial-Relation 179 186	lighter
+R9	Obj Arg1:T24 Arg2:T6	
+T25	Spatial-Relation 195 207	to the right
+R10	Obj Arg1:T25 Arg2:T6	
+T26	Modifier 214 222	a little
+T27	Spatial-Relation 223 230	lighter
+R11	Obj Arg1:T27 Arg2:T6	
+T28	Modifier 235 243	a little
+T29	Spatial-Relation 244 250	larger
+R12	Obj Arg1:T29 Arg2:T6	
+T30	Spatial-Relation 279 300	smallest and lightest
+A1	No-Obj T30
+T31	Spatial-Relation 355 359	with
+T32	Spatial-Relation 374 379	below
+T33	Spatial-Relation 387 398	to the left
+R13	Subj Arg1:T33 Arg2:T10	
+R14	Obj Arg1:T33 Arg2:T11	
+T34	Modifier 399 407	slightly
+R15	Mod Arg1:T34 Arg2:T33	
+A2	Mod-Extremity T23

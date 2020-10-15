@@ -1,0 +1,18 @@
+T1	Markable 32 38	itself
+T2	Markable 17 24	one dot
+T4	Markable 57 73	a line of 3 dots
+T5	Markable 109 129	two medium gray dots
+T6	Markable 159 166	The one
+T7	Markable 200 204	that
+T8	Markable 220 234	two small dots
+T9	Markable 236 248	both of them
+T10	Markable 275 298	a small medium gray dot
+T11	Markable 308 320	a larger dot
+T12	Markable 327 340	the small one
+T13	Markable 354 367	the large one
+T14	Markable 376 378	it
+T15	Markable 392 405	the small one
+R1	Anaphora Arg1:T1 Arg2:T2	
+T3	Markable 75 84	one small
+A1	No-Referent T7
+R2	Anaphora Arg1:T9 Arg2:T8	

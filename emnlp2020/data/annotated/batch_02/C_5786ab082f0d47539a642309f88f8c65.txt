@@ -1,0 +1,7 @@
+1: I have a small, medium grey dot all alone
+0: no small black dot at right toward top
+1: does it sit above a larger dot
+0: no medium gray dot toward top flanked by two black dots toward the sides
+1: no. what about an upside down triangle. the lowest peak is small black dot and the two other corners, the one on the right is really dark grey and the largest of the 3
+0: yes, let's mark the larger dark grey one
+1: ok

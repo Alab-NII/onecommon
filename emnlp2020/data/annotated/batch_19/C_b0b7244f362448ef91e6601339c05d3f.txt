@@ -1,0 +1,2 @@
+1: I've got a cluster of 4 dots. There is a darker one on the right side of that cluster. You got that cluster. If so, click on the darker dot.
+0: Yes I see that cluster. Ok taking the dark one.

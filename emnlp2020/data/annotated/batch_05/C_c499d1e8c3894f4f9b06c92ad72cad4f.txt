@@ -1,0 +1,5 @@
+1: i see tiniest black circle just to bottom right of center circle
+0: three dark dots in a triangle, the one on the left is larger?
+0: and it's quite separate from the other dots?
+1: no i see the dark largest dot top right of circle more towards center
+1: yes lets click small black dot!

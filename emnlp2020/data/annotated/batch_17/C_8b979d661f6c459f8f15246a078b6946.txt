@@ -1,0 +1,5 @@
+0: 3 dots forming a face with the nose being the darkest and left eye being almost identical in size?
+1: I cannot see that. I have one very light very small dot. do you see it
+0: Is there a larger slightly darker dot to its right?
+1: Yes and same size darker below
+0: yes thats the face i was talking about! click the darkest one!

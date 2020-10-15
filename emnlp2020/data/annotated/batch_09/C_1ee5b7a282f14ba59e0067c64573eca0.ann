@@ -1,0 +1,16 @@
+T1	Markable 10 30	a pair of tiny grays
+T2	Markable 70 92	one little lighter dot
+T3	Markable 41 64	3 pairs of darkish dots
+T4	Markable 133 142	each pair
+T5	Markable 144 151	the dot
+T6	Markable 221 232	One of mine
+T7	Markable 274 277	one
+T8	Markable 316 319	one
+T11	Markable 441 455	a smaller pair
+T12	Markable 421 434	a larger pair
+T13	Markable 466 482	the smaller pair
+T14	Markable 528 544	the smaller pair
+T15	Markable 498 524	the smaller right-side dot
+T16	Markable 119 128	two pairs
+R1	Anaphora Arg1:T4 Arg2:T16	
+T9	Markable 362 371	My layout

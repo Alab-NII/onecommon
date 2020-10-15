@@ -1,0 +1,8 @@
+T1	Markable 14 24	2 big ones
+T2	Markable 40 54	the other dark
+T3	Markable 83 93	a triangle
+T4	Markable 138 151	that triangle
+T5	Markable 153 167	the three dots
+T6	Markable 231 238	the dot
+T7	Markable 26 29	one
+R1	Anaphora Arg1:T5 Arg2:T4	

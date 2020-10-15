@@ -1,0 +1,3 @@
+0: Hi do you have a medium sized black dot with a smaller gray dot to its left and slightly lower?
+1: yes I do. Let's pick the darker larger one (to the right)
+0: sounds good

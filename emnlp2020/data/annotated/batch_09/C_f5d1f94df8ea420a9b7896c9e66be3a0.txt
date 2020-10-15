@@ -1,0 +1,4 @@
+0: I have a dark small black dot with a bigger light gray one to its upper right, do you have those?
+1: Yes
+0: Okay lets click the smaller black one
+1: Ok

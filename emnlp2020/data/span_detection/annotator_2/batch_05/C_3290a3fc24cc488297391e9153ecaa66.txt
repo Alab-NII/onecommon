@@ -1,0 +1,3 @@
+1: 2 black dots next to each other. A large one with a smaller one to its left
+0: i have a close set of similar sized dots one on top the other, the top one is darker
+1: I see yours. Click the lighter of the 2.

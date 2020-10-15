@@ -1,0 +1,6 @@
+0: i see four large gray dots on the left side
+1: i have four as well three of mine are closer then the last one are yours all the same colors?
+0: yes three are closer than the one that is lower
+1: okay which one do you want to click then
+0: three look like they are lined up so how about the top one
+1: okay

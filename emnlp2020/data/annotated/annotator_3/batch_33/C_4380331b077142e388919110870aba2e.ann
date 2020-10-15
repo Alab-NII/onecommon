@@ -1,0 +1,27 @@
+T1	Markable 65 68	one
+T2	Markable 33 45	a group of 4
+T3	Markable 47 59	a group of 2
+T4	Markable 9 22	a lot of dots
+T5	Markable 72 78	itself
+T6	Markable 87 94	the one
+T8	Markable 98 104	itself
+T9	Markable 108 135	the largest and a dark grey
+T10	Markable 144 151	the one
+T12	Markable 209 225	the group of two
+T13	Markable 227 231	They
+T14	Markable 248 258	each other
+T15	Markable 401 408	the one
+T16	Markable 373 391	the small grey dot
+T17	Markable 428 430	It
+T18	Markable 479 508	the only small light grey dot
+T19	Markable 547 555	that one
+A1	All-Referents T4
+R1	Anaphora Arg1:T5 Arg2:T1	
+R2	Anaphora Arg1:T8 Arg2:T6	
+R3	Predicative Arg1:T9 Arg2:T6	
+R4	Anaphora Arg1:T14 Arg2:T13	
+T7	Markable 260 267	the top
+T11	Markable 301 317	the bottom(left)
+R5	Predicative Arg1:T15 Arg2:T16	
+R6	Anaphora Arg1:T17 Arg2:T16	
+R7	Predicative Arg1:T18 Arg2:T17	

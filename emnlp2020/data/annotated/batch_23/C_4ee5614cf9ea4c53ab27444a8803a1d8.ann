@@ -1,0 +1,9 @@
+T1	Markable 10 26	a very light dot
+T2	Markable 103 106	one
+T3	Markable 79 89	a triangle
+T4	Markable 120 130	light dots
+T5	Markable 59 71	3 black dots
+T6	Markable 177 197	the lower medium dot
+T7	Markable 201 213	the triangle
+R1	Predicative Arg1:T3 Arg2:T5	
+T8	Markable 90 91	2

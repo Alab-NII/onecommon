@@ -1,0 +1,40 @@
+T1	Markable 33 41	left one
+T2	Markable 84 88	that
+T3	Markable 94 98	they
+T5	Markable 224 231	the one
+T6	Markable 268 275	the one
+T7	Markable 309 314	those
+T8	Markable 329 365	an extremely light colored large dot
+T9	Markable 423 441	an even darker dot
+T10	Markable 380 396	a small dark dot
+T11	Markable 3 16	two large dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+T12	Markable 134 138	they
+A1	No-Referent T7
+T4	Spatial-Relation 17 31	close together
+A2	No-Obj T4
+T13	Spatial-Relation 33 37	left
+R2	Obj Arg1:T13 Arg2:T11	
+T14	Modifier 45 57	a little bit
+T15	Spatial-Relation 58 64	darker
+R3	Obj Arg1:T15 Arg2:T11	
+T16	Spatial-Relation 99 129	on the left side of the screen
+A3	No-Obj T16
+T17	Spatial-Relation 143 159	on my right side
+A4	No-Obj T17
+T18	Spatial-Relation 232 244	of the right
+T19	Modifier 248 256	a little
+T20	Spatial-Relation 257 267	lower than
+T21	Spatial-Relation 276 287	on the left
+R4	Obj Arg1:T21 Arg2:T5	
+T22	Spatial-Relation 375 379	with
+R5	Subj Arg1:T22 Arg2:T8	
+T23	Spatial-Relation 397 418	below and to the left
+R6	Obj Arg1:T22 Arg2:T10	
+R7	Obj Arg1:T22 Arg2:T9	
+R8	Obj Arg1:T23 Arg2:T8	
+T24	Spatial-Relation 426 437	even darker
+R9	Obj Arg1:T24 Arg2:T10	
+T25	Spatial-Relation 442 464	below and to the right
+R10	Obj Arg1:T25 Arg2:T8	
+A5	Mod-Subtlty T14

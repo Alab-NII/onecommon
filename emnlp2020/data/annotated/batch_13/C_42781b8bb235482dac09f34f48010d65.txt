@@ -1,0 +1,3 @@
+0: I have a dark grey above and to the left of a same-sized lighter dot
+1: hmmm i don't have that. i have a black medium size, with a dark grey smaller one on it's right below/next
+0: I have that. The smaller one is slightly below and to the right? If so, select the smaller one

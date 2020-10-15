@@ -1,0 +1,14 @@
+T1	Markable 54 57	one
+T2	Markable 15 21	5 dots
+T3	Markable 136 151	the smaller one
+T4	Markable 178 192	the bigger one
+T5	Markable 95 112	2 light gray dots
+T6	Markable 208 213	yours
+T7	Markable 258 271	a smaller one
+T8	Markable 342 353	the top dot
+T9	Markable 307 325	a bigger black dot
+T10	Markable 373 391	the small gray dot
+T11	Markable 421 437	the top pale dot
+A1	No-Referent T6
+T12	Markable 227 234	to dots
+#1	AnnotatorNotes T12	two dots

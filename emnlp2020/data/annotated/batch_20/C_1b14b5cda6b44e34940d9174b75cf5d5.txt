@@ -1,0 +1,3 @@
+0: pretty large grey dot lower left alone
+1: Ok yes I only have one large dot and it is grey, center of screen for me
+0: lets choose that one

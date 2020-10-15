@@ -1,0 +1,14 @@
+T2	Markable 70 86	a light tiny one
+T3	Markable 158 168	a triangle
+T4	Markable 202 218	the med/grey one
+T5	Markable 237 250	the light one
+T1	Markable 3 11	med grey
+T6	Markable 17 28	a black one
+T7	Markable 56 58	it
+T8	Markable 90 95	their
+T9	Markable 122 131	which one
+A1	Generic T9
+T10	Markable 175 187	the lightest
+T11	Markable 153 155	it
+R1	Predicative Arg1:T3 Arg2:T11	
+R2	Anaphora Arg1:T7 Arg2:T1	

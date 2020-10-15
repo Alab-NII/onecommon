@@ -1,0 +1,7 @@
+0: three black ascending in size left to right
+1: i only have two black and they're both very small
+0: are there two medium gray dots in between those small dots?
+1: nope. my left most tiny black dot has a dark grey tiny dot almost directly above it an inch or so
+0: hmmm...do any of your tiny dots have a light gray dots vertically below it.
+1: nope nothing below those dots. What about this, I also have a triangle pointing down of 3 dots, the 'top" two are dark grey and the point below is lighter, they're about the same size
+0: got it...pick the light one

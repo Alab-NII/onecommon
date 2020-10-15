@@ -1,0 +1,4 @@
+1: i have one large dark gray dot in the middle towards the bottom
+0: With a smaller light gray one up and to the left
+1: yes which one do we choose though
+0: The large one

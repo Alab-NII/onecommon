@@ -1,0 +1,3 @@
+1: I see a cluster of dots, there is a big black dot on the right
+0: large dark dot right top on the circle line? smaller slightly lighter dot below it
+1: I'm not sure but let's choose that black dot

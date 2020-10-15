@@ -1,0 +1,19 @@
+T1	Markable 15 29	two small dots
+T2	Markable 40 56	a large dark dot
+T3	Markable 62 78	a small dark dot
+T4	Markable 85 87	it
+T6	Markable 140 144	that
+T8	Markable 294 306	my large one
+T9	Markable 345 356	smaller one
+T10	Markable 390 392	it
+T11	Markable 406 424	the large gray dot
+R1	Anaphora Arg1:T4 Arg2:T2	
+T13	Markable 93 117	a medium size lighter do
+#1	AnnotatorNotes T13	a medium size lighter dot
+A1	No-Referent T6
+T14	Markable 167 196	a large size, medium-gray dot
+T7	Markable 208 212	it's
+#2	AnnotatorNotes T7	its
+R2	Anaphora Arg1:T7 Arg2:T14	
+T15	Markable 219 233	small dark dot
+T16	Markable 289 293	that

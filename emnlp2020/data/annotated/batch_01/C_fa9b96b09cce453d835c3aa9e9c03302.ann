@@ -1,0 +1,11 @@
+T1	Markable 9 21	big dark dot
+T2	Markable 66 73	one dot
+T3	Markable 119 139	a uniquely small dot
+T4	Markable 167 169	it
+T5	Markable 153 166	the small dot
+T6	Markable 221 228	the dot
+T7	Markable 351 369	the small dark dot
+T8	Markable 420 424	that
+T9	Markable 94 106	all the rest
+A1	No-Referent T6
+R1	Anaphora Arg1:T4 Arg2:T5	

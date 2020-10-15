@@ -1,0 +1,33 @@
+T1	Markable 38 58	a larger lighter dot
+T2	Markable 10 31	a very small dark dot
+T3	Markable 72 74	it
+T4	Markable 102 104	it
+T5	Markable 158 162	that
+T6	Markable 176 196	the cluster of three
+T8	Markable 198 212	The lowest one
+T9	Spatial-Relation 216 227	the largest
+T10	Markable 247 250	its
+T11	Markable 304 312	that one
+R1	Anaphora Arg1:T3 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T2	
+T12	Markable 108 120	3 light dots
+A1	No-Referent T5
+T7	Markable 274 288	all the others
+T13	Spatial-Relation 33 37	with
+T14	Spatial-Relation 40 46	larger
+T15	Spatial-Relation 47 54	lighter
+T17	Spatial-Relation 59 71	a ways above
+T18	Modifier 80 95	almost directly
+T19	Spatial-Relation 96 101	above
+R4	Subj Arg1:T19 Arg2:T1	
+T21	Spatial-Relation 125 143	clustered together
+A2	No-Obj T21
+T22	Spatial-Relation 180 187	cluster
+A3	No-Obj T22
+R3	Obj Arg1:T9 Arg2:T6	
+T23	Spatial-Relation 202 208	lowest
+R5	Obj Arg1:T23 Arg2:T6	
+T24	Spatial-Relation 251 262	on the left
+T25	Spatial-Relation 263 273	lower than
+#1	AnnotatorNotes T17	far above
+A4	Mod-Certainty-Exactness T18

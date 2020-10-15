@@ -1,0 +1,27 @@
+T1	Markable 58 76	all the other dots
+T2	Markable 141 153	the same one
+T3	Markable 165 191	a triangle of smaller dots
+T5	Markable 204 208	that
+T6	Markable 220 231	2 large dot
+T8	Markable 312 334	a line of smaller dots
+T9	Markable 276 297	a large dark gray dot
+T10	Markable 346 362	the smallest dot
+T11	Markable 380 391	another one
+T12	Markable 440 448	that one
+T13	Markable 458 477	the black small dot
+T14	Markable 14 38	a large medium shade dot
+T15	Markable 88 94	2 dots
+A1	No-Referent T2
+R1	Anaphora Arg1:T5 Arg2:T3	
+T4	Spatial-Relation 39 57	off to the left of
+T7	Spatial-Relation 95 116	down and to the right
+T16	Spatial-Relation 165 175	a triangle
+T17	Spatial-Relation 179 186	smaller
+T18	Spatial-Relation 145 149	same
+T19	Spatial-Relation 232 250	towards the middle
+T20	Spatial-Relation 298 311	at the top of
+T21	Spatial-Relation 312 318	a line
+T22	Spatial-Relation 322 329	smaller
+T23	Spatial-Relation 350 358	smallest
+T24	Spatial-Attribute 369 374	black
+T25	Spatial-Relation 392 412	down and to the left

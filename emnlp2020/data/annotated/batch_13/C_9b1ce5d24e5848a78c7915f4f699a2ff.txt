@@ -1,0 +1,4 @@
+1: I see 2 LARGE black dots right next to each other forming a \
+0: Yes, should we choose the top or bottom one?
+1: top
+0: Okay

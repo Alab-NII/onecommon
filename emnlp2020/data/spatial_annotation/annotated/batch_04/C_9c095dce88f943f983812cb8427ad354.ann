@@ -1,0 +1,20 @@
+T1	Markable 40 51	each other,
+T2	Markable 83 97	very small one
+T3	Markable 143 172	the slightly left smaller one
+T4	Markable 134 141	the two
+T5	Markable 3 20	two med/grey dots
+R1	Anaphora Arg1:T1 Arg2:T5	
+T6	Markable 52 67	lower right one
+T7	Markable 123 130	the top
+T8	Modifier 22 27	RIGHT
+T9	Spatial-Relation 28 39	above/below
+#1	AnnotatorNotes T9	vertical
+T10	Spatial-Relation 52 63	lower right
+T11	Spatial-Relation 71 77	larger
+T12	Spatial-Relation 127 130	top
+T13	Spatial-Relation 131 133	of
+T14	Modifier 147 155	slightly
+T15	Spatial-Relation 156 160	left
+T16	Spatial-Relation 161 168	smaller
+R2	Obj Arg1:T15 Arg2:T4	
+R3	Obj Arg1:T16 Arg2:T4	

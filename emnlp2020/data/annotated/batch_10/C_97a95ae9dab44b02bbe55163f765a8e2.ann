@@ -1,0 +1,10 @@
+T1	Markable 10 28	one light grey dot
+T2	Markable 34 54	a smaller darker dot
+T3	Markable 71 73	it
+T5	Markable 160 177	a small black dot
+T6	Markable 193 197	them
+T7	Markable 217 223	3 dots
+T8	Markable 329 352	the very light grey one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T9	Markable 93 119	Two large medium grey dots
+T4	Markable 249 261	The left eye

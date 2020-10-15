@@ -1,0 +1,7 @@
+T1	Markable 49 59	each other
+T2	Markable 86 90	that
+T3	Markable 153 169	that lighter one
+T4	Markable 95 110	the lighter one
+T5	Markable 14 41	two tiny different tone dot
+R1	Anaphora Arg1:T1 Arg2:T5	
+R2	Anaphora Arg1:T3 Arg2:T4	

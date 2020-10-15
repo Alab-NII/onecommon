@@ -1,0 +1,45 @@
+T2	Markable 10 20	three dots
+T5	Markable 112 121	right one
+T7	Markable 157 171	the middle one
+T8	Markable 69 79	middle one
+T10	Markable 50 58	Left one
+T11	Markable 183 198	a dark grey dot
+T12	Markable 204 228	a light grey smaller dot
+T13	Markable 288 305	the dark grey dot
+T14	Markable 309 320	a black dot
+T15	Markable 372 391	the larger gray one
+T3	Markable 349 353	that
+T1	Spatial-Relation 21 48	in a slightly diagonal line
+A1	No-Obj T1
+T4	Modifier 26 34	slightly
+T6	Spatial-Relation 50 54	Left
+R1	Obj Arg1:T6 Arg2:T2	
+T9	Spatial-Attribute 62 67	black
+T16	Spatial-Relation 69 75	middle
+R2	Obj Arg1:T16 Arg2:T2	
+T17	Spatial-Attribute 83 89	little
+T18	Spatial-Attribute 97 106	dark gray
+T19	Spatial-Relation 112 117	right
+R3	Obj Arg1:T19 Arg2:T2	
+T20	Spatial-Relation 125 132	lighter
+T21	Modifier 137 144	a touch
+T22	Spatial-Relation 145 156	bigger than
+T23	Spatial-Relation 161 167	middle
+R4	Obj Arg1:T23 Arg2:T2	
+T24	Spatial-Relation 199 203	with
+T25	Modifier 229 237	directly
+T26	Spatial-Relation 238 253	to the right of
+R5	Obj Arg1:T26 Arg2:T11	
+T27	Modifier 261 265	very
+T28	Spatial-Relation 266 271	close
+R6	Obj Arg1:T28 Arg2:T11	
+T29	Modifier 273 281	directly
+T30	Spatial-Relation 282 287	below
+R7	Subj Arg1:T30 Arg2:T14	
+T31	Spatial-Relation 321 337	of the same size
+A2	No-Obj T31
+R8	Obj Arg1:T31 Arg2:T13	
+T32	Spatial-Relation 376 382	larger
+R9	Obj Arg1:T32 Arg2:T3	
+A3	Mod-Subtlty T21
+#1	AnnotatorNotes T28	near

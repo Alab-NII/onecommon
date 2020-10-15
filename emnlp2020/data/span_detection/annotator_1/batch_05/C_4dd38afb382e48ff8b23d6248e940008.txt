@@ -1,0 +1,4 @@
+1: I see a very black medium dot that forms a face with two medium grey large dots that form the eyes
+0: Yes I think I see it! Is there a smaller dark dot to the bottom right of the nose
+1: Bingo. Want to click on the nose?
+0: Sure!

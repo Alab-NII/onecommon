@@ -1,0 +1,6 @@
+1: i have one large dark grey and one medium
+0: i don't understand what you are saying i have three medium shade dots in a line almost the same size the one on the far right is lighter and slightly bigger there are two smaller dots below the line of 3
+1: i don't see that, is the larger light grey next to a medium grey?
+0: i have that the one on the right is bigger and lighter
+1: let's choose that one
+0: ok, you didn't say which one to pick

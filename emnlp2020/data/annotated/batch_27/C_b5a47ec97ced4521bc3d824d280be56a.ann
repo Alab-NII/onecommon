@@ -1,0 +1,10 @@
+T1	Markable 3 21	Group of four dots
+T2	Markable 69 86	a group of 4 dots
+T3	Markable 146 167	that lightest top dot
+T4	Markable 177 181	that
+T5	Markable 22 34	top most one
+T6	Markable 38 47	the bunch
+R1	Anaphora Arg1:T6 Arg2:T1	
+T7	Markable 113 114	3
+T8	Markable 119 120	1
+T9	Markable 127 128	2

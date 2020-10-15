@@ -1,0 +1,5 @@
+1: Do you have a medium sized black dot apart from others?
+0: Yes it's black
+1: Does it have a small medium light grey dot to the right with others above?
+0: Yes!!
+1: Let's choose the black one then.

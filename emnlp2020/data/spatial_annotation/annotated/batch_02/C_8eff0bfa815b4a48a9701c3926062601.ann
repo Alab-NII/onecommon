@@ -1,0 +1,28 @@
+T1	Markable 24 38	the darker dot
+T2	Markable 9 23	two large dots
+T4	Markable 145 153	those do
+T5	Markable 205 219	that lower one
+T6	Markable 81 134	two med sized almost identical looking dark grey dots
+T3	Markable 155 156	1
+T7	Spatial-Relation 28 34	darker
+R1	Obj Arg1:T7 Arg2:T2	
+T8	Modifier 42 57	almost directly
+T9	Spatial-Relation 58 63	above
+R2	Obj Arg1:T9 Arg2:T2	
+T10	Modifier 64 72	slightly
+T11	Spatial-Relation 73 77	left
+R3	Obj Arg1:T11 Arg2:T2	
+T12	Modifier 95 101	almost
+T13	Spatial-Relation 102 119	identical looking
+A1	No-Obj T13
+T14	Modifier 160 168	slightly
+T15	Spatial-Relation 169 174	lower
+T16	Spatial-Relation 179 191	to the right
+R4	Obj Arg1:T15 Arg2:T4	
+R5	Obj Arg1:T16 Arg2:T4	
+T17	Spatial-Relation 210 215	lower
+T18	Spatial-Relation 220 232	to the right
+R6	Obj Arg1:T17 Arg2:T6	
+R7	Obj Arg1:T18 Arg2:T6	
+A2	Mod-Certainty-Exactness T8
+#1	AnnotatorNotes T13	same size;same color

@@ -1,0 +1,6 @@
+1: i have two small black dots that are exactly horizontal and the same size
+0: I do too. near the top of my circle.
+1: above them and to the left is a light grey dot? or all the dots to the left are pretty far away?
+0: The black dot on the left has a medium size light grey dot above it and to the left around the 11 o'clock position.
+1: yes, let's pick the left black dot of the two
+0: Okay!

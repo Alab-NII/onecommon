@@ -1,0 +1,6 @@
+1: med size black dot a lone towards the top
+0: Is it below a med size gray dot and to the left?
+1: no my gray is to the right side
+0: Okay do y have a small dark gray dot with a smaller light gray dot above and to the left of it?
+1: i have a lonely tiny light gray dot to my right about 4 o clock
+0: Ok let's pick it

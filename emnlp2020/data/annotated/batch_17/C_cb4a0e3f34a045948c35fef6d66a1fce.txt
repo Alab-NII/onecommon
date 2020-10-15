@@ -1,0 +1,5 @@
+1: hi do you have two really small dark ones right next to each other? the left one is higher and darker?
+0: Do you have largest sized black Dot and to the right and slightly lower is a tiny light dot
+1: hmmm no i do have a large dark one to my lowest right side of my circle. the tiny ones i mentioned are above it
+0: Do you see two tiny light dots, they are vertical of each other, bottom one is slightly left and slightly darker
+1: yes let's pick the top light one then

@@ -1,0 +1,8 @@
+0: i have three black dots in a diagonal line
+1: I have 3 dark dots in a line.
+0: are they in a diagonal line?
+1: They are...do we go with the one closest to the dotted outline circle?
+0: i am not sure. i actually have four in a line. they are all small but two are slightly smaller.
+1: In my view, I have a smaller one, a larger one and then back to the same size as the first in my view
+0: lets pick the larger one
+1: Ok

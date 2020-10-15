@@ -1,0 +1,30 @@
+T1	Markable 10 31	one big dark grey dot
+T2	Markable 41 71	a small black, large dark grey
+T3	Markable 178 195	a small black dot
+T4	Markable 201 217	a small grey dot
+T5	Markable 268 282	two black dots
+T6	Markable 336 348	a light grey
+T7	Markable 365 377	a small grey
+T8	Markable 84 99	two large grays
+T9	Spatial-Relation-Markable 301 308	smaller
+T10	Spatial-Relation 72 82	@ 2 oclock
+A1	No-Obj T10
+T11	Spatial-Relation 100 111	at 7 oclock
+A2	No-Obj T11
+T12	Spatial-Relation 196 200	with
+T13	Spatial-Relation 218 226	adjacent
+T14	Modifier 227 235	slightly
+T15	Spatial-Relation 236 244	elevated
+R1	Obj Arg1:T15 Arg2:T3	
+T17	Spatial-Relation 283 295	down sloping
+A5	No-Obj T17
+T19	Spatial-Relation 309 315	at top
+R2	Obj Arg1:T19 Arg2:T5	
+R3	Obj Arg1:T9 Arg2:T5	
+T20	Spatial-Relation 349 364	to the right of
+#1	AnnotatorNotes T17	sloping
+#2	AnnotatorNotes T10	above;right
+#3	AnnotatorNotes T11	below;left
+#4	AnnotatorNotes T13	near
+R4	Obj Arg1:T13 Arg2:T3	
+#5	AnnotatorNotes T15	above

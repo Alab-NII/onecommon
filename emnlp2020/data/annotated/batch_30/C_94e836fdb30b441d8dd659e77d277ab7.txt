@@ -1,0 +1,4 @@
+1: i see a tiny tiny grey dot. Upper right of that is same color but bigger dot
+0: i think i have that. is there a large grey dot same color up and to the right of those dots?
+1: yup! let's pick the tiny grey dot then
+0: okay.

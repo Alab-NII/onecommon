@@ -1,0 +1,5 @@
+1: I have 2 dots on the edge, same color but one bigger than the other.
+0: do you have 2 large similar size circle, they're horizontal to each other, the one on the left is light, the one on the right is dark
+1: No I don't. I have 2 black dots next to each other, one is bigger than the other
+0: i have the 2 black dots next to each other, one is bigger than the other. choose the bigger one?
+1: Yes

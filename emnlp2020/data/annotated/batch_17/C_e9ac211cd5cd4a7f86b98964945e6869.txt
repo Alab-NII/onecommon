@@ -1,0 +1,4 @@
+0: I have one really light dot that is right above a medium colored one.
+1: yes i see that
+0: Let's click the really light one.
+1: ok

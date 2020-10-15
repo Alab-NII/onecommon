@@ -1,0 +1,3 @@
+0: I have two medium gray dots on the right on the same line one darker than the other
+1: Is the lower one smaller? And is there a large light one down and to the left of that?
+0: yes click the large light one to the left than

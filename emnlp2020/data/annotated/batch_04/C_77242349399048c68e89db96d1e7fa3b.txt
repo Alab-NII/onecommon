@@ -1,0 +1,3 @@
+1: Hi, I see 1 tiny light grey dot. It has a large black dot above it.
+0: I have a tiny light grey dot, adjacent to a large dark dot.
+1: Lets click on tiny light grey dot

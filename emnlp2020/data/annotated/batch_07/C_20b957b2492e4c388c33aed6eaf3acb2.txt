@@ -1,0 +1,8 @@
+1: do you have a black med size dot at 1 o clock
+0: dont think so, I have cluster of six dots, smallest black dot furthest to the right?
+1: do you have a med size gray around 6 o clock
+0: our positioning is different. Do you see the cluster of 6 dots? the largest black one above and slightly left?
+1: my dots are not in a cluster they are all over
+0: ok do you have a small light grey dot away from all other dots? by itself?
+1: yes on the right side
+0: yes click it

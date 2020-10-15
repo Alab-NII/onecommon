@@ -1,0 +1,4 @@
+0: i have 1 small black dot the rest are large
+1: I see the small black dot on mine, does it have a larger medium grey dot above it and to the right?
+0: yes
+1: Great lets pick the small black dot

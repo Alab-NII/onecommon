@@ -1,0 +1,4 @@
+1: Tiny black, above and to the right is a medium black
+0: Small black dot in the very center with a larger dark grey above and to the right of it
+1: Take that tiny black
+0: Ok

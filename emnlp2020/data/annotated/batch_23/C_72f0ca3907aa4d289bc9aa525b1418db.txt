@@ -1,0 +1,4 @@
+1: A small black dot beside a medium very light dot
+0: 2 dots close to each other. Smaller black dot and the the right of it is a larger light gray dot
+1: Yes, let us take the smaller black one
+0: Okay

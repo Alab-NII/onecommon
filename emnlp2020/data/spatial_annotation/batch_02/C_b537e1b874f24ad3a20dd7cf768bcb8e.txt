@@ -1,0 +1,5 @@
+0: Do you see the darkest medium dot?
+1: I have two dark medium, does one is all by itself and the other has a small dark gray dot below it and two small gray dots above it
+0: I have only one darkest medium, do you see two largest medium gray dot with a small lightest gray dot between it?
+1: Yes, lets choose the small lightest gray between them
+0: ok

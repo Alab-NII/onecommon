@@ -1,0 +1,3 @@
+1: I see two black and same size dots
+0: I only have one black dot. Above to the upper left is a bigger gray dot.
+1: I have that too. Let's choose the black dot you mentioned

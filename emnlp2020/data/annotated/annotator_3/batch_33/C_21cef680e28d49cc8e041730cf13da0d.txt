@@ -1,0 +1,5 @@
+1: I have a large black dot, with the same size light dot on lower right of it
+0: Is there a similar to the left ... but that pair is a little smaller?
+1: yes, the pair on the top is bigger, the pair lower is smaller, diagonal
+0: ok of the two pairs lets pick the top black dot ...higher than the rest
+1: sure

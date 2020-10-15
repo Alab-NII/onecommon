@@ -1,0 +1,6 @@
+1: i see a large dark gray dot on the bottom left on the dotted line
+0: I don't have that one. I have a small dark dot directly to the right of a large dark grey dot.
+1: i dont see the large dark grey dot. i see a dark dot top right side near the dotted line
+0: Our dots may not be in the same place. I have 2 medium size medium grey dots almost vertical of each other.
+1: is one close to the dotted line?
+0: yes, choose the one closer to the dotted line.

@@ -1,0 +1,5 @@
+1: I have three black dots, all the same size, in a diagonal line
+0: I have one dot smaller than the others. It is medium gray with a larger black dot far above and to the right of it
+1: I don't have that. I have a smallish black dot with a much larger but slightly lighter gray dot just above it and to the left.
+0: I don't have that. What about a small medium gray dot with no other dots near by
+1: I think I have that. Let's try it

@@ -1,0 +1,3 @@
+0: very tiny med grey dot?
+1: Yes it has a larger if same color dot up and to the right
+0: yes! click that tiny one!

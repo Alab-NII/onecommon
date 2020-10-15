@@ -1,0 +1,5 @@
+1: Do you have one tiny black dot?
+0: No, I have two dark ones, but I wouldn't say they are tiny. Do you have a medium darkish gray dot that forms the top of a triangle, with two smaller dots sort of inside the lines that connect the larger triangle?
+1: yes
+0: Let's click the dot that marks the top of that triangle?
+1: ok

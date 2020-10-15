@@ -1,0 +1,7 @@
+0: 1 large grey dot with a smaller lighter grey dot to the right
+1: i do not see that, i have a group of four in the center
+0: ok i see that
+1: in that group two darker grey on the right, one large one small
+0: yes i see that
+1: we should pick the smaller dark dot
+0: ok

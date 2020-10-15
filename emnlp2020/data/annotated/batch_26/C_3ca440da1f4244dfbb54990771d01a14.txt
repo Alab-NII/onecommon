@@ -1,0 +1,5 @@
+0: I have a black large dot, with a larger but lighter dot on top right of it
+1: I have a medium black dot in the upper right corner, two semi black dots near/on the border, one slightly less black than that one closer to the bottom, and two more grayish ones closer to the center.
+0: we have different cuts and angles, so your center is not the same as mine. does the black dot has a bigger lighter dot on top right of it?
+1: Yes
+0: so lets choose the medium black one, thanks

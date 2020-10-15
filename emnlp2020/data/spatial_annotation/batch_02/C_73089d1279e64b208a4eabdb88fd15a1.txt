@@ -1,0 +1,5 @@
+0: tiny light grey dot
+1: very tiny light grey dot?
+0: yes
+1: haha large dark dot up to its left?
+0: Yes click the tiny one

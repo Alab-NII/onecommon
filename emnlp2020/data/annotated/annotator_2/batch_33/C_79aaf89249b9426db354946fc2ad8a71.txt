@@ -1,0 +1,5 @@
+1: i see two black dots very close together. a very small one with a medium sized one above it to the right a little
+0: I would say so.
+1: do you see any around it?
+0: Closest next one is down to the right and its the same size as the bottom one just a slightly lighter color.
+1: ok. lets pick the larger one

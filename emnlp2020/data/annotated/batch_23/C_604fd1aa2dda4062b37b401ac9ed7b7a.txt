@@ -1,0 +1,7 @@
+0: Do you have a dark dot almost dead center?
+1: is there a very light med dot above it to the left?
+0: No. I have a very light gray dot touching the left side of the circle at almost the top, do you?
+1: our views are different do our outlines are different. is there a smaller very dark dot down and to the right of that light grey one?
+0: Yes there is.
+1: k click that very light one!
+0: Ok!

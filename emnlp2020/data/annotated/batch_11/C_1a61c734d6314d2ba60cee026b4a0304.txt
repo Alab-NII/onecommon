@@ -1,0 +1,5 @@
+0: pair. same size. one lighter.
+1: I see that too - is one just up and to the right of the other?
+0: Yes. The darker one.
+1: OK
+0: Ok. Let's pick the darker one.

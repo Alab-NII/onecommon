@@ -1,0 +1,4 @@
+0: Do you see two almost black dots very close together?
+1: yes. let us select the smaller black dot
+0: Is the smaller one slightly to the right?
+1: yes let us select the smaller black one

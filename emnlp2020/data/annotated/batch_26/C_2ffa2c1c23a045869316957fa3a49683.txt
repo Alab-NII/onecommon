@@ -1,0 +1,10 @@
+1: One Medium black dot by itself
+0: I have 5 dots almost in a line with one little black dot just above the line
+1: me too
+0: ok choose the little black dot just outside the line?
+1: wait
+0: what
+1: I have no little black dot outside the line
+0: ok the leftmost dot is a large medium colored grey dot and the 2nd one in is a small darker grey?
+1: I see it
+0: ok choose large grey dot!

@@ -1,0 +1,4 @@
+0: two small dots close together?
+1: yes, smaller, slightly darker one to the right and up a bit?
+0: Yes click that smaller one!
+1: clicked!

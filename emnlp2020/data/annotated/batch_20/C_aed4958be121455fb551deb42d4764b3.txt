@@ -1,0 +1,4 @@
+1: I have a medium size grey one to the right that's on the dotted line
+0: do you have a small black one directly above and to the right of a larger med/grey one? ... i think the one you say is not on mine
+1: yes, I do have the black dot and the larger one under it
+0: ok let's pick the black dot then please

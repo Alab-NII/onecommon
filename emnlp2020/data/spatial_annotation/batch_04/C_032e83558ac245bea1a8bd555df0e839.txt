@@ -1,0 +1,4 @@
+0: I have a triangle consisting of a small dark gray, a medium black, and a large light gray.
+1: small dark gray at the top of the triangle?
+0: Yes, with a medium light gray above and to the left.
+1: yes. Lets choose the small dark grey dot.

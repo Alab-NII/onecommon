@@ -1,0 +1,7 @@
+T1	Markable 9 26	a largest darkest
+T2	Markable 109 111	it
+T3	Markable 149 151	it
+T4	Markable 177 193	the lightest one
+T5	Markable 222 230	that one
+R1	Anaphora Arg1:T3 Arg2:T2	
+T6	Markable 253 269	the biggest dark

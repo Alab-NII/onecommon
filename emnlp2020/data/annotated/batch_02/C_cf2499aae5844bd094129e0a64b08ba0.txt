@@ -1,0 +1,3 @@
+0: I have two dark grey dots one on top of the other, the one on top is smaller
+1: no. how about 2 dots aligned slightly vertically. both small and both medium grey
+0: Yep! I'll select the top one.

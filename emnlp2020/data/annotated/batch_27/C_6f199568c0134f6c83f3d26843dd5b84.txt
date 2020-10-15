@@ -1,0 +1,7 @@
+1: two dots very close together? one on top very large and very dark?
+0: I have 2 small dots one being medium gray and the other is down and to the right lighter gray
+1: okay do you see the dots i described. I think one of your small ones is in the pair i described.
+0: Is there a medium small dot up and a little to the left
+1: hmm no. do you see a med sized black dot?
+0: Yes
+1: below it to the right is a smaller med grey dot? if so click the black one!

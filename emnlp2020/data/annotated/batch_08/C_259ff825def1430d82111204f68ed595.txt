@@ -1,0 +1,2 @@
+0: I have a small black dot
+1: I also have a small black dot, it is at the top of my circle

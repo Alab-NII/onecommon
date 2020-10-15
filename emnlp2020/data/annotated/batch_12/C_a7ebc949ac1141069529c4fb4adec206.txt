@@ -1,0 +1,8 @@
+0: I have one dot larger than the rest.
+1: what is around it?
+0: To the right is a small gray dot and to the left a medium gray dot
+1: is the small grey dot very light?
+0: Yes it is
+1: i don't have anything to the left. do you see a dot almost directly below the large dot?
+0: Yes i do
+1: ok. let's choose the large dot you first described

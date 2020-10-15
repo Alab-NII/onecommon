@@ -1,0 +1,4 @@
+0: do you see a large dark grey dot with a large black dot very close and to the right of it
+1: Yes, on the far left side, right on the dotted line of the circle?
+0: yes, select the dark one
+1: Okay!

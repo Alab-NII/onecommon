@@ -1,0 +1,5 @@
+1: i have a large dark grey at 10:00 position the rest are all small dots
+0: I have a very large medium gray dot that is larger than all the rest
+0: yes, lets pick that one
+1: is it around 10:00 position
+0: yes

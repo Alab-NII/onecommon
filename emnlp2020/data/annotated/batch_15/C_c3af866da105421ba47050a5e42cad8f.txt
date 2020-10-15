@@ -1,0 +1,7 @@
+0: my highest dot is large and darker
+1: My lowest dot is tiny and light.
+0: I see that one
+1: Is it around 6 oclock?
+0: maybe, I'm centered differently. it's the lowest one and dots are on both sides
+1: Mine is alone! I have another tiny one that has dots on both sides, the dot on the right is larger than the dot on the left
+0: let's pick the other tiny one

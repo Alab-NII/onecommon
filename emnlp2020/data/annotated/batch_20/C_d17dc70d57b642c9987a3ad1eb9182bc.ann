@@ -1,0 +1,16 @@
+T1	Markable 9 29	three very dark dots
+T2	Markable 31 34	One
+T3	Markable 53 62	the other
+T5	Markable 144 158	a trio of dots
+T6	Markable 122 140	a triangle of dots
+T8	Markable 199 202	two
+T9	Markable 217 221	they
+T10	Markable 251 258	the top
+T12	Markable 286 288	it
+T14	Markable 67 76	the third
+T4	Markable 166 178	an "\" shape
+R1	Predicative Arg1:T4 Arg2:T5	
+R2	Anaphora Arg1:T9 Arg2:T8	
+T7	Markable 272 279	the one
+R3	Anaphora Arg1:T12 Arg2:T10	
+T11	Markable 298 323	the black-most medium one

@@ -1,0 +1,4 @@
+0: I have a large light gray dot with a dark small dot barely southwest right below it
+1: I have a large light gray day with a small black dot down and to the left
+0: Choose the dark one?
+1: Okay

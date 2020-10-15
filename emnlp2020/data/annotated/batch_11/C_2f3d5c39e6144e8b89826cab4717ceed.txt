@@ -1,0 +1,5 @@
+1: very black dot that is small?
+0: see a large black dot above a large grey dot both seem to be the same size
+1: i don't see yours
+0: I see the small black dot
+1: click that

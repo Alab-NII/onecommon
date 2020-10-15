@@ -1,0 +1,21 @@
+T1	Markable 10 38	one very tiny very light dot
+T2	Markable 51 86	a same size but slightly darker dot
+T3	Markable 93 95	it
+T4	Markable 126 129	one
+T6	Markable 162 172	a dark one
+T7	Markable 146 148	it
+T8	Markable 248 270	a very large light dot
+T9	Markable 377 384	the one
+T10	Markable 345 361	the top left one
+T12	Markable 318 326	two dots
+T14	Markable 432 446	2 sets of dots
+T15	Markable 486 501	the smaller dot
+T16	Markable 531 544	a lighter dot
+T17	Markable 589 625	the same two sets of same color dots
+T19	Markable 653 666	the other set
+T20	Markable 627 634	one set
+T21	Markable 713 729	the smallest dot
+A1	No-Referent T4
+T5	Markable 217 234	that same section
+A2	No-Referent T5
+T11	Markable 733 740	the set

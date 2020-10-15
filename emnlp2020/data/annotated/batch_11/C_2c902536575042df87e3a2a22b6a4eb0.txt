@@ -1,0 +1,6 @@
+1: do you have a large dot at 6pm?
+0: No. We cannot use time markers because our giant surrounding circles are in different positions.
+1: how many large dots do you have
+0: I do see 2 larger dots that are almost side by side and darker than the rest?
+1: ok is the darkest dot slightly lower?
+0: Yes. Let select that one.

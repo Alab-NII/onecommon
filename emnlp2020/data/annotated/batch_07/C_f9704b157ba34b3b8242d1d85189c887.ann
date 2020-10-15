@@ -1,0 +1,12 @@
+T1	Markable 39 79	a slightly lighter, slightly smaller one
+T2	Markable 10 32	a very large black dot
+T3	Markable 125 147	3 large same size dots
+T4	Markable 171 189	a perfect triangle
+T5	Markable 193 197	they
+T6	Markable 266 285	the large black one
+R1	Predicative Arg1:T4 Arg2:T3	
+R2	Anaphora Arg1:T5 Arg2:T3	
+T7	Markable 202 212	light gray
+T8	Markable 214 222	med gray
+T9	Markable 228 233	black
+T10	Markable 245 249	that

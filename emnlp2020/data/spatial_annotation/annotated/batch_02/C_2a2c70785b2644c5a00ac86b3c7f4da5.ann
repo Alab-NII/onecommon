@@ -1,0 +1,30 @@
+T2	Markable 40 56	a couple of them
+T3	Markable 117 164	a smaller (med sized) slightly lighter grey dot
+T4	Markable 210 226	any smaller ones
+T5	Markable 261 282	any almost black ones
+T6	Markable 355 368	the large one
+T7	Markable 306 308	it
+T8	Markable 326 328	it
+T9	Markable 375 377	it
+T10	Markable 3 28	very large light grey dot
+T1	Markable 86 94	the only
+T11	Markable 173 176	its
+R1	Anaphora Arg1:T11 Arg2:T1	
+A1	No-Referent T4
+T12	Markable 227 235	all mine
+R2	Anaphora Arg1:T8 Arg2:T7	
+T13	Spatial-Relation 119 126	smaller
+T14	Modifier 139 147	slightly
+T15	Spatial-Relation 148 155	lighter
+T16	Spatial-Relation 165 169	down
+T17	Spatial-Relation 177 181	left
+R3	Subj Arg1:T17 Arg2:T3	
+R4	Obj Arg1:T17 Arg2:T11	
+T19	Spatial-Attribute 240 248	med size
+T18	Modifier 333 341	slightly
+T20	Spatial-Relation 342 354	smaller than
+T21	Spatial-Relation 378 396	on your right side
+A2	No-Obj T21
+T22	Modifier 240 243	med
+A3	Mod-Neutral T22
+A4	Canonical-Undefined T21

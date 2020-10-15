@@ -1,0 +1,10 @@
+T1	Markable 22 37	a vertical line
+T2	Markable 73 86	one large one
+T5	Markable 149 162	the light dot
+T6	Markable 119 136	the vertical line
+T7	Markable 196 198	it
+T8	Markable 253 266	the light dot
+T9	Markable 3 7	They
+R1	Predicative Arg1:T1 Arg2:T9	
+T3	Markable 168 180	a medium dot
+R2	Anaphora Arg1:T7 Arg2:T5	

@@ -1,0 +1,5 @@
+1: Do you have two black dots kind of lonely together? One is tiny and other is small
+0: I do not see that. I have a medium gray larger dot near the center
+1: Above are there two dots same sized? One black one light? If so click the one u described
+0: yes i do see that
+1: Click the lonely dot u described

@@ -1,0 +1,29 @@
+T1	Markable 15 32	a cluster of dots
+T2	Markable 60 62	it
+T3	Markable 102 114	1 large dark
+T4	Markable 116 126	1 med dark
+T5	Markable 128 140	1 small dark
+T6	Markable 142 156	1 medium light
+T7	Markable 158 172	1 small medium
+T8	Markable 178 194	2 medium mediums
+T9	Markable 205 221	a large dark one
+T10	Markable 247 260	my large dark
+T11	Markable 294 299	yours
+R1	Anaphora Arg1:T11 Arg2:T10	
+T12	Spatial-Relation 17 24	cluster
+T13	Spatial-Relation 33 46	in the center
+T14	Modifier 66 74	not very
+T15	Spatial-Relation 75 83	centered
+T16	Modifier 228 236	somewhat
+T17	Spatial-Relation 237 243	center
+T18	Modifier 264 271	roughly
+T19	Spatial-Relation 272 289	around 2 o' clock
+A1	No-Obj T12
+A2	No-Obj T13
+A3	No-Obj T15
+A4	No-Obj T17
+A5	No-Obj T19
+A6	Mod-Negation T14
+A7	Mod-Subtlty T16
+A8	Mod-Uncertainty-Approximation T18
+#1	AnnotatorNotes T19	right top

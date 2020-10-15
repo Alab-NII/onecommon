@@ -1,0 +1,10 @@
+T2	Markable 140 161	a larger med/grey one
+T3	Markable 87 104	a small black one
+T4	Markable 175 182	the one
+T6	Markable 263 265	it
+T7	Markable 224 237	the black dot
+T8	Markable 242 256	the larger one
+T9	Markable 283 296	the black dot
+T10	Markable 10 32	a medium size grey one
+A1	No-Referent T4
+R1	Anaphora Arg1:T6 Arg2:T7	

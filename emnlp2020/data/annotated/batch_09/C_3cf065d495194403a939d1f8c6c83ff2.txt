@@ -1,0 +1,7 @@
+0: You can take lead
+1: I see four dots that make a trapezoid. They are all different shades of gray. All similar sizes.
+0: Yep, I see them. Is there one kind of the middle?
+1: I am not sure what you mean? But the far left is dark gray. Do you see that one? If so, let's choose that one.
+0: Is it small or medium?
+1: It is medium. Not the smallest one.
+0: okay, I see it. Selecting now.

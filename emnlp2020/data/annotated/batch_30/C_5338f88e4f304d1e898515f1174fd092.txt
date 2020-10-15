@@ -1,0 +1,3 @@
+0: two dots close together on vertical line?
+1: Yes. bottom dot is larger and darker? pick that
+0: okay

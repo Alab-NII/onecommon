@@ -1,0 +1,8 @@
+1: my darkest dot is very small
+0: The largest dot here is black
+1: i have two dots close to each other. one dark, one medium. you?
+0: I have a large black dot. I cannot see yours
+1: i do not have a large black dot, we should try to find a different one in common
+0: do you see a tiny black on
+1: yes, i do.
+0: let us select it

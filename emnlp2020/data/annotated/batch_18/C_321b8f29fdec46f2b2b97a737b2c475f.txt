@@ -1,0 +1,6 @@
+1: the lightest dot is also the lightest. you?
+0: my lightest dot is the biggest dot
+1: yes, that is what i meant to type, apologies
+0: smaller very dark dot straight up from there?
+1: yes. shall we select the largest lightest dot?
+0: yes

@@ -1,0 +1,6 @@
+0: do you have a dot that is darker than the rest?
+1: I have 1 large gray dot with 4 more Dot that almost looks like a v
+0: Do you have dots that can form a triangle?
+1: My largestomach dot I'd light gray close to the top
+0: ah yes. i have that
+1: Let's pick that LARGE dot

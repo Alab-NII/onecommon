@@ -1,0 +1,3 @@
+0: very large light grey dot?
+1: a large light grey dot, slightly below and to the right is a small medium grey dot?
+0: yes click the large light one!

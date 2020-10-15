@@ -1,0 +1,3 @@
+0: I see a dark black dot, medium sized, kind of center of the screen.
+1: Ah yeah I see it, its kind of on its own?
+0: yes

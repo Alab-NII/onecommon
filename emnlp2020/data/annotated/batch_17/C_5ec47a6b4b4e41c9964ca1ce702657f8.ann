@@ -1,0 +1,13 @@
+T1	Markable 53 57	that
+T3	Markable 74 95	two almost black dots
+T4	Markable 123 133	each other
+T5	Markable 135 149	The bottom one
+T6	Markable 208 210	it
+T7	Markable 264 275	the top one
+T8	Markable 212 241	A smaller slightly darker dot
+T9	Markable 299 313	the bottom dot
+T10	Markable 3 22	one small black dot
+T11	Markable 26 29	its
+R1	Anaphora Arg1:T11 Arg2:T10	
+A1	No-Referent T1
+R2	Anaphora Arg1:T4 Arg2:T3	

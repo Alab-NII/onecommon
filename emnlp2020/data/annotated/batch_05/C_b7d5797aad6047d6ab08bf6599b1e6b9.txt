@@ -1,0 +1,4 @@
+1: i have a group of three fairly light dots of different sizes all right next to each other, in an upside-down L shape
+0: I do too.
+1: let's pick the biggest one in that shape?
+0: Ok

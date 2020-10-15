@@ -1,0 +1,4 @@
+0: I see a small light grey dot in between 4 other dots
+1: dont think i have that, i have two very close together, top one black, bottom one grey, both relatively small, but the bottom one smaller
+0: I have one like that too
+1: ok, pick the bottom one

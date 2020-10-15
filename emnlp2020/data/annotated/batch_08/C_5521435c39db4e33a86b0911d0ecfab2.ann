@@ -1,0 +1,7 @@
+T1	Markable 14 25	one lighter
+T2	Markable 104 114	the others
+T3	Markable 78 83	a dot
+T4	Markable 138 146	that one
+T5	Markable 31 43	all the rest
+T6	Markable 46 62	small light grey
+R1	Predicative Arg1:T6 Arg2:T1	

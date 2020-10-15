@@ -1,0 +1,6 @@
+0: do you see 3 tiny black dots, far apart from each other, but the lowest one has a larger very light dot next to it on it's left?
+1: I see 7 objects, toward the bottom I see large light gray and small dark gray very close. i do not see three tiny black dots close, i have one medium sized medium gray dot right at the edge of circle
+0: no, the tiny black dots are spread out far from each other, but there are 3 and the lowest one has a larger Light one right next to it?
+1: sorry, I see two tiny black dots, not close to each other and one has a large gray dot close to it
+0: oh great. i don't have the med/grey on the edge either. so the black tiny dot with the light one right next to it on it's left. can you choose the Light larger one on the left with me?
+1: yes the light larger dot

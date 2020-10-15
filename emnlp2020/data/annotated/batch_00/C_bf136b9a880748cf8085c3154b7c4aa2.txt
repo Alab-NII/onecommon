@@ -1,0 +1,8 @@
+0: tiny dark left side near bottom. to the left of it is a large light grey
+1: I have a total of seven dots, two are large and dark grey, four are medium sized and a shade lighter and one is small and dark
+0: the one small dark one, is it toward the left side sort of near the bottom
+1: yes but I do not see a large light grey to the left of it
+0: that not it then. how about a large gray near the top with 3 smaller to its right side
+1: yes
+0: let us go for that one, k?
+1: okay

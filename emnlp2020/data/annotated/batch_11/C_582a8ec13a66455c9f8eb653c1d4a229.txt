@@ -1,0 +1,3 @@
+1: Do you see two groups of two, I see one of the groups has a black medium dot lower and to the left of a smaller grey dot
+0: I have a dark gray dot below from center and a small light gray dot below that. yes, I have two groups of two towards the top.
+1: Take that small dot you described

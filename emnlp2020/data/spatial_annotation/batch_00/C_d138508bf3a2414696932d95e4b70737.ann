@@ -1,0 +1,20 @@
+T1	Markable 9 23	two black dots
+T2	Markable 24 27	one
+T3	Markable 38 41	one
+T4	Markable 97 127	a slightly smaller grayish dot
+T5	Markable 68 91	a medium size black dot
+T6	Markable 151 169	the only black dot
+T7	Markable 146 150	that
+T8	Markable 188 203	large black dot
+T9	Markable 209 226	a small light dot
+T10	Markable 233 235	it
+T11	Markable 274 282	that one
+T12	Markable 295 306	2 grey dots
+T13	Markable 364 371	it self
+T14	Markable 345 360	small black dot
+T15	Markable 395 403	that one
+R1	Predicative Arg1:T6 Arg2:T7	
+R2	Anaphora Arg1:T10 Arg2:T8	
+A1	No-Referent T11
+T16	Markable 314 330	1 light grey dot
+R3	Anaphora Arg1:T13 Arg2:T14	

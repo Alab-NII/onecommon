@@ -1,0 +1,8 @@
+T1	Markable 10 29	a cluster of 5 dots
+T2	Markable 31 44	left most one
+T3	Markable 73 77	that
+T4	Markable 107 123	the same cluster
+T5	Markable 167 180	the black one
+T7	Markable 220 229	black one
+T8	Markable 81 96	same sized grey
+R1	Anaphora Arg1:T3 Arg2:T2	

@@ -1,0 +1,7 @@
+0: i see 3 dots forming a L shape. the top and left side are the same size with a bigger dot at the bottom
+1: Okay, is the middle one the darkest?
+0: it is the darkest
+1: And is the middle circle located in the middle, near the bottom?
+0: it is the darkest of the 3 in the middle. like this L . the bottom left part of it
+1: Are there two dark dots on top of that? And is the L at a slant?
+0: it is on a slant

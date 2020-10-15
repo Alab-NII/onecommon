@@ -1,0 +1,6 @@
+T1	Markable 15 21	3 dots
+T2	Markable 126 138	the smallest
+T3	Markable 154 162	that one
+T4	Markable 79 82	all
+T5	Markable 107 122	bottom most dot
+R1	Predicative Arg1:T2 Arg2:T5	

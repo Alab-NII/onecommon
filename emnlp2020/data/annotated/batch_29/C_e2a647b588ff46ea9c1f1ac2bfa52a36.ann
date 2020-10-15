@@ -1,0 +1,5 @@
+T1	Markable 19 34	a vertical line
+T2	Markable 10 15	three
+T3	Markable 36 50	The bottom one
+R1	Predicative Arg1:T1 Arg2:T2	
+T5	Markable 81 89	that one

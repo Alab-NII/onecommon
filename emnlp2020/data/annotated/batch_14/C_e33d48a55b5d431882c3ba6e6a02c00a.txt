@@ -1,0 +1,6 @@
+1: do you have a row of 4 dots across the middle of the circle?
+0: no, I have a big dark one at 3 oclock
+1: is it below a slightly lighter slightly smaller dot?
+0: hope the one to its upper left is darker and smaller
+1: how about a large really light gray dot on the left of the circle?
+0: our circles are different so you have to talk about the dots relative to each other. I got a bog ol gray one up there, lets do it

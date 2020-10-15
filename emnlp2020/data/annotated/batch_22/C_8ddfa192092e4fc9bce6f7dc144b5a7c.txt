@@ -1,0 +1,4 @@
+1: i see a large light grey dot at top?
+0: We have different views so I need more...Do you have a small light gray dot between a small black dot and a large dark gray dot?
+1: yes i have
+0: Let's choose the small light gray dot then

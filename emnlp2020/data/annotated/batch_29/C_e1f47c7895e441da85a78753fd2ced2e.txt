@@ -1,0 +1,6 @@
+1: do you have 2 medium black dots, one is to the lower right of the other?
+0: Yes, with a larger medium grey dot above those?
+1: on mine i cant see whats above it bc its at the top of my circle. but they 2 black dots are basically the same size
+0: Ok. I do see the 2 black dots, probably a finger space apart
+1: yes same on mine, click the top one?
+0: Yes

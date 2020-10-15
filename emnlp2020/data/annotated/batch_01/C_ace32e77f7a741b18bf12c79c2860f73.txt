@@ -1,0 +1,12 @@
+0: I have the smallest grey dot towards the right side do you
+1: i have a single small black dot. to the left and just slightly higher there is a light grey dot that is a little big bigger.
+0: I do not have that but I do have two dots at the top slightly to the right one just a little bigger than the other
+1: is one darker than the other?
+0: yes, the top one is just a little darker
+1: is the darker one bigger or smaller?
+0: smaller
+1: i do not see that
+0: far left side a light grey dot all by its self I have do you?
+1: i have a light grey dot on the bottom of my circle. to the right of it is a small black dot
+0: yes i do choose that one
+1: ok

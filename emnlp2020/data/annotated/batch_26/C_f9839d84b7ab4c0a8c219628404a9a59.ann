@@ -1,0 +1,10 @@
+T1	Markable 10 32	2 very dark small dots
+T2	Markable 55 65	each other
+T3	Markable 83 87	that
+T4	Markable 96 105	five dots
+T5	Markable 172 182	a tiny dot
+T6	Markable 206 218	the tiny dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T3
+T7	Markable 155 171	the intersection
+R2	Predicative Arg1:T5 Arg2:T7	

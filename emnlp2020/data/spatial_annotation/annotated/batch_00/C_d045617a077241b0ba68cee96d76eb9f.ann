@@ -1,0 +1,21 @@
+T2	Markable 73 87	a lightest one
+T3	Markable 42 53	darkest one
+T4	Markable 103 105	it
+T5	Markable 126 128	it
+T6	Markable 136 150	the darker one
+R1	Anaphora Arg1:T4 Arg2:T3	
+T1	Spatial-Relation 42 49	darkest
+A1	No-Obj T1
+T7	Spatial-Attribute 61 66	small
+T8	Modifier 55 60	kinda
+T9	Spatial-Relation 68 72	with
+T10	Spatial-Relation 75 83	lightest
+A2	No-Obj T10
+T11	Spatial-Relation 89 96	smaller
+T12	Spatial-Relation 97 102	above
+T13	Spatial-Relation 106 118	to the right
+R2	Subj Arg1:T13 Arg2:T2	
+R3	Obj Arg1:T13 Arg2:T4	
+T14	Spatial-Relation 140 146	darker
+R4	Obj Arg1:T14 Arg2:T2	
+A3	Mod-Uncertainty-Approximation T8

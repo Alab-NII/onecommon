@@ -1,0 +1,8 @@
+0: Hi!
+1: Hello!
+0: Do you have a large dark grey dot at the top touching the edge but to the left of the middle?
+1: Hmmmm I don't think so. Do you see two dots next to each other that are the same size, one is light grey and the other is dark grey?
+0: Yes!
+1: Cool! Should we pick the darker dot?
+0: Is the darker dot on the left or right?
+1: On the left

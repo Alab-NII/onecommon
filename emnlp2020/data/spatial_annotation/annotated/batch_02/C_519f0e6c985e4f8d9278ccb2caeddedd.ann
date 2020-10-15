@@ -1,0 +1,24 @@
+T1	Markable 55 76	a large dark grey dot
+T2	Markable 112 114	it
+T3	Markable 118 140	a tiny little gray dot
+T4	Markable 179 181	it
+T5	Markable 150 171	your tiny little grey
+T6	Markable 3 18	Small black dot
+T7	Markable 80 94	tiny black dot
+R1	Anaphora Arg1:T2 Arg2:T7	
+R2	Anaphora Arg1:T4 Arg2:T5	
+T8	Spatial-Relation 20 28	close by
+T9	Spatial-Relation 29 34	above
+T10	Spatial-Relation 39 51	to the right
+R3	Subj Arg1:T8 Arg2:T1	
+R4	Obj Arg1:T8 Arg2:T6	
+R5	Subj Arg1:T9 Arg2:T1	
+R6	Obj Arg1:T9 Arg2:T6	
+R7	Subj Arg1:T10 Arg2:T1	
+R8	Obj Arg1:T10 Arg2:T6	
+T11	Spatial-Relation 95 105	at the top
+A1	No-Obj T11
+T12	Spatial-Relation 106 111	below
+R9	Subj Arg1:T12 Arg2:T3	
+R10	Obj Arg1:T12 Arg2:T2	
+#1	AnnotatorNotes T8	near

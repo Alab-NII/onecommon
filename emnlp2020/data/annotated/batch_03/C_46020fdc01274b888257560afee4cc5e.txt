@@ -1,0 +1,2 @@
+1: three dark dots clustered together. lets pick the largest/darkest one
+0: ok

@@ -1,0 +1,6 @@
+1: I have two very large dots very close together. The top one is a darker.
+0: I see a medium dark grey dot alone
+1: I have a small medium dark gray one to the left of a very large black one.
+0: I have the two very large dots top one black bottom light grey
+1: Let's do the Black one that's on the top of the lighter gray one.
+0: Okay

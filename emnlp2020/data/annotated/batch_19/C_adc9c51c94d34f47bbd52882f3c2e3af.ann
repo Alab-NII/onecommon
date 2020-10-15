@@ -1,0 +1,8 @@
+T2	Markable 80 84	line
+T3	Markable 192 204	those 3 dots
+T4	Markable 213 227	the middle one
+T5	Markable 3 18	large black dot
+T6	Markable 41 51	three dots
+R1	Predicative Arg1:T2 Arg2:T6	
+T7	Markable 123 130	darkest
+T1	Markable 158 163	the 3

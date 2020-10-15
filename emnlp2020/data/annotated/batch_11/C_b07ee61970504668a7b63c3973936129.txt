@@ -1,0 +1,7 @@
+0: I have a large black dot above a large dark grey dot
+1: are they to the right? about 3 o clock area?
+0: Nonmine are to the left, there is a small light grey dot next to them
+1: i have those but mine are all about 3 oclock. do you have a dark gray dot almost at the 6 o clock area?
+0: No, but lets pick one out of that group because ours are in diff places
+1: do you want to pick the lightest and smallest out of the 3 in the group?
+0: Yes

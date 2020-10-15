@@ -1,0 +1,4 @@
+1: i have one small black dot
+0: I do not have any small black dots. I have two large black dots. One of the left all alone and one of the right next to a small grey dot.
+1: let's hit the large black dot next to the small grey dot ??
+0: Let's try it.

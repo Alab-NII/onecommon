@@ -1,0 +1,4 @@
+0: i see two similar sized light grey dots, the one on top is a hair to the left and a hair lighter
+1: are they higher or lower than a black dot
+0: oh yeah, i see i just described two sets of dots on the screen, the top set of dots
+1: ok pick the top one

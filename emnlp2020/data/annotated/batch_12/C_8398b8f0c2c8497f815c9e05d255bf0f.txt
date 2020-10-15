@@ -1,0 +1,6 @@
+1: A very small very light dot all by itself
+0: I have three dots close together in a triangle shape. They are all medium sized but the bottom left is largest. The top one is darkest and a little to the left of the one on the bottom right.
+1: nothing like that here. I have a tight group of three, but the triangle points right and the top right dot is the darkest one
+0: Ok, does your tiny light dot have a large black dot way below it, but almost vertical with nothing in between?
+1: Yes!
+0: Ok, lets go with your tiny light dot!

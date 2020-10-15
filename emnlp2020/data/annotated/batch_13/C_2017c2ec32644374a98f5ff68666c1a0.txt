@@ -1,0 +1,8 @@
+0: do you see three dots in a triangle formation with the black on on top making the point?
+1: large light grey with slightly smaller darker grey to the left
+0: Of the 2 you describe is there a black dot under each circle
+1: no triangle sorry
+0: do you see 4 dots near each other two on top are same color gray and the two below those are black
+1: are the 2 on the right larger?
+0: yes...want to select the bottom black dot on the right?
+1: sounds good

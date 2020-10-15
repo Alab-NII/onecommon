@@ -1,0 +1,4 @@
+0: My largest dot is medium gray
+1: does the med gray have a small black dot down and to the right'
+0: yes
+1: chose that med gray

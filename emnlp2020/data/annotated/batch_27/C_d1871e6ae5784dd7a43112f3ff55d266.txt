@@ -1,0 +1,6 @@
+1: do you see a cluster of dots that kind of make a L shape with the corner dot being a large dark gray dot?
+0: Large dark grey in center bottom right of it slightly smaller equally dark grey above to the left of that large light grey
+1: Yep...pick the large gray dot
+0: okay is it to the bottom left of your diagonal L shape
+1: we see different views but it is the bottom left on my L
+0: alright

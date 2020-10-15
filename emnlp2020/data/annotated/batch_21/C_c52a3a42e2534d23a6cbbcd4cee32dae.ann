@@ -1,0 +1,8 @@
+T1	Markable 10 34	one lone large black dot
+T2	Markable 53 76	a much lighter gray dot
+T3	Markable 42 44	it
+T4	Markable 139 143	mine
+T5	Markable 200 202	it
+T6	Markable 81 85	MIne
+T7	Markable 168 177	which one
+R1	Anaphora Arg1:T5 Arg2:T7	

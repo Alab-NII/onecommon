@@ -1,0 +1,7 @@
+1: Hello! Where's your dot?
+0: I have one to the left which is medium size
+1: ok how about 3 close together that make a letter L?
+0: Yes I do
+1: the bottom part of the L is the larger one correct?
+0: Yes
+1: ok lets click that larger one

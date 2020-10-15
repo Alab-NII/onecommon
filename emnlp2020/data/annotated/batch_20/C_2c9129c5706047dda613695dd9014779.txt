@@ -1,0 +1,4 @@
+1: I see a lonely big mid-dark grey dot
+0: is it up above the rest of the dots? if so click it
+1: I have two that are above the rest, one's mid-dark, the other one's almost black
+0: yes! click that lonely big mid grey one!

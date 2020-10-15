@@ -1,0 +1,13 @@
+T1	Markable 65 73	this one
+T2	Markable 10 26	a large grey dot
+T3	Markable 126 128	it
+T4	Markable 92 109	a darker gray dot
+T5	Markable 144 160	lighter grey dot
+T6	Markable 236 241	those
+T7	Markable 278 295	a small black dot
+T8	Markable 254 271	a large black dot
+T9	Markable 344 349	those
+T10	Markable 366 386	the larger black dot
+R1	Anaphora Arg1:T1 Arg2:T2	
+T11	Markable 183 206	another slightly darker
+A1	No-Referent T6

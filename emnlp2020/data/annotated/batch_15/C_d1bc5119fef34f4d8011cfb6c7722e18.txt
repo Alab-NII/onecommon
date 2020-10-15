@@ -1,0 +1,4 @@
+1: I have two tiny dots very close together. The one on the right is a little higher, and black. They are almost horizontal
+0: i don't have those. I have 2 large dark dots almost right about one another. bottom one slightly left
+1: Yes, I see that. Lets click the top one, its a little darker right?
+0: yes it is, sounds good

@@ -1,0 +1,30 @@
+T1	Markable 42 64	a small light grey dot
+T2	Markable 15 36	a large dark grey dot
+T3	Markable 81 83	it
+T5	Markable 126 135	black one
+T6	Markable 165 169	that
+T7	Markable 211 226	a dark grey dot
+T8	Markable 270 272	it
+T9	Markable 183 205	a light grey small dot
+T10	Markable 303 325	a small light grey dot
+T11	Markable 282 297	large black dot
+T12	Markable 342 344	it
+T13	Markable 355 369	small grey dot
+R1	Anaphora Arg1:T3 Arg2:T2	
+T14	Markable 87 97	three dots
+A1	No-Referent T6
+R3	Anaphora Arg1:T8 Arg2:T9	
+R4	Anaphora Arg1:T12 Arg2:T11	
+T15	Spatial-Relation 37 41	with
+T16	Spatial-Relation 65 80	to the right of
+T4	Spatial-Relation 102 120	on a straight line
+A2	No-Obj T4
+T18	Spatial-Relation 121 125	with
+T19	Spatial-Relation 136 149	in the middle
+R2	Obj Arg1:T19 Arg2:T14	
+T20	Spatial-Relation 206 210	with
+T21	Spatial-Relation 230 243	the same size
+T22	Spatial-Relation 244 269	below and to the right of
+T23	Spatial-Relation 298 302	with
+T24	Spatial-Relation 326 341	to the right of
+A3	Canonical-Undefined T4

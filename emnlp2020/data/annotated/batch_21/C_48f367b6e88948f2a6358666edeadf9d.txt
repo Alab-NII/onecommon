@@ -1,0 +1,12 @@
+0: I see 4 dots sorta in the shape of a snake
+1: one lonely dot that much lighter than the rest
+0: dont have that. I have one large one than the rest and light's light grey
+1: Is that one close to a black dot or a dark grey dot that is smaller than it
+0: yeah. it is like darkish black. It's a lot to the left of that too
+1: How many black dots do you have?
+0: 2
+1: for the large grey dot we mentioned earlier is there a black one above it
+0: yeah
+1: and a dark grey dot to the left of that black dot?
+0: yeah
+1: ok choose the large grey dot below the black dot

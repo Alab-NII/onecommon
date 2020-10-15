@@ -1,0 +1,10 @@
+T1	Markable 20 36	a large dark dot
+T2	Markable 166 168	it
+T3	Markable 182 195	the upper one
+T4	Markable 88 99	only 2 dots
+T5	Spatial-Relation 37 67	toward the upper center region
+A1	No-Obj T5
+T6	Spatial-Attribute 118 128	large size
+T7	Spatial-Relation 186 191	upper
+R1	Obj Arg1:T7 Arg2:T4	
+#1	AnnotatorNotes T5	upper;center

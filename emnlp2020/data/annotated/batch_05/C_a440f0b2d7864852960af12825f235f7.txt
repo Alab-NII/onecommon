@@ -1,0 +1,7 @@
+0: Large black dot with a medium light gray one right under it and to the left?
+1: Nope. Large medium grey dot with smaller dot below it and to the right?
+0: Nope...looks like we are 0 for 2. How about a large black dot with a medium black dot to the right of it and slightly up?
+1: two medium dots one on top light grey one below it to the right dark grey
+0: got it
+1: Which should we choose?
+0: the light one on top

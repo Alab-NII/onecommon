@@ -1,0 +1,9 @@
+T1	Markable 18 24	a line
+T2	Markable 92 94	it
+T4	Markable 3 9	4 dots
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 53 59	bottom
+T6	Markable 79 82	one
+T7	Markable 107 125	larger and darkest
+T3	Markable 129 137	the line
+R2	Predicative Arg1:T7 Arg2:T6	

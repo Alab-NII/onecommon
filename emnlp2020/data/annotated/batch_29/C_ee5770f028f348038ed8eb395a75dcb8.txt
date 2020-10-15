@@ -1,0 +1,7 @@
+0: I have a lonely large dark grey dot
+1: Dont have that on mine, how about a tiny black dot with another tiny dark dot to its upper right, and tiny light one to its upper left?
+0: I have the first 2 dots, i guess light one is cut from my circle
+1: possibly for sure...on the right one, do you see a large lighter one to its lower right
+0: yes it is larger but lighter than both of those dots
+1: cool, lets click that large one?
+0: sure

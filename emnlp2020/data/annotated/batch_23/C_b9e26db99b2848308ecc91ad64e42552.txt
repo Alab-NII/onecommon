@@ -1,0 +1,4 @@
+1: I see a medium black spot with a very small light grey spot directly below it about an inch and a half.
+0: Large black dot with same size grey slightly to the right and a tiny small dot below it
+1: Let's pick the large black dot.
+0: Ok

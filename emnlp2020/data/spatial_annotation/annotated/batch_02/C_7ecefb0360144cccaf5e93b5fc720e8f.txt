@@ -1,0 +1,4 @@
+0: do you have a diagonal line of 3 dots?
+1: yes. The line slants upward to the right. They are all medium gray. The one farthest to the left on the bottom is the largest
+0: same!
+1: Let's pick the largest one to the left

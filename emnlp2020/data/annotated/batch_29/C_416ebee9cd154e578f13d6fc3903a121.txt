@@ -1,0 +1,5 @@
+0: 2 large medium grey dots nearly touching
+1: Is the one on the left larger?
+0: just slightly
+1: Let's pick that.
+0: k

@@ -1,0 +1,5 @@
+0: I have a large, medium-gray dot on the outline of the circle.
+1: Does it have a small black dot to the right of it?
+0: Yes, it does.
+1: Ok, lets choose that large gray circle
+0: OK

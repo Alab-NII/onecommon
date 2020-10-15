@@ -1,0 +1,5 @@
+1: Do you see 3 dots very close together w the middle one being black?
+0: yes
+1: Are the ones on the left closer together than the one on the right?
+0: yes
+1: k click the black one!

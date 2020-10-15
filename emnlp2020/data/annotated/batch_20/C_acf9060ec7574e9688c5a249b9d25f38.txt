@@ -1,0 +1,8 @@
+1: do you see a large light gray dot on the lower edge
+0: I have a large black one slightly off center left, and a medium/small black on medium off center right? And no, I don't have that one
+1: i have a medium black just near center off to the left
+0: Mine is second to largest, but in that area. i have a small light grey southwest of that one, and a dark small northwest of that same large one. thoughts?
+1: the gray just south is it light gray medium size
+0: Not medium :/, very small. How about light grey medium/small north of the dark one. Pretty center but slightly north of center
+1: ok lets try the black off center right then
+0: okay

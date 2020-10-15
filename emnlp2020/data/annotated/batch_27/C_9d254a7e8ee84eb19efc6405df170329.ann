@@ -1,0 +1,27 @@
+T1	Markable 10 26	a tiny black dot
+T2	Markable 56 71	a tiny gray dot
+T3	Markable 50 52	it
+T4	Markable 125 154	a small medium color grey dot
+T5	Markable 160 177	a larger dark dot
+T6	Markable 272 293	the original grey dot
+T7	Markable 202 204	it
+T8	Markable 308 312	that
+T10	Markable 556 570	any black dots
+T11	Markable 625 634	the other
+T12	Markable 597 600	two
+T13	Markable 702 704	it
+T14	Markable 718 733	the smaller one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T15	Markable 82 86	that
+T16	Markable 96 115	a med size gray dot
+R2	Anaphora Arg1:T7 Arg2:T4	
+T17	Markable 210 246	a small but slightly larger dark dot
+A1	No-Referent T8
+T18	Markable 337 341	what
+A2	No-Referent T18
+T19	Markable 363 397	a very large medium color grey dot
+T20	Markable 403 426	a medium same color dot
+T21	Markable 449 457	that dot
+T22	Markable 463 485	a small same color dot
+T23	Markable 510 540	the original said big grey dot
+T9	Markable 601 604	one

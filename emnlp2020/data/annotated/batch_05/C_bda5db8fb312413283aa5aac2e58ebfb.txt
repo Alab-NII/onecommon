@@ -1,0 +1,2 @@
+1: I have a nice triangle with the largest dot being lightest and to the right
+0: lets pick that largest lightest one!

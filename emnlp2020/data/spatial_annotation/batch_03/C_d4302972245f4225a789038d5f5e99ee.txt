@@ -1,0 +1,9 @@
+1: I see a lonely medium sized gray dot
+0: I have one black large circle do you
+1: Yes. One large black dot and one large gray dot.
+0: yes
+1: Click on the large black dot?
+0: Is your lonely grey circle light grey or dark grey?
+1: More on the darker gray side
+0: lets click the large black
+1: Okay

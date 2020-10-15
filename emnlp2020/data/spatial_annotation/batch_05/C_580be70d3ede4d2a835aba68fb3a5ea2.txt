@@ -1,0 +1,3 @@
+0: do you have small dark dot at the top
+1: Yes--is there a black, slightly bigger dot below it?
+0: yes, pick the black dot

@@ -1,0 +1,14 @@
+T1	Markable 9 25	a large dark dot
+T2	Markable 63 65	it
+T3	Markable 31 56	a smaller medium gray dot
+T4	Markable 102 107	those
+T5	Markable 109 113	mine
+T6	Markable 139 152	no other dots
+T7	Markable 171 175	them
+T8	Markable 292 312	the same set of dots
+T11	Markable 339 360	the largest, dark dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T6
+T12	Markable 187 202	medium gray dot
+T13	Markable 221 235	the bottom dot
+R2	Anaphora Arg1:T5 Arg2:T4	

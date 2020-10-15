@@ -1,0 +1,15 @@
+T1	Markable 15 48	a large medium size and shade dot
+T2	Markable 114 120	5 dots
+T3	Markable 167 170	one
+T4	Markable 183 191	that two
+T5	Markable 485 492	the one
+T6	Markable 496 514	the point of the V
+T7	Markable 522 524	it
+T8	Markable 80 83	a V
+T9	Markable 141 145	most
+T10	Markable 286 315	a medium size medium gray dot
+T11	Markable 369 379	darker dot
+T12	Markable 395 405	larger dot
+T13	Markable 424 443	smallish light gray
+T14	Markable 450 469	smallish light gray
+R1	Predicative Arg1:T6 Arg2:T5	

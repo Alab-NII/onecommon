@@ -1,0 +1,24 @@
+T2	Markable 35 44	small one
+T3	Markable 3 9	3 dots
+T4	Markable 24 27	all
+R2	Anaphora Arg1:T4 Arg2:T3	
+T5	Spatial-Relation 77 85	Lightest
+T6	Markable 118 138	the lightest biggest
+T1	Spatial-Relation 10 23	in a triangle
+T7	Spatial-Attribute 28 34	medium
+T8	Spatial-Relation 45 57	on the right
+T9	Spatial-Relation 61 73	the lightest
+R1	Obj Arg1:T9 Arg2:T3	
+R3	Obj Arg1:T8 Arg2:T3	
+A1	No-Obj T1
+T10	Spatial-Relation 89 97	on right
+T11	Spatial-Relation 122 130	lightest
+T12	Spatial-Relation 131 138	biggest
+R7	Obj Arg1:T12 Arg2:T3	
+T13	Spatial-Relation 139 151	on the right
+R6	Obj Arg1:T11 Arg2:T3	
+R8	Obj Arg1:T13 Arg2:T3	
+R9	Obj Arg1:T5 Arg2:T3	
+R10	Obj Arg1:T10 Arg2:T3	
+T14	Modifier 28 34	medium
+A2	Mod-Neutral T14

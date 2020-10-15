@@ -1,0 +1,6 @@
+1: Do you have a large light dot with a smaller dark dot above it?
+0: I have three dark dots and two light grey dots and one medium grey dots
+1: hmmm, do you have a medium gray dot that is alone off by itself?
+0: Do you have a large light dot with a smaller dot above it? Yes i do. Medium grey is also alone by itself
+1: I think those are our 3 same dots! which one would you like to select together?
+0: medium grey

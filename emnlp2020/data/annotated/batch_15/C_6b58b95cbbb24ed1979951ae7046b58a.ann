@@ -1,0 +1,7 @@
+T1	Markable 3 27	solitary large black one
+T2	Markable 118 120	it
+T3	Markable 151 153	it
+T4	Markable 173 183	each other
+T5	Markable 58 76	large lonely black
+T6	Markable 124 143	two tiny light ones
+R1	Anaphora Arg1:T4 Arg2:T6	

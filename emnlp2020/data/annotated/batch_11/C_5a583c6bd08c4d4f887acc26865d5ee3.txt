@@ -1,0 +1,3 @@
+1: I have one medium size dark gray dot by itself
+0: I dont see that. have three dots in a vertical line. Light gray top, dark middle and medium gray lower. There is also a dark gray dot just to the left of the bottom one that is one the line
+1: I have that too, let's click the top light gray.

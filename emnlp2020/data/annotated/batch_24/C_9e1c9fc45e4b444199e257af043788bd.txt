@@ -1,0 +1,4 @@
+0: three large med grey dots in a horizontal line?
+1: I see it. For me, they are 3 large grey dots
+0: one all the way to the right a little farther away than the other two? if so click that one all the way to the right
+1: ok

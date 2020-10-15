@@ -1,0 +1,4 @@
+0: large black dot with a smaller black dot above and to the left?
+1: i think i see that. how close are they?
+0: somewhat close
+1: pick the larger one.

@@ -1,0 +1,10 @@
+0: I have 2 big black dots
+1: i have a group of the left to right are med black, med gray and large black
+0: I also have a med black med gray and large black dot but mine are more towards the top middle
+1: so are mine
+0: they form sort of like a v shape?
+1: yup
+0: i think those are what we have in common
+1: which one did you pick?
+0: the med black dot
+1: ok

@@ -1,0 +1,11 @@
+T1	Markable 36 38	it
+T2	Markable 42 58	a small dark dot
+T3	Markable 89 109	the rest of the dots
+T5	Markable 70 74	they
+T6	Markable 132 160	your smallest grey light dot
+T7	Markable 167 183	the smallest one
+T8	Markable 195 201	itself
+T11	Markable 304 308	that
+T13	Markable 3 16	Massive black
+R1	Anaphora Arg1:T1 Arg2:T13	
+R2	Anaphora Arg1:T8 Arg2:T7	

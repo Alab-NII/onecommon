@@ -1,0 +1,5 @@
+1: do you have a cluster of different colors?
+0: Yes, with a darker one on the upper right of the cluster
+1: yes, the medium grey one just below it to it's left is slightly larger?
+0: correct, lets pick the med gray slightly larger one?
+1: ok

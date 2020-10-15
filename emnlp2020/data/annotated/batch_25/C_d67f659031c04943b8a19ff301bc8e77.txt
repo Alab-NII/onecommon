@@ -1,0 +1,5 @@
+0: Medium gray dot with small black dot below it
+1: I have two tiny dots very close together - the one on the left is darker.
+0: Dont have that medium gray dot with tiny black dot slanted below tiny light grey slanted above
+1: Yes, I do have that. Should we pick the larger one in the middle?
+0: Yes

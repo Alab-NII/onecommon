@@ -1,0 +1,4 @@
+1: i have a lot of dark and only one light
+0: ok, i think i got it, pick the light one
+1: is the light one next to two medium dots same color, from the higher of these two, the lighter one is slightly left and down?
+0: yes

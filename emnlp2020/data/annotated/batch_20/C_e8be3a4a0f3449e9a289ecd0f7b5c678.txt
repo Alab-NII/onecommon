@@ -1,0 +1,5 @@
+1: Two closest dots on my screen, one is slightly darker shade and a bit bigger
+0: do you have two dots fairly close together, one darker than the other?
+1: I do! The darker one is slightly bigger? Lets pick that one
+0: Yes!
+1: Good luck

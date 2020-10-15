@@ -1,0 +1,10 @@
+T1	Markable 9 18	a cluster
+T2	Markable 148 158	two others
+T3	Markable 113 115	It
+T4	Markable 169 187	a much lighter one
+T5	Markable 215 227	a larger one
+T6	Markable 292 311	another lighter dot
+T7	Markable 265 286	a small dark grey dot
+T8	Markable 370 384	the darker one
+T9	Markable 66 81	My smallest one
+R1	Anaphora Arg1:T3 Arg2:T9	

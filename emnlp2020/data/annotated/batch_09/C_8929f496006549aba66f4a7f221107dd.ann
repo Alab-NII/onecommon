@@ -1,0 +1,10 @@
+T1	Markable 34 42	left one
+T2	Markable 79 88	the three
+T3	Markable 21 32	a near line
+T4	Markable 12 17	three
+T5	Markable 90 99	other two
+T6	Markable 167 181	that first one
+R1	Predicative Arg1:T3 Arg2:T4	
+R2	Anaphora Arg1:T2 Arg2:T4	
+T7	Markable 113 128	a diagonal line
+T8	Markable 185 207	the small lightest one

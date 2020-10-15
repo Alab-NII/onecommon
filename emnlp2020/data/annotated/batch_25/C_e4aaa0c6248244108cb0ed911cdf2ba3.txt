@@ -1,0 +1,10 @@
+0: do you have a med grey dot on the left side be itself
+1: Is it big?
+0: no medium size
+1: I dont have any like that by themselves
+0: do you have a big dark dot
+1: i have one with a slightly smaller slightly lighter dot almost directly beneath it
+0: I have a dark dot that have a med dark dot under it.
+1: does it have another med dark dot to the right of the other med dark dot?
+0: yes
+1: click the darker one?

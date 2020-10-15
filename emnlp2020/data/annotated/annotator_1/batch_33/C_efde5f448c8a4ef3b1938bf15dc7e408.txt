@@ -1,0 +1,7 @@
+1: I see a huge dark dot at the top and equally a big dark dot right below it
+0: Is the bottom one slightly to the left
+1: nope,but there is a medium light grey dot right below the second dark dot
+0: No. I have a almost backwards L of medium gray dots. All different size with my smallest dot being the bottom point
+1: Do you the smallest light grey dot at the middle of the circle
+0: I have a small light gray dot
+1: pick that one

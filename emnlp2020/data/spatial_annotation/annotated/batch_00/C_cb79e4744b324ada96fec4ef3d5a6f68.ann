@@ -1,0 +1,28 @@
+T1	Markable 69 93	a medium sized black dot
+T2	Markable 10 30	a tiny dark grey dot
+T3	Markable 63 65	it
+T4	Markable 111 129	any tiny grey dots
+T5	Markable 145 185	two medium-large, medium shade grey dots
+T6	Markable 213 220	The one
+T7	Markable 311 322	the top one
+R1	Anaphora Arg1:T3 Arg2:T2	
+A1	No-Referent T4
+T8	Markable 200 211	one another
+R2	Anaphora Arg1:T8 Arg2:T5	
+T9	Modifier 32 47	almost directly
+T11	Spatial-Relation 48 62	vertical below
+T12	Spatial-Relation 186 199	diagonal from
+T13	Spatial-Relation 221 227	on top
+R3	Obj Arg1:T13 Arg2:T5	
+T14	Modifier 231 239	a little
+T15	Spatial-Relation 240 246	darker
+R4	Obj Arg1:T15 Arg2:T5	
+T16	Modifier 248 256	a little
+T17	Spatial-Relation 257 264	smaller
+R5	Obj Arg1:T17 Arg2:T5	
+T18	Spatial-Relation 269 281	to the right
+R6	Obj Arg1:T18 Arg2:T5	
+T19	Spatial-Relation 315 318	top
+R8	Subj Arg1:T11 Arg2:T1	
+A2	Mod-Certainty-Exactness T9
+R9	Obj Arg1:T19 Arg2:T5	

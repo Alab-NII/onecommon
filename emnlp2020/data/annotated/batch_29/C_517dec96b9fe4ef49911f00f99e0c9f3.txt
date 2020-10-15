@@ -1,0 +1,7 @@
+1: one large gray dot with a small dot directly north of it about 3 inches north?
+0: i have no large grey dots, i have a lot of medium and slightly smaller than medium tho no black dots either, nor any really light dots
+1: Okay, do you have a medium dark gray dot with a slightly smaller dark gray dot directly north of it 3 inches?
+0: my entire circle is about 3 inches, but i do have a medium grey dot, with a slightly larger lighter dot above it and to a hair to the left
+1: do you have a dark gray dot (not black) with a smaller dot to the left and above?
+0: yeah, both about the same shade?
+1: yes...choose the smaller of the two

@@ -1,0 +1,6 @@
+0: Do you have a cluster of dots in the center ?
+1: yes but it is not very centered
+0: Same
+1: i have 1 large dark, 1 med dark, 1 small dark, 1 medium light, 1 small medium, and 2 medium mediums
+0: I have a large dark one thats somewhat center
+1: may large dark is roughly around 2 o' clock. Is yours?

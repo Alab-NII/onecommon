@@ -1,0 +1,4 @@
+1: large medium grey with a slightly smaller black dot up to the left
+0: i see a med size black dot. below and to the right of it is a large grey dot
+1: alright select the large grey dot
+0: okok

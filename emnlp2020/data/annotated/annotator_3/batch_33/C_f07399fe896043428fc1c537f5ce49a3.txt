@@ -1,0 +1,3 @@
+0: i see a large black one forming a triangle with other 2 different size and color, do you see it?
+1: yes. black one is the biggest of the three?
+0: yes, let's pick it, the large black one

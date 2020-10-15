@@ -1,0 +1,18 @@
+T1	Markable 79 85	itself
+T2	Markable 132 140	this one
+T3	Markable 93 101	your one
+T4	Markable 156 175	your large dark one
+T5	Markable 204 224	two large black ones
+T6	Markable 302 331	a pretty small light grey dot
+T7	Markable 343 354	a black one
+T8	Markable 392 394	it
+T9	Markable 368 384	a tiny light one
+T10	Markable 443 448	those
+T11	Markable 405 432	the other 2 large dark ones
+T12	Markable 468 486	the tiny light one
+T13	Markable 3 17	dark large dot
+T14	Markable 48 69	kinda large black one
+R1	Anaphora Arg1:T1 Arg2:T14	
+T15	Markable 228 238	themselves
+R2	Anaphora Arg1:T15 Arg2:T5	
+T16	Markable 252 273	a large dark grey dot

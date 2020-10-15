@@ -1,0 +1,30 @@
+T1	Markable 9 18	four dots
+T2	Spatial-Attribute 93 110	a small black dot
+T3	Markable 81 89	left one
+T4	Markable 112 119	top one
+T5	Markable 134 143	the three
+T6	Spatial-Attribute 184 194	small grey
+T7	Markable 63 79	a bunch of three
+T8	Spatial-Relation-Markable 161 170	low right
+T9	Markable 213 223	those dots
+T10	Markable 235 254	the small black dot
+R3	Anaphora Arg1:T5 Arg2:T7	
+T11	Spatial-Relation 19 28	clustered
+A1	No-Obj T11
+T12	Spatial-Relation 29 47	in a diamond shape
+A2	No-Obj T12
+T13	Spatial-Relation 65 70	bunch
+A3	No-Obj T13
+T14	Spatial-Relation 81 85	left
+R1	Obj Arg1:T14 Arg2:T7	
+T15	Spatial-Relation 112 115	top
+R4	Obj Arg1:T15 Arg2:T7	
+T16	Spatial-Relation 123 133	largest of
+T17	Spatial-Attribute 148 159	medium grey
+R5	Subj Arg1:T17 Arg2:T4	
+R2	Obj Arg1:T8 Arg2:T5	
+T18	Spatial-Relation 176 183	lighter
+R6	Obj Arg1:T18 Arg2:T5	
+A4	Canonical-Undefined T12
+#1	AnnotatorNotes T13	cluster
+T19	Modifier 148 154	medium

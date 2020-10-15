@@ -1,0 +1,10 @@
+T1	Markable 40 55	a diagonal line
+T2	Markable 123 135	the dark one
+T3	Markable 155 167	the dark one
+T5	Markable 230 241	the top one
+T6	Markable 249 261	The dark one
+T7	Markable 302 304	it
+T8	Markable 3 21	two med sized dots
+R1	Predicative Arg1:T1 Arg2:T8	
+R2	Anaphora Arg1:T3 Arg2:T2	
+T4	Markable 191 205	the darker one

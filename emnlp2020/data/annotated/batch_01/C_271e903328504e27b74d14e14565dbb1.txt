@@ -1,0 +1,4 @@
+0: Is your smallest dot black?
+1: do you see three dots in a line, the lowest one has a small black dot next to it, thats not part of the line
+0: Yes my lowest is a large light grey dot at the 5 o'clock position.
+1: lets pick that small black dot next to that light grey large dot

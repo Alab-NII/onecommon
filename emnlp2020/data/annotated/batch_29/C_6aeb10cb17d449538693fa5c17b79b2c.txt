@@ -1,0 +1,7 @@
+0: I have two very dark dots near the top right.
+1: i do not have that i have mostly light grey
+0: Okay, I have quite a few of light grey as well. Do you have a small one near the edge on the left side?
+1: I have 2 grey dots the same shade medium to large and 1 is slightly lower and left
+0: is the one lower and left bigger?
+1: yes
+0: Okay, let's go with that

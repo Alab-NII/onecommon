@@ -1,0 +1,14 @@
+T1	Markable 28 52	a nearly horizontal line
+T2	Markable 88 99	the largest
+T3	Markable 54 66	the smallest
+T4	Markable 9 24	three dark dots
+T6	Markable 157 161	that
+T7	Markable 180 185	those
+T9	Markable 205 228	a really large dark dot
+T10	Markable 233 255	a slightly smaller one
+T11	Markable 279 281	it
+T12	Markable 288 295	the one
+T13	Markable 362 376	the bigger one
+R1	Predicative Arg1:T1 Arg2:T4	
+A1	No-Referent T7
+R2	Anaphora Arg1:T11 Arg2:T9	

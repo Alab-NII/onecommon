@@ -1,0 +1,13 @@
+T1	Markable 47 62	large dark dots
+T4	Markable 15 32	a cluster of dots
+T5	Markable 106 121	a vertical line
+T7	Markable 132 153	2 sets of larger dots
+T8	Markable 214 217	one
+T9	Markable 239 248	the other
+T10	Markable 335 347	that top one
+T11	Markable 281 292	the top one
+T2	Markable 76 95	two very large dots
+R1	Predicative Arg1:T5 Arg2:T2	
+T3	Markable 186 187	2
+T6	Markable 206 207	2
+R2	Anaphora Arg1:T10 Arg2:T11	

@@ -1,0 +1,17 @@
+T1	Markable 10 38	the lightest medium size dot
+T2	Markable 174 180	4 dots
+T3	Markable 286 299	2 medium dots
+T4	Markable 315 320	those
+T5	Markable 334 350	a light grey dot
+T6	Markable 368 375	the two
+T7	Markable 465 474	those two
+T9	Markable 534 538	them
+T10	Markable 548 562	Small dark one
+T11	Markable 55 62	My dots
+A1	All-Referents T11
+T12	Markable 194 201	largest
+T13	Markable 233 241	smallest
+T14	Markable 404 415	Medium grey
+T15	Markable 424 433	dark grey
+T16	Markable 446 456	Light grey
+T17	Markable 506 530	smallest and the darkest

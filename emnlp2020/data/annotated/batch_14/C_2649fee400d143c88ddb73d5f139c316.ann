@@ -1,0 +1,7 @@
+T1	Markable 54 64	darker dot
+T2	Markable 10 32	a large light gray dot
+T3	Markable 91 93	it
+T4	Markable 107 128	these twin sized dots
+T5	Markable 153 176	the lighter colored one
+T6	Markable 197 212	the lighter one
+R1	Anaphora Arg1:T3 Arg2:T2	

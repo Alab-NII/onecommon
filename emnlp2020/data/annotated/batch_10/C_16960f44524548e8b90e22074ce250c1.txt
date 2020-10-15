@@ -1,0 +1,4 @@
+1: I see two large dot near each other.
+0: Is the one more to the right darker and are they both the same size?
+1: Yes. Shall we choose the darker one to the right?
+0: Yes!

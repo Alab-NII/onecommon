@@ -1,0 +1,42 @@
+T1	Markable 15 28	one black one
+T2	Markable 30 34	it's
+T3	Markable 56 87	a slightly larger dark grey one
+T4	Markable 123 135	most of mine
+T6	Markable 163 182	one small black dot
+T7	Markable 225 227	it
+T8	Markable 270 272	it
+T9	Markable 232 249	a larger grey dot
+T10	Markable 373 390	a large black one
+T11	Markable 440 473	the slightly larger dark grey one
+T12	Markable 397 416	the small black one
+T13	Markable 571 591	a small lighter grey
+T14	Markable 548 565	a large dark grey
+T15	Markable 639 659	the lighter grey one
+T16	Markable 618 620	it
+T17	Markable 621 637	the smallest dot
+T18	Markable 689 691	it
+R1	Anaphora Arg1:T2 Arg2:T1	
+T19	Markable 91 95	it's
+R2	Anaphora Arg1:T19 Arg2:T1	
+A1	Generic T4
+T5	Markable 203 206	its
+T20	Markable 192 199	nothing
+R3	Anaphora Arg1:T5 Arg2:T6	
+R4	Anaphora Arg1:T7 Arg2:T6	
+R5	Anaphora Arg1:T8 Arg2:T7	
+T21	Markable 303 307	what
+A2	Generic T21
+T22	Markable 319 327	all mine
+A3	All-Referents T22
+T23	Markable 361 369	top most
+R6	Predicative Arg1:T10 Arg2:T23	
+T24	Markable 477 480	its
+R7	Anaphora Arg1:T24 Arg2:T12	
+T25	Markable 595 598	its
+R8	Anaphora Arg1:T25 Arg2:T14	
+R9	Predicative Arg1:T17 Arg2:T16	
+R10	Predicative Arg1:T15 Arg2:T16	
+T26	Markable 695 700	large
+T27	Markable 704 709	small
+T28	Markable 714 726	the smallest
+A4	No-Referent T20

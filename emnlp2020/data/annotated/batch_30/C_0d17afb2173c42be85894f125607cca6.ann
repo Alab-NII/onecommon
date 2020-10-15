@@ -1,0 +1,7 @@
+T2	Markable 32 47	1 big black one
+T3	Markable 10 26	a cluster of dot
+T4	Markable 61 74	the black one
+T5	Markable 126 128	it
+T6	Markable 80 101	a smaller darker grey
+T7	Markable 148 159	the big one
+R1	Anaphora Arg1:T5 Arg2:T4	

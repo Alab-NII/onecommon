@@ -1,0 +1,4 @@
+0: I have a dark gray and a light gray that are nearly touching each other.
+1: Yes... wanna choose the darker one
+0: Let's do it.
+1: Ok

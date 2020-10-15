@@ -1,0 +1,5 @@
+0: I have 4 dots, but they still form a triangle.?
+1: Right side small
+0: I have multiple small dots.
+1: Left side small dark on bottom
+0: Let's choose the left side small.

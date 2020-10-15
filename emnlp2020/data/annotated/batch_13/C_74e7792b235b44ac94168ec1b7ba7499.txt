@@ -1,0 +1,6 @@
+1: two dots very close together one small and almost black and top one very large and med grey?
+0: yes I see it
+1: if the top one is more to the left click it
+0: great
+1: which one did you click??
+0: the top one that is more to the left

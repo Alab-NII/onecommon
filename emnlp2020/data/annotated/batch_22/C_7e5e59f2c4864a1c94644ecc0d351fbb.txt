@@ -1,0 +1,5 @@
+1: The smallest dot is one of the lightest
+0: two dark dots of same size and color? with another dot between them and to the left
+0: is there a med gray bigger dot above the one you talked about?
+1: Let us select the one between them to the left.
+0: ok

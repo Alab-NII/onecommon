@@ -1,0 +1,5 @@
+0: Fat dark grey and a small light grey close to each other
+1: Is the smaller light gray one below and to the left of the darker one?
+0: yes, there is another combo but they are closer together in color
+1: Lets pick the large dark gray one
+0: wait, how about a triangle of greys?

@@ -1,0 +1,6 @@
+1: I see three groups of 2, and there is a medium grey large one alone?
+0: Is it to the right of the circle?
+1: Mine is to the left. There are two small light grey dots beneath it. It almost makes an equilateral triangle.
+0: Okay yes! I see exactly what you're talking about.
+1: Let's go for the dark one at the top. =)
+0: Have a great day! :)

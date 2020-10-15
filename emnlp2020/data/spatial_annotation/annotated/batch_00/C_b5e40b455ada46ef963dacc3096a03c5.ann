@@ -1,0 +1,51 @@
+T1	Markable 14 37	a lonely light gray dot
+T2	Markable 111 144	a smaller medium sized darker one
+T3	Markable 84 105	a large dark grey one
+T4	Markable 188 205	a really dark one
+T5	Markable 308 325	a really dark one
+T7	Markable 408 413	three
+T8	Markable 501 513	the last one
+T9	Markable 495 499	that
+T11	Markable 567 575	that one
+T12	Markable 148 151	its
+R1	Anaphora Arg1:T12 Arg2:T3	
+T13	Markable 327 330	its
+R2	Anaphora Arg1:T13 Arg2:T5	
+T14	Markable 345 366	a smaller lighter one
+T15	Markable 370 373	its
+R3	Anaphora Arg1:T15 Arg2:T5	
+T16	Markable 459 463	dark
+T17	Markable 465 470	light
+T18	Markable 480 484	dark
+T19	Spatial-Relation 16 22	lonely
+A1	No-Obj T19
+T20	Spatial-Relation 38 51	at the bottom
+A2	No-Obj T20
+T21	Spatial-Relation 106 110	with
+T22	Spatial-Relation 113 120	smaller
+T23	Spatial-Relation 134 140	darker
+T24	Spatial-Relation 152 163	bottom left
+R6	Subj Arg1:T24 Arg2:T2	
+R7	Obj Arg1:T24 Arg2:T12	
+T25	Spatial-Relation 206 227	at approximately 2:00
+A3	No-Obj T25
+T26	Modifier 209 222	approximately
+T27	Spatial-Attribute 331 336	large
+T28	Spatial-Relation 347 354	smaller
+T29	Spatial-Relation 374 378	left
+T30	Modifier 383 391	slightly
+T31	Spatial-Relation 392 397	south
+R8	Subj Arg1:T29 Arg2:T14	
+R9	Obj Arg1:T29 Arg2:T15	
+R10	Subj Arg1:T31 Arg2:T14	
+R11	Obj Arg1:T31 Arg2:T15	
+T6	Spatial-Relation 414 423	in a line
+A4	No-Obj T6
+T32	Spatial-Relation 424 449	going from outer to inner
+T34	Spatial-Relation 514 526	on the right
+R4	Obj Arg1:T34 Arg2:T9	
+T10	Spatial-Relation 534 541	largest
+R5	Obj Arg1:T10 Arg2:T9	
+T35	Spatial-Relation 355 362	lighter
+#3	AnnotatorNotes T25	above;right
+A5	Unannotatable T32

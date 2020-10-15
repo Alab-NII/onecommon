@@ -1,0 +1,6 @@
+1: i see a small black dot isolated from everything else in my northwest corner
+0: I don't have that. I have a large light gray dot, top right
+1: that's not on mine at all. what about a medium black dot with another smaller black dot near under it
+0: Yes, I have that.
+1: pick the smaller dot?
+0: Sure

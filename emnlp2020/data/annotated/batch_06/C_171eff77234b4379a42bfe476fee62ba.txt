@@ -1,0 +1,8 @@
+0: Two black dots next to each other. One is large and the other is medium, down and to the right of it
+1: no
+0: ok how about 3 small dots far apart that make a line sloping down and left, the middle one is black
+1: middle one is LIGHT GREY
+0: is the one to the left of that one black?
+1: yes
+0: ok that sounds like it. lets click the black one
+1: ok

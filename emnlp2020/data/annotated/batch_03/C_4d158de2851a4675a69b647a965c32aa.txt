@@ -1,0 +1,3 @@
+1: I see two large dots, one is light gray and the other dark grey
+0: ditto
+1: I see three small dots, two light grey and one black?

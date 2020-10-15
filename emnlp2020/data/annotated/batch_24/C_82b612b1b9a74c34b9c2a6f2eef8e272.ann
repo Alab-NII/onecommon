@@ -1,0 +1,12 @@
+T1	Markable 15 23	any dots
+T2	Markable 120 124	they
+T3	Markable 196 224	the very big large black dot
+T4	Markable 226 228	It
+T5	Markable 290 310	two light small ones
+T6	Markable 317 319	it
+T7	Markable 380 397	the big black one
+T8	Markable 60 84	very large very dark dot
+T9	Markable 103 110	nothing
+A1	No-Referent T9
+R1	Anaphora Arg1:T4 Arg2:T3	
+T10	Markable 254 256	it

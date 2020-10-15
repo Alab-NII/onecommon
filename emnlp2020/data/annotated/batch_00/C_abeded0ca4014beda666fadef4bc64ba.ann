@@ -1,0 +1,8 @@
+T2	Markable 58 84	each point of the triangle
+T3	Markable 5 15	three dots
+T4	Markable 170 177	the one
+T5	Markable 113 117	that
+T6	Markable 193 197	that
+T7	Markable 225 241	the smallest one
+R1	Anaphora Arg1:T2 Arg2:T3	
+T1	Markable 127 141	the two bottom

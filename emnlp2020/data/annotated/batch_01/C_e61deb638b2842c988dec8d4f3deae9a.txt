@@ -1,0 +1,7 @@
+0: I have a dark grey dot on the far right just above middle
+1: I have a light grey dot on the dotted line at the bottom at 5 oclock
+0: nope not here. I have a small grey dot at the far left just above the middle
+1: I don't have that one. I have a light gray dot at the top right at 11 oclock
+0: Nope. I have a small dark dot just above the middle
+1: Me too, is it centered? mine is
+0: yes

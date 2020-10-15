@@ -1,0 +1,26 @@
+T1	Markable 18 28	each other
+T2	Markable 52 60	left dot
+T3	Markable 160 172	the left dot
+T4	Markable 3 9	2 dots
+R1	Anaphora Arg1:T1 Arg2:T4	
+T5	Spatial-Relation-Markable 87 92	right
+T6	Markable 116 117	2
+T7	Spatial-Relation 10 17	next to
+T8	Spatial-Relation 29 50	with space in between
+A1	No-Obj T8
+T9	Spatial-Relation 64 70	larger
+T10	Spatial-Attribute 75 85	light grey
+T11	Spatial-Relation 52 56	left
+R2	Obj Arg1:T11 Arg2:T4	
+R3	Obj Arg1:T9 Arg2:T4	
+R4	Obj Arg1:T5 Arg2:T4	
+T12	Spatial-Relation 96 102	darker
+R5	Obj Arg1:T12 Arg2:T4	
+T13	Spatial-Attribute 107 112	small
+T14	Spatial-Relation 118 145	almost perfectly horizontal
+A2	No-Obj T14
+T15	Modifier 118 134	almost perfectly
+T16	Spatial-Relation 164 168	left
+R6	Obj Arg1:T16 Arg2:T4	
+A3	Mod-Certainty-Exactness T15
+A4	Canonical-Undefined T8

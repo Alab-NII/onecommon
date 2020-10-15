@@ -1,0 +1,6 @@
+1: 3 dots in a cluster?
+0: I have a large black dot up to the right of the three cluster
+1: I do not. Do you have a large medium gray dot around the 8:30 mark
+0: no
+1: what about a really dark little dot in the 3 cluster
+0: Small dark grey , large light grey med/small darker grey in the cluster lets click the large light grey in the cluster.

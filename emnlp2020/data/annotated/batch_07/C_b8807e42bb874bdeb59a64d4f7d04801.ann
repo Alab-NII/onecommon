@@ -1,0 +1,12 @@
+T1	Markable 9 19	three dots
+T2	Markable 21 23	It
+T3	Markable 62 74	The last two
+T4	Markable 110 114	they
+T5	Markable 174 187	The first one
+T6	Markable 240 254	the larger one
+T7	Markable 30 37	a trail
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T7 Arg2:T2	
+T8	Markable 39 47	The lead
+T9	Markable 137 149	The last two
+T10	Markable 219 223	that

@@ -1,0 +1,20 @@
+T1	Markable 33 51	all the other dots
+T2	Markable 194 196	it
+T3	Markable 205 223	the tiny black dot
+T4	Markable 3 22	One large black dot
+T5	Markable 59 67	all mine
+A1	All-Referents T5
+T6	Markable 122 131	black med
+T7	Markable 133 143	grey large
+T8	Markable 145 154	black med
+T9	Markable 156 167	black small
+T10	Markable 172 180	med grey
+T11	Spatial-Relation 23 32	away from
+T12	Spatial-Relation 72 83	gathered up
+A2	No-Obj T12
+T13	Spatial-Relation 85 103	looks like a snake
+A3	No-Obj T13
+T14	Spatial-Relation 105 118	bottom to top
+#1	AnnotatorNotes T12	clustered
+A5	Canonical-Undefined T13
+A4	Unannotatable T14

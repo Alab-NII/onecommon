@@ -1,0 +1,4 @@
+1: Hello, I have one dot larger than the rest
+0: i have a very large dot slight dark grey all the way on the right touching the line
+1: Mine is also touching the line
+0: i will select that one

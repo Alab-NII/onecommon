@@ -1,0 +1,4 @@
+1: i see 2 larger dots, one dark gray one lighter gray
+0: I see a very tiny darker dot that is very close to left of a grey one. No larger dots for me
+1: I see a darker gray dot that is the smallest on the board, similar to what you are describing
+0: yes it is the darkest and smallest for me

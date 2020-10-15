@@ -1,0 +1,4 @@
+0: hello wheres your dot?
+1: the two lightest ones are toward the bottom of my circle. one is tiny (right) one is small (left) and there's a medium/dark large one above the latter
+0: I do not see those in my circle. How about the largest dark dot. Do you see that with a medium dark dot above and to the right of it?
+1: ok let's choose the largest/Dark dot, that sounds like one we both have

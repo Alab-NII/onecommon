@@ -1,0 +1,11 @@
+T1	Markable 25 35	a triangle
+T2	Markable 9 14	three
+T3	Markable 104 108	that
+T6	Markable 177 188	a light one
+T7	Markable 117 139	a very large black one
+T8	Markable 312 320	that one
+T9	Markable 278 290	the triangle
+T10	Markable 225 245	only large black one
+R1	Predicative Arg1:T1 Arg2:T2	
+T11	Markable 39 51	bottom right
+A1	No-Referent T3

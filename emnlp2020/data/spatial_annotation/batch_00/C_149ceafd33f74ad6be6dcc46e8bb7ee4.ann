@@ -1,0 +1,13 @@
+T1	Markable 66 89	a lonely large dark dot
+T2	Markable 38 61	a lonely small dark dot
+T3	Markable 124 133	the small
+T4	Markable 177 195	the large solo dot
+T6	Markable 215 217	it
+T7	Markable 271 288	the big black dot
+T8	Markable 292 298	itself
+T9	Markable 262 270	that one
+T10	Markable 10 24	two dark spots
+T11	Markable 102 110	the same
+R1	Anaphora Arg1:T6 Arg2:T4	
+R2	Cataphora Arg1:T9 Arg2:T7	
+R3	Anaphora Arg1:T8 Arg2:T7	

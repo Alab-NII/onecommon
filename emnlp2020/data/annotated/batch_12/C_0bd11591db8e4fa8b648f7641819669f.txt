@@ -1,0 +1,7 @@
+1: Do you have a smaller dark dot above the lighter larger dot at a diagonal?
+0: YES
+1: I am not sure because I have several like that. The one I am talking about is only a little bit smaller but a lot darker
+0: I ONLY HAVE TWO LARGE LIGHT GREY DOTS
+1: I do too but one has a very small darker gray above it and the other has a medium size darker dot above it but the 2nd one is the darkest gray dot on the board
+0: LETS PICK THE BIG LIGHT GREY DOT WITH A SMALL DARK DOT
+1: ok

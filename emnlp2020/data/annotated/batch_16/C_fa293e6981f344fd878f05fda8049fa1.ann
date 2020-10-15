@@ -1,0 +1,12 @@
+T1	Markable 41 49	the rest
+T2	Markable 15 20	a dot
+T3	Markable 61 77	1 large gray dot
+T4	Markable 83 93	4 more Dot
+T5	Markable 155 165	a triangle
+T6	Markable 136 140	dots
+T7	Markable 240 244	that
+T8	Markable 117 120	a v
+R1	Predicative Arg1:T5 Arg2:T6	
+T9	Markable 170 189	My largestomach dot
+T10	Markable 194 204	light gray
+T11	Markable 259 273	that LARGE dot

@@ -1,0 +1,8 @@
+T1	Markable 9 23	a big grey one
+T2	Markable 65 70	a dot
+T3	Markable 84 98	two black dots
+T4	Markable 100 104	They
+T5	Markable 162 175	both of those
+T6	Markable 195 209	the bottom one
+A1	No-Referent T2
+R1	Anaphora Arg1:T4 Arg2:T3	

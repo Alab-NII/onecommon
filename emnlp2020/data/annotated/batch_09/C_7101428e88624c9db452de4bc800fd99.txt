@@ -1,0 +1,6 @@
+1: In the upper right corner I have a black dot and a gray dot
+0: I have a large black dot at 1 oclock
+1: I have a small black dot and a small black dot in the upper left
+0: I have a large black dot at 7 oclock
+1: The large black dot i have a 1 oclock is diagonal from a grey dot
+0: i have a large black dot at 1 oclock too

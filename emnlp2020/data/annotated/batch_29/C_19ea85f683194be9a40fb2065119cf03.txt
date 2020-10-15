@@ -1,0 +1,5 @@
+0: I see 7 dots in total
+1: Do you see to larger dots very close together ...
+0: yes, 2. 1 is light grey and one is medium-light
+1: Yes, let's choose the darker top one.
+0: that works

@@ -1,0 +1,13 @@
+T1	Markable 58 72	the higher one
+T2	Markable 32 42	each other
+T3	Markable 118 123	those
+T4	Markable 132 136	they
+T5	Markable 187 191	them
+T6	Markable 249 269	the larger black dot
+T7	Markable 208 225	a medium grey dot
+T8	Markable 331 335	that
+T9	Markable 3 17	two black dots
+R1	Anaphora Arg1:T2 Arg2:T9	
+T10	Markable 89 98	the lower
+R2	Anaphora Arg1:T4 Arg2:T3	
+T11	Markable 291 311	the larger black dot

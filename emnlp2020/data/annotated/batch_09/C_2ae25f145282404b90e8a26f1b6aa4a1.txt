@@ -1,0 +1,2 @@
+0: Hi! I have a line for 4 tops starting at the left and going up to the right... Medium gray, smaller black, smallest dark gray and dark gray or black on the line
+1: Yes click on the smallest one!

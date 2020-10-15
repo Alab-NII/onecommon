@@ -1,0 +1,4 @@
+1: I have a small black dot with a larger medium gray dot above to its right and a lighter gray dot above to the left
+0: In a V shape
+1: yes. Let's pick the small black one on the bottom of the V
+0: yes

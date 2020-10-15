@@ -1,0 +1,7 @@
+1: I have the lonely grey medium dot on bottom right
+0: I have 2 dots close together. one black and larger and a lighter one and smaller above it
+1: I have those 2
+0: and I have a medium dark grey lonely one too
+1: which one should we select?
+0: lets go with one of the 2 together. the darker one ok?
+1: okay

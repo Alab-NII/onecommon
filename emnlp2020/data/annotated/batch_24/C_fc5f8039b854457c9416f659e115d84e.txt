@@ -1,0 +1,5 @@
+0: two dots very close together and med grey?
+1: no do you have a dark dot by itself
+0: no. do you have a kind of small black dot?
+1: it is it near a a med color grey dot
+0: yes! click the black one!

@@ -1,0 +1,8 @@
+1: I see two very large grey dots, with one lower and to the right. There is a smaller dot of the same color between them.
+0: I don't have that.
+1: I also have a super large very dark grey dot with a dot just down and to the left, that is a little bit lighter and smaller
+0: I don't see that. Do you have two medium sized dots diagonal from each other one darker one lighter?
+1: I don't see that. I do have two light grey dots that are diagonal from each other - very close to each other, and one is just a touch down and to the right.
+0: I have a light gray dot that is large
+1: Let's pick that one.
+0: Okay

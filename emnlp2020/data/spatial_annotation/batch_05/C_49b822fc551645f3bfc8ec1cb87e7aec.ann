@@ -1,0 +1,13 @@
+T2	Markable 15 32	a cluster of dots
+T3	Markable 60 62	it
+T4	Markable 102 114	1 large dark
+T1	Markable 116 126	1 med dark
+T5	Markable 128 140	1 small dark
+T6	Markable 142 156	1 medium light
+T7	Markable 158 172	1 small medium
+T8	Markable 178 194	2 medium mediums
+T9	Markable 205 221	a large dark one
+T10	Markable 247 261	may large dark
+#1	AnnotatorNotes T10	my large dark
+T11	Markable 295 300	yours
+R1	Anaphora Arg1:T11 Arg2:T10	

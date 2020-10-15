@@ -1,0 +1,4 @@
+0: I see one very large gray dot.
+1: Do you have one large, light grey dot?
+0: LOL - yes! Should we choose it?
+1: Absolutely.

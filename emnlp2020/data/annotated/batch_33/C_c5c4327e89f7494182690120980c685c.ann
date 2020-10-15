@@ -1,0 +1,12 @@
+T1	Markable 36 61	a smaller, also black dot
+T2	Markable 79 81	it
+T3	Markable 152 158	itself
+T4	Markable 168 173	a few
+T5	Markable 205 209	what
+T6	Markable 266 287	the larger darker one
+T7	Markable 10 30	a medium sized black
+R1	Anaphora Arg1:T2 Arg2:T7	
+T8	Markable 111 125	my largest dot
+R2	Anaphora Arg1:T3 Arg2:T8	
+T9	Markable 237 241	what
+T10	Markable 291 295	what

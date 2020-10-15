@@ -1,0 +1,4 @@
+1: i have a tiny dot light grey dot slight above and to the left of a bigger and darker dot
+0: Is the larger dot almost black?
+1: yes
+0: k lets click the black one

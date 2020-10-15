@@ -1,0 +1,4 @@
+1: group of making a square
+0: One of them is very black
+1: yes near the line
+0: select the black one

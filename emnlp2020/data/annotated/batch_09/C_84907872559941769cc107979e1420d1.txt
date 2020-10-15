@@ -1,0 +1,6 @@
+0: Medium gray dot all alone?
+1: Do you have a dark dot near the edge away from the rest? It is in the southeastern quadrant.
+0: i do not
+1: What about a large gray dot with a small black dot underneath and a lighter grey dot up and to the right?
+0: Yes i have that one
+1: Let's click it

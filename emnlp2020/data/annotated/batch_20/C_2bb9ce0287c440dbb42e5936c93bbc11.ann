@@ -1,0 +1,15 @@
+T1	Markable 62 65	one
+T2	Markable 78 87	the other
+T3	Markable 13 21	two dots
+T4	Markable 45 60	a vertical line
+T5	Markable 129 143	the darker one
+T7	Markable 156 169	the light one
+T8	Markable 234 247	the light one
+T9	Markable 204 218	the larger one
+T10	Markable 259 274	a diagonal line
+T11	Markable 293 310	the dark gray one
+R1	Predicative Arg1:T4 Arg2:T3	
+T12	Markable 109 114	these
+R2	Anaphora Arg1:T12 Arg2:T3	
+T6	Markable 183 202	not a vertical line
+A1	No-Referent T6

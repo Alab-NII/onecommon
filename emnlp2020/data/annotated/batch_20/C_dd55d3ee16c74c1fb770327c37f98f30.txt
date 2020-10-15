@@ -1,0 +1,4 @@
+0: i have 3 large black dots one touching line at 2:00 and one below the 12:00 and one to the left of that one do u have any of those
+1: I have one medium-large black dot, darker than the rest
+0: i have no med blacks a small grey at 1:00 and one at 9:00 do u have either
+1: I see the small grey near 1, take that!

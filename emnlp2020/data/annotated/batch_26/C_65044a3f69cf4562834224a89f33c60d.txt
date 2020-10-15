@@ -1,0 +1,4 @@
+0: A slight cluster of three dots all different colors bottom left
+1: forming a triangle, correct?
+0: Yes, should we hit the black one
+1: the tiny black one

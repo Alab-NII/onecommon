@@ -1,0 +1,11 @@
+T1	Markable 9 28	2 similar size dots
+T2	Markable 107 118	3 tiny dots
+T3	Markable 206 216	each other
+T4	Markable 180 184	they
+T5	Markable 254 266	the dark one
+T6	Markable 30 35	Lower
+T7	Markable 62 71	The upper
+T8	Markable 122 138	the similar dots
+T9	Markable 158 168	themselves
+R1	Anaphora Arg1:T9 Arg2:T8	
+R2	Anaphora Arg1:T3 Arg2:T4	

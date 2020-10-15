@@ -1,0 +1,4 @@
+1: do you see 2 big ones very very close to each other?
+0: yes i do, medium dark grey, top one is to the right?
+1: yes, let's pick the one at the top right, ok?
+0: ok

@@ -1,0 +1,7 @@
+1: med black dot alone
+0: big?
+1: no med
+0: no
+1: do you have 3 dots. I have a large black dot with 2 med sized dots on either side of it.
+0: yes i have that, chose the large black one?
+1: yes

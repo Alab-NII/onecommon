@@ -1,0 +1,4 @@
+1: I have only 1 really big dot, It is light grey
+0: is it located in the top right region
+1: yes
+0: let's hit it

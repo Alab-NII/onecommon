@@ -1,0 +1,7 @@
+T1	Markable 10 20	three dots
+T2	Markable 41 45	them
+T3	Markable 34 37	one
+T4	Markable 78 80	it
+T5	Markable 96 99	One
+T8	Markable 135 149	the LARGE GRAY
+R1	Anaphora Arg1:T2 Arg2:T1	

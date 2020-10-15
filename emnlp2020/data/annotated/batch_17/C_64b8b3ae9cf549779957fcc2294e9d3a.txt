@@ -1,0 +1,3 @@
+0: 1 single smaller black dot with a triangle cluster of larger dots to the right?
+1: yes I see it. the triangle has two lighter and one medium-dark dots?
+0: yes, lets pick the dark dot in the triangle

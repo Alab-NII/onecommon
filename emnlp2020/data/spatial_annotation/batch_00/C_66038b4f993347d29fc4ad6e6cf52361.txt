@@ -1,0 +1,4 @@
+0: I have a large medium grey dot with a slightly smaller black dot below it and slightly to the right
+1: ok I see the large light one, but not the small one, is there a tiny very light gray at its right to the top?
+0: I have a tiny light grey one that is to the right, but only a little bit above it
+1: ok, let's pick the original large mid gray

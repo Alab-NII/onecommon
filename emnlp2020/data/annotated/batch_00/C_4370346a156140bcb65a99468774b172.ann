@@ -1,0 +1,22 @@
+T1	Markable 6 31	your smallest darkest dot
+T3	Markable 49 55	2 dots
+T4	Markable 59 69	each other
+T5	Markable 71 74	one
+T7	Markable 112 126	2 sets of dots
+T8	Markable 158 172	the darker dot
+T11	Markable 205 220	the lighter dot
+T12	Markable 232 240	a couple
+T15	Markable 252 259	one set
+T16	Markable 328 331	one
+T17	Markable 278 291	the other set
+T18	Markable 375 400	the light and darker pair
+T19	Markable 453 468	the lighter dot
+T20	Markable 416 430	the darker one
+T21	Markable 500 513	The dark grey
+T22	Markable 610 624	the darker one
+R1	Anaphora Arg1:T4 Arg2:T3	
+T2	Markable 309 313	both
+R2	Anaphora Arg1:T2 Arg2:T17	
+T6	Markable 341 346	other
+T9	Markable 477 498	the medium sized ones
+T10	Markable 541 552	lighter one

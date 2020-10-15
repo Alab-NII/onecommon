@@ -1,0 +1,14 @@
+T1	Markable 50 57	the one
+T2	Markable 88 97	the other
+T3	Markable 10 18	two dots
+T4	Markable 144 154	each other
+T5	Markable 265 269	mine
+T6	Markable 274 284	three dots
+T7	Markable 293 317	the smallest darkest dot
+T8	Markable 125 134	two pairs
+R1	Anaphora Arg1:T4 Arg2:T8	
+T9	Markable 210 220	both pairs
+R2	Anaphora Arg1:T9 Arg2:T8	
+T10	Markable 235 246	those pairs
+T11	Markable 248 261	the top slope
+R3	Predicative Arg1:T6 Arg2:T11	

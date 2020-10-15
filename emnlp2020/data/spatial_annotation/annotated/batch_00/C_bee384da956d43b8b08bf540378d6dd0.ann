@@ -1,0 +1,14 @@
+T1	Markable 46 54	two dots
+T2	Markable 75 82	the one
+T3	Markable 3 14	all my dots
+T4	Markable 146 164	the darker/smaller
+A1	All-Referents T3
+T5	Spatial-Attribute 19 31	medium color
+T6	Spatial-Relation 55 69	close together
+T8	Spatial-Relation 83 95	to the right
+R1	Obj Arg1:T8 Arg2:T1	
+T9	Spatial-Relation 102 120	smaller and darker
+R2	Obj Arg1:T9 Arg2:T1	
+T10	Spatial-Relation 150 164	darker/smaller
+T11	Modifier 19 25	medium
+R4	Obj Arg1:T10 Arg2:T1	

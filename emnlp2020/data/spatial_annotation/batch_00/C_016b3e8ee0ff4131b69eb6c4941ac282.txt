@@ -1,0 +1,3 @@
+1: med sized very light grey dot?
+0: I have a large dark gray dot with a smaller and slightly lighter dot directly above and slightly to the right of it. They are very close together
+1: yes! click the smaller one on top!

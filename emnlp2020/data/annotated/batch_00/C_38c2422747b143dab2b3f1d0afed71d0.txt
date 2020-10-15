@@ -1,0 +1,6 @@
+1: Only black dot on my screen is bottom left.
+0: i have one lone light grey smaller dot in my lower left quadrant
+1: Wow. I have a light grey small dot in my upper right. Is there a black dot for reference on your screen?
+0: i have a few, three are grouped together in my upper half, one has a smaller grey dot down to the right
+1: Okay, want to hit the small grey dot hanging from the lower right of the three dot group?
+0: yes, i was thinking that might be it, lets go for it

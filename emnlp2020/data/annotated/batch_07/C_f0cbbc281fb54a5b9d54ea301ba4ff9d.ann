@@ -1,0 +1,13 @@
+T1	Markable 75 78	two
+T2	Markable 125 132	the two
+T3	Markable 160 163	One
+T4	Markable 167 189	mid to large and light
+T5	Markable 276 290	the larger one
+T6	Markable 332 344	the same one
+T7	Markable 357 371	the larger one
+T8	Markable 9 18	which dot
+A1	Generic T8
+T9	Markable 56 69	five semi mid
+T10	Markable 194 197	one
+R1	Predicative Arg1:T4 Arg2:T3	
+T11	Markable 230 237	the two

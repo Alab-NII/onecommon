@@ -1,0 +1,6 @@
+1: very tiny very light grey dot?
+0: i do have a smaller light gray near center to the right and up a little
+1: is there a med sized very dark grey dot to its right bottom? if so click that one
+0: no below that i have only dark gray large and one black
+1: k click that tiny light grey dot
+0: ok lets try it

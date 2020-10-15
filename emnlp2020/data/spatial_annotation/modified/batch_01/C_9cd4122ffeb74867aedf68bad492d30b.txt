@@ -1,0 +1,4 @@
+0: I have two gray dots at the bottom right. One is lower to the left and darker and larger than the other
+1: Are they by themselves with no other dots around them?
+0: yeah
+1: lets choose the larger and darker one

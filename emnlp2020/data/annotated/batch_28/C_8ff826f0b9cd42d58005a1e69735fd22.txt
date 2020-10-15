@@ -1,0 +1,5 @@
+1: I have a cluster of 3 dots forming a triangle - lowest dot is only black dot
+0: yes is it close to the center?
+1: Our circles are not aligned, so that is irrelevant
+0: ok click on the dark one
+1: Is there a ... ok

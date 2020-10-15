@@ -1,0 +1,19 @@
+T1	Markable 59 84	same sized light grey dot
+T2	Markable 101 105	that
+T3	Markable 114 131	no dark gray dots
+T4	Markable 153 159	3 dots
+T5	Markable 163 178	a diagonal line
+T6	Markable 266 270	that
+T7	Markable 355 359	that
+T8	Markable 373 400	lonely large light grey dot
+T9	Markable 466 474	that one
+T10	Markable 10 44	LARGE dark grey (almost black) dot
+A1	No-Referent T2
+A2	No-Referent T3
+R1	Predicative Arg1:T5 Arg2:T4	
+T11	Markable 211 219	Bottom 2
+T12	Markable 231 234	top
+A3	No-Referent T6
+T13	Markable 275 290	My smallest dot
+A4	No-Referent T7
+T14	Markable 412 415	one

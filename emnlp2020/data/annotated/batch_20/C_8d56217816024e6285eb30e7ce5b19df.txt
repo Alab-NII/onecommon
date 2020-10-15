@@ -1,0 +1,3 @@
+0: I have a line of 5 making a c with a small black dot in the middle
+1: i see a line of six making a c with black dot in middle
+0: Choose the middle black dot

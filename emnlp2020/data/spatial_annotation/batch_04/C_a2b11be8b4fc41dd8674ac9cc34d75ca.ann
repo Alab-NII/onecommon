@@ -1,0 +1,9 @@
+T1	Markable 45 48	one
+T2	Markable 199 201	it
+T3	Markable 168 192	the slightly smaller one
+T4	Markable 141 152	the top one
+T5	Markable 109 117	two dots
+T6	Markable 230 241	the top one
+T7	Markable 10 17	a bunch
+R1	Anaphora Arg1:T2 Arg2:T4	
+T8	Markable 246 259	the black one

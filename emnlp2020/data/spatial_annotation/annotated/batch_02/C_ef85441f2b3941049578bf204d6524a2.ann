@@ -1,0 +1,23 @@
+T1	Markable 48 54	itself
+T2	Markable 70 86	a line of 4 dots
+T4	Markable 118 131	the third one
+T5	Markable 181 188	the one
+T6	Markable 168 177	third one
+T7	Markable 217 225	that one
+T8	Markable 15 40	one small medium grey dot
+R1	Anaphora Arg1:T1 Arg2:T8	
+R2	Predicative Arg1:T5 Arg2:T6	
+T3	Spatial-Relation 41 47	off by
+T9	Spatial-Relation 72 76	line
+A1	No-Obj T9
+T10	Spatial-Relation 87 116	curving down and to the right
+A2	No-Obj T10
+T11	Spatial-Relation 122 127	third
+R3	Obj Arg1:T11 Arg2:T2	
+T12	Spatial-Attribute 135 149	dark and small
+T13	Spatial-Relation 168 173	third
+R4	Obj Arg1:T13 Arg2:T2	
+#1	AnnotatorNotes T3	alone
+A3	Canonical-Undefined T10
+A4	Canonical-Undefined T11
+A5	Canonical-Undefined T13

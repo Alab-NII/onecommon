@@ -1,0 +1,57 @@
+T1	Markable 40 48	the rest
+T2	Markable 10 39	one very large light grey dot
+T3	Markable 76 97	three very small dots
+T4	Markable 134 144	each other
+T5	Markable 251 259	the rest
+T6	Markable 181 209	one very large dark grey dot
+T9	Markable 319 323	they
+T10	Markable 369 373	they
+T12	Markable 465 469	they
+T13	Markable 504 507	one
+T14	Markable 525 527	it
+T15	Markable 548 556	the ones
+T17	Markable 683 691	the dots
+T18	Markable 639 644	a dot
+T19	Markable 707 719	a very light
+T20	Markable 733 735	It
+T21	Markable 789 806	a darker grey dot
+T22	Markable 782 784	It
+T23	Markable 877 899	that lightest grey one
+R1	Anaphora Arg1:T4 Arg2:T3	
+T24	Markable 162 163	3
+A1	No-Referent T24
+T7	Markable 348 359	one another
+R2	Anaphora Arg1:T7 Arg2:T9	
+T8	Markable 425 426	3
+A2	No-Referent T8
+T25	Markable 444 445	2
+R4	Anaphora Arg1:T12 Arg2:T25	
+R5	Anaphora Arg1:T14 Arg2:T13	
+R6	Anaphora Arg1:T20 Arg2:T19	
+R7	Anaphora Arg1:T22 Arg2:T19	
+T16	Spatial-Attribute 53 66	dark to black
+T26	Spatial-Attribute 107 116	very dark
+T27	Spatial-Relation 117 133	equidistant from
+T28	Spatial-Relation 164 172	in a row
+T29	Spatial-Relation 214 221	largest
+T30	Spatial-Relation 241 250	away from
+T31	Spatial-Relation 327 347	the same distance as
+T32	Spatial-Relation 378 389	equidistant
+T11	Spatial-Relation 394 407	in a triangle
+T33	Spatial-Relation 446 460	close together
+T34	Modifier 474 477	not
+T35	Spatial-Relation 478 488	on an edge
+T36	Spatial-Relation 508 524	in my far corner
+T37	Spatial-Relation 537 544	the top
+T38	Spatial-Attribute 653 663	very light
+T39	Spatial-Relation 668 682	at the edge of
+T40	Spatial-Relation 720 731	at the edge
+T41	Spatial-Relation 736 754	appears at the top
+T42	Modifier 755 760	about
+T43	Spatial-Relation 761 769	2 oclock
+T44	Spatial-Relation 791 797	darker
+T45	Modifier 815 820	a bit
+T46	Spatial-Relation 821 828	smaller
+T47	Spatial-Relation 829 847	up and to the left
+T48	Modifier 848 856	slightly
+T49	Spatial-Relation 882 890	lightest

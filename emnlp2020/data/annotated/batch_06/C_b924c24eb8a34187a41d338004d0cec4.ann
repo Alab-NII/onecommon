@@ -1,0 +1,13 @@
+T1	Markable 30 59	a lonely light grey small dot
+T2	Markable 258 269	the top one
+T3	Markable 10 25	two groups of 3
+T4	Markable 75 84	the loner
+T5	Markable 107 115	my loner
+T6	Markable 138 157	my top cluster of 3
+T7	Markable 182 189	lighter
+T8	Markable 212 221	the lower
+T9	Markable 226 232	middle
+T10	Markable 299 301	it
+T11	Markable 354 360	middle
+T12	Markable 276 286	the middle
+R1	Anaphora Arg1:T12 Arg2:T9	

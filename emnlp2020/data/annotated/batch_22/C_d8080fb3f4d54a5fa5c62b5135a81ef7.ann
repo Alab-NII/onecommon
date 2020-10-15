@@ -1,0 +1,4 @@
+T1	Markable 101 103	it
+T2	Markable 81 89	that dot
+T3	Markable 10 39	only one small light grey dot
+R1	Anaphora Arg1:T1 Arg2:T2	

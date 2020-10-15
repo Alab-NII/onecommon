@@ -1,0 +1,7 @@
+0: one lonely small dark dot on upper middle portion
+1: i have a small one like that but has a larger one by it in mine
+0: can you see two dots close to each other, dark big dot on left and light dot on right
+1: yes buy my smaller one is a dark gray and large one is black
+0: yes
+1: ok which one
+0: black one

@@ -1,0 +1,4 @@
+0: large dark gray dot darker than rest?
+1: I have a large black dot with a large grey dot very close at it's 4
+0: I don't have that, do you have a two gray dots close to one another, same size with the lower dot being darker on left side
+1: i have that one! click on darker bottom dot

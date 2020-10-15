@@ -1,0 +1,9 @@
+T1	Markable 60 62	it
+T2	Markable 79 102	a small medium gray dot
+T3	Markable 142 157	the massive one
+T4	Markable 3 22	massive massive one
+T5	Markable 28 36	a "moon"
+T6	Markable 40 43	its
+R1	Anaphora Arg1:T6 Arg2:T4	
+T7	Markable 70 78	the moon
+R2	Predicative Arg1:T2 Arg2:T7	

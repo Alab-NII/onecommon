@@ -1,0 +1,3 @@
+0: I have a single light grey large dot. Up to its right is a smaller dark grey
+1: I see a large light gray dot with a medium dark dot up and going to the right
+0: Ok, click large light grey

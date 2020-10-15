@@ -1,0 +1,18 @@
+T1	Markable 12 25	two dark ones
+T2	Markable 43 53	bottom one
+T3	Markable 69 73	they
+T4	Markable 142 146	they
+T5	Markable 98 112	the bottom one
+T6	Markable 184 189	those
+T7	Markable 239 250	the top one
+T8	Markable 315 323	the pair
+T9	Markable 357 379	the pair of large ones
+R1	Anaphora Arg1:T3 Arg2:T1	
+T11	Markable 198 203	Which
+A1	Generic T11
+T12	Markable 257 267	which pair
+A2	Generic T12
+T13	Markable 269 281	The top pair
+T14	Markable 286 294	the pair
+T10	Markable 353 355	it
+R2	Predicative Arg1:T9 Arg2:T10	

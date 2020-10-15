@@ -1,0 +1,4 @@
+0: very close triangle of dark dots?
+1: Yes are they large?
+0: yes and two of them look almost identical? if so click the darkest one to the left bottom
+1: Got it!

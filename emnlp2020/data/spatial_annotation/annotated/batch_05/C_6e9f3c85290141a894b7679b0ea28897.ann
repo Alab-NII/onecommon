@@ -1,0 +1,25 @@
+T1	Markable 14 30	a light gray dot
+T2	Markable 47 51	that
+T3	Markable 62 73	a black dot
+T4	Markable 90 92	it
+T5	Markable 131 142	two of them
+T7	Markable 144 148	They
+T8	Markable 170 172	it
+T9	Markable 195 205	each other
+T10	Markable 222 226	they
+T11	Markable 243 261	the light gray dot
+R1	Anaphora Arg1:T7 Arg2:T5	
+R2	Anaphora Arg1:T9 Arg2:T5	
+T6	Spatial-Relation 31 36	alone
+T12	Spatial-Relation 74 89	near the top of
+T13	Spatial-Relation 94 121	either to the right or left
+T14	Spatial-Relation 158 169	larger than
+T15	Modifier 177 180	not
+T16	Spatial-Relation 181 194	right next to
+T17	Spatial-Relation 270 275	alone
+A1	No-Obj T6
+R3	Subj Arg1:T13 Arg2:T3	
+R4	Obj Arg1:T13 Arg2:T4	
+A2	No-Obj T17
+A3	Canonical-Undefined T13
+#1	AnnotatorNotes T16	near

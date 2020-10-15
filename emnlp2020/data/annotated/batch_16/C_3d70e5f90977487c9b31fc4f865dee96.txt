@@ -1,0 +1,6 @@
+0: Do you have two dots the same size one darker grey and one light grey?
+1: Do you see one black midsized dot? Kind of alone and the only one that color?
+0: I think I might? Is there a dot of the same size slightly down and to the left?
+1: Are they horizontal and about and inch apart?
+0: Yes!
+1: Ok. Let's choose the darker one. =)

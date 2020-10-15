@@ -1,0 +1,4 @@
+0: do you have a medium gray dot to the left of a lighter gray dot the same size?
+1: yes I can see it
+0: Lets choose the darker one next to the dotted line
+1: ok

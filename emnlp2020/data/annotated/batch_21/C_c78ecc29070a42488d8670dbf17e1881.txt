@@ -1,0 +1,3 @@
+1: I have the largest darkest dot do u?
+0: Yes, is it all by itself?
+1: Yes others dots at 11, 930, and 730 in respect to largest black dot. So intervals of 130 and 200

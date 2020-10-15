@@ -1,0 +1,4 @@
+0: i see 4 dots to form an L there is one darker dot in
+1: I do as well is the darker one at the bend of the L
+0: yes lets choose the darker in the bend
+1: Alright that sounds good to me.

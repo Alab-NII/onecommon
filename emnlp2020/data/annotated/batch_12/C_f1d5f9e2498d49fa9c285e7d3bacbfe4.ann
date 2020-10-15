@@ -1,0 +1,21 @@
+T1	Markable 9 15	5 dots
+T2	Markable 52 56	that
+T3	Markable 66 77	a black dot
+T4	Markable 79 81	It
+T5	Markable 130 141	a light dot
+T6	Markable 257 264	the one
+T7	Markable 217 230	a smaller dot
+T8	Markable 152 161	something
+T9	Markable 192 205	the black one
+T10	Markable 284 297	the black one
+T11	Markable 307 309	It
+T12	Markable 350 354	They
+T13	Markable 368 378	a triangle
+T14	Markable 413 426	the black dot
+T15	Markable 26 34	a < sign
+R1	Predicative Arg1:T15 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T3	
+T16	Markable 104 112	that dot
+R3	Anaphora Arg1:T16 Arg2:T3	
+R4	Predicative Arg1:T13 Arg2:T12	
+A1	No-Referent T2

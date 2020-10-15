@@ -1,0 +1,8 @@
+1: 1 small grey dot on the right
+0: I have 3 darker dots and 4 lighter ones.
+1: no do you have 1 dark circle almost in the center of the circle
+0: Is it larger and there is a lighter one right of it but a little lower and a lighter one above and to the right of it?
+1: no i dont see it do you have two light gray circle upper right
+0: I imagine your circle and mine intersect where mine shows the top and yours intersects the bottom, what is on the bottom of your circle?
+1: 1 grey dot touching left side circle
+0: Sigh... I'm going to choose the largest dark dot

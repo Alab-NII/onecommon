@@ -1,0 +1,14 @@
+T1	Markable 55 65	the others
+T2	Markable 10 40	one very small medium gray dot
+T3	Markable 124 126	it
+T4	Markable 150 155	those
+T5	Markable 185 209	almost a horizontal line
+T6	Markable 211 214	one
+T7	Markable 238 247	the other
+T8	Markable 168 181	two dark dots
+T9	Markable 307 314	the one
+R1	Predicative Arg1:T5 Arg2:T8	
+T10	Markable 72 91	a large medium gray
+R2	Anaphora Arg1:T3 Arg2:T2	
+A3	No-Referent T4
+T11	Markable 268 275	the one

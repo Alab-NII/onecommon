@@ -1,0 +1,43 @@
+T2	Markable 84 88	them
+T3	Markable 56 67	a black one
+T4	Markable 90 104	Two black dots
+T5	Markable 134 144	four small
+T6	Markable 206 212	a line
+T7	Markable 296 304	each one
+T8	Markable 345 362	the dark grey one
+T9	Spatial-Relation 412 424	a larger dot
+T10	Markable 3 17	Four grey dots
+R2	Anaphora Arg1:T2 Arg2:T10	
+T11	Markable 149 165	three large dots
+T12	Markable 167 170	all
+T13	Markable 223 229	medium
+T14	Markable 231 236	light
+T15	Markable 238 244	medium
+T16	Markable 246 255	dark grey
+T17	Markable 269 277	the left
+T18	Markable 404 408	that
+T19	Markable 429 431	It
+T1	Spatial-Relation 18 29	in the line
+A1	No-Obj T1
+T20	Spatial-Relation 31 46	top left for me
+A2	No-Obj T20
+T21	Spatial-Relation 68 83	to the right of
+T22	Spatial-Relation 105 122	on my lower right
+A3	No-Obj T22
+T23	Spatial-Relation 171 187	in my upper half
+A4	No-Obj T23
+T24	Spatial-Relation 191 204	Left to right
+T25	Spatial-Relation 208 212	line
+A5	No-Obj T25
+A6	Unannotatable T24
+T26	Spatial-Relation 273 277	left
+T27	Spatial-Relation 281 291	the lowest
+T28	Spatial-Relation 305 325	gets a little higher
+A7	No-Obj T28
+T30	Spatial-Relation 363 369	on top
+R1	Obj Arg1:T30 Arg2:T6	
+A9	Ambiguous-Obj T9
+A10	No-Obj T9
+T29	Modifier 310 318	a little
+A11	Mod-Subtlty T29
+A8	Canonical-Undefined T28

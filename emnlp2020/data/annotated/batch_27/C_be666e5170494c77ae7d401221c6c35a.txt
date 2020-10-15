@@ -1,0 +1,4 @@
+1: one very dark dot with a bunch of greys above and to the left of it
+0: dont have that
+1: how about a tiny dark grey dot with a larger grey dot both above and below it?
+0: yes, have that choose the smaller one in the middle

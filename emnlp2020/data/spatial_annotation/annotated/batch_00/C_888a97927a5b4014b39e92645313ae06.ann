@@ -1,0 +1,21 @@
+T1	Markable 10 16	7 dots
+T2	Markable 23 38	the largest one
+T3	Markable 69 71	it
+T4	Markable 102 110	that one
+T5	Markable 131 168	the two smaller and lighter gray dot'
+T7	Markable 185 187	it
+T8	Markable 216 235	the larger gray one
+A1	All-Referents T1
+R1	Anaphora Arg1:T3 Arg2:T2	
+T6	Spatial-Relation 18 22	with
+T9	Spatial-Relation 27 34	largest
+R2	Obj Arg1:T9 Arg2:T1	
+T10	Spatial-Relation 45 64	on the middle right
+T11	Spatial-Attribute 76 87	medium gray
+T12	Spatial-Relation 139 146	smaller
+T13	Spatial-Relation 151 158	lighter
+T14	Spatial-Relation 170 184	to the left of
+T15	Spatial-Relation 220 226	larger
+R4	Obj Arg1:T15 Arg2:T5	
+T16	Modifier 76 82	medium
+A3	No-Obj T10

@@ -1,0 +1,6 @@
+1: two dots very close together?
+0: Three small dots, tiniest is mid low position and is lightest, largest is left,
+1: hmm. no. do you have a very large dark grey dot with a slightly smaller dot almost the same shade slightly down to its right?
+0: Yes, take that left one
+1: which one??
+0: The one you just described the left one

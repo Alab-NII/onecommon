@@ -1,0 +1,4 @@
+0: One large black dot away from all the other dots?
+1: no all mine are gathered up, looks like a snake. bottom to top is black med, grey large, black med, black small and med grey
+0: Ok. I see it. Choose the tiny black dot
+1: ok sounds good

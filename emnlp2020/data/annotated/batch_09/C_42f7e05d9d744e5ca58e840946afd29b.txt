@@ -1,0 +1,2 @@
+1: I have a line of 3 dots. starting at the bottom left... large black, large black smaller gray... they are almost perfectly aligned
+0: Same for me. let's pick the 1st large black dot at the far left

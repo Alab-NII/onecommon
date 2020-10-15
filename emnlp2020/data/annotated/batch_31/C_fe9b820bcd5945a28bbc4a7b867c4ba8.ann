@@ -1,0 +1,5 @@
+T1	Markable 51 55	they
+T2	Markable 73 83	darker one
+T3	Markable 121 129	that one
+T4	Markable 3 17	two black dots
+R1	Anaphora Arg1:T3 Arg2:T2	

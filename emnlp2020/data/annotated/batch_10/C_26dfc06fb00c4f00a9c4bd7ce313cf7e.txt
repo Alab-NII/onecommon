@@ -1,0 +1,5 @@
+0: do you have a small black one at the top with 3 med/grey larger ones below it?
+1: Do you have two dots same color and size next to each other ?
+0: yes if they are med/dark grey... with a small black one either above the right one, or off to the lower left of the left one
+1: Same, which one do you want to select ?
+0: the right one of the same color/size

@@ -1,0 +1,5 @@
+T1	Markable 24 39	large black one
+T2	Markable 45 61	a tiny black one
+T3	Markable 71 73	it
+T4	Markable 108 127	the large black one
+R1	Anaphora Arg1:T3 Arg2:T1	

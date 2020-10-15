@@ -1,0 +1,6 @@
+1: i see two large black dots, one is above and to the right of the other
+0: i see those, one large black dot is near the center the other is right and above
+1: above the higher one u see a medium grey dot up and to the left?
+0: yes i see the medium grey dot in that location up and to the left of the upper black dot
+1: ok lets pick the upper black dot then
+0: ok will do

@@ -1,0 +1,8 @@
+T2	Markable 10 29	a cluster of 4 dots
+T3	Markable 41 65	two tiny light grey dots
+T4	Markable 134 148	the lowest dot
+T5	Markable 117 127	each other
+T6	Markable 203 211	that one
+T7	Markable 226 243	the left tiny dot
+T1	Markable 89 104	two larger dots
+R1	Anaphora Arg1:T5 Arg2:T1	

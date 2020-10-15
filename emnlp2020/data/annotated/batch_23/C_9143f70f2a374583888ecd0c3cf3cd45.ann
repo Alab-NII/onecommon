@@ -1,0 +1,14 @@
+T1	Markable 10 26	a large dark dot
+T2	Markable 32 48	a tiny light dot
+T3	Markable 55 57	it
+T4	Markable 83 85	it
+T5	Markable 102 117	My smallest dot
+T6	Markable 146 162	your small light
+T7	Markable 201 203	it
+T8	Markable 226 228	it
+T9	Markable 172 194	a dark medium-size dot
+T10	Markable 245 258	that dark one
+R1	Anaphora Arg1:T3 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T1	
+R3	Anaphora Arg1:T7 Arg2:T6	
+R4	Anaphora Arg1:T8 Arg2:T6	

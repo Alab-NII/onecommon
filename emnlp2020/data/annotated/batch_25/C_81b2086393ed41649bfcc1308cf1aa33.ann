@@ -1,0 +1,12 @@
+T3	Markable 65 73	two dots
+T4	Markable 89 109	nearly vertical line
+T5	Markable 146 160	light grey dot
+T6	Markable 121 137	smaller dark dot
+T7	Markable 194 214	the smaller dark dot
+T8	Markable 10 24	to darker dots
+#1	AnnotatorNotes T8	two darker dots
+R1	Predicative Arg1:T4 Arg2:T3	
+T1	Markable 111 117	bottom
+R2	Predicative Arg1:T6 Arg2:T1	
+T2	Markable 139 142	top
+R3	Predicative Arg1:T5 Arg2:T2	

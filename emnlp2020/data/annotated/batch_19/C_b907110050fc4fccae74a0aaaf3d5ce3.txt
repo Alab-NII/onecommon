@@ -1,0 +1,5 @@
+1: I have a small dot dot with a bigger one just to the left and down
+0: is the smaller one black and larger one dark grey?
+1: yes
+0: lets choose the smaller one
+1: ok

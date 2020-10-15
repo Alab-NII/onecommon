@@ -1,0 +1,17 @@
+T1	Markable 82 94	the smallest
+T2	Markable 138 147	a cluster
+T3	Markable 193 205	the left one
+T4	Markable 244 260	right/higher one
+T5	Markable 160 164	line
+T6	Markable 307 337	a med/dark-grey semi-large one
+T7	Markable 299 303	them
+T8	Markable 407 419	the smallest
+T9	Markable 432 450	the dark small one
+T10	Markable 10 21	A LINE of 2
+T11	Markable 108 110	it
+R1	Anaphora Arg1:T11 Arg2:T1	
+T12	Markable 227 233	middle
+R2	Anaphora Arg1:T7 Arg2:T5	
+T13	Markable 151 152	3
+R3	Anaphora Arg1:T13 Arg2:T2	
+R4	Predicative Arg1:T5 Arg2:T13	

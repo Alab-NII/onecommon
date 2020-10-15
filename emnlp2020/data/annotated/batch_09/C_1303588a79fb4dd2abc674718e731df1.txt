@@ -1,0 +1,4 @@
+0: I have a cluster with a big black on in the middle of it all.
+1: I have three light gray dots that could be a pizza crust, and a dark grey that would be where the point is
+0: wow that was beautiful, I also have that. click the point?
+1: Ok

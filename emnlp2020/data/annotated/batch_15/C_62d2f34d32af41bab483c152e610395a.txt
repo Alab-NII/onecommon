@@ -1,0 +1,4 @@
+1: Four lightest dots with one being the biggest dot, do you see?
+0: I think so.
+1: Select the biggest dot of the light color?
+0: yes

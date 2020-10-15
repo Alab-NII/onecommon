@@ -1,0 +1,4 @@
+1: i have a black dot at about 10 oclock
+0: clocks dont work. is it almost on a vertical line with a larger but slightly lighter dot?
+1: yes
+0: k click that black one!

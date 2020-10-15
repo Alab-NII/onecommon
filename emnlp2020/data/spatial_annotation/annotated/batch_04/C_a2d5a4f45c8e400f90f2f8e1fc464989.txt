@@ -1,0 +1,4 @@
+0: black med sized dot?
+1: Is it next to anything? Does it have a tinier lighter gray dot beside it?
+0: yes to the right. if so click the black one!
+1: clicking black one now

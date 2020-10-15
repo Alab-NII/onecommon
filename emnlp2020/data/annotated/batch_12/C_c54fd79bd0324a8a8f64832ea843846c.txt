@@ -1,0 +1,5 @@
+0: Do you have one small very light dot?
+1: Do you have a black dot at the top almost touching the right side of the circle?
+0: Our circles are two parts of the same picture, so you cannot use the edges as reference. Describe the dots around it instead
+1: the black one is touching the edge and there is a gray one diagonally to the left of it. I do not have a very small gray dot
+0: I only have one black one, which is smaller. Again though, our edges will not be the same as we're looking at a venn diagram of sorts. Still, I believe the black dot is the most likely to be shared and we should select it.

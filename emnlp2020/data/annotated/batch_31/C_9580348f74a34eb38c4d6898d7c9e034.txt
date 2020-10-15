@@ -1,0 +1,2 @@
+1: I see a small dark dot below and to the left of a larger lighter dot
+0: I think i see it

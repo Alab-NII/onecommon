@@ -1,0 +1,11 @@
+0: You ask, i'll answer
+1: how many dots do you see?
+0: 7
+1: I have 3 dots along the bottom two in middle and two towards the top
+0: All of mine are grey
+1: how many light gray dots do you have? how many light gray dots?
+0: 2 very light, 5 medium
+1: Ha, okay sorry I said light gray twice. I meant light and dark. Cool, So I have two light gray, 3 medium, and 2 dark gray.
+0: i need positions, times almost up, i have a triangle with three dots toward top
+1: same. Let's do one of the medium gray ones. Maybe towards the right side of the triangle?
+0: ok

@@ -1,0 +1,3 @@
+0: I have two dark dots with the smaller one to the left of the larger one
+1: yes, choose the larger one?
+0: yes

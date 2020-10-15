@@ -1,0 +1,5 @@
+0: Do you see two dots kind of close together with the one on the left being small and the one on the right being slightly above and larger? They are both light grey
+1: I don't think i see that. see two large light grey dots. one is lower and just slightly to the right
+0: Hmm. dont see that. Is one of your smallest dot also the darkest?
+1: i have one very small black dot
+0: K lets choose it

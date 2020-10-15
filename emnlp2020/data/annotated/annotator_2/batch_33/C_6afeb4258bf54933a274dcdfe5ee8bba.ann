@@ -1,0 +1,24 @@
+T1	Markable 62 71	two black
+T2	Markable 76 80	they
+T3	Markable 113 133	two medium gray dots
+T4	Markable 145 161	those small dots
+T5	Markable 204 224	a dark grey tiny dot
+T6	Markable 172 199	my left most tiny black dot
+T7	Markable 247 249	it
+T8	Markable 339 341	it
+T9	Markable 304 321	a light gray dots
+T10	Markable 284 298	your tiny dots
+T11	Markable 365 375	those dots
+T12	Markable 351 358	nothing
+T13	Markable 474 483	the point
+T15	Markable 406 440	a triangle pointing down of 3 dots
+T16	Markable 442 455	the 'top" two
+T17	Markable 502 506	they
+T18	Markable 537 539	it
+T19	Markable 547 560	the light one
+T20	Markable 3 14	three black
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T7 Arg2:T6	
+R3	Anaphora Arg1:T8 Arg2:T10	
+A1	No-Referent T12
+T21	Markable 388 392	this

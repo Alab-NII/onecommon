@@ -1,0 +1,5 @@
+T1	Markable 84 88	that
+T2	Markable 42 46	mine
+T3	Markable 3 19	The smallest dot
+T4	Markable 65 75	all others
+R1	Anaphora Arg1:T1 Arg2:T2	

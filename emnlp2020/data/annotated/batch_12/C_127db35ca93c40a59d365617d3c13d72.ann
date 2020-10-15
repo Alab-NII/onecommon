@@ -1,0 +1,17 @@
+T1	Markable 35 45	each other
+T2	Markable 95 98	one
+T4	Markable 114 123	the other
+T6	Markable 125 139	the bottom one
+T7	Markable 177 182	yours
+T8	Markable 195 199	mine
+T9	Markable 269 273	them
+T11	Markable 218 223	yours
+T12	Markable 306 321	the lighter one
+T13	Markable 10 16	2 dots
+T14	Markable 47 51	Left
+T15	Markable 61 66	right
+T5	Markable 86 94	two dots
+T3	Markable 238 253	any nearby dots
+A1	No-Referent T3
+R1	Anaphora Arg1:T1 Arg2:T13	
+A2	No-Referent T7

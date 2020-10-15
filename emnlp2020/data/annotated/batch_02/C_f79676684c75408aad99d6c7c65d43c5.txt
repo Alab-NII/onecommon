@@ -1,0 +1,4 @@
+1: cluster of 3 with a small dark grey in middle and 2 darker bigger ones on the sides
+0: wanna pick the largest dot?
+1: smallest in the middle
+0: yeah lets do what you said, the small dot in between them

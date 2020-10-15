@@ -1,0 +1,4 @@
+1: Two lightgray dots at the top?
+0: two light gray dots for me are in upper part, one to bottom right is lighter and slightly larger
+1: Me too, let's pick that one on the bottom right
+0: OK, great

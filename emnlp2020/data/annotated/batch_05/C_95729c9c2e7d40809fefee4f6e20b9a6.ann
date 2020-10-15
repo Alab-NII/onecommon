@@ -1,0 +1,10 @@
+T1	Markable 95 97	it
+T2	Markable 126 128	it
+T4	Markable 157 169	the tiny one
+T5	Markable 3 18	a lone tiny dot
+T6	Markable 43 47	mine
+T7	Markable 70 90	one tiny medium gray
+R1	Anaphora Arg1:T1 Arg2:T7	
+T8	Markable 102 113	a large one
+R2	Anaphora Arg1:T2 Arg2:T1	
+A1	All-Referents T6

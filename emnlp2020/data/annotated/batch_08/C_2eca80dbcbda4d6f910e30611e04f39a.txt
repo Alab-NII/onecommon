@@ -1,0 +1,7 @@
+0: large size medium grey in the center?
+1: Your center is not my center. I have a pair of dots that are on the smaller size pretty close to each other and almost in a vertical line
+0: darker dot above lighter one?
+1: Yes and slightly to the left?
+0: yes lets click
+1: Which one did you click??
+0: darker one on top

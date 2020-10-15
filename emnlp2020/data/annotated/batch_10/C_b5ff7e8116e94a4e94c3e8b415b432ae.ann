@@ -1,0 +1,12 @@
+T1	Markable 14 31	a group of 4 dots
+T2	Markable 49 57	a square
+T4	Markable 104 130	a straight horizontal line
+T5	Markable 72 85	two dark dots
+T7	Markable 150 175	two light grey large dots
+T8	Markable 247 257	each other
+T9	Markable 300 309	the other
+T10	Markable 267 270	one
+T11	Markable 324 337	the lower one
+R1	Predicative Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T4 Arg2:T5	
+R3	Anaphora Arg1:T8 Arg2:T7	

@@ -1,0 +1,9 @@
+1: i see a black dot with a smaller one close to it. the smaller one is dark grey.
+0: is the grey to the bottom right of the black one?
+1: yes. do you see any others around those two dots?
+0: two grey to the right of them, the top is slightly larger
+1: i only have one nearby. it is to the right of the smaller one and looks the same size as the smaller one
+0: do you have anything to the left of them?
+1: two light grey dots that are the same size very close together.
+0: hmmm i only have one that is right on the line? want to go for the black dot and see if it is the same?
+1: ok. I think it is the right one.

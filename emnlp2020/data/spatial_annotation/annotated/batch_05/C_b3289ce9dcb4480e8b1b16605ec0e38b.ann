@@ -1,0 +1,18 @@
+T1	Markable 60 80	a small med grey dot
+T2	Markable 10 37	a med size and med grey dot
+T3	Markable 116 133	your smallest dot
+T4	Markable 198 220	the med grey color dot
+T5	Markable 148 150	it
+T6	Spatial-Relation 38 54	on the left side
+A1	No-Obj T6
+T7	Spatial-Relation 55 59	with
+T8	Spatial-Relation 81 94	on the bottom
+R1	Obj Arg1:T8 Arg2:T2	
+T9	Spatial-Relation 97 108	on the left
+R2	Obj Arg1:T9 Arg2:T2	
+T10	Spatial-Relation 121 129	smallest
+A2	No-Obj T10
+T11	Spatial-Attribute 134 143	dark grey
+T12	Spatial-Attribute 154 170	a med grey color
+T13	Modifier 156 159	med
+A3	Mod-Neutral T13

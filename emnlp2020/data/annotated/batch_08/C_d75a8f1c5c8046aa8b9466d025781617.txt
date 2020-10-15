@@ -1,0 +1,4 @@
+0: I see two very small dots pretty close together with one being almost black
+1: one large dark dot close to the centre
+0: Omg your center is not my center. Can you describe any other dots or where that large dot is in relation to the other dots?
+1: let us select this almost black small dot

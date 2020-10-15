@@ -1,0 +1,12 @@
+T1	Markable 35 50	horizontal line
+T2	Markable 52 61	right one
+T3	Markable 125 134	first set
+T8	Markable 158 177	very light grey one
+T9	Markable 183 192	the other
+T12	Markable 97 123	two sets of two close dots
+T13	Markable 306 336	the right small very light one
+T14	Markable 3 11	two dots
+R1	Predicative Arg1:T1 Arg2:T14	
+T4	Markable 194 204	second set
+T10	Markable 222 230	left one
+T5	Markable 257 266	right one

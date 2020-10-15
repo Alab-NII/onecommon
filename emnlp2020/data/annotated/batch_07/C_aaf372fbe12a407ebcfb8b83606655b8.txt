@@ -1,0 +1,4 @@
+1: hello which dot would you like to try for?
+0: i've got 4 gray dots very close, three almost in a line going diagonally up to the right, and one even more to the right not in line
+1: got it which one do you want to click?
+0: the light one not in line works

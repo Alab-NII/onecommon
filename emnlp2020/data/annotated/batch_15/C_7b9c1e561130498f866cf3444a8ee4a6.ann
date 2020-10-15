@@ -1,0 +1,12 @@
+T1	Markable 14 28	a big dark one
+T2	Markable 97 127	an extremely light colored one
+T3	Markable 64 75	no big dots
+T5	Markable 165 167	it
+T6	Markable 223 225	it
+T7	Markable 232 246	the albino one
+A1	No-Referent T3
+T8	Markable 129 141	no other one
+A2	No-Referent T8
+T4	Markable 174 192	a medium dark gray
+T9	Markable 196 199	its
+R1	Anaphora Arg1:T9 Arg2:T5	

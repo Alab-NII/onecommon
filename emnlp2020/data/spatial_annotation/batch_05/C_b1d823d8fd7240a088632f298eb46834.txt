@@ -1,0 +1,3 @@
+0: tiny black dot?
+1: Is there a larger light gray dot below and to the right of it?
+0: yes! click the small black one!

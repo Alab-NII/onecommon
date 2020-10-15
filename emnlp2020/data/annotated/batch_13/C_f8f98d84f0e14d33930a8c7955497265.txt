@@ -1,0 +1,4 @@
+0: black kinda med/small dot, with a little larger med/dark/grey one right next to/above it to it's right
+1: 2 dots that are close together. They are equal size. Bottom left is darker than the upper right.
+0: the top right one is a tiny bit bigger, no?
+1: Yeah, just a tiny bit. They looked exact at first. let's choose the bottom black dot.

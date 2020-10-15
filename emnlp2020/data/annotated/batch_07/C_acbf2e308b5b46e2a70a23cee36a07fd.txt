@@ -1,0 +1,4 @@
+1: I have two fairly small dots close together. The top one is darker, larger and a little to the right
+0: Do you see two side by side. One on left is darker and slightly lower?
+1: No I dont see what you describe. I also have two small, dark dots almost vertical. The one on top is a little smaller and a little darker.
+0: I see yours let's take top

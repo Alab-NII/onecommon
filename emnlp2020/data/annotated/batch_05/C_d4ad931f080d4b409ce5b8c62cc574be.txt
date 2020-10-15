@@ -1,0 +1,8 @@
+0: do you have a little gray dot/
+1: I have one little gray dot that is very light. One little gray dot that is medium gray.
+0: is the little gray dot to the bottom left?
+1: On mine it is towards the bottom, but not the left. Neither is the other.
+0: is the little gray one that is very light above another dot?
+1: Yeah. It is above a slightly bigger and a bit darker dot.
+0: ok that sounds like what I'm looking at. do you want to pick that
+1: Yeah the light gray dot.

@@ -1,0 +1,10 @@
+0: i have a small light grey dot mostly alone near the bottom
+1: do you have a big dark almost black one, with two small ones below it, the right small one being black too? the other small one is closer to the big one but slightly lighter. I don't have a small light grey one below those
+0: no what else do you see
+1: large dark grey on the left. with a small light grey just above it to it's right
+0: i dont see i does your largest darkest dot have a smaller nearly as dark dot slightly down and to the right
+1: yes those are the ones i originally said. my other dark small one must be cut off for you... do you have a small light one at the very top/right?
+0: no
+1: i just want to be sure. the dark large one... is there a similar one directly to it's left, about almost 2 inches away?
+0: yes its almost 2 inches to the left
+1: pick the big dark one

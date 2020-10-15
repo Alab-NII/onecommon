@@ -1,0 +1,8 @@
+T1	Markable 9 15	4 dots
+T2	Markable 86 101	the biggest dot
+T3	Markable 120 129	the seven
+T4	Markable 108 116	the line
+T5	Markable 172 180	that one
+T6	Markable 39 42	a 7
+R1	Predicative Arg1:T6 Arg2:T1	
+T7	Markable 49 54	the 7

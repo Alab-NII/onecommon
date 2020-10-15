@@ -1,0 +1,5 @@
+0: I have a lonely large black dot
+1: i've got a triangle of three large dots, same size, top one is light, one on left is darker, bottom one is darkest (might be smaller). I dont see a lonely large black one
+0: i see those 3 dots
+1: pick the lightest one up top?
+0: yes!

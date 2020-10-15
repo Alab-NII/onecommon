@@ -1,0 +1,3 @@
+0: I see a large dark gray dot, not too close to any other dots
+1: I think I have that too. The next closest are two medium gray dots that kind of form a triangle with it.
+0: I have that too. Let's choose the dark one

@@ -1,0 +1,2 @@
+1: i have a light grey small dot next to a medium grey medium dot
+0: yes i see that pair choose the small light grey dot

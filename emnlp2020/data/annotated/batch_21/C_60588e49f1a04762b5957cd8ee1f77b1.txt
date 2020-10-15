@@ -1,0 +1,4 @@
+1: Do you have two dots very close together; one dark and one light
+0: I do not! I have left bottom to right medium grey, small grey, medium black, large dark grey?
+1: I see those! should we attempt the large dark grey?
+0: Yes sounds good!

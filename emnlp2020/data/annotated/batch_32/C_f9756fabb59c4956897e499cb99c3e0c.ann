@@ -1,0 +1,12 @@
+T1	Markable 33 54	a smaller darker grey
+T2	Markable 9 27	a large light grey
+T3	Markable 91 101	seven dots
+T4	Markable 135 145	seven dots
+T5	Markable 184 194	three dots
+T6	Markable 225 242	a horizontal line
+T7	Markable 249 256	the one
+T8	Markable 343 359	the lightest one
+A1	All-Referents T3
+A2	All-Referents T4
+R1	Predicative Arg1:T6 Arg2:T5	
+T9	Markable 298 311	the on bottom

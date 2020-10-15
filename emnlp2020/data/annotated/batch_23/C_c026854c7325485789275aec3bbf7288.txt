@@ -1,0 +1,6 @@
+0: medium black dot by itself
+1: 2 med gray dots same color with bigger one one top?...no for the one you asked about
+0: is bigger one top and to the left?
+1: yes and the dots are close in size...top one is just a little bigger...there is also a small same color dot to the right of the bottom one
+0: ok, let's choose the bigger one
+1: ok

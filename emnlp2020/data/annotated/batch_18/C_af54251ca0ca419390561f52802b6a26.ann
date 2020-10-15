@@ -1,0 +1,15 @@
+T1	Markable 75 83	two dots
+T2	Markable 93 103	each other
+T3	Markable 105 113	one dark
+T4	Markable 142 159	a large black dot
+T5	Markable 174 179	yours
+T7	Markable 197 214	a large black dot
+T8	Markable 278 293	a tiny black on
+T9	Markable 325 327	it
+T10	Markable 3 17	my darkest dot
+T11	Markable 35 50	The largest dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T12	Markable 115 125	one medium
+A1	No-Referent T5
+A2	No-Referent T7
+#1	AnnotatorNotes T8	a tiny black one

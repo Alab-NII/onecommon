@@ -1,0 +1,5 @@
+1: large black dot, above and to the left of it is a slightly smaller grey dot?
+0: do you see a smaller very light gray dot above and to the right of both of them?
+1: yes, choose the large black one?
+0: looks like the way to go
+1: ok

@@ -1,0 +1,5 @@
+1: i have a small black dot touching the right hand of the circle
+0: I have two dots almost perfectly horizontal. The one on the right is dark grey, its the darkest one I have. Its medium small size. To its left is a very small very light dot which is a tad higher
+1: lets do the small light dot
+0: Ok, on the left, correct?
+1: on right side of circle but it is to the left of the medium dark grey circle

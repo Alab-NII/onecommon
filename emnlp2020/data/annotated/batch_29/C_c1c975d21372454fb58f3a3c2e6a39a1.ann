@@ -1,0 +1,10 @@
+T1	Markable 66 73	the one
+T2	Markable 10 16	3 dots
+T3	Markable 24 34	a triangle
+T4	Markable 113 117	Mine
+T5	Markable 175 187	the triangle
+T6	Markable 212 235	the darkest and largest
+R1	Predicative Arg1:T3 Arg2:T2	
+T7	Markable 36 46	lower left
+T8	Markable 239 246	those 3
+R2	Anaphora Arg1:T8 Arg2:T5	

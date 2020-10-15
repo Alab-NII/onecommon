@@ -1,0 +1,5 @@
+0: Do you have a really tiny dark grey dot?
+1: yes, on its left is a larger one almost the same shade, and on its right is another even larger one that is lighter?
+0: Yes! Which one do we pick?
+1: the tiny one
+0: Okay!

@@ -1,0 +1,5 @@
+1: do you see two light gray dots?
+0: I have enough of it. The medium dot i have is the darkest and to the left is a larger lighter one
+1: I don't see that
+0: I have a very big dot light gray and a small dot light gray to the right
+1: yes, I have that... lets choose the large light gray dot

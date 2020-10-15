@@ -1,0 +1,4 @@
+1: I have a large light gray dot. I have a medium gray dot next to another medium gray dot next to small light grey dot
+0: I have a small dark dot to the left with a lighter larger dot above it by a few inches
+1: I have small grey dot. I also have a small light grey dot
+0: let's pick the smallest, lightest dot

@@ -1,0 +1,13 @@
+T1	Markable 19 36	a horizontal line
+T2	Markable 214 218	that
+T3	Markable 232 250	the two black ones
+T4	Markable 256 264	the grey
+T5	Markable 3 15	3 large ones
+R1	Predicative Arg1:T1 Arg2:T5	
+T6	Markable 70 78	two ends
+T7	Markable 91 100	right one
+T8	Markable 105 115	middle one
+T9	Markable 127 133	middle
+T10	Markable 151 178	one medium size medium dark
+A1	No-Referent T2
+T11	Markable 290 302	gray between

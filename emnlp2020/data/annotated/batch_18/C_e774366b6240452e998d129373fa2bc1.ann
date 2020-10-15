@@ -1,0 +1,10 @@
+T1	Markable 10 28	one small dark dot
+T2	Markable 245 267	the one small dark dot
+T3	Markable 382 395	that dark one
+T4	Markable 71 87	two small circle
+T5	Markable 99 120	to light gray circles
+#1	AnnotatorNotes T5	two light gray circles
+T6	Markable 135 155	one large light gray
+T7	Markable 173 190	to medium circles
+#2	AnnotatorNotes T7	two medium circles
+T8	Markable 279 282	one

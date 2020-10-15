@@ -1,0 +1,5 @@
+1: I have two smallish dots close to each other. The one on bottom is very dark, slightly larger and to the right
+0: I see three light dots in a diagonal line. The middle is the largest.
+1: I dont see what you describe, do you see mine?
+0: I do. Let's click the dark one.
+1: Ok!

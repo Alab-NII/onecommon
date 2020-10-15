@@ -1,0 +1,12 @@
+T1	Markable 55 76	a larger, lighter dot
+T2	Markable 39 49	a triangle
+T3	Markable 105 118	the light dot
+T4	Markable 150 162	the triangle
+T5	Markable 92 97	those
+T6	Markable 224 243	the right black dot
+T7	Markable 254 267	the light one
+T8	Markable 293 295	it
+T9	Markable 3 31	2 small identical black dots
+A1	No-Referent T5
+T10	Markable 167 169	it
+R1	Anaphora Arg1:T8 Arg2:T7	

@@ -1,0 +1,6 @@
+1: I see a medium and a light grey dot pretty close to each other
+0: I have 2 dots close together. one is black and other dark grey. small dots
+1: yeah, the darker one is below and to the right from the lighter one?
+0: yes, the black is to the right and lower
+1: lets pick the darker one
+0: ok'

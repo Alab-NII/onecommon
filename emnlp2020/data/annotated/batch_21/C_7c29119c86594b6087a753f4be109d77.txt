@@ -1,0 +1,8 @@
+1: I have 6 dots making a backward 3
+0: 5 dots almost forming a line sloping up to the right?
+1: is the one on the top light and small? on the right of the rest?
+0: no! is there another small light one on that line
+1: is the one on the bottom dark and large? I know one is cut for you, so i am trying to figure out the one on the top is cut or the one on the bottom
+0: yes. but is there another light one on your line? if so click that light one!
+1: yes i have, the light one on the bottom?
+0: yes!

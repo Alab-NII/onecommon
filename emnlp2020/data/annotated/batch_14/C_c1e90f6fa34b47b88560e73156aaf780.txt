@@ -1,0 +1,4 @@
+0: I see a dark dot riding on the dotted line.
+1: I don't have one on the ring. The largest dot i see has a smaller dark circle slightly below it
+0: I see that as well, are the two at a slight left angle?
+1: yes, the bottom one is down and slight left of the top one

@@ -1,0 +1,4 @@
+0: 1 very dark large dot with a smaller dark dot to the far right of it. above them, some med/light grey dots
+1: Do you have a large light gray doth with a smaller medium gray dot down and to the right
+0: yes! which one do we choose?
+1: Large gray

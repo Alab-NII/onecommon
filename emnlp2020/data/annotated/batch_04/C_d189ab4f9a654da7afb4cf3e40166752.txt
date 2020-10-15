@@ -1,0 +1,3 @@
+0: I have one small to medium grey dot in the center of my circle that is not close to any other dots.
+1: ok want to try it?
+0: Sounds good.

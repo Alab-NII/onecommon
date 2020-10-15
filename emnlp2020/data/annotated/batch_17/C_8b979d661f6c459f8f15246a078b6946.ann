@@ -1,0 +1,13 @@
+T1	Markable 118 122	that
+T2	Markable 131 160	one very light very small dot
+T3	Markable 173 175	it
+T4	Markable 188 216	a larger slightly darker dot
+T5	Markable 314 329	the darkest one
+T6	Markable 3 9	3 dots
+T7	Markable 30 38	the nose
+T8	Markable 61 69	left eye
+A1	No-Referent T1
+R1	Anaphora Arg1:T3 Arg2:T2	
+T9	Markable 220 223	its
+T10	Markable 242 258	same size darker
+T11	Markable 272 277	thats

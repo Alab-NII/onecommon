@@ -1,0 +1,4 @@
+1: i see 2 dots in a triangle a dark gray on top, bottom left a lighter gray and to the right light grey
+0: I have three large dots close together, all different shades. I think that's it?
+1: yes i meant 3 but typed 2 on accident want to click the darkest one?
+0: It's the highest one, right?

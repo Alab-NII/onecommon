@@ -1,0 +1,4 @@
+0: two small dots horizontal from each other one light gray the other black
+1: i have nothing like that. how about one large black dot to the right of a smaller black dot
+0: Is it above a small light gray dot?
+1: yes. click on the large black

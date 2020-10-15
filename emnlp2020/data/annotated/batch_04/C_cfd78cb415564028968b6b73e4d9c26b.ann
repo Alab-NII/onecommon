@@ -1,0 +1,8 @@
+T1	Markable 10 29	one small black dot
+T2	Markable 57 75	one small dark dot
+T3	Markable 119 121	it
+T4	Markable 145 147	it
+T5	Markable 127 141	any other dots
+T6	Markable 218 231	the small dot
+R1	Anaphora Arg1:T4 Arg2:T3	
+T7	Markable 155 167	the next one

@@ -1,0 +1,8 @@
+T1	Markable 3 18	1 big black dot
+T2	Markable 35 39	that
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 43 59	a small grey dot
+T4	Markable 80 84	that
+T5	Markable 97 108	the big one
+T6	Spatial-Relation 20 34	upper right of
+R2	Subj Arg1:T6 Arg2:T3	

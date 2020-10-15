@@ -1,0 +1,5 @@
+1: I see a very dark medium sized dot by itself near the bottom
+0: I see a large light gray dot.
+1: Is there a smaller darker dot to the upper left of the large light grey dot?
+0: Yes, a smaller darker gray.
+1: Ok, lets click the bigger, lighter dot

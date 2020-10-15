@@ -1,0 +1,6 @@
+1: i've got two dark dots almost vertical, the bottom one is a little smaller
+0: I have one tiny black dot, one large black dot.
+1: do they have three in between them, almost like a triangle?
+0: yes I see that triangle. the triangle consists of two dark gray dots and one light gray dot
+1: yep. pick the large black dot?
+0: okay

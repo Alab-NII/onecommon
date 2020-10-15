@@ -1,0 +1,5 @@
+T1	Markable 27 37	a triangle
+T2	Markable 3 23	three very dark dots
+R1	Predicative Arg1:T1 Arg2:T2	
+T3	Markable 47 74	darkest one and med in size
+T4	Markable 105 113	that one

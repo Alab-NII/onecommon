@@ -1,0 +1,11 @@
+0: Hello, I have one tiny gray dot smaller than the rest
+1: are there any dots around it?
+0: There are two under it forming a triangle
+1: i don't see that
+0: One almost vertical to it, a much larger one
+1: i don't think i see that either
+0: What do you see?
+1: i see two dots right next to each other. both are dark grey. the one on the left is larger than the tiny one on the right.
+0: Yes I see those as well
+1: lets choose the one on the left
+0: The darker one?

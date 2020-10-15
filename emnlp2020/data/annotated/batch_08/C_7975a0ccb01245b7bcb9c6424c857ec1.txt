@@ -1,0 +1,5 @@
+1: I see two vertically aligned dots. Going slightly to the right. Top is light gray, bottom is small and black.
+0: I have a group of 3 dots. to larger medium gray and a small lighter gray
+0: I believe those are on the left for me...
+1: I see that one, does it make kind of a triangle?
+0: yes choose the smallest one of that group?

@@ -1,0 +1,3 @@
+1: i see a black tiny dot. right of that is a also tiny but lighter shade of grey dot
+0: i have that pretty sure. let's pick the left black dot
+1: ok. i will pick that then

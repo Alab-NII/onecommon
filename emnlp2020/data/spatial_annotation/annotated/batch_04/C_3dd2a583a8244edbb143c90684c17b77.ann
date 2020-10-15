@@ -1,0 +1,27 @@
+T2	Markable 122 136	the middle one
+T3	Markable 73 77	that
+T4	Markable 80 91	the top one
+T5	Markable 161 175	the bottom one
+T6	Markable 219 233	that light one
+T7	Markable 3 9	3 dots
+T1	Spatial-Relation 10 33	forming a vertical line
+A1	No-Obj T1
+T8	Modifier 34 38	very
+T9	Spatial-Relation 39 53	close together
+A2	No-Obj T9
+T10	Spatial-Relation 84 87	top
+R1	Obj Arg1:T10 Arg2:T3	
+T11	Spatial-Attribute 95 100	small
+T12	Modifier 105 109	very
+T13	Spatial-Attribute 105 120	very light gray
+T14	Spatial-Relation 126 132	middle
+R2	Obj Arg1:T14 Arg2:T3	
+T15	Spatial-Attribute 140 155	small and black
+T16	Spatial-Relation 165 171	bottom
+R3	Obj Arg1:T16 Arg2:T3	
+T17	Modifier 179 187	a little
+T18	Spatial-Relation 188 194	larger
+R4	Obj Arg1:T18 Arg2:T3	
+T19	Spatial-Attribute 199 204	black
+T20	Spatial-Relation 234 240	on top
+R5	Obj Arg1:T20 Arg2:T7	

@@ -1,0 +1,6 @@
+1: I see a trio of three decent sized dots that kind of form this shape /
+0: Do not see that, I see an extremely light colored dot towards bottom of screen
+1: Do not have any that are extremely light
+0: Do you see a dark medium sized dot to the right of small lighter colored one?
+1: Ah, yes slightly above?
+0: yes, but not by much, take the dark one

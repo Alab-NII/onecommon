@@ -1,0 +1,3 @@
+0: Two dark circles. the one to the left is smaller than the one on the right.
+1: I see that too. Let's pick the larger one on the right
+0: Okay.

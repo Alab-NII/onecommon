@@ -1,0 +1,7 @@
+1: Do you have 3 small dots one of each color?
+0: Tiny black dot with a large light dot to its north?
+0: Yes i think that one of them is that tiny black dot
+1: my tiny black dot is toward the circle edge so I don't have anything above it. below it and to the left is a large medium colored dot
+0: Hmm may be risky. How about the other 2 tiny dots. is the one on the right darker and lower than the lighter one on its upper left?
+1: yes
+0: ok, lets click the darker one it sounds like a match

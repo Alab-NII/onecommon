@@ -1,0 +1,24 @@
+T1	Markable 81 90	the point
+T2	Markable 54 66	the black on
+T3	Markable 14 24	three dots
+T4	Markable 192 203	a black dot
+T5	Markable 257 263	4 dots
+T6	Markable 329 334	those
+T7	Markable 315 322	the two
+T8	Markable 269 279	each other
+T9	Markable 403 423	the bottom black dot
+T10	Markable 28 48	a triangle formation
+R1	Predicative Arg1:T10 Arg2:T3	
+#1	AnnotatorNotes T2	the black one
+R2	Predicative Arg1:T1 Arg2:T2	
+T11	Markable 95 111	large light grey
+T12	Markable 117 145	slightly smaller darker grey
+T13	Markable 164 169	the 2
+T14	Markable 210 221	each circle
+R3	Anaphora Arg1:T14 Arg2:T13	
+T15	Markable 225 236	no triangle
+A1	No-Referent T15
+R4	Anaphora Arg1:T8 Arg2:T5	
+T16	Markable 280 283	two
+R5	Anaphora Arg1:T6 Arg2:T7	
+T17	Markable 352 357	the 2

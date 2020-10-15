@@ -1,0 +1,9 @@
+0: I see a large black dot at 2 o clock with a smaller dark one beneath it and to the left
+1: I have a gray dot at 2, and a gray dot beneath it to the left of 3
+0: i have a large gray dot at 6 o clock
+1: I have a large gray dot closer to 9 o clock, but to the right of it
+0: I'm not sure. Do you have any 2 small dark dots near 9 o clock
+1: I have 2 small dark dots near 10
+0: is one above the other and to the right?
+1: Yes
+0: choose the upper one

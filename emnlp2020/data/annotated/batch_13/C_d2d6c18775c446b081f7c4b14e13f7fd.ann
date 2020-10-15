@@ -1,0 +1,11 @@
+T1	Markable 14 31	a small black dot
+T2	Markable 52 78	a slightly larger grey dot
+T3	Markable 93 112	the small black dot
+T4	Markable 121 137	a lone black dot
+T5	Markable 160 171	4 grey dots
+T6	Markable 151 153	it
+T7	Markable 204 206	it
+T8	Markable 222 236	that black dot
+T9	Markable 175 195	the shape of montana
+R1	Predicative Arg1:T9 Arg2:T5	
+A1	No-Referent T3

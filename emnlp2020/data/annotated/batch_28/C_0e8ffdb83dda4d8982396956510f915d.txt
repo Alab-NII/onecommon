@@ -1,0 +1,7 @@
+1: three dots nearly vertical large black in the center bottom one large dark grey top one small light grey
+0: I see a small grey dot nearly at the 6:00 mark, close to the edge
+1: I have two small grey dots one is lighter and is to the left and slightly above the other darker grey one
+0: I have two grey dots nearly horizontal. one is dark grey other is light grey. Same size dark grey is on left
+1: are they big or small
+0: medium
+1: select the dark grey one I think

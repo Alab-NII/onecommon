@@ -1,0 +1,2 @@
+0: Do you see the lightest gray dot by itself?
+1: Yes click it

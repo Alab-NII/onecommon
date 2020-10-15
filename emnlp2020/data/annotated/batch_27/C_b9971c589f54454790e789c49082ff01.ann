@@ -1,0 +1,7 @@
+T1	Markable 10 19	a cluster
+T2	Markable 21 30	3 of them
+T4	Markable 71 88	a small black one
+T7	Markable 144 163	the small black one
+T8	Markable 56 67	top of them
+R1	Predicative Arg1:T4 Arg2:T8	
+T3	Markable 90 102	left of them

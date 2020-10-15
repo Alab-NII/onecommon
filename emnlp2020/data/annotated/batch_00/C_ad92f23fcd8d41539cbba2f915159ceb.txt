@@ -1,0 +1,4 @@
+1: small dark grey 12 oclock?
+0: No, Large and small light grey around 8 oclock?
+1: yes, lets click the larger one?
+0: Yes

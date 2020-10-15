@@ -1,0 +1,10 @@
+T1	Markable 153 157	them
+T2	Markable 60 73	two dark ones
+T3	Markable 126 146	a small med/grey one
+T4	Markable 109 119	each other
+T5	Markable 99 103	line
+T6	Markable 15 28	a medium grey
+R1	Predicative Arg1:T5 Arg2:T2	
+R2	Anaphora Arg1:T4 Arg2:T2	
+R3	Anaphora Arg1:T1 Arg2:T2	
+T7	Markable 176 202	this small medium grey one

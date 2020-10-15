@@ -1,0 +1,6 @@
+T2	Markable 78 88	a triangle
+T3	Markable 121 134	the black one
+T4	Markable 3 33	A slight cluster of three dots
+T1	Markable 34 37	all
+R1	Anaphora Arg1:T1 Arg2:T4	
+T5	Markable 138 156	the tiny black one

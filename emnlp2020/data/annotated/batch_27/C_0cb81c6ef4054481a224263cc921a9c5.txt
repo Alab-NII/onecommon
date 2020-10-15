@@ -1,0 +1,2 @@
+0: Do you have a very dark dot with a lighter dot to the left, almost horizontal?
+1: yes,lets select dark dot

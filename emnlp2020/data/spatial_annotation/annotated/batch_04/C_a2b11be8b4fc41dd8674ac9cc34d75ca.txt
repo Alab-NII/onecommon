@@ -1,0 +1,5 @@
+0: i have a bunch in the middle. do you have one that is black and like medium size in the middle?
+1: I have two dots of about the same size the top one is darker than the slightly smaller one under it
+1: lol. Yes. Should we pick the top one?
+0: the black one?
+1: yes

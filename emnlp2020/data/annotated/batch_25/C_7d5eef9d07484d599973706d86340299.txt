@@ -1,0 +1,8 @@
+1: Hi, I have one rather large dot
+0: Is it medium gray?
+1: Yes it is
+0: is there a dark smaller dot above and to the left?
+1: Below it and to the left there is
+0: Is there a smaller one below and to the right that forms a triangle with the rather large dot?
+1: Yes there is
+0: Perfect! Pick the rather large dot

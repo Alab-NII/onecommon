@@ -1,0 +1,4 @@
+0: Hello. My dots are all similar sized. my lightest is in a group of three.
+1: a triangle of three dots that are roughly the same size. the top left one is darker. the longest side of the triangle is the left side
+0: ok, this sounds about right. two of the dots are similar color, one much lighter?
+1: yes. choose the lighter one?

@@ -1,0 +1,18 @@
+T1	Markable 15 31	a tiny black dot
+T2	Markable 118 131	the other two
+T3	Markable 47 57	three dots
+T4	Markable 138 152	the darker dot
+T6	Markable 190 208	the small dark dot
+T8	Markable 96 105	one piece
+T5	Modifier 58 62	very
+T9	Spatial-Relation 63 77	close together
+A1	No-Obj T9
+T7	Spatial-Relation 78 95	making a triangle
+A2	No-Obj T7
+T10	Spatial-Relation 106 117	darker than
+T11	Spatial-Relation 142 148	darker
+R1	Obj Arg1:T11 Arg2:T2	
+T12	Spatial-Relation 153 159	on top
+R2	Obj Arg1:T12 Arg2:T2	
+T13	Spatial-Relation 209 215	on top
+R3	Obj Arg1:T13 Arg2:T2	

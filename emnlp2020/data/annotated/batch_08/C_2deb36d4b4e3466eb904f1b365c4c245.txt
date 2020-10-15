@@ -1,0 +1,5 @@
+1: i see a large light grey dot all alone
+0: Hmm is it up and to the right?
+1: yes
+0: Is the closest one to it a dark one almost the exact same size?
+1: yes, let's pick the light grey one

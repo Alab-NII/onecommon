@@ -1,0 +1,5 @@
+1: All of my dots are close together but I have gone medium size almost black dot that's a little further away than the others.
+0: I see seven dots clustered closely together from the top down there are small dark gray, med grey light gray dark gray light gray, dark gray, and dark gray
+1: In all of those is there a tiny dark grey dot? There is a medium one to the left and nothing to the right.
+0: The smallest dark gray has a medium gray below it and to the left of it and nothing directly to the right.
+1: I believe that's the same. Let's choose that one.

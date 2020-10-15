@@ -1,0 +1,7 @@
+0: My blackest dot is medium size
+1: my darkest dot is the largest middle bottom part, with a dark smaller dot underneath it
+0: Not for me. I have a medium gray dot here and medium size
+1: do you have a small light colored dot almost in the center of circle?
+0: Does it have a darker one at the top right
+1: yes
+0: select the one below

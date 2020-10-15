@@ -1,0 +1,4 @@
+0: Cluster of three making a triangle? One is larger than the others
+1: Is the top one the larger one and is it also darker?
+0: Nope. Ok. How about two tiny dots, one to the left is slightly up and lighter?
+1: got it pick the light one

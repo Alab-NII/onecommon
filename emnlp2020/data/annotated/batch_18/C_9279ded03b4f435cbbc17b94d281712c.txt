@@ -1,0 +1,8 @@
+0: i have to of the same color dots darker gray that are close together with a med size lighter gray under them
+1: How close together?
+0: very close on my view
+1: No. How about relatively large dark dot above smaller, darker dot near bottom circle edge?
+0: i have three down towards t the bottom one is a med size
+1: No. Two small dark ones middle right close together?
+0: i have nothing in the middle do you have anything at the top i have one at the top left side its a med size gray
+1: Dark grey, large? Yes

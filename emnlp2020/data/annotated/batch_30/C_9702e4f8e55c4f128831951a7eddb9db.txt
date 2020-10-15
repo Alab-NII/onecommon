@@ -1,0 +1,4 @@
+0: Two tiny black dots, same size. pick left one
+1: ok
+0: Good, you see it. We gotta wait a few seconds
+1: ok will do

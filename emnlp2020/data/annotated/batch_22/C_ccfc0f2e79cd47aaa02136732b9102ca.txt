@@ -1,0 +1,4 @@
+0: a medium size black lonely dot?
+1: I see a dark gray to black dot in bottom
+0: is it large size and has one lighter but the same size dot on top of it?
+1: no it is alone

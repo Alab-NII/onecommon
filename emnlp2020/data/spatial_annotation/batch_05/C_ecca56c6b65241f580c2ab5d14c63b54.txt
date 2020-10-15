@@ -1,0 +1,6 @@
+0: I have one dot large in size and dark
+1: i dont. i have a large light gray dot a little after 3 o clock
+0: I also see that dot. Is it medium colored gray?
+1: kind of
+0: Should we select it
+1: ok

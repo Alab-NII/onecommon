@@ -1,0 +1,5 @@
+0: I have 2 dots stacked on top of each other, the top dot is darker and smaller than the bottom
+1: the top one being black with a larger black and smaller grey to the upper right? if yes lets click on the small one in the stack
+0: I don't think so, I only have one other dot above the stack and it's to the left
+1: ok your circle is probably to the left of mine then but i do have your stack. smallest black dot i have . i will click on the small black dot
+0: ok

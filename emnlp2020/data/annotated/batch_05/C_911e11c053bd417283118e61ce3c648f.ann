@@ -1,0 +1,9 @@
+T1	Markable 15 44	a cluster of different colors
+T2	Markable 94 105	the cluster
+T3	Markable 59 71	a darker one
+T4	Markable 114 133	the medium grey one
+T5	Markable 145 147	it
+T6	Markable 151 155	it's
+T7	Markable 203 235	the med gray slightly larger one
+#1	AnnotatorNotes T6	its
+R1	Anaphora Arg1:T6 Arg2:T5	

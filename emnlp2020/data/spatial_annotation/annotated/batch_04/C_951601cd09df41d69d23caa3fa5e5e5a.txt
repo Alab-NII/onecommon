@@ -1,0 +1,5 @@
+1: a big light grey dot. below that (far apart) is a smaller dark dot
+0: i don't see that. 3 dark dots. two of them close together, the other one is far and to the left
+1: dont have that. do you have a med dark grey dot with 2 tiny light grey dots below that?
+0: i see that but there is a dark gray dot in between them
+1: yea. pick the med dark dot

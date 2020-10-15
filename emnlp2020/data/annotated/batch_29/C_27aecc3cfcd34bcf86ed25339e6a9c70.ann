@@ -1,0 +1,12 @@
+T1	Markable 37 46	the other
+T2	Markable 57 73	the two big ones
+T3	Markable 79 86	the one
+T4	Markable 170 177	the one
+T5	Markable 123 137	the two larger
+T6	Markable 3 19	2 big black dots
+T7	Markable 29 30	1
+T8	Markable 139 142	one
+T9	Markable 205 227	the the one underneath
+T10	Markable 155 169	left and above
+R1	Anaphora Arg1:T4 Arg2:T8	
+#1	AnnotatorNotes T9	the one underneath

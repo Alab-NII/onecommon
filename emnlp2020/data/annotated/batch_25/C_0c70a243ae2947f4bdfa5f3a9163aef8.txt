@@ -1,0 +1,4 @@
+1: two tiny dots near each other. one slightly darker
+0: yes on the bottom left
+1: lets go with the darker one on the right
+0: okay

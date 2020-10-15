@@ -1,0 +1,4 @@
+0: I have two dots about the same size, the top one is much darker and slightly smaller than the lower one
+1: Is the top one slightly to the right?
+0: Yes
+1: K pick the top dark one!

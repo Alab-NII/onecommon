@@ -1,0 +1,4 @@
+0: Do you have two Dark One close to each other in the middle
+1: Yes. BUT! Do you have 2 to the right of those? One is light gray and the other is black?
+0: No if you have the 2 pick the top one
+1: ok

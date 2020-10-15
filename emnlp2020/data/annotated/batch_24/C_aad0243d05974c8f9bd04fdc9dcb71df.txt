@@ -1,0 +1,5 @@
+1: Larger dark gray dot below two light dots one small, one large?
+0: I have a cluster of four dots, the bottom left is small and dark grey, the other three are medium grey-- don't have that
+1: So you have a light small dot on the middle of that?
+0: no dot in the middle, i also have two large dots same size, directly on top each other, top one is black, bottom one is light
+1: Ok, pick the top dark one of that

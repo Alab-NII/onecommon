@@ -1,0 +1,22 @@
+T1	Markable 93 118	very top, dark gray large
+T2	Markable 242 244	it
+T3	Markable 252 254	it
+T4	Markable 331 341	three dots
+T5	Markable 385 389	that
+T6	Markable 446 450	mine
+T7	Markable 508 521	the first one
+T8	Markable 183 200	Light gray circle
+T9	Markable 206 226	darker larger circle
+R1	Anaphora Arg1:T2 Arg2:T8	
+T10	Markable 342 345	all
+R2	Anaphora Arg1:T10 Arg2:T4	
+T11	Markable 356 359	all
+R3	Anaphora Arg1:T11 Arg2:T4	
+A1	No-Referent T5
+T12	Markable 398 409	medium gray
+R4	Anaphora Arg1:T6 Arg2:T12	
+T13	Markable 457 465	its self
+#1	AnnotatorNotes T13	itself
+R5	Anaphora Arg1:T13 Arg2:T6	
+T14	Markable 10 25	Large black dot
+T15	Markable 490 493	all

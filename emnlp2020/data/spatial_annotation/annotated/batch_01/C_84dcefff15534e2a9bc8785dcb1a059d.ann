@@ -1,0 +1,7 @@
+T1	Markable 49 52	one
+T3	Markable 3 9	3 dots
+T4	Markable 112 121	large one
+T5	Spatial-Attribute 10 24	light in color
+T2	Spatial-Relation 25 43	make up a triangle
+A1	No-Obj T2
+T7	Spatial-Attribute 59 75	large light gray

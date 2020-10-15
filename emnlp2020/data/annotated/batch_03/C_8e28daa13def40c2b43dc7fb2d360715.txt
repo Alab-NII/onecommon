@@ -1,0 +1,7 @@
+0: Dark large dot on 3 o'clock
+1: Large gray dot in the center
+0: nope light large gray dot on 7 o'clock with smaller gray dot more toward the border also on 7 oclock
+1: No. small dark dot at about 2 o'clock
+0: i see tiny dark dot but about 1 oclock
+1: okay yeah. I think that is the same one
+0: let lock it

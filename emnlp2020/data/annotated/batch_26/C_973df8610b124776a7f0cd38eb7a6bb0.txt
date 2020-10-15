@@ -1,0 +1,5 @@
+0: i see 3 dots almost forming an equilateral triangle, top left is large black dot, top right is smaller light grey, and bottom is large medium colored grey?
+1: is there a small dark grey dot to the bottom left of the medium colored grey one?
+0: no i dont see that, I also see a smaller black dot near the middle of my circle with a small grey dot up and to the right of it, and a slightly bigger black dot up and to the left of original small black dot
+1: i have 2 small black dots. the right being slightly lower
+0: ok click the right one being slightly lower!

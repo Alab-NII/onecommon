@@ -1,0 +1,5 @@
+T1	Markable 9 21	3 black dots
+T2	Markable 66 84	a triangle of dots
+T3	Markable 86 89	all
+R1	Anaphora Arg1:T3 Arg2:T2	
+T4	Markable 130 148	the top middle dot

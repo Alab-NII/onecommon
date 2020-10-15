@@ -1,0 +1,3 @@
+0: i see a big black dot. right next to that and to the right is a tiny grey dot
+1: I have that to, lets go with the large black dot
+0: ok

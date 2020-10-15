@@ -1,0 +1,5 @@
+T1	Markable 15 41	a group of three dark dots
+T3	Markable 52 63	3 dark dots
+T4	Markable 74 84	a triangle
+T5	Markable 102 139	the smallest of these three dark dots
+R1	Predicative Arg1:T4 Arg2:T3	

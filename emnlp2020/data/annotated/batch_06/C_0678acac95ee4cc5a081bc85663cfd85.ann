@@ -1,0 +1,8 @@
+T1	Markable 63 66	one
+T3	Markable 88 97	the other
+T4	Markable 42 61	a group of two dots
+T5	Markable 128 146	the light gray one
+T6	Markable 169 182	the black one
+T8	Markable 197 217	the larger black dot
+T9	Markable 6 15	which dot
+A1	Generic T9

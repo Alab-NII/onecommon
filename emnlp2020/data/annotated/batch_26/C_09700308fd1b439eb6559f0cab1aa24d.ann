@@ -1,0 +1,11 @@
+T1	Markable 45 55	two larger
+T2	Markable 75 103	a smaller triangle of 3 dots
+T3	Markable 221 230	large dot
+T4	Markable 240 252	the triangle
+T5	Markable 265 280	the smaller dot
+T6	Markable 14 38	a tiny tiny mid grey one
+T7	Markable 104 112	top left
+T8	Markable 139 145	bottom
+T9	Markable 173 183	right most
+T10	Markable 284 289	the 3
+R1	Anaphora Arg1:T10 Arg2:T4	

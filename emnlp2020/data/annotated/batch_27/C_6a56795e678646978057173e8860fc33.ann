@@ -1,0 +1,6 @@
+T1	Markable 27 42	a vertical line
+T2	Markable 83 94	the darkest
+T3	Markable 101 112	the darkest
+T4	Markable 3 16	two tiny dots
+R1	Predicative Arg1:T1 Arg2:T4	
+T5	Markable 142 150	that one

@@ -1,0 +1,4 @@
+1: do you see a single isolated dark gray dot?
+0: is it med in size and below the rest of the dots?
+1: yes
+0: k click that one

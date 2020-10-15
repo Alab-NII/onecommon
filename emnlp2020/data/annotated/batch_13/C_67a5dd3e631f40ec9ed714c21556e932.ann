@@ -1,0 +1,8 @@
+T1	Markable 9 30	a large dark gray dot
+T2	Markable 42 69	2 very large dark gray dots
+T3	Markable 71 74	One
+T4	Markable 120 129	the other
+T5	Markable 183 187	that
+T6	Markable 200 208	that one
+T7	Markable 133 143	My largest
+R1	Anaphora Arg1:T6 Arg2:T5	

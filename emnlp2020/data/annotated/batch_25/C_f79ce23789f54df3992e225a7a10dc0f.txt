@@ -1,0 +1,4 @@
+0: DO you have two medium sized dots very close to each other? the one on the right is darker and slightly smaller
+1: yes one is dark on the right and the left is medium color grey
+0: yes! lets click the dark one?
+1: okay

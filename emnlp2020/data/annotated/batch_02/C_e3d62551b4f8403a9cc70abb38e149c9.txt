@@ -1,0 +1,5 @@
+1: one small dark dot off on its own?
+0: Yes, it's a dark grey.
+1: yes. one that is the same shade and larger to its left.
+0: Yes!!!
+1: ok, lets pick the smaller one

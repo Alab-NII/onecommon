@@ -1,0 +1,16 @@
+T1	Markable 55 84	a larger, slightly darker one
+T2	Markable 14 29	a tiny grey dot
+T3	Markable 135 137	it
+T4	Markable 225 240	the closest dot
+T5	Markable 303 307	it's
+T6	Markable 338 340	it
+T7	Markable 372 385	the small one
+T8	Markable 96 113	1 smallest circle
+T9	Markable 121 130	the bunch
+R1	Anaphora Arg1:T3 Arg2:T8	
+T10	Markable 244 264	your smallest circle
+A1	Generic T4
+T11	Markable 269 299	2 large light and medium light
+#1	AnnotatorNotes T5	its
+T12	Markable 318 331	1 medium grey
+R2	Anaphora Arg1:T6 Arg2:T5	

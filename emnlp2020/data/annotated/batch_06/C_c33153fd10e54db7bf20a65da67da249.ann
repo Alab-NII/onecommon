@@ -1,0 +1,16 @@
+T1	Markable 19 25	a line
+T2	Markable 10 15	three
+T3	Markable 138 140	it
+T4	Markable 153 170	two pairs of dots
+T5	Markable 216 229	the only ones
+T6	Markable 276 288	the left one
+T7	Markable 263 269	a pair
+T8	Markable 378 403	the really dark large one
+R1	Predicative Arg1:T1 Arg2:T2	
+T9	Markable 40 46	bottom
+T10	Markable 59 65	middle
+T11	Markable 88 91	top
+A1	No-Referent T3
+T12	Markable 312 321	the right
+T13	Markable 206 211	those
+R2	Predicative Arg1:T5 Arg2:T13	

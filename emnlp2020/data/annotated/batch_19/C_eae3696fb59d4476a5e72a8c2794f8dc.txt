@@ -1,0 +1,4 @@
+0: I got a large medium dot around 6'o clock.
+1: two dots just to the left close?
+0: I got small black dot with large dot just to the right
+1: choose the small black dot

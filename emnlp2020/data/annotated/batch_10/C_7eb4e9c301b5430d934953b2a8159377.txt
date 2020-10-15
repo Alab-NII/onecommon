@@ -1,0 +1,4 @@
+0: I have one dot that is much darker than all the others, and it is very large
+1: Does it have a medium grey, half the size dot to the right? slightly higher?
+0: yes - let's pick that dark one
+1: deal!

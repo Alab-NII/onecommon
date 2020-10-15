@@ -1,0 +1,4 @@
+0: Two large very dark dots close together, the bottom one is darker, slightly smaller and to the right
+1: yes\
+0: Ok, lets chose the bottom, darker dot
+1: k

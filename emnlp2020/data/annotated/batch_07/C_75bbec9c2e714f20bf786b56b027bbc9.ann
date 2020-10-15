@@ -1,0 +1,12 @@
+T1	Markable 68 71	one
+T3	Markable 115 130	two darker dots
+T4	Markable 136 146	each other
+T5	Markable 172 183	The top one
+T6	Markable 206 211	those
+T7	Markable 219 230	the top one
+T8	Markable 273 277	that
+T9	Markable 298 309	the top one
+T10	Markable 10 11	5
+T2	Markable 39 54	two lonely ones
+T11	Markable 92 95	one
+R1	Anaphora Arg1:T4 Arg2:T3	

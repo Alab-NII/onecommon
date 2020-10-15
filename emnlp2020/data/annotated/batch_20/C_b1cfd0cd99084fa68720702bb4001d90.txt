@@ -1,0 +1,4 @@
+0: I have a lot of darker dots, but only one smaller light dark
+1: hmm i have two small light ones. is your light dot down to the left of a med sized very dark grey dot
+0: Yes it is
+1: k click the light one!

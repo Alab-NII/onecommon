@@ -1,0 +1,11 @@
+T1	Markable 36 56	the other black ones
+T2	Markable 84 103	the large black one
+T3	Markable 160 170	each other
+T4	Markable 115 129	two black dots
+T5	Markable 172 176	They
+T6	Markable 211 218	The one
+T7	Markable 270 279	those two
+T8	Markable 298 305	the one
+T9	Markable 10 34	one large pure black one
+R1	Anaphora Arg1:T3 Arg2:T4	
+R2	Anaphora Arg1:T5 Arg2:T4	

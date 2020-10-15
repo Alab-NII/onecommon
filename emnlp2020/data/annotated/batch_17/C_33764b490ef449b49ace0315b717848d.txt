@@ -1,0 +1,7 @@
+1: I see a lonely medium gray small dot above and to the right of all others except a large medium gray that is below and to the right.
+0: i have two black dots slightly passed 6 o clock
+1: I only see one black dot and it is in the middle of two medium and two light gray
+0: where is your black dot located at
+1: Above and slightly to the right of a light gray of the same size, above and to the left of a small medium gray, below and to the right of two small dark gray.
+0: lets try the black dot u are talking about
+1: Ok

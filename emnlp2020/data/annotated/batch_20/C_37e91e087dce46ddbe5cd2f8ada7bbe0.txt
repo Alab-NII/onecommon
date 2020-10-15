@@ -1,0 +1,3 @@
+0: smallest out of the black dots upper left
+1: no, lower right, 530 oclock, black dot
+0: grey dots, one above, choose it

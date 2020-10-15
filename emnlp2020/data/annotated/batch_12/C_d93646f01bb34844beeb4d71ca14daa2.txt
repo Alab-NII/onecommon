@@ -1,0 +1,6 @@
+0: a large light grey dot to the bottom left by itself?
+1: Hello, do u have 4 dots close together that make a line going left to right?
+0: I believe I have three of those? is the first one smallest?
+1: Yes it is, and its darker?
+0: yes let's pick that one
+1: Ok!

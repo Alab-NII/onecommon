@@ -1,0 +1,16 @@
+T1	Markable 46 56	a triangle
+T3	Markable 10 35	a cluster of 3 small dots
+T4	Markable 58 61	two
+T5	Markable 143 154	a dark grey
+T6	Markable 81 101	a tiny dark grey dot
+T7	Markable 191 195	they
+T8	Markable 136 138	it
+T9	Markable 161 163	it
+T10	Markable 107 129	a light grey small dot
+T11	Markable 234 238	that
+T12	Markable 257 269	the tiny dot
+T13	Markable 352 364	the tiny dot
+R1	Predicative Arg1:T1 Arg2:T3	
+R2	Anaphora Arg1:T8 Arg2:T6	
+R3	Anaphora Arg1:T9 Arg2:T6	
+T2	Markable 285 309	a large dark grey circle

@@ -1,0 +1,3 @@
+0: i have a medium grey large dot with a light grey small dot off to the right and below
+1: I have that. pick large dot?
+0: yeppers

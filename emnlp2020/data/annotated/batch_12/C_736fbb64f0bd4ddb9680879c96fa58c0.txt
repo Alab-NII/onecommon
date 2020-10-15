@@ -1,0 +1,5 @@
+1: Do you have a dark grey dot almost black near 2 medium colored grey dots
+0: I don't. I have a cluster of 3 dots in a horizontal line. A large black dot to the left, then a smaller medium gray dot to the right and slightly below, then another medium gray dot to the right that is the same size as the black one
+1: Is the small middle one slightly lower than the other two?
+0: yes
+1: Pick the darkest on the left

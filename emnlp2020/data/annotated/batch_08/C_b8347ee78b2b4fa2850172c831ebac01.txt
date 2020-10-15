@@ -1,0 +1,4 @@
+0: i have a small lighter dot with a larger darker one above it to the left
+1: I think I see that! Is there a black one to the bottom of them?
+0: yes
+1: K click the black one!

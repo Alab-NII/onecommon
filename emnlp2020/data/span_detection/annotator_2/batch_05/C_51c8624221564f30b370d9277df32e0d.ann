@@ -1,0 +1,12 @@
+T1	Markable 3 14	3 clustered
+T2	Markable 29 32	all
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 66 79	the black one
+T4	Markable 123 131	that one
+R2	Anaphora Arg1:T4 Arg2:T3	
+T5	Markable 46 49	one
+T6	Spatial-Relation 5 14	clustered
+T7	Spatial-Relation 18 28	a triangle
+T8	Spatial-Attribute 33 45	medium small
+T9	Spatial-Attribute 50 55	black
+T10	Spatial-Relation 84 109	largest and furthest down

@@ -1,0 +1,7 @@
+T1	Markable 49 58	five dots
+T2	Markable 14 37	a slightly askew square
+T3	Markable 70 86	a large grey dot
+T4	Markable 112 128	a large dark dot
+T5	Markable 170 185	the lighter dot
+R1	Predicative Arg1:T1 Arg2:T2	
+T6	Markable 152 156	that

@@ -1,0 +1,10 @@
+T1	Markable 10 28	a lonely black dot
+T2	Markable 57 68	3 dark dots
+T3	Markable 239 254	the highest one
+T4	Markable 256 279	the black and large dot
+T5	Markable 85 96	the highest
+T6	Markable 125 143	a really dark grey
+T7	Markable 147 150	its
+R1	Anaphora Arg1:T7 Arg2:T5	
+T8	Markable 172 196	a large really dark grey
+R2	Predicative Arg1:T4 Arg2:T3	

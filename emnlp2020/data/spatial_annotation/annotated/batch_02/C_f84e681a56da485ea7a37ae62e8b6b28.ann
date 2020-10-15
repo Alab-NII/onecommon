@@ -1,0 +1,12 @@
+T1	Markable 15 22	one dot
+T2	Markable 69 71	it
+T3	Markable 117 127	other dots
+T4	Markable 144 152	that one
+T5	Markable 42 56	all the others
+T6	Spatial-Relation 30 41	darker than
+T7	Spatial-Attribute 75 83	med-size
+T9	Spatial-Relation 89 116	at least 2 inches away from
+T10	Modifier 75 83	med-size
+A1	Mod-Neutral T10
+R1	Mod Arg1:T10 Arg2:T7	
+#1	AnnotatorNotes T9	far

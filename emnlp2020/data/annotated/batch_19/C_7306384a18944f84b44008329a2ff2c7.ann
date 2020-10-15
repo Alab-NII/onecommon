@@ -1,0 +1,9 @@
+T1	Markable 75 89	the center one
+T2	Markable 197 211	big middle one
+T3	Markable 102 111	right one
+T5	Markable 141 149	left one
+T6	Markable 160 168	left one
+T8	Markable 234 244	center one
+T9	Markable 3 29	one medium sized dark grey
+T10	Markable 51 52	3
+R1	Anaphora Arg1:T6 Arg2:T5	

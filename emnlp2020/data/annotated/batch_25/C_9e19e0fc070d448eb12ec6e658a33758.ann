@@ -1,0 +1,9 @@
+T1	Markable 15 27	3 large dots
+T2	Markable 68 82	two large dots
+T3	Markable 97 101	They
+T4	Markable 176 196	a darker smaller dot
+T5	Markable 221 240	that small dark dot
+T6	Markable 31 47	a triangle shape
+R1	Predicative Arg1:T6 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T2	
+T7	Markable 147 163	the top most dot

@@ -1,0 +1,4 @@
+1: i see two dots same size different colors really close to each other, the lighter one is on the right and a hair up
+0: i have three dots in a cluster, two are similar sized the one on the right is light grey
+1: are you talking about the same ones?
+0: yep, those are the same ones, let's choose the lighter dot

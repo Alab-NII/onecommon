@@ -1,0 +1,17 @@
+T1	Markable 9 17	two dots
+T3	Markable 53 66	three of them
+T4	Markable 174 188	the bottom one
+T5	Markable 154 169	a vertical line
+T6	Markable 303 312	that line
+T7	Markable 216 222	a line
+T8	Markable 288 296	two dots
+T9	Markable 341 350	that line
+T10	Markable 326 334	the dots
+T11	Markable 319 322	one
+T12	Markable 351 362	a dark grey
+T13	Markable 372 374	it
+T14	Markable 123 150	two medium sized black dots
+R1	Predicative Arg1:T5 Arg2:T14	
+R2	Anaphora Arg1:T6 Arg2:T7	
+R3	Predicative Arg1:T12 Arg2:T11	
+T2	Markable 67 70	one

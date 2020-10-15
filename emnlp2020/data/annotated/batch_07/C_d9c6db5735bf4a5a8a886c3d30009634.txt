@@ -1,0 +1,4 @@
+1: I have two large dots very close together. The top one is darker and to the left, they are similar size
+0: Do you see 3 dots that are sloping up and to the left which are all dark, the middle one being lightest of the three?
+1: No, I don't see what you describe, do you see what I described?
+0: Let's take dark top left

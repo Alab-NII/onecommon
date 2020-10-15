@@ -1,0 +1,5 @@
+1: I see one really big dark dot.
+0: I also have that dot, across from a series of small gray dots.
+1: Yes.
+0: Shall we try the large dark dot?
+1: Sure!

@@ -1,0 +1,28 @@
+T2	Spatial-Relation-Markable 71 79	triangle
+T3	Markable 9 24	three dark dots
+T5	Markable 110 126	3 dark gray dots
+T6	Markable 209 226	middle/larger one
+T7	Spatial-Relation-Markable 47 53	bottom
+R2	Anaphora Arg1:T2 Arg2:T3	
+T8	Markable 162 171	2 smaller
+T1	Spatial-Relation 30 45	form a triangle
+A1	No-Obj T1
+R1	Obj Arg1:T7 Arg2:T3	
+T9	Spatial-Relation 57 70	the middle of
+T10	Spatial-Relation 93 99	larger
+T11	Modifier 84 92	slightly
+R4	Subj Arg1:T10 Arg2:T7	
+R5	Obj Arg1:T10 Arg2:T2	
+T12	Spatial-Relation 127 141	spaced equally
+A2	No-Obj T12
+T4	Spatial-Relation 142 160	to form a triangle
+A3	No-Obj T4
+T13	Spatial-Relation 164 171	smaller
+R3	Obj Arg1:T13 Arg2:T5	
+T14	Spatial-Relation 172 178	on top
+R6	Obj Arg1:T14 Arg2:T5	
+T15	Spatial-Relation 209 222	middle/larger
+R7	Obj Arg1:T15 Arg2:T3	
+A4	Canonical-Undefined T12
+A5	Canonical-Undefined T4
+#1	AnnotatorNotes T15	middle larger

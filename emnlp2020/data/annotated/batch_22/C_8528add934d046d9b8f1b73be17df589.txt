@@ -1,0 +1,6 @@
+1: I have a lonely dark grey small dot
+0: I have a upside down V with a dot light gray in the middle of the V opening
+1: I guess i see that, how many dots make the V? is one of them almost black?
+0: yup! Its 5 dots. left to right ... Large Light gray, smaller light gray, small black, smallest black, med gray med size.
+1: I see all those 5 thanks, wanna select the smallest black?
+0: sure

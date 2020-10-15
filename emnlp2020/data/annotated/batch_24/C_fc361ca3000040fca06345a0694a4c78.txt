@@ -1,0 +1,6 @@
+1: Do you have one very large gray dot with a smaller darker gray dot to the right?
+0: I see that i think, is the smaller one a bit far away
+1: Not too far away
+0: is the smaller one slightly lower as well as being to the right?
+1: Yes
+0: ok lets click the large one!

@@ -1,0 +1,12 @@
+T1	Markable 10 33	a dark medium sized dot
+T3	Markable 150 165	a diagonal line
+T4	Markable 140 144	they
+T5	Markable 240 242	it
+T6	Markable 200 203	one
+T7	Markable 298 310	the dark one
+T8	Markable 274 289	the lighter one
+T9	Markable 46 68	a large medium grey do
+#1	AnnotatorNotes T9	a large medium grey dot
+T10	Markable 72 89	2 light gray dots
+R1	Anaphora Arg1:T4 Arg2:T10	
+R2	Predicative Arg1:T3 Arg2:T4	

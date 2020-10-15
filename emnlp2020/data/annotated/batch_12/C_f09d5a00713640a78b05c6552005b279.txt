@@ -1,0 +1,4 @@
+1: I have a large light dot, with a smaller but the same color above it, on the right side
+0: me too. Both are biggish?
+1: yes, wanna select the one one the bottom, which is bigger?
+0: bottom, bigger one

@@ -1,0 +1,18 @@
+T1	Markable 14 22	two dots
+T2	Markable 33 43	each other
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 44 51	top one
+T4	Spatial-Relation-Markable 71 76	lower
+T5	Markable 162 167	Large
+T6	Spatial-Relation 23 32	on top of
+T7	Spatial-Relation 44 47	top
+T8	Spatial-Attribute 55 70	light and large
+R2	Obj Arg1:T4 Arg2:T3	
+T9	Modifier 80 88	slightly
+T10	Spatial-Relation 89 101	to the right
+T11	Spatial-Relation 106 113	smaller
+T12	Spatial-Relation 118 124	darker
+R3	Obj Arg1:T10 Arg2:T3	
+R4	Obj Arg1:T11 Arg2:T3	
+R5	Obj Arg1:T12 Arg2:T3	
+#1	AnnotatorNotes T6	vertical

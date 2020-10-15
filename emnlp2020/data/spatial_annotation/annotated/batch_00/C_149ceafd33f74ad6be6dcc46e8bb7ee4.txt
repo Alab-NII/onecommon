@@ -1,0 +1,6 @@
+0: I have two dark spots
+1: Hi I have a lonely small dark dot and a lonely large dark dot do you have the same?
+0: Yes, but the small is medium dark, not completely black
+1: Is the large solo dot the biggest and is it black?
+0: Yes that's correct
+1: Lets choose that one the big black dot by itself

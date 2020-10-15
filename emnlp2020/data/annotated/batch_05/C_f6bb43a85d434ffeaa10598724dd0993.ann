@@ -1,0 +1,12 @@
+T1	Markable 70 81	a black dot
+T2	Markable 99 114	two larger dots
+T3	Markable 151 162	the top dot
+T4	Markable 261 270	the black
+T5	Markable 3 21	3 medium size dots
+T6	Markable 22 31	one black
+T7	Markable 32 44	one med gray
+T8	Markable 45 59	one light grey
+T9	Markable 122 126	mine
+T10	Markable 188 197	which one
+A1	Generic T10
+T11	Markable 239 254	the darkest one

@@ -1,0 +1,5 @@
+1: i have only 1 dark dot on r almost to the middle
+0: is it one the left of a smaller slightly lighter dot?
+1: no do u have a med size light grey at almost 6:00 position
+0: I don't, does not the dark dot has a smaller lighter dot on the left of it?
+1: yes lets click on the lighter one near the dark one

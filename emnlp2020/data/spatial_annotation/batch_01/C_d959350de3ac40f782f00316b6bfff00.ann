@@ -1,0 +1,12 @@
+T1	Markable 45 51	itself
+T2	Markable 15 37	a small light gray dot
+T3	Markable 92 109	a small black dot
+T4	Markable 152 154	it
+T5	Markable 201 203	it
+T6	Markable 234 253	the small black dot
+R1	Anaphora Arg1:T1 Arg2:T2	
+T7	Markable 59 63	mine
+T8	Markable 115 128	a medium gray
+R2	Anaphora Arg1:T4 Arg2:T3	
+T9	Markable 159 178	another medium gray
+T10	Markable 257 270	that grouping

@@ -1,0 +1,36 @@
+T1	Markable 99 112	both of those
+T2	Markable 117 132	some black dots
+T3	Markable 57 75	a light bigger dot
+T4	Markable 159 176	one dark grey dot
+T5	Markable 201 217	a light grey dot
+T6	Markable 231 235	that
+T7	Markable 252 266	any black dots
+T8	Markable 268 272	They
+T9	Markable 305 331	your smallest lightest dot
+T10	Markable 3 26	Tiny lightest shade dot
+A1	No-Referent T6
+A2	No-Referent T7
+A3	All-Referents T8
+T11	Spatial-Relation 8 22	lightest shade
+A4	No-Obj T11
+T12	Spatial-Relation 28 53	to the left and higher up
+R1	Subj Arg1:T12 Arg2:T3	
+R2	Obj Arg1:T12 Arg2:T10	
+T13	Spatial-Relation 65 71	bigger
+R3	Obj Arg1:T13 Arg2:T10	
+T14	Spatial-Attribute 80 91	still small
+T15	Spatial-Relation 93 98	above
+R4	Subj Arg1:T15 Arg2:T2	
+T16	Spatial-Relation 143 149	larger
+R5	Obj Arg1:T16 Arg2:T1	
+T17	Spatial-Relation 177 188	to the left
+T19	Spatial-Relation 190 200	just below
+A6	Ambiguous-Obj T17
+T20	Spatial-Relation 277 295	all shades of grey
+A5	No-Obj T20
+#1	AnnotatorNotes T20	different colors
+T21	Spatial-Relation 310 318	smallest
+A7	No-Obj T21
+T22	Spatial-Relation 319 327	lightest
+A8	No-Obj T22
+#2	AnnotatorNotes T19	near below

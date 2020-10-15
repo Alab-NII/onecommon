@@ -1,0 +1,4 @@
+0: I have one gray dot larger than all.
+1: I see 1 large light grey dot
+0: And across, is a small gray dot.
+1: ok

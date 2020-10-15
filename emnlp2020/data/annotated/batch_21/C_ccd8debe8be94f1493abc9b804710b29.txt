@@ -1,0 +1,5 @@
+1: I have a group of 4 dots making a upside down backwards Y
+0: Is one of the dots a large black one?
+1: yes is at the bottom of the Y
+0: Not sure I see the same thing but is the dot below it a lighter shade of gray same size as the black one? If so let's select the black one
+1: yes

@@ -1,0 +1,4 @@
+0: 2 large light grey dot, almost vertical to each other
+1: no. very tiny light grey dot?
+0: yes
+1: kind of far off and to the bottom of the rest of the dots? if so click it!

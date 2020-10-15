@@ -1,0 +1,4 @@
+1: I see two dots very close together. One is a medium sized, VERY DARK dot. The other is a small, light dot to the lower left
+0: Is the smaller one very light?
+1: Yes, and it is only slightly lower
+0: Okay cool. Let's click the lighter one

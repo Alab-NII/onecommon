@@ -1,0 +1,7 @@
+1: one large lighter gray dot and one same size darker gray dot very close to one another?
+0: I have a pair of diagonal light grey dots
+1: Larger dark gray dot with smaller dark gray dot to it's lower left?
+0: No... A close horizontal pair? Larger one on right and lighter
+1: no horizontals. is it the very lightest gray? I have just one of those at the edge of my circle. it's a medium size dot
+0: Yes, mine is the lightest grey and medium.
+1: aye let's do it

@@ -1,0 +1,9 @@
+T1	Markable 15 37	a light gray large dot
+T2	Markable 45 51	itself
+T3	Markable 63 71	a couple
+T4	Markable 76 79	one
+T5	Markable 124 140	two smaller dots
+T6	Markable 222 229	the one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T7	Markable 104 106	It
+T8	Markable 147 151	both

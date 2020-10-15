@@ -1,0 +1,4 @@
+0: I see two dots close to each other, one large and light gray and one dark and small.
+1: i don't think i have that i have three dots nearly the same shade and size in a horizontal line that goes slightly up the one in the middle is the darkest
+0: I have that too, I think. Is the middle dot the darkest? If so, let's click that.
+1: ok

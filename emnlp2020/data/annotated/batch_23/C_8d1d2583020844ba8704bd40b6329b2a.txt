@@ -1,0 +1,5 @@
+1: cluster of dots. do you have that? how many?
+0: I have a cluster of 5 including one large dark grey and small dark grey
+1: i have that too. is the large dark grey one ... does that have a light grey upper to the right of it?
+0: Yes. and it helps form almost a rectangle with the light grey and two other larger ones?
+1: Yeah. let's pick the large dark grey one . bottom left of the rectangle

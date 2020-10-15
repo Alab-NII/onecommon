@@ -1,0 +1,18 @@
+T2	Markable 91 100	the other
+T3	Markable 122 142	the bigger sized one
+T4	Markable 3 23	The two closest dots
+T1	Markable 68 71	one
+T5	Spatial-Relation 11 18	closest
+A1	No-Obj T5
+T6	Spatial-Relation 24 32	together
+A2	No-Obj T6
+T7	Modifier 50 56	nearly
+T8	Spatial-Relation 57 67	same shade
+A3	No-Obj T8
+T9	Spatial-Relation 72 90	double the size of
+T10	Spatial-Relation 126 138	bigger sized
+R1	Obj Arg1:T10 Arg2:T4	
+#1	AnnotatorNotes T5	near
+#2	AnnotatorNotes T6	cluster
+A4	Mod-Uncertainty-Approximation T7
+#3	AnnotatorNotes T9	larger

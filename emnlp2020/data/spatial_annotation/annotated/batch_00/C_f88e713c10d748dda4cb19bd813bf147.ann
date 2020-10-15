@@ -1,0 +1,19 @@
+T1	Markable 80 82	it
+T2	Markable 10 27	a large black dot
+T3	Markable 130 150	a northern small one
+T4	Markable 112 116	that
+T5	Markable 193 216	the large very dark one
+T6	Markable 34 65	a lighter but the same size dot
+T7	Spatial-Relation 29 33	with
+T8	Spatial-Relation 36 43	lighter
+T9	Spatial-Relation 52 61	same size
+T10	Modifier 66 70	very
+T11	Spatial-Relation 71 79	close to
+T12	Spatial-Relation 84 101	on the right side
+R1	Subj Arg1:T12 Arg2:T6	
+R2	Obj Arg1:T12 Arg2:T1	
+T13	Spatial-Relation 132 140	northern
+R3	Obj Arg1:T13 Arg2:T4	
+T14	Spatial-Relation 151 162	to the left
+R4	Obj Arg1:T14 Arg2:T4	
+#1	AnnotatorNotes T13	north

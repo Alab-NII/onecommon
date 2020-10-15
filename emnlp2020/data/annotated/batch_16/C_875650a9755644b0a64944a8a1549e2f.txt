@@ -1,0 +1,3 @@
+0: Do you have a large light gray circle by itself?
+1: I have a large gray circle below two darker circles, one smaller than the other
+0: Ok, lets choose the large, light gray circle

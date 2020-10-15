@@ -1,0 +1,6 @@
+0: do you see a y shape of cluster of dots?
+1: yes sort of, i also see a line of 3 dots with top medium to larger in size light to medium grey
+0: top of Y on the left side is a tiny light gray dot...choose it
+1: i dont see that
+0: ok...how about the medium gray dot large that you mentioned at top of 3 dot line...choose the light gray dot at the top?
+1: yep

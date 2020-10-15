@@ -1,0 +1,6 @@
+T2	Markable 15 34	a cluster of 4 dots
+T3	Markable 84 96	a larger dot
+T4	Markable 55 78	a tiny, medium-gray dot
+T5	Markable 138 140	it
+T6	Markable 169 181	the tiny one
+R1	Anaphora Arg1:T5 Arg2:T4	

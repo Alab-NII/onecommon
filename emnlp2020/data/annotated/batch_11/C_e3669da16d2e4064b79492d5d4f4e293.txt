@@ -1,0 +1,5 @@
+1: I have a large dark grey dot by itself
+0: I have a small grey dot by itself
+1: very light grey?
+0: yes
+1: lets pick that one

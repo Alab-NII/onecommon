@@ -1,0 +1,29 @@
+T1	Markable 62 64	it
+T2	Markable 24 47	a smaller dark grey dot
+T3	Markable 126 129	its
+T5	Markable 189 197	that one
+T6	Markable 291 307	a dark black dot
+T7	Markable 237 253	a light gray dot
+T8	Markable 210 231	a large dark gray dot
+T9	Markable 409 426	a medium gray one
+T10	Markable 375 396	a large dark gray dot
+T11	Markable 402 404	it
+T12	Markable 494 497	its
+T13	Markable 469 481	the left one
+T14	Markable 517 519	it
+T15	Markable 590 596	itself
+T17	Markable 649 668	our only common one
+T18	Markable 632 638	itself
+T19	Markable 611 628	a large black dot
+T20	Markable 695 697	it
+T21	Markable 3 18	Large black dot
+R1	Anaphora Arg1:T1 Arg2:T21	
+T22	Markable 69 72	its
+R2	Anaphora Arg1:T22 Arg2:T21	
+R3	Anaphora Arg1:T11 Arg2:T10	
+T4	Markable 450 453	its
+R4	Anaphora Arg1:T4 Arg2:T10	
+T23	Markable 565 582	a large black dot
+R5	Anaphora Arg1:T15 Arg2:T23	
+R6	Anaphora Arg1:T18 Arg2:T19	
+R7	Anaphora Arg1:T17 Arg2:T19	

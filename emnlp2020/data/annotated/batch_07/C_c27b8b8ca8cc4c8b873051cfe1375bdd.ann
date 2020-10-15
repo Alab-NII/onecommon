@@ -1,0 +1,16 @@
+T1	Markable 40 57	a tiny light grey
+T2	Markable 59 63	Mine
+T3	Markable 127 144	a darker grey dot
+T4	Markable 86 88	it
+T5	Markable 202 224	a large light grey dot
+T6	Markable 181 198	a large dark grey
+T7	Markable 331 349	2 small black dots
+T8	Markable 408 422	any black dots
+T9	Markable 560 567	the one
+T10	Markable 502 524	the 2 small black dots
+T11	Markable 3 12	tiny gray
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T2	
+T12	Markable 236 249	no large dots
+A1	No-Referent T12
+T13	Markable 257 268	a tiny grey

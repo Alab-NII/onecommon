@@ -1,0 +1,13 @@
+T1	Markable 15 29	a big dark dot
+T2	Markable 102 124	one big light grey dot
+T3	Markable 71 85	a med dark dot
+T4	Markable 141 149	any grey
+T5	Markable 165 179	a med dark dot
+T6	Markable 263 273	each other
+T7	Markable 230 248	2 medium dark dots
+T8	Markable 283 288	those
+T9	Markable 325 332	the two
+A1	No-Referent T4
+T10	Markable 185 203	a smaller dark dot
+R1	Anaphora Arg1:T6 Arg2:T7	
+T11	Markable 312 321	the lower

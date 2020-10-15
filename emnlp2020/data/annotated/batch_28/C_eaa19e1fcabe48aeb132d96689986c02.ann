@@ -1,0 +1,11 @@
+T1	Markable 47 76	a very light medium sized dot
+T2	Markable 125 153	a darker slightly bigger dot
+T3	Markable 97 119	the lighter medium dot
+T4	Markable 177 179	it
+T5	Markable 3 18	Small black dot
+T6	Markable 41 43	it
+R1	Anaphora Arg1:T6 Arg2:T5	
+T7	None 33 40	a above
+#1	AnnotatorNotes T7	above
+R2	Anaphora Arg1:T4 Arg2:T3	
+T8	Markable 199 204	black

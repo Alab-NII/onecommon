@@ -1,0 +1,9 @@
+0: Do you have a small black dot?
+1: No. Do you have a diagonal line of two medium dots?
+0: both black medium?
+1: yes!
+0: yes...hmm how do we pick which of the two same size black dots?
+1: I'm not sure...is the one to the left higher than the one on the right?
+0: The one on the left is lower then the one on the right...time... is there a grey below your dot on the right
+1: Yes its smaller
+0: pick the left black

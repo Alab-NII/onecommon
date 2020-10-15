@@ -1,0 +1,4 @@
+0: I have two dots located really close to one another. The one on top is darker and slightly larger
+1: Do you have one super dark black dot above a slightly smaller slightly less black dot?
+0: Yes. All of my other dots are far away
+1: Let's choose the larger darker dot.

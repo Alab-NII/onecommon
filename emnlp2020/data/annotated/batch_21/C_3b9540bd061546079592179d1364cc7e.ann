@@ -1,0 +1,7 @@
+T1	Markable 28 34	a line
+T2	Markable 3 19	three large dots
+R1	Predicative Arg1:T1 Arg2:T2	
+T3	Markable 59 66	darkest
+T4	Markable 104 114	the middle
+T5	Markable 154 164	the middle
+R2	Anaphora Arg1:T5 Arg2:T4	

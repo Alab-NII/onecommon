@@ -1,0 +1,2 @@
+0: do you have a group of 4 dots together? 3 of them dark
+1: yes. let's chose the lowest one

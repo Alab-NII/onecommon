@@ -1,0 +1,4 @@
+1: which dot do u wanna try?
+0: I see two dots in a diagonal line. The bottom dot is larger, and lighter, and slightly to the right.
+1: hmm doesnt look like I have that. Do you have 2 small dots of the same size that are close to each other? the left one is black and the right one is gray and lower
+0: Yes. Let's click the black one.

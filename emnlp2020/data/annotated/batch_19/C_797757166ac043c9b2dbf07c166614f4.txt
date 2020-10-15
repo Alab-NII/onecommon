@@ -1,0 +1,5 @@
+0: I have a small light dot down low by itself
+1: two almost identical looking large dark grey dots?
+0: is the one on the left higher
+1: yes and w a very tiny darker dot close to it. if so click the tiny dot
+0: ok

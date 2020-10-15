@@ -1,0 +1,13 @@
+T1	Markable 41 65	a smaller light grey dot
+T2	Markable 93 95	it
+T3	Markable 248 274	your dark plus light group
+T4	Markable 313 327	the bottom one
+T5	Markable 349 364	that darker one
+T6	Markable 400 410	the darker
+T7	Markable 10 31	a large dark grey dot
+R1	Anaphora Arg1:T2 Arg2:T7	
+T8	Markable 112 139	two medium equal sized dots
+T9	Markable 189 193	what
+A1	No-Referent T9
+A2	No-Referent T3
+T10	Markable 285 308	2 similar size vertical

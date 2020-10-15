@@ -1,0 +1,27 @@
+T1	Markable 105 109	them
+T2	Markable 35 38	one
+T3	Markable 83 92	the other
+T4	Markable 119 136	a light small dot
+T5	Markable 247 266	the large black dot
+T6	Markable 3 18	2 big dark dots
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 141 156	medium grey dot
+T8	Markable 179 183	that
+A1	No-Referent T8
+T9	Spatial-Relation 19 33	close together
+A2	No-Obj T9
+T10	Modifier 42 50	slightly
+T11	Spatial-Relation 51 57	bigger
+T12	Spatial-Relation 62 67	above
+T13	Spatial-Relation 68 82	to the left of
+T14	Spatial-Relation 114 118	with
+R2	Subj Arg1:T14 Arg2:T6	
+R3	Obj Arg1:T14 Arg2:T4	
+R4	Obj Arg1:T14 Arg2:T7	
+T15	Spatial-Relation 157 169	to the right
+R5	Subj Arg1:T15 Arg2:T4	
+R6	Subj Arg1:T15 Arg2:T7	
+R7	Obj Arg1:T15 Arg2:T6	
+T16	Spatial-Relation 187 210	out of my field of view
+A3	No-Obj T16
+A4	Canonical-Undefined T16

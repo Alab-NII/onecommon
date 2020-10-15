@@ -1,0 +1,2 @@
+0: I have a very large black dot, with a tiny light dot up to its right
+1: Yes tiny dot light and to the right? if so click it!

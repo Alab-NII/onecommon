@@ -1,0 +1,8 @@
+1: I have a large black dot
+0: Hey good to see someone here, I do not have a large black dot
+1: Do you have a tiny gray dot?
+0: yes is it extremely light in color?
+1: No, medium gray
+0: I see an extremely extremely light grey large dot
+1: I have that dot, it's lighter than the rest.
+0: yes

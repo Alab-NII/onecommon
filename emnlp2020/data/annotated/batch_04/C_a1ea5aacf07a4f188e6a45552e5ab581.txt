@@ -1,0 +1,3 @@
+0: Hey I see a very small dark circle.
+1: yes see very small dark circle on 3 o'clock
+0: Ok I do not think our view is exactly the same, but there's only one small dark one for me.

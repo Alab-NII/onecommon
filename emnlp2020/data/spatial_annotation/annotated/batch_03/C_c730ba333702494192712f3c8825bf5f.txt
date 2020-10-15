@@ -1,0 +1,4 @@
+0: Do you have three dots tightly together, top one is light and largest, mid is to the right and smallest
+1: May I think that top one is cut out of my view Is the bottom one to the left of the mid one and med grey?
+0: Yes take that small one, or if you are worried there is a lonely medium sized dark dot
+1: No the small one it is!

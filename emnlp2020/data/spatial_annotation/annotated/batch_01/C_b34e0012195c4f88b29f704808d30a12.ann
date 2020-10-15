@@ -1,0 +1,13 @@
+T1	Markable 10 26	a large grey dot
+T2	Markable 32 50	a lighter grey dot
+T3	Markable 57 59	it
+T4	Markable 97 111	the darker one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T5	Markable 75 82	those 2
+T6	Spatial-Relation 27 31	with
+T7	Spatial-Relation 34 46	lighter grey
+T8	Spatial-Relation 51 56	below
+T9	Spatial-Relation 101 107	darker
+R2	Obj Arg1:T9 Arg2:T5	
+T10	Spatial-Relation 112 122	on the top
+R3	Obj Arg1:T10 Arg2:T5	

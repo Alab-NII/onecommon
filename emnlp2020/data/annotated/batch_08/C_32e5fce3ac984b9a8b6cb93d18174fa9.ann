@@ -1,0 +1,8 @@
+T1	Markable 9 41	two very dot slightly small dots
+T2	Markable 61 78	a horizontal line
+T4	Markable 96 100	that
+T5	Markable 115 125	a triangle
+T6	Markable 131 136	a dot
+T7	Markable 105 109	they
+T8	Markable 206 221	the darkest one
+R1	Predicative Arg1:T2 Arg2:T1	

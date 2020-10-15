@@ -1,0 +1,22 @@
+T1	Markable 9 25	a large grey dot
+T2	Markable 31 38	nothing
+A1	No-Referent T2
+T3	Markable 49 64	My smallest dot
+T4	Markable 78 98	two large black dots
+T5	Markable 115 117	it
+R1	Anaphora Arg1:T5 Arg2:T3	
+T6	Markable 133 149	the smallest dot
+T7	Markable 161 165	that
+R2	Anaphora Arg1:T7 Arg2:T6	
+T8	Spatial-Relation 26 30	with
+T9	Spatial-Relation 39 45	nearby
+R3	Subj Arg1:T9 Arg2:T1	
+R4	Obj Arg1:T9 Arg2:T2	
+T10	Spatial-Relation 52 60	smallest
+A2	No-Obj T10
+T11	Spatial-Attribute 68 72	gray
+T12	Spatial-Relation 73 77	with
+T13	Spatial-Relation 99 114	to the right of
+T14	Spatial-Relation 137 145	smallest
+A3	No-Obj T14
+#1	AnnotatorNotes T9	near

@@ -1,0 +1,3 @@
+1: Do you see two dots very close together. The one on top is slightly smaller, darker, and to the right?
+0: no. i see a u-shape with 4 darker dots, surrounding one that is the same size but grey
+1: Ok, in your U shape, click the dot that is on the bottom right. I see what you're describing

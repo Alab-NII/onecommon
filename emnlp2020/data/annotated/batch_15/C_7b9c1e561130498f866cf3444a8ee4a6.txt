@@ -1,0 +1,5 @@
+1: do you see a big dark one that is almost alone?
+0: There are no big dots for me, but I do see an extremely light colored one, no other one is this light
+1: I see it, with a medium dark gray at its north west?
+0: you bet it, take the albino one
+1: ok haha

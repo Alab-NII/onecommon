@@ -1,0 +1,10 @@
+T1	Markable 63 65	it
+T2	Markable 179 183	they
+T3	Markable 211 219	that one
+T4	Markable 3 22	one large black dot
+T5	Markable 28 47	a similar shade dot
+R1	Anaphora Arg1:T1 Arg2:T4	
+T6	Markable 102 121	two light gray dots
+T7	Markable 143 153	the bottom
+R2	Anaphora Arg1:T2 Arg2:T6	
+T8	Markable 229 236	the top

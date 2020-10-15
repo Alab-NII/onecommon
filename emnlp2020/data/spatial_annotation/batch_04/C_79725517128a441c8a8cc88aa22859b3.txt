@@ -1,0 +1,10 @@
+1: i've got two dark ones almost vertical, bottom one is smaller but they're the same color
+0: Is the bottom one lightly to the right and are they both kind of large?
+1: no but i have those, too
+0: Which did you choose??
+1: sorry i picked the top one
+0: of which pair? The top pair?
+1: the pair you described
+0: Is the pair on the left or the right?
+1: its the pair of large ones
+0: K thanks!

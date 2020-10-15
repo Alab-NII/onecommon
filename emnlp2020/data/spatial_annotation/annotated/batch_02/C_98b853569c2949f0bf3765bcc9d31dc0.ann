@@ -1,0 +1,49 @@
+T1	Markable 14 31	a medium dark Dot
+T2	Markable 70 87	a large light dot
+T3	Markable 47 49	it
+T4	Markable 106 126	a light grey med dot
+T5	Markable 132 153	a small dark grey dot
+T6	Markable 160 162	it
+T7	Markable 323 332	the three
+T8	Markable 277 287	lowest one
+T9	Markable 301 308	top one
+T10	Markable 219 229	each other
+T11	Markable 262 272	each other
+T12	Markable 344 355	the largest
+R1	Anaphora Arg1:T3 Arg2:T1	
+R2	Anaphora Arg1:T6 Arg2:T4	
+T13	Markable 194 204	three dots
+R3	Anaphora Arg1:T10 Arg2:T13	
+R4	Anaphora Arg1:T11 Arg2:T13	
+R5	Anaphora Arg1:T7 Arg2:T13	
+T14	Markable 379 384	the 3
+T15	Markable 391 403	that largest
+R6	Anaphora Arg1:T15 Arg2:T12	
+T17	Spatial-Relation 36 46	just above
+R7	Subj Arg1:T17 Arg2:T2	
+T18	Spatial-Relation 54 66	to the right
+R8	Subj Arg1:T18 Arg2:T2	
+R9	Obj Arg1:T18 Arg2:T3	
+T19	Spatial-Relation 127 131	with
+T20	Spatial-Relation 154 159	above
+T21	Spatial-Relation 163 174	to the left
+R10	Subj Arg1:T21 Arg2:T5	
+R11	Obj Arg1:T21 Arg2:T6	
+T22	Spatial-Relation 205 218	vertical from
+T23	Modifier 240 245	quite
+T24	Spatial-Relation 246 261	a distance from
+#1	AnnotatorNotes T24	far from
+T25	Spatial-Relation 277 283	lowest
+R12	Obj Arg1:T25 Arg2:T11	
+T26	Spatial-Attribute 291 296	black
+T27	Spatial-Relation 301 304	top
+T28	Spatial-Relation 312 322	largest of
+T29	Spatial-Relation 348 355	largest
+T30	Spatial-Relation 359 378	med in shade out of
+T31	Spatial-Relation 396 403	largest
+#2	AnnotatorNotes T17	near;above
+A2	Mod-Extremity T23
+A1	Canonical-Undefined T30
+T16	Modifier 359 362	med
+A3	Mod-Neutral T16
+R14	Obj Arg1:T31 Arg2:T14	

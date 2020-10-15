@@ -1,0 +1,3 @@
+1: Two very black dots?
+0: yes, tiny black dot is on the right and below a lighter, and smaller dot
+1: Yes! Want to click that black dot?

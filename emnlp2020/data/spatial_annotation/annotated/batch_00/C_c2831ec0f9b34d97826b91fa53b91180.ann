@@ -1,0 +1,9 @@
+T1	Markable 3 15	VERY TOP DOT
+T2	Markable 55 59	THAT
+T3	Markable 93 101	THAT DOT
+T4	Spatial-Relation 8 11	TOP
+A1	No-Obj T4
+T5	Spatial-Attribute 19 27	MED GRAY
+T6	Modifier 3 7	VERY
+T7	Modifier 19 22	MED
+A2	Mod-Neutral T7

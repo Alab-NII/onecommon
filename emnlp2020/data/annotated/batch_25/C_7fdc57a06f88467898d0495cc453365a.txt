@@ -1,0 +1,4 @@
+0: tiny black dot?
+1: I have 3 of them, but describe its neighbors to identify it please
+0: there is a med sized very light grey dot down to its slight right
+1: ok, i think I got it, let's pick the small black one

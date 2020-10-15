@@ -1,0 +1,3 @@
+0: Do u have a really large black dot with a light grey dot about the same size below it? and a really small really dark dot below that?
+1: Yes, was typing same thing. Select the large black dot?
+0: ok

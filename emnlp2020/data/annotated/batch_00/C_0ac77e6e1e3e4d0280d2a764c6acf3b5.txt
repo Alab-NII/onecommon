@@ -1,0 +1,7 @@
+0: one small black dot by itself, left edge in the middle
+1: nope
+0: i have a cluster of four in the middle, small grey dead center, larger grey about, another medium grey above that to the right and a medium grey to the right of the center dot
+1: i think i have that too did you want to go with the smaller one
+0: my dead center one?
+1: yeah
+0: ok, lets go for it

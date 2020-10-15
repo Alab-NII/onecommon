@@ -1,0 +1,4 @@
+0: I have a lonely black dot at about 1:00
+1: do you see 3 dark dots close together. the highest being black and large, then a really dark grey to its right and lower then a large really dark grey at the lowest part
+0: Yes, let's click on the highest one, the black and large dot
+1: ok

@@ -1,0 +1,14 @@
+T1	Markable 9 19	three dots
+T2	Markable 21 25	They
+T3	Markable 31 41	a triangle
+T4	Markable 60 79	The two bottom ones
+T5	Markable 127 138	a small dot
+T6	Markable 175 187	a bigger dot
+T7	Markable 232 236	that
+T8	Markable 260 266	itself
+T9	Markable 284 292	that one
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T3 Arg2:T2	
+T10	Markable 94 105	Small light
+T11	Markable 247 252	small
+R3	Anaphora Arg1:T8 Arg2:T11	

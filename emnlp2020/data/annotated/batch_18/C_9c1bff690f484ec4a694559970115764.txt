@@ -1,0 +1,4 @@
+0: So my smallest dot is a tiny dark grey dot. Above it are two slightly larger light grey dots. The three dots are in a triangle shape.
+1: triangle top half left side two of the same color
+0: Are we talking about the same triangle?
+1: i think so pick the smallest one out of it

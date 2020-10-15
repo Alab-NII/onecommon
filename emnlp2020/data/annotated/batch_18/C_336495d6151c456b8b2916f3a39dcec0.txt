@@ -1,0 +1,7 @@
+0: my dots are grouped 2, 3, 2
+1: I have a cluster of three dots all the same color in a diagonal line. The one on the top right is larger
+0: i think that might be my group of 2, is the largest is a medium gray, then (your) middle one a lighter gray and much smaller?
+1: no, they are all the same color. I have 7 dots, 6 of which are medium gray color and one large one that is darker
+0: let's talk about your darkest dot, what is nearby?
+1: The darker dot is large and there is a same sized dot directly to the right of it and slightly below
+0: click the darkest

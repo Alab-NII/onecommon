@@ -1,0 +1,19 @@
+T1	Markable 15 33	one large gray dot
+T2	Markable 44 65	a large dark gray dot
+T3	Markable 71 117	a slightly smaller & slightly lighter gray dot
+T5	Markable 124 137	the large dot
+T6	Markable 161 186	the rest of the gray dots
+T8	Markable 233 255	a slightly smaller dot
+T9	Markable 198 205	the dot
+T10	Markable 291 293	it
+T12	Markable 339 341	it
+T13	Markable 373 381	this dot
+T14	Markable 397 410	one black dot
+T15	Markable 425 427	it
+T16	Markable 464 472	that one
+T17	Markable 495 497	it
+T4	Markable 260 264	Mine
+R1	Anaphora Arg1:T10 Arg2:T4	
+T7	Markable 297 323	the biggest normal gray do
+R2	Predicative Arg1:T7 Arg2:T10	
+A1	No-Referent T13

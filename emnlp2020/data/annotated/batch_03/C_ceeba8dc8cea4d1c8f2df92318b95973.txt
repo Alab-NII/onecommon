@@ -1,0 +1,7 @@
+1: I have one medium sized dark dot with a light grey one just off to the side form it?
+0: nope i have a light small gray dot on 11 o'clock and another slightly bigger and slightly more gray on 9 o'clock
+1: okay I think I have that they are almost in a line down?
+0: the 9 o'clock is slightly shifted to the left
+1: yes okay which one you want to go with? bottom one?
+0: bottom one i on 9 oclock do you have that
+1: Yes I think I do! I will click on the bottom one.

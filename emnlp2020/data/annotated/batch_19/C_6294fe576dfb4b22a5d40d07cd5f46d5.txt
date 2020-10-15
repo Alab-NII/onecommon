@@ -1,0 +1,12 @@
+1: i see 7 dots
+0: do you have a small light one at the very bottom
+1: no
+0: do you have a medium grey one at the top
+1: yes, i think so. and a really dark one at the far right
+0: really dark one to the bottom left of it?
+1: no, i have a kinda dark one all the way on the left. a little below the middle
+0: do you have a dark one farthest to the left side
+1: yes
+0: large dark one?
+1: yes
+0: lets pick that one

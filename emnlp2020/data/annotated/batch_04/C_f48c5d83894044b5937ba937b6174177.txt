@@ -1,0 +1,10 @@
+1: The darkest smallest dot is underneath and slightly to the left of center.
+0: I have one at 9 o'clock
+1: Is there a larger, lighter dot to the right of it?
+0: No
+1: Ok, I also see a really large dot, lighter in color in the top right hand side of the circle.
+0: No, do you have any dots in a cluster ?
+1: Yes, a cluster of five.
+0: Do you have a small black one ?
+1: Yes. should we choose it?
+0: yes

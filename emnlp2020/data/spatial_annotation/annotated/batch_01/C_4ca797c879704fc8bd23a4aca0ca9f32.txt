@@ -1,0 +1,4 @@
+0: 4 that make a l
+1: Yes are one of them a larger black dot? The rest grey?
+0: Yup the others are the same color just different sizes? Choose the black?
+1: Okay!

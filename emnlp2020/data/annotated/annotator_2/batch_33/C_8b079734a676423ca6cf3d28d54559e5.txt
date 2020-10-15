@@ -1,0 +1,2 @@
+1: dark medium size dot right next to a medium larger size dot
+0: yes! click the darker smaller one!

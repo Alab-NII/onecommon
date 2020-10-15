@@ -1,0 +1,18 @@
+T1	Markable 10 30	two large black dots
+T2	Markable 146 160	the darker one
+T3	Markable 44 47	one
+T4	Markable 88 98	the darker
+T5	Spatial-Relation 31 41	horizontal
+A1	No-Obj T5
+T6	Modifier 51 59	a little
+T7	Spatial-Relation 60 66	higher
+T8	Spatial-Relation 71 83	to the right
+R1	Obj Arg1:T7 Arg2:T1	
+R2	Obj Arg1:T8 Arg2:T1	
+T9	Spatial-Relation 92 98	darker
+R3	Obj Arg1:T9 Arg2:T1	
+T10	Modifier 102 110	slightly
+T11	Spatial-Relation 111 117	bigger
+R4	Obj Arg1:T11 Arg2:T1	
+T12	Spatial-Relation 150 156	darker
+R5	Obj Arg1:T12 Arg2:T1	

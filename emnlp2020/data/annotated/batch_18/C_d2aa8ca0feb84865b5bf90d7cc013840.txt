@@ -1,0 +1,5 @@
+1: i have two large dots, one is very dark, one is medium dark.
+0: no, i do not see that
+1: my tiniest is light and near a medium color
+0: mine is too... select the tiny one?
+1: yes, ok. i hope this works!

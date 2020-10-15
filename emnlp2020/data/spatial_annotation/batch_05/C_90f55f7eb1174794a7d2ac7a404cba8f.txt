@@ -1,0 +1,6 @@
+0: the lightest one, is kinda small, with a little larger, med/grey one to it's right?
+1: do you see a large black dot with a medium grey dot almost directly above it slightly to the left?
+0: yes, if you see the light one to the left of the med/grey one
+1: yes. i think we are talking about the same medium grey dot.
+0: ok let's choose the large black one
+1: ok

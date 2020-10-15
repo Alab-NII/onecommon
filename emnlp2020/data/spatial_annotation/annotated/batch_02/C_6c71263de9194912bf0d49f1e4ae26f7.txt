@@ -1,0 +1,3 @@
+0: i see a big med light grey dot. below it to the left is a small black dot
+1: Let's choose the small black dot
+0: kk :D

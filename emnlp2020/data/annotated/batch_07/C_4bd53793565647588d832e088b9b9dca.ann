@@ -1,0 +1,16 @@
+T1	Markable 10 16	3 dots
+T2	Markable 79 93	a big dark dot
+T3	Markable 113 119	itself
+T4	Markable 208 227	the not so dark one
+T5	Markable 273 289	those small ones
+T6	Markable 260 262	it
+T7	Markable 266 269	one
+T8	Markable 294 311	your lightest one
+T10	Markable 348 356	that one
+T11	Markable 38 48	light gray
+T12	Markable 50 56	darker
+T13	Markable 58 68	way darker
+R1	Anaphora Arg1:T3 Arg2:T2	
+T14	Markable 143 150	those 3
+T15	Markable 155 183	the lighter and darkest ones
+R2	Predicative Arg1:T7 Arg2:T6	

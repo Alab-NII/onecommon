@@ -1,0 +1,5 @@
+1: I have lone big black dot in middle
+0: Does the big black dot have two smaller medium gray dots close below it?
+1: yes
+0: Ok, lets click that one
+1: ok ...sounds good

@@ -1,0 +1,19 @@
+T1	Markable 10 29	one large dark grey
+T2	Markable 149 156	the one
+T3	Markable 215 231	two smaller dots
+T4	Markable 94 117	three medium shade dots
+T5	Markable 238 251	the line of 3
+T6	Markable 121 127	a line
+T7	Markable 276 297	the larger light grey
+T8	Markable 267 271	that
+T9	Markable 336 343	the one
+T10	Markable 395 403	that one
+T11	Markable 426 435	which one
+T12	Markable 34 44	one medium
+T13	Markable 67 71	what
+A1	No-Referent T13
+R1	Predicative Arg1:T6 Arg2:T4	
+R2	Anaphora Arg1:T5 Arg2:T4	
+A2	No-Referent T8
+T14	Markable 306 319	a medium grey
+A3	Generic T11

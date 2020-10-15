@@ -1,0 +1,28 @@
+T1	Markable 39 52	a smaller dot
+T2	Markable 61 65	them
+T3	Markable 103 117	the middle dot
+T4	Markable 3 23	Two large black dots
+R1	Anaphora Arg1:T2 Arg2:T4	
+T5	Markable 76 86	the bottom
+T6	Markable 122 129	the top
+T7	Markable 193 205	Bottom black
+T8	Spatial-Relation 24 33	at bottom
+A1	No-Obj T8
+T9	Spatial-Relation 34 38	with
+T10	Spatial-Relation 41 48	smaller
+T11	Spatial-Relation 53 60	between
+T12	Spatial-Relation 80 86	bottom
+T13	Spatial-Relation 87 102	to the right of
+T14	Spatial-Relation 107 113	middle
+T15	Spatial-Relation 126 129	top
+T16	Spatial-Relation 130 142	to the right
+R2	Obj Arg1:T16 Arg2:T3	
+R3	Obj Arg1:T12 Arg2:T1	
+R4	Obj Arg1:T12 Arg2:T2	
+R5	Obj Arg1:T14 Arg2:T2	
+R6	Obj Arg1:T14 Arg2:T1	
+R7	Obj Arg1:T15 Arg2:T2	
+R8	Obj Arg1:T15 Arg2:T1	
+T17	Spatial-Relation 193 199	Bottom
+R10	Obj Arg1:T17 Arg2:T2	
+R11	Obj Arg1:T17 Arg2:T1	

@@ -1,0 +1,4 @@
+1: tiny black dot alone
+0: cluster of dots, one tiny light grey with a med small grey to the left and below them a large dark grey and a med dark grey
+1: have that choose the light grey on top
+0: ok

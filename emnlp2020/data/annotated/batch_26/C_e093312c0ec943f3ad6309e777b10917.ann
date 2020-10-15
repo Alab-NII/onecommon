@@ -1,0 +1,14 @@
+T1	Markable 36 55	a smaller black dot
+T2	Markable 62 66	them
+T3	Markable 70 76	a line
+T4	Markable 86 92	4 dots
+T5	Markable 127 137	bottom dot
+T6	Markable 162 179	another small dot
+T8	Markable 265 268	one
+T9	Markable 287 290	one
+T10	Markable 327 343	the lightest dot
+T11	Markable 10 30	two medium size doth
+#1	AnnotatorNotes T11	two medium size dots
+R1	Anaphora Arg1:T2 Arg2:T11	
+T12	Markable 112 113	3
+T13	Markable 233 257	the two medium size dots

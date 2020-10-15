@@ -1,0 +1,11 @@
+T1	Markable 52 62	the others
+T2	Markable 10 29	two small dark dots
+T3	Markable 70 74	they
+T4	Markable 172 182	each other
+T5	Markable 252 263	the top one
+T7	Markable 287 301	the bottom one
+T8	Markable 141 149	the ones
+R1	Anaphora Arg1:T4 Arg2:T8	
+T6	Markable 311 321	the center
+R2	Predicative Arg1:T6 Arg2:T7	
+T9	Markable 334 341	the top

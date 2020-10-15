@@ -1,0 +1,13 @@
+T1	Markable 49 57	the rest
+T2	Markable 17 24	one dot
+T3	Markable 89 99	each other
+T4	Markable 123 127	them
+T5	Markable 149 151	it
+T6	Markable 202 222	the right one darker
+T7	Markable 186 196	each other
+T8	Markable 237 257	your small black one
+T9	Markable 61 64	two
+R1	Anaphora Arg1:T3 Arg2:T9	
+T10	Markable 104 116	the smallest
+T11	Markable 172 177	the 2
+R2	Anaphora Arg1:T7 Arg2:T11	

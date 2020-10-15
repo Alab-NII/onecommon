@@ -1,0 +1,9 @@
+T1	Markable 46 64	all the other dots
+T3	Markable 91 105	the other dots
+T4	Markable 124 141	a medium gray dot
+T5	Markable 182 184	it
+T6	Markable 194 198	that
+T7	Markable 207 219	the gray dot
+T8	Markable 279 292	the black dot
+T9	Markable 15 26	a black dot
+R1	Anaphora Arg1:T3 Arg2:T1	

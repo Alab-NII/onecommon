@@ -1,0 +1,21 @@
+T1	Markable 10 16	2 dots
+T2	Markable 45 48	one
+T3	Markable 61 70	the other
+T4	Markable 150 157	the one
+T5	Markable 180 187	the one
+T6	Markable 138 148	each other
+T7	Markable 116 120	they
+T8	Markable 264 267	one
+T9	Markable 283 292	the other
+T10	Markable 252 262	each other
+T11	Markable 340 343	one
+T12	Markable 359 368	the other
+T13	Markable 328 338	each other
+T14	Markable 377 391	the bigger one
+T15	Markable 87 114	2 large similar size circle
+R1	Anaphora Arg1:T7 Arg2:T15	
+R2	Anaphora Arg1:T6 Arg2:T15	
+T16	Markable 231 243	2 black dots
+R3	Anaphora Arg1:T10 Arg2:T16	
+T17	Markable 303 319	the 2 black dots
+R4	Anaphora Arg1:T13 Arg2:T17	

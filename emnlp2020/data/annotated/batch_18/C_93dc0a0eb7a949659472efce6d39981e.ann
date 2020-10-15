@@ -1,0 +1,4 @@
+T1	Markable 10 17	a group
+T2	Markable 29 39	a triangle
+T3	Markable 73 90	the big black one
+R1	Predicative Arg1:T2 Arg2:T1	

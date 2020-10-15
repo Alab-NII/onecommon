@@ -1,0 +1,10 @@
+T1	Markable 75 89	the bottom one
+T2	Markable 122 133	the top one
+T3	Markable 153 160	the one
+T4	Markable 227 229	it
+T5	Markable 183 200	a large black dot
+T6	Markable 243 258	the smaller dot
+T7	Markable 3 15	2 black dots
+T8	Markable 38 45	top one
+T9	Markable 94 98	Mine
+R1	Anaphora Arg1:T4 Arg2:T3	

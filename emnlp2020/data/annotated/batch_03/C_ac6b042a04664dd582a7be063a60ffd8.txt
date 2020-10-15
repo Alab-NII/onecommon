@@ -1,0 +1,6 @@
+1: I only have one really light grey circle. It's on the left, above a darker one.
+0: I have two light grey circles
+1: I have a small black circle with a larger black circle to the right of it...
+0: Yes I do too
+1: Excellent, the large black circle is the bottom of a triangle with two other dots, a small one to the right and a larger lighter one to the left and above?
+0: Yes! Let's pick that large black circle!

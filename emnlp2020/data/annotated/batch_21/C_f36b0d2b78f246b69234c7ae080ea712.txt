@@ -1,0 +1,6 @@
+0: I have only one black medium size dot
+1: is there a larger med grey dot above it to the right?
+0: No. But i also have a small black dot
+1: is there a larger med grey dot above that one to the right?
+0: Yes, let us select the small black
+1: k!

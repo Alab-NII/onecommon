@@ -1,0 +1,4 @@
+0: I have a cluster of four small dots. Do you have that?
+1: I have one large dot that is darker than all the rest (almost black) in the 7 o'clock position
+0: I think I have that too -- and it's kind of separated from the other dots.
+1: Yes. Let's pick that one

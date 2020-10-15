@@ -1,0 +1,36 @@
+T1	Markable 91 95	them
+T2	Markable 60 70	small dots
+T3	Markable 35 54	two large dark dots
+T4	Markable 104 118	the small dots
+T5	Markable 190 207	the tiny dark one
+T6	Markable 157 174	another small dot
+T8	Markable 231 240	your dots
+T9	Markable 267 280	the dark gray
+T10	Markable 362 375	the dark gray
+T11	Markable 314 337	a single tiny light dot
+T12	Markable 391 410	the large black dot
+T13	Markable 3 24	small lonely gray dot
+R1	Anaphora Arg1:T1 Arg2:T3	
+T14	Markable 142 146	they
+T7	Markable 414 421	the one
+T15	Spatial-Relation 9 15	lonely
+A1	No-Obj T15
+T16	Spatial-Relation 55 59	with
+T17	Spatial-Relation 71 90	off to the sides of
+T18	Spatial-Attribute 119 137	light and med gray
+T19	Spatial-Relation 152 156	with
+T20	Spatial-Relation 175 189	to the left of
+T21	Spatial-Relation 208 219	on the left
+R2	Obj Arg1:T21 Arg2:T3	
+T22	Spatial-Attribute 241 260	black and dark gray
+T23	Spatial-Relation 262 266	with
+T24	Spatial-Relation 281 293	on the right
+R3	Obj Arg1:T24 Arg2:T8	
+T25	Spatial-Relation 309 313	with
+A3	Ambiguous-Subj T25
+R4	Subj Arg1:T25 Arg2:T8	
+T26	Spatial-Relation 338 361	off to the top right of
+T27	Spatial-Relation 422 433	on the left
+R5	Obj Arg1:T27 Arg2:T3	
+#1	AnnotatorNotes T17	outside
+T28	Modifier 129 132	med

@@ -1,0 +1,6 @@
+0: tiny gray dot at 11 o clock
+1: dark grey? got any neighbors?
+0: yes dark dark and yes a black one
+1: hmm. i got two black dots, both small, one in the very top of my circle, and one near the bottom. they aren't close to anything else tho
+0: lets try the black top one
+1: k!

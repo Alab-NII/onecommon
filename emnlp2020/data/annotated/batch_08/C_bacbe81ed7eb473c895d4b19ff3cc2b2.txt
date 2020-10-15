@@ -1,0 +1,5 @@
+1: dark black above three greys
+0: yep! it's to the right of a small black dot?
+1: right
+0: let's pick that large dark one
+1: alright

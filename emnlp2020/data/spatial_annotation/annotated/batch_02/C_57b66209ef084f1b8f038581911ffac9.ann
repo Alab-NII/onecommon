@@ -1,0 +1,20 @@
+T1	Markable 14 25	2 dark dots
+T2	Markable 47 57	each other
+T3	Markable 79 95	a light grey dot
+T4	Markable 152 167	a dark grey dot
+T5	Markable 201 223	a smaller, lighter dot
+T6	Markable 121 147	a slightly darker grey dot
+T7	Markable 245 260	the smaller dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T8	Modifier 26 32	almost
+T9	Spatial-Relation 33 46	vertical from
+T11	Spatial-Relation 101 120	up & to the left of
+T12	Modifier 123 131	slightly
+T13	Spatial-Relation 132 138	darker
+R2	Obj Arg1:T13 Arg2:T3	
+T14	Modifier 168 176	slightly
+T15	Spatial-Relation 177 200	down & to the left from
+T16	Spatial-Relation 203 219	smaller, lighter
+R3	Obj Arg1:T16 Arg2:T4	
+T17	Spatial-Relation 249 256	smaller
+R4	Obj Arg1:T17 Arg2:T4	

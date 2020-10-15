@@ -1,0 +1,21 @@
+T1	Markable 40 54	any other dots
+T2	Markable 9 30	a small dark gray dot
+T3	Markable 61 63	it
+T4	Markable 110 112	it
+T5	Markable 132 157	a larger, medium gray dot
+T6	Markable 169 171	it
+T7	Markable 264 280	a small gray dot
+T8	Markable 293 317	two different color dots
+T9	Markable 282 284	It
+T10	Markable 448 450	it
+T11	Markable 468 470	it
+T12	Markable 391 396	a dot
+T13	Markable 503 517	the darker one
+A1	No-Referent T1
+T14	Markable 205 224	a small grey circle
+R1	Anaphora Arg1:T9 Arg2:T7	
+T15	Markable 350 363	my center dot
+T16	Markable 422 430	that one
+R2	Anaphora Arg1:T16 Arg2:T15	
+R3	Anaphora Arg1:T10 Arg2:T15	
+R4	Anaphora Arg1:T11 Arg2:T12	

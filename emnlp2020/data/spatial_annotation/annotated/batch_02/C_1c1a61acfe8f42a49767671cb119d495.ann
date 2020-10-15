@@ -1,0 +1,28 @@
+T1	Markable 10 24	two large dots
+T2	Markable 93 100	the one
+T3	Markable 159 169	the others
+T4	Markable 130 146	two points black
+T5	Markable 186 206	two large black dots
+T6	Markable 232 245	the same dots
+T7	Markable 282 300	the upper left one
+T8	Markable 26 40	the upper left
+T9	Markable 104 107	its
+R1	Anaphora Arg1:T9 Arg2:T8	
+A1	No-Referent T5
+T10	Spatial-Relation 30 40	upper left
+T12	Modifier 46 54	slightly
+T13	Spatial-Relation 55 67	lighter gray
+T14	Modifier 72 80	slightly
+T15	Spatial-Relation 81 92	bigger than
+T16	Spatial-Relation 108 119	lower right
+R2	Subj Arg1:T16 Arg2:T2	
+R3	Obj Arg1:T16 Arg2:T9	
+T17	Spatial-Relation 147 158	bigger than
+T18	Spatial-Relation 286 296	upper left
+T19	Spatial-Relation 308 314	bigger
+R4	Obj Arg1:T18 Arg2:T2	
+R5	Obj Arg1:T19 Arg2:T2	
+T20	Spatial-Relation 319 330	darker gray
+A2	No-Obj T20
+A3	Ambiguous-Obj T20
+A4	Ambiguous-Obj T19

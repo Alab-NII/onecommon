@@ -1,0 +1,6 @@
+0: big dark grey with a smaller lighter grey to left
+1: I have a lonely large dot
+0: i have a big lonely dark grey dot with a smaller lighter grey dot off about a inch to the left and a small light grey dot to its lower slightly left>?
+1: no. what about a medium black dot that has a dark grey one to its right and a bit lower
+0: ok yes i have medium black with medium grey to the right like you say. it also has a small light grey to upper right? if yes lets click on the black
+1: ok but i dont have a medium grey near the black one

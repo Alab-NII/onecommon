@@ -1,0 +1,5 @@
+0: a cluster of 4 dots very close together?
+1: 2 small black ones and 2 larger grey ones?
+0: Yes! Are the ones all the way to the right the closest to each other?
+1: yes
+0: Yes click the large very light grey one all the way to the right

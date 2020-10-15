@@ -1,0 +1,4 @@
+1: Three small lightish greys stacked verrically...not perfect
+0: Yes. Is the dot in the middle slightly darker than the one on the bottom?
+1: Yes! Choose the middle?
+0: yes

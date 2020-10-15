@@ -1,0 +1,3 @@
+0: do you see two light gray dots one under the other one, the top one is slightly larger
+1: Yes, I have those! Lets choose the top one?
+0: ok great

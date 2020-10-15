@@ -1,0 +1,9 @@
+0: Do you have a pair of smallish dots very close? Top left is black.
+1: Lets start with the three to six o clock quadrant
+0: I have lots of dots in my 3 to 6.
+1: Do you have lightest biggest dot
+0: Yes, my lightest is also my biggest. Does yours have a smaller dots southwest reasonably far away?
+1: That does not matter. Is the biggest dot closer to 3 o clock
+0: Yes, but our views may be different so we should choose relative to other dots as opposed to the view
+1: Lest is try the lightest biggest dot closet to 3 o clock
+0: Alright.

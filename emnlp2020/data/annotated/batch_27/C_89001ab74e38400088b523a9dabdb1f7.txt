@@ -1,0 +1,4 @@
+0: very very tiny black dot?
+1: tiny black dot above medium grey
+0: yes! if the black one is slightly to the right click it!
+1: ok

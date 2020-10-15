@@ -1,0 +1,32 @@
+T1	Markable 14 25	a black dot
+T2	Markable 51 56	three
+T3	Markable 162 167	those
+T4	Spatial-Relation 57 65	in a row
+T5	Markable 104 119	the two circles
+T6	Spatial-Relation-Markable 131 136	right
+T7	Markable 168 175	the two
+T8	Markable 208 218	the middle
+T9	Markable 251 261	the center
+T10	Spatial-Attribute 34 39	large
+A1	No-Obj T4
+T11	Spatial-Relation 67 102	diagonally going down left to right
+A2	No-Obj T11
+#1	AnnotatorNotes T11	diagonal
+T12	Spatial-Relation 120 126	center
+A4	No-Subj-Markable T12
+R1	Obj Arg1:T12 Arg2:T2	
+R2	Obj Arg1:T6 Arg2:T2	
+T13	Spatial-Relation 141 148	lighter
+R3	Obj Arg1:T13 Arg2:T2	
+A3	No-Subj-Markable T13
+R4	Subj Arg1:T13 Arg2:T6	
+T14	Spatial-Relation 176 191	outside circles
+R5	Obj Arg1:T14 Arg2:T3	
+T15	Spatial-Relation 196 203	smaller
+T16	Spatial-Relation 212 218	middle
+R7	Obj Arg1:T16 Arg2:T3	
+T17	Spatial-Relation 222 228	larger
+R8	Obj Arg1:T17 Arg2:T7	
+T18	Spatial-Relation 255 261	center
+R6	Obj Arg1:T18 Arg2:T2	
+#2	AnnotatorNotes T14	outside

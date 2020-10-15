@@ -1,0 +1,3 @@
+0: i see three dots almost in a row, top dot is largest light grey, bottom is medium size dark colored
+1: yes! is the middle one a little off to the right? if so click that one!
+0: yes! pick middle dot

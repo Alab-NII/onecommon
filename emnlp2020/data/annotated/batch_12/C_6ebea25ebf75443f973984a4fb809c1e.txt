@@ -1,0 +1,4 @@
+0: Hello, do you have 3 dots that are close together where the top one is small and off to the left? They sort of make a line
+1: Yes. one most to the bottom is farthest to the left and almost black? If so click it!
+0: Is the top smaller one much further away? just want to be sure
+1: Yes! click the black one!

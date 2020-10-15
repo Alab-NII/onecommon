@@ -1,0 +1,9 @@
+T1	Markable 10 28	two dark grey dots
+T2	Markable 126 134	that one
+T3	Markable 63 66	one
+T4	Markable 88 103	everything else
+T5	Spatial-Attribute 30 42	medium sized
+T6	Spatial-Relation 70 87	farther away from
+T8	Modifier 30 36	medium
+A1	Mod-Neutral T8
+A2	Canonical-Undefined T6

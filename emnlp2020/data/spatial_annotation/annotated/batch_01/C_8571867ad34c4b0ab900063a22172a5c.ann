@@ -1,0 +1,26 @@
+T1	Markable 35 45	Bottom one
+T2	Markable 69 79	middle one
+T3	Markable 127 131	that
+T4	Markable 136 143	the one
+T5	Markable 178 182	them
+T6	Markable 3 33	Cluster of three smallish dots
+T7	Markable 208 218	the on top
+T8	Spatial-Relation 3 10	Cluster
+A1	No-Obj T8
+T9	Spatial-Relation 35 41	Bottom
+R1	Obj Arg1:T9 Arg2:T6	
+T10	Spatial-Relation 49 57	smallest
+R2	Obj Arg1:T10 Arg2:T6	
+T11	Spatial-Attribute 62 67	black
+T12	Spatial-Relation 83 91	lightest
+R3	Obj Arg1:T12 Arg2:T6	
+T13	Spatial-Relation 69 75	middle
+R4	Obj Arg1:T13 Arg2:T6	
+T14	Spatial-Relation 96 109	furthest left
+R5	Obj Arg1:T14 Arg2:T6	
+T15	Spatial-Relation 144 150	on top
+T16	Spatial-Attribute 154 158	dark
+T17	Spatial-Relation 163 177	biggest one of
+T19	Spatial-Relation 212 218	on top
+R7	Obj Arg1:T19 Arg2:T6	
+#1	AnnotatorNotes T14	left

@@ -1,0 +1,5 @@
+0: I see two large dark grey dots almost vertical with each other. do you see them?
+1: all my dots are on the left. the lowest one at 6 is med/grey and furthest from the bunch. Is there a light one of same size to the right of your two vertical dark ones?
+0: Yes
+1: let's choose the light one?
+0: Yes

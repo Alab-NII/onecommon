@@ -1,0 +1,6 @@
+T1	Markable 14 24	2 big ones
+T2	Markable 44 54	each other
+T3	Markable 87 94	top one
+T4	Markable 131 138	the one
+R1	Anaphora Arg1:T2 Arg2:T1	
+T5	Markable 69 85	medium dark grey

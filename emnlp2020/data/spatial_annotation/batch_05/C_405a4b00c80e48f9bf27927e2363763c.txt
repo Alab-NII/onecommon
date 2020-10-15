@@ -1,0 +1,9 @@
+1: i see dots shaped like the number seven laying on it's side
+0: i see a cluster of four dots that form an L on its side
+1: i think we are looking at the same thing. is the highest of all of them the lightest?
+0: yes, that would be the top of the seven correct?
+1: yes. is the middle of the three in a line black?
+0: yes
+1: ok. I'm sure now we are seeing the same. Which one would you like to choose?
+0: the first one you mentioned, the light one
+1: ok

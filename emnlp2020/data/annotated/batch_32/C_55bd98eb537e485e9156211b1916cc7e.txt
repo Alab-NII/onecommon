@@ -1,0 +1,7 @@
+0: i have one very dark large dot. just below it to the right is a much smaller and lighter dot
+1: i have a large dark dot but nothing below it as its close to the border of my circle. do you see a tiny dark grey dot with a larger light grey dot directly left from it?
+0: is the larger dot left and a bit lower?
+1: yeah just a bit lower
+0: i think we have a match.
+1: lol so we choose the tiny dot?
+0: yes please

@@ -1,0 +1,27 @@
+T1	Markable 41 64	a cluster of three dots
+T2	Markable 87 102	a diagonal line
+T4	Markable 104 111	The one
+T5	Markable 217 234	(your) middle one
+T6	Markable 182 193	the largest
+T7	Markable 164 177	my group of 2
+T8	Markable 275 279	they
+T9	Markable 311 317	7 dots
+T10	Markable 356 369	one large one
+T11	Markable 405 421	your darkest dot
+T12	Markable 521 523	it
+T13	Markable 552 563	the darkest
+T14	Markable 3 10	my dots
+A1	All-Referents T14
+T15	Markable 23 24	2
+T16	Markable 26 27	3
+T17	Markable 29 30	2
+R1	Predicative Arg1:T2 Arg2:T1	
+T3	Markable 150 154	that
+R2	Predicative Arg1:T7 Arg2:T3	
+A2	All-Referents T9
+T18	Markable 319 320	6
+T19	Markable 324 329	which
+R3	Anaphora Arg1:T19 Arg2:T9	
+T20	Markable 442 456	The darker dot
+T21	Markable 479 495	a same sized dot
+R4	Anaphora Arg1:T12 Arg2:T20	

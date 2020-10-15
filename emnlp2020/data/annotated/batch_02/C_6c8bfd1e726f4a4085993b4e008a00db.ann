@@ -1,0 +1,8 @@
+T1	Markable 34 44	one medium
+T2	Markable 3 18	group of 4 dots
+T3	Markable 65 70	three
+T4	Markable 100 103	two
+T5	Markable 72 86	one bigger one
+T6	Markable 154 168	the bigger one
+T7	Markable 108 112	each
+R1	Anaphora Arg1:T7 Arg2:T3	

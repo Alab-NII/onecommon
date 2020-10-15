@@ -1,0 +1,25 @@
+T1	Markable 65 84	a larger darker dot
+T2	Markable 147 173	the right and lowest point
+T3	Markable 177 184	the dot
+T4	Markable 49 61	the triangle
+T5	Markable 207 220	the other two
+T6	Markable 10 28	a triangle of dots
+T7	Markable 105 142	the lightest and slightly smaller dot
+T8	Markable 267 271	that
+T9	Markable 283 300	a cluster of dots
+T10	Markable 504 515	the darkest
+T11	Markable 520 539	second darkest dots
+T12	Markable 493 495	it
+T13	Markable 563 580	the top black dot
+R1	Anaphora Arg1:T4 Arg2:T6	
+T14	Markable 38 45	the top
+R2	Predicative Arg1:T1 Arg2:T14	
+T15	Markable 86 101	the left corner
+R3	Predicative Arg1:T7 Arg2:T15	
+T16	Markable 237 254	the three corners
+R4	Anaphora Arg1:T16 Arg2:T6	
+R5	Anaphora Arg1:T8 Arg2:T6	
+T17	Markable 306 323	a medium gray dot
+T18	Markable 371 375	what
+T19	Markable 405 417	the triangle
+T20	Markable 455 471	the longest side

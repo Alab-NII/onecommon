@@ -1,0 +1,5 @@
+0: three dark dots forming a line? one in the middle is smallest and almost black?
+1: 7 total dots. One is alone in the bottom left, then there are basically 3 sets of 2 aligned roughly vertically
+0: in those sets is there a medium sized almost black one below a large dark grey dot? if so click that black one
+1: No, the only black ones are on the ends. Left pair: small black above slightly lighter black. Middle: medium grey above smaller lighter grey. Right: medium dark grey above small black
+0: Yes okay click the small black one!

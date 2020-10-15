@@ -1,0 +1,21 @@
+T1	Markable 53 55	it
+T2	Markable 32 39	nothing
+T3	Markable 160 162	it
+T4	Markable 208 210	it
+T5	Markable 224 241	a small black dot
+T6	Markable 260 284	a larger medium gray dot
+T7	Markable 303 305	it
+T8	Markable 334 336	it
+T9	Markable 319 327	anything
+T10	Markable 446 465	the small black dot
+T11	Markable 9 26	a dark medium not
+#1	AnnotatorNotes T11	a dark medium dot
+R1	Anaphora Arg1:T1 Arg2:T11	
+A1	No-Referent T2
+T12	Markable 80 83	Its
+T13	Markable 115 139	a small medium shade dot
+R2	Anaphora Arg1:T3 Arg2:T12	
+A2	No-Referent T4
+T14	Markable 349 352	its
+T15	Markable 379 394	this black dont
+#2	AnnotatorNotes T15	this black dot

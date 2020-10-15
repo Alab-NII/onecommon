@@ -1,0 +1,4 @@
+0: I see two dots. They are aligned vertically. Same color. The bottom dot is small.
+1: Are they medium grey?
+0: Yes. Sorry forgot to mention that.
+1: Let's try the bottom, small dot.

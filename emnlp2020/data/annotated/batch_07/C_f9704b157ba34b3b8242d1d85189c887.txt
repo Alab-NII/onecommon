@@ -1,0 +1,3 @@
+0: I have a very large black dot, with a slightly lighter, slightly smaller one down and to the left a little bit.
+1: i have 3 large same size dots near the center making a perfect triangle... they are light gray, med gray, and black.
+0: I have that too. Let's pick the large black one.

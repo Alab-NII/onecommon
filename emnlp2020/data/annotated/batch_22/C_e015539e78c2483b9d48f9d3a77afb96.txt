@@ -1,0 +1,4 @@
+1: My smallest dot is the lightest
+0: Mine is too...Is it located between a large medium shade gray dot and another dot that is slightly smaller and lighter than the big dot but darker than the light dot?
+1: Right. Let us select the smallest lightest dot
+0: Ok

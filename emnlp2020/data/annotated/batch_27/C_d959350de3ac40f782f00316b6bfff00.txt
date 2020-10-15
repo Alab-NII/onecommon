@@ -1,0 +1,5 @@
+1: Do you have a small light gray dot all by itself?
+0: No mine is black
+1: Ok, do you have a small black dot with a medium gray to the bottom right of it and another medium gray to the bottom left of it?
+0: Yes!!
+1: OK, lets go with the small black dot in that grouping

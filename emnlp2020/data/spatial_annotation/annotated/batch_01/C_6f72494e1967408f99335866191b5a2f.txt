@@ -1,0 +1,4 @@
+1: I have one large light grey dot the rest are darker?
+0: is there a darker smaller one to the right and above it?
+1: Yes! I think that is the same! Lets chose the light one? Is that acceptable for you?
+0: sure

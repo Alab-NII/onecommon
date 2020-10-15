@@ -1,0 +1,4 @@
+0: Large black dot with a smaller dark one to its upper right, and a smaller medium gray one to its left
+1: do you have 3 of 3 different colors on the lower left, in a tight perfect triangle? otherwise toward the right/middle 3 in a wider triangle that are all diff colors, left one of that is the largest/lightest?
+0: i see the wider triangle with the left largest lightest
+1: yes cool... shall we pick the largest/lightest? i think one of the ones you described is out of my view at the top. Largest/left of triangle/lightest?

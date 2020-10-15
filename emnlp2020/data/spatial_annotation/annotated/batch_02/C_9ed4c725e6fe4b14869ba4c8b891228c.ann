@@ -1,0 +1,26 @@
+T1	Markable 3 30	medium sized light gray dot
+T2	Markable 36 48	a darker one
+T3	Markable 64 66	it
+T4	Markable 123 133	each other
+T5	Markable 171 176	those
+T6	Markable 180 184	mine
+T7	Markable 215 230	the lighter one
+R1	Anaphora Arg1:T3 Arg2:T1	
+T8	Markable 100 113	two dark ball
+R2	Anaphora Arg1:T4 Arg2:T8	
+A1	No-Referent T5
+A2	Generic T6
+T9	Spatial-Relation 31 35	with
+T10	Spatial-Relation 38 44	darker
+T11	Modifier 49 57	directly
+T12	Spatial-Relation 58 63	under
+T13	Spatial-Relation 71 83	to the right
+R3	Subj Arg1:T13 Arg2:T2	
+R4	Obj Arg1:T13 Arg2:T3	
+T14	Spatial-Relation 114 122	close to
+T15	Spatial-Relation 134 152	on upper left side
+A3	No-Obj T15
+T16	Spatial-Relation 219 226	lighter
+R5	Obj Arg1:T16 Arg2:T2	
+A4	Mod-Certainty-Exactness T11
+#1	AnnotatorNotes T14	near

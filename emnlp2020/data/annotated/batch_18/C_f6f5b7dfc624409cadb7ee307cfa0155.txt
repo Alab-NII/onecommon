@@ -1,0 +1,8 @@
+0: most of the dots are in the upper half an one large gray in the bottom left
+1: HI there! Lets talk about the largest. is it also the darkest?
+0: it is the darkest and largest on the bottom left almost touching the line
+1: ok, is there a similar size (but smaller) similar color (but lighter) to the bottom right of that dot?
+0: that's the only dot in the bottom of the circle. In the top half on the right i have a tiny dark dot
+1: is that tiny dot very near a larger lighter dot? the larger being above and to the left?
+0: yes, there is a lighter gray dot close to the tiny one and a little higher than it to the left of it
+1: ok, click the tiny guy!

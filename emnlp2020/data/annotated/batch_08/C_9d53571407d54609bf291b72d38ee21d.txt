@@ -1,0 +1,3 @@
+0: I have a very light medium sized dot with little darker ones on either side.
+1: okay I think I have that but I can not see the dot on the right side thats where my view point ends. Can we choose the small one on the left?
+0: OK!

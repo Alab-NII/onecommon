@@ -1,0 +1,14 @@
+T1	Markable 26 34	left dot
+T3	Markable 61 74	the right dot
+T4	Markable 91 117	left darker and bigger dot
+T5	Markable 3 9	2 dots
+T2	Spatial-Relation 10 24	close together
+A1	No-Obj T2
+T6	Spatial-Relation 26 30	left
+T7	Spatial-Relation 38 60	darker and bigger than
+T8	Spatial-Relation 65 70	right
+R1	Obj Arg1:T8 Arg2:T1	
+T9	Spatial-Relation 91 95	left
+T10	Spatial-Relation 96 113	darker and bigger
+R2	Obj Arg1:T9 Arg2:T5	
+R3	Obj Arg1:T10 Arg2:T5	

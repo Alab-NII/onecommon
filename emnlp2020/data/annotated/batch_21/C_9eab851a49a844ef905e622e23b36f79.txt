@@ -1,0 +1,4 @@
+1: medium and larger dark grey right next to each other?
+0: o see two dots that are beside each other. dark in color. right one is larger
+1: select the one on the right?
+0: ok

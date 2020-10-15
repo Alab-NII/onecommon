@@ -1,0 +1,5 @@
+0: I see, two dark spots next to each other
+1: I see just one dark, but i see a medium gray, large one that is far away from the rest of the dots, do you see it?
+0: yes i see that one, below it is a slightly darker spot
+1: correct! let's select the lonely one, ok?
+0: ok

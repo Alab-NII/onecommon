@@ -1,0 +1,5 @@
+0: I have one tiny light grey dot.
+1: i see one tiny gray dot next to a medium dark grey one and a large one
+0: Mine is a little by itself forming a triangle with a dark larger dot and a medium light colored dot
+1: i see the same thing. choose the tiny light gray one?
+0: ok

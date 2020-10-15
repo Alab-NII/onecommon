@@ -1,0 +1,24 @@
+T2	Markable 15 40	a diagonal line of 3 dots
+T3	Markable 50 58	The line
+T4	Markable 87 91	They
+T6	Markable 194 209	the largest one
+T1	Markable 113 120	The one
+T5	Spatial-Relation 17 30	diagonal line
+A1	No-Obj T5
+T7	Spatial-Relation 54 58	line
+A2	No-Obj T7
+T8	Spatial-Relation 59 85	slants upward to the right
+A3	No-Obj T8
+#1	AnnotatorNotes T8	diagonal
+T10	Spatial-Attribute 100 111	medium gray
+T11	Spatial-Relation 121 141	farthest to the left
+T13	Spatial-Relation 142 155	on the bottom
+T14	Spatial-Relation 163 170	largest
+R1	Obj Arg1:T11 Arg2:T4	
+R2	Obj Arg1:T13 Arg2:T4	
+R3	Obj Arg1:T14 Arg2:T4	
+T15	Spatial-Relation 198 205	largest
+T16	Spatial-Relation 210 221	to the left
+R4	Obj Arg1:T15 Arg2:T2	
+R5	Obj Arg1:T16 Arg2:T2	
+T9	Modifier 100 106	medium

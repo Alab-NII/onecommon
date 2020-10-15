@@ -1,0 +1,8 @@
+1: Do you see a big black dot close to a medium gray dot?
+0: I have no dark black dots, big or small. I do have many medium gray dots. I am thinking of doing a small med-gray dot next to another slightly larger med-gray dot.
+1: I have a medium gray dot a little northwest from a small gray dot. Do you see those two?
+0: I do have that one as well. it reminds me of an upside down little dipper constellation. Do you want to choose the medium sized one or the smaller one at the very edge of the constellation "handle"
+1: See how there are two shades of gray? In mine the smaller one is a bit darker than the larger one.
+0: Mine is slightly darker. Only slightly.
+1: Think we should pick the smaller one?
+0: Let

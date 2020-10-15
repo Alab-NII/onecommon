@@ -1,0 +1,6 @@
+1: Large black dot and dark gray dot same size near the line
+0: is the black dot at 10 o clock from the dark gray dot?
+1: No Mines are 2 or 3 oclock.
+0: Dont see it. I have 2 small light gray dots close to each other and almost vertical
+1: yes! Bottom one is dark just a little
+0: Yes! pick the bottom one

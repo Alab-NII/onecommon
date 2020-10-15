@@ -1,0 +1,4 @@
+0: I have a large dot of every shade
+1: do you have four dots in a cluster two medium one big one small almost same dark shade
+0: Yes, should we pick the biggest one?
+1: okay let us pick the biggest

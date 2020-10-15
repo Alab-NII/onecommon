@@ -1,0 +1,30 @@
+T1	Markable 12 42	a really small really dark dot
+T2	Markable 73 76	its
+T3	Markable 87 89	it
+T4	Markable 44 59	the closest dot
+T5	Markable 63 65	it
+T6	Markable 186 192	itself
+T7	Markable 241 247	itself
+T8	Markable 207 237	any very small very light dots
+T9	Markable 327 351	that small dark grey dot
+R1	Anaphora Arg1:T5 Arg2:T1	
+R2	Anaphora Arg1:T2 Arg2:T5	
+R3	Anaphora Arg1:T3 Arg2:T4	
+T11	Markable 138 170	a very small very light grey dot
+R5	Anaphora Arg1:T6 Arg2:T11	
+A1	No-Referent T8
+R6	Anaphora Arg1:T7 Arg2:T8	
+A2	No-Referent T7
+T12	Markable 258 262	what
+T13	Spatial-Relation 48 55	closest
+T14	Spatial-Relation 77 81	left
+T10	Modifier 91 97	really
+T15	Spatial-Attribute 98 108	light grey
+T16	Modifier 113 121	a little
+T17	Spatial-Relation 122 128	larger
+T18	Modifier 171 178	kind of
+T19	Spatial-Relation 179 185	off by
+T20	Spatial-Relation 238 240	by
+R4	Subj Arg1:T14 Arg2:T4	
+R7	Obj Arg1:T14 Arg2:T1	
+R8	Obj Arg1:T17 Arg2:T1	

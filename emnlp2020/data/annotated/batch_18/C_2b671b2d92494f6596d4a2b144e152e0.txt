@@ -1,0 +1,6 @@
+1: I have a line of 3 dots from to to bottom. various colors. to the right of this is a line of smaller dots
+0: I don't think I have that. I have a large black dot with a smaller light dot above and to the left of it. They are close together
+1: i don't have that... ok I have a small light dot down on the right kinda by its self
+0: Is there another small dark (almost black) dot to the left and slightly above your small light dot?
+1: nmm no! i do have a large black dot tho... to the right and smaller is a smaller black dot. further right and down is a light gray small dot and further to the right and down is a med gray dot bigger than than the last 2 smaller dots
+0: Let's pick the larger dark dot

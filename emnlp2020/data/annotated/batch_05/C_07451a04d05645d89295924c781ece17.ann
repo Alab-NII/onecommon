@@ -1,0 +1,11 @@
+T1	Markable 29 59	a slightly larger, lighter dot
+T2	Markable 10 23	a darkish dot
+T3	Markable 100 113	the first dot
+T4	Markable 117 136	a smaller light dot
+T5	Markable 156 164	that one
+T6	Markable 192 207	the lighter dot
+T8	Markable 171 186	the darkish dot
+T9	Markable 277 291	the darker dot
+A1	No-Referent T5
+T10	Markable 212 228	that lighter dot
+R1	Anaphora Arg1:T10 Arg2:T6	

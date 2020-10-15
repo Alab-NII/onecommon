@@ -1,0 +1,14 @@
+T1	Markable 9 28	2 lone grayish dots
+T3	Markable 83 110	a cluster of dark grey dots
+T4	Markable 164 185	a very small triangle
+T5	Markable 143 153	three dots
+T6	Markable 187 190	Two
+T7	Markable 210 219	the other
+T8	Markable 320 332	the triangle
+T9	Markable 430 451	the smallest and dark
+T10	Markable 459 467	that one
+R1	Predicative Arg1:T4 Arg2:T5	
+T2	Markable 252 261	all three
+R2	Anaphora Arg1:T2 Arg2:T5	
+T11	Markable 266 284	the small triangle
+T12	Markable 300 316	the bottom right

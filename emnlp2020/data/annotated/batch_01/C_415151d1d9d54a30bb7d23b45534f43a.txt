@@ -1,0 +1,4 @@
+0: Hi. I have a very light circle towards the bottom right. It is medium in size.
+1: Hi. Do you have a medium/small black dot?
+0: I have a very small black dot in the middle by the right side
+1: I do, too!

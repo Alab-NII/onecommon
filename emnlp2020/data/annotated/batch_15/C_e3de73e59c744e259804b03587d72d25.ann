@@ -1,0 +1,11 @@
+T1	Markable 56 77	a largest darkest dot
+T2	Markable 183 198	the large black
+T3	Markable 222 224	it
+T4	Markable 267 281	tiny black dot
+T5	Markable 293 313	two medium dark dots
+T6	Markable 320 322	it
+T7	Markable 364 366	it
+T8	Markable 3 22	one large black dot
+T9	Markable 139 169	medium gray medium size object
+T10	Markable 370 384	tiny black one
+R1	Cataphora Arg1:T7 Arg2:T10	

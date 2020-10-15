@@ -1,0 +1,6 @@
+1: I have one dot darker than the rest
+0: do you have two black ones? the left is higher and tiny, the right is large
+1: Yes I have those
+0: are there two med/ grey about same size in a horizontal line above them?
+1: Yes there are
+0: ok let's pick the tiny black one

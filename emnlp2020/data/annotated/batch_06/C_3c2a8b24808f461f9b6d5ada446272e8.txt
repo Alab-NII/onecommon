@@ -1,0 +1,6 @@
+1: two large dots. Top one is lighter and slightly to the right
+0: i have no large light dots. I have the darkest/ med-large size that's at about 5 o'clock
+1: Do you have any that are very close together?
+0: i have 3 small ones, in an almost-vertical line. top and bottom are same light/med grey color, bottom is a little larger, middle is even a little smaller than top one, but is also a little darker than both
+1: K I think I know what you mean. Want to pick the middle smaller one?
+0: sounds good

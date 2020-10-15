@@ -1,0 +1,3 @@
+1: my highest dot is light with a larger one of the same color down to the left
+0: yes! if they're almost exactly the same shade click the larger one!
+1: ok

@@ -1,0 +1,7 @@
+T1	Markable 15 34	the smallest of all
+T2	Markable 52 68	a small grey dot
+T4	Markable 146 154	that one
+T5	Markable 111 115	that
+T7	Markable 187 198	some others
+T8	Markable 164 166	it
+R1	Anaphora Arg1:T4 Arg2:T5	

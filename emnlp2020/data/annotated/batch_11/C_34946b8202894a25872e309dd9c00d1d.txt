@@ -1,0 +1,4 @@
+1: do you have a small dot, above and to the right of it is a large black dot?
+0: I have one very large, very dark black dot. Below it is a tiny, very light dot. They are almost vertical, but the little dot is a little to the left. Do you see that?
+1: yes, same one, choose the big black one?
+0: Ok

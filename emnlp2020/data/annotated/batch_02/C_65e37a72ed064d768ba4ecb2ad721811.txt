@@ -1,0 +1,7 @@
+0: do you have a light small one off on it's own?
+1: no, i have a black large one near two others
+0: ok so in the center-ish. do you have a small black one, with a light smaller one below it?
+1: i have something similar to my side, above that black one to the right is a grey one a little larger?
+0: yes. and further to the right of the lighter small one is slightly lower is a larger med/dark?
+1: yeah, lets pick that dark one
+0: ok the dark one i first mentioned? above the light/small one?

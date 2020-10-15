@@ -1,0 +1,6 @@
+0: diagonal light of 3 going down and to the left
+1: DO you have 3 pale dots in a diagonal line?
+0: yup bottom is is a little darker?
+1: and middle dot is slightly smaller?
+0: yes
+1: want to pick the middle one?

@@ -1,0 +1,4 @@
+0: Hi. Have you got a large light gray dot right above a larger black dot?
+1: I see a large black dot under an almost as big light grey dot
+0: Great minds pick dots alike!
+1: Lets click the black one

@@ -1,0 +1,10 @@
+T1	Markable 10 21	a black dot
+T2	Markable 52 54	it
+T3	Markable 70 72	it
+T4	Markable 104 121	the dark gray dot
+T5	Markable 151 164	the black dot
+T6	Markable 27 42	a dark grey dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T3 Arg2:T1	
+T7	None 86 88	yo
+#1	AnnotatorNotes T7	to

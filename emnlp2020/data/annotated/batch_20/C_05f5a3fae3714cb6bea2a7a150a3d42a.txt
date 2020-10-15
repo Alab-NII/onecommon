@@ -1,0 +1,4 @@
+1: I see three dark dots that form a triangle, bottom is the middle of triangle and slightly larger
+0: I have 3 dark gray dots spaced equally to form a triangle, 2 smaller on top
+1: Haha nice one! lets go for middle/larger one
+0: ok

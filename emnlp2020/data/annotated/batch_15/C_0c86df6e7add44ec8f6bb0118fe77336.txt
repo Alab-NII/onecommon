@@ -1,0 +1,5 @@
+1: Do you see a large, dark dot with a slightly smaller one of the same color in the 3 o'clock position near it?
+0: Yeah, it makes like an L shape (sort of) at the top of the circle?
+1: sort of. Kind of like the big dipper with a larger dot at the end of the handle
+0: Yeah
+1: let's choose the large, dark dot

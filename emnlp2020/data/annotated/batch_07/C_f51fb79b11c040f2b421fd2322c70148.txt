@@ -1,0 +1,5 @@
+0: Hello which dot would you like to try for?
+1: Do you have two dots that are almost vertical to one another? The one on top is darker and larger and a little tiny bit to the left
+0: yes i see it
+1: Lets click the darker one on top
+0: ok

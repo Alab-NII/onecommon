@@ -1,0 +1,3 @@
+0: Two very dark dots that are almost exactly the same size?
+1: Yes. Is the one more towards the bottom near a slightly smaller slightly lighter dot above it?
+0: Yes! click that lighter smaller dot

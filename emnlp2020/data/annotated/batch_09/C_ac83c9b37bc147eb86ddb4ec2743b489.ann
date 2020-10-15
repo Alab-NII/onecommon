@@ -1,0 +1,6 @@
+T1	Markable 26 34	the rest
+T2	Markable 10 20	one darker
+T4	Markable 106 110	that
+T5	Markable 129 137	that one
+T6	Markable 42 57	My smallest dot
+R1	Anaphora Arg1:T4 Arg2:T6	

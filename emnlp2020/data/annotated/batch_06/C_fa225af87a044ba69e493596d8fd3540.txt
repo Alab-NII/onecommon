@@ -1,0 +1,9 @@
+0: do you have any small dots?
+1: i have a small dark dot and a small light dot, the light one is near the edge
+0: i also have a small light dot and and a small black dot. the black dot is to the left and lower than the light one.
+1: my dark dot is my lowest dot but it's to the right of the light one
+0: i'm sorry i made a mistake. the black dot is lower and to the right of the light one.
+1: and no dots are near it?
+0: yes
+1: let's pick that one, the dark dot
+0: ok

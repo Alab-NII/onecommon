@@ -1,0 +1,5 @@
+1: Do you have a large medium shade grey dot with two dots above it both smaller but the smallest is up and slightly to the left?
+0: hmm the smaller is up to the right in mine
+1: Sorry that is what I meant!
+0: k click that smallest on top!
+1: Okay!

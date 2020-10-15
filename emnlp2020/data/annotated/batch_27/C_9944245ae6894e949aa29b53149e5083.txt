@@ -1,0 +1,8 @@
+1: do you have a med/large black dot , above it directly about an inch is a med/grey same size?
+0: is there a smaller black dot to the right of the grey?
+1: i have a black dot far to the right in between them both
+0: i dont have that, is there a smaller grey below the large black?
+1: yeah there's a dark grey to the left under the black, and a really small slightly lighter grey to the right of that slightly lower... about an inch to the lower right of the black one
+0: ok i think you're talking about another group i have thats right on my line. it makes up a triangle that is large black on top with grey to the bottom left and small grey to the bottom right.
+1: ok let's pick the smaller grey on the bottom right of that triangle
+0: sounds good

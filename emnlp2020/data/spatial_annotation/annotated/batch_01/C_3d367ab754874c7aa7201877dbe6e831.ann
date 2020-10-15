@@ -1,0 +1,42 @@
+T1	Markable 21 32	a black dot
+T2	Markable 60 70	each other
+T3	Markable 75 96	cluster of light ones
+T4	Markable 134 137	two
+T5	Markable 227 237	each other
+T6	Markable 195 199	they
+T7	Markable 260 284	the lower left black dot
+T8	Markable 37 51	light grey dot
+T9	Markable 152 161	top right
+T10	Markable 172 182	lower left
+R1	Anaphora Arg1:T5 Arg2:T6	
+T11	Spatial-Relation 52 59	next to
+R2	Subj Arg1:T11 Arg2:T1	
+R3	Subj Arg1:T11 Arg2:T8	
+T12	Spatial-Relation 75 82	cluster
+A1	No-Obj T12
+T13	Spatial-Relation 97 116	toward my top right
+A2	No-Obj T13
+T14	Spatial-Relation 118 126	down low
+A3	No-Obj T14
+R4	Subj Arg1:T14 Arg2:T4	
+T15	Spatial-Relation 138 150	of same size
+A4	No-Obj T15
+T16	Spatial-Relation 152 155	top
+R5	Obj Arg1:T16 Arg2:T4	
+T17	Spatial-Relation 156 161	right
+R6	Obj Arg1:T17 Arg2:T4	
+T18	Spatial-Attribute 165 170	light
+T19	Spatial-Relation 172 177	lower
+T20	Spatial-Relation 178 182	left
+R7	Obj Arg1:T19 Arg2:T4	
+R8	Obj Arg1:T20 Arg2:T4	
+T21	Spatial-Attribute 186 191	black
+T22	Modifier 204 209	kinda
+T23	Spatial-Attribute 210 215	small
+T25	Spatial-Relation 216 226	right near
+T26	Spatial-Relation 264 269	lower
+T27	Spatial-Relation 270 274	left
+A5	Mod-Uncertainty-Approximation T22
+R11	Obj Arg1:T26 Arg2:T4	
+R12	Obj Arg1:T27 Arg2:T4	
+#1	AnnotatorNotes T25	near

@@ -1,0 +1,14 @@
+T1	Markable 10 30	two small black dots
+T2	Markable 34 49	a diagonal line
+T3	Markable 76 94	light colored dots
+T4	Markable 103 107	they
+T5	Markable 189 193	them
+T6	Markable 209 223	a wide diamond
+T7	Markable 258 266	the rest
+T8	Markable 230 241	the top dot
+T9	Markable 296 309	the light one
+T10	Markable 321 334	the light one
+R1	Predicative Arg1:T2 Arg2:T1	
+T12	Markable 131 135	some
+T11	Markable 147 152	A few
+R2	Anaphora Arg1:T5 Arg2:T11	

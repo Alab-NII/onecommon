@@ -1,0 +1,6 @@
+0: I have 3 dots making a triangle, the one on the bottom right is the biggest and the darkest
+1: I don't have that, I have a large black dot at the top right of the circle do you have that?
+0: does it have a small light dot under it? and 2 inches away?
+1: Yes and slightly to the right?
+0: yes exactly, wanna select the large black dot?
+1: Yes that sounds good to ME!

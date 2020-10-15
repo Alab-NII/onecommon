@@ -1,0 +1,4 @@
+1: Hello, I have a dark dot the size of a pencil eraser, next to a medium gray dot
+0: I have that too. is medium grey dot slightly below?
+1: Yes it is
+0: Let's try the darker one

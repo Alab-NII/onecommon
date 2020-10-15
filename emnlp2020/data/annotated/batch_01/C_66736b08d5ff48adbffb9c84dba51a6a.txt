@@ -1,0 +1,3 @@
+0: Do you see a group of dots on the left side
+1: med/large light one, with a small light one to it's right, then a slightly larger small one that's really dark to it's right, then Larger dark one to it's right
+0: Yes click the smaller darker dot

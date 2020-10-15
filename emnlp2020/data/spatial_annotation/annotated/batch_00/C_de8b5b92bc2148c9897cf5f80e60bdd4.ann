@@ -1,0 +1,41 @@
+T1	Markable 9 20	a line of 4
+T2	Markable 55 59	that
+T3	Markable 68 94	one medium sized black dot
+T4	Markable 128 151	a smaller dark gray dot
+T5	Markable 190 192	it
+T6	Markable 264 273	Right dot
+T7	Markable 340 344	that
+T8	Markable 357 371	the darker one
+T9	Spatial-Relation-Markable 23 26	top
+A1	No-Referent T2
+R1	Anaphora Arg1:T5 Arg2:T3	
+T10	Markable 217 230	two small dot
+R2	Obj Arg1:T9 Arg2:T1	
+T11	Spatial-Relation 30 37	darkest
+R3	Obj Arg1:T11 Arg2:T1	
+T12	Spatial-Relation 123 127	with
+T13	Spatial-Relation 152 161	far above
+T15	Modifier 166 174	slightly
+T16	Spatial-Relation 175 189	to the left of
+T17	Spatial-Relation 231 244	the same size
+A2	No-Obj T17
+T18	Modifier 245 251	almost
+T19	Spatial-Relation 252 262	horizontal
+A3	No-Obj T19
+T20	Spatial-Relation 264 269	Right
+R5	Obj Arg1:T20 Arg2:T10	
+T21	Modifier 277 285	slightly
+T22	Spatial-Relation 286 288	up
+T23	Spatial-Relation 293 305	to the right
+T24	Spatial-Relation 310 316	darker
+R6	Obj Arg1:T22 Arg2:T10	
+R7	Obj Arg1:T23 Arg2:T10	
+R8	Obj Arg1:T24 Arg2:T10	
+T25	Spatial-Relation 361 367	darker
+T26	Spatial-Relation 372 384	on the right
+T27	Spatial-Attribute 96 121	the only black one i have
+T28	Spatial-Relation 130 137	smaller
+T29	Spatial-Relation 11 15	line
+A4	No-Obj T29
+R4	Obj Arg1:T25 Arg2:T10	
+R11	Obj Arg1:T26 Arg2:T10	

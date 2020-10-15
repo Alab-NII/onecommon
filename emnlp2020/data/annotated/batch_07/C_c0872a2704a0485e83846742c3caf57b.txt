@@ -1,0 +1,6 @@
+1: You want to choose the lightest dot that we have? everything else is sorta dark and this light dot is small and super light
+0: Large dark gray to close to 6:00
+1: I don't have anything close to a 6:00 position
+0: Yes, I do have a light gray dot toward bottom right and everything else is darker
+1: Yes lets choose that
+0: Okay, thank you

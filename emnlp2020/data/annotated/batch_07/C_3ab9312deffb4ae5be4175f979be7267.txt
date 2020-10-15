@@ -1,0 +1,8 @@
+0: I have 5 dots 4 making a trapezius, the one in the center is the largest and light
+1: i see two black dots. the one on the right is smaller and slightly lower than the one on the left
+0: yes i see those 2 dots
+1: the one on the left has a large light grey dot above it. do you see that?
+0: yes i see the large light gray too
+1: do you see any others around that?
+0: yes, wanna select the smallest darkest one on very bottom?
+1: ok

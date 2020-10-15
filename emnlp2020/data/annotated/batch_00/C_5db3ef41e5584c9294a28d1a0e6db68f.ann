@@ -1,0 +1,13 @@
+T1	Markable 68 72	they
+T2	Markable 47 49	it
+T4	Markable 159 161	it
+T6	Markable 193 196	one
+T7	Markable 203 205	it
+T8	Markable 291 309	the smaller darker
+T9	Markable 313 320	the two
+T10	Markable 3 19	largest med-grey
+A1	No-Referent T2
+A2	Generic T1
+T11	Markable 103 126	small light grey bottom
+T12	Markable 137 140	one
+R1	Anaphora Arg1:T4 Arg2:T12	

@@ -1,0 +1,6 @@
+T1	Markable 61 80	an almost black dot
+T2	Markable 103 116	the light one
+T3	Markable 130 147	my light grey dot
+T4	Markable 3 37	very very light grey med sized dot
+T5	Markable 87 90	its
+R1	Anaphora Arg1:T2 Arg2:T5	

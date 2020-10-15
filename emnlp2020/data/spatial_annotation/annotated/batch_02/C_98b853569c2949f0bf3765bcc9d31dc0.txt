@@ -1,0 +1,5 @@
+0: Do you see a medium dark Dot and just above it and to the right is a large light dot
+1: No. Do you see a light grey med dot with a small dark grey dot above it to the left?
+0: No. Do you see three dots vertical from each other, that are quite a distance from each other but lowest one is black and top one is largest of the three
+1: Yes! If the largest is med in shade out of the 3 click that largest!
+0: Yep

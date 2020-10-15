@@ -1,0 +1,2 @@
+1: 3 dots very close together forming a triangle?
+0: Yes. Pick the small one on top that is dark gray

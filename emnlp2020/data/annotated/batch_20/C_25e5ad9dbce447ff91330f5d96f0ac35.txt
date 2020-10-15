@@ -1,0 +1,3 @@
+0: Tiny dark dot, right of it and slightly higher a grey dot medium size
+1: yes
+0: Take tiny dot

@@ -1,0 +1,14 @@
+T1	Markable 15 34	one dark medium dot
+T2	Markable 101 108	the one
+T3	Markable 166 173	the one
+T4	Markable 65 80	two darker dots
+T5	Markable 89 99	each other
+T6	Markable 202 214	a small grey
+T7	Markable 297 305	the rest
+T8	Markable 261 275	one medium dot
+T9	Markable 329 341	a darker dot
+T10	Markable 313 315	it
+T11	Markable 319 323	line
+T12	Markable 428 436	the rest
+R1	Anaphora Arg1:T5 Arg2:T4	
+T13	Markable 399 414	this medium dot

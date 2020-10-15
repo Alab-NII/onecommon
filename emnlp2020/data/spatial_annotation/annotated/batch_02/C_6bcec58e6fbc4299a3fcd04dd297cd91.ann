@@ -1,0 +1,23 @@
+T1	Markable 9 33	a lonely darker grey dot
+T2	Markable 65 85	a tiny dark gray one
+T3	Markable 100 122	a very large black dot
+T4	Markable 155 157	it
+T5	Markable 180 198	one tiny black dot
+T6	Markable 257 275	the tiny black one
+R1	Anaphora Arg1:T4 Arg2:T2	
+T7	Markable 204 219	two other greys
+T8	Spatial-Relation 11 17	lonely
+A1	No-Obj T8
+T9	Spatial-Relation 18 29	darker grey
+A2	No-Obj T9
+T10	Modifier 42 47	quite
+T11	Spatial-Attribute 48 53	small
+T12	Spatial-Relation 123 125	up
+T13	Modifier 126 134	a little
+R2	Mod Arg1:T13 Arg2:T12	
+T14	Spatial-Relation 139 154	to the right of
+T15	Spatial-Relation 199 203	with
+T16	Spatial-Relation 220 236	to the Southeast
+R3	Obj Arg1:T16 Arg2:T5	
+#1	AnnotatorNotes T16	south;east
+A3	Mod-Extremity T10

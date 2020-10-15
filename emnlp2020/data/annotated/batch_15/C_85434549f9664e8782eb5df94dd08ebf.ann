@@ -1,0 +1,9 @@
+T1	Markable 14 34	a couple of big dots
+T3	Markable 49 59	each other
+T4	Markable 78 94	a small grey dot
+T5	Markable 155 179	a triangle of three dots
+T7	Markable 137 139	it
+T8	Markable 216 224	that dot
+R1	Anaphora Arg1:T3 Arg2:T1	
+T2	Markable 192 195	him
+R2	Anaphora Arg1:T2 Arg2:T7	

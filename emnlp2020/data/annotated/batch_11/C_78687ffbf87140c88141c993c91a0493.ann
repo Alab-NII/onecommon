@@ -1,0 +1,22 @@
+T1	Markable 50 62	2 large dots
+T2	Markable 77 87	each other
+T3	Markable 89 101	the left one
+T4	Markable 141 145	that
+T5	Markable 226 235	those two
+T6	Markable 193 201	anything
+T7	Markable 318 324	3 dots
+T8	Markable 335 345	a triangle
+T9	Markable 247 260	a smaller one
+T10	Markable 310 312	it
+T11	Markable 369 371	it
+T12	Markable 474 479	the 2
+T13	Markable 388 396	anything
+T15	Markable 504 509	those
+T16	Markable 543 557	the darker one
+T17	Markable 592 603	the the two
+T18	Markable 15 23	any dots
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Predicative Arg1:T8 Arg2:T7	
+A1	No-Referent T13
+R3	Anaphora Arg1:T15 Arg2:T12	
+T14	Markable 574 588	the darker one

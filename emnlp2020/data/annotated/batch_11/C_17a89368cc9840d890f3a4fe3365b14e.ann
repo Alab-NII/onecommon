@@ -1,0 +1,14 @@
+T1	Markable 14 30	a black tiny dot
+T2	Markable 42 58	a light gray dot
+T3	Markable 81 98	a larger gray dot
+T4	Markable 144 157	that gray dot
+T5	Markable 112 129	A small black dot
+T6	Markable 229 241	the dark dot
+T7	Markable 281 292	a light dot
+T8	Markable 354 364	a gray dot
+T9	Markable 454 482	a small slightly lighter dot
+T10	Markable 440 442	it
+T11	Markable 498 509	a small dot
+T12	Markable 585 587	it
+T13	Markable 408 438	largest sized medium shade dot
+R1	Anaphora Arg1:T10 Arg2:T13	

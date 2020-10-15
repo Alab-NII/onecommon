@@ -1,0 +1,93 @@
+T1	Markable 10 16	3 dots
+T2	Markable 64 71	the dot
+T3	Markable 120 143	a cluster/line of three
+T4	Markable 160 167	the one
+T5	Markable 193 197	next
+T6	Markable 214 217	its
+R1	Anaphora Arg1:T6 Arg2:T4	
+T7	Markable 288 322	the smallest and medium light grey
+T8	Markable 332 345	the first two
+T9	Markable 391 407	the lightest one
+T10	Markable 468 480	the triangle
+T11	Markable 501 505	they
+R2	Anaphora Arg1:T11 Arg2:T10	
+T12	Markable 568 590	a very small black dot
+T13	Markable 621 625	that
+T14	Markable 629 645	a light grey dot
+T15	Markable 667 692	the light grey/ lower dot
+T16	Markable 706 734	a same-size but med/grey one
+T17	Markable 741 743	it
+T18	Markable 747 750	its
+R3	Anaphora Arg1:T17 Arg2:T15	
+R4	Anaphora Arg1:T18 Arg2:T15	
+R5	Anaphora Arg1:T13 Arg2:T12	
+T19	Markable 776 795	that light grey one
+T20	Spatial-Relation 17 34	of the same color
+A1	No-Obj T20
+T21	Spatial-Relation 44 62	forming a triangle
+A2	No-Obj T21
+T22	Spatial-Relation 72 93	furthest to the right
+R6	Obj Arg1:T22 Arg2:T1	
+T23	Spatial-Relation 97 104	smaller
+R7	Obj Arg1:T23 Arg2:T1	
+T24	Spatial-Relation 122 134	cluster/line
+A3	No-Obj T24
+T26	Spatial-Relation 144 158	toward the top
+A5	No-Obj T26
+T27	Spatial-Relation 168 179	on the left
+R8	Obj Arg1:T27 Arg2:T3	
+T28	Spatial-Relation 183 191	lightest
+R9	Obj Arg1:T28 Arg2:T3	
+T29	Spatial-Relation 201 210	same size
+T30	Spatial-Relation 218 223	right
+R10	Subj Arg1:T30 Arg2:T5	
+R11	Obj Arg1:T30 Arg2:T6	
+T31	Modifier 224 232	slightly
+T32	Spatial-Relation 233 238	above
+R12	Subj Arg1:T32 Arg2:T5	
+R13	Obj Arg1:T32 Arg2:T6	
+T33	Modifier 245 253	a little
+T34	Spatial-Relation 254 261	further
+T35	Spatial-Relation 266 271	lower
+T36	Spatial-Relation 272 284	to the right
+R14	Subj Arg1:T34 Arg2:T7	
+R15	Subj Arg1:T35 Arg2:T7	
+R16	Subj Arg1:T36 Arg2:T7	
+R17	Obj Arg1:T34 Arg2:T5	
+R18	Obj Arg1:T34 Arg2:T4	
+R19	Obj Arg1:T35 Arg2:T3	
+R20	Obj Arg1:T36 Arg2:T3	
+T37	Spatial-Relation 292 300	smallest
+R21	Obj Arg1:T37 Arg2:T3	
+T38	Spatial-Relation 395 403	lightest
+T39	Spatial-Relation 408 420	one the left
+#1	AnnotatorNotes T39	on the left
+R22	Obj Arg1:T39 Arg2:T8	
+T40	Spatial-Relation 472 480	triangle
+A6	No-Obj T40
+T41	Spatial-Attribute 506 510	dark
+T42	Spatial-Relation 512 531	the same color ones
+A7	No-Obj T42
+T43	Spatial-Relation 537 554	on the lower left
+A8	No-Obj T43
+T44	Modifier 591 596	about
+T46	Spatial-Relation 597 620	an inch to the right of
+T47	Modifier 646 654	slightly
+T48	Spatial-Relation 655 660	lower
+R23	Subj Arg1:T46 Arg2:T14	
+R24	Obj Arg1:T46 Arg2:T13	
+R25	Obj Arg1:T48 Arg2:T13	
+T49	Spatial-Relation 693 699	larger
+R26	Obj Arg1:T49 Arg2:T12	
+T50	Spatial-Relation 708 717	same-size
+T51	Spatial-Relation 701 705	with
+T52	Spatial-Relation 735 740	above
+T53	Spatial-Relation 751 756	right
+R27	Subj Arg1:T53 Arg2:T16	
+R28	Obj Arg1:T53 Arg2:T18	
+#2	AnnotatorNotes T24	cluster;line
+A4	Mod-Subtlty T33
+R29	Obj Arg1:T38 Arg2:T8	
+A9	Mod-Uncertainty-Approximation T44
+A10	Canonical-Undefined T34
+#3	AnnotatorNotes T50	same size

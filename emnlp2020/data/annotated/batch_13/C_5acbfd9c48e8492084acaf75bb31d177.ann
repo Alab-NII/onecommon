@@ -1,0 +1,6 @@
+T2	Markable 14 31	a cluster of dots
+T4	Markable 186 211	a medium grey smaller one
+T5	Markable 171 177	itself
+T6	Markable 143 160	a large black dot
+T7	Markable 269 282	the black dot
+R1	Anaphora Arg1:T5 Arg2:T6	

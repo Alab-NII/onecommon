@@ -1,0 +1,5 @@
+0: I large grey dot alone ?
+1: My lightest dot is medium size
+0: i have a cluster of 5 dots the lowest is the lightest of the group and to the left
+1: I have it too. let us select the lowest
+0: ok

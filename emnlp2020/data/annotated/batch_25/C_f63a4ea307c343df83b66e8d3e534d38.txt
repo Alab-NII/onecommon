@@ -1,0 +1,5 @@
+0: i have three of the same colored dots and size on the right side
+1: kind of in a row? two closer together with a smaller dot of the same color to the upper right?
+0: yes
+1: choose the smaller dot that is off to the right?
+0: sounds good to me

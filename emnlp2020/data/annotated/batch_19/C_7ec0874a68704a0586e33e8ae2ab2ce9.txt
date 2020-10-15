@@ -1,0 +1,3 @@
+0: I have one medium sized very dark (almost black dot) with no other dots nearby. Far above it is a slightly larger dark gray dot
+1: if the larger one is almost on a vertical line w it click that black dot
+0: yes it is. I will pick the darkest one

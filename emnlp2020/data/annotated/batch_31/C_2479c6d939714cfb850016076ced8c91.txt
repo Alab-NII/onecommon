@@ -1,0 +1,5 @@
+1: I have a large black dot to the right of my circle.
+0: I have a cluster of 4 with a small black dot
+1: Of those 4, is the largest a light gray dot to the top left?
+0: Yes let's pick the small black dot
+1: Got it.

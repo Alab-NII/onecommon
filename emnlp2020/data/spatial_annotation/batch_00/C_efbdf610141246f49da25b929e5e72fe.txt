@@ -1,0 +1,5 @@
+0: I see two small dots, one black and one medium gray, super close together.
+1: two tiny dots are together here
+0: Is there a large black dot about an inch away from the medium gray one?
+1: it looks to be
+0: Think we should pick the small gray dot?

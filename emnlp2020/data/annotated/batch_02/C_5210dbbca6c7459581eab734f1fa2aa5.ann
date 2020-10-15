@@ -1,0 +1,10 @@
+T2	Markable 38 61	a group of 3 small dots
+T3	Markable 63 64	2
+T4	Markable 91 93	it
+T5	Markable 95 99	They
+T6	Markable 105 115	a triangle
+T7	Markable 133 145	the triangle
+T1	Markable 75 76	1
+R1	Anaphora Arg1:T5 Arg2:T4	
+R2	Predicative Arg1:T6 Arg2:T5	
+T8	Markable 122 129	the top

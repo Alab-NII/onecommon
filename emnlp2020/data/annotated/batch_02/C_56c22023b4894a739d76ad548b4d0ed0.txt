@@ -1,0 +1,3 @@
+1: Hi there. Do you see a lonely very dark large dot?
+0: i have a smaller dark one to the left and down of it but that's probably the same one
+1: Yes, I think I see it. Let's pick it

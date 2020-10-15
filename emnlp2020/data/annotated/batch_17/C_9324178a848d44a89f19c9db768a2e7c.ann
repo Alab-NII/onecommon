@@ -1,0 +1,15 @@
+T1	Markable 33 49	a large gray dot
+T2	Markable 9 27	on small black dot
+T3	Markable 56 74	the large grey dot
+T4	Markable 114 129	a dark gray dot
+T5	Markable 178 198	a smaller darker dot
+T6	Markable 142 164	a light large gray dot
+T7	Markable 220 222	it
+T8	Markable 234 256	the smaller darker one
+T9	Markable 282 297	the smaller one
+#1	AnnotatorNotes T2	one small black dot
+T10	Markable 93 96	its
+T11	Markable 109 113	it's
+R1	Predicative Arg1:T4 Arg2:T11	
+R2	Anaphora Arg1:T7 Arg2:T6	
+T12	Markable 266 269	its

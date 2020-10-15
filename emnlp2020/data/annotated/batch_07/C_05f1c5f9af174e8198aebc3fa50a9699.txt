@@ -1,0 +1,4 @@
+1: Is your largest dot black?
+0: Mine are spread apart but have three at my left that make a large obtuse triangle the one on the right is smallest and medium shade while top one is dark and bottom is lightest
+1: Do you have two small dots vertical line but bottom is slightly to the left?
+0: Just click that darkest largest dot I guess,

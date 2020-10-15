@@ -1,0 +1,8 @@
+0: Do you see a small light grey dot with a larger, darker one above it and the the left?
+1: do u see two large grey dots, in a diagonal from each other? almost same size?
+0: I don't think I see what you see.
+1: i see a small light grey dot, by itself on my left edge, the larger grey dot is below it and to the right
+0: I see that. I think I see the diagonal you mentioned earlier now too
+1: yeah below that larger one to the right is one thats maybe a little darker, and about the same size, below the higher of these two dots, and slightly left is a small darker dot too
+0: I see the dot you mentioned at the top, but not the one at the bottom
+1: ok lets try for the one we think we know of, the larger grey dot

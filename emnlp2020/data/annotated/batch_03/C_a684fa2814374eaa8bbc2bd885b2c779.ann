@@ -1,0 +1,16 @@
+T1	Markable 9 17	two dots
+T2	Markable 48 51	One
+T4	Markable 85 94	the other
+T5	Markable 141 173	a very small very light grey dot
+T6	Markable 227 237	a triangle
+T7	Markable 243 257	two other dots
+T8	Markable 219 221	it
+T9	Markable 352 355	one
+T10	Markable 394 397	one
+T11	Markable 321 336	a long triangle
+T12	Markable 342 350	two dots
+T13	Markable 457 478	the lightest grey dot
+T3	Markable 181 188	the one
+T14	Markable 283 287	both
+R1	Anaphora Arg1:T14 Arg2:T7	
+T15	Markable 312 314	it

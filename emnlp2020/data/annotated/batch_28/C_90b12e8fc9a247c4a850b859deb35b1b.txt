@@ -1,0 +1,5 @@
+0: do see a tiny light grey dot
+1: lighter than the others?
+0: yes
+1: lets pick that
+0: ok

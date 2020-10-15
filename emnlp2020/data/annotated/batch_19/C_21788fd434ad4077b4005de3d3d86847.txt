@@ -1,0 +1,4 @@
+0: cluster of 4 dots close together?
+1: Do you see a group of four with two large black dots?
+1: Take that top largest black
+0: K is that largest a little off to the left? if so yes click it!

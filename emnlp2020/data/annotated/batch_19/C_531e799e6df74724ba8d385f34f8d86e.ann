@@ -1,0 +1,16 @@
+T1	Markable 98 104	a line
+T2	Markable 179 193	the bottom two
+T3	Markable 240 256	a small grey dot
+T4	Markable 342 356	small gray dot
+T5	Markable 332 336	that
+T6	Markable 3 9	2 dots
+T7	Markable 13 27	a crocked line
+R1	Predicative Arg1:T7 Arg2:T6	
+T8	Markable 28 31	top
+T9	Markable 65 77	2 large dots
+T10	Markable 81 84	its
+T11	Markable 161 162	3
+T12	Markable 163 170	the top
+T13	Markable 228 236	the last
+T14	Markable 293 305	2 large dots
+R2	Anaphora Arg1:T5 Arg2:T14	

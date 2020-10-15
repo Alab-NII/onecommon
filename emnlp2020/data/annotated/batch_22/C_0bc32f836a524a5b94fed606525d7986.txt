@@ -1,0 +1,3 @@
+1: 3 tiny light grey dots aligned horizontally
+0: yes i do as well lets choose the one in the middle
+1: ok!

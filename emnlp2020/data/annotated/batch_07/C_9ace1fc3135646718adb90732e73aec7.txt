@@ -1,0 +1,6 @@
+0: Do you see a dot that is blacker than the rest?
+1: Yes, kind of medium in size?
+0: Sorta, its the biggest sized dot but there are a few other dots that are the same size
+1: I have a lighter dot bigger than it. Across from those two is a small gray dot.
+0: Here wait, lets go for the smallest dot that you have, because I think that will stand out more
+1: Okay so well try that.

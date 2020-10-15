@@ -1,0 +1,24 @@
+T1	Markable 154 172	that top light one
+T2	Markable 3 11	two dots
+T3	Spatial-Relation-Markable 104 107	top
+T4	Modifier 12 18	almost
+T5	Spatial-Relation 19 36	identical in size
+A1	No-Obj T5
+#1	AnnotatorNotes T5	same size
+T6	Spatial-Attribute 38 44	medium
+T7	Modifier 50 54	very
+T8	Spatial-Relation 55 71	different shades
+A2	No-Obj T8
+T9	Modifier 72 79	kind of
+T10	Spatial-Relation 80 94	close together
+A3	No-Obj T10
+R1	Obj Arg1:T3 Arg2:T2	
+T11	Modifier 111 115	very
+T12	Spatial-Attribute 116 121	light
+T13	Spatial-Relation 126 138	to the right
+R2	Obj Arg1:T13 Arg2:T2	
+T14	Spatial-Relation 159 162	top
+R3	Obj Arg1:T14 Arg2:T2	
+T15	Modifier 38 44	medium
+R4	Mod Arg1:T15 Arg2:T6	
+A4	Mod-Extremity T7

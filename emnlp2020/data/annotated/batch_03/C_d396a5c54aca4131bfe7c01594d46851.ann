@@ -1,0 +1,8 @@
+T1	Markable 16 25	four grey
+T2	Markable 52 62	a grey one
+T3	Markable 79 85	itself
+T4	Markable 92 94	it
+T5	Markable 159 168	that grey
+T6	Markable 3 11	two dark
+T7	Markable 35 43	the same
+R1	Anaphora Arg1:T3 Arg2:T2	

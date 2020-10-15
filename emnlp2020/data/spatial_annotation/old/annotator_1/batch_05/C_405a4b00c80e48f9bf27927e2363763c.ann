@@ -1,0 +1,46 @@
+T1	Markable 9 13	dots
+T2	Markable 53 56	its
+R1	Anaphora Arg1:T2 Arg2:T1	
+T3	Markable 71 93	a cluster of four dots
+T4	Markable 112 115	its
+R2	Anaphora Arg1:T4 Arg2:T3	
+T5	Markable 150 164	the same thing
+T6	Markable 169 180	the highest
+T7	Markable 184 195	all of them
+T8	Markable 218 222	that
+T9	Markable 232 239	the top
+T10	Markable 243 252	the seven
+T11	Markable 273 283	the middle
+T12	Markable 287 296	the three
+T13	Markable 355 363	the same
+T14	Markable 404 417	the first one
+T15	Markable 433 446	the light one
+R3	Anaphora Arg1:T15 Arg2:T14	
+T16	Spatial-Relation 14 42	shaped like the number seven
+T17	Spatial-Relation 43 52	laying on
+T18	Spatial-Relation 57 61	side
+R4	Split Arg1:T18 Arg2:T17	
+T19	Spatial-Relation 73 80	cluster
+T20	Spatial-Relation 94 108	that form an L
+T21	Spatial-Relation 109 111	on
+T22	Spatial-Relation 116 120	side
+R5	Split Arg1:T22 Arg2:T21	
+T23	Spatial-Relation 173 180	highest
+T24	Spatial-Relation 181 183	of
+T25	Spatial-Relation 196 208	the lightest
+T26	Spatial-Relation 236 239	top
+T27	Spatial-Relation 240 242	of
+T28	Spatial-Relation 277 283	middle
+T29	Spatial-Relation 284 286	of
+T30	Spatial-Relation 297 306	in a line
+T31	Spatial-Attribute 307 312	black
+T32	Spatial-Relation 247 252	seven
+A1	No-Obj T32
+A2	No-Obj T30
+A3	No-Obj T16
+A4	No-Obj T17
+A5	No-Obj T19
+A6	No-Obj T20
+R6	Subj Arg1:T25 Arg2:T6	
+R7	Obj Arg1:T25 Arg2:T7	
+R8	Subj Arg1:T31 Arg2:T11	

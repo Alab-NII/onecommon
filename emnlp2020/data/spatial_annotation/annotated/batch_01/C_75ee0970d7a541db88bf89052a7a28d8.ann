@@ -1,0 +1,53 @@
+T1	Markable 10 31	one lone med gray dot
+T2	Markable 65 76	4 dark ones
+T3	Markable 116 130	a med/grey one
+T4	Markable 200 204	they
+T5	Markable 173 181	the line
+T6	Markable 251 264	the third one
+T7	Markable 305 328	the med grey lonely one
+T8	Markable 349 360	the 3rd one
+T9	Markable 369 382	the third one
+T10	Markable 388 396	the line
+T11	Spatial-Relation 14 18	lone
+A1	No-Obj T11
+T12	Spatial-Relation 32 50	to the left center
+A2	No-Obj T12
+T13	Spatial-Relation 77 95	going down in line
+A3	No-Obj T13
+T14	Spatial-Relation 97 104	zig zag
+A4	No-Obj T14
+T15	Modifier 131 139	slightly
+T16	Spatial-Relation 140 146	larger
+T17	Spatial-Relation 147 161	to the left of
+T18	Spatial-Relation 166 172	top of
+A5	No-Subj-Markable T18
+T19	Spatial-Relation 177 181	line
+A6	No-Obj T19
+T21	Modifier 213 218	about
+T22	Spatial-Relation 209 242	all about the same size and color
+A7	No-Obj T22
+#1	AnnotatorNotes T22	same size;same color
+T23	Spatial-Relation 255 260	third
+T24	Spatial-Relation 265 269	down
+R1	Split Arg1:T24 Arg2:T23	
+R2	Obj Arg1:T23 Arg2:T2	
+T25	Modifier 273 281	slightly
+T26	Spatial-Relation 282 288	larger
+R3	Obj Arg1:T26 Arg2:T2	
+T27	Spatial-Relation 318 324	lonely
+A8	No-Obj T27
+T28	Spatial-Relation 353 356	3rd
+T29	Spatial-Relation 373 378	third
+T30	Spatial-Relation 383 387	down
+R5	Split Arg1:T30 Arg2:T29	
+T31	Spatial-Relation 392 396	line
+A9	No-Obj T31
+T32	Spatial-Relation 397 414	of the same color
+A10	No-Obj T32
+A12	Canonical-Undefined T14
+A13	Canonical-Undefined T23
+R6	Obj Arg1:T28 Arg2:T4	
+A14	Canonical-Undefined T29
+#2	AnnotatorNotes T12	left
+#3	AnnotatorNotes T13	vertical
+A11	Canonical-Undefined T28

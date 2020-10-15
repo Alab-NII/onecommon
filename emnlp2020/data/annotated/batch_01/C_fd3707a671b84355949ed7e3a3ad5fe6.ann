@@ -1,0 +1,10 @@
+T1	Markable 11 29	large med gray dot
+T3	Markable 98 116	this large med dot
+T4	Markable 171 173	it
+T5	Markable 126 151	a smaller medium gray dot
+T6	Markable 33 35	it
+T2	Markable 59 66	nothing
+A1	No-Referent T2
+R1	Anaphora Arg1:T4 Arg2:T3	
+T7	Markable 199 214	that first dont
+#1	AnnotatorNotes T7	that first dot

@@ -1,0 +1,4 @@
+0: i have two groups of three dots, one top right, the other bottom right
+1: I only have one group of three, kind of in the middle. It has a medium sized dark gray dot. Then there is a slightly smaller and lighter dot just up and to the right. And then a larger, even lighter dot, up and to the right of that one.
+0: ok, first dot you described, bigger and darker
+1: Yes - let's pick that one.

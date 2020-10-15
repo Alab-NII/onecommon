@@ -1,0 +1,15 @@
+T1	Markable 9 24	a huge dark dot
+T2	Markable 75 77	it
+T3	Markable 84 98	the bottom one
+T4	Markable 177 196	the second dark dot
+T5	Markable 211 251	a almost backwards L of medium gray dots
+T6	Markable 277 292	my smallest dot
+T7	Markable 299 315	the bottom point
+T8	Markable 326 353	the smallest light grey dot
+T9	Markable 392 414	a small light gray dot
+T10	Markable 423 431	that one
+T11	Markable 48 62	a big dark dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T12	Markable 141 164	a medium light grey dot
+T13	Markable 253 256	All
+R2	Predicative Arg1:T7 Arg2:T6	

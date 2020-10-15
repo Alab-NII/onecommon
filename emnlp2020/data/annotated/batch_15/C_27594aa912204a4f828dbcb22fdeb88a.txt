@@ -1,0 +1,4 @@
+1: Do you have a light smallish grey dot to the left of a larger black dot? Nearly horizontal.
+0: I see two dots side by side. The one to the left is smaller and maybe a touch darker
+1: Oh, I have that pair. Is there a dark big dot to the left of that pair?
+0: Yes that one is a big bugger. Let's take the small one.

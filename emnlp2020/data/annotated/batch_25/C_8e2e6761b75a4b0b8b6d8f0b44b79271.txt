@@ -1,0 +1,6 @@
+0: I have a large grey dot kind of by itself
+1: No large gray dots by themselves for me. Do you have any small grays?
+0: Yes. I have a line of three. The smallest is furthest right. The other two are down and to the left. They are a little bigger.
+1: I just see 2 in 2 different locations. Maybe one of those is common. I have one medium gray and one lighter gray in both locations
+0: Is the lighter one smaller and to the upper right?
+1: Yes

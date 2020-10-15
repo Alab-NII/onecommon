@@ -1,0 +1,5 @@
+1: I have a very large dark gray dot, with a slightly smaller black dot to the right of it
+0: My two largest dots are both at my extreme top and bottom of my circle, top being grey and bottom one being black
+1: My largest is dark gray, and has a smaller black one to the left, and a medium sized black one to the right
+0: Is the small one left and above? If so let's click that big one
+1: Yes - so yes, let's click the big one

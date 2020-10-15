@@ -1,0 +1,4 @@
+0: I got a lot of dots that make a 4
+1: I don't have that. I have a very little black dot, with a gray one the same size almost directly above it - just a tiny bit to the left.
+0: I have those to click the black lower dot
+1: ok

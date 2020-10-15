@@ -1,0 +1,6 @@
+T1	Markable 46 54	triangle
+T2	Markable 10 20	three dots
+T4	Markable 107 120	that triangle
+T5	Markable 88 103	one of the dots
+T6	Markable 167 169	it
+R1	Predicative Arg1:T1 Arg2:T2	

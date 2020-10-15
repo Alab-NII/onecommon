@@ -1,0 +1,26 @@
+T1	Markable 9 18	four dots
+T2	Markable 60 70	3 big ones
+T3	Markable 115 124	lower one
+T4	Markable 198 222	the top right medium one
+T5	Markable 184 192	anything
+T6	Markable 254 264	the L ones
+T7	Markable 247 250	one
+T8	Markable 340 355	the darkest one
+T9	Markable 380 395	the lighter one
+T10	Markable 29 46	the shape of an L
+R1	Predicative Arg1:T10 Arg2:T1	
+T11	Markable 72 84	the left top
+T12	Markable 97 106	Top right
+T13	Markable 146 149	all
+R2	Anaphora Arg1:T13 Arg2:T2	
+A1	Generic T5
+A2	No-Referent T7
+T14	Markable 274 279	the L
+R3	Anaphora Arg1:T14 Arg2:T6	
+T15	Markable 312 316	it's
+#1	AnnotatorNotes T15	its
+R4	Anaphora Arg1:T15 Arg2:T14	
+T16	Markable 422 427	the L
+T17	Markable 459 481	the black root /corner
+T18	Markable 301 308	the top
+T19	Markable 485 490	the L

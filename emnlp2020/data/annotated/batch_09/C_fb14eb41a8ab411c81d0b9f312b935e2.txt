@@ -1,0 +1,5 @@
+1: fat medium one to the left
+0: Large medium grey to the left of small dark dot
+1: i see it, looks good
+0: okay, ready when timer runs down
+1: you doing multiple Hits?

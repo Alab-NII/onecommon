@@ -1,0 +1,5 @@
+1: Four dots next to each other...two top dots are bigger than the bottom two, top left dot is light gray
+0: Yes! Is the dot beside that one just slightly smaller, dark grey, and to the right?
+1: Yes and sits just a little low than the larger lighter dot?
+0: Yes! Which should we choose?
+1: large light gray on top left

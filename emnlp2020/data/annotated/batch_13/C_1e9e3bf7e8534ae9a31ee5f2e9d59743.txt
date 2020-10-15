@@ -1,0 +1,6 @@
+1: I only have one black dot it has a smaller grey to its left.
+0: I have that dot also is it close to the top of the circle?
+1: yes it is on my top left
+0: I have it also should we select the dark dot or the light dot?
+1: ummm dark!
+0: Ok!

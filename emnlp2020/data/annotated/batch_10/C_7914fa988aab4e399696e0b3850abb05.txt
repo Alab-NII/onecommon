@@ -1,0 +1,5 @@
+1: two larger grey dots spaced a decent amount from each other. near the one at the top is a smaller lighter grey dot, next to that lighter grey dot is a small dark dot
+0: I have the two small dots... is there a larger almost black dot off to the left of them
+1: yes i think i know what you're talking about
+0: ok I'll pick the small gray dot
+1: okay

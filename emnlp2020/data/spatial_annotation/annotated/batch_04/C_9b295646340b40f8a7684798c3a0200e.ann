@@ -1,0 +1,26 @@
+T1	Markable 41 43	it
+T2	Markable 63 74	a black dot
+T3	Markable 80 97	a small black dot
+T4	Markable 118 142	the same horizontal line
+T5	Markable 202 213	the big one
+T6	Markable 3 28	massive big one dark gray
+R1	Anaphora Arg1:T1 Arg2:T6	
+T7	Markable 101 104	its
+R2	Anaphora Arg1:T7 Arg2:T2	
+T8	Spatial-Relation 75 79	with
+T9	Spatial-Relation 105 110	right
+R3	Subj Arg1:T9 Arg2:T3	
+R4	Obj Arg1:T9 Arg2:T7	
+T10	Spatial-Relation 115 117	in
+R5	Subj Arg1:T10 Arg2:T2	
+R6	Subj Arg1:T10 Arg2:T3	
+T11	Spatial-Relation 122 142	same horizontal line
+A1	No-Obj T11
+T12	Spatial-Relation 168 182	below or above
+A2	No-Obj T12
+R7	Subj Arg1:T12 Arg2:T2	
+R8	Subj Arg1:T12 Arg2:T3	
+T13	Modifier 152 167	not perceptibly
+T14	Spatial-Relation 214 225	at the left
+R9	Obj Arg1:T14 Arg2:T4	
+A4	Mod-Negation T13

@@ -1,0 +1,5 @@
+1: Do you see three dots that form a triangle
+0: yes. small bottom one?
+1: Yes that's it
+0: pick the small one?
+1: Yea

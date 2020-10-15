@@ -1,0 +1,7 @@
+T1	Markable 88 106	a small darker one
+T2	Markable 45 47	it
+T3	Markable 10 36	one medium sized dark spot
+T4	Markable 53 63	a med grey
+T5	Markable 110 113	its
+T6	Markable 160 186	the medium sized dark spot
+R1	Anaphora Arg1:T5 Arg2:T4	

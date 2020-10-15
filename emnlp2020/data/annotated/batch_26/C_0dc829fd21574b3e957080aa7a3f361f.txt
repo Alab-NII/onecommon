@@ -1,0 +1,6 @@
+1: My largest dot I'd medium gray off to the right by itself
+0: yes, think I have it
+1: There I'd a little light gray one up and to the left
+0: I have dark dot directly above light grey large dot
+1: I have that let's pick little dot
+0: ok

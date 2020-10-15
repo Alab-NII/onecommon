@@ -1,0 +1,7 @@
+0: I see a large medium grey dot
+1: do you have one small dark dot away from all
+0: I have a small dark dot to the north of it and one small dark dot to the south east of it
+1: do you have a dark dot smallest of all
+0: I do, it is just south of the large dot we first talked about
+1: let us select that if it is close to the border
+0: Okay

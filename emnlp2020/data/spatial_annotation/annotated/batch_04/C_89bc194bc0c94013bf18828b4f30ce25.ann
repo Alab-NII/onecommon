@@ -1,0 +1,44 @@
+T1	Markable 14 24	three dots
+T2	Markable 132 148	1 small grey dot
+T3	Markable 200 229	a smaller medium darkness one
+T4	Markable 255 278	the largest darkest dot
+T5	Markable 152 167	Most of my dots
+T6	Markable 282 288	itself
+T7	Markable 305 334	the small medium darkness one
+T8	Markable 412 420	that one
+T9	Markable 79 91	5 large dots
+R1	Anaphora Arg1:T6 Arg2:T4	
+T10	Modifier 26 34	somewhat
+T11	Spatial-Relation 35 45	spread out
+A1	No-Obj T11
+T12	Spatial-Relation 47 67	in a boomerang shape
+A2	No-Obj T12
+T13	Spatial-Relation 92 119	several are in that pattern
+A3	No-Obj T13
+T14	Modifier 172 177	about
+T15	Spatial-Relation 178 191	the same size
+A5	No-Obj T15
+T16	Spatial-Relation 202 209	smaller
+A6	No-Obj T16
+T17	Spatial-Relation 230 235	alone
+A7	No-Obj T17
+T18	Spatial-Relation 236 249	at the bottom
+A8	No-Obj T18
+T19	Spatial-Relation 259 274	largest darkest
+A9	No-Obj T19
+T20	Spatial-Relation 279 281	by
+T21	Spatial-Relation 289 301	near the top
+A10	No-Obj T21
+T22	Spatial-Relation 338 364	between 5 and 6 on a clock
+A11	No-Obj T22
+T23	Spatial-Relation 375 393	closer to 6 than 5
+A13	No-Obj T23
+R2	Subj Arg1:T23 Arg2:T7	
+#1	AnnotatorNotes T20	alone
+A15	Mod-Subtlty T10
+A16	Canonical-Undefined T12
+A4	Canonical-Undefined T13
+#2	AnnotatorNotes T22	below right
+#3	AnnotatorNotes T23	below
+A12	Canonical-Undefined T11
+#4	AnnotatorNotes T21	top

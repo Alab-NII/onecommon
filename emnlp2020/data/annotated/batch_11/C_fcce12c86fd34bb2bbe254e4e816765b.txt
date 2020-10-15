@@ -1,0 +1,5 @@
+1: I have a pair of dark dots close together. Larger is top left.
+0: Is the top dot slightly lighter than the dark one under it
+1: Yes. And the bottom right one is slightly darker
+0: Okay, lets select the darker one on the bottom right
+1: Great

@@ -1,0 +1,36 @@
+T1	Markable 84 97	the other one
+T3	Markable 161 170	the other
+T4	Markable 234 249	the lighter one
+T5	Markable 3 14	2 small dot
+T6	Markable 36 37	1
+T7	Markable 109 112	two
+T2	Markable 131 138	one set
+T8	Markable 194 198	this
+T9	Modifier 16 24	probably
+T10	Spatial-Relation 25 34	same size
+A1	No-Obj T10
+T11	Spatial-Relation 41 46	above
+T12	Spatial-Relation 51 63	to the right
+T13	Spatial-Relation 71 83	lighter than
+T14	Modifier 142 147	about
+T15	Spatial-Relation 148 156	1" apart
+A2	No-Obj T15
+T16	Modifier 174 179	about
+T17	Spatial-Relation 180 190	1.5" apart
+A3	No-Obj T17
+T18	Modifier 202 207	about
+T19	Spatial-Relation 208 215	1"apart
+A4	No-Obj T19
+T20	Spatial-Relation 238 245	lighter
+T21	Spatial-Relation 250 262	to the right
+R1	Obj Arg1:T20 Arg2:T2	
+R2	Obj Arg1:T21 Arg2:T2	
+A5	Mod-Uncertainty-Approximation T9
+T22	Modifier 113 120	sort of
+T23	Spatial-Relation 121 130	like that
+A6	No-Obj T23
+A7	Canonical-Undefined T23
+A8	Mod-Uncertainty-Approximation T22
+A9	Canonical-Undefined T15
+A10	Canonical-Undefined T17
+A11	Canonical-Undefined T19

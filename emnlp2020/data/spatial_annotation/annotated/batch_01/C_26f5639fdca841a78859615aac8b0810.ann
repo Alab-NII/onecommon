@@ -1,0 +1,30 @@
+T1	Markable 10 39	a lonely light grey small dot
+T3	Markable 172 174	it
+T4	Markable 124 150	your lonely light gray dot
+T5	Markable 343 345	it
+T6	Markable 65 74	four dots
+R1	Anaphora Arg1:T3 Arg2:T4	
+T7	Markable 182 184	it
+T8	Markable 213 227	ant large dark
+T9	Markable 274 284	large dark
+T10	Markable 290 307	small medium gray
+R2	Anaphora Arg1:T5 Arg2:T9	
+T11	Markable 365 375	large dark
+T12	Spatial-Relation 12 18	lonely
+A2	No-Obj T12
+T13	Spatial-Relation 40 54	on bottom left
+A3	No-Obj T13
+T14	Spatial-Relation 81 99	across the equator
+A4	No-Obj T14
+T15	Spatial-Relation 129 135	lonely
+A5	No-Obj T15
+T17	Spatial-Relation 236 265	on right bottom of the circle
+A6	No-Obj T17
+R3	Subj Arg1:T17 Arg2:T8	
+T18	Spatial-Relation 308 313	above
+T19	Modifier 318 326	slightly
+T20	Spatial-Relation 327 342	to the right of
+T21	Modifier 75 80	right
+T2	Spatial-Relation 285 289	have
+A1	Mod-Certainty-Exactness T21
+#1	AnnotatorNotes T14	horizontal

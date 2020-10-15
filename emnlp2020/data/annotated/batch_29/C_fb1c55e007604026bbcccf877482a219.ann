@@ -1,0 +1,10 @@
+T1	Markable 10 23	5 larger dots
+T3	Markable 223 236	a smaller one
+T4	Markable 144 174	a slightly smaller lighter one
+T5	Markable 127 139	the dark one
+T6	Markable 94 99	three
+T7	Markable 245 268	that furthest right one
+T8	Markable 313 334	the large darkest one
+T9	Markable 40 59	the bottom left one
+T2	Markable 114 126	part of that
+R1	Predicative Arg1:T2 Arg2:T6	

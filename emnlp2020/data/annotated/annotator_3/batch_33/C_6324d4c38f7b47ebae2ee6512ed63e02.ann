@@ -1,0 +1,15 @@
+T1	Markable 115 134	the large light one
+T2	Markable 56 66	small dark
+T3	Markable 29 40	large light
+T4	Markable 149 165	a small dark dot
+T5	Markable 221 237	1 small dark one
+T6	Markable 242 245	its
+T7	Markable 323 336	two dark dots
+T8	Markable 291 314	the smallest light grey
+T9	Markable 357 361	that
+T10	Markable 3 9	3 dots
+T11	Markable 81 92	medium grey
+T12	Markable 20 27	a light
+#1	AnnotatorNotes T12	a line
+R1	Predicative Arg1:T12 Arg2:T10	
+R2	Anaphora Arg1:T6 Arg2:T5	

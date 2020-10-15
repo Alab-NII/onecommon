@@ -1,0 +1,6 @@
+1: Darkest, large dot with medium gray, medium size dot south east of it
+0: i have only one medium grey/medium size and it's top off-center toward the west not east
+1: What about tiny dark dot? I see one with large grey dot up and to the left of it
+0: i have a tiny dark dot south east of the large dark dot, both at the top of the circle
+1: Okay. lets pick the tiny dark dot. fyi, our dots are not in the same place in regards to the dotted outline. we can only learn common point by relationship to other dots.
+0: right. ok we'll try the dark tiny one... good luck!!!

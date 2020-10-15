@@ -1,0 +1,5 @@
+1: I see a small gray dot all alone.
+0: I dont
+1: Ok - do you see a larger dark dot with a small gray to it's right and slightly above?
+0: Yes i do
+1: Let's pick the small gray one?

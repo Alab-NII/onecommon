@@ -1,0 +1,3 @@
+1: do u see a really dark dot, with a larger medium grey dot below it and to the left?
+0: yes i see that, it's on the edge of my circle, the dots to the right and below are pretty far away?
+1: yes, lets pick the darker smaller dot

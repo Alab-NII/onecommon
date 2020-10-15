@@ -1,0 +1,4 @@
+0: i have two medium dark shaded dots the 1 dot is to the right and lower
+1: ok. i might have those. does the lower dot have another dot below it?
+0: yes a larger dot similar shade
+1: thats the ones! lets choose the lower dot from your original two

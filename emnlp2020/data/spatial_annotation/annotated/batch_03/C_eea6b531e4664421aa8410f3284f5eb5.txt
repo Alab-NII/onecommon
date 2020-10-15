@@ -1,0 +1,8 @@
+0: a black dot, below and to the right is a larger grey dot?
+1: very small black one. with a larger very light one directly above slightly on it's right... and a larger med/grey one to their right... same ones?
+0: no, i don't have that
+1: they would be on your left side
+0: no, i have a small dark grey dot inside a triangle made by other dots that are different size and lighter in color?
+1: is the right-most one of the triangle the largest? and med/grey?
+0: yes
+1: ok let's click that largest one of the triangle pls

@@ -1,0 +1,4 @@
+1: Hi do you have a large light dot with a medium slightly darker one to its bottom right?
+0: Yes! is there one a little smaller but same color to the bottom one underneath it to the left?
+1: Correct, sounds like a match. Click that large one?
+0: Okay!

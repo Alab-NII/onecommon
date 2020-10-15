@@ -1,0 +1,4 @@
+0: Bottom, medium size medium gray dot?
+1: Is it next to a black dot
+0: No I see nothing by it. What about near the middle, medium light grey dot?
+1: Yes let's choose it

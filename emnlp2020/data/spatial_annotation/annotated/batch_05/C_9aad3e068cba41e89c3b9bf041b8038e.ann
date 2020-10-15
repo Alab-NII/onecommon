@@ -1,0 +1,23 @@
+T3	Markable 32 39	top dot
+T4	Markable 55 63	left dot
+T5	Markable 89 93	that
+T6	Markable 106 129	a very black medium dot
+T7	Markable 153 158	a dot
+T8	Markable 225 241	the black bigger
+T9	Markable 3 9	3 dots
+A1	No-Referent T5
+T1	Spatial-Relation 15 30	form a triangle
+A2	No-Obj T1
+T2	Spatial-Relation 32 35	top
+R1	Obj Arg1:T2 Arg2:T9	
+T10	Spatial-Attribute 43 53	light grey
+T11	Spatial-Relation 55 59	left
+R2	Obj Arg1:T11 Arg2:T9	
+T12	Spatial-Attribute 67 72	black
+T13	Spatial-Relation 159 171	to the right
+R3	Obj Arg1:T13 Arg2:T6	
+T14	Spatial-Attribute 180 189	dark grey
+T15	Spatial-Relation 191 198	smaller
+R4	Obj Arg1:T15 Arg2:T6	
+T16	Spatial-Relation 235 241	bigger
+R5	Obj Arg1:T16 Arg2:T7	

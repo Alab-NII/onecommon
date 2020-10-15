@@ -1,0 +1,5 @@
+1: Hi I see a vaguely little dipper shape of 7 dots, you?
+0: No, I have a cluster of five dots. One large black dot in the middle of a light gray and medium gray small dots
+1: Is the middle black dot near a smaller light grey dot to the left and even smaller dark grey dot to the right?
+0: Yes, let's select the middle black dot
+1: Sounds good to me

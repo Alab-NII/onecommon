@@ -1,0 +1,4 @@
+1: 2 small identical black dots making a triangle with a larger, lighter dot?
+0: don't have those unless the light dot is all the way at the right of the triangle?
+1: it is above and a tiny bit to the right of vertical with the right black dot
+0: choose the light one. i am pretty sure i have it

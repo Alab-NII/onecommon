@@ -1,0 +1,3 @@
+0: I have only one very light gray dot
+1: me too
+0: okay, let's click on it

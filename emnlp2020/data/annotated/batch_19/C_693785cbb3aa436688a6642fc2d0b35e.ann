@@ -1,0 +1,25 @@
+T1	Markable 3 30	lonely darker gray tiny dot
+T2	Markable 107 146	a slightly bigger, slightly lighter dot
+T3	Markable 71 74	one
+T4	Markable 173 181	this one
+T5	Markable 158 165	nothing
+T6	Markable 210 212	it
+T7	Markable 221 244	only one light grey dot
+T8	Markable 246 248	It
+T9	Markable 306 323	a large black dot
+T10	Markable 335 348	one black dot
+T11	Markable 355 359	they
+T12	Markable 400 413	the black dot
+T13	Markable 502 506	mine
+T14	Markable 554 562	anything
+T15	Markable 650 666	a light grey dot
+T16	Markable 591 615	a medium sized black dot
+T17	Markable 705 718	the black dot
+A1	No-Referent T5
+A2	No-Referent T6
+R1	Anaphora Arg1:T8 Arg2:T7	
+R2	Anaphora Arg1:T12 Arg2:T10	
+T18	Markable 417 421	It's
+T19	Markable 499 501	it
+R3	Anaphora Arg1:T13 Arg2:T19	
+A3	Generic T14

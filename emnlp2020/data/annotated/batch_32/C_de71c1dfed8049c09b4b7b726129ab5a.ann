@@ -1,0 +1,7 @@
+T1	Markable 10 38	a dark grey large lonely dot
+T2	Markable 81 96	large light one
+T3	Markable 103 119	small darker dot
+T4	Markable 126 128	it
+T5	Markable 42 56	My lonely ones
+R1	Anaphora Arg1:T4 Arg2:T2	
+T6	Markable 160 166	larger

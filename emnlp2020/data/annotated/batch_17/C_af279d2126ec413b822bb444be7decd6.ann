@@ -1,0 +1,11 @@
+T1	Markable 32 42	larger one
+T2	Markable 85 107	a slightly angled line
+T3	Markable 60 81	three light gray dots
+T4	Markable 115 118	two
+T5	Markable 122 126	them
+T6	Markable 164 168	them
+T7	Markable 199 214	the smaller dot
+T8	Markable 221 235	the larger one
+T9	Markable 3 11	two dots
+R1	Predicative Arg1:T2 Arg2:T3	
+T10	Markable 157 160	two

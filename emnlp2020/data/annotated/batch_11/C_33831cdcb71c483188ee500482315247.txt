@@ -1,0 +1,7 @@
+0: 4 dots close together that form a backward C?
+1: I have one large gray dot. Right above it is a slightly smaller black dot. I dont see that backward C (i have a forward C). Is the bottom right of the 'C' darker grey?
+0: No. Do you see two black dots almost the same size but top is almost black? and they are both close together and form a vertical line?
+1: Nope. I don't have that. On my view, i have 1 tinier black dot, another is larger black dot
+0: i dont have that either! Do you see two medium sized dots that almost form a vertical line and the top is just slightly lighter than the bottom?
+1: I think so! Let's choose the top light one
+0: k!

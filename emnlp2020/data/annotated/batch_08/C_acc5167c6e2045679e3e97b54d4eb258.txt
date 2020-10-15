@@ -1,0 +1,5 @@
+1: I see 4 dots. They make a square/rectangle. The one on the top is dark medium. Two are exactly small and gray. The fourth is bigger and light gray.
+0: i have 2 tiny dot making a triangle with a larger darker dot, the large dot is in the middle and above the two small ones
+1: Are the two identical? Maybe one is slightly darker but not much?
+0: yes, it also make a rectangle like you said, choose the top medium grey large one?
+1: Yeah.

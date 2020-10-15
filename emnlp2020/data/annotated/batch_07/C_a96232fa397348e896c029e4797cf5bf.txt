@@ -1,0 +1,3 @@
+1: I have three medium grey dots in a line going up and to the right. The dot in the middle is largest, the dot on the top right is smallest
+0: Do you have a line which slopes upwards and to the right all light where the middle dot is largest?
+1: Well, it appears we see the same thing lol. Lets click the middle dot that is largest

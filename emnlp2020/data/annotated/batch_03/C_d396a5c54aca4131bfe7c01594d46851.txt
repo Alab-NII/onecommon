@@ -1,0 +1,5 @@
+0: two dark and four grey
+1: I see the same. I have a grey one at 2 o'clock by itself
+0: is it near the perimeter
+1: Very close to the border
+0: let us select that grey

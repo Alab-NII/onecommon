@@ -1,0 +1,11 @@
+T1	Markable 24 39	a smaller black
+T2	Markable 52 54	it
+T3	Markable 85 89	that
+T4	Markable 100 114	a cluster of 4
+T5	Markable 3 18	Large black dot
+R1	Anaphora Arg1:T2 Arg2:T5	
+A1	No-Referent T3
+T6	Markable 150 159	dark grey
+T7	Markable 161 166	black
+T8	Markable 172 192	two medium grey dots
+T9	Markable 231 236	black

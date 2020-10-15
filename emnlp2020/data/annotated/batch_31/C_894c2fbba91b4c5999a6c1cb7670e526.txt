@@ -1,0 +1,4 @@
+1: Medium sized black dot with a slightly larger light grey dot directly right and a little higher
+0: I do not see that. I see a black dot with a lighter grey dot that is a little big bigger next to it to the right
+1: You just described what I described. Select the black dot
+0: oh i read your description wrong. sorry about that. we are looking at the same thing.

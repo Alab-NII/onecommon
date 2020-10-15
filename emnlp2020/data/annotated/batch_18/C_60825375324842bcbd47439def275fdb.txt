@@ -1,0 +1,6 @@
+1: got a medium size dot down and to the left a bit there are 2 dots close to each other
+0: I have a large black dot and a smaller dark gray one near it
+1: is the smaller one up and to the left?
+0: Yes, and a little higher
+1: i see it
+0: Hit smaller one

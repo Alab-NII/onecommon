@@ -1,0 +1,27 @@
+T1	Markable 10 27	3 light gray dots
+T4	Markable 52 64	the smallest
+T5	Markable 92 103	2 dark dots
+T6	Markable 109 122	the upper one
+T7	Markable 150 163	the lower one
+T8	Markable 173 186	the upper one
+T9	Markable 170 172	it
+T10	Markable 212 225	the lower one
+T11	Markable 248 266	the top larger one
+T2	Spatial-Relation 28 46	forming a triangle
+A1	No-Obj T2
+T12	Spatial-Relation 56 64	smallest
+R1	Obj Arg1:T12 Arg2:T1	
+T13	Spatial-Relation 65 81	at the top point
+R2	Obj Arg1:T13 Arg2:T1	
+T15	Spatial-Relation 113 118	upper
+T16	Modifier 129 137	slightly
+T17	Spatial-Relation 138 149	larger than
+T18	Spatial-Relation 154 159	lower
+R3	Obj Arg1:T18 Arg2:T6	
+T19	Spatial-Relation 177 182	upper
+T20	Modifier 187 195	slightly
+T21	Spatial-Relation 196 211	to the right of
+T22	Spatial-Relation 216 221	lower
+R4	Obj Arg1:T22 Arg2:T8	
+T23	Spatial-Relation 252 262	top larger
+R5	Obj Arg1:T23 Arg2:T10	

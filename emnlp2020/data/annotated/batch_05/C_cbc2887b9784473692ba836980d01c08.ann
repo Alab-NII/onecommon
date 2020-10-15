@@ -1,0 +1,11 @@
+T1	Markable 23 40	a large black dot
+T2	Markable 157 178	a large dark gray one
+T3	Markable 99 111	the triangle
+T4	Markable 131 151	a tiny dark gray one
+T5	Markable 196 209	the black one
+T6	Markable 79 95	the bottom point
+T7	Markable 62 75	the black dot
+T8	Markable 230 250	the black bottom one
+T9	Markable 3 17	small triangle
+T10	Markable 51 55	that
+R1	Predicative Arg1:T6 Arg2:T7	

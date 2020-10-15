@@ -1,0 +1,28 @@
+T1	Markable 42 45	two
+T2	Markable 72 90	the two black dots
+T3	Markable 135 165	a similar sized light grey dot
+T4	Markable 175 193	the light gray dot
+T5	Markable 231 254	a large medium grey dot
+T6	Markable 272 292	that small black dot
+T7	Markable 61 68	the top
+T8	Spatial-Relation 49 56	smaller
+A1	No-Obj T8
+R1	Subj Arg1:T8 Arg2:T1	
+T9	Spatial-Relation 65 68	top
+T10	Spatial-Relation 94 101	smaller
+R2	Subj Arg1:T10 Arg2:T7	
+R3	Obj Arg1:T10 Arg2:T2	
+T11	Spatial-Relation 105 116	to the left
+T12	Spatial-Relation 121 125	down
+T13	Modifier 126 131	a bit
+R4	Mod Arg1:T13 Arg2:T12	
+R5	Subj Arg1:T11 Arg2:T3	
+R6	Subj Arg1:T12 Arg2:T3	
+T14	Spatial-Relation 137 150	similar sized
+R7	Obj Arg1:T14 Arg2:T7	
+T15	Spatial-Relation 197 202	above
+T16	Modifier 207 215	slightly
+T17	Spatial-Relation 216 230	to the left of
+R8	Obj Arg1:T11 Arg2:T7	
+R9	Obj Arg1:T12 Arg2:T7	
+T18	Spatial-Relation 69 71	of

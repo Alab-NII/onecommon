@@ -1,0 +1,11 @@
+T2	Markable 9 26	cluster of 3 dots
+T3	Markable 37 47	a triangle
+T4	Markable 49 63	middle top dot
+T5	Markable 78 86	side one
+T7	Markable 222 226	that
+T8	Markable 242 254	the tiny dot
+T9	Markable 258 271	that triangle
+R1	Predicative Arg1:T3 Arg2:T2	
+T1	Markable 112 120	dark one
+T6	Markable 142 146	both
+T10	Markable 170 184	the right side

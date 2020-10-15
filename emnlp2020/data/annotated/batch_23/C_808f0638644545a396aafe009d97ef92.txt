@@ -1,0 +1,5 @@
+0: cluster of 4 dots forming a triangle. similar and dark in size
+1: I have three dots of medium size and same color
+0: ok. is top top large grey?
+1: Yes
+0: pick the large grey dot on top of your two dots

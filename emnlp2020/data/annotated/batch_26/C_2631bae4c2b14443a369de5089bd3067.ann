@@ -1,0 +1,11 @@
+T1	Markable 3 17	all of my dots
+T2	Markable 56 74	a larger black dot
+T3	Markable 80 107	a slightly smaller dark dot
+T4	Markable 195 207	that cluster
+T5	Markable 160 191	a very very light med sized dot
+T6	Markable 224 242	a smaller dark dot
+T7	Markable 275 294	that very light one
+A1	All-Referents T1
+T8	Markable 111 114	its
+R1	Anaphora Arg1:T8 Arg2:T2	
+T9	Markable 246 249	its

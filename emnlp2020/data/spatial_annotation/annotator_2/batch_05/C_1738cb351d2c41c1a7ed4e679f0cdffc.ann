@@ -1,0 +1,38 @@
+T1	Markable 58 76	all the other dots
+T2	Markable 141 153	the same one
+T3	Markable 165 191	a triangle of smaller dots
+T5	Markable 204 208	that
+T6	Markable 220 231	2 large dot
+T8	Markable 312 334	a line of smaller dots
+T9	Markable 276 297	a large dark gray dot
+T10	Markable 346 362	the smallest dot
+T11	Markable 380 391	another one
+T12	Markable 440 448	that one
+T13	Markable 458 477	the black small dot
+T14	Markable 14 38	a large medium shade dot
+T15	Markable 88 94	2 dots
+A1	No-Referent T2
+R1	Anaphora Arg1:T5 Arg2:T3	
+T4	Spatial-Relation 39 57	off to the left of
+T7	Spatial-Relation 95 116	down and to the right
+T16	Spatial-Relation 167 175	triangle
+T17	Spatial-Relation 179 186	smaller
+T18	Spatial-Relation 232 250	towards the middle
+T19	Spatial-Relation 298 311	at the top of
+T20	Spatial-Relation 314 318	line
+T21	Spatial-Relation 322 329	smaller
+T22	Spatial-Relation 350 358	smallest
+T23	Spatial-Attribute 363 374	being black
+T24	Spatial-Relation 392 412	down and to the left
+A2	No-Obj-Markable T7
+A3	No-Obj T16
+A4	No-Obj T17
+A5	No-Obj T18
+A6	No-Obj T20
+R2	Obj Arg1:T21 Arg2:T9	
+A7	No-Obj T22
+R3	Subj Arg1:T23 Arg2:T10	
+R4	Obj Arg1:T24 Arg2:T10	
+#1	AnnotatorNotes T4	left alone
+A8	Canonical-Undefined T16
+A9	Canonical-Undefined T20

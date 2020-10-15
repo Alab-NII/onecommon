@@ -1,0 +1,4 @@
+1: 3 dots that form a triangle. top dot is light grey. left dot is black
+0: I do not see that. DO you see a very black medium dot
+1: yeah i do. is there a dot to the right that is dark grey? smaller too?
+0: Yes let us select the black bigger

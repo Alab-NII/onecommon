@@ -1,0 +1,10 @@
+T1	Markable 33 51	an M shape of dots
+T2	Markable 65 75	a triangle
+T3	Markable 159 173	the light grey
+T4	Markable 145 158	that triangle
+T5	Markable 230 234	that
+T6	Markable 77 87	light grey
+T7	Markable 97 112	slightly darker
+T8	Markable 125 129	dark
+T9	Markable 201 206	the 3
+R1	Anaphora Arg1:T9 Arg2:T4	

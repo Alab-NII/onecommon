@@ -1,0 +1,6 @@
+1: my smallest dot is very dark. you?
+0: I have 2 small medium dark dots . You have 2 big gray dots?
+1: i do have two small dots as well. one is small and towards the center... the other is above and to the left.
+0: I have one small gray towards the center above and one small dark dot on the right below and a small dark on the left below
+1: click the one near the center?
+0: Is it gray for you too? if so click it

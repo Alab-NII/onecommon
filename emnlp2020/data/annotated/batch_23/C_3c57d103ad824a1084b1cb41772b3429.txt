@@ -1,0 +1,6 @@
+1: i see cluster of 3 dots that form a triangle. middle top dot is tiny tiny. side one are large and dark
+0: Is dark one on the left side?
+1: both are dark in color. but the right side is black and darkest...
+0: Ok, I see that.
+1: wanna pick the tiny dot in that triangle?
+0: Perfect

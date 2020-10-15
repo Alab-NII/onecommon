@@ -1,0 +1,18 @@
+T1	Markable 10 29	TWO large grey dots
+T2	Markable 37 47	each other
+T4	Markable 99 111	the left one
+T5	Markable 58 67	two large
+T6	Markable 73 83	each other
+T7	Markable 133 137	that
+T8	Markable 142 149	the one
+T9	Markable 178 182	they
+T10	Markable 213 226	one black dot
+T11	Markable 255 259	that
+T12	Markable 261 263	It
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T6 Arg2:T5	
+R3	Anaphora Arg1:T12 Arg2:T11	
+T3	Markable 266 284	the only black dot
+R4	Predicative Arg1:T3 Arg2:T12	
+T13	Markable 94 98	mine
+R5	Anaphora Arg1:T13 Arg2:T5	

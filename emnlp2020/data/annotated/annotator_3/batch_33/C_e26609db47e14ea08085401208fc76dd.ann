@@ -1,0 +1,10 @@
+T1	Markable 10 27	a large dark grey
+T2	Markable 33 63	a smaller, slightly darker dot
+T3	Markable 87 91	They
+T4	Markable 124 142	two med sized dots
+T5	Markable 166 185	lighter smaller one
+T6	Markable 222 243	the larger darker one
+T7	Markable 76 79	its
+R1	Anaphora Arg1:T7 Arg2:T1	
+T8	Markable 146 160	diagonal lines
+R2	Predicative Arg1:T8 Arg2:T4	

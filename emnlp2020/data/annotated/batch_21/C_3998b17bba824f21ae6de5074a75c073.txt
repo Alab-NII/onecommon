@@ -1,0 +1,5 @@
+1: I have only one very small black dot
+0: Is there a medium sized, lighter gray to the left of it?
+1: Yes and another lighter gray small dot on top of that one
+0: Yes, I see that one.
+1: Okay lets go little black dot

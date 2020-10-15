@@ -1,0 +1,22 @@
+T1	Markable 10 24	two dark twins
+T2	Markable 40 50	each other
+T3	Markable 78 83	those
+T4	Markable 92 110	one light grey one
+T5	Markable 136 138	it
+T6	Markable 162 167	those
+T7	Markable 231 248	the big light one
+T8	Markable 294 321	the large light colored one
+R1	Anaphora Arg1:T2 Arg2:T1	
+A1	No-Referent T3
+T9	Markable 112 129	small darker grey
+R2	Anaphora Arg1:T5 Arg2:T4	
+T10	Markable 187 209	another small dark one
+T11	Modifier 26 30	very
+T12	Spatial-Relation 31 39	close to
+T13	Spatial-Attribute 56 61	large
+T14	Spatial-Relation 19 24	twins
+T15	Spatial-Relation 130 135	below
+T16	Spatial-Relation 118 129	darker grey
+T17	Spatial-Relation 139 151	to the right
+T18	Spatial-Relation 210 230	to the lower left of
+T19	Spatial-Relation 258 270	further away

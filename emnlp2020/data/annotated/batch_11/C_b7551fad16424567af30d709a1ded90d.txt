@@ -1,0 +1,4 @@
+1: I see a large black dot, bigger than the rest.
+0: i dont. do you see 3 tiny dots that are almost exactly the same size that form a line but the middle one is slightly above and lighter than the two on the outside?
+1: Yes, which one should we pick?
+0: the middle one

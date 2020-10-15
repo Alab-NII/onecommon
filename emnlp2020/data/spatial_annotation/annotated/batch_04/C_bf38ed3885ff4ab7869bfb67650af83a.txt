@@ -1,0 +1,12 @@
+0: Ok, lots of grey dots, largest one is the darkest grey dot
+1: do you see any black dots?
+0: No
+1: do you see there dots in a diagonal line. the darker at the top left and the lightest on the bottom right?
+0: Maybe, it's not an exact line. I have seven dots on my field of view
+1: we both have seven dots.
+0: I have three going diagonally up to the right dark grey large, middle grey, slightly darker grey
+1: i do not see that. do you have a medium grey dot with not much around it?
+0: Yeah, one medium grey middle sized pretty much by itself
+1: anything to the left of it?
+0: Not directly to the left, two in the southwest area immediate, one more south than southwest, one very much south/SE
+1: choose that dot

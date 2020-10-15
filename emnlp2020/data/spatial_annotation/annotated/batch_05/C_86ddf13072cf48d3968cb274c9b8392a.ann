@@ -1,0 +1,25 @@
+T1	Markable 10 18	two dots
+T2	Markable 84 97	the other one
+T3	Markable 36 43	The one
+T5	Markable 107 109	it
+T6	Markable 172 187	the lighter one
+R1	Anaphora Arg1:T5 Arg2:T3	
+T4	Spatial-Relation 19 34	near the bottom
+A1	No-Obj T4
+T7	Modifier 49 55	pretty
+T8	Spatial-Attribute 56 72	large light grey
+T9	Spatial-Relation 101 106	below
+T10	Spatial-Relation 114 126	to the right
+T11	Modifier 134 142	slightly
+T12	Spatial-Relation 143 149	darker
+T13	Spatial-Relation 154 161	smaller
+R2	Subj Arg1:T10 Arg2:T2	
+R3	Obj Arg1:T10 Arg2:T5	
+R4	Subj Arg1:T12 Arg2:T2	
+R5	Obj Arg1:T12 Arg2:T5	
+R6	Subj Arg1:T13 Arg2:T2	
+R7	Obj Arg1:T13 Arg2:T5	
+T14	Spatial-Relation 176 183	lighter
+R8	Obj Arg1:T14 Arg2:T1	
+#1	AnnotatorNotes T4	bottom
+A2	Mod-Extremity T7

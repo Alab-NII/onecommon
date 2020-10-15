@@ -1,0 +1,4 @@
+1: i have one tiny black dot on the left side above it is a med gray
+0: Our views are different. Do you have a dark gray medium sized dot with a lighter and smaller dot directly above and slightly to the right? They are close together
+1: yes i do
+0: Ok. Let's pick the larger darker one on the bottom

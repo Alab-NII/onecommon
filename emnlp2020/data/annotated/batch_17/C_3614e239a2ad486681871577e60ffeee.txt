@@ -1,0 +1,6 @@
+1: There is a large light grey dot all by itself
+0: yes i see that
+1: There is nothing near that large light grey dot at all
+0: nothing
+1: Should we select that one?
+0: yes

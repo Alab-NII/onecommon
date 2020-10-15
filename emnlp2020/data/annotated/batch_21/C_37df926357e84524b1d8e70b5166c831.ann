@@ -1,0 +1,17 @@
+T1	Markable 78 86	that one
+T2	Markable 97 119	a small light grey dot
+T3	Markable 167 189	1 small light grey dot
+T4	Markable 191 193	It
+T5	Markable 225 227	It
+T6	Markable 231 260	the only small light grey dot
+T7	Markable 270 291	all of the other dots
+T8	Markable 323 347	the small light grey dot
+T9	Markable 369 373	that
+T10	Markable 409 421	the same one
+T11	Markable 404 406	it
+T12	Markable 18 39	a large dark grey dot
+A1	No-Referent T1
+R1	Anaphora Arg1:T4 Arg2:T3	
+R2	Anaphora Arg1:T5 Arg2:T3	
+R3	Predicative Arg1:T6 Arg2:T5	
+R4	Predicative Arg1:T10 Arg2:T11	

@@ -1,0 +1,24 @@
+T1	Markable 10 33	three small-medium dots
+T2	Markable 37 53	a tight triangle
+T3	Markable 55 62	The one
+T4	Markable 119 123	They
+T5	Markable 203 205	it
+T6	Markable 239 248	something
+T7	Markable 262 279	a large black dot
+T8	Markable 296 298	it
+T9	Markable 320 342	a small light grey dot
+T11	Markable 416 418	it
+T12	Markable 377 409	an lighter, slighter smaller one
+T13	Markable 482 501	the large black one
+T14	Markable 515 524	the black
+R1	Predicative Arg1:T2 Arg2:T1	
+T15	Markable 92 105	bottom middle
+R2	Anaphora Arg1:T4 Arg2:T1	
+A1	No-Referent T5
+T16	Markable 209 223	No right angle
+A2	No-Referent T16
+T17	Markable 157 172	the right angle
+A3	Generic T17
+A4	Generic T6
+R3	Anaphora Arg1:T8 Arg2:T7	
+T10	Markable 439 458	The large black dot

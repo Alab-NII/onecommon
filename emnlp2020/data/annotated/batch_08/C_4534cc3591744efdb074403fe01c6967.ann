@@ -1,0 +1,31 @@
+T1	Markable 10 16	3 dots
+T2	Markable 52 62	a triangle
+T3	Markable 120 143	a cluster/line of three
+T4	Markable 160 167	the one
+T5	Markable 289 323	the smallest and medium light grey
+T6	Markable 333 346	the first two
+T7	Markable 392 408	the lightest one
+T8	Markable 469 481	the triangle
+T9	Markable 513 532	the same color ones
+T10	Markable 502 506	they
+T11	Markable 630 646	a light grey dot
+T12	Markable 569 591	a very small black dot
+T13	Markable 707 735	a same-size but med/grey one
+T14	Markable 742 744	it
+T15	Markable 748 752	it's
+T16	Markable 778 797	that light grey one
+R1	Predicative Arg1:T2 Arg2:T1	
+T17	Markable 64 71	the dot
+T18	Markable 193 197	next
+T19	Markable 214 218	it's
+#1	AnnotatorNotes T19	its
+R2	Anaphora Arg1:T19 Arg2:T4	
+A1	No-Referent T8
+R3	Anaphora Arg1:T10 Arg2:T8	
+R4	Predicative Arg1:T9 Arg2:T10	
+T20	Markable 622 626	that
+T21	Markable 668 693	the light grey/ lower dot
+R5	Anaphora Arg1:T14 Arg2:T21	
+#2	AnnotatorNotes T15	its
+R6	Anaphora Arg1:T15 Arg2:T21	
+R7	Anaphora Arg1:T20 Arg2:T12	

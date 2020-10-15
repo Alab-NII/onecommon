@@ -1,0 +1,4 @@
+0: do you see a triangle?
+1: two dark grey dots about the same size and a large black dot?
+0: not the one i saw but I do see that...choose large black dot
+1: choose it

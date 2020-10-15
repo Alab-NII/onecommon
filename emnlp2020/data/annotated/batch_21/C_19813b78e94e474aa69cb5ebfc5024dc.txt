@@ -1,0 +1,4 @@
+1: tiny dark dark grey dot?
+0: I have two of those. One of them is just down and to the right of a slightly larger, lighter one.
+1: no dont see that one. my is above and to the left of a very light larger one
+0: I have that one too. Let's pick that little dark one.

@@ -1,0 +1,2 @@
+1: two same sized med dots almost on a horizontal line?
+0: yes! if darker one is on the left click the darker one!

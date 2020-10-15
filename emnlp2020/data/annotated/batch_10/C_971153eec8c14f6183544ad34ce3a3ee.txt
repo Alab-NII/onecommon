@@ -1,0 +1,2 @@
+0: I have a larger black dot with two smaller lighter ones close above to the left and right
+1: I see that, lets select the black dot

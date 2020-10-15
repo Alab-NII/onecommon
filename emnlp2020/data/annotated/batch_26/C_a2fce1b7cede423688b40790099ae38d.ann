@@ -1,0 +1,11 @@
+T1	Markable 15 37	a large light grey dot
+T2	Markable 68 71	its
+T3	Markable 72 87	my lightest dot
+T4	Markable 49 52	one
+T5	Markable 98 116	2 light small dots
+T6	Markable 127 138	a black dot
+T7	Markable 145 150	yours
+T8	Markable 183 197	the darker dot
+T9	Markable 243 267	the small light grey one
+R1	Anaphora Arg1:T2 Arg2:T4	
+R2	Predicative Arg1:T3 Arg2:T4	

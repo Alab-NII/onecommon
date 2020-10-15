@@ -1,0 +1,13 @@
+T1	Markable 3 15	line of dots
+T2	Markable 68 92	a small lighter grey one
+T3	Markable 21 42	a large dark grey one
+T4	Markable 44 63	small dark grey one
+T5	Markable 99 118	the large dark grey
+T6	Markable 153 161	the line
+T7	Markable 195 208	the first one
+T8	Markable 226 230	them
+T9	Markable 244 248	they
+T10	Markable 271 287	the smallest one
+T11	Markable 332 340	that one
+T12	Markable 166 169	its
+R1	Anaphora Arg1:T9 Arg2:T8	

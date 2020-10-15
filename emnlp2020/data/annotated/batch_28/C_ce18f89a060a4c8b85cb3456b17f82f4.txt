@@ -1,0 +1,7 @@
+1: I see three pairs of two dots all in the same orientation
+0: I see same size and different color dots
+1: do you have a pair with a large black dot and a large medium grey dot
+0: No the ones i talked about is close, do you see it
+1: my pair is also close together
+0: Let us select the black one below
+1: k

@@ -1,0 +1,4 @@
+1: I see a very large dark dot, with a small slightly less dark dot down and to the right
+0: i have two really close near vertical, the top one is really big and ... yep!
+1: Lets click the bigger one,ok?
+0: got it!

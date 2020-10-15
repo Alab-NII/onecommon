@@ -1,0 +1,30 @@
+T1	Markable 10 18	two dots
+T2	Markable 38 48	each other
+T3	Markable 166 171	those
+T4	Markable 124 146	a slightly smaller dot
+T5	Markable 203 208	those
+T6	Markable 219 224	those
+T7	Markable 182 184	it
+T8	Markable 245 261	the top grey dot
+R1	Anaphora Arg1:T2 Arg2:T1	
+T9	Markable 50 54	both
+R2	Anaphora Arg1:T9 Arg2:T1	
+T10	Spatial-Relation-Markable 74 80	bottom
+R3	Anaphora Arg1:T6 Arg2:T5	
+T11	Spatial-Relation 28 37	on top of
+T12	Spatial-Attribute 55 72	light grey colors
+T13	Spatial-Relation 84 90	larger
+R4	Obj Arg1:T10 Arg2:T9	
+R5	Obj Arg1:T13 Arg2:T9	
+T14	Spatial-Relation 99 105	darker
+R6	Obj Arg1:T14 Arg2:T9	
+T15	Modifier 95 98	bit
+T16	Modifier 126 134	slightly
+T17	Spatial-Relation 135 142	smaller
+T18	Spatial-Attribute 155 160	black
+T19	Spatial-Relation 161 165	near
+T20	Spatial-Relation 187 202	on the right of
+T21	Spatial-Relation 213 218	below
+R7	Subj Arg1:T21 Arg2:T7	
+T22	Spatial-Relation 249 252	top
+R8	Obj Arg1:T22 Arg2:T3	

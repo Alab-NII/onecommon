@@ -1,0 +1,3 @@
+0: i see 5 dots that form a long 'U' shape. The top left of the shape is a black med dot
+1: I see that... choose black med dot?
+0: ok

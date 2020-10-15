@@ -1,0 +1,6 @@
+0: triangle of dots two dark and one very small and light?
+1: I see it!
+0: if the small light one is up to the left click that one
+1: It is
+0: k so click it
+1: I did...

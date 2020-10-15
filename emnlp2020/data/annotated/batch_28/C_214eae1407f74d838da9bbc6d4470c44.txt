@@ -1,0 +1,4 @@
+1: I have something that looks like a constellation. its a line of many dots with a black dot on the right end
+0: is it biggest dark dot on right end
+1: yes, with a black dot just above it
+0: yes,select the biggest dot.

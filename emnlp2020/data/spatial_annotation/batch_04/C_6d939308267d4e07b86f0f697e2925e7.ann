@@ -1,0 +1,13 @@
+T1	Markable 9 25	a large grey dot
+T2	Markable 31 38	nothing
+T3	Markable 113 115	it
+T4	Markable 131 147	the smallest dot
+T5	Markable 159 163	that
+A1	No-Referent T2
+T6	Markable 49 64	My smallest dot
+T7	Markable 78 93	two large black
+#1	AnnotatorNotes T7	two large black dots
+T8	None 94 99	ditto
+#2	AnnotatorNotes T8	to
+R1	Anaphora Arg1:T3 Arg2:T6	
+R2	Anaphora Arg1:T5 Arg2:T4	

@@ -1,0 +1,3 @@
+0: do you see a small black dot with a larger black dot not close by, below, and a bit to the left of it
+1: i think so, its there another small light grey dot below the larger black dot?
+0: yes. select small black

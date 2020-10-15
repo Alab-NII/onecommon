@@ -1,0 +1,5 @@
+0: hi! i have just one absolutely black dot. its small in size
+1: Same. it is above and slightly right of a slightly larger light grey dot
+0: yes. that's the one
+1: Ok. Choose the black dot?
+0: sounds good. lets do it

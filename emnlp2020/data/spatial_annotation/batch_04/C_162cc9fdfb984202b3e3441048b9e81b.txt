@@ -1,0 +1,3 @@
+1: 2 dots close together, left dot is darker and bigger than the right dot.
+0: lets select left darker and bigger dot
+1: Okay

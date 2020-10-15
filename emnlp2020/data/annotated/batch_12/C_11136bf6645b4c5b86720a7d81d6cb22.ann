@@ -1,0 +1,7 @@
+T1	Markable 30 36	itself
+T2	Markable 10 26	1 tiny black dot
+T3	Markable 46 67	a large dark grey dot
+T4	Markable 82 106	a smaller light grey dot
+T5	Markable 111 129	the tiny black dot
+T6	Markable 152 176	a medium sized black dot
+R1	Anaphora Arg1:T1 Arg2:T2	

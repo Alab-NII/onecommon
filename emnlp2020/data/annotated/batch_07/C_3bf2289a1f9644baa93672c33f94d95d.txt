@@ -1,0 +1,8 @@
+1: do you have one by itself towards 6 o'clock?
+0: is it small and dark grey?
+1: yes
+0: do you have a triangle of three at the top? the left one is black?
+1: yes
+0: ok then the lone dark grey one should be the one we pick
+0: did you pick the bottom lone one?
+1: no do the dark one int the triangle left

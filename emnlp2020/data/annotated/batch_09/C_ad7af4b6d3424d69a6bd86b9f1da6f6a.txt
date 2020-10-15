@@ -1,0 +1,6 @@
+0: I see three grey dots one tiny and dark grey and on top and then a lighter grey bigger one and then a dark grey biggest one on the bottom
+1: I have a pair of larger ones. One is dark grey and one is black
+0: Are the two large circles identical in size and the lighter grey one on the right of the dark grey one
+1: No, but I think I see yours. Does the dark grey one have two smaller ones above it
+0: yes!
+1: Click on darker grey

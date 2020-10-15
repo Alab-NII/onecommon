@@ -1,0 +1,5 @@
+1: do you see a medium lighter grey dot with a black dot of the same size to its left and up a little
+0: medium grey dot with a tiny grey down down and to the left a bit I do not see your dot
+1: i don't think i see your dot. does your medium grey dot have a large dark grey dot above and to the left of it?
+0: yes it does they grey dot above is darker also
+1: let's select the dark grey one

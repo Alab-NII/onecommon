@@ -1,0 +1,24 @@
+T1	Markable 47 57	each other
+T2	Markable 17 25	two dots
+T3	Markable 113 120	the one
+T4	Markable 59 66	The one
+T5	Markable 186 190	them
+T6	Markable 199 206	one dot
+T7	Markable 244 252	that one
+T8	Markable 289 301	none of mine
+T9	Markable 328 349	a very light grey dot
+T10	Markable 388 395	two dot
+T11	Markable 402 404	it
+T12	Markable 443 446	any
+T14	Markable 482 503	2 identical grey dots
+T16	Markable 663 676	a lighter one
+T17	Markable 635 657	a very small black dot
+T18	Markable 683 685	it
+T19	Markable 707 715	that one
+R1	Anaphora Arg1:T1 Arg2:T2	
+A1	No-Referent T5
+R2	Anaphora Arg1:T7 Arg2:T6	
+A2	No-Referent T8
+R3	Anaphora Arg1:T11 Arg2:T9	
+A3	No-Referent T12
+R4	Anaphora Arg1:T18 Arg2:T17	

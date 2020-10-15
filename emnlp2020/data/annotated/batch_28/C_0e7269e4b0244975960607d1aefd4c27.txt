@@ -1,0 +1,4 @@
+1: 2 black dots diagonal (slightly) to the right. the bottom is slightly smaller than the top one
+0: Yes!!
+1: pick the smallest?
+0: Let's do it

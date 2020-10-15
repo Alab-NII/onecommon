@@ -1,0 +1,5 @@
+T1	Markable 144 154	each other
+T2	Markable 165 180	the darkest one
+T3	Markable 3 17	Darkest circle
+T4	Markable 89 119	two large darkgray/ black dots
+R1	Anaphora Arg1:T1 Arg2:T4	

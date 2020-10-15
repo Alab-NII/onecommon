@@ -1,0 +1,4 @@
+0: 3 dots on almost vertical line very close together?
+1: Yes! Middle dot is light grey?
+0: yes click that middle one
+1: Okay!

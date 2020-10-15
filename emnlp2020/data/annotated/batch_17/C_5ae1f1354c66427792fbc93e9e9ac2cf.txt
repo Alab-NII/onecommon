@@ -1,0 +1,4 @@
+1: I see four dots clustered in a diamond shape
+0: Do you have a bunch of three, left one is a small black dot, top one is largest of the three and medium grey, low right is a lighter small grey dot
+1: Yes, I see those dots. Lets pick the small black dot
+0: K

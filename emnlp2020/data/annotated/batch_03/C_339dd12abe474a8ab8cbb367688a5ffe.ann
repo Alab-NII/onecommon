@@ -1,0 +1,6 @@
+T1	Markable 9 24	a big, dark dot
+T2	Markable 28 34	itself
+T3	Markable 56 58	it
+T4	Markable 96 99	one
+T5	Markable 184 196	the dark one
+R1	Anaphora Arg1:T2 Arg2:T1	

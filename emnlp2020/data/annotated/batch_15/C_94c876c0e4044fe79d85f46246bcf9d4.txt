@@ -1,0 +1,4 @@
+1: do you see the 3 dots in a row
+0: I see a big blackish one, towards center of screen
+1: does it have a smaller one to the left
+0: yes

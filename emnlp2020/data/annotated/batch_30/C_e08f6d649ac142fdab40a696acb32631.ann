@@ -1,0 +1,7 @@
+T1	Markable 36 51	large light one
+T2	Markable 74 83	that pair
+T3	Markable 97 105	the pair
+T4	Markable 180 194	that lower one
+T5	Markable 131 144	the lower one
+T6	Markable 3 11	two dots
+R1	Anaphora Arg1:T4 Arg2:T5	

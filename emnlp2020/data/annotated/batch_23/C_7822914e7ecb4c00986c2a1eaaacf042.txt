@@ -1,0 +1,4 @@
+1: I have two dots directly on top of one another, both light grey, one on top is large, bottom one is small
+0: I have that too
+1: ok, let's choose the bottom one
+0: Okay

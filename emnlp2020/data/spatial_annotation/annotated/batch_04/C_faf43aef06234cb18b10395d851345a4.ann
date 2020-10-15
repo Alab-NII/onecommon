@@ -1,0 +1,27 @@
+T1	Markable 10 21	a black dot
+T2	Markable 42 64	a larger dark gray dot
+T3	Markable 97 103	itself
+T4	Markable 136 149	a medium grey
+T5	Markable 157 170	the black one
+T6	Markable 175 190	medium gray one
+T7	Markable 250 254	that
+T8	Markable 267 280	the black one
+T9	Markable 69 81	My black dot
+R1	Anaphora Arg1:T3 Arg2:T9	
+T10	Markable 114 127	another black
+T12	Spatial-Relation 22 41	just to the left of
+T13	Spatial-Relation 44 50	larger
+R2	Obj Arg1:T13 Arg2:T1	
+T14	Spatial-Attribute 85 89	tiny
+T15	Spatial-Relation 94 96	by
+T16	Spatial-Relation 128 135	next to
+T17	Modifier 191 195	very
+T18	Spatial-Relation 196 210	close together
+A1	No-Obj T18
+T19	Modifier 223 229	almost
+T20	Spatial-Relation 230 239	same size
+A2	No-Obj T20
+R3	Subj Arg1:T20 Arg2:T10	
+R4	Subj Arg1:T20 Arg2:T4	
+#1	AnnotatorNotes T15	alone
+#2	AnnotatorNotes T12	near left

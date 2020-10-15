@@ -1,0 +1,19 @@
+T1	Markable 99 116	one big black dot
+T2	Markable 186 190	that
+T3	Markable 135 145	a triangle
+T4	Markable 201 214	no black dots
+T5	Markable 221 230	grey ones
+T6	Markable 315 325	right ones
+T7	Markable 272 282	each other
+T8	Markable 247 262	three grey dots
+T9	Markable 372 380	the dots
+T10	Markable 350 354	they
+T11	Markable 409 424	a diagonal line
+T12	Markable 450 466	the left big one
+T13	Markable 15 41	a medium grey smallish dot
+T14	Markable 53 59	others
+T15	Markable 61 68	Closest
+A1	No-Referent T4
+T16	Markable 283 291	left one
+R1	Anaphora Arg1:T7 Arg2:T8	
+T17	Markable 299 305	middle

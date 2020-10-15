@@ -1,0 +1,5 @@
+0: Do you see a large dark grey circle with two smaller circles to its left and right?
+1: smaller dark black in the middle
+0: lets click it.
+1: I see that big grey
+0: alright, big grey one then

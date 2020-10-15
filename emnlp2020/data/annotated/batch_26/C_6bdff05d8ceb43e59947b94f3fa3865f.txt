@@ -1,0 +1,5 @@
+1: i have 2 dots aligned at an angle. both greyish shades. upper left is lighter
+0: Light grey larger dot aligned farthest right
+1: is there a dark grey tiny dot on the left of that?
+0: Left and Down
+1: okay. pick the light grey dot

@@ -1,0 +1,18 @@
+T1	Markable 52 54	it
+T2	Markable 105 107	it
+T3	Markable 124 126	it
+T4	Markable 178 198	some light grey ones
+T6	Markable 225 227	it
+T7	Markable 281 283	it
+T8	Markable 334 359	lighter various size ones
+T9	Markable 460 464	them
+T10	Markable 453 456	one
+T12	Markable 403 429	two medium grey small ones
+T13	Markable 498 515	the big black one
+T14	Markable 546 554	that one
+T16	Markable 15 42	one darkest kinda large one
+T5	Markable 371 376	the's
+#1	AnnotatorNotes T5	he's
+T17	Markable 386 393	himself
+R1	Anaphora Arg1:T17 Arg2:T5	
+R2	Anaphora Arg1:T9 Arg2:T12	

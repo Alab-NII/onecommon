@@ -1,0 +1,9 @@
+T1	Markable 15 44	a large medium shade grey dot
+T2	Markable 85 97	the smallest
+T3	Markable 50 58	two dots
+T4	Markable 137 148	the smaller
+T5	Markable 171 175	mine
+T7	Markable 65 67	it
+R1	Anaphora Arg1:T7 Arg2:T1	
+T8	Markable 68 72	both
+T6	Markable 218 231	that smallest

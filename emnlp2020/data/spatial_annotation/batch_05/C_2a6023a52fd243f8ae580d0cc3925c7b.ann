@@ -1,0 +1,8 @@
+T1	Markable 61 78	a horizontal line
+T2	Markable 10 40	two very large light gray dots
+T3	Markable 94 98	that
+T4	Markable 150 180	a lighter, slightly larger dot
+T5	Markable 111 127	a small dark dot
+T6	Markable 213 231	the small dark one
+R1	Predicative Arg1:T1 Arg2:T2	
+A1	No-Referent T3

@@ -1,0 +1,4 @@
+1: Huge dark dot to the right of 2 lighter smaller ones
+0: dont see that, how about smallest black dot below and to the left of slightly larger black dot?
+1: nope. Large light gray dot above and to the left of a smaller medium gray one
+0: ok click it

@@ -1,0 +1,16 @@
+T1	Markable 9 23	one larger dot
+T2	Markable 71 73	it
+T3	Markable 81 83	it
+T4	Markable 103 109	itself
+T5	Markable 147 164	smaller light dot
+T6	Markable 180 182	it
+T7	Markable 197 205	that one
+T8	Markable 231 253	the larger darkest one
+T9	Markable 44 58	all the others
+T10	None 29 31	us
+#1	AnnotatorNotes T10	is
+R1	Anaphora Arg1:T2 Arg2:T1	
+R2	Anaphora Arg1:T4 Arg2:T3	
+T11	Markable 114 116	It
+R3	Anaphora Arg1:T6 Arg2:T11	
+A1	No-Referent T7

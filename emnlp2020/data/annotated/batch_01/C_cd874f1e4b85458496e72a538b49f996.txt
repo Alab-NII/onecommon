@@ -1,0 +1,6 @@
+1: i see two large dark grey dots near each other
+0: I have a large black dot drifting alone. I see those too! The larger is to the left and lower
+1: for me those are the same size, not one larger than the other. how about two really light grey dots near each other, horizontally almost.
+0: Yes but one seems slightly bigger, but very small difference. the bigger one seems to be the one to the left
+1: yeah, lets pick the one on the right
+0: ok

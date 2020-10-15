@@ -1,0 +1,9 @@
+1: 1 small black dot with a tiny grey to the left and two grey dots above it
+0: I have a very large medium grey dot?
+1: do you have a black dot at all? where is it in relation to the large med grey? I have two large grey ones that are like, in a vertical line across my circle
+0: Yes I see that and the large is above all of them?
+1: the large on the left is above a trio of small dots, 1 black, 2 light grey?
+1: sent a blank message, its annoying you cant respond twice lol
+0: Right! Sorry! Yes I can see that which one would you want to choose?
+1: the large dark grey i guess?
+0: sounds good thanks!

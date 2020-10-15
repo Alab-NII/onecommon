@@ -1,0 +1,4 @@
+1: I have one very small black dot
+0: I do not. do you have a black and dark grey dot next to each other? both medium sized
+1: Yes, the dark gray one is above and to the left of the black one
+0: ok, let's pick the dark grey one

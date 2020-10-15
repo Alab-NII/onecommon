@@ -1,0 +1,17 @@
+T1	Markable 71 87	a light gray dot
+T2	Markable 104 106	it
+T3	Markable 123 126	one
+T4	Markable 132 144	my large dot
+T5	Markable 199 207	that one
+T6	Markable 3 21	Large med gray dot
+T7	Markable 27 49	very dark smallest dot
+A1	No-Referent T3
+T8	Spatial-Relation 22 26	with
+T9	Spatial-Relation 37 45	smallest
+A2	No-Obj T9
+T10	Spatial-Relation 50 57	to left
+R1	Obj Arg1:T10 Arg2:T6	
+T11	Spatial-Relation 88 103	to the right of
+T12	Spatial-Relation 148 178	close to the edge of my circle
+A3	No-Obj T12
+#1	AnnotatorNotes T12	outside

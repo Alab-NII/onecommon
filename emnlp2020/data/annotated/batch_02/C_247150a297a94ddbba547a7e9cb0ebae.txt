@@ -1,0 +1,4 @@
+0: Do you have two black dots with a light gray between them vertically?
+1: Yes, I do. Which dot would you like to select? Light gray?
+0: yes, light gray
+1: Ok

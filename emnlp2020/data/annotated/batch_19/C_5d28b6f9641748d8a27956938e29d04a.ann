@@ -1,0 +1,11 @@
+T1	Markable 10 16	4 dots
+T2	Markable 20 29	a cluster
+T3	Markable 75 89	the middle one
+T4	Markable 119 121	it
+T5	Markable 143 157	the middle one
+R1	Predicative Arg1:T2 Arg2:T1	
+T6	Markable 31 34	all
+R2	Anaphora Arg1:T6 Arg2:T1	
+T7	Markable 65 66	3
+T8	Markable 105 110	the 2
+R3	Anaphora Arg1:T4 Arg2:T3	

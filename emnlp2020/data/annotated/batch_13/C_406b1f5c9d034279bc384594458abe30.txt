@@ -1,0 +1,6 @@
+0: I have a triangle of 3 grey dots.,
+1: do not see that. I do see a gray dot and lower and right i see a smaller lighter grey dot
+0: Ok. That is probably 2 of the 3 dots from my triangle maybe. Is there a black dot directly below your grey dot far to south?
+1: yes!
+0: Ok. Click the black dot
+1: okay will do

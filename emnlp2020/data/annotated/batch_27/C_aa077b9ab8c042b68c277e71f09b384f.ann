@@ -1,0 +1,6 @@
+T1	Markable 56 58	it
+T2	Markable 138 161	the very light gray one
+T3	Markable 3 31	very light grey, medium size
+R1	Anaphora Arg1:T1 Arg2:T3	
+T4	Markable 69 90	same size darker grey
+T5	Markable 115 119	that

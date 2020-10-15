@@ -1,0 +1,5 @@
+1: cluster of 3 dots forming triangle with 2 smaller black dots. 1 large grey dot
+0: I have a huge black dot with three small dots just below it, one to the left is light grey and two darker ones to the right
+1: does your huge black dot have a smaller black dot at its 4?
+0: yes
+1: pick the huge black dot
