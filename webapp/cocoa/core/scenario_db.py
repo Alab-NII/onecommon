@@ -1,6 +1,6 @@
 def add_scenario_arguments(parser):
-    parser.add_argument('--schema-path', help='Input path that describes the schema of the domain')
-    parser.add_argument('--scenarios-path', help='Output path for the scenarios generated')
+    parser.add_argument('--schema_path', help='Input path that describes the schema of the domain')
+    parser.add_argument('--scenarios_path', help='Output path for the scenarios generated')
 
 class Scenario(object):
     '''

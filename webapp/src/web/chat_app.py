@@ -177,8 +177,8 @@ def init(output_dir, reuse=False):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--num-scenarios', type=int)
-    parser.add_argument('--visualize-transcripts', type=str, default='data/final_transcripts.json')
+    parser.add_argument('--num_scenarios', type=int)
+    parser.add_argument('--visualize_transcripts', type=str, default='data/final_transcripts.json')
     parser.add_argument('--markable_annotation', type=str, default='data/markable_annotation.json')
     parser.add_argument('--batch_info', type=str, default='data/batch_info.json')
     parser.add_argument('--referent_annotation', type=str, default='data/referent_annotation.json')
